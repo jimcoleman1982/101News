@@ -28,9 +28,12 @@ from bs4 import BeautifulSoup
 
 # --- Configuration ---
 DENVER_TZ = ZoneInfo("America/Denver")
-MAX_CANDIDATES = 15  # gather this many before curation (lower since we pick 1)
+MAX_CANDIDATES = 25  # gather this many before curation
+MAX_STORIES_PER_RUN = 4  # select up to this many new stories per run
+MIN_STORIES_PER_DAY = 12  # aim for at least this many stories per day
+MAX_STORIES_PER_DAY = 20  # never exceed this many stories per day
 ARTICLE_TEXT_LIMIT = 3000  # chars per article
-ANTHROPIC_MAX_TOKENS = 4000  # hard cap on output tokens
+ANTHROPIC_MAX_TOKENS = 8000  # hard cap on output tokens (higher for multi-story output)
 ANTHROPIC_MODEL = "claude-sonnet-4-6"
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
 SITE_URL = "https://jimcoleman1982.github.io/daily-briefing"
@@ -648,13 +651,13 @@ def fetch_articles(stories):
     return stories
 
 
-# --- Claude API for single story selection ---
+# --- Claude API for story selection ---
 
 SYSTEM_PROMPT = """You are the editor-in-chief of The Daily Briefing, a national and world news digest. You select and summarize the most important stories. Write factual, detailed summaries in clean newspaper style. Present stories without political bias. When covering politically divisive topics, include perspectives from both sides. No editorializing, no emojis. Categories: politics, world, business, technology, science_health, other."""
 
 
-def build_prompt(stories, target_date_str, existing_headlines=None):
-    """Build the prompt for selecting and summarizing the single best new story."""
+def build_prompt(stories, target_date_str, num_to_select, existing_headlines=None):
+    """Build the prompt for selecting and summarizing multiple new stories."""
     story_blocks = []
     for i, story in enumerate(stories, 1):
         block = f"""[CANDIDATE {i}]
@@ -687,14 +690,16 @@ STORIES FROM PREVIOUS DAYS (avoid repeating unless major new development):
 
     return f"""Date: {target_date_str}. Below are {len(stories)} candidate national/world news stories.
 
-YOUR TASK: Select the SINGLE most important, newsworthy story that has NOT already been covered today. This is a breaking news wire -- we want the biggest developing story right now.
+YOUR TASK: Select the {num_to_select} most important, newsworthy stories that have NOT already been covered today. This is a breaking news wire -- we want the biggest developing stories right now.
 
 Selection criteria:
-- Choose the story with the most national or global significance
+- Choose stories with the most national or global significance
 - Prefer breaking or developing stories over routine news
+- Aim for variety across categories (politics, world, business, technology, science/health, other)
 - Ensure political neutrality: do not favor stories from one political perspective
-- When the story involves a politically divisive topic, the summary MUST include perspectives from both sides
-- CRITICAL: Do NOT select a story already covered today (see list below)
+- When a story involves a politically divisive topic, the summary MUST include perspectives from both sides
+- CRITICAL: Do NOT select stories already covered today (see list below)
+- If two candidates cover the same event, pick the one with better sourcing -- do not include both
 {dedup_block}
 {prev_block}
 
@@ -702,14 +707,14 @@ Selection criteria:
 
 ---
 
-Return a single JSON object with:
+Return a JSON array of up to {num_to_select} stories. For each story:
 - "category": one of "politics", "world", "business", "technology", "science_health", or "other"
 - "headline": clear, factual headline
 - "summary": 3-4 paragraphs, each 2-4 sentences. Use \\n\\n between paragraphs. Cover what happened, who is involved, why it matters. If politically divisive, include both sides.
 - "source": publication name
 - "url": direct link to the original article
 
-Return ONLY the JSON object, no other text."""
+Return ONLY the JSON array, no other text."""
 
 
 def _try_parse_json(text):
@@ -750,16 +755,39 @@ def _try_parse_json(text):
     return None
 
 
-def call_anthropic_single_story(stories, target_date_str, existing_headlines=None):
-    """Send candidates to Anthropic and get the single best new story back."""
+def determine_stories_needed(existing_count):
+    """Decide how many new stories to select based on how many we already have today."""
+    remaining_runs_estimate = 3  # rough average of remaining runs in a day
+    remaining_capacity = MAX_STORIES_PER_DAY - existing_count
+    if remaining_capacity <= 0:
+        return 0
+    # If we're behind pace for MIN_STORIES_PER_DAY, be more aggressive
+    if existing_count < 4:
+        return min(MAX_STORIES_PER_RUN, remaining_capacity, 4)
+    if existing_count < MIN_STORIES_PER_DAY:
+        # Try to catch up
+        needed = MIN_STORIES_PER_DAY - existing_count
+        per_run = max(2, min(MAX_STORIES_PER_RUN, needed // max(1, remaining_runs_estimate) + 1))
+        return min(per_run, remaining_capacity)
+    # Already at or above minimum, still add a couple if room
+    return min(2, remaining_capacity)
+
+
+def call_anthropic_stories(stories, target_date_str, num_to_select, existing_headlines=None):
+    """Send candidates to Anthropic and get multiple curated stories back."""
     global anthropic_call_count
 
+    if num_to_select <= 0:
+        print("  Already at daily story cap. Skipping story selection.")
+        return []
+
     client = anthropic.Anthropic()
-    user_prompt = build_prompt(stories, target_date_str, existing_headlines)
+    user_prompt = build_prompt(stories, target_date_str, num_to_select, existing_headlines)
 
     print(f"\n--- Anthropic API Call (Story Selection) ---")
     print(f"  Model: {ANTHROPIC_MODEL}")
     print(f"  Candidates sent: {len(stories)}")
+    print(f"  Selecting up to: {num_to_select} stories")
 
     anthropic_call_count += 1
     if anthropic_call_count > MAX_ANTHROPIC_CALLS_PER_RUN:
@@ -797,11 +825,17 @@ def call_anthropic_single_story(stories, target_date_str, existing_headlines=Non
     raw_text = response.content[0].text
     parsed = _try_parse_json(raw_text)
 
-    if parsed and isinstance(parsed, dict) and "headline" in parsed:
-        return parsed
+    if parsed:
+        # Handle both single object and array responses
+        if isinstance(parsed, dict) and "headline" in parsed:
+            return [parsed]
+        if isinstance(parsed, list):
+            # Validate each item has required fields
+            valid = [s for s in parsed if isinstance(s, dict) and "headline" in s]
+            return valid[:num_to_select]
 
     print(f"  Failed to parse story JSON. Raw: {raw_text[:300]}")
-    return None
+    return []
 
 
 # --- Top Story (National and International) ---
@@ -1190,9 +1224,9 @@ def fetch_top_stories(brave_key, target_date_str):
     return national_result, intl_result
 
 
-def write_output(existing_data, new_story, date_str, date_formatted,
+def write_output(existing_data, new_stories, date_str, date_formatted,
                  top_national=None, top_international=None):
-    """Write/update the JSON data file. Prepends new story to existing stories."""
+    """Write/update the JSON data file. Prepends new stories to existing stories."""
     if existing_data:
         output = existing_data
     else:
@@ -1202,16 +1236,20 @@ def write_output(existing_data, new_story, date_str, date_formatted,
             "stories": [],
         }
 
-    # Add timestamp to new story
+    # Add timestamps to new stories and prepend (newest first)
     now = datetime.datetime.now(DENVER_TZ)
     time_label = now.strftime("%-I:%M %p MT")
     iso_label = now.isoformat()
 
-    if new_story:
-        new_story["addedAt"] = time_label
-        new_story["addedAtISO"] = iso_label
-        # Prepend (newest first)
-        output["stories"].insert(0, new_story)
+    if new_stories:
+        for story in reversed(new_stories):
+            story["addedAt"] = time_label
+            story["addedAtISO"] = iso_label
+            output["stories"].insert(0, story)
+
+    # Enforce max stories per day
+    if len(output["stories"]) > MAX_STORIES_PER_DAY:
+        output["stories"] = output["stories"][:MAX_STORIES_PER_DAY]
 
     # Update top stories (they can change throughout the day)
     if top_national:
@@ -1304,8 +1342,13 @@ def main():
         print("WARNING: No search results found")
         # Still try top stories even if main search fails
 
+    # Determine how many stories we need this run
+    existing_story_count = len(existing_data.get("stories", [])) if existing_data else 0
+    num_to_select = determine_stories_needed(existing_story_count)
+    print(f"  Stories today so far: {existing_story_count}, selecting up to: {num_to_select}")
+
     # Step 2: Deduplicate, rank, and filter
-    new_story = None
+    new_stories = []
     if raw_results:
         print("\n[Step 2] Deduplicating and ranking stories...")
         top_stories = deduplicate_and_rank(raw_results, existing_headlines)
@@ -1320,17 +1363,19 @@ def main():
         # Step 3: Fetch article content
         if top_stories:
             print("\n[Step 3] Fetching article content...")
-            stories_with_text = fetch_articles(top_stories[:10])  # top 10 is enough for single selection
+            stories_with_text = fetch_articles(top_stories[:15])
 
-            # Step 4: Select and summarize the single best story
-            print(f"\n[Step 4] Selecting best new story via Anthropic...")
-            new_story = call_anthropic_single_story(
-                stories_with_text, target_date_str, existing_headlines
+            # Step 4: Select and summarize stories
+            print(f"\n[Step 4] Selecting {num_to_select} stories via Anthropic...")
+            new_stories = call_anthropic_stories(
+                stories_with_text, target_date_str, num_to_select, existing_headlines
             )
-            if new_story:
-                print(f"  Selected: [{new_story.get('category', '?')}] {new_story['headline'][:70]}")
+            if new_stories:
+                for s in new_stories:
+                    print(f"  Selected: [{s.get('category', '?')}] {s['headline'][:70]}")
+                print(f"  Total new stories: {len(new_stories)}")
             else:
-                print("  No new story selected")
+                print("  No new stories selected")
         else:
             print("  No candidates after filtering")
 
@@ -1347,13 +1392,13 @@ def main():
         print("  Top international: skipped (failed)")
 
     # Step 6: Write output
-    if not new_story and not top_national and not top_international:
+    if not new_stories and not top_national and not top_international:
         print("\nNo new content to add. Exiting.")
         sys.exit(0)
 
     print("\n[Step 6] Writing JSON output...")
     filepath = write_output(
-        existing_data, new_story, target_date_str, target_formatted,
+        existing_data, new_stories, target_date_str, target_formatted,
         top_national=top_national, top_international=top_international,
     )
 
