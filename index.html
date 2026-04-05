@@ -236,15 +236,20 @@
         }
 
         .story-meta {
-            display: flex;
+            display: none;
             align-items: center;
-            gap: 10px;
-            margin-top: 2px;
+            flex-wrap: wrap;
+            gap: 6px 8px;
+            margin-top: 4px;
             margin-left: 18px;
         }
 
+        .story-item.open > .story-meta {
+            display: flex;
+        }
+
         .story-timestamp {
-            font-size: 0.72em;
+            font-size: 0.62em;
             font-weight: 700;
             letter-spacing: 0.06em;
             color: #8b1a1a;
@@ -252,18 +257,18 @@
         }
 
         .story-category-tag {
-            font-size: 0.62em;
+            font-size: 0.55em;
             font-weight: 700;
             letter-spacing: 0.08em;
             color: #888;
             text-transform: uppercase;
-            padding: 1px 6px;
+            padding: 1px 5px;
             border: 1px solid #ccc;
             background: #f9f6ee;
         }
 
         .story-source-label {
-            font-size: 0.72em;
+            font-size: 0.62em;
             font-weight: 700;
             letter-spacing: 0.06em;
             color: #999;
@@ -271,13 +276,26 @@
         }
 
         .story-source-count {
-            font-size: 0.68em;
+            font-size: 0.55em;
             font-weight: 700;
             letter-spacing: 0.04em;
             color: #666;
-            padding: 1px 6px;
+            padding: 1px 5px;
             border: 1px solid #bbb;
             background: #eee8d5;
+        }
+
+        .story-teaser {
+            display: none;
+            margin: 6px 0 0 18px;
+            font-size: 0.88em;
+            color: #555;
+            font-style: italic;
+            line-height: 1.5;
+        }
+
+        .story-item.open > .story-teaser {
+            display: block;
         }
 
         /* --- Story summary (expanded) --- */
@@ -710,8 +728,14 @@
                     escapeHTML(story.source) + '</a>';
                 body.appendChild(sourceLink);
 
+                // Teaser: first sentence of the summary
+                var teaser = document.createElement('div');
+                teaser.className = 'story-teaser';
+                teaser.textContent = getFirstSentence(story.summary);
+
                 item.appendChild(headline);
                 item.appendChild(meta);
+                item.appendChild(teaser);
                 item.appendChild(body);
                 return item;
             }
