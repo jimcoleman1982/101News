@@ -485,33 +485,53 @@
                 return html;
             }
 
-            // --- Read tracking (localStorage, keyed by headline text) ---
-            // Uses a fresh key to avoid any conflicts with old data
-            var READ_KEY = 'db_read_v2';
+            // --- Read tracking (cookie-based, persists on iOS home screen apps) ---
+            // iOS aggressively wipes localStorage for home screen web apps,
+            // but cookies persist reliably. Uses short hashes to stay under 4KB.
 
-            // Clear old storage key from previous version
-            try { localStorage.removeItem('dailybriefing_read'); } catch(e) {}
+            function hashStr(str) {
+                var h = 0;
+                for (var i = 0; i < str.length; i++) {
+                    h = ((h << 5) - h) + str.charCodeAt(i);
+                    h |= 0;
+                }
+                return Math.abs(h).toString(36);
+            }
 
             function getReadSet() {
-                try {
-                    return JSON.parse(localStorage.getItem(READ_KEY) || '[]');
-                } catch (e) { return []; }
+                var match = document.cookie.match(/(?:^|; )db_read=([^;]*)/);
+                if (!match) return {};
+                var obj = {};
+                var parts = decodeURIComponent(match[1]).split(',');
+                for (var i = 0; i < parts.length; i++) {
+                    if (parts[i]) obj[parts[i]] = true;
+                }
+                return obj;
+            }
+
+            function saveReadSet(readObj) {
+                var keys = Object.keys(readObj);
+                // Keep most recent 300 to stay well under 4KB cookie limit
+                if (keys.length > 300) keys = keys.slice(keys.length - 300);
+                var val = keys.join(',');
+                // Expires in 30 days
+                var d = new Date();
+                d.setTime(d.getTime() + 30 * 86400000);
+                document.cookie = 'db_read=' + encodeURIComponent(val) +
+                    ';expires=' + d.toUTCString() + ';path=/;SameSite=Lax';
             }
 
             function markRead(headline) {
-                var readList = getReadSet();
-                if (readList.indexOf(headline) === -1) {
-                    readList.push(headline);
-                    // Keep last 200 entries max
-                    if (readList.length > 200) {
-                        readList = readList.slice(readList.length - 200);
-                    }
-                    localStorage.setItem(READ_KEY, JSON.stringify(readList));
+                var h = hashStr(headline);
+                var readObj = getReadSet();
+                if (!readObj[h]) {
+                    readObj[h] = true;
+                    saveReadSet(readObj);
                 }
             }
 
             function isRead(headline) {
-                return getReadSet().indexOf(headline) !== -1;
+                return !!getReadSet()[hashStr(headline)];
             }
 
             // --- Story ---
