@@ -485,8 +485,18 @@
                 return html;
             }
 
-            // --- Read tracking (localStorage) ---
+            // --- Read tracking (localStorage, keyed by headline hash) ---
             var READ_KEY = 'dailybriefing_read';
+
+            function hashHeadline(headline) {
+                // Simple string hash -- stable across reloads, unique enough for headlines
+                var hash = 0;
+                for (var i = 0; i < headline.length; i++) {
+                    hash = ((hash << 5) - hash) + headline.charCodeAt(i);
+                    hash |= 0;
+                }
+                return 'h' + Math.abs(hash).toString(36);
+            }
 
             function getReadSet() {
                 try {
@@ -494,31 +504,40 @@
                 } catch (e) { return {}; }
             }
 
-            function markRead(storyId) {
+            function markRead(readKey) {
                 var readSet = getReadSet();
-                readSet[storyId] = true;
-                // Prune entries older than 14 days to keep storage small
-                var cutoff = new Date();
-                cutoff.setDate(cutoff.getDate() - 14);
-                var cutoffStr = cutoff.getFullYear() + '-' + String(cutoff.getMonth()+1).padStart(2,'0') + '-' + String(cutoff.getDate()).padStart(2,'0');
+                readSet[readKey] = Date.now();
+                // Prune entries older than 14 days
+                var cutoff = Date.now() - (14 * 86400000);
                 var cleaned = {};
                 for (var key in readSet) {
-                    var datePart = key.split('-').slice(0, 3).join('-');
-                    if (datePart >= cutoffStr) cleaned[key] = true;
+                    if (readSet[key] > cutoff) cleaned[key] = readSet[key];
                 }
                 localStorage.setItem(READ_KEY, JSON.stringify(cleaned));
             }
 
-            function isRead(storyId) {
-                return !!getReadSet()[storyId];
+            function isRead(readKey) {
+                return !!getReadSet()[readKey];
             }
+
+            // Migrate old index-based keys on first load (one-time cleanup)
+            (function migrateOldKeys() {
+                try {
+                    var data = JSON.parse(localStorage.getItem(READ_KEY) || '{}');
+                    var hasOld = false;
+                    for (var key in data) {
+                        if (/^\d{4}-\d{2}-\d{2}-\d+$/.test(key)) { hasOld = true; break; }
+                    }
+                    if (hasOld) { localStorage.removeItem(READ_KEY); }
+                } catch (e) {}
+            })();
 
             // --- Story ---
             function renderStory(story, dateStr, idx) {
-                var storyId = dateStr + '-' + idx;
+                var readKey = hashHeadline(story.headline);
                 var item = document.createElement('div');
-                item.className = 'story-item' + (isRead(storyId) ? ' read' : '');
-                item.id = 'story-' + storyId;
+                item.className = 'story-item' + (isRead(readKey) ? ' read' : '');
+                item.id = 'story-' + dateStr + '-' + idx;
 
                 var headline = document.createElement('div');
                 headline.className = 'story-headline';
@@ -529,7 +548,7 @@
                     item.classList.toggle('open');
                     if (!item.classList.contains('read')) {
                         item.classList.add('read');
-                        markRead(storyId);
+                        markRead(readKey);
                     }
                 });
 
