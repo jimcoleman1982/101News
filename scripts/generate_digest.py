@@ -31,7 +31,8 @@ DENVER_TZ = ZoneInfo("America/Denver")
 MAX_CANDIDATES = 25  # gather this many before curation
 MAX_STORIES_PER_RUN = 5  # select up to this many new stories per run
 MIN_STORIES_PER_DAY = 12  # aim for at least this many stories per day
-MAX_STORIES_PER_DAY = 20  # never exceed this many stories per day
+STORIES_SOFT_CAP = 25    # slow down after this many, but don't stop
+MIN_STORIES_PER_RUN = 2  # always try to add at least this many (fresh news doesn't stop)
 ARTICLE_TEXT_LIMIT = 3000  # chars per article
 ANTHROPIC_MAX_TOKENS = 8000  # hard cap on output tokens (higher for multi-story output)
 ANTHROPIC_MODEL = "claude-sonnet-4-6"
@@ -248,8 +249,8 @@ def extract_publish_date_from_url(url):
     return None
 
 
-def filter_by_publish_date(candidates, target_date_str, max_delta_days=1):
-    """Remove candidates whose URL-embedded publish date is too far from the target date."""
+def filter_by_publish_date(candidates, target_date_str, max_delta_days=0):
+    """Remove candidates whose URL-embedded publish date is not today."""
     target = datetime.date.fromisoformat(target_date_str)
     kept = []
     removed = 0
@@ -722,6 +723,7 @@ STORIES FROM PREVIOUS DAYS (avoid repeating unless major new development):
 YOUR TASK: Select the {num_to_select} most important, newsworthy stories that have NOT already been covered today. This is a breaking news wire -- we want the biggest developing stories right now.
 
 Selection criteria:
+- ONLY select stories about events that happened TODAY or are actively developing RIGHT NOW. Do NOT select stories about events from yesterday or earlier, even if they are still being covered. If an article describes something that happened "on Monday" and today is Wednesday, skip it.
 - HEAVILY PRIORITIZE stories covered by many sources. A story reported by 6+ outlets is almost certainly more important than one reported by 1-2. The "Sources covering this story" count is a strong signal of newsworthiness.
 - Choose stories with the most national or global significance
 - Prefer breaking or developing stories over routine news
@@ -787,21 +789,18 @@ def _try_parse_json(text):
 
 
 def determine_stories_needed(existing_count):
-    """Decide how many new stories to select based on how many we already have today."""
-    remaining_runs_estimate = 3  # rough average of remaining runs in a day
-    remaining_capacity = MAX_STORIES_PER_DAY - existing_count
-    if remaining_capacity <= 0:
-        return 0
-    # If we're behind pace for MIN_STORIES_PER_DAY, be more aggressive
+    """Decide how many new stories to select based on how many we already have today.
+    Always returns at least MIN_STORIES_PER_RUN -- breaking news doesn't stop."""
+    # Early in the day or behind pace: be aggressive
     if existing_count < 4:
-        return min(MAX_STORIES_PER_RUN, remaining_capacity, 4)
+        return MAX_STORIES_PER_RUN
     if existing_count < MIN_STORIES_PER_DAY:
-        # Try to catch up
-        needed = MIN_STORIES_PER_DAY - existing_count
-        per_run = max(2, min(MAX_STORIES_PER_RUN, needed // max(1, remaining_runs_estimate) + 1))
-        return min(per_run, remaining_capacity)
-    # Already at or above minimum, still add a couple if room
-    return min(2, remaining_capacity)
+        return max(MIN_STORIES_PER_RUN, MAX_STORIES_PER_RUN - 1)
+    # Past the soft cap: still add fresh stories, just fewer
+    if existing_count >= STORIES_SOFT_CAP:
+        return MIN_STORIES_PER_RUN
+    # Normal pace
+    return max(MIN_STORIES_PER_RUN, 3)
 
 
 def call_anthropic_stories(stories, target_date_str, num_to_select, existing_headlines=None):
@@ -1281,9 +1280,7 @@ def write_output(existing_data, new_stories, date_str, date_formatted):
             story["addedAtISO"] = iso_label
             output["stories"].insert(0, story)
 
-    # Enforce max stories per day
-    if len(output["stories"]) > MAX_STORIES_PER_DAY:
-        output["stories"] = output["stories"][:MAX_STORIES_PER_DAY]
+    # No hard cap -- fresh news always gets added
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     filepath = os.path.join(OUTPUT_DIR, f"{date_str}.json")
