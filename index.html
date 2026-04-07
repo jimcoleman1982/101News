@@ -148,6 +148,14 @@
             color: #ccc;
         }
 
+        .story-posted-at {
+            font-size: 0.68em;
+            color: #8b1a1a;
+            margin-left: 18px;
+            margin-top: 2px;
+            letter-spacing: 0.02em;
+        }
+
         .story-meta {
             display: none;
             align-items: center;
@@ -554,16 +562,19 @@
                     }
                 });
 
-                // Meta row: timestamp + source + source count
+                // Always-visible "Posted at" timestamp
+                var postedAt = null;
+                if (story.addedAt) {
+                    postedAt = document.createElement('div');
+                    postedAt.className = 'story-posted-at';
+                    // Strip "MT" suffix for cleaner display
+                    var timeStr = story.addedAt.replace(/ MT$/, '').replace(/ AM/, 'AM').replace(/ PM/, 'PM');
+                    postedAt.textContent = 'Posted at ' + timeStr;
+                }
+
+                // Meta row (hidden until expanded): source + source count
                 var meta = document.createElement('div');
                 meta.className = 'story-meta';
-
-                if (story.addedAt) {
-                    var ts = document.createElement('span');
-                    ts.className = 'story-timestamp';
-                    ts.textContent = story.addedAt;
-                    meta.appendChild(ts);
-                }
 
                 var srcLabel = document.createElement('span');
                 srcLabel.className = 'story-source-label';
@@ -590,6 +601,7 @@
                 body.appendChild(sourceLink);
 
                 item.appendChild(headline);
+                if (postedAt) item.appendChild(postedAt);
                 item.appendChild(meta);
                 item.appendChild(body);
                 return item;

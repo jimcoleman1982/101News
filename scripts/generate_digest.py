@@ -682,7 +682,7 @@ def fetch_articles(stories):
 SYSTEM_PROMPT = """You are the editor-in-chief of The Daily Briefing, a national and world news digest. You select and summarize the most important stories. Write factual, detailed summaries in clean newspaper style. Present stories without political bias. When covering politically divisive topics, include perspectives from both sides. No editorializing, no emojis. Categories: politics, world, business, technology, science_health, other."""
 
 
-def build_prompt(stories, target_date_str, num_to_select, existing_headlines=None):
+def build_prompt(stories, target_date_str, num_to_select, existing_headlines=None, is_first_run=False):
     """Build the prompt for selecting and summarizing multiple new stories."""
     story_blocks = []
     for i, story in enumerate(stories, 1):
@@ -723,7 +723,7 @@ STORIES FROM PREVIOUS DAYS (avoid repeating unless major new development):
 YOUR TASK: Select the {num_to_select} most important, newsworthy stories that have NOT already been covered today. This is a breaking news wire -- we want the biggest developing stories right now.
 
 Selection criteria:
-- ONLY select stories about events that happened TODAY or are actively developing RIGHT NOW. Do NOT select stories about events from yesterday or earlier, even if they are still being covered. If an article describes something that happened "on Monday" and today is Wednesday, skip it.
+- {"ONLY select stories about events from the LAST 12 HOURS or actively developing RIGHT NOW. This is the first run of the day, so include important stories from late last night that have not been covered yet." if is_first_run else "ONLY select stories about events that happened TODAY or are actively developing RIGHT NOW. Do NOT select stories about events from yesterday or earlier, even if they are still being covered. If an article describes something that happened days ago, skip it."}
 - HEAVILY PRIORITIZE stories covered by many sources. A story reported by 6+ outlets is almost certainly more important than one reported by 1-2. The "Sources covering this story" count is a strong signal of newsworthiness.
 - Choose stories with the most national or global significance
 - Prefer breaking or developing stories over routine news
@@ -803,7 +803,7 @@ def determine_stories_needed(existing_count):
     return max(MIN_STORIES_PER_RUN, 3)
 
 
-def call_anthropic_stories(stories, target_date_str, num_to_select, existing_headlines=None):
+def call_anthropic_stories(stories, target_date_str, num_to_select, existing_headlines=None, is_first_run=False):
     """Send candidates to Anthropic and get multiple curated stories back."""
     global anthropic_call_count
 
@@ -812,7 +812,7 @@ def call_anthropic_stories(stories, target_date_str, num_to_select, existing_hea
         return []
 
     client = anthropic.Anthropic()
-    user_prompt = build_prompt(stories, target_date_str, num_to_select, existing_headlines)
+    user_prompt = build_prompt(stories, target_date_str, num_to_select, existing_headlines, is_first_run=is_first_run)
 
     print(f"\n--- Anthropic API Call (Story Selection) ---")
     print(f"  Model: {ANTHROPIC_MODEL}")
@@ -1390,8 +1390,12 @@ def main():
 
             # Step 4: Select and summarize stories
             print(f"\n[Step 4] Selecting {num_to_select} stories via Anthropic...")
+            first_run = existing_story_count == 0
+            if first_run:
+                print("  First run of the day -- expanding window to last 12 hours")
             new_stories = call_anthropic_stories(
-                stories_with_text, target_date_str, num_to_select, existing_headlines
+                stories_with_text, target_date_str, num_to_select, existing_headlines,
+                is_first_run=first_run,
             )
             if new_stories:
                 for s in new_stories:
