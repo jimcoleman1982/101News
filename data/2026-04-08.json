@@ -4,6 +4,36 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Iran War Reshapes Global Economy and Politics as Ceasefire Holds Tenuously",
+      "summary": "The U.S.-Iran war and its two-week ceasefire have sent shockwaves across the global economy and international political landscape, with effects now rippling through Europe and beyond. Analysts note the conflict has damaged economies, roiled domestic politics in multiple countries, and exposed the limited options available to world leaders in responding to President Trump's policy decisions.\n\nThe economic disruption is broad and accelerating. Physical oil prices near $150 a barrel, combined with the ongoing Strait of Hormuz closure, are straining energy-dependent economies worldwide and forcing governments to weigh costly contingency measures. Dubai's tourism and business sectors have been significantly damaged by the regional conflict, with thousands of businesses facing prolonged uncertainty.\n\nPolitically, the episode has prompted a reassessment of U.S. alliances and reliability as a partner, with Trump and Secretary of State Rubio confronting allied nations that declined to participate in the military operation. European capitals are grappling with the implications of reduced predictability in American foreign policy at a moment when energy security and regional stability are already under pressure.\n\nDefense Secretary Hegseth declared victory in the Iran operation Wednesday, repeatedly referring to the military campaign in the past tense, while also confirming U.S. forces will remain in the region. The declaration signals the administration views the military phase as complete, though the path to a lasting settlement remains unclear ahead of scheduled ceasefire talks in Islamabad.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/ca/section/world",
+      "sourceCount": 8,
+      "addedAt": "1:38 PM MT",
+      "addedAtISO": "2026-04-08T13:38:40.363617-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Hegseth Declares U.S. Victory in Iran, Says Forces Will Remain in Region",
+      "summary": "Defense Secretary Pete Hegseth on Wednesday formally declared victory in the U.S. military operation against Iran, using past tense repeatedly when describing the campaign, signaling the administration considers active combat operations concluded. He nonetheless confirmed that American forces will maintain a significant presence in the broader Middle East region during the ongoing ceasefire period.\n\nThe declaration comes as a two-week ceasefire between Washington and Tehran remains in effect, with diplomatic talks scheduled in Islamabad, Pakistan. Iran has issued a 10-point list of demands to the United States ahead of those negotiations, and Iranian officials have warned the ceasefire could collapse if U.S. and Israeli military actions in the region continue.\n\nCritics, including more than 85 House Democrats who have called for Trump's removal, argue the administration lacks a coherent post-war strategy despite the declared victory. Republican supporters contend the military operation achieved its stated objectives and that maintaining a regional presence is a prudent deterrent while diplomacy unfolds.\n\nHegseth's statement adds to a fast-moving diplomatic environment in which allies are being pressed to align with the U.S. position and Iran is testing the boundaries of the ceasefire agreement before formal negotiations begin.",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/04/08/hegseth-declares-victory-iran-00863487",
+      "sourceCount": 1,
+      "addedAt": "1:38 PM MT",
+      "addedAtISO": "2026-04-08T13:38:40.363617-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "California Moves to Establish Broad AI Regulation, Likely Setting De Facto National Standard",
+      "summary": "California is advancing a multipronged regulatory approach to artificial intelligence that analysts say will effectively function as a national standard, even as the White House pursues efforts to limit state-level AI regulation. Because major AI companies operate nationally and in many cases globally, compliance with California's framework would require industry-wide adjustments that extend well beyond the state's borders.\n\nThe development highlights a growing tension between federal and state authority over technology governance. The Trump administration has signaled it wants to preempt state AI rules in favor of a unified federal approach, but that effort faces rising skepticism from key Democrats, reducing the prospects for comprehensive national AI legislation in the current Congress.\n\nProponents of state-level regulation argue that California's rules provide consumer protections and accountability measures that the federal government has so far failed to enact. Opponents contend that a patchwork of state laws creates compliance burdens for businesses and could slow AI development at a time when the United States is competing with China for dominance in the sector.\n\nThe outcome of California's regulatory push carries significant implications for the broader AI industry, with companies likely to treat the state's standards as a baseline for product development and deployment across the country.",
+      "source": "Axios",
+      "url": "https://www.axios.com/",
+      "sourceCount": 14,
+      "addedAt": "1:38 PM MT",
+      "addedAtISO": "2026-04-08T13:38:40.363617-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Trump, Rubio Confront Allies Over Absence During Iran Operation as Post-War Diplomacy Begins",
       "summary": "President Trump and Secretary of State Marco Rubio have begun directly confronting U.S. allies who declined to participate in or support the military operation against Iran, with administration officials characterizing the diplomatic pushback as a reckoning for nations that were not present when needed. The confrontations mark a new phase of post-conflict diplomacy as the two-week ceasefire takes hold and negotiations are set to begin in Islamabad.\n\nThe tensions reflect a broader rift between Washington and several European and regional partners who either withheld support or publicly criticized the military campaign. Trump administration officials have signaled that the absence of allied backing will have consequences for future security arrangements and burden-sharing agreements.\n\nIran, meanwhile, has issued a 10-point list of demands to the United States as a condition for substantive ceasefire negotiations, raising early questions about whether the Islamabad talks will produce a durable agreement. Iranian authorities have publicly characterized the truce as a strategic victory, though analysts note the country emerges from the conflict with a severely damaged economy and diminished regional standing.\n\nDefense Secretary Pete Hegseth separately declared victory in the Iran operation, repeatedly referring to U.S. military action in the past tense, while confirming that American forces would remain in the region. The combination of allied friction, Iranian demands, and ongoing U.S. military presence sets a complex backdrop for the opening of formal negotiations later this week.",
       "source": "Axios",
