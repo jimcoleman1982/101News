@@ -4,6 +4,36 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Russia Deploys Ministers to Flood-Stricken Dagestan as Death Toll Rises to Six",
+      "summary": "Three Russian government ministers traveled to the Caucasus region of Dagestan on Thursday to oversee emergency response efforts following severe flooding that has killed at least six people and forced the evacuation of thousands of residents, according to the Interfax news agency. The floods have submerged communities across the region, prompting a large-scale federal response.\n\nThe deployment of senior ministers signals the gravity of the disaster, with local authorities overwhelmed by the scale of flooding. Evacuation operations are ongoing as emergency crews work to reach stranded residents in inundated areas.\n\nDagestan, located in Russia's North Caucasus, is a densely populated and geographically complex region bordering the Caspian Sea. Flood events in the area can be particularly destructive due to the terrain and limited infrastructure in rural communities.\n\nThe flooding adds to a series of natural disasters affecting Russia in early 2026. No international assistance has been reported as requested at this time, and Russian federal authorities have indicated they are coordinating relief efforts domestically.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/trumps-abrupt-iran-reversal-exposes-limits-his-leverage-2026-04-08/",
+      "sourceCount": 1,
+      "addedAt": "1:22 PM MT",
+      "addedAtISO": "2026-04-09T13:22:12.977595-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Pakistan Faces Intense Diplomatic Pressure Ahead of U.S.-Iran Islamabad Talks",
+      "summary": "Pakistan is under significant international pressure to broker a durable peace agreement between the United States and Iran as both sides prepare for negotiations in Islamabad beginning Friday, according to reporting aggregated across multiple outlets. Some diplomats have privately described the task as \"mission impossible,\" given that the two parties do not fully agree on the terms of the existing two-week ceasefire.\n\nThe talks come as the fragile truce shows signs of strain. Iran has insisted that Lebanon is covered under the ceasefire agreement, while the United States and Israel have stated explicitly that Lebanon is not included, creating a central point of contention that threatens to derail negotiations before they formally begin.\n\nPresident Trump reinforced pressure on Iran Thursday, posting on Truth Social that U.S. military forces would remain in place around Iran until the ceasefire terms are \"fully complied with,\" adding that renewed military action would be \"bigger, and better, and stronger than anyone has ever seen before\" if the deal collapsed. Iran's paramilitary Revolutionary Guard has not confirmed whether sea mines placed in the Strait of Hormuz have been cleared, further complicating any return to normal shipping traffic.\n\nPakistan's role as host and potential mediator carries both diplomatic opportunity and considerable risk. Failure to produce a lasting framework could destabilize the region further, while a successful agreement could cement Islamabad's standing as a key intermediary in major power conflicts.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/live/iran-war-israel-trump-04-08-2026",
+      "sourceCount": 1,
+      "addedAt": "1:22 PM MT",
+      "addedAtISO": "2026-04-09T13:22:12.977595-06:00"
+    },
+    {
+      "category": "business",
+      "headline": "SiFive Raises $400 Million from Nvidia and Atreides for Data-Center Chip Technology",
+      "summary": "Chip design company SiFive has secured $400 million in new funding from Nvidia and investment firm Atreides Management to accelerate development of its data-center chip technology, according to reports aggregated by multiple financial and technology news outlets. The funding round marks a significant vote of confidence in SiFive's approach to processor architecture for AI and high-performance computing workloads.\n\nSiFive is known for its work on RISC-V, an open-source chip instruction set architecture that has gained traction as an alternative to the dominant ARM and x86 architectures. The company's technology is viewed by some industry analysts as a potential pathway to reducing dependence on proprietary chip designs as demand for AI computing infrastructure surges.\n\nNvidia's participation is notable given that the company is itself a leading chipmaker and a direct competitor in certain segments of the data-center market. The investment may reflect Nvidia's broader strategy of backing enabling technologies across the semiconductor ecosystem rather than viewing all chip developments as competitive threats.\n\nThe fundraise comes amid an intensifying race among technology companies to secure AI chip supply and develop next-generation computing infrastructure. Data-center investment has accelerated sharply in 2025 and 2026 as major cloud providers and AI developers compete to build out capacity.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/ai",
+      "sourceCount": 1,
+      "addedAt": "1:22 PM MT",
+      "addedAtISO": "2026-04-09T13:22:12.977595-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Vance Heads to Islamabad as Iran Peace Talks Begin Amid Ceasefire Fragility",
       "summary": "Vice President JD Vance is leading a diplomatic delegation to Pakistan for high-stakes negotiations aimed at converting the fragile two-week U.S.-Iran ceasefire into a lasting peace agreement. President Trump told NBC News Thursday he is \"very optimistic\" a permanent deal is within reach, while maintaining pressure on Tehran by warning on Truth Social that military action would resume \"bigger, and better, and stronger than anyone has ever seen before\" if the ceasefire collapses.\n\nThe talks face significant headwinds. Iran has called U.S. ceasefire terms \"unreasonable\" and accused the Trump administration of major violations, while the Strait of Hormuz remains closed to tanker traffic. Semiofficial Iranian news agencies published a chart Thursday showing the Revolutionary Guard's alleged sea mine placements in the strait, a move analysts interpreted as a pressure tactic ahead of negotiations.\n\nDemocratic governors including Maryland's Wes Moore and potential 2028 presidential contenders used Thursday's National Action Network conference in New York to question the administration's war rationale. Moore, an Army veteran, warned the U.S. risks \"walking into the same trap\" as Afghanistan. Illinois Gov. J.B. Pritzker separately signaled he would be \"more involved than ever before\" in the 2028 presidential race.\n\nPakistan faces enormous diplomatic pressure as host of the talks, with some observers describing its task as \"mission impossible.\" China, Iran's largest trading partner, quietly worked to facilitate the ceasefire agreement, according to officials briefed on the matter, highlighting Beijing's growing influence in Middle Eastern affairs and its stake in avoiding a broader conflict.",
       "source": "NBC News",
