@@ -3,6 +3,36 @@
   "dateFormatted": "Friday, April 10, 2026",
   "stories": [
     {
+      "category": "other",
+      "headline": "Joel Embiid Undergoes Emergency Appendectomy, Sixers Lose to Rockets 113-102",
+      "summary": "Philadelphia 76ers center Joel Embiid underwent an emergency appendectomy in Houston on Thursday after being stricken with appendicitis overnight, leaving him indefinitely sidelined at a critical point in the NBA season. The Sixers, already fighting for a playoff spot, fell to the Houston Rockets 113-102 without their franchise player.\n\nKevin Durant led Houston with 29 points as the Rockets extended their winning streak to eight games and have clinched a postseason berth. Jabari Smith Jr. and Amen Thompson each added 19 points for Houston, which led by as many as 23 before Philadelphia mounted a fourth-quarter rally that fell short.\n\nTyprese Maxey scored 23 points for Philadelphia and VJ Edgecombe added 21, but the Sixers dropped their third consecutive game and fell into a tie with Charlotte for eighth place in the Eastern Conference. The loss raises serious questions about Philadelphia's playoff viability with Embiid's return timeline uncertain.\n\nThe Rockets are contending with Denver and the Los Angeles Lakers for seeding in the Western Conference playoffs, while the Sixers face Indiana on Friday night in a pivotal contest without their All-Star center.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/rockets-76ers-score-dd90139e15a396477eb179657c6e4c93",
+      "sourceCount": 1,
+      "addedAt": "1:07 PM MT",
+      "addedAtISO": "2026-04-10T13:07:33.426668-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Campaign and Congressional Security Spending Has Jumped Fivefold Over Past Decade, New Report Finds",
+      "summary": "Security spending for congressional and presidential campaigns has increased fivefold over the past decade, according to a report released Thursday, as an increasingly hostile political environment has produced escalating threats against public officials ranging from doxing to assassination plots.\n\nThe report highlights a dramatic shift in how American politicians and their campaigns must allocate resources, with a growing share of fundraising dollars now directed toward personal protection rather than political outreach or advertising. The trend spans both parties and all levels of federal elected office.\n\nThe findings come amid what the New York Times has separately described as a crisis-level surge in threats against state judges, underscoring a broader pattern of political violence and intimidation that security experts say has accelerated significantly in recent years.\n\nLawmakers and campaign finance watchdogs have raised concerns about whether existing disclosure rules adequately capture the full scope of security-related expenditures and whether public funds should be made available to help protect elected officials and candidates who face credible threats.",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/politics",
+      "sourceCount": 1,
+      "addedAt": "1:07 PM MT",
+      "addedAtISO": "2026-04-10T13:07:33.426668-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Maine on Track to Become First State to Impose Moratorium on Large Data Centers",
+      "summary": "Maine is moving toward becoming the first state in the United States to enact a moratorium on large data centers, according to reporting from multiple outlets. The push reflects a broader wave of local and state-level resistance to the rapid expansion of data center infrastructure driven by surging demand for artificial intelligence computing power.\n\nLocal communities across the country stalled approximately $160 billion worth of data center projects last year, citing concerns about energy consumption, water usage, noise, and strain on local power grids. Maine's prospective moratorium would represent the most sweeping regulatory action yet taken by any state government against the industry.\n\nData center developers and technology companies argue that such facilities are essential for economic growth and for maintaining U.S. competitiveness in artificial intelligence. Critics, including environmental groups and local residents, contend that the facilities consume enormous quantities of electricity and water while providing relatively few local jobs.\n\nThe development adds to a growing national debate over how states and municipalities should manage the infrastructure buildout accompanying the AI boom, as energy grids face unprecedented strain and communities weigh economic benefits against environmental and quality-of-life costs.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/",
+      "sourceCount": 18,
+      "addedAt": "1:07 PM MT",
+      "addedAtISO": "2026-04-10T13:07:33.426668-06:00"
+    },
+    {
       "category": "world",
       "headline": "European Airports Warn of Fuel Shortages as Hormuz Closure Enters Critical Phase",
       "summary": "The trade body representing European airports has warned that if the Strait of Hormuz does not reopen within three weeks, aviation fuel shortages could materialize across the continent. The warning underscores the widening economic fallout from the U.S.-Iran conflict, with energy prices already elevated roughly 50 percent above pre-war levels and Asian nations among the hardest hit given their heavy dependence on Gulf crude.\n\nBBC Business reporting highlights that the surge in pump prices tied to the Iran war has pushed U.S. inflation to 3.3 percent, while British petrol prices have also climbed sharply. Motoring groups cautioned drivers not to expect significant cost relief soon, even if a ceasefire holds, and economists warned that food, travel, and consumer goods prices face further pressure.\n\nThe aviation fuel warning adds a new dimension to an energy crisis already straining global supply chains. With oil tankers still largely suspended from Hormuz passage and Iran showing it can readily close the chokepoint, analysts say the corridor remains effectively shut despite the fragile ceasefire framework negotiated in Islamabad.\n\nThe crisis has prompted divergent policy responses: the U.S. has moved to boost Venezuelan crude imports through Chevron as an alternative supply route, while European governments face pressure to accelerate strategic reserve releases. Energy market observers note that a prolonged closure would represent the most severe disruption to global oil flows in decades.",
