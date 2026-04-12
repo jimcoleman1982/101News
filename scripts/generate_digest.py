@@ -37,7 +37,7 @@ ARTICLE_TEXT_LIMIT = 3000  # chars per article
 ANTHROPIC_MAX_TOKENS = 8000  # hard cap on output tokens (higher for multi-story output)
 ANTHROPIC_MODEL = "claude-sonnet-4-6"
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
-SITE_URL = "https://jimcoleman1982.github.io/daily-briefing"
+SITE_URL = "https://101news.org"
 
 # Category display order and labels (must match site JavaScript)
 CATEGORY_ORDER = ["politics", "world", "business", "technology", "science_health", "other"]
