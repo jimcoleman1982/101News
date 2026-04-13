@@ -249,6 +249,75 @@ def extract_publish_date_from_url(url):
     return None
 
 
+def is_article_url(url):
+    """Return True if the URL looks like a specific article, not a homepage or section page.
+
+    Homepage and section-page URLs are a major source of stale stories because
+    their text contains multiple stories (including old ones still featured),
+    and Claude ends up picking from that grab-bag.  We want only URLs that
+    point to a single, specific article.
+    """
+    from urllib.parse import urlparse
+
+    try:
+        parsed = urlparse(url)
+    except Exception:
+        return False
+
+    path = parsed.path.rstrip("/")
+
+    # Root or empty path -> homepage
+    if not path or path == "":
+        return False
+
+    # Common section-page patterns (e.g. /us-news, /sections/politics/, /world/us)
+    # These have very short paths with no article slug
+    segments = [s for s in path.split("/") if s]
+    if len(segments) <= 2:
+        # Allow if path contains a date pattern (article archived by date)
+        if re.search(r'\d{4}[/-]\d{2}[/-]\d{2}', path):
+            return True
+        # Allow if last segment is long enough to be an article slug (30+ chars)
+        if segments and len(segments[-1]) >= 30:
+            return True
+        # Allow if last segment contains a hash/ID pattern (hex, uuid)
+        if segments and re.search(r'[a-f0-9]{8,}', segments[-1]):
+            return True
+        return False
+
+    # Even with 3+ segments, reject common section-page patterns:
+    # short terminal segment that's mostly numeric or a generic word
+    last_seg = segments[-1] if segments else ""
+    SECTION_SLUGS = {
+        "top-stories", "latest", "breaking", "home", "index",
+        "news", "politics", "world", "business", "technology",
+        "science", "health", "sports", "opinion", "us-news",
+        "us", "uk", "europe", "asia", "africa", "americas",
+    }
+    if last_seg.lower() in SECTION_SLUGS:
+        return False
+    # Short numeric-style IDs in section paths (e.g. /s-9097, /t-1234)
+    if re.match(r'^[a-z]?-?\d{1,6}$', last_seg):
+        return False
+
+    return True
+
+
+def filter_homepage_urls(candidates):
+    """Remove candidates whose URLs are homepages or section pages, not articles."""
+    kept = []
+    removed = 0
+    for c in candidates:
+        if is_article_url(c["url"]):
+            kept.append(c)
+        else:
+            removed += 1
+            print(f"  Homepage/section URL filtered: {c['url']} ({c['title'][:50]}...)")
+    if removed:
+        print(f"  Removed {removed} homepage/section URLs, {len(kept)} remain")
+    return kept
+
+
 def filter_by_publish_date(candidates, target_date_str, max_delta_days=0):
     """Remove candidates whose URL-embedded publish date is not today."""
     target = datetime.date.fromisoformat(target_date_str)
@@ -543,11 +612,12 @@ def load_recent_headlines(target_date_str, days_back=3):
 
 
 UPDATE_INDICATOR_WORDS = {
+    # Only words that strongly signal a NEW development on a prior story.
+    # Deliberately narrow -- false negatives (dropping a valid update) are
+    # far less harmful than false positives (letting stale stories through).
     "update", "arrested", "arrest", "charged", "convicted", "verdict",
-    "sentenced", "indicted", "identified", "confirmed", "dead", "dies",
-    "killed", "death toll", "aftermath", "response", "fallout", "ruling",
-    "decision", "settlement", "reopened", "recalled", "expanded", "closed",
-    "investigation", "cause", "lawsuit", "sues", "sued",
+    "sentenced", "indicted", "identified", "reversal", "overturned",
+    "recalled", "resigned", "fired", "sues", "sued", "settlement",
 }
 
 
@@ -572,7 +642,7 @@ def filter_cross_day_duplicates(candidates, target_date_str):
         is_duplicate = False
         for prev_headline in previous_headlines:
             similarity = SequenceMatcher(None, title_lower, prev_headline).ratio()
-            if similarity > 0.55:
+            if similarity > 0.45:
                 if has_update_indicators(title_lower):
                     break
                 is_duplicate = True
@@ -581,7 +651,7 @@ def filter_cross_day_duplicates(candidates, target_date_str):
             candidate_words = extract_significant_words(title_lower)
             prev_words = extract_significant_words(prev_headline)
             shared = candidate_words & prev_words
-            if len(shared) >= 4:
+            if len(shared) >= 3:
                 if has_update_indicators(title_lower):
                     break
                 is_duplicate = True
@@ -594,6 +664,75 @@ def filter_cross_day_duplicates(candidates, target_date_str):
 
     if removed > 0:
         print(f"  Removed {removed} cross-day duplicates, {len(kept)} candidates remain")
+    return kept
+
+
+def post_claude_dedup(new_stories, target_date_str):
+    """Final dedup pass on Claude's generated headlines against previous days.
+
+    This is critical because Claude may generate headlines about old stories
+    that slipped through pre-Claude filtering (e.g. from homepage text).
+    Stories that are genuine updates get their headline prefixed with 'Update:'.
+    Stale stories with no new angle are removed entirely.
+    """
+    previous_headlines = load_recent_headlines(target_date_str, days_back=3)
+    if not previous_headlines:
+        return new_stories
+
+    print(f"\n  Post-Claude dedup: checking {len(new_stories)} stories against {len(previous_headlines)} previous headlines")
+    kept = []
+    removed = 0
+    for story in new_stories:
+        headline_lower = story["headline"].lower()
+        # Skip if already prefixed with Update:
+        if headline_lower.startswith("update:"):
+            kept.append(story)
+            continue
+
+        is_repeat = False
+        matched_prev = None
+        for prev_headline in previous_headlines:
+            similarity = SequenceMatcher(None, headline_lower, prev_headline).ratio()
+            if similarity > 0.45:
+                is_repeat = True
+                matched_prev = prev_headline
+                break
+            story_words = extract_significant_words(headline_lower)
+            prev_words = extract_significant_words(prev_headline)
+            shared = story_words & prev_words
+            if len(shared) >= 3:
+                is_repeat = True
+                matched_prev = prev_headline
+                break
+
+        if is_repeat:
+            # Check if the summary indicates a genuinely new development
+            summary_lower = story.get("summary", "").lower()
+            headline_and_summary = headline_lower + " " + summary_lower
+            new_development_signals = {
+                "update", "new", "latest", "just", "now", "breaking",
+                "today", "this morning", "this afternoon", "overnight",
+                "hours ago", "minutes ago", "reversal", "shifts",
+                "changed", "reversed", "overturned", "escalat",
+            }
+            has_new_angle = any(signal in headline_and_summary for signal in new_development_signals)
+
+            if has_new_angle:
+                # Keep it but prefix with Update: if not already
+                if not story["headline"].startswith("Update:"):
+                    story["headline"] = "Update: " + story["headline"]
+                kept.append(story)
+                print(f"  Post-Claude: kept as update: '{story['headline'][:65]}...'")
+            else:
+                removed += 1
+                print(f"  Post-Claude: REMOVED stale story: '{story['headline'][:65]}...'")
+                if matched_prev:
+                    print(f"    Matched previous: '{matched_prev[:65]}...'")
+        else:
+            kept.append(story)
+
+    if removed > 0:
+        print(f"  Post-Claude dedup: removed {removed} stale stories, {len(kept)} remain")
     return kept
 
 
@@ -713,10 +852,14 @@ Do NOT select any candidate that covers the same event as the headlines above. O
     prev_headlines = load_recent_headlines(target_date_str)
     prev_block = ""
     if prev_headlines:
-        prev_list = "\n".join(f"- {h}" for h in prev_headlines[:30])
+        prev_list = "\n".join(f"- {h}" for h in prev_headlines[:50])
         prev_block = f"""
-STORIES FROM PREVIOUS DAYS (avoid repeating unless major new development):
-{prev_list}"""
+STORIES FROM PREVIOUS DAYS (do NOT repeat these unless there is a genuinely new development):
+{prev_list}
+
+CRITICAL RULE: If a story covers the SAME event as any headline above and there is NO new development since it was last covered, you MUST skip it. "Still being covered" or "still trending" is NOT a new development. A new development means something materially changed: a new official action, arrest, vote, death, reversal, or concrete new information.
+
+If a story IS a genuine update on a previously covered event, you MUST prefix the headline with "Update: " (e.g. "Update: Iran Talks Resume After Ceasefire Extension"). The update must be clearly described in the summary."""
 
     return f"""Date: {target_date_str}. Below are {len(stories)} candidate national/world news stories.
 
@@ -732,6 +875,7 @@ Selection criteria:
 - When a story involves a politically divisive topic, the summary MUST include perspectives from both sides
 - CRITICAL: Do NOT select stories already covered today (see list below)
 - If two candidates cover the same event, pick the one with better sourcing -- do not include both
+- FRESHNESS CHECK: Before selecting any story, ask yourself "did this event FIRST happen today?" If the answer is no, skip it unless there is a concrete new development since the last time we covered it.
 {dedup_block}
 {prev_block}
 
@@ -741,7 +885,7 @@ Selection criteria:
 
 Return a JSON array of up to {num_to_select} stories. For each story:
 - "category": one of "politics", "world", "business", "technology", "science_health", or "other"
-- "headline": clear, factual headline
+- "headline": clear, factual headline. If this is an update on a previously covered story, prefix with "Update: "
 - "summary": 3-4 paragraphs, each 2-4 sentences. Use \\n\\n between paragraphs. Cover what happened, who is involved, why it matters. If politically divisive, include both sides.
 - "source": publication name
 - "url": direct link to the original article
@@ -1370,6 +1514,11 @@ def main():
     num_to_select = determine_stories_needed(existing_story_count)
     print(f"  Stories today so far: {existing_story_count}, selecting up to: {num_to_select}")
 
+    # Step 1b: Filter out homepage/section URLs (major source of stale stories)
+    if raw_results:
+        print("\n[Step 1b] Filtering homepage/section URLs...")
+        raw_results = filter_homepage_urls(raw_results)
+
     # Step 2: Deduplicate, rank, and filter
     new_stories = []
     if raw_results:
@@ -1398,6 +1547,9 @@ def main():
                 is_first_run=first_run,
             )
             if new_stories:
+                # Step 4b: Post-Claude dedup -- catch stale stories Claude generated
+                new_stories = post_claude_dedup(new_stories, target_date_str)
+
                 for s in new_stories:
                     print(f"  Selected: [{s.get('category', '?')}] {s['headline'][:70]}")
                 print(f"  Total new stories: {len(new_stories)}")
