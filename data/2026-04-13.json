@@ -3,6 +3,36 @@
   "dateFormatted": "Monday, April 13, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "IMF and World Bank Prepare to Downgrade Global Growth Forecasts Amid Iran War Fallout",
+      "summary": "The International Monetary Fund and World Bank are preparing significant downgrades to their global growth forecasts as the economic consequences of the U.S.-Iran conflict and the Strait of Hormuz blockade ripple through international markets. Analysts warn that the disruption to one of the world's most critical oil shipping lanes has already set in motion long-lasting economic damage, with oil prices having surged past $100 a barrel in recent weeks.\n\nThe anticipated downgrades reflect mounting concern among international economic institutions about the compounding effects of the conflict on global trade, energy prices, and supply chains. The U.S. economy has already seen inflation jump to a two-year high, and the Federal Reserve faces renewed pressure as energy costs remain elevated with no immediate resolution in sight, even as a two-week ceasefire has been announced.\n\nEmerging market economies are considered particularly vulnerable, as higher oil import costs strain current account balances and weaken currencies. Economists note that the world's anti-recession guardrails have been weakened by years of repeated economic shocks, leaving institutions less equipped to cushion the blow of a prolonged disruption.\n\nThe IMF and World Bank spring meetings, typically a venue for coordinated global economic policy discussions, are expected to be dominated by debate over how member states should respond. The downgrades will be closely watched by financial markets already on edge from weeks of geopolitical uncertainty.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/us-iran-talks-pause-now-disagreements-remain-2026-04-11/",
+      "sourceCount": 2,
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-04-13T08:08:32.610350-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Anthropic Expands Into Legal, Financial, and HR Software Markets With New AI Tools",
+      "summary": "AI firm Anthropic has launched a suite of new tools targeting the legal, financial, and human resources sectors, marking a significant move to disrupt established enterprise software markets. The company also introduced a dedicated cybersecurity tool capable of scanning code for vulnerabilities, broadening its footprint beyond general-purpose AI assistants.\n\nThe expansion puts Anthropic in more direct competition with both legacy enterprise software vendors and other AI firms that have been building vertical-specific applications. Industry analysts say the move signals a broader shift in the AI industry toward specialized, high-value professional applications rather than consumer-facing chatbots alone.\n\nThe launch follows reports that Vice President Vance and Treasury Secretary Bessent questioned major tech companies about AI security ahead of Anthropic's release, underscoring the growing intersection of AI development and national security policy considerations in Washington.\n\nAnthropic, which has positioned itself as a safety-focused AI company, faces the challenge of balancing rapid commercial expansion with its stated commitments to responsible AI development. The company has previously published policy frameworks aimed at prompting broader industry discussions about safety as AI systems become more capable.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/artificialintelligenceai",
+      "sourceCount": 3,
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-04-13T08:08:32.610350-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "FBI Warned Local Law Enforcement of Elevated Iranian Threat to U.S. Targets Even as White House Downplayed Risk",
+      "summary": "An intelligence report obtained by Reuters reveals that the FBI warned U.S. state and local law enforcement agencies of an elevated and persistent threat posed by Iran's government to targets inside the United States, even as the White House at the time was seeking to publicly downplay the likelihood of an attack. The warning was issued last month, prior to the outbreak of the current U.S.-Iran conflict.\n\nThe disclosure raises questions about the coordination between the intelligence community and the executive branch in communicating security risks to the public and to state authorities. Critics say the gap between the FBI's internal warning and the White House's public messaging left local agencies without adequate guidance during a period of rising tension.\n\nThe White House has not directly addressed the discrepancy, and administration officials have maintained that their public statements were calibrated to avoid causing undue alarm while diplomatic and military options were being weighed. Supporters of the administration argue that intelligence warnings of this nature are routine and do not necessarily indicate an imminent or specific threat.\n\nThe report adds to a broader debate over transparency and threat communication as the U.S. navigates the aftermath of the Iran conflict and a fragile ceasefire. Law enforcement officials in several major cities have reportedly increased security at Iranian-affiliated cultural institutions and diplomatic facilities as a precaution.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/intelligence-report-warned-irans-persistent-threat-us-white-house-downplayed-2026-04-08/",
+      "sourceCount": 1,
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-04-13T08:08:32.610350-06:00"
+    },
+    {
       "category": "politics",
       "headline": "House Speaker Johnson Refuses Vote on DHS Funding Bill Until Senate Acts on ICE, CBP Appropriations",
       "summary": "House Speaker Mike Johnson (R-La.) told Republican lawmakers on a call Thursday that he will not bring a Department of Homeland Security funding bill to the floor until the Senate makes significant progress on dedicated funding for Immigration and Customs Enforcement and Customs and Border Protection, according to sources familiar with the call.\n\nThe move signals a deepening standoff over border security spending at a moment when Congress is already grappling with the fiscal costs of the Iran war. Johnson's position reflects pressure from House conservatives who want enforceable commitments on immigration enforcement funding before agreeing to broader government spending measures.\n\nSupporters of Johnson's stance argue that Senate inaction on ICE and CBP funding has repeatedly stalled meaningful border security reform, and that the House should not move first without guarantees. Critics contend that withholding DHS funding risks disrupting department operations and using routine appropriations as leverage on a politically charged issue.\n\nThe standoff adds to legislative uncertainty in Washington, where Congress faces a crowded agenda including war supplemental spending, debt ceiling negotiations, and ongoing oversight investigations.",
