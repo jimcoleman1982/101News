@@ -3,6 +3,36 @@
   "dateFormatted": "Monday, April 13, 2026",
   "stories": [
     {
+      "category": "technology",
+      "headline": "OpenAI CEO Sam Altman's Home Targeted in Second Attack in Two Days",
+      "summary": "OpenAI CEO Sam Altman's residence was targeted for a second time on Sunday morning, when two suspects were arrested after allegedly attempting to shoot at the home. The incident followed a Molotov cocktail attack on Friday morning that caused a fire damaging an outer gate. No injuries were reported in either attack.\n\nAltman responded to the Friday incident in a blog post, calling for de-escalation of rhetoric surrounding artificial intelligence amid growing public anxiety about the technology's societal impact. The back-to-back attacks underscore rising tensions around prominent AI executives as debates over the technology's power and risks intensify.\n\nThe incidents come as AI infrastructure stocks climbed Monday and anticipation builds around potential IPOs from Anthropic and SpaceX. Broader market sentiment around Big Tech remains clouded by both the Iran conflict and uncertainty over AI's long-term disruption of existing business models, according to analysts at Goldman Sachs and JPMorgan.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-ai-infrastructure-stocks-climb-openai-ceos-home-targeted-in-alleged-second-attack-144220830.html",
+      "sourceCount": 1,
+      "addedAt": "10:19 AM MT",
+      "addedAtISO": "2026-04-13T10:19:56.045293-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Earthquake Swarm of 18-Plus Quakes Strikes Off Washington Coast, Experts Say No Land Threat",
+      "summary": "An active swarm of more than 18 earthquakes struck the Juan de Fuca Ridge approximately 250 miles off the coast of Washington state beginning around midnight on April 12, with the largest registering a magnitude of 4.2, according to the Pacific Northwest Seismic Network.\n\nGeologists stressed that the quakes are not located near the Cascadia Subduction Zone, the major fault system capable of producing a catastrophic earthquake and tsunami for the Pacific Northwest. The swarm is also separate from the Axial Seamount Volcano, which scientists have predicted is approaching an undersea eruption.\n\nAuthorities emphasized that the swarm poses no hazard to onshore communities in the Pacific Northwest region. Seismic swarms at mid-ocean ridges like the Juan de Fuca are relatively common and are typically associated with underwater volcanic and tectonic activity rather than the fault systems that threaten populated areas.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/news/local/earthquake-swarm-hits-off-washington-coast-18-quakes-in-12-hours-up-to-42-magnitude-juan-de-fuca-cascadia-subduction-zone-big-one-risk-evacuation-safwty-volcano-update",
+      "sourceCount": 1,
+      "addedAt": "10:19 AM MT",
+      "addedAtISO": "2026-04-13T10:19:56.045293-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Commerce Secretary Lutnick to Testify Before Congress on Jeffrey Epstein Probe",
+      "summary": "Commerce Secretary Howard Lutnick has agreed to testify before the House Oversight Committee next month as part of the panel's ongoing investigation into Jeffrey Epstein, according to Politico. Lutnick's appearance will mark a notable instance of a sitting Cabinet secretary submitting to congressional scrutiny on the politically sensitive Epstein matter.\n\nThe House Oversight Committee has been probing Epstein-related matters, and Lutnick's agreement to appear represents a development in that investigation. Details about the specific scope of his testimony and what the committee is seeking from the Commerce Secretary have not been fully disclosed.\n\nThe Epstein inquiry remains a politically charged subject, drawing interest from lawmakers on both sides of the aisle who have called for greater transparency regarding individuals connected to the late financier and convicted sex offender.",
+      "source": "Politico",
+      "url": "https://www.politico.com/white-house-news-updates-analysis",
+      "sourceCount": 1,
+      "addedAt": "10:19 AM MT",
+      "addedAtISO": "2026-04-13T10:19:56.045293-06:00"
+    },
+    {
       "category": "business",
       "headline": "IMF and World Bank Prepare to Downgrade Global Growth Forecasts Amid Iran War Fallout",
       "summary": "The International Monetary Fund and World Bank are preparing significant downgrades to their global growth forecasts as the economic consequences of the U.S.-Iran conflict and the Strait of Hormuz blockade ripple through international markets. Analysts warn that the disruption to one of the world's most critical oil shipping lanes has already set in motion long-lasting economic damage, with oil prices having surged past $100 a barrel in recent weeks.\n\nThe anticipated downgrades reflect mounting concern among international economic institutions about the compounding effects of the conflict on global trade, energy prices, and supply chains. The U.S. economy has already seen inflation jump to a two-year high, and the Federal Reserve faces renewed pressure as energy costs remain elevated with no immediate resolution in sight, even as a two-week ceasefire has been announced.\n\nEmerging market economies are considered particularly vulnerable, as higher oil import costs strain current account balances and weaken currencies. Economists note that the world's anti-recession guardrails have been weakened by years of repeated economic shocks, leaving institutions less equipped to cushion the blow of a prolonged disruption.\n\nThe IMF and World Bank spring meetings, typically a venue for coordinated global economic policy discussions, are expected to be dominated by debate over how member states should respond. The downgrades will be closely watched by financial markets already on edge from weeks of geopolitical uncertainty.",
