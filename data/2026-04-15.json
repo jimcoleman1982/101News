@@ -1,0 +1,16 @@
+{
+  "date": "2026-04-15",
+  "dateFormatted": "Wednesday, April 15, 2026",
+  "stories": [
+    {
+      "category": "business",
+      "headline": "Federal Reserve Probes Major Banks on Private Credit Exposure Amid Surge in Redemptions and Troubled Loans",
+      "summary": "The Federal Reserve has asked major U.S. banks to provide detailed information about their exposure to private credit markets, according to Bloomberg News, citing people familiar with the matter. The inquiry follows a notable surge in redemptions from private credit funds and a rise in troubled loans within the industry.\n\nPrivate credit has grown into a multi-trillion-dollar asset class over the past decade, attracting significant investment from institutional and retail investors. Regulators have increasingly flagged the sector as a potential source of systemic risk given its opacity and rapid expansion relative to traditional bank lending.\n\nThe Fed's move signals heightened supervisory concern about potential contagion if private credit stress were to spill over into the broader banking system. Banks with large exposures could face pressure on capital buffers if loan quality continues to deteriorate.\n\nThe inquiry does not constitute a formal enforcement action, and the Fed has not publicly commented on the matter. Analysts say the information-gathering effort is consistent with the central bank's broader mandate to monitor emerging risks to financial stability.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/us/federal-reserve/",
+      "sourceCount": 1,
+      "addedAt": "12:08 AM MT",
+      "addedAtISO": "2026-04-15T00:08:02.113080-06:00"
+    }
+  ]
+}
