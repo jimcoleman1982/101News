@@ -3,6 +3,36 @@
   "dateFormatted": "Thursday, April 16, 2026",
   "stories": [
     {
+      "category": "other",
+      "headline": "Virginia Ex-Lt. Gov. Justin Fairfax Kills Wife and Self, Police Say",
+      "summary": "Justin Fairfax, who served as Virginia's lieutenant governor from 2018 to 2022, killed his wife and then himself, according to police. The incident represents a shocking development involving one of the state's most prominent recent Democratic officeholders.\n\nFairfax, a Democrat, had previously faced sexual assault allegations while in office — accusations he denied — which derailed what had been seen as a promising political career. He had largely remained out of public life since leaving office in 2022.\n\nThe deaths mark a tragic end for a figure who was once considered a rising star in Virginia Democratic politics. Police have not released additional details about the circumstances surrounding the incident.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/16/us/virginia-lt-governor-justin-fairfax-murder-wife-suicide.html",
+      "sourceCount": 1,
+      "addedAt": "9:45 AM MT",
+      "addedAtISO": "2026-04-16T09:45:23.087533-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Trump Heads to Las Vegas to Promote Tax Cuts as High Gas Prices Undercut Savings",
+      "summary": "President Donald Trump traveled to Las Vegas on Thursday to hold a roundtable promoting the tax cuts enacted under last year's 'One Big Beautiful Bill Act,' highlighting benefits for tipped and overtime workers ahead of November's midterm elections. The event featured police officers, a barber, and a casino pit supervisor who have benefited from new tax exemptions on tips and overtime pay.\n\nThe political backdrop is complicated by high gas prices driven by the ongoing Iran war. Gasoline in Las Vegas is averaging $5 a gallon, up 28% from a year ago, and some residents say the fuel costs have wiped out gains from the tax breaks. The Treasury Department said average tax refunds this season are up roughly $340 from a year ago, reaching about $3,400.\n\nVoters interviewed in the Las Vegas area expressed divided views. Critics of the president, including a local airline attendant, said the cost of living under Trump has been 'terrible,' citing $100 fill-ups and soaring grocery bills. Supporters, such as a Henderson bartender who voted for Trump, credited the tip tax break as meaningful and declined to blame the president for high energy prices, framing them as a temporary disruption from the war.\n\nThe White House has argued that tax cuts, deregulation, and expanded domestic energy production will ultimately bring prices down. Trump is also scheduled to appear Friday in Phoenix at a Turning Point USA event, continuing a rare western swing as Republicans seek to defend their congressional majorities.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/trump-iran-gas-vegas-midterms-0cd8028282d3e3652b0aa12eb39dacf4",
+      "sourceCount": 1,
+      "addedAt": "9:45 AM MT",
+      "addedAtISO": "2026-04-16T09:45:23.087533-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Update: TSMC Reports 58% Profit Jump, Signals Robust AI Chip Demand; Tech Stocks Pull Back",
+      "summary": "Taiwan Semiconductor Manufacturing Company reported a 58% surge in first-quarter profits on Thursday, with the company's chief executive offering bullish commentary on sustained demand for artificial intelligence chips. The results were seen by analysts as a strong signal that investment in AI infrastructure remains robust despite broader economic uncertainties.\n\nTech stocks as a group pulled back on Thursday after hitting record highs the previous session. Tesla shares, which had surged 7.6% on Wednesday after CEO Elon Musk announced the completion of chip design for the company's upcoming AI5 processor, gave back some of those gains. Analysts attributed the bulk of Wednesday's Tesla rally to the AI5 news, calling the chip's advancement significant for the company's self-driving and robotics ambitions.\n\nThe broader technology sector has faced headwinds from the ongoing Middle East conflict, which analysts say has clouded investor sentiment toward large-cap tech names. The TSMC earnings are being watched closely as a leading indicator of where AI hardware spending is headed through the rest of 2026.",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-tesla-stock-surges-on-chip-reveal-uber-exec-says-ai-budget-isnt-enough-144220118.html",
+      "sourceCount": 1,
+      "addedAt": "9:45 AM MT",
+      "addedAtISO": "2026-04-16T09:45:23.087533-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: Trump Says China Agrees Not to Send Weapons to Iran as U.S. Increases Economic Pressure",
       "summary": "President Trump announced that China has agreed not to supply weapons to Iran, a significant diplomatic development as the fragile two-week ceasefire approaches its April 22 deadline. White House press secretary Karoline Leavitt described Pakistan-mediated conversations as \"productive and ongoing\" and said the U.S. feels \"good about the prospects of a deal.\"\n\nTreasury Secretary Scott Bessent separately warned that the United States is preparing to ramp up economic pressure on Tehran by levying secondary sanctions on financial institutions that conduct business with Iran, calling the move the \"financial equivalent\" of the bombing campaign. The escalating economic threats come even as diplomatic channels remain open, reflecting a dual-track U.S. strategy of pressure and negotiation.\n\nChina's Foreign Minister Wang Yi told Iranian Foreign Minister Abbas Araghchi in a phone call that reopening the Strait of Hormuz was a \"unanimous call from the international community,\" while also affirming that Iran's sovereignty and legitimate rights as a littoral state should be respected. Araghchi indicated Iran remained willing to pursue a \"rational and realistic solution through peaceful negotiations.\"\n\nThe new developments follow the first round of high-level U.S.-Iran talks in Islamabad on April 11-12, which ended without agreement. A second round of talks is widely expected within days, with Pakistan continuing its mediation role and Prime Minister Shehbaz Sharif touring Saudi Arabia and Turkey to build regional support for the diplomatic process.",
