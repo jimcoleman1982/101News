@@ -3,6 +3,39 @@
   "dateFormatted": "Friday, April 17, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Acting ICE Director Todd Lyons Resigns, to Depart Agency at End of May",
+      "summary": "Acting Immigration and Customs Enforcement Director Todd Lyons submitted his resignation Thursday, with Homeland Security Secretary Markwayne Mullin confirming he will leave the agency on May 31 to move to the private sector. Lyons has led ICE since March 2025, overseeing the agency during a period of aggressive immigration enforcement under President Trump's mass deportation campaign.\n\nLyons's tenure was marked by significant scrutiny, most notably over the fatal shootings of U.S. citizens Renee Good and Alex Pretti in Minneapolis in January. He repeatedly defended ICE's conduct before Congress and in courtrooms as the agency faced mounting legal and political challenges.\n\nMullin praised Lyons in a statement, saying \"thanks to his leadership, American communities are safer.\" Lyons cited a desire to spend more time with his family and noted he had experienced firsthand the surge in threats against ICE officers during his tenure.\n\nThe departure leaves a leadership vacuum at one of the Trump administration's most prominent enforcement agencies at a time when immigration policy remains one of the most divisive political issues in the country. No successor has been publicly named.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/04/17/acting-ice-director-todd-lyons-resigns",
+      "sourceCount": 7,
+      "disposition": "new",
+      "addedAt": "7:56 AM MT",
+      "addedAtISO": "2026-04-17T07:56:27.516478-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "France Detains Key Suspect in 1982 Paris Jewish Restaurant Attack After Palestinian Authority Extradition",
+      "summary": "French authorities detained a 72-year-old man identified as Hicham Harb, also known as Mahmoud Khader Abed Adra, on Thursday after the Palestinian National Authority extradited him in response to a French request filed last September. Harb is considered a key suspect in the 1982 grenade and machine-gun attack on the Jo Goldenberg restaurant in Paris's historic Marais quarter, which killed six people and wounded more than 20 others.\n\nHarb is suspected of directing the attack and acting as one of the gunmen who fired on diners. No one has ever been convicted for the killings. The attack was attributed to a splinter Palestinian militant group founded by Abu Nidal, whose organization was responsible for approximately 900 deaths across multiple countries during the 1980s.\n\nFrench President Emmanuel Macron thanked the Palestinian Authority for cooperating, calling it \"a concrete demonstration\" of judicial cooperation that followed France's recognition of Palestinian statehood in September 2025. French Foreign Minister Jean-Noël Barrot said the extradition meant justice could finally be served 44 years after the attack.\n\nHarb's son Bilal al-Adra called the extradition illegal and said the family had no confidence his father would receive a fair trial. The Paris courts have rejected an appeal to move the case to a jury trial, meaning it will be heard by judges in a specialized anti-terrorism court. Two other suspects are already in France, while three others remain abroad.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj94pkyr9mpo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "addedAt": "7:56 AM MT",
+      "addedAtISO": "2026-04-17T07:56:27.516478-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Severe Storm System Threatens Over 51 Million Across Midwest and Plains Friday Into Weekend",
+      "summary": "A major severe weather system is forecast to affect more than 51 million people from Texas to Wisconsin on Friday evening and into the weekend, bringing threats of strong tornadoes, large hail, damaging winds and flash flooding. The National Weather Service identified the Upper Mississippi Valley — spanning parts of Illinois, Iowa, Minnesota and Wisconsin — as having the highest probability of strong tornadoes, while the central U.S. and Midwest face the greatest risk of very large hail.\n\nThe new threat arrives as communities across the region are still recovering from storms earlier in the week. Michigan is experiencing record flooding, with Governor Gretchen Whitmer declaring a state of emergency for 33 counties. Authorities are monitoring dangerously high water levels near a dam in Cheboygan, and the Muskegon River has reached record highs.\n\nIn western New York, a community south of Buffalo sustained significant tornado damage Wednesday, while two tornadoes struck Clinton, Missouri on the same night. A 41-year-old man was killed by a suspected lightning strike in Wisconsin, and Milwaukee roads remained flooded Thursday following Wednesday's torrential rain.\n\nDamaging winds reaching up to 70 mph are forecast across a corridor from Texas to Green Bay. The severe weather threat is expected to extend into Saturday, affecting major cities including Cincinnati, Cleveland, Pittsburgh and Buffalo before a cold front moves east and brings temperatures closer to seasonal norms early next week.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/maps-severe-storms-forecast-midwest-tornadoes-flooding/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "addedAt": "7:56 AM MT",
+      "addedAtISO": "2026-04-17T07:56:27.516478-06:00"
+    },
+    {
       "category": "technology",
       "headline": "Update: Finance Ministers and Top Bankers Raise Serious Concerns About Anthropic's Mythos AI Model",
       "summary": "Finance ministers, central bankers, and financiers have raised urgent concerns about Anthropic's Claude Mythos AI model, warning it could undermine the security of global financial systems. The model has demonstrated an unprecedented ability to identify and exploit cybersecurity vulnerabilities, prompting crisis meetings among top officials. Canadian Finance Minister François-Philippe Champagne confirmed the issue was extensively discussed at the International Monetary Fund meeting in Washington this week, calling the threat an \"unknown, unknown\" unlike physical chokepoints such as the Strait of Hormuz.\n\nAnthropec has not publicly released Mythos, instead making it available only to select technology companies — including Amazon Web Services, CrowdStrike, Microsoft, and Nvidia — through an initiative called Project Glasswing, described as an effort to secure critical software infrastructure. On Thursday, Anthropic separately released a new version of its existing Claude Opus model, allowing Mythos' cyber capabilities to be tested in less powerful systems.\n\nThe UK's AI Security Institute, which was granted access to a preview version, published the only independent assessment of the model. Its researchers found Mythos capable of exploiting systems with weak security but concluded it was not dramatically more capable than its predecessor, Opus 4. Some cybersecurity experts have cautioned that broader alarm may be premature given the model has not been widely tested by the industry.\n\nThe episode underscores growing tensions between the rapid development of highly capable AI systems and the ability of regulators and financial institutions to assess and manage the risks they pose. Anthropic's Project Glasswing represents an unusual attempt by an AI developer to proactively engage critical infrastructure operators before a public release.",
