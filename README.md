@@ -6,20 +6,26 @@ Every few hours from 5 AM to 9 PM Denver time, a GitHub Actions workflow gathers
 
 **Live site:** [101news.org](https://101news.org)
 
+**Current version:** v2026.4.16 — see [CHANGELOG.md](./CHANGELOG.md).
+
 ## How It Works
 
 1. **GitHub Actions** fires 6x/day on a cron schedule (DST-aware dual schedules for MDT/MST)
-2. **Python script** searches for national/world news via Brave Search API + Google News RSS
-3. Fetches article content from AP, Reuters, NPR, BBC, WSJ, and other major sources
-4. Sends candidates to **Claude Sonnet 4.6** for curation, categorization, and multi-paragraph summarization
-5. Writes/updates a dated JSON file in `data/`
-6. Commits and pushes -- **GitHub Pages** auto-deploys the updated site
+2. **Python script** gathers candidates from three parallel sources:
+   - **Topic-rotated Brave Search queries** — 2 baseline + 3-4 rotating topic buckets (politics/courts, economy, world hotspots, tech, science/health, culture/sports, right-leaning sites) selected by the run's Denver hour
+   - **20 named publisher RSS feeds** — direct from BBC, NPR, NYT, Guardian, Al Jazeera, Fox News, Washington Examiner, National Review, NY Post, The Hill, Axios, Politico, Bloomberg, PBS, CBS, NBC, ABC, Washington Times, Free Beacon, The Guardian US
+   - **Google News RSS** — surfaces stories getting multi-outlet coverage
+3. Fetches article content from the representative source for each cluster
+4. Sends candidates to **Claude Sonnet 4.6** for curation, categorization, and multi-paragraph summarization. Each candidate is tagged with political lean `[L]/[C]/[R]/[?]` so Claude can actively balance the selection.
+5. Borderline dedup cases (same-event candidates) are classified as `new`/`update`/`stale` by a batched **Claude Haiku** call — more accurate than word-list heuristics
+6. Writes/updates a dated JSON file in `data/`
+7. Commits and pushes -- **GitHub Pages** auto-deploys the updated site
 
 ## Features
 
 - **Rolling updates** -- stories accumulate through the day (2-5 new stories per run)
-- **Balanced sourcing** -- intentionally draws from left, center, and right-leaning outlets
-- **Smart deduplication** -- multi-pass similarity + keyword matching, with update detection (arrests, rulings, etc. override cross-day dedup)
+- **Source balance** -- draws from 20 named publisher RSS feeds plus topic-rotated Brave queries. Lean distribution across feeds is roughly 40% center/wire, 25% left, 35% right. Claude is given explicit lean tags and balance instructions to correct for historical over-indexing on left/center.
+- **Smart deduplication** -- multi-pass similarity + keyword matching; borderline cases classified semantically by Claude Haiku rather than word-list matching
 - **Overnight catch-up** -- first run of the day extends the freshness window to 12 hours
 - **Read tracking** -- cookie-based headline tracking that persists on iOS home screen
 - **14-day archive** -- older data auto-pruned on each run
@@ -75,8 +81,9 @@ Every few hours from 5 AM to 9 PM Denver time, a GitHub Actions workflow gathers
 |---------|------|
 | GitHub Actions | Free (well within 2,000 min/month free tier) |
 | GitHub Pages | Free |
-| Anthropic API | ~$0.50-$1.50/day (Sonnet 4.6, 6 runs/day) |
-| Brave Search API | Free tier (2,000 queries/month, uses ~1,200-1,400/month) |
+| Anthropic API (Sonnet 4.6 + Haiku 4.5 classifier) | ~$0.50-$1.50/day, 6 runs/day |
+| Brave Search API | Free tier (2,000 queries/month, uses ~1,000-1,400/month) |
+| Named RSS feeds | Free (direct from publishers) |
 | **Monthly total** | **~$15-$45/month** |
 
 ## Architecture

@@ -13,6 +13,17 @@ Major overhaul of story sourcing and dedup logic. The digest had drifted toward 
 - **Loosened clustering threshold.** Dropped the keyword-overlap threshold in `deduplicate_and_rank` from 4 to 2 shared words. Previously most stories had sourceCount=1 even when 5+ outlets were covering them; now the multi-source signal actually works.
 - **Removed dead code.** Deleted `fetch_top_stories` and its helpers (`cluster_headlines`, `score_cluster`, `_summarize_top_story`, `_fetch_cluster_articles`, `fetch_article_text_cached`, `TOP_STORY_SYSTEM_PROMPT`, `WORLD_NEWS_PREFERRED`, `WORLD_NEWS_NOISE`) -- ~300 lines of orphaned logic that was never called from main() and whose output keys were actively stripped by `write_output`.
 
+**Hardening pass (post-review fixes):**
+
+- **Stable query rotation.** Replaced `hash(bucket_name)` with a per-character sum. Python's builtin `hash()` is randomized per-process, so the intended day-of-year rotation was silently non-deterministic across cron runs.
+- **RSS date bounds.** Drop items with unparseable `pubDate` (previously kept) and items dated more than 2h in the future (TZ bugs / scheduled posts). Broadened `_try_parse_date` exception handling (`parsedate_to_datetime` can raise `IndexError` on certain malformed inputs).
+- **Lean-tag URL fallback fix.** `get_source_lean()` returns `"?"` (truthy) for unknown sources, so the `or` fallback to URL never fired. Replaced with explicit `if lean == "?":` check. Sources with unknown names but known URLs now get correctly tagged.
+- **Classifier hardening.** Promoted Haiku model ID to `ANTHROPIC_CLASSIFIER_MODEL` constant. Made fallback paths explicit: non-list responses, count mismatches, and API errors each log clearly and return the safe `"update"` default. Wrapped `disposition` in `str()` to prevent crash on non-string values Claude might hallucinate.
+- **Cold-start consistency.** `post_claude_dedup` now applies Claude's `disposition` (stale → drop, update → prefix) even when no previous-days data exists, matching main-path behavior.
+- **Softened contradictory prompt wording.** Previous wording pushed both "do not favor a political side" and "prefer right-leaning sources." Now clearly separated: story-topic selection is neutral; among candidates covering the same event with comparable quality, prefer [R]/[C] to correct for historical left/center over-indexing.
+
+Verified with 49 tests across unit and integration harnesses + adversarial code review.
+
 ## v2026.4.13
 
 Fix stale/repeated stories appearing in the daily digest.
