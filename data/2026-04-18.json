@@ -3,6 +3,50 @@
   "dateFormatted": "Saturday, April 18, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "Carfentanil Seizures Surge Across U.S., Raising Alarm Among Drug Enforcement Officials",
+      "summary": "Carfentanil, a synthetic opioid described as 100 times more potent than fentanyl and 10,000 times more potent than morphine, is surging through the U.S. drug supply at an alarming rate. The Drug Enforcement Administration recorded 1,400 carfentanil identifications in U.S. drug seizures in 2025, compared with 145 in 2023 and just 54 in 2022 — a nearly tenfold increase in two years. DEA officials warn that a quantity smaller than a grain of salt can be lethal.\n\nAuthorities believe the resurgence is linked to a Chinese government crackdown on fentanyl precursor chemicals, which has prompted Mexican traffickers to substitute carfentanil to boost the potency of a weakened fentanyl supply. The drug is often mixed with other substances and sold to users who are unaware of its presence, dramatically increasing overdose risk even when naloxone is available.\n\nThe human toll is illustrated by cases such as Michael Nalewaja, a 36-year-old Alaskan electrician who died in November 2025 after unknowingly consuming a fentanyl-carfentanil mixture he may have believed was cocaine. His mother told the Associated Press that first responders with Narcan would not have been able to save him given the drug's extreme potency.\n\nThe surge comes even as overall drug overdose deaths in the United States have trended downward over recent years, complicating the public health picture. Law enforcement officials say carfentanil poses an especially acute risk because users have no way to identify its presence without chemical testing, and standard overdose reversal doses of naloxone may be insufficient.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/carfentanil-surging-fentanyl-deaths-dea-china-mexico-6b32fe6450861754d8689a595fb830a5",
+      "sourceCount": 1,
+      "disposition": "new",
+      "addedAt": "5:48 AM MT",
+      "addedAtISO": "2026-04-18T05:48:27.914857-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Supreme Court Rules 8-0 That Chevron's Louisiana Coastal Lawsuit Belongs in Federal Court",
+      "summary": "The U.S. Supreme Court issued a unanimous 8-0 procedural ruling Friday allowing Chevron to move a major coastal damage lawsuit from Louisiana state court to federal court. The case centers on allegations that Chevron's crude oil refining activities, conducted partly under World War II-era military contracts, caused significant damage to Louisiana's coastline. A state jury had previously ordered Chevron to pay upward of $740 million in cleanup costs.\n\nThe Court held that because the refining activities were connected to federal wartime contracts, the company was entitled to defend itself in the federal court system rather than face a plaintiff-friendly state tribunal. The decision applies to a series of similar lawsuits filed by Louisiana coastal parishes against energy companies.\n\nSupporters of the ruling framed it as a victory for legal predictability and energy production. Former U.S. Attorney General Michael Mukasey said the decision 'provides welcome assurance to private parties who act in the interest and at the behest of federal authorities that if plaintiffs and their lawyers sue over those acts, those parties will have recourse to federal courts.' Industry groups called the ruling 'a down payment toward protecting U.S. energy dominance.'\n\nCritics of the energy industry and environmental advocates have argued that federal court venues tend to be less receptive to large damage awards and that the ruling could make it harder for states to hold oil companies accountable for environmental harm. The decision does not resolve the underlying merits of the coastal damage claims, which will now be relitigated in federal court.",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/tag/supreme-court",
+      "sourceCount": 5,
+      "disposition": "new",
+      "addedAt": "5:48 AM MT",
+      "addedAtISO": "2026-04-18T05:48:27.914857-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "Madonna Surprises Coachella Crowd During Sabrina Carpenter's Headline Set",
+      "summary": "Madonna made an unannounced guest appearance Friday night at the Coachella Valley Music and Arts Festival, joining headliner Sabrina Carpenter on stage in Indio, California. The two performed a duet of Madonna's 1990 classic 'Vogue,' a new track from Madonna's forthcoming album, and 'Like A Prayer,' drawing a massive response from the crowd.\n\nThe appearance came exactly 20 years after Madonna performed her 'Confessions On A Dance Floor' album for the first time in America at Coachella's Sahara Tent in 2006. Earlier this week, Madonna officially confirmed the release of 'Confessions II,' a sequel to that 2005 record, adding a promotional dimension to the surprise set.\n\nMadonna told the crowd the moment felt like 'a full circle' and described it as 'very meaningful.' She also joked that it was the first time she had performed alongside someone shorter than herself, a reference to Carpenter's stature. The collaboration capped Carpenter's second consecutive Friday headline slot at the festival, which draws more than 100,000 attendees daily.\n\nJustin Bieber is scheduled to headline Saturday night, with Colombian pop star Karol G closing out the second weekend on Sunday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "addedAt": "5:48 AM MT",
+      "addedAtISO": "2026-04-18T05:48:27.914857-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Japan Introduces New Term for Days Above 40°C Following Record-Shattering 2025 Summer",
+      "summary": "Japan's Meteorological Agency on Friday officially introduced 'kokushobi' — variously translated as 'cruelly hot' or 'brutally hot' day — as the new designation for days when temperatures reach 40 degrees Celsius (104 degrees Fahrenheit) or above. The term was selected through a national online survey that drew roughly 478,000 responses, with 'super extremely hot day' finishing second among 13 candidate options.\n\nThe new classification follows Japan's hottest summer on record in 2025, when average nationwide temperatures ran 2.36 degrees Celsius above the historical mean. Temperatures exceeded 40°C on nine separate days between June and August, and a new national record of 41.8°C was set in the city of Isesaki. Tokyo recorded 25 days above 35°C last summer, compared with an annual average of 4.5 such days.\n\nJapan already maintained official terminology for days exceeding 25°C, 30°C, and 35°C, and meteorologists said the frequency of extreme heat events had made a higher-tier classification necessary. The JMA is forecasting an above-normal probability of high temperatures returning this coming summer from June through August.\n\nScientists attribute the intensification of heatwaves globally to human-caused climate change, primarily the burning of fossil fuels. Japan's experience in 2025 — in which the cumulative number of extremely hot days also surpassed the previous record set just one year earlier in 2024 — has elevated the political and public health urgency around heat preparedness in the country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crr185nx0n9o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "addedAt": "5:48 AM MT",
+      "addedAtISO": "2026-04-18T05:48:27.914857-06:00"
+    },
+    {
       "category": "world",
       "headline": "Myanmar Frees Former President Win Myint in Broad Prisoner Amnesty",
       "summary": "Myanmar's military-installed President Min Aung Hlaing issued a sweeping amnesty Friday covering more than 4,500 prisoners, including former President Win Myint, to mark the country's traditional New Year. Win Myint, a close loyalist of Aung San Suu Kyi, had been serving an eight-year sentence after being arrested on the day of the February 2021 military coup.\n\nNotably absent from the amnesty was Suu Kyi herself, who continues to serve a 27-year sentence at an undisclosed location in the capital Naypyitaw. However, a senior military official told the Associated Press that Suu Kyi would be transferred to house arrest as part of the clemency measures, though this was not publicly confirmed in official statements. Under the amnesty terms, her sentence would be reduced by four and a half years, leaving approximately 22.5 years remaining.\n\nThe amnesty came one week after Min Aung Hlaing was inaugurated as president following an election widely condemned by critics as neither free nor fair and designed to entrench military rule. Among those also freed was filmmaker Shin Daewe, who had been sentenced to life imprisonment under counterterrorism laws. Since the 2021 coup, nearly 8,000 civilians have been killed and roughly 22,170 political detainees remain imprisoned.",
