@@ -3,6 +3,39 @@
   "dateFormatted": "Sunday, April 19, 2026",
   "stories": [
     {
+      "category": "other",
+      "headline": "3 University of Iowa Students Injured in Shooting Near Campus",
+      "summary": "Three University of Iowa students were injured in a shooting near campus early Sunday morning, according to university officials. The incident began shortly before 2 a.m. when a fight broke out at the downtown pedestrian mall in Iowa City; when police officers arrived, gunshots were fired.\n\nThe university issued an alert confirming victims were on scene and that first responders had responded. Details on the severity of the injuries and the status of any suspect were not immediately available in early reports.\n\nThe shooting adds to ongoing national concern over gun violence near college campuses. Iowa City police were leading the investigation as of Sunday morning.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/19/us/university-of-iowa-shooting.html",
+      "sourceCount": 4,
+      "disposition": "new",
+      "addedAt": "9:43 AM MT",
+      "addedAtISO": "2026-04-19T09:43:35.322473-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Australia's Most-Decorated Soldier Vows to Fight War Crime Murder Charges",
+      "summary": "Ben Roberts-Smith, Australia's most decorated living soldier and a Victoria Cross recipient, has publicly denied all allegations against him following his charging last week on five counts of the war crime of murder. Speaking in his first public statement since being released on bail Friday, Roberts-Smith said he was 'proud' of his service in Afghanistan and welcomed the charges as an opportunity to 'finally' clear his name.\n\nRoberts-Smith, 47, is accused of involvement in the deaths of unarmed Afghan detainees between 2009 and 2012, either by directly killing them or ordering a subordinate to do so. He described his arrest at Sydney airport on April 7 as a 'sensational' and 'unnecessary spectacle' and refused to take questions from reporters.\n\nThe criminal case follows a 2023 civil defamation trial in which a federal court found 'substantial truth' to some of the murder allegations — a ruling Roberts-Smith later lost on appeal. The presiding judge in the current bail proceeding noted the case was 'exceptional' and that Roberts-Smith could face 'possibly years and years' in custody before trial if bail had not been granted. He faces one charge of war crime murder, one of jointly commissioning a murder, and three of aiding, abetting, counselling or procuring a murder.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy91r7ww3weo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "addedAt": "9:43 AM MT",
+      "addedAtISO": "2026-04-19T09:43:35.322473-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "DOJ Refuses to Cooperate With France's Criminal Probe of Elon Musk's X Platform",
+      "summary": "The U.S. Department of Justice has informed French authorities it will not cooperate with France's criminal investigation into Elon Musk's social media platform X, according to a Wall Street Journal report. The DOJ's Office of International Affairs accused French authorities of attempting to weaponize the criminal legal system against a U.S. company and its owner.\n\nFrench investigators have been examining whether X violated French law in areas including content moderation and alleged facilitation of illegal activity on the platform. The refusal to cooperate marks a notable break from standard law enforcement cooperation between allied nations and reflects the Trump administration's posture of shielding Musk and his ventures from foreign regulatory and legal pressure.\n\nCritics argue the DOJ's decision sets a troubling precedent of placing political relationships above legal norms and international cooperation obligations. Supporters of the move contend that foreign governments have sought to use their legal systems to selectively target American tech platforms and their executives for political reasons. The episode comes as Musk remains a senior adviser to the Trump administration through his role leading the Department of Government Efficiency.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/5838025-doj-france-x-probe-musk/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "addedAt": "9:43 AM MT",
+      "addedAtISO": "2026-04-19T09:43:35.322473-06:00"
+    },
+    {
       "category": "world",
       "headline": "Beijing Robot Half Marathon: Winning Machine Posts Faster-Than-Human Record Time",
       "summary": "A robot named Lightning, developed by Chinese smartphone maker Honor, won a half marathon race in Beijing on Sunday, completing the course in 50 minutes and 26 seconds. That time would surpass the current men's human world record of 57 minutes and 20 seconds, set by Uganda's Jacob Kiplimo in Lisbon in March.\n\nThe event featured dozens of robots competing alongside human runners, with approximately 40 percent racing autonomously and the remainder remotely controlled. The race drew significant international attention as a showcase of China's advances in robotics and artificial intelligence-driven mobility.\n\nThe competition raises broader questions about the trajectory of humanoid robotics, particularly as Chinese technology firms accelerate investment in the sector. Honor's achievement in fielding a competitive bipedal robot capable of sustained endurance performance at this level is being viewed as a milestone in applied robotics.\n\nThe event was covered by five major outlets spanning the political spectrum, reflecting its significance as both a technology and geopolitical story. China has made robotics a national strategic priority, and demonstrations like this half marathon are seen as deliberate signals of technical capability on the world stage.",
