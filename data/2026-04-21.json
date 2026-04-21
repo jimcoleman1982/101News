@@ -4,6 +4,39 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: U.S. Forces Board Sanctioned Oil Tanker in Indian Ocean as Iran Ceasefire Deadline Looms",
+      "summary": "U.S. military forces boarded the M/T Tifani, a sanctioned oil tanker previously flagged for smuggling Iranian crude oil, in the Indian Ocean on Tuesday, the Pentagon announced. The operation was described as a \"right-of-visit maritime interdiction\" conducted \"without incident.\" Ship-tracking data showed the vessel was carrying oil between Sri Lanka and Indonesia at the time.\n\nThe boarding marks the latest escalation in the U.S. naval campaign to disrupt Iranian oil smuggling networks. The Pentagon described the Tifani as \"stateless\" despite its Botswana registration, and declared that any goods destined for Iran and susceptible to use in armed conflict are \"subject to capture at any place beyond neutral territory.\"\n\nThe action comes hours before the expiration of a fragile ceasefire between the U.S. and Iran, as Pakistan attempts to broker renewed talks between Washington and Tehran. Joint Chiefs Chairman Gen. Dan Caine stated last week that the U.S. blockade would extend globally, targeting Iranian-flagged or Iranian-supporting vessels in any theater, including the Pacific.\n\nThe announcement adds new pressure to already strained diplomacy. Iran has previously called U.S. maritime interdiction actions violations of the ceasefire, and the timing — just ahead of the truce deadline — raises the stakes for ongoing negotiations.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/u-s-forces-board-a-sanctioned-oil-tanker-without-incident-in-the-indian-ocean-the-pentagon-says",
+      "sourceCount": 2,
+      "disposition": "update",
+      "addedAt": "10:15 AM MT",
+      "addedAtISO": "2026-04-21T10:15:52.164494-06:00"
+    },
+    {
+      "category": "business",
+      "headline": "Trump Opposes United-American Airlines Merger, Backs Government Aid for Spirit",
+      "summary": "President Donald Trump said Tuesday he opposes a potential merger between American Airlines and United Airlines, while expressing openness to a government rescue of Spirit Aviation Holdings, the bankrupt low-cost carrier. Trump indicated someone — including possibly the federal government — should step in to buy or assist Spirit, signaling an unusual willingness to intervene directly in the airline industry.\n\nThe comments represent a notable departure from traditional Republican free-market orthodoxy on corporate consolidation. Trump's opposition to the United-American combination could complicate any discussions between the two major carriers, though no formal merger proposal has been publicly announced.\n\nSpirit Aviation filed for bankruptcy protection in late 2024 after a federal court blocked its proposed merger with JetBlue. The airline has been struggling with fleet groundings, high debt, and declining passenger demand. A government rescue would be rare in the modern U.S. aviation industry, though precedents exist from the post-9/11 era and the COVID-19 pandemic.\n\nThe airline industry has faced mounting pressure from tariff-related economic uncertainty and softening travel demand in early 2026. Trump's remarks add a new layer of political complexity to ongoing restructuring talks and could influence how regulators and Congress approach aviation consolidation in the coming months.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/trump-wants-to-see-buyer-for-spirit-pans-united-american-merger",
+      "sourceCount": 3,
+      "disposition": "new",
+      "addedAt": "10:15 AM MT",
+      "addedAtISO": "2026-04-21T10:15:52.164494-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Nigerian Police Arrest 42 Suspects After Armed Men Kidnap Traditional Ruler from Palace",
+      "summary": "Nigerian police have arrested 42 suspected illegal miners in connection with the kidnapping of Oba Salman Olatunji Aweda, the traditional ruler of the Olayinka community in Kwara State, who was abducted Saturday evening when armed men stormed his palace. Kidnappers have reportedly demanded a ransom of $300,000, though authorities have not officially confirmed the figure. The monarch's brother was also taken but was left tied to a tree after he became too exhausted to continue.\n\nKwara State Commissioner of Police Adekimi Ojo said approximately ten heavily armed men forced entry into the palace shortly after miners who had been doing business with the monarch departed. The gunmen seized the king and fled into surrounding forest, where security forces and vigilante groups are now conducting search operations.\n\nThe abduction reflects a worsening security situation in parts of Kwara State, where criminal gangs — known locally as bandits — have increasingly expanded operations southward from their traditional strongholds in Nigeria's northwest. The jihadist group Mahmuda has also been active in the region and carried out a deadly attack on a Muslim community in February, killing at least 75 people.\n\nAuthorities say they are coordinating with multiple security agencies and local vigilante groups to secure the monarch's safe release. The incident underscores growing concerns about the safety of traditional rulers and rural communities across Nigeria's middle belt.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr71de2dr32o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "addedAt": "10:15 AM MT",
+      "addedAtISO": "2026-04-21T10:15:52.164494-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Eleven U.S. Scientists Dead or Missing: Are the Cases Connected?",
       "summary": "At least eleven American scientists have died or gone missing in recent months, prompting questions from investigators, lawmakers, and media outlets about whether the cases are linked. The story has drawn coverage from eight major outlets spanning the political spectrum, reflecting widespread public and official concern.\n\nThe circumstances of the deaths and disappearances vary, and authorities have not publicly established a definitive connection between the cases. Some analysts caution against drawing premature conclusions, noting that coincidental clustering of unrelated incidents can appear meaningful without constituting a pattern.\n\nThe story has taken on national security dimensions given the scientific fields involved, with some commentators raising the possibility of foreign intelligence activity. Federal investigators have not confirmed any such link publicly, and officials urge restraint pending further review.\n\nThe breadth of media attention — from Al Jazeera and the New York Times on the left to Fox News and National Review on the right — suggests the story has transcended partisan framing and is being treated primarily as a national security and public safety matter.",
       "source": "National Review",
