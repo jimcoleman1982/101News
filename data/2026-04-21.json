@@ -3,6 +3,39 @@
   "dateFormatted": "Tuesday, April 21, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "Hegseth Ends Mandatory Flu Vaccine Requirement for U.S. Service Members",
+      "summary": "Defense Secretary Pete Hegseth announced Tuesday that the Pentagon is eliminating its longstanding mandatory annual influenza vaccination requirement for U.S. military personnel. Hegseth framed the change as restoring \"medical autonomy\" and protecting service members' freedom to express religious convictions, saying troops can now opt in voluntarily.\n\nThe policy shift is part of a broader pattern of the Trump administration revisiting federal vaccine mandates, following earlier moves to roll back COVID-19 vaccination requirements for military personnel. Supporters of the change argue it respects individual rights and reduces government overreach into personal medical decisions.\n\nCritics, including some medical and military readiness advocates, have warned that mandatory flu vaccination in the armed forces exists for operational reasons — reducing illness-related personnel losses during deployments and in confined military environments where disease can spread rapidly. Opponents argue the change prioritizes ideological concerns over force readiness.\n\nThe Pentagon has not indicated whether other mandatory vaccinations required for military service will be revisited under the new policy direction.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/5841096-pentagon-ends-mandatory-flu-vaccines/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-04-21T11:08:11.682280-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Mauritius Threatens Legal Action If UK Abandons Chagos Islands Sovereignty Deal",
+      "summary": "The government of Mauritius warned Monday that it is considering all available legal options to compel the United Kingdom to proceed with a planned transfer of sovereignty over the Chagos Islands, after London placed the deal on hold amid opposition from the United States. The agreement, negotiated under the previous British government, would have handed control of the archipelago to Mauritius while preserving the strategically vital Diego Garcia military base used jointly by the U.S. and UK.\n\nThe Biden administration had brokered the framework, but the Trump administration has signaled opposition to ceding control of Diego Garcia, which plays a central role in U.S. military operations across the Indian Ocean and Middle East. The UK government's decision to pause the deal reflects Washington's concerns about Chinese influence in the region, given China's growing ties with Mauritius.\n\nMauritius has long argued it has sovereign rights over the Chagos Islands under international law, a position affirmed in a 2019 International Court of Justice advisory opinion and a subsequent UN General Assembly resolution calling on the UK to complete decolonization of the territory. Mauritius's government says the legal case for the transfer is well established and that continued British administration is illegitimate under international norms.\n\nThe standoff highlights the tension between the UK's post-Brexit effort to maintain close alignment with Washington and its obligations under international law and prior diplomatic commitments. No timeline for a resolution has been announced.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/mauritius-hints-at-legal-action-if-uk-scraps-chagos-islands-deal",
+      "sourceCount": 2,
+      "disposition": "new",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-04-21T11:08:11.682280-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Andreessen Horowitz Backs 24/7 News Livestream on X, Joining Silicon Valley Push Into Media",
+      "summary": "Andreessen Horowitz, one of Silicon Valley's most influential venture capital firms, helped launch a 24-hour livestream news program called \"Monitoring the Situation\" on Elon Musk's platform X on Monday, the latest move by major tech figures to invest directly in news and political commentary operations. The show joins a growing wave of tech-funded media ventures aimed at capturing audiences that have migrated away from traditional broadcast and print outlets.\n\nThe program's name references a phrase that became a viral cultural touchstone in tech circles, previously adopted as the theme of a Polymarket pop-up bar in Washington, D.C. The launch reflects how figures in the technology sector — many of whom became more overtly political during and after the 2024 election cycle — are seeking to shape public discourse through direct media ownership rather than relying on legacy news organizations.\n\nThe development is drawing scrutiny from media observers who note that tech billionaires now control or fund significant portions of the U.S. information ecosystem, from Musk's ownership of X to Jeff Bezos's ownership of The Washington Post. Supporters argue the new ventures increase competition and break the dominance of ideologically homogeneous legacy media; critics warn of conflicts of interest when major investors in technology and financial markets also control news platforms covering those sectors.\n\nThe trend raises broader questions about editorial independence and the blurring of lines between venture capital, political advocacy, and journalism as the media industry undergoes continued structural upheaval.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/04/21/monitoring-the-situation-livestream-news-cycle",
+      "sourceCount": 2,
+      "disposition": "new",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-04-21T11:08:11.682280-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: U.S. Forces Board Sanctioned Oil Tanker in Indian Ocean as Iran Ceasefire Deadline Looms",
       "summary": "U.S. military forces boarded the M/T Tifani, a sanctioned oil tanker previously flagged for smuggling Iranian crude oil, in the Indian Ocean on Tuesday, the Pentagon announced. The operation was described as a \"right-of-visit maritime interdiction\" conducted \"without incident.\" Ship-tracking data showed the vessel was carrying oil between Sri Lanka and Indonesia at the time.\n\nThe boarding marks the latest escalation in the U.S. naval campaign to disrupt Iranian oil smuggling networks. The Pentagon described the Tifani as \"stateless\" despite its Botswana registration, and declared that any goods destined for Iran and susceptible to use in armed conflict are \"subject to capture at any place beyond neutral territory.\"\n\nThe action comes hours before the expiration of a fragile ceasefire between the U.S. and Iran, as Pakistan attempts to broker renewed talks between Washington and Tehran. Joint Chiefs Chairman Gen. Dan Caine stated last week that the U.S. blockade would extend globally, targeting Iranian-flagged or Iranian-supporting vessels in any theater, including the Pacific.\n\nThe announcement adds new pressure to already strained diplomacy. Iran has previously called U.S. maritime interdiction actions violations of the ceasefire, and the timing — just ahead of the truce deadline — raises the stakes for ongoing negotiations.",
