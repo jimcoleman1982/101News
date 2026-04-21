@@ -3,6 +3,28 @@
   "dateFormatted": "Tuesday, April 21, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "DHS Secretary Mullin Warns Department Will Run Out of Money for Salaries in Early May",
+      "summary": "Department of Homeland Security Secretary Markwayne Mullin warned Tuesday that his department will be unable to pay employee salaries starting in early May if the ongoing partial government shutdown continues. The funding lapse, which affects all 22 agencies within DHS, has now stretched for a record 66 days, with the department's payroll currently being sustained through stopgap measures.\n\nMullin indicated that without a resolution to the congressional funding impasse, DHS would exhaust its available resources for payroll during the first week of May. The warning represents a significant escalation in the stakes of the prolonged shutdown, as it would directly affect the compensation of hundreds of thousands of federal employees across immigration, border security, customs, and emergency management agencies.\n\nThe shutdown has drawn criticism from Democrats, who argue the administration has failed to negotiate in good faith with Congress to restore full funding. Supporters of the administration have framed the impasse as part of broader efforts to force structural changes in federal spending and agency operations.\n\nThe prospect of missed paychecks for DHS personnel raises fresh concerns about operational continuity at agencies responsible for border enforcement and national security functions, at a time when the administration has made border security a central policy priority.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5841627-dhs-funding-salaries-running-out-may-markwayne-mullin/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "addedAt": "3:03 PM MT",
+      "addedAtISO": "2026-04-21T15:03:43.587116-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Canada Unveils Space-Launch Legislation Aimed at Reducing Dependence on United States",
+      "summary": "Prime Minister Mark Carney's government introduced legislation Tuesday to establish a domestic space-launch framework for Canada, framing the move as part of a broader effort to assert Canadian sovereignty and reduce reliance on the United States for critical space infrastructure. The bill represents a significant policy shift as Ottawa works to diversify strategic partnerships amid ongoing trade tensions with Washington.\n\nThe legislation would create a regulatory and licensing structure for commercial and government space-launch operations on Canadian soil, opening the door for the country to develop its own launch capabilities rather than depending on American providers such as SpaceX or United Launch Alliance. Canadian officials have pointed to recent strains in the bilateral relationship as a catalyst for accelerating the country's technological self-sufficiency.\n\nCarney's government has pursued a series of sovereignty-asserting measures since taking office, spanning trade diversification, Arctic military presence, and now space access. The space bill fits into a pattern of policies designed to signal to both domestic audiences and international partners that Canada is prepared to act independently of the United States when necessary.\n\nThe timing is notable given that Canada recently elected Carney on a platform explicitly addressing economic overdependence on the U.S. The bill must still pass Parliament before becoming law, and analysts note that building actual launch infrastructure would require substantial investment and years of development.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/canada-unveils-space-launch-bill-aimed-at-cutting-reliance-on-us",
+      "sourceCount": 1,
+      "disposition": "new",
+      "addedAt": "3:03 PM MT",
+      "addedAtISO": "2026-04-21T15:03:43.587116-06:00"
+    },
+    {
       "category": "business",
       "headline": "Pentagon Seeks $75 Billion for Drones in Record Defense Budget Request",
       "summary": "The Department of Defense has submitted its largest-ever budget request, with $75 billion earmarked specifically for drones and counter-drone technologies, according to defense officials. The bulk of the increase is directed toward a little-known Pentagon office that works alongside U.S. special operations forces to test and evaluate unmanned systems across a range of operational environments.\n\nThe record ask reflects a strategic shift in U.S. military doctrine toward autonomous and unmanned platforms, accelerated in part by lessons drawn from the conflicts in Ukraine and the Middle East, where drone warfare has reshaped battlefield tactics. Counter-drone capabilities have also become a priority as adversaries deploy low-cost unmanned systems against U.S. and allied forces.\n\nThe budget submission sets up a significant appropriations debate in Congress, where lawmakers on both sides have generally supported increased defense spending but differ on priorities and procurement oversight. Supporters argue the investment is essential to maintaining technological superiority over China and Russia, while critics may scrutinize the pace of acquisition and the oversight mechanisms for rapidly scaling drone programs.",
