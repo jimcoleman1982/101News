@@ -4,6 +4,28 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "9th Circuit Blocks California Law Requiring ICE Agents to Display Visible ID",
+      "summary": "The U.S. Court of Appeals for the 9th Circuit on Wednesday halted enforcement of a California law that required federal immigration agents and other law enforcement officers to wear visible identification during operations. The court agreed with the Trump administration's argument that the mandate is likely unconstitutional, keeping the law on pause while the case proceeds to a full resolution.\n\nThe California law, passed in 2025, was championed by Gov. Gavin Newsom and state Democrats as a transparency and accountability measure aimed at ensuring residents could identify agents conducting immigration enforcement. Supporters argued it was necessary to protect civil liberties and prevent abuses during deportation operations.\n\nThe Trump administration challenged the law as an unconstitutional state intrusion on federal authority, arguing that states cannot impose operational requirements on federal agents carrying out federal law. The 9th Circuit's interim ruling is a legal victory for the administration as it continues to press aggressive immigration enforcement across the country.\n\nThe decision adds to a growing body of rulings shaping the boundaries between state and federal power on immigration. Critics of the ruling warn it removes a basic accountability mechanism, while administration supporters say the outcome correctly affirms that federal agencies cannot be regulated by individual states in how they perform national law enforcement duties.",
+      "source": "The Hill",
+      "url": "https://thehill.com/regulation/court-battles/5843390-ice-id-california-newsom-trump-immigration/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "addedAt": "2:08 PM MT",
+      "addedAtISO": "2026-04-22T14:08:05.692221-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Sen. Cassidy Confronts RFK Jr. on Measles Outbreak Response and Vaccine Trust at Senate Hearing",
+      "summary": "Sen. Bill Cassidy (R-La.), chairman of the Senate Health, Education, Labor, and Pensions Committee, sharply questioned Health and Human Services Secretary Robert F. Kennedy Jr. on Wednesday over the ongoing measles outbreak and the administration's handling of vaccine public trust. Cassidy, who cast a pivotal vote to confirm Kennedy last year after securing specific commitments from him, told Kennedy he has not kept those promises.\n\nCassidy pressed Kennedy on what concrete steps HHS is taking to contain measles and prevent additional outbreaks, with the United States preparing to co-host the men's World Cup. The senator also questioned Kennedy about abortion drugs and broader public health preparedness, pressing for specifics the secretary was unable to fully provide during the hearing.\n\nKennedy has drawn bipartisan criticism for promoting vaccine skepticism in his public statements since taking office. Public health officials and pediatric groups have warned that declining vaccination rates, which they partly attribute to mixed signals from Kennedy's HHS, have contributed to the measles resurgence — the largest in years.\n\nThe hearing underscores growing tension between Kennedy and Republican allies who supported his confirmation expecting he would pursue health agency reform without undermining vaccine confidence. Democrats have used the hearings to highlight what they describe as a public health crisis driven by the administration's posture on vaccines, while some Republicans now acknowledge frustration with Kennedy's performance on core commitments.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/senate/5843538-measles-outbreak-cdc-director/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "addedAt": "2:08 PM MT",
+      "addedAtISO": "2026-04-22T14:08:05.692221-06:00"
+    },
+    {
+      "category": "politics",
       "headline": "Update: Virginia Redistricting Win Gives Democrats Momentum in Nationwide Map Fight",
       "summary": "Virginia voters narrowly approved a Democratic-drawn congressional redistricting plan on Tuesday, a result that could reshape the balance of power in the U.S. House. The new map is projected to place four Republican incumbents in Democrat-friendly districts ahead of November's midterm elections, potentially flipping as many as four seats.\n\nThe vote represents a significant payoff for Democrats who made an aggressive bet on redrawing the map in a competitive purple state. The nationwide redistricting fight was originally provoked by President Trump's push to redraw maps in Republican-controlled states, and Democrats' Virginia victory is now seen as shifting momentum in their favor.\n\nRepublicans have criticized the Democratic map as a partisan gerrymander designed to entrench Democratic power rather than serve voters. Democrats counter that the move was a necessary response to Republican redistricting efforts in other states and argue the new districts better reflect Virginia's evolving electorate.\n\nThe outcome has national implications: with the House majority currently narrow, a net gain of four seats from Virginia alone could significantly alter the chamber's composition after the November elections. Analysts caution that incumbency advantages and campaign dynamics could still affect actual results.",
       "source": "Axios",
