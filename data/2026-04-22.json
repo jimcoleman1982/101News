@@ -4,6 +4,28 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Update: Virginia Redistricting Win Gives Democrats Momentum in Nationwide Map Fight",
+      "summary": "Virginia voters narrowly approved a Democratic-drawn congressional redistricting plan on Tuesday, a result that could reshape the balance of power in the U.S. House. The new map is projected to place four Republican incumbents in Democrat-friendly districts ahead of November's midterm elections, potentially flipping as many as four seats.\n\nThe vote represents a significant payoff for Democrats who made an aggressive bet on redrawing the map in a competitive purple state. The nationwide redistricting fight was originally provoked by President Trump's push to redraw maps in Republican-controlled states, and Democrats' Virginia victory is now seen as shifting momentum in their favor.\n\nRepublicans have criticized the Democratic map as a partisan gerrymander designed to entrench Democratic power rather than serve voters. Democrats counter that the move was a necessary response to Republican redistricting efforts in other states and argue the new districts better reflect Virginia's evolving electorate.\n\nThe outcome has national implications: with the House majority currently narrow, a net gain of four seats from Virginia alone could significantly alter the chamber's composition after the November elections. Analysts caution that incumbency advantages and campaign dynamics could still affect actual results.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/04/22/virginia-democrats-redraw-maps-vote",
+      "sourceCount": 3,
+      "disposition": "update",
+      "addedAt": "1:26 PM MT",
+      "addedAtISO": "2026-04-22T13:26:05.792446-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "Judge Dismisses Kash Patel Defamation Suit Over 'Nightclubs' Remark",
+      "summary": "A federal judge in Texas dismissed FBI Director Kash Patel's defamation lawsuit against former MSNBC contributor Frank Figliuzzi on Tuesday, ruling that Patel failed to allege a viable defamation claim. Figliuzzi had suggested on air that Patel spent more time in nightclubs than at FBI headquarters in Washington.\n\nU.S. District Judge George C. Hanks, Jr. issued the dismissal, finding the claim legally insufficient. Patel, who has been a prominent and controversial figure since taking the FBI director post, brought the suit over comments he argued damaged his professional reputation.\n\nThe dismissal is the latest legal setback for Patel in his efforts to pursue defamation claims related to media commentary about his conduct and qualifications. Critics of Patel have argued that, as a public official, he faces a high legal bar to prevail in defamation cases under the actual malice standard established in New York Times v. Sullivan.\n\nSupporters of Patel contend that media figures have used commentary formats to make factually grounded-sounding attacks on the FBI director with little accountability. The ruling does not prevent Patel from filing an amended complaint or pursuing separate legal action.",
+      "source": "The Hill",
+      "url": "https://thehill.com/regulation/court-battles/5843166-kash-patel-ms-now-defamation-lawsuit-dismissed/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "addedAt": "1:26 PM MT",
+      "addedAtISO": "2026-04-22T13:26:05.792446-06:00"
+    },
+    {
+      "category": "politics",
       "headline": "Update: Senate Majority Leader Thune Presses Trump to End Fed Standoff, Confirm Warsh as Chair",
       "summary": "Senate Majority Leader John Thune (R-S.D.) is publicly urging the Trump administration to move quickly to wrap up the uncertainty surrounding the Federal Reserve chairmanship and advance Kevin Warsh's confirmation. Thune told reporters Tuesday that Warsh is a strong pick and that the administration should resolve the situation as soon as possible, signaling growing impatience within the Senate Republican conference.\n\nFrustration has been building among GOP senators who view the prolonged standoff over Fed leadership as a self-inflicted wound that threatens their political standing on core economic issues, particularly inflation and growth. The administration's handling of the Fed question has drawn scrutiny amid broader market volatility tied to trade and tariff policy.\n\nAdding a separate layer of tension, U.S. Attorney Jeanine Pirro has been conducting an investigation into building-renovation cost overruns at the Federal Reserve, a probe critics have described as politically motivated pressure on the central bank. Supporters argue the investigation reflects legitimate oversight of federal spending.\n\nThe Fed chairmanship situation remains unresolved, with current Chair Jerome Powell's term not expiring until mid-2026. Markets and analysts have closely watched any signals from the White House about its intentions, given the potential impact on interest rate policy and economic stability.",
       "source": "Axios",
