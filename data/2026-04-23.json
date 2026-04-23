@@ -3,6 +3,28 @@
   "dateFormatted": "Thursday, April 23, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "Meta to Lay Off 8,000 Employees in AI-Driven Efficiency Push",
+      "summary": "Meta announced Thursday it plans to cut roughly 8,000 employees, representing approximately 10 percent of its global workforce, as the company seeks to manage soaring costs tied to its aggressive artificial intelligence investment strategy. The company also said it would close around 6,000 open positions that had not yet been filled, compounding the scale of the workforce reduction.\n\nThe layoffs come as Meta's capital expenditures have ballooned significantly in recent years, driven by massive spending on data centers, chips, and AI infrastructure. Investors have raised concerns that the pace of AI-related spending could erode profit margins, and the announcement appears aimed in part at reassuring markets that leadership is prioritizing financial discipline alongside technology development.\n\nThe cuts also follow two significant legal defeats for the company, adding further pressure on executives to demonstrate cost control. The restructuring underscores a broader trend in the technology sector, where even the largest and most profitable companies are reducing headcount to offset the expenses associated with the AI arms race.\n\nMeta joins a growing list of major technology firms — including Microsoft, Google, and Amazon — that have conducted large-scale layoffs in recent years while simultaneously accelerating AI investment. The move raises questions about the long-term employment impact of AI automation on the workforce within the industry that is building the technology.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/04/23/meta-layoffs-ai-efficiency-push",
+      "sourceCount": 3,
+      "disposition": "new",
+      "addedAt": "3:58 PM MT",
+      "addedAtISO": "2026-04-23T15:58:47.968088-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "FDA Approves First Gene Therapy for Deafness, a Medical Milestone",
+      "summary": "The U.S. Food and Drug Administration approved the first-ever gene therapy for deafness on Thursday, greenlighting a treatment developed by Regeneron Pharmaceuticals. The therapy targets a rare genetic form of hearing loss and marks a significant milestone in the field of gene-based medicine.\n\nThe approval represents the culmination of years of clinical development and offers a potential path to restored hearing for patients with the specific genetic mutation the therapy addresses. Early recipients have shown meaningful gains in auditory function, with one parent of a treated child telling reporters, \"Our baby was born deaf, and now he can hear.\"\n\nWhile the condition treated is rare, researchers and patient advocates say the approval establishes a critical precedent for using gene therapy to address sensory and neurological disorders more broadly. It also adds to a growing portfolio of FDA-approved gene therapies that have emerged over the past decade for conditions including certain cancers, hemophilia, and inherited blindness.\n\nRegenerons treatment works by delivering a functional copy of the affected gene directly to cells in the inner ear, enabling them to produce proteins necessary for sound perception. The FDA's approval was granted following review of clinical trial data, though the agency is expected to require post-market studies to monitor long-term safety and efficacy.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/23/nx-s1-5795526/deafness-gene-therapy-regeneron",
+      "sourceCount": 2,
+      "disposition": "new",
+      "addedAt": "3:58 PM MT",
+      "addedAtISO": "2026-04-23T15:58:47.968088-06:00"
+    },
+    {
       "category": "politics",
       "headline": "Justice Department Launches Broad Denaturalization Push Against Naturalized U.S. Citizens",
       "summary": "The Department of Justice confirmed Thursday it has referred multiple cases to U.S. attorney offices across the country with the goal of stripping citizenship from naturalized Americans, marking an unusually aggressive expansion of denaturalization efforts. Historically, such actions have been rare and reserved for cases involving fraud or concealment of serious crimes committed before or during the naturalization process.\n\nThe move signals a significant shift in immigration enforcement strategy by the Trump administration, extending pressure beyond undocumented immigrants to those who have already completed the legal naturalization process. Critics warn that broadening denaturalization could threaten the legal status of millions of immigrants who followed proper channels to obtain citizenship.\n\nSupporters of the effort argue that denaturalization remains a legitimate legal remedy when citizenship was obtained improperly, and that enforcing existing law is a core government responsibility. Civil liberties organizations and immigration advocates counter that the push represents an unprecedented weaponization of denaturalization as a tool of broader immigration restriction, raising due process concerns.\n\nThe story was covered by six major outlets spanning the political spectrum, including Fox News, NBC, CBS, Al Jazeera, The Guardian, and The Hill, reflecting its broad national significance. The administration has not disclosed the total number of individuals targeted or the specific grounds cited in each referral.",
