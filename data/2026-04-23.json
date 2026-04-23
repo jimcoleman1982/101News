@@ -3,6 +3,50 @@
   "dateFormatted": "Thursday, April 23, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Tanzania Officially Confirms 518 Deaths in Post-Election Violence",
+      "summary": "Tanzania's government has released its first official death toll from violence following the October 2025 general election, confirming at least 518 people were killed. The announcement marks the first time authorities have publicly acknowledged the scale of the bloodshed that followed the disputed vote.\n\nThe post-election unrest drew widespread international condemnation and raised serious concerns about democratic backsliding in one of East Africa's largest nations. Opposition groups and human rights organizations had previously alleged that the true toll was being suppressed by the ruling party.\n\nThe release of an official figure, however delayed, represents a notable shift in the government's posture toward transparency on the crisis. Analysts say the acknowledgment could open the door to accountability processes, though critics warn that without independent verification, the figure may still undercount total casualties.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/tanzania-says-at-least-518-died-in-violence-after-2025-election",
+      "sourceCount": 1,
+      "disposition": "new",
+      "addedAt": "6:07 AM MT",
+      "addedAtISO": "2026-04-23T06:07:30.306322-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Update: DOJ Indicts Southern Poverty Law Center on Federal Fraud Charges Over Secret Paid Informant Program",
+      "summary": "Federal prosecutors have announced fraud charges against the Southern Poverty Law Center, the prominent civil rights organization known for tracking hate groups. Acting Attorney General Todd Blanche said the SPLC secretly funneled more than $3 million to individuals associated with violent extremist organizations, including the KKK, the neo-Nazi National Alliance, and the National Socialist Movement, between 2014 and 2023. The indictment includes six counts of wire fraud, four counts of bank fraud, and one count of conspiracy to commit money laundering.\n\nAmong the most striking allegations: the SPLC sent more than $270,000 to a person who helped plan and attended the deadly 2017 Unite the Right rally in Charlottesville, Virginia. In another case, more than $1 million was paid over nine years to someone who had infiltrated and stolen documents from the National Alliance. The DOJ alleges the organization misrepresented to donors how their contributions would be used.\n\nSPLC interim leader Bryan Fair said the organization would 'vigorously defend ourselves, our staff, and our work,' calling the prosecution the latest example of the Trump administration targeting civil rights groups. He noted that the use of informants 'was necessary because we are no stranger to threats of violence,' citing a 1983 firebombing of the group's offices.\n\nThe case is politically charged. Conservatives have long accused the SPLC of unfairly designating mainstream right-leaning organizations as hate groups, while supporters of the SPLC argue the charges represent a politically motivated assault on one of the country's most storied civil rights institutions. The FBI severed its relationship with the SPLC in October, calling it a 'partisan smear machine.'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyrkd022ejo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "addedAt": "6:07 AM MT",
+      "addedAtISO": "2026-04-23T06:07:30.306322-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Insider Bets on Orban's Fall Traced to Fund Linked to Hungarian PM's Family",
+      "summary": "An asset-management fund within the Equilor group of companies, which is partly owned by Hungarian Prime Minister Viktor Orban's son-in-law, made substantial financial-market bets that Orban would lose power. The revelation raises significant questions about whether individuals at the heart of Orban's own political and financial network had advance knowledge of, or diminishing confidence in, his political future.\n\nOrban has governed Hungary since 2010 and is widely regarded as one of Europe's most entrenched authoritarian leaders, having consolidated control over the judiciary, media, and electoral system. The discovery that a fund linked to his inner circle was wagering against his continued rule is a potentially damaging political embarrassment.\n\nThe report adds to growing scrutiny of Orban's family financial interests and the overlapping networks of business and political power in Hungary. Opposition figures and EU officials have long argued that Orban's governance has blurred the lines between state resources and personal enrichment for those close to him.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/big-bet-on-orban-s-exit-came-from-center-of-his-family-s-empire",
+      "sourceCount": 1,
+      "disposition": "new",
+      "addedAt": "6:07 AM MT",
+      "addedAtISO": "2026-04-23T06:07:30.306322-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Senate Votes in Early Morning Session, Making Incremental Progress on DHS Shutdown",
+      "summary": "The U.S. Senate held a late-night vote-a-rama session, producing a small but notable sign of progress toward resolving the two-month Department of Homeland Security shutdown. A 3 a.m. vote indicated that some bipartisan movement may be possible after weeks of deadlock over DHS funding.\n\nThe shutdown, which has left significant portions of DHS operations in limbo, has been a source of growing concern among lawmakers on both sides of the aisle, with border security and immigration enforcement operations among those affected. Pressure has mounted on congressional leadership to reach a resolution.\n\nDetails of what specifically advanced in the overnight session were limited, but the development suggests negotiations are continuing at the staff and leadership level. The outcome of any eventual funding agreement could have broad implications for immigration policy and federal law enforcement operations heading into the summer.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-04-23/senate-vote-a-rama-yields-progress-on-dhs-shutdown",
+      "sourceCount": 1,
+      "disposition": "new",
+      "addedAt": "6:07 AM MT",
+      "addedAtISO": "2026-04-23T06:07:30.306322-06:00"
+    },
+    {
       "category": "politics",
       "headline": "Johnson Faces Pressure From Both Parties as DHS Funding Deadline Looms",
       "summary": "Speaker Mike Johnson is under intensifying pressure from Republicans and Democrats alike as the Department of Homeland Security approaches a deadline at which it would lack funds to pay employees. Johnson is insisting on passing a GOP-only bill to fund immigration enforcement before taking up broader, bipartisan legislation to fund the rest of DHS — a sequencing that has put him at odds with Senate Republicans who want a more sweeping election-year affordability package.\n\nSenate Republicans and House Republicans are on a collision course over whether to use a budget vehicle that Democrats cannot block to narrowly fund DHS immigration operations or to pursue a larger legislative push. Senate Republicans posted on social media that 'Democrats voted to defund law enforcement 16+ times in the last 68 days,' while Democrats have said they will not approve a DHS budget without accompanying reforms.\n\nThe standoff reflects broader tensions within the Republican conference over immigration strategy heading into the 2026 midterm elections. Democrats argue that Republicans are manufacturing a funding crisis to score political points on border security, while Republicans contend that Democrats are blocking essential funding for immigration enforcement officers.",
