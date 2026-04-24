@@ -1,0 +1,39 @@
+{
+  "date": "2026-04-24",
+  "dateFormatted": "Friday, April 24, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: U.S. Soldier Charged With Insider Trading After Betting $400,000 on Maduro Capture",
+      "summary": "An active-duty U.S. Army Special Forces soldier stationed at Fort Bragg, North Carolina, has been charged with insider trading and related federal crimes after allegedly placing bets on a crypto-based prediction market using classified information about the operation to capture Venezuelan leader Nicolás Maduro. Gannon Ken Van Dyke won more than $409,000 on Polymarket by wagering on the timing and outcome of Operation Absolute Resolve, the night-time raid on January 3 that seized Maduro and his wife from their Caracas compound.\n\nThe Department of Justice alleges Van Dyke created a Polymarket account on or about December 26, 2025, and placed bets of more than $33,000 while in possession of classified nonpublic information about the operation. He faces charges of unlawful use of confidential government information for personal gain, theft of nonpublic government information, commodities fraud, wire fraud, and making an unlawful monetary transaction.\n\nActing Attorney General Todd Blanche said service members are 'prohibited from using this highly sensitive information for personal financial gain,' while U.S. Attorney Jay Clayton emphasized that prediction markets are 'not a haven for using misappropriated confidential or classified information.' Polymarket said it identified the suspicious trading, referred the matter to the DOJ, and cooperated with the investigation.\n\nThe case marks one of the first federal prosecutions involving insider trading on a crypto-powered prediction market, raising new legal questions about how existing securities and national security laws apply to the rapidly growing prediction market industry. The indictment was unsealed Thursday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 6,
+      "disposition": "update",
+      "addedAt": "12:19 AM MT",
+      "addedAtISO": "2026-04-24T00:19:57.063101-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Singer D4vd Had 'Significant Amount' of Child Sex Abuse Images at Time of Arrest, Prosecutors Say",
+      "summary": "Prosecutors in Los Angeles revealed in court Thursday that singer D4vd, whose real name is David Anthony Burke, possessed 'a significant amount' of child sexual abuse material on his phone and iCloud account at the time of his arrest, discovered through search warrants in the investigation into the death of 14-year-old Celeste Rivas Hernandez. Prosecutors allege Burke repeatedly sexually abused the teenager before killing and dismembering her, actions they say he undertook to protect his music career.\n\nBurke has pleaded not guilty to murder and other charges, including continuous sexual abuse of a child and mutilation of remains. His attorneys have maintained they 'will vigorously defend David's innocence' and said they believe the 'evidence will show that David did not kill Celeste.' He is not currently facing a separate criminal charge related to the newly disclosed child sexual abuse material.\n\nRivas Hernandez's body was found dismembered in a black zipper bag in the front trunk of Burke's Tesla in September 2025 after police received a report of a foul odor from a tow yard where the vehicle had been taken. Prosecutors say she was last seen at Burke's Hollywood Hills home on April 3, 2025, and had been reported missing by her family.\n\nTwo additional court hearings are scheduled for next week. The case has drawn significant public attention due to Burke's rise to fame through viral TikTok hits and the months-long gap between the discovery of remains and his arrest.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn53vg3y574o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "addedAt": "12:19 AM MT",
+      "addedAtISO": "2026-04-24T00:19:57.063101-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Update: White House Memo Accuses Chinese Firms of 'Industrial-Scale' AI Theft Through Distillation Campaigns",
+      "summary": "The White House has issued an internal memo warning that foreign entities, principally based in China, are conducting coordinated campaigns to steal U.S. artificial intelligence advances through a process called 'distillation,' in which thousands of accounts are used to systematically extract proprietary information from American AI models. Michael Kratsios, Director of Science and Technology Policy, wrote that the aim of these campaigns is to 'systematically undermine American research and development and access proprietary information.'\n\nKratsios outlined four areas of White House action to detect and halt the exploitation, though the memo did not detail specific punitive measures against foreign entities. A White House spokesperson declined to comment beyond the memo's contents. Major AI companies including OpenAI and Anthropic have previously reported dealing with such activity; Anthropic has specifically identified Chinese laboratories DeepSeek, Moonshot, and MiniMax as having carried out distillation attacks against its models.\n\nChina's U.S. Embassy pushed back, saying China's AI development is 'the result of its own dedication and effort as well as international cooperation that delivers mutual benefits,' and objected to what it called 'unjustified suppression of Chinese companies by the US.' The embassy's statement also described China as becoming 'the world's innovation lab.'\n\nThe memo escalates a long-running dispute over AI intellectual property and national security, coming as competition between U.S. and Chinese AI developers has intensified following the rapid global uptake of DeepSeek's models earlier this year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "addedAt": "12:19 AM MT",
+      "addedAtISO": "2026-04-24T00:19:57.063101-06:00"
+    }
+  ]
+}
