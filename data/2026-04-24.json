@@ -3,6 +3,61 @@
   "dateFormatted": "Friday, April 24, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Supreme Court Rules 6-3 That Military Contractors Can Face Lawsuits Over Unauthorized Combat Conduct",
+      "summary": "The Supreme Court ruled Wednesday that a lawsuit brought by a U.S. Army veteran injured in a 2016 Taliban suicide bombing at Bagram Airfield in Afghanistan may proceed, vacating a lower court dismissal. The 6-3 majority opinion, written by Justice Clarence Thomas, rejected a broad \"battlefield preemption\" doctrine that would have automatically shielded military contractors from state-law liability for conduct in combat zones.\n\nThomas was joined by an unusual cross-ideological coalition — Justices Sonia Sotomayor, Elena Kagan, Neil Gorsuch, Amy Coney Barrett, and Ketanji Brown Jackson — in holding that contractors are not immune from liability when their conduct was neither authorized by the military nor in compliance with military instructions. The plaintiff, former Army Specialist Winston Tyler Hencely, suffered a fractured skull and permanent brain injuries when a Taliban operative employed by contractor Fluor Corporation detonated a suicide vest after being confronted by Hencely.\n\nChief Justice John Roberts, along with Justices Samuel Alito and Brett Kavanaugh, dissented. The ruling remands the case to the Fourth Circuit for further proceedings consistent with the majority opinion.\n\nThe decision has significant implications for the accountability of private military contractors operating in war zones, potentially opening the door to state-law tort claims in cases where contractor conduct was not sanctioned or was explicitly prohibited by the U.S. military.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/supreme-court-liberals-side-clarence-thomas-taliban-suicide-bomber-lawsuit-3-others-dissent",
+      "sourceCount": 12,
+      "disposition": "new",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-04-24T05:08:34.093593-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "NATO Says No Mechanism Exists to Expel or Suspend Members After Report of U.S. Threat Against Spain Over Iran War",
+      "summary": "NATO declared Wednesday there is no provision in its founding treaty to suspend or expel member states, responding to a Reuters report that an internal Pentagon email had floated punitive measures against allies — including Spain — that have refused to support U.S. military operations against Iran. The email reportedly also suggested revisiting U.S. diplomatic backing for the United Kingdom's claim to the Falkland Islands as leverage against European allies deemed insufficiently cooperative.\n\nSpain has denied use of its two U.S. military bases — Naval Station Rota and Morón Air Base — for strikes on Iran, and Prime Minister Pedro Sanchez dismissed the report, saying his government operates on official documents, not internal emails. Sanchez said Spain supports full cooperation with allies \"but always within the framework of international law.\"\n\nThe episode reflects broader tensions within the alliance since the U.S. and Israel struck Iran in late February, triggering Iranian restrictions on shipping through the Strait of Hormuz. President Trump has repeatedly criticized NATO allies for not doing enough to support the campaign, and last month called the alliance a \"one-way street.\"\n\nThe UK, which has allowed U.S. forces to use British bases and participated in missions against Iranian drone attacks, has nonetheless said deeper involvement in the war or the U.S. naval blockade is not in its national interest. France, the UK, and other European allies have said they would help keep the strait open only after a lasting ceasefire.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz78x703lrvo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-04-24T05:08:34.093593-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "BBC Investigation: Epstein Housed Abuse Victims in London Flats as Metropolitan Police Declined to Investigate",
+      "summary": "A BBC investigation published Wednesday reveals that Jeffrey Epstein rented at least four flats in the London borough of Kensington and Chelsea to house women he is accused of abusing, doing so in the years after UK police decided not to open a formal investigation into him. The findings, drawn from millions of pages of U.S. Department of Justice records released as part of the Epstein files, show six of the women housed in those properties have since come forward as victims.\n\nMany of the women, brought from Russia and Eastern Europe, arrived in the UK after the Metropolitan Police declined to pursue Virginia Giuffre's 2015 allegation that she had been trafficked to London. Some were coerced into recruiting other victims and were regularly transported to Paris to visit Epstein, according to emails in the files. A second woman had complained to the Met by early 2020 that she had been abused by Epstein in the UK, though it is unclear whether that complaint was acted upon.\n\nHuman rights lawyer Tessa Gregory of Leigh Day told the BBC she was \"staggered\" that no UK police investigation had ever been launched, citing a positive legal obligation under Article 4 of the European Convention on Human Rights to investigate credible trafficking allegations. The Met said it had fulfilled its legal duties and followed \"reasonable lines of inquiry,\" including interviewing Giuffre multiple times.\n\nThe investigation expands the known scope of Epstein's UK operation significantly, revealing more victims, established housing infrastructure, and cross-border transportation networks operating until his 2019 death in jail.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn08j2g9ze9o",
+      "sourceCount": 5,
+      "disposition": "new",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-04-24T05:08:34.093593-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Syria Arrests Key Suspect in 2013 Tadamon Massacre, One of Civil War's Most Documented Atrocities",
+      "summary": "Syrian authorities have arrested Amjad Youssef, identified as the primary perpetrator of the April 2013 Tadamon massacre in Damascus, Interior Minister Anas Khattab announced Wednesday. Youssef was detained in Hama province following what authorities described as a \"well-executed\" security operation.\n\nThe Tadamon killings came to wide international attention in 2022 when leaked video footage showed Syrian soldiers leading bound and blindfolded civilians to a pit before shooting them. Human Rights Watch, which investigated the site, documented evidence of 288 killings in the Tadamon area, with 41 confirmed victims in the April 2013 incident and 11 blindfolded individuals shown being shot at close range in the leaked video.\n\nThe Syrian Observatory for Human Rights published footage appearing to show Youssef in a police vehicle following his arrest, his face visibly bloodied. The arrest marks a significant accountability development under Syria's post-Assad government, which took power after rebels toppled Bashar al-Assad in December 2024.\n\nHuman Rights Watch senior researcher Hiba Zayadin said the case illustrates \"the former Syrian government's callous disregard for people's lives,\" calling Tadamon \"a huge crime scene\" and part of a broader pattern of state violence and apparent war crimes during a conflict that killed more than half a million people over 13 years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-04-24T05:08:34.093593-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "UK Biobank Suspends Research Platform After Medical Data on 500,000 Volunteers Listed for Sale in China",
+      "summary": "UK Biobank has temporarily suspended all access to its online research platform after de-identified medical data belonging to approximately 500,000 participants was found listed for sale on Alibaba, the Chinese e-commerce platform, the UK government announced Thursday. Biobank chief Professor Sir Rory Collins said the data had been misappropriated by researchers at three academic institutions that had been granted access to the platform and that those institutions have now been banned.\n\nSir Rory told BBC Radio 4 he was \"angry\" and \"upset\" about the incident, attributing it to \"a few bad apples\" who took data off the platform and offered it for sale. The UK and Chinese governments cooperated to have the listings removed before any purchase was completed, he said. Biobank has referred itself to the UK's Information Commissioner's Office, which confirmed it is making inquiries.\n\nTechnology minister Ian Murray told parliament the compromised data did not include participants' names, addresses, or contact details, but may include gender, age, birth month and year, socioeconomic status, lifestyle information, and biological sample measurements. Sir Rory acknowledged it was \"impossible\" to entirely rule out that individuals could be re-identified by combining the de-identified data with other available information, though he said there was no evidence that had occurred.\n\nBiobank has collected detailed health data — including whole-body scans, DNA sequences, and medical records — from hundreds of thousands of UK volunteers over more than two decades. The dataset has been used in research on dementia, certain cancers, and Parkinson's disease, and its suspension, even temporarily, halts scientific work dependent on the platform.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyedyn6pz7o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-04-24T05:08:34.093593-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: U.S. Soldier Charged With Insider Trading After Betting $400,000 on Maduro Capture",
       "summary": "An active-duty U.S. Army Special Forces soldier stationed at Fort Bragg, North Carolina, has been charged with insider trading and related federal crimes after allegedly placing bets on a crypto-based prediction market using classified information about the operation to capture Venezuelan leader Nicolás Maduro. Gannon Ken Van Dyke won more than $409,000 on Polymarket by wagering on the timing and outcome of Operation Absolute Resolve, the night-time raid on January 3 that seized Maduro and his wife from their Caracas compound.\n\nThe Department of Justice alleges Van Dyke created a Polymarket account on or about December 26, 2025, and placed bets of more than $33,000 while in possession of classified nonpublic information about the operation. He faces charges of unlawful use of confidential government information for personal gain, theft of nonpublic government information, commodities fraud, wire fraud, and making an unlawful monetary transaction.\n\nActing Attorney General Todd Blanche said service members are 'prohibited from using this highly sensitive information for personal financial gain,' while U.S. Attorney Jay Clayton emphasized that prediction markets are 'not a haven for using misappropriated confidential or classified information.' Polymarket said it identified the suspicious trading, referred the matter to the DOJ, and cooperated with the investigation.\n\nThe case marks one of the first federal prosecutions involving insider trading on a crypto-powered prediction market, raising new legal questions about how existing securities and national security laws apply to the rapidly growing prediction market industry. The indictment was unsealed Thursday.",
