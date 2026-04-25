@@ -1,0 +1,78 @@
+{
+  "date": "2026-04-25",
+  "dateFormatted": "Saturday, April 25, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Armed Groups Launch Coordinated Attacks Across Mali, Including Near Capital",
+      "summary": "Armed groups launched coordinated attacks across Mali early Saturday, including near the capital Bamako, the country's military confirmed. The army said fighting was ongoing and that defense and security forces were engaged in repelling attackers. Witnesses reported explosions and sustained gunfire near the Kati military base, a major installation outside Bamako, with soldiers deployed to block roads in the area.\n\nAttacks were also reported in Gao in the east and Sevare in central Mali. Flights into Bamako were cancelled, though it remained unclear whether the airport itself had been targeted. The U.S. Embassy in Mali issued a shelter-in-place advisory for American citizens, citing explosions and gunfire near Modibo Keita International Airport and the Kati base.\n\nNo group has claimed responsibility. Mali has been governed by a military junta since a 2020 coup led by Gen. Assimi Goïta, who came to power promising to restore security but has presided over a continuing jihadist insurgency. The junta expelled French forces and a UN peacekeeping mission and replaced them with Russian mercenaries, yet large portions of northern and eastern Mali remain outside government control.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": true,
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-04-25T05:08:38.715006-06:00"
+    },
+    {
+      "category": "business",
+      "headline": "Update: U.S. Sanctions Major Chinese Refinery and 40 Shippers Over Iranian Oil Purchases",
+      "summary": "The Trump administration announced sweeping new sanctions Friday targeting a major Chinese oil refinery and roughly 40 shipping companies and tankers involved in transporting Iranian crude. The measures, first reported by the Associated Press, target Hengli Petrochemical's facility in Dalian — one of China's largest independent refineries with a processing capacity of about 400,000 barrels per day — which the Treasury Department says has received Iranian crude since 2023, generating hundreds of millions of dollars in revenue for the Iranian military.\n\nThe sanctions cut off the named companies from the U.S. financial system and penalize anyone who does business with them. Treasury Secretary Scott Bessent said the administration would continue to \"constrict the network of vessels, intermediaries and buyers Iran relies on to move its oil to global markets.\" Earlier this month, Treasury sent warning letters to financial institutions in China, Hong Kong, the UAE and Oman threatening secondary sanctions for dealings with Iran.\n\nThe move represents a significant escalation in the U.S. campaign to choke off Iran's primary revenue source, and comes as the U.S. has also imposed a physical blockade on the Strait of Hormuz. The timing is notable: President Trump and Chinese President Xi Jinping are due to meet in China within weeks, raising questions about how Beijing will respond. China purchases 80 to 90 percent of Iran's oil exports, much of it transported through a shadow fleet with obscured origins.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/treasury-bessent-sanctions-china-iran-oil-12a02b5ba394cbcab355d645bfe9cdf7",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-04-25T05:08:38.715006-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Update: OpenAI's Sam Altman Apologizes for Failing to Alert Police Before Canada School Shooting",
+      "summary": "OpenAI CEO Sam Altman issued a formal apology Friday after it emerged his company failed to notify law enforcement about the online behavior of an 18-year-old who killed eight people — including five children and an educator — at a school in Tumbler Ridge, British Columbia in February. In a letter posted on B.C. Premier David Eby's social media, Altman said he was \"deeply sorry\" the company did not alert police to the account, which had been banned in June for \"furtherance of violent activities.\"\n\nOpenAI had previously disclosed that it identified the shooter's account through internal abuse-detection systems but determined at the time that the activity did not meet its threshold for referral to law enforcement. The company banned the account months before the attack. Altman said he had spoken directly with Tumbler Ridge's mayor and the B.C. premier, who conveyed the anger and grief of the community.\n\nPremier Eby accepted the apology but called it \"necessary, and yet grossly insufficient for the devastation done to the families of Tumbler Ridge.\" The case raises urgent questions about the obligations of AI companies when their systems detect potential threats to public safety, and whether self-imposed thresholds for law enforcement referrals are adequate. Altman pledged to work with governments to help prevent similar tragedies.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/04/25/world-news/sam-altman-apologizes-after-openai-failed-to-alert-police-before-canada-trans-shooters-deadly-rampage/",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-04-25T05:08:38.715006-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Soldier's Prediction Market Bet on Maduro Raid Sparks Push to Regulate Markets for National Security Risks",
+      "summary": "The arrest of a U.S. Army Special Forces soldier charged with using classified information about the raid to capture Venezuelan President Nicolás Maduro to place a winning Polymarket bet is intensifying congressional scrutiny of prediction markets. The case, announced by the Justice Department Thursday, marks the first time the Commodity Futures Trading Commission has pursued insider trading charges tied to a prediction market, setting a legal precedent with broad implications for the fast-growing industry.\n\nIn response, Sen. Bernie Moreno (R-Ohio) introduced a resolution Friday that would amend Senate rules to ban members of Congress from participating in prediction markets, citing concerns about potential insider trading on platforms that wager on political and geopolitical events. Lawmakers from both parties have raised concerns in recent months about the ethical and national security risks posed by the markets, which have grown significantly in popularity.\n\nThe case underscores a tension that has built since prediction markets gained mainstream traction: their real-money incentives to gather information could, in theory, encourage participants to exploit privileged access. Critics argue the markets need enforceable regulations analogous to securities law, while proponents say they aggregate useful public information and that this case represents an extreme outlier rather than a systemic problem.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/5848166-prediction-markets-polymarket-soldier-arrest-maduro-raid/",
+      "sourceCount": 10,
+      "disposition": "update",
+      "breaking": false,
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-04-25T05:08:38.715006-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Palestinians Vote in First Gaza Election Since 2006 as West Bank Polls Also Open",
+      "summary": "Palestinians went to the polls Saturday in local elections spanning the occupied West Bank and, for the first time since 2006, a part of Gaza — specifically Deir al-Balah in central Gaza, where 12 polling stations opened for roughly 70,000 eligible voters. More than one million Palestinians across the territories were eligible to participate, according to the Ramallah-based Central Elections Commission.\n\nHamas was barred from standing in Deir al-Balah after refusing to recognize the authority of the Palestinian Liberation Organisation, a condition required of all candidates. Several other factions boycotted the elections on the same grounds, leaving Fatah — the faction led by Palestinian Authority President Mahmoud Abbas — as the dominant force on ballots across both the West Bank and Gaza. Reuters reported that one slate of Deir al-Balah candidates was widely viewed as Hamas-aligned despite the group's formal exclusion.\n\nThe elections reflect the enduring rift between Hamas and Fatah following Hamas's 2007 seizure of Gaza after winning the last elections there. Hamas's popularity has reportedly fallen in Gaza due to the devastation of the recent war, while support for it has risen in the West Bank amid widespread disillusionment with the PA, which many Palestinians view as corrupt and ineffective. Results are expected late Saturday or Sunday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-04-25T05:08:38.715006-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "31 Sloths Die Before Opening of Florida Wildlife Attraction, State Report Finds",
+      "summary": "Thirty-one sloths imported for a new Orlando attraction called Sloth World died before the exhibit's planned spring opening, according to a report released Friday by the Florida Fish and Wildlife Conservation Commission. The report details two separate incidents: 21 sloths from Guyana died in December 2024 after being housed in a Florida warehouse without adequate heat, and 10 sloths from Peru arrived in February 2025, with two dead on arrival and the remaining eight dying from poor health shortly thereafter.\n\nInvestigators found that the warehouse lacked water or electricity when the animals arrived. Space heaters were purchased to warm the facility, but the heaters tripped a fuse and shut off overnight, leaving the tropical animals — which require temperatures between 70°F and 86°F — exposed to temperatures that dropped as low as 46°F the following week. The attraction's listed vice president, Peter Bandre, acknowledged to investigators that it was \"too late to cancel the shipment.\"\n\nSloth World owner Ben Agresta disputed the findings, telling a local Fox affiliate that the animals died from an undetectable virus and that there is \"so much false and inaccurate information out there right now.\" The FWC closed its investigations without issuing a written warning or citation, though a spokesperson confirmed the inquiry is complete. The case has drawn attention to oversight of exotic animal importation and the welfare standards required of commercial wildlife attractions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-04-25T05:08:38.715006-06:00"
+    }
+  ]
+}
