@@ -4,6 +4,30 @@
   "stories": [
     {
       "category": "business",
+      "headline": "Tim Cook Stepping Down as Apple CEO After 15 Years at Helm",
+      "summary": "Apple Inc. announced this week that Tim Cook is stepping down as chief executive officer, ending a tenure that began in 2011 when he succeeded Apple co-founder Steve Jobs. Cook's leadership oversaw a period of extraordinary growth for the company, which became one of the most valuable corporations in history.\n\nCook presided over the expansion of Apple's product lines, the rise of services revenue, and the company's navigation of complex global supply chains, particularly its deep manufacturing ties to China. His departure marks a generational transition at one of the world's most closely watched technology firms.\n\nThe announcement drew widespread praise for Cook's stewardship, though analysts and observers note the timing raises questions about Apple's strategic direction amid ongoing trade tensions between the United States and China that have placed pressure on the company's supply chain and market access. A successor has not yet been publicly named.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/26/briefing/apocalypse.html",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "1:08 PM MT",
+      "addedAtISO": "2026-04-26T13:08:40.180669-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "California AG Charges 21 in $267 Million Hospice Fraud Ring Using Stolen Identities",
+      "summary": "The California Attorney General's office has filed charges against 21 individuals connected to a $267 million Medi-Cal hospice fraud operation dubbed Operation Skip Trace. Prosecutors allege the defendants purchased stolen personal information on the dark web, enrolled those identities in Medi-Cal, and used 14 shell hospice companies to bill the state for end-of-life care that was never provided.\n\nIn many cases, the alleged fake patients did not live in California and were not ill. Investigators say operators recruited individuals to front the hospice companies, concealing the actual organizers, while submitting claims for visits, prescriptions, and daily care tied to stolen identities. Because hospice care reimburses at a flat daily rate, billing continued as long as identities remained active in the system.\n\nThe case is part of a broader pattern of hospice fraud concentrated in Los Angeles County, where the Centers for Medicare and Medicaid Services estimates roughly $3.5 billion in fraudulent billing. The U.S. House Committee on Oversight and Government Reform sent a letter to Governor Gavin Newsom in March requesting documents on state oversight of federally funded hospice programs, citing a well-documented history of abuse.\n\nCalifornia officials say the state has revoked more than 280 hospice licenses and maintained a moratorium on new providers, with hundreds more operators under active investigation. The case highlights growing concerns about identity theft being weaponized not just for financial fraud but to exploit federal and state health care programs at scale.",
+      "source": "Fox News Latest",
+      "url": "https://www.foxnews.com/tech/hospice-fraud-uses-stolen-identities-fake-patients",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "1:08 PM MT",
+      "addedAtISO": "2026-04-26T13:08:40.180669-06:00"
+    },
+    {
+      "category": "business",
       "headline": "Update: Tillis Drops Opposition to Warsh, Clearing Path for Trump's Fed Chair Nomination",
       "summary": "Sen. Thom Tillis (R-N.C.) announced Sunday that he will support Kevin Warsh's nomination as Federal Reserve chair, removing a significant obstacle to Trump's pick leading the central bank. Tillis, a member of the Senate Banking Committee, had previously blocked the nomination pending resolution of a Department of Justice criminal investigation into current Fed Chair Jerome Powell related to Federal Reserve building renovations in Washington.\n\nThe senator said he received assurances from federal prosecutors that the investigation is now closed, satisfying the conditions he had set for his support. The DOJ announced last week that it was dropping the Powell inquiry. With Tillis on board, the path is now clearer for a committee vote and eventual Senate confirmation of Warsh.\n\nWarsh, a former Fed governor and Wall Street veteran, was nominated by President Trump to succeed Powell, whose term as chair runs through 2026. The nomination has been closely watched by financial markets given the Federal Reserve's central role in setting interest rate policy. Confirmation would give Trump a significant opportunity to reshape monetary policy leadership at a moment of elevated economic uncertainty.",
       "source": "Axios",
