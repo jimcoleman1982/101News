@@ -4,6 +4,78 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Democrats Hold Modest Lead on 2026 Congressional Generic Ballot as Redistricting Complicates Map",
+      "summary": "New polling aggregated by The New York Times shows Democrats holding a consistent but narrow single-digit advantage on the congressional generic ballot heading into the 2026 midterm cycle. The pattern aligns with historical trends in which the party out of power tends to gain ground during midterm elections, a dynamic that previously helped Democrats in 2018 and Republicans in 2022.\n\nHowever, analysts caution that national vote share alone may not translate into House seat gains. Redistricting efforts currently underway in several states could alter district boundaries in ways that raise the vote threshold Democrats would need to retake the chamber, depending on the scope and outcome of those map changes.\n\nThe generic ballot is considered an early indicator of partisan enthusiasm and electoral environment, though individual district competitiveness, candidate quality, and late-breaking issues can significantly shift final outcomes. Republicans, for their part, point to structural advantages in the current map and argue that economic messaging will narrow the gap as the election approaches.\n\nThe polling is drawn from a broad range of outlets across the political spectrum, including Fox News, Reuters, ABC News, and The Guardian, lending the findings cross-ideological credibility as a baseline measure of the national political environment roughly 18 months before Election Day.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/interactive/polls/congressional-vote-2026.html",
+      "sourceCount": 13,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-04-26T05:08:48.565348-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Renews Push to Eliminate Filibuster as SAVE America Act Stalls in Senate",
+      "summary": "President Donald Trump on Saturday again called for the Senate to eliminate the legislative filibuster, arguing that failure to do so would doom the Safeguard American Voter Eligibility (SAVE America) Act — a Republican-backed bill that passed the House and would require documentary proof of citizenship to register to vote in federal elections. Trump warned on social media that failing to pass the bill would result in historic electoral losses for the GOP.\n\nThe bill has stalled in the Senate amid broad public opposition and resistance from lawmakers wary of abolishing the 60-vote threshold. The Senate filibuster has long served as a brake on simple-majority legislating, and its elimination has been resisted by members of both parties at various points in recent history.\n\nCritics, including voting rights advocates, argue the bill would disenfranchise millions of eligible American citizens who lack ready access to documentary proof of citizenship — particularly low-income voters, elderly citizens, and minorities. Wendy Weiser of the Brennan Center for Justice called on the Senate to block the measure, saying it would mark the first time Congress passed a law preventing eligible citizens from voting.\n\nSupporters contend the legislation is necessary to ensure that only citizens participate in federal elections, arguing existing safeguards are insufficient. The standoff over both the bill's substance and the filibuster procedural question puts Senate Majority Leader John Thune in a difficult position, balancing Trump's demands against the institutional preferences of his caucus.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5848981-senate-save-america-act-limbo/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-04-26T05:08:48.565348-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Netanyahu Orders Military to 'Vigorously Attack' Hezbollah as Lebanon Ceasefire Frays Further",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu on Saturday directed the Israeli military to launch vigorous strikes against Hezbollah targets in Lebanon, two days after a three-week extension of the ceasefire agreement was announced. The order followed a series of Israeli strikes in southern Lebanon that Lebanese health officials say killed at least six people, including four killed when a truck and motorbike were struck in Yohmor al-Shaqeef in the Nabatieh district.\n\nThe Israel Defense Forces said it eliminated multiple Hezbollah members who were transporting weapons or posed a threat to IDF soldiers operating in its self-declared buffer zone south of the Litani River. The IDF also reported detecting a suspicious aerial target near the village of Malkia, calling it an additional ceasefire violation. Hezbollah confirmed it targeted an Israeli military vehicle in retaliation for the earlier strikes.\n\nFollowing Netanyahu's directive, Lebanon's National News Agency reported multiple additional Israeli strikes in quick succession across Bint Jbeil, Tyre, and Nabatieh districts. Israel continues to occupy portions of southern Lebanon and has been conducting large-scale demolitions in the area, drawing international criticism. An international press advocacy group, the Media Freedom Coalition, separately condemned attacks on journalists after an Israeli strike killed Lebanese newspaper journalist Amal Khalil on Wednesday.\n\nThis marks a material escalation since the ceasefire extension was brokered Thursday in Washington. The development builds on prior coverage of the Lebanon-Israel ceasefire's fragility, but Netanyahu's explicit public order to attack constitutes a concrete new directive that signals an intensified operational posture.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-04-26T05:08:48.565348-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "40 Years After Chernobyl Meltdown, Ukraine's War Transforms Exclusion Zone Into Military Belt",
+      "summary": "April 26 marks the 40th anniversary of the Chernobyl nuclear disaster, the world's worst nuclear accident, which occurred in 1986 when a reactor at the Soviet-era plant in northern Ukraine exploded, releasing radioactive contamination across Europe. Approximately 600,000 soldiers, firefighters, engineers, miners, and medics were mobilized in the cleanup effort in the years following the disaster.\n\nThe anniversary is being observed against the backdrop of Russia's ongoing war in Ukraine, which has transformed the long-restricted exclusion zone into an army-controlled security belt. Russian forces occupied the Chernobyl site briefly in 2022 before withdrawing, raising international alarm about the risks of military operations near radioactive infrastructure.\n\nIdeas have been floated in recent years for how the contaminated zone could be converted into an economic asset — including proposals for solar energy farms — but the combination of radioactive contamination and active military presence has foreclosed near-term development. Decentralized renewable energy systems have been cited by some analysts as a model for Ukraine more broadly, given the vulnerability of centralized infrastructure to wartime attack.\n\nThe dual legacy of nuclear catastrophe and war has given the anniversary a particular resonance in 2026, with Ukrainians and international observers reflecting on how the exclusion zone — long a symbol of Soviet-era industrial disaster — has been drawn into a new chapter of national crisis.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-04-26T05:08:48.565348-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Supreme Court to Weigh Constitutionality of Geofencing Warrants in Landmark Digital Privacy Case",
+      "summary": "The U.S. Supreme Court is set to consider a significant digital privacy case arising from a Virginia bank robbery investigation in which law enforcement used geofencing — a technique that compels technology companies such as Google to provide location data on all devices present in a defined geographic area during a specific time window. The technique has been widely used by police departments across the country as a tool for identifying suspects when more targeted leads are unavailable.\n\nCivil liberties advocates argue geofence warrants amount to a dragnet that sweeps in the data of innocent bystanders who happened to be near a crime scene, raising Fourth Amendment concerns about unreasonable searches. Law enforcement proponents counter that the technique is a lawful investigative tool subject to judicial oversight through the warrant process, and that courts have consistently required probable cause before such orders are issued.\n\nThe outcome of the case could have far-reaching implications for how police departments across the country conduct digital investigations and for the obligations of major technology companies that hold vast stores of user location data. A ruling against the practice could require law enforcement to demonstrate more particularized suspicion before compelling technology firms to produce location records.\n\nThe case arrives at a moment of broader national debate over digital surveillance, data privacy legislation, and the legal frameworks governing what government agencies can compel from private technology platforms.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/26/g-s1-118359/supreme-court-geofencing-explainer-video",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-04-26T05:08:48.565348-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Mixed-Status Couples Face Wrenching Choices as Trump Deportation Enforcement Separates Families",
+      "summary": "Families in which one spouse is a U.S. citizen and the other is undocumented are facing increasingly stark choices between separation and emigration as the Trump administration's immigration enforcement campaign accelerates into its second year. Official estimates suggest approximately 1.1 million U.S. citizens are married to undocumented spouses, a population now navigating a legal and personal landscape shaped by an intensified enforcement posture.\n\nThe BBC spoke with Janie Pérez, a U.S.-born woman from Missouri who followed her deported husband Alejandro to Mexico after he was arrested by ICE agents outside their home last October. The couple, who have two young daughters, had previously attempted to obtain legal status for Alejandro through marriage but were told he was ineligible due to his undocumented entry into the country. Janie, who does not speak Spanish, said leaving was the only option: 'There is nothing more important than being together.'\n\nUnder current immigration law, undocumented individuals who entered the country unlawfully may be barred from obtaining lawful permanent residence even through marriage to a U.S. citizen, a restriction that has left many mixed-status couples with limited legal remedies. The Trump administration has framed its enforcement campaign as a necessary response to what it describes as an illegal immigration 'invasion,' and officials argue that existing law is being applied as written by Congress.\n\nCritics, including immigration attorneys and civil liberties groups, argue the enforcement approach fails to account for the U.S. citizen family members affected and that the human cost falls disproportionately on children who are American citizens by birth. The issue is likely to remain a flashpoint in the broader immigration debate as enforcement continues.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cly032z5e71o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-04-26T05:08:48.565348-06:00"
+    },
+    {
+      "category": "politics",
       "headline": "NYC Mayor Mamdani Uses First Veto to Block Bipartisan Antisemitism Security Bill",
       "summary": "New York City Mayor Zohran Mamdani has used his first mayoral veto to block Int. 175-B, a bipartisan bill passed by the City Council 30-19 that would have required the NYPD to develop plans to prevent physical obstruction, intimidation, and interference at educational facilities while preserving First Amendment rights. Mamdani argued the measure could be used against workers protesting ICE, college students demanding divestment, or demonstrators supporting Palestinian rights, and said it had alarmed labor, reproductive rights, and immigration advocacy groups citywide.\n\nCity Council Speaker Julie Menin had framed the legislation as a cornerstone of the Council's Five-Point Action Plan to Combat Antisemitism, noting that antisemitic incidents accounted for 57% of reported hate crimes in New York City in 2025, despite Jewish residents comprising only about 10% of the population. Critics, including former Gov. Andrew Cuomo — who ran against Mamdani as an independent in last year's mayoral race — slammed the veto as prioritizing a 'radical, extreme-left DSA base over the safety of students and Jewish New Yorkers.'\n\nCuomo also cited what he described as a pattern by Mamdani of weakening antisemitism protections, including repealing the city's formal definition of antisemitism and altering how antisemitic crimes are tallied. Supporters of the veto contend the bill was overly broad and posed risks to legitimate protest activity protected under the First Amendment.\n\nThe veto draws a sharp line between Mamdani and more centrist Democrats in the city, and it is likely to intensify ongoing national debate over how municipalities balance civil liberties protections with targeted hate-crime prevention measures.",
       "source": "Fox News Politics",
