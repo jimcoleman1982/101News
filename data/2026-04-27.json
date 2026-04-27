@@ -4,6 +4,54 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Canada Launches First-Ever Sovereign Wealth Fund to Finance Major Infrastructure Projects",
+      "summary": "Prime Minister Mark Carney announced Monday that Canada will establish its first sovereign wealth fund, designed to provide financing for large-scale infrastructure projects across the country. The move marks a significant shift in Canadian economic policy and represents one of Carney's most ambitious domestic initiatives since taking office.\n\nThe fund is intended to mobilize capital for nation-building projects at a moment when Canada is seeking to reduce its economic dependence on the United States amid ongoing trade tensions and tariff disputes with the Trump administration. Carney has framed economic self-sufficiency and infrastructure expansion as central pillars of his governing agenda.\n\nSovereign wealth funds, typically seeded by government revenues or commodity exports, are used by countries including Norway, Singapore, and several Gulf states to invest in long-term assets. Canada's resource wealth, particularly in energy, is expected to underpin the new vehicle. Details on the fund's initial capitalization and governance structure were not immediately disclosed.\n\nThe announcement comes as Carney faces growing pressure to translate his internationally praised economic vision into tangible domestic results. Analysts and political observers have noted that while Carney has earned global recognition for his stance against the disruption of the rules-based international order, Canadians will increasingly judge him on whether promised transformative change materializes at home.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/carney-to-create-canadian-sovereign-wealth-fund-to-back-projects",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "8:24 AM MT",
+      "addedAtISO": "2026-04-27T08:24:24.393008-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Romania's Former Ruling Party Joins Far-Right Bid to Topple Prime Minister Bolojan",
+      "summary": "Romania's former dominant ruling party announced Monday it would align with the far-right opposition in a no-confidence motion against Prime Minister Ilie Bolojan, deepening a political crisis that has unsettled the country's finances and its standing within the European Union. The move represents a significant escalation in Romania's ongoing governmental instability.\n\nBolojan has been leading efforts to reduce Romania's budget deficit, which is the widest in the European Union, a task that has made him a target of political forces resistant to austerity measures. A successful no-confidence vote would remove him from office and potentially derail fiscal consolidation plans that Brussels has been closely monitoring.\n\nThe alliance between the former ruling party and far-right factions signals a realignment of Romanian politics that analysts say could have broader implications for EU cohesion and Romania's ability to meet its financial obligations. Markets and European officials have been watching the situation closely given Romania's outsized deficit and its reliance on EU funds.\n\nRomania has experienced considerable political turbulence in recent months, including a contested presidential election and shifting coalition dynamics. The latest development adds further uncertainty to a country that has struggled to maintain governmental stability while navigating demands from both domestic constituents and European financial overseers.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/romanian-ex-ruling-party-joins-far-right-bid-to-topple-premier",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "8:24 AM MT",
+      "addedAtISO": "2026-04-27T08:24:24.393008-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Hungary's Peter Magyar Rejects Outreach from Orban-Linked Billionaire as Ally's Stock Continues to Plunge",
+      "summary": "Hungary's incoming Prime Minister Peter Magyar on Monday refused a request from Lorinc Meszaros — a billionaire widely regarded as the closest business ally of outgoing leader Viktor Orban — for talks aimed at limiting damage to Meszaros's sprawling business empire. The rejection underscores Magyar's intent to maintain distance from the Orban-era oligarchic network as he prepares to assume power.\n\nShares in Meszaros's flagship conglomerate, Opus Nyrt., continued their sharp decline following Magyar's election victory, reflecting investor concern that the change in government could expose the group to greater scrutiny or diminished state patronage. Meszaros built much of his fortune during Orban's rule, amassing holdings in construction, media, agriculture, and banking.\n\nMagyar's refusal signals that his government intends to conduct a clean break from the interlocking relationship between political power and favored businessmen that characterized the Orban years. The incoming premier is scheduled to meet with European Commission President Ursula von der Leyen this week, with restoring Hungary's access to frozen EU funds high on the agenda.\n\nThe standoff between Magyar and Meszaros will be closely watched as an early indicator of how aggressively the new government pursues accountability for the previous administration's practices. The situation also carries implications for Hungarian capital markets and the broader question of whether EU rule-of-law conditions will be met.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/hungary-billionaire-meszaros-seeks-damage-control-with-magyar",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "addedAt": "8:24 AM MT",
+      "addedAtISO": "2026-04-27T08:24:24.393008-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Sri Lanka Arrests 22 Buddhist Monks at Airport After 110 Kilograms of Cannabis Found Hidden in Their Luggage",
+      "summary": "Sri Lankan customs officials arrested 22 Buddhist monks at Colombo's international airport Saturday after discovering 110 kilograms of cannabis concealed within false walls built into the monks' luggage. The monks, described as mainly students, had been returning from a fully sponsored four-day trip to Thailand when they were detained. A 23rd monk, suspected of organizing the trip, was subsequently arrested in a suburb of Colombo.\n\nEach monk was found carrying approximately five kilograms of Kush, a high-potency strain of cannabis, hidden alongside school supplies and sweets. Police said the organizing monk — who did not travel with the group — had told the others that the parcels were donations and that a van would collect them upon arrival. Photos and videos on the monks' mobile phones showed them enjoying leisure activities in civilian clothing during the trip.\n\nAuthorities said they believe many of the monks may not have known what they were actually carrying, though all 22 were remanded in custody for seven days following a court appearance Sunday. The case is believed to be the first instance of a group of monks being arrested on drug-smuggling charges at a Sri Lankan airport.\n\nThe incident has drawn significant attention in Sri Lanka, where Buddhism holds deep cultural and constitutional status. The arrest of members of the clergy on narcotics charges represents a rare and sensitive development for law enforcement and religious institutions alike.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4v4nzwj94o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "8:24 AM MT",
+      "addedAtISO": "2026-04-27T08:24:24.393008-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: Iran Offers U.S. Deal to Reopen Strait of Hormuz Without Nuclear Terms; Israel Deploys Iron Dome to UAE",
       "summary": "Iran has passed a new proposal to the United States through Pakistan that would reopen the Strait of Hormuz and end the two-month-old war without addressing Tehran's nuclear program, according to a U.S. official and two sources with knowledge of the offer. The proposal would bypass the deeply divisive question of nuclear concessions, which has been the central sticking point in diplomacy, in exchange for the U.S. lifting its own blockade and halting military operations against Iran.\n\nPresident Trump appears unlikely to accept the offer, as doing so would remove his primary leverage over Iran's nuclear ambitions — the very issue that prompted the U.S. and Israel to launch military operations on February 28. The Strait of Hormuz blockade has driven oil prices sharply higher and rattled global markets, with the Chevron CEO warning of continued \"upward pressure\" on energy prices. German Chancellor Friedrich Merz warned publicly that the U.S. risks becoming bogged down in a quagmire similar to Iraq and Afghanistan.\n\nIn a significant new military development first reported Monday, Israel has deployed an Iron Dome air defense system, along with troops to operate it, to the United Arab Emirates early in the war — an unprecedented step reflecting deepening Israel-UAE security cooperation as both countries face Iranian threats. The deployment had not been previously made public.\n\nIran's Foreign Minister Abbas Araghchi traveled to Moscow to meet with Russian President Vladimir Putin, seeking political backing as peace talks with Washington remain on hold. Pakistan and Oman are continuing backchannel efforts to prevent a return to open hostilities, while analysts say both sides remain unlikely to resume large-scale fighting in the near term despite the diplomatic deadlock.",
       "source": "Axios",
