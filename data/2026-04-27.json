@@ -4,6 +4,54 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Plane Crash in South Sudan Kills All 14 on Board",
+      "summary": "A small passenger aircraft crashed approximately 20 kilometers southwest of Juba, South Sudan's capital, on Monday morning, killing all 14 people aboard. The Cessna 208 Caravan, operated by CityLink Aviation Ltd., had departed from Yei at 09:15 local time before authorities lost contact roughly 30 minutes into the flight. Among the dead were 12 South Sudanese nationals and two Kenyans, including the pilot.\n\nThe South Sudan Civil Aviation Authority (SSCAA) said initial reports suggest the aircraft may have come down due to adverse weather conditions, particularly low visibility. A team has been dispatched to the crash site to conduct a full investigation.\n\nSouth Sudan has a poor aviation safety record, with accidents frequently attributed to overloading and hazardous weather. In January 2025, 20 oil workers died when their aircraft went down near oil fields in Unity State. The country's aviation infrastructure remains underdeveloped, and the government has faced ongoing pressure to improve safety standards.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg737x2pe4ko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "9:52 AM MT",
+      "addedAtISO": "2026-04-27T09:52:43.082844-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Gunmen Raid Nigerian Orphanage, Kidnap 23 Children; 8 Still Missing",
+      "summary": "Armed gunmen stormed an unregistered orphanage in Nigeria's north-central Kogi State on Sunday, abducting 23 children and the facility's owner. Security agencies subsequently rescued 15 of the children, but eight remain missing as of Monday. No group has claimed responsibility, though security sources note the presence of a functional Boko Haram cell in the region.\n\nKogi State's information commissioner, Kingsley Fanwo, credited the \"prompt and coordinated response\" of security agencies for the partial rescues. Fanwo also highlighted that the orphanage had been operating illegally in a remote area without the knowledge of relevant state authorities, urging operators of similar facilities to register with government agencies, particularly given the current security climate.\n\nThe attack marks the first time an orphanage has been targeted in Nigeria's worsening kidnap crisis. Criminal gangs and militant groups have repeatedly targeted schools and other institutions in the country's northern regions. In November 2025, more than 300 students and teachers were abducted from a Catholic secondary school in neighboring Niger State, and Nigeria's government has made paying ransoms illegal despite the practice continuing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjd8dmx41vko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "9:52 AM MT",
+      "addedAtISO": "2026-04-27T09:52:43.082844-06:00"
+    },
+    {
+      "category": "business",
+      "headline": "German Finance Ministry Signals Openness to Suspending Debt Brake Amid Iran War Impact",
+      "summary": "Germany's Finance Ministry has signaled it is prepared to consider suspending the country's constitutionally enshrined debt restrictions — known as the \"debt brake\" — as an emergency measure, as Europe's largest economy braces for the economic fallout from the ongoing war in Iran. The indication marks a notable shift for a government that has traditionally defended fiscal austerity as a cornerstone of German economic policy.\n\nThe debt brake limits Germany's structural federal deficit to 0.35 percent of GDP and has long been a point of contention between fiscal conservatives and those arguing the country needs greater flexibility to fund defense, infrastructure, and energy transition costs. The war in Iran has introduced fresh uncertainty around energy prices and supply chains, adding pressure on German policymakers to act.\n\nThe development follows Germany's earlier decision to create a major off-budget defense and infrastructure fund, which already stretched the boundaries of the debt brake framework. Analysts say a formal suspension would give the government significantly more room to respond to economic shocks but could reignite political debate within the governing coalition over the long-term path of German public finances.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/german-finance-ministry-leaves-door-open-for-lifting-debt-brake",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "9:52 AM MT",
+      "addedAtISO": "2026-04-27T09:52:43.082844-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Apple and Google Successfully Block California Bill Favoring Smaller Tech Rivals",
+      "summary": "Apple Inc. and Google swiftly defeated a California legislative measure that would have benefited smaller technology competitors, in what observers are describing as a stark demonstration of the companies' outsized political influence in their home state. The bill was quashed before gaining significant legislative traction, according to reporting by Bloomberg.\n\nDetails of the specific provisions were not fully disclosed in initial reporting, but the measure was framed as pro-competition legislation designed to level the playing field between dominant platform operators and smaller rivals seeking fairer access or terms. The rapid collapse of the bill underscores how effectively large technology firms can mobilize lobbying resources at the state level.\n\nThe episode comes as both Apple and Google face ongoing antitrust scrutiny from federal regulators and courts, including cases targeting app store practices and search dominance. Critics argue the outcome illustrates the difficulty of enacting meaningful technology competition reform even in California, a state that has often positioned itself as a leader on consumer protection and corporate accountability.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/apple-google-crushed-california-bill-that-helped-smaller-rivals",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "9:52 AM MT",
+      "addedAtISO": "2026-04-27T09:52:43.082844-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Canada Launches First-Ever Sovereign Wealth Fund to Finance Major Infrastructure Projects",
       "summary": "Prime Minister Mark Carney announced Monday that Canada will establish its first sovereign wealth fund, designed to provide financing for large-scale infrastructure projects across the country. The move marks a significant shift in Canadian economic policy and represents one of Carney's most ambitious domestic initiatives since taking office.\n\nThe fund is intended to mobilize capital for nation-building projects at a moment when Canada is seeking to reduce its economic dependence on the United States amid ongoing trade tensions and tariff disputes with the Trump administration. Carney has framed economic self-sufficiency and infrastructure expansion as central pillars of his governing agenda.\n\nSovereign wealth funds, typically seeded by government revenues or commodity exports, are used by countries including Norway, Singapore, and several Gulf states to invest in long-term assets. Canada's resource wealth, particularly in energy, is expected to underpin the new vehicle. Details on the fund's initial capitalization and governance structure were not immediately disclosed.\n\nThe announcement comes as Carney faces growing pressure to translate his internationally praised economic vision into tangible domestic results. Analysts and political observers have noted that while Carney has earned global recognition for his stance against the disruption of the rules-based international order, Canadians will increasingly judge him on whether promised transformative change materializes at home.",
       "source": "Bloomberg Politics",
