@@ -3,6 +3,42 @@
   "dateFormatted": "Monday, April 27, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Supreme Court Reinstates Texas GOP-Drawn Congressional Map Ahead of 2026 Midterms",
+      "summary": "The U.S. Supreme Court on Monday formally reinstated Texas's redrawn congressional map, striking down a lower court ruling that had blocked its use. The decision, which was unanimous in procedural terms, cements a map designed to add Republican seats to the U.S. House of Representatives ahead of the November midterm elections. Republicans currently hold 24 of Texas's congressional seats compared to Democrats' 13, and party officials project the new lines could yield as many as five additional GOP seats.\n\nThe ruling is one of several redistricting battles unfolding simultaneously across the country. Florida Governor Ron DeSantis on Monday separately unveiled a proposed congressional map that his office says could net Republicans as many as four additional House seats, a plan that will be debated in a special legislative session beginning Tuesday. The Virginia Supreme Court also heard arguments Monday on a Republican challenge to a Democrat-friendly redistricting amendment approved by voters.\n\nRepublicans argue the remapping reflects legitimate legislative prerogative and is necessary to maintain their House majority. Democrats and voting rights advocates contend the efforts amount to partisan gerrymandering that dilutes minority voting power, with groups like Democracy Docket challenging multiple maps in court.\n\nThe Supreme Court's Texas decision carries immediate practical weight: the map was already in use, and the ruling forecloses the lower court's ability to impose an alternative before November. The outcome could influence the balance of power in the House, where Republicans hold a narrow majority.",
+      "source": "Axios",
+      "url": "https://www.axios.com/local/san-antonio/2026/04/27/texas-redistricting-map-ruling-supreme-court",
+      "sourceCount": 22,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "12:18 PM MT",
+      "addedAtISO": "2026-04-27T12:18:35.646771-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Florida Governor DeSantis Unveils Redistricting Map That Could Flip Four Congressional Seats to GOP",
+      "summary": "Florida Governor Ron DeSantis on Monday released a proposed congressional redistricting map that his office says would create four new Republican-leaning House seats, part of a broader Trump-backed push to shore up the party's House majority before November's midterm elections. The proposal will be the subject of a special legislative session beginning Tuesday in Tallahassee, where the Republican-controlled legislature is expected to fast-track a vote.\n\nFlorida's constitution expressly prohibits drawing maps with partisan intent, a restriction that critics say the DeSantis proposal openly violates. Democrats and voting rights groups are expected to mount legal challenges if the legislature passes the map. House Democratic Leader Hakeem Jeffries has vowed to fight the effort aggressively in the courts and at the ballot box.\n\nFlorida currently has 20 Republican and 8 Democratic House members. If the proposed map is enacted and upheld, it would represent one of the largest single-state seat shifts in recent redistricting history. President Trump has actively encouraged Republican-led states to redraw their maps ahead of the midterms, framing it as a necessary counterweight to Democratic redistricting efforts in states such as Virginia.\n\nThe Florida push is the most aggressive of several simultaneous Republican redistricting efforts, alongside the Supreme Court-cleared Texas map and pending legislative action in other red states. Democrats argue the coordinated campaign constitutes an unprecedented mid-cycle partisan power grab; Republicans contend they are responding in kind to Democratic redistricting moves.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/live/iran-war-israel-trump-04-26-2026",
+      "sourceCount": 22,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "12:18 PM MT",
+      "addedAtISO": "2026-04-27T12:18:35.646771-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "French Coastguard Rescues More Than 100 Migrants After Boat Breaks Down in English Channel",
+      "summary": "French coastguard authorities rescued 106 migrants from a single stricken vessel in the English Channel on Sunday after the boat broke down during a crossing attempt. The migrants were taken aboard a rescue ship and brought to Calais in the early hours of Sunday morning. An additional six people were rescued in a separate incident, bringing the total to 119 rescued in the operations.\n\nThe rescue came less than a week after the United Kingdom and France signed a new £662 million deal aimed at curbing Channel crossings. The three-year agreement includes deployment of riot-trained French police to northern coastal beaches and provides for the removal and deportation of hundreds of migrants per year intercepted before they depart. An additional £160 million in funding could be unlocked if the measures demonstrably reduce crossing numbers.\n\nDespite the new agreement, crossings have continued. Between January 1 and April 22, 2026, a total of 6,077 people crossed the Channel by small boat, down 37 percent from the same period in the prior year. French authorities described the maritime area as among the world's busiest and most dangerous, with strong currents, shifting sandbanks, and cold water temperatures that rapidly become life-threatening.\n\nThe incident underscores the persistent challenge both governments face in deterring crossings even as enforcement resources increase. Critics of the UK-France deal argue that without expanded legal pathways, migrants will continue to risk their lives on the water regardless of beach enforcement.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3v6v4qd7qqo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "12:18 PM MT",
+      "addedAtISO": "2026-04-27T12:18:35.646771-06:00"
+    },
+    {
       "category": "world",
       "headline": "Elon Musk's Lawsuit Against OpenAI Heads to Trial in Oakland",
       "summary": "Jury selection began Monday in Oakland, California, in the closely watched lawsuit brought by Elon Musk against OpenAI and its chief executive Sam Altman. Musk, who was an early backer and co-founder of OpenAI, alleges the company abandoned its founding nonprofit mission by pivoting toward a for-profit structure that benefits insiders at the expense of the public interest. The four-week trial is expected to draw intense scrutiny from the technology industry and could have significant implications for AI governance and corporate structure.\n\nOpenAI has disputed Musk's characterization, arguing that its transition was necessary to secure the billions in capital required to remain competitive in the AI race. The company has faced a series of high-profile legal and regulatory challenges in recent months as it pursues a full conversion to a for-profit entity. The trial comes as OpenAI is also embroiled in separate scrutiny: Florida's attorney general said Monday his office was expanding a criminal investigation into OpenAI following revelations that the primary suspect in the USF doctoral student murders had used ChatGPT.\n\nThe Musk-OpenAI dispute reflects broader tensions in Silicon Valley over who controls the development and profits from artificial intelligence. Musk has separately built his own AI company, xAI, which competes directly with OpenAI, leading some observers to question whether the lawsuit is partly motivated by competitive interests. OpenAI and Altman have characterized the suit as an attempt by a competitor to hobble a rival through litigation.\n\nThe outcome of the trial could reshape norms around how AI research organizations are structured, who controls intellectual property developed under nonprofit charters, and what obligations founders retain to original stated missions. Legal analysts watching Monday's opening said both sides face significant hurdles, and the case is expected to surface internal communications and documents that could prove embarrassing for both parties.",
