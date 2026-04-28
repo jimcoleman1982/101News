@@ -4,6 +4,30 @@
   "stories": [
     {
       "category": "world",
+      "headline": "UAE Announces It Will Leave OPEC Effective May 1",
+      "summary": "The United Arab Emirates announced Tuesday that it is withdrawing from OPEC and the broader OPEC+ alliance, effective May 1, in a significant blow to the oil-producing bloc. UAE officials have long complained that the cartel's production quotas unfairly constrained their export capacity, limiting the country's ability to capitalize on its substantial oil reserves.\n\nThe announcement comes as global energy markets remain unsettled amid the ongoing Iran war, which has already disrupted regional supply chains and kept prices elevated. The UAE is one of OPEC's largest producers, and its departure could meaningfully reduce the organization's collective ability to coordinate output and influence global crude prices.\n\nThe move marks a culmination of years of tension between Abu Dhabi and other OPEC members, particularly Saudi Arabia, over quota allocations. Analysts say the UAE's exit could accelerate a broader fragmentation of OPEC+ as member states increasingly pursue independent energy strategies in a volatile geopolitical environment.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/28/world/middleeast/uae-opec.html",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": true,
+      "addedAt": "6:57 AM MT",
+      "addedAtISO": "2026-04-28T06:57:34.456521-06:00"
+    },
+    {
+      "category": "business",
+      "headline": "Average Age of American CEOs Reaches 61, Up From 51 Two Decades Ago, Study Finds",
+      "summary": "The average age of American chief executives has risen to 61, up from roughly 51 twenty years ago, according to a new working paper drawing on data from BoardEx and published through the National Bureau of Economic Research. The study analyzed more than 50,000 U.S. CEOs across that period, documenting a steady graying of corporate leadership that mirrors demographic trends in Congress and other elite institutions.\n\nResearchers found the trend carries both advantages and drawbacks. Older CEOs tend to preside over companies with slower growth and less radical innovation, consistent with prior academic findings. At the same time, they appear to manage risk more conservatively and bring deeper institutional knowledge, traits that can stabilize firms during periods of economic uncertainty.\n\nThe findings arrive as American businesses navigate a challenging macroeconomic environment, including elevated inflation in recent years and energy price spikes driven by the Iran war. The study adds to a broader conversation about generational succession in leadership and whether U.S. companies are drawing sufficiently from younger executive talent.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/04/28/ceos-age-hiring-old",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "6:57 AM MT",
+      "addedAtISO": "2026-04-28T06:57:34.456521-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Trial Opens for Man Who Admitted Plotting Jihadist Attack on Taylor Swift Vienna Concerts",
       "summary": "A 21-year-old Austrian man identified only as Beran A appeared in court in Wiener Neustadt on Monday and admitted to plotting a jihadist attack on Taylor Swift's concerts in Vienna in August 2024, as well as being a member of a terrorist organisation. He faces charges of terrorism, making explosives, and attempting to illegally purchase weapons, including firearms and a hand grenade, with the intent of importing them into Austria. Prosecutors allege he began planning the attack no later than July 21, 2024, and was arrested on August 7 — the day before Swift's first scheduled concert — following a tip from the CIA.\n\nThe three sold-out Swift concerts at Vienna's Ernst Happl Stadium, which had drawn more than 195,000 expected attendees, were cancelled after authorities discovered an almost-completed bomb during a search of Beran A's home. A second defendant, Arda K, also 21, is accused of being part of the same Islamic State cell and faces charges related to alleged plots targeting Istanbul, Dubai, and Mecca. Both men were teenagers at the time of the alleged conspiracy.\n\nBeran A's lawyer urged the court to look beyond headlines, while the defendant acknowledged having caused widespread fear. A third person, a Syrian national named Mohammed A, previously received an 18-month suspended sentence in Germany for helping translate bomb-making instructions and facilitating contact with an IS member. The trial is expected to continue until late May, with both main defendants facing up to 20 years in prison if convicted.",
       "source": "BBC News",
