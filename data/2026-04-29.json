@@ -3,6 +3,54 @@
   "dateFormatted": "Wednesday, April 29, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: King Charles Addresses Joint Session of Congress, Receives Standing Ovations from Both Parties",
+      "summary": "King Charles III delivered a historic address to a joint session of the U.S. Congress on Tuesday, the first by a British monarch since Queen Elizabeth II spoke at the Capitol in 1991. The speech, framed around themes of \"reconciliation and renewal,\" came amid strained U.S.-UK relations stemming from Britain's reluctance to fully back the joint U.S.-Israeli war against Iran.\n\nThe King acknowledged that the two nations \"do not always agree,\" while arguing that their alignment historically benefits \"all peoples.\" A reference to executive power being subject to \"checks and balances\" — rooted in the Magna Carta — drew a standing ovation that began on the Democratic side of the chamber before spreading across the aisle, drawing particular attention given ongoing domestic debates over executive authority.\n\nDemocrats interpreted several passages as implicit critiques of current U.S. governance, including the King's closing line that \"the actions of this great nation matter even more\" than its words. Republicans joined in multiple ovations, though some in the White House were reported to have raised eyebrows at certain passages. The address is a centerpiece of the King's state visit, which the British government has billed as an effort to ease transatlantic tensions.\n\nThe visit follows the attempted assassination at Saturday's White House Correspondents' Dinner, which the King also acknowledged in his remarks as an example of threats to democracy posed by political violence. The King is scheduled to attend a state banquet at the White House later in the week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8jvl3x19v9o",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "addedAt": "10:47 AM MT",
+      "addedAtISO": "2026-04-29T10:47:43.912210-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Russia Scales Back Moscow Victory Day Parade, Citing Ukrainian \"Terrorist Threat\"",
+      "summary": "Russia announced Wednesday it will significantly scale back its annual Victory Day parade in Moscow on May 9, citing a threat of Ukrainian attacks on the capital. The Kremlin said military vehicles, armored columns, and cadets from military schools will not participate this year — the first time since Russia's full-scale invasion of Ukraine that tanks will not roll across Red Square.\n\nKremlin spokesman Dmitry Peskov attributed the decision to what he called \"full-scale terrorist activity\" by Ukraine, which he said was compensating for battlefield losses. Ukraine has recently intensified long-range strikes deep inside Russian territory, targeting what Kyiv describes as legitimate military infrastructure. Pro-Kremlin military bloggers had flagged the absence of the usual rehearsal road closures in central Moscow earlier this month.\n\nThe parade will still include representatives of all branches of the armed forces and an aerial flyover, as well as television footage of Russian military personnel operating in Ukraine. Russia has held the annual commemorations since the Soviet era to mark the defeat of Nazi Germany in World War Two, and Putin revived the tradition of parading heavy weaponry in 2008.\n\nAdditional mobile communications restrictions are reportedly planned for Moscow on May 5, 7, and 9. The scaling back of the parade is widely seen as an acknowledgment of Ukraine's growing ability to threaten Russian territory and would represent a significant symbolic setback for a Kremlin that has used the event as a showcase of military power.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c794wp4yy93o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "10:47 AM MT",
+      "addedAtISO": "2026-04-29T10:47:43.912210-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Global Tropical Forest Loss Slowed in 2025, but Scientists Warn El Niño Threat Looms",
+      "summary": "New satellite data published Wednesday shows that the loss of old-growth tropical forests declined by roughly 36 percent in 2025 compared to record losses in 2024, with researchers estimating approximately 43,000 square kilometers of tropical forest were destroyed globally last year. The improvement was driven largely by Brazil's strengthened environmental enforcement in the Amazon, where deforestation excluding fire-related losses reached its lowest level since tracking began in 2002.\n\nScientists from the World Resources Institute and the University of Maryland credited political will in several countries — including Brazil, Colombia, and Malaysia — for the progress. \"When we have political will and the leaders in charge who want to do something for forests, we can see real results in the data,\" said Elizabeth Goldman, co-director of Global Forest Watch.\n\nDespite the improvement, researchers caution that tropical forests are still disappearing far faster than a decade ago, and that world leaders remain far off track from the pledge made at COP26 in 2021 to halt and reverse forest loss by 2030. Scientists also warned that the anticipated arrival of a warming El Niño weather pattern later in 2026, combined with ongoing climate change, could sharply reverse the gains by increasing the likelihood and severity of wildfires.\n\nTropical rainforests are considered among the Earth's most critical ecosystems, housing millions of species and absorbing large quantities of carbon dioxide. The 2024 record losses were heavily driven by fires amplified by the El Niño pattern and human-caused climate change, and researchers say the forest system's resilience is being tested by increasingly intense droughts and fire events.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78q5pygn66o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "10:47 AM MT",
+      "addedAtISO": "2026-04-29T10:47:43.912210-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "GAO Opens Second Review of DOJ's Handling of Epstein File Redactions",
+      "summary": "The Government Accountability Office, Congress's independent nonpartisan watchdog, confirmed Wednesday it will conduct a review of the Justice Department's compliance with congressional mandates to release documents related to the late sex offender Jeffrey Epstein. The review marks the second active inquiry into the DOJ's handling of the files, following a separate review launched last week by the department's own inspector general.\n\nCongress directed the Justice Department to release the Epstein investigative files, but lawmakers on both sides of the aisle have expressed frustration over what they describe as excessive and unexplained redactions in the materials released so far. Attorney General Pam Bondi has agreed to testify before Congress on the matter on May 29.\n\nThe dual investigations reflect mounting pressure on the administration to provide greater transparency on the Epstein case, which has drawn sustained public and congressional interest due to the identities of individuals named in related court documents. The GAO functions as an independent investigative arm of Congress and its reviews can compel document production and lead to formal findings.\n\nThe Epstein files have become a politically charged issue, with both Republican and Democratic lawmakers calling for full disclosure. Critics have accused the administration of dragging its feet on releases, while supporters of the redactions argue that some material may implicate individuals not yet charged with any crime or compromise ongoing investigations.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/5855018-gao-review-epstein-files/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "addedAt": "10:47 AM MT",
+      "addedAtISO": "2026-04-29T10:47:43.912210-06:00"
+    },
+    {
       "category": "politics",
       "headline": "Supreme Court Hears Arguments on Trump Bid to End Temporary Protected Status for 350,000 Haitians, 6,000 Syrians",
       "summary": "The Supreme Court heard oral arguments Wednesday on whether the Trump administration can lawfully rescind Temporary Protected Status for hundreds of thousands of immigrants from Haiti and Syria. The program shields eligible individuals from deportation when their home countries face conditions — such as war, natural disasters, or other extraordinary circumstances — that make safe return impossible. The cases could affect roughly 356,000 people currently living and working legally in the United States under TPS protections.\n\nThe legal dispute centers on whether former Homeland Security Secretary Kristi Noem had the authority to terminate TPS designations for the two countries, and whether those decisions are reviewable by courts. The law establishing TPS includes language suggesting termination decisions cannot be judicially challenged, a provision the administration has cited in defending its actions. Lower courts had blocked the terminations, leading to the Supreme Court appeal.\n\nSupporters of ending TPS argue that the administration has broad discretion over immigration policy and that the program was never intended to be permanent. Critics and immigrant advocates counter that Haiti and Syria remain deeply dangerous and that stripping protections from hundreds of thousands of long-term residents would be both legally dubious and humanitarian harmful. The case is one of several major immigration disputes the high court is weighing this term as the Trump administration pursues an aggressive deportation and enforcement agenda.\n\nThe outcome could have broad implications beyond Haiti and Syria, as the administration has moved to terminate TPS for nationals of eleven countries in total. A ruling affirming the administration's authority could accelerate removals across a wide range of immigrant communities, while a decision against it would constrain a key tool the White House has used to drive down the number of people living legally in the country.",
