@@ -4,6 +4,45 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Update: Acting AG Defends Comey Indictment as Going Beyond Instagram Post",
+      "summary": "Acting Attorney General Todd Blanche appeared on NBC's Meet the Press Sunday to defend the federal indictment of former FBI Director James Comey, insisting the case rests on more than a single Instagram post in which seashells were arranged to spell \"86 47\" — a phrase the Justice Department characterizes as a threat against President Trump. Comey was indicted Tuesday by a federal grand jury in the Eastern District of North Carolina on two felony counts. Blanche said career prosecutors, FBI agents, and Secret Service agents investigated the matter thoroughly and gathered additional evidence, though he declined to detail it publicly.\n\nThe defense of the indictment drew skepticism from both parties. Republican Sen. Thom Tillis of North Carolina told CNN's State of the Union that if the case rests solely on a picture in the sand, \"it makes no sense to me.\" Democratic Sen. Adam Schiff of California said he believes the prosecution is \"likely to be thrown out even before it goes to a jury.\"\n\nLegal analysts note the case presents unusual challenges for prosecutors, in part because of the high-profile nature of the defendant and the symbolic, ambiguous character of the alleged threat. The Justice Department has argued the Comey case is comparable to dozens of prosecutions it has pursued against individuals who threaten public officials, framing it as a matter of equal treatment under the law.\n\nCritics on the left contend the prosecution is politically motivated, targeting a longtime Trump adversary, while the administration maintains it reflects consistent enforcement of laws protecting the president. The indictment adds to a contentious legal and political environment surrounding the Justice Department's use of prosecutorial power against figures associated with prior administrations.",
+      "source": "The Hill",
+      "url": "https://thehill.com/regulation/court-battles/5861329-comey-prosecution-not-just-instagram-post-blanche/",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:12 PM MT",
+      "addedAtISO": "2026-05-03T13:12:53.215079-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Three Dead in Suspected Hantavirus Outbreak Aboard Atlantic Cruise Ship",
+      "summary": "The World Health Organization has confirmed a suspected hantavirus outbreak aboard the MV Hondius, a polar cruise ship operated by Dutch-based Oceanwide Expeditions, resulting in at least three deaths. One case of hantavirus has been laboratory-confirmed, with five additional suspected cases under investigation. At least one British national is being treated in intensive care in Johannesburg, South Africa.\n\nThe MV Hondius departed Ushuaia, Argentina on March 20 and was en route to Cape Verde when the outbreak was detected. A 70-year-old passenger was the first to show symptoms and died on board; his body is now on the British territory of Saint Helena in the South Atlantic. His 69-year-old wife was evacuated to South Africa, where she also died in a Johannesburg hospital.\n\nHantavirus infections are typically contracted through contact with urine or feces from infected rodents and are not commonly transmitted between people, though rare person-to-person transmission has been documented and can cause severe respiratory illness. The WHO described the situation as a \"public health event\" and said it is coordinating between member states and ship operators to facilitate medical evacuations and conduct a full public health risk assessment.\n\nThe outbreak raises questions about biosafety protocols on expedition vessels operating in remote regions, where medical evacuation is logistically complex and access to advanced care is limited. The ship carries up to 170 passengers and was nearing the end of a roughly six-week voyage.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy0294829ndo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:12 PM MT",
+      "addedAtISO": "2026-05-03T13:12:53.215079-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Nigeria's Peter Obi Quits Opposition Coalition, Boosting President Tinubu Ahead of 2027 Elections",
+      "summary": "Peter Obi, one of Nigeria's most prominent opposition politicians and a leading vote-getter in the 2023 presidential election, has withdrawn from a coalition that had been forming to challenge President Bola Tinubu in the January 2027 general election. Obi's departure significantly weakens the opposition's bid to present a unified front against the incumbent and improves Tinubu's prospects for retaining the presidency.\n\nObi, who ran on the Labour Party ticket in 2023 and garnered substantial support particularly among younger urban voters, had been seen as a potential anchor candidate or power broker within any serious opposition alliance. His exit removes a major organising force from the coalition and may prompt further fragmentation among parties and figures seeking to unseat Tinubu.\n\nNigeria is Africa's most populous nation and its largest economy, making its electoral politics consequential across the continent. The 2023 election was marked by widespread allegations of irregularities and prolonged legal challenges, and the 2027 cycle is already shaping up as a high-stakes contest over governance, economic management, and democratic consolidation.\n\nThe reasons for Obi's departure from the coalition were not fully detailed in initial reports. Political analysts in Nigeria are expected to scrutinize whether his exit reflects personal strategic calculations, policy disagreements with other coalition members, or broader dealmaking ahead of the formal campaign period.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/nigeria-s-obi-quits-opposition-coalition-in-a-boost-for-tinubu",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:12 PM MT",
+      "addedAtISO": "2026-05-03T13:12:53.215079-06:00"
+    },
+    {
+      "category": "politics",
       "headline": "Two U.S. Service Members Missing During Military Exercises in Morocco",
       "summary": "Two U.S. service members were reported missing Saturday near the Cap Draa Training Area close to Tan Tan, Morocco, while participating in African Lion 2026, an annual joint military exercise. The U.S. Africa Command (Africom) confirmed a search and rescue operation involving ground, air, and maritime assets from the United States, Morocco, and partner nations is underway.\n\nAfrican Lion 2026 is the continent's largest annual joint military exercise, involving approximately 5,000 personnel from more than 40 countries. The exercise runs from April 27 to May 8 and is hosted across Morocco, Ghana, Senegal, and Tunisia, focusing on all-domain operations and multinational crisis response.\n\nU.S. officials told the BBC they believe the incident was an accident and not an act of terrorism or kidnapping. Africom stated the incident remains under investigation and said its focus is on the missing service members and their families. No further details about the circumstances of their disappearance have been released.",
       "source": "BBC News",
