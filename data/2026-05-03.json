@@ -3,6 +3,58 @@
   "dateFormatted": "Sunday, May 3, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Two U.S. Service Members Missing During Military Exercises in Morocco",
+      "summary": "Two U.S. service members were reported missing Saturday near the Cap Draa Training Area close to Tan Tan, Morocco, while participating in African Lion 2026, an annual joint military exercise. The U.S. Africa Command (Africom) confirmed a search and rescue operation involving ground, air, and maritime assets from the United States, Morocco, and partner nations is underway.\n\nAfrican Lion 2026 is the continent's largest annual joint military exercise, involving approximately 5,000 personnel from more than 40 countries. The exercise runs from April 27 to May 8 and is hosted across Morocco, Ghana, Senegal, and Tunisia, focusing on all-domain operations and multinational crisis response.\n\nU.S. officials told the BBC they believe the incident was an accident and not an act of terrorism or kidnapping. Africom stated the incident remains under investigation and said its focus is on the missing service members and their families. No further details about the circumstances of their disappearance have been released.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-05-03T11:08:22.996584-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Israeli Strikes Kill 13 in Southern Lebanon as Fighting Persists Despite Ceasefire Extension",
+      "summary": "At least 13 people were killed and 32 injured in Israeli air strikes on southern Lebanon on Friday, according to the Lebanese health ministry. Among the dead were four women and a child, with the largest single strike killing eight people in Haboush in the Nabatieh district, where the Israel Defense Forces had issued an evacuation order prior to the attack.\n\nThe strikes come despite a three-week ceasefire extension announced by President Trump on April 23. Hezbollah, which was not party to the ceasefire agreement but had indicated it would abide by its terms, said Saturday it had targeted Israeli soldiers and military vehicles in Lebanon. One Israeli soldier was killed in combat in southern Lebanon on Thursday, bringing Israeli troop deaths since early March to 17.\n\nThe fighting underscores the fragility of the truce. While strikes on Beirut and its southern suburbs have largely halted, hostilities have continued in the south with repeated air raids and evacuation orders. The U.S. embassy in Beirut separately suggested that a direct meeting between Lebanon's president and Israeli Prime Minister Netanyahu could help secure concrete sovereignty guarantees for Lebanon.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-05-03T11:08:22.996584-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Supreme Court Ruling Sparks Wave of Redistricting Battles Across Multiple States",
+      "summary": "A Supreme Court decision striking down a majority-Black congressional district in Louisiana has significantly weakened a provision of the Voting Rights Act, triggering redistricting moves in multiple states ahead of midterm elections. Alabama Governor Kay Ivey called a special legislative session beginning Monday to redraw the state's U.S. House map, while Tennessee Governor Bill Lee announced a special session to break up the state's sole Democratic-held House district, centered on majority-Black Memphis.\n\nLouisiana moved first, with Governor Jeff Landry postponing the state's May 16 congressional primary to allow time for new district maps to be drawn. Multiple lawsuits were immediately filed challenging Landry's executive authority to suspend the primary, noting that thousands of absentee ballots had already been mailed and returned. State district court judges in Baton Rouge denied requests Friday to temporarily block Landry's order in two of those cases.\n\nRepublicans argue the ruling creates legitimate legal grounds to redraw maps that will better reflect their interpretation of the law, and President Trump has actively pressured states to redistrict ahead of elections that will determine control of the closely divided House. Democrats and civil rights organizations contend the ruling guts civil rights-era protections for minority voters and that the rushed redistricting processes are legally improper and disenfranchising. Lawmakers, commissions, or courts have now adopted new House districts in eight states, with more expected to follow.",
+      "source": "PBS News",
+      "url": "https://www.pbs.org/newshour/politics/state-redistricting-battles-intensify-following-u-s-supreme-court-ruling-on-voting-rights-act",
+      "sourceCount": 25,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-05-03T11:08:22.996584-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Ukraine Leverages Iran War to Forge Gulf Defense Partnerships, Eyes Ceasefire Position",
+      "summary": "Ukraine has moved to capitalize on the ongoing U.S.-Israeli conflict with Iran by signing drone technology and expertise sharing agreements with Saudi Arabia, the UAE, and Qatar — all nations that have been struck by Iranian missiles and drones. President Zelensky has made multiple trips to the Gulf, framing Ukraine's battlefield-tested drone warfare knowledge as a marketable asset and seeking to build defense partnerships with wealthy U.S.-allied states.\n\nThe strategic pivot comes despite initial fears that the Iran conflict would harm Ukraine by diverting President Trump's attention from peace efforts and by enabling Russia to sell more oil at higher prices. Moscow has benefited from oil market disruptions caused by the Strait of Hormuz tensions, and Trump renewed a waiver allowing countries to buy sanctioned Russian oil. Nonetheless, Ukraine has sought to turn the situation to its advantage by positioning itself as a key security partner in the region ahead of any eventual peace negotiations with Russia.\n\nTrump said Wednesday he was confident a resolution to the Ukraine conflict could be reached \"relatively quickly\" following what he described as a \"very good\" conversation with Vladimir Putin, while appearing to implicitly criticize Zelensky. A formal ceasefire agreement has yet to materialize. Ukraine's approach illustrates Kyiv's continued effort to build international leverage and strengthen its negotiating position before any talks with Moscow begin.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgjp7vpee03o",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-05-03T11:08:22.996584-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: Cuba Condemns Trump's New Sanctions as 'Illegal,' Trump Threatens Military Presence",
       "summary": "Cuban Foreign Minister Bruno Rodriguez condemned a new wave of U.S. sanctions signed Friday by President Trump as \"illegal and abusive,\" saying the measures violated the United Nations Charter and amounted to \"collective punishment against the Cuban people.\" The executive order targets Cuban officials in the energy, defense, financial, and security sectors, as well as those alleged to have committed human rights abuses or corruption.\n\nThe announcement came as protesters marched outside the U.S. Embassy in Havana on International Workers Day, denouncing a U.S. blockade on oil to Cuba that has caused widespread blackouts and fuel shortages affecting hospitals, public transport, and schools. Cuban President Miguel Díaz-Canel, who had confirmed in March that Cuba was negotiating with Washington over bilateral relations, accused the U.S. of \"intimidating and arrogant behaviour.\"\n\nIn a notably escalatory statement Friday evening in Florida, Trump told an audience that the U.S. would be \"taking over\" Cuba \"almost immediately,\" suggesting an aircraft carrier could park offshore as a show of force. The remarks go beyond the previously covered executive order and represent a new public threat of potential military presence.\n\nThe U.S. and Cuba have maintained strained relations since Fidel Castro's 1959 revolution, with American trade and economic embargoes in place since 1960. Trump's latest moves come despite ongoing diplomatic back-channel contacts, raising questions about whether any negotiation track remains viable.",
