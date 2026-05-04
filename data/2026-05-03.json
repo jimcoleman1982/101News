@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Supreme Court Weakens Voting Rights Act in 6-3 Decision, Striking Down Louisiana Congressional Map",
+      "summary": "The Supreme Court ruled 6-3 Wednesday to significantly narrow a key provision of the 1965 Voting Rights Act, striking down Louisiana's majority-Black congressional district and holding that proof of discriminatory intent — or at least a strong inference of it — is required to challenge legislative maps under the law. The decision substantially limits the ability of minority voters to bring claims under Section 2 of the VRA and is expected to reshape congressional redistricting ahead of the 2026 midterms. Louisiana officials announced they would delay congressional primaries slated for next month in response to the ruling.\n\nCritics, including Democratic senators Raphael Warnock and Adam Schiff, called the ruling a \"massive and devastating blow\" to minority voting power, arguing that the court effectively overturned decades of precedent without explicitly saying so. Supporters of the ruling, including conservative legal advocates, argue it restores the VRA to its proper, narrower interpretation and prevents courts from requiring race-based district drawing in the absence of demonstrated discriminatory purpose.\n\nThe decision has immediate practical consequences: it buttresses Republican efforts to maintain control of the House by making it harder for courts to compel majority-minority districts. Multiple states are expected to redraw maps in coming weeks, and the ruling is already triggering a wave of new redistricting litigation across the country.\n\nThe case was covered by 22 outlets across the political spectrum, making it one of the most widely reported stories of the day. The ruling represents one of the most significant rollbacks of the Voting Rights Act since the Supreme Court's 2013 Shelby County decision eliminated preclearance requirements for states with histories of voter discrimination.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/03/us/politics/supreme-court-voting-rights-act.html",
+      "sourceCount": 22,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-05-03T18:08:24.340989-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Trump Announces 'Project Freedom' to Escort Ships Through Strait of Hormuz Amid Iran Talks",
+      "summary": "President Trump announced Sunday that the United States will escort ships stranded by the ongoing Iran war through the Strait of Hormuz beginning Monday morning in an operation he called \"Project Freedom,\" describing it as a humanitarian gesture. Trump said U.S. representatives were having \"very positive\" discussions with Iran, even as he warned that military action remained possible if Iran \"misbehaves.\" Iran responded by stating the Strait of Hormuz will never return to its pre-war status quo.\n\nThe announcement comes as U.S. and Iranian negotiators continue exchanging drafts of a framework agreement to end the conflict now entering its third month. Trump has simultaneously signaled openness to diplomacy while threatening renewed military strikes, telling reporters Saturday that he could order action if Iran does not comply with terms. Secretary of State Marco Rubio is scheduled to travel to Rome this week for meetings, including discussions about strained relations with Italian Prime Minister Giorgia Meloni over the conflict.\n\nTreasury Secretary Scott Bessent said the U.S. is \"suffocating\" Iran through frozen assets, a naval blockade and economic pressure on the IRGC, while White House economic adviser Kevin Hassett acknowledged the war's energy shock would affect airline profits for at least a quarter. Separately, an ECB official cited the Middle East conflict as fueling recession concerns in the eurozone.\n\nThe War Powers clock remains a political flashpoint in Washington. Senate Armed Services Committee ranking Democrat Jack Reed said Sunday there are no \"timeouts\" on the 60-day statutory deadline, while Sen. Adam Schiff acknowledged that both parties have historically failed to assert Congress's war-making authority.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/senate/5861451-schiff-criticizes-comey-indictment/",
+      "sourceCount": 22,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-05-03T18:08:24.340989-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "Rudy Giuliani Hospitalized in Critical but Stable Condition",
+      "summary": "Former New York City Mayor and Trump ally Rudy Giuliani, 81, was hospitalized Sunday and is in \"critical but stable\" condition, according to a statement from his spokesperson Ted Goodman. No cause for the hospitalization was given. President Trump publicly acknowledged Giuliani's condition, describing him as hospitalized in Florida.\n\nGoodman described Giuliani as \"a fighter who has faced every challenge in his life with unwavering strength\" and said he is \"fighting with that same strength now.\" The hospitalization was reported by 11 outlets including ABC News, Axios, Fox News, CBS News, the New York Times and the New York Post.\n\nGiuliani has faced significant legal and financial difficulties in recent years, including a $148 million defamation judgment related to false claims he made about Georgia election workers following the 2020 election, which led to bankruptcy filings. He served as Trump's personal attorney through multiple legal battles and is a prominent figure in American political history, having served as mayor of New York City during the September 11, 2001 attacks.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/03/rudy-giuliani-hospital-critical-condition-trump-nyc-mayor",
+      "sourceCount": 11,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-05-03T18:08:24.340989-06:00"
+    },
+    {
+      "category": "business",
+      "headline": "Spirit Airlines Ceases Operations After 34 Years, Leaving Thousands Stranded",
+      "summary": "Spirit Airlines shut down operations Saturday after more than three decades, leaving thousands of passengers stranded and marking what analysts say could be the end of the ultra-low-cost carrier model in the United States. The airline, which had filed for bankruptcy, said it was undertaking an \"orderly wind-down\" and would automatically process refunds for flights booked on credit or debit cards. Travelers who booked through third-party agencies or with vouchers face a longer path to reimbursement through the bankruptcy process.\n\nSeveral major carriers — including American, United, Delta, JetBlue, Frontier and Southwest — moved quickly to offer capped or discounted fares on Spirit routes to help stranded travelers. Southwest's offer is available only at airport counters through Wednesday; United is allowing such bookings online for up to two weeks. The Department of Transportation advised passengers to contact credit card companies to request chargebacks under the Fair Credit Billing Act if other avenues fail.\n\nTransportation Secretary Sean Duffy blamed the Biden administration for Spirit's collapse, citing the DOJ's successful blocking of a proposed JetBlue merger. Airline industry analysts noted that Spirit played a significant role in driving down fares across the industry, and its disappearance may reduce competitive pressure on ticket prices for budget travelers going forward.\n\nThe collapse has generated bipartisan attention given its effect on millions of lower-income travelers who relied on Spirit's low-cost model. The story was covered by multiple outlets and represents one of the most significant U.S. airline failures in years.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/economy/after-spirit-airlines-shutdown-how-passengers-can-get-home-and-get-refunds",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-05-03T18:08:24.340989-06:00"
+    },
+    {
+      "category": "politics",
       "headline": "Update: Acting AG Defends Comey Indictment as Going Beyond Instagram Post",
       "summary": "Acting Attorney General Todd Blanche appeared on NBC's Meet the Press Sunday to defend the federal indictment of former FBI Director James Comey, insisting the case rests on more than a single Instagram post in which seashells were arranged to spell \"86 47\" — a phrase the Justice Department characterizes as a threat against President Trump. Comey was indicted Tuesday by a federal grand jury in the Eastern District of North Carolina on two felony counts. Blanche said career prosecutors, FBI agents, and Secret Service agents investigated the matter thoroughly and gathered additional evidence, though he declined to detail it publicly.\n\nThe defense of the indictment drew skepticism from both parties. Republican Sen. Thom Tillis of North Carolina told CNN's State of the Union that if the case rests solely on a picture in the sand, \"it makes no sense to me.\" Democratic Sen. Adam Schiff of California said he believes the prosecution is \"likely to be thrown out even before it goes to a jury.\"\n\nLegal analysts note the case presents unusual challenges for prosecutors, in part because of the high-profile nature of the defendant and the symbolic, ambiguous character of the alleged threat. The Justice Department has argued the Comey case is comparable to dozens of prosecutions it has pursued against individuals who threaten public officials, framing it as a matter of equal treatment under the law.\n\nCritics on the left contend the prosecution is politically motivated, targeting a longtime Trump adversary, while the administration maintains it reflects consistent enforcement of laws protecting the president. The indictment adds to a contentious legal and political environment surrounding the Justice Department's use of prosecutorial power against figures associated with prior administrations.",
       "source": "The Hill",
