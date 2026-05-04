@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Iran Strikes UAE Oil Infrastructure as U.S. 'Project Freedom' Convoy Launches, Stocks and Oil Prices Surge",
+      "summary": "Iran carried out strikes against an oil carrier belonging to the Abu Dhabi National Oil Company and the Fujairah petroleum export complex on Monday, according to the UAE, even as President Trump launched his \"Project Freedom\" initiative to escort commercial vessels through the Strait of Hormuz. Iran had warned that any U.S. military presence in the strait would constitute a violation of the ceasefire between Washington and Tehran. Iranian state media separately claimed Iranian forces struck a U.S. patrol boat and turned back a U.S. warship, allegations the U.S. denied.\n\nThe attacks sent oil markets sharply higher, with Brent crude futures rising approximately 5.2% to around $114 per barrel and U.S. West Texas Intermediate crossing $105. U.S. equity markets declined, with the Dow Jones Industrial Average falling roughly 0.9% and the S&P 500 and Nasdaq each slipping about 0.5%, as investors weighed the risk of broader military escalation in the Gulf.\n\nTrump warned Sunday on social media that any interference with the humanitarian convoy operation would \"have to be dealt with forcefully.\" The new strikes represent a concrete escalation following the ceasefire period and raise immediate questions about whether the fragile truce between the U.S. and Iran can hold. The Strait of Hormuz is a critical chokepoint through which a significant portion of the world's oil supply flows.\n\nSupporters of Trump's assertive posture argue that \"Project Freedom\" is necessary to protect global commerce and project American resolve; critics warn that direct U.S. military engagement in the strait risks dragging the country into a broader regional conflict with no clear exit strategy.",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-may-4-231452685.html",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "10:05 AM MT",
+      "addedAtISO": "2026-05-04T10:05:20.178160-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Hezbollah Suffers Heavy Casualties in Southern Lebanon Offensive; Over 2,600 Killed Since March",
+      "summary": "Hezbollah has paid a steep price in renewed fighting in Lebanon since early March, with Lebanon's health ministry reporting more than 2,600 people killed since March 2, approximately one-fifth of them women, children, and medical workers, according to a Reuters report. The figures underscore the scale of the ongoing conflict as Hezbollah attempts to reverse military setbacks suffered in earlier phases of the broader regional war.\n\nThe casualties represent a significant toll on the militant group and Lebanese civilian infrastructure, compounding a humanitarian situation that was already dire. The death toll since March adds to the broader regional casualty count linked to the Israel-Lebanon theater of the Middle East conflict.\n\nThe fighting in Lebanon continues despite a nominally extended ceasefire arrangement in other parts of the region, highlighting the fragmented and unstable nature of any pause in hostilities. International observers and aid organizations have repeatedly warned that civilian infrastructure and medical personnel are bearing an outsized share of the violence.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/hezbollah-pays-steep-price-battle-reverse-its-fortunes-2026-05-03/",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:05 AM MT",
+      "addedAtISO": "2026-05-04T10:05:20.178160-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Top Republicans Break with Trump Over U.S. Troop Withdrawal from Germany, Germany Says Europe Must Step Up",
+      "summary": "Two senior Republican lawmakers publicly expressed concern over the weekend about President Trump's decision to withdraw 5,000 U.S. troops from NATO ally Germany, warning that reducing the American military footprint in Europe sends the \"wrong signal\" to Russian President Vladimir Putin. The bipartisan alarm adds domestic political pressure on the administration at a moment when NATO cohesion is already under strain.\n\nGermany's defense minister, responding to the Pentagon announcement, acknowledged that the drawdown underlines the need for European nations to take greater responsibility for their own security, framing it as a call to action rather than solely a crisis. German Chancellor Friedrich Merz separately denied that the troop withdrawal was connected to his criticisms of U.S. Iran policy, seeking to decouple the two flashpoints in the transatlantic relationship.\n\nThe withdrawal decision places Trump in the unusual position of facing pushback from within his own party on a core national security question. Senate Republicans who have generally supported the administration's foreign policy posture are now drawing a line at moves they believe could embolden Moscow, particularly as the war in Ukraine remains unresolved.\n\nThe episode reflects a broader tension between the Trump administration's desire to reduce overseas military commitments and the traditional Republican emphasis on a strong NATO presence as a deterrent to Russian aggression. European governments are accelerating defense spending discussions in direct response to uncertainty about continued U.S. commitments.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-troop-drawback-underlines-european-defence-responsibility-german-minister-2026-05-02/",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:05 AM MT",
+      "addedAtISO": "2026-05-04T10:05:20.178160-06:00"
+    },
+    {
+      "category": "business",
+      "headline": "Trump's World Liberty Financial Sues Crypto Billionaire Justin Sun for Defamation",
+      "summary": "World Liberty Financial, the cryptocurrency venture co-founded by President Trump and his sons, filed a defamation lawsuit Monday against crypto billionaire Justin Sun in Miami-Dade County circuit court, alleging Sun conducted a \"public smear campaign\" to damage the business after a financial dispute. The company is seeking unspecified damages and a public retraction of statements Sun made on social media.\n\nThe lawsuit alleges Sun bet against the company's $WLFI tokens, used third-party straw purchases to conceal his identity while acquiring tokens, and then launched a coordinated online attack — including through influencers and alleged bot accounts — after World Liberty froze tokens linked to one of Sun's companies. World Liberty accused Sun of threatening to \"light World Liberty on fire\" through litigation before going public with his criticisms.\n\nThe suit escalates a conflict that began in April when Sun sued World Liberty for fraud, claiming he was illegally blocked from selling digital tokens worth up to $1 billion. Sun dismissed Monday's lawsuit on X as \"a meritless PR stunt,\" saying he stands by his actions and will defeat the case in court. Sun, founder of the Tron blockchain platform, has a net worth of nearly $12 billion.\n\nThe case draws fresh attention to the financial entanglements of the Trump family's crypto business while the president remains in office, raising conflict-of-interest questions that critics have flagged since World Liberty Financial launched. Supporters argue the lawsuit is a straightforward commercial defamation claim with no bearing on Trump's official duties.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-world-liberty-financial-justin-sun-cryptocurrency/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:05 AM MT",
+      "addedAtISO": "2026-05-04T10:05:20.178160-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Australia Opens Royal Commission Hearings on Antisemitism After Bondi Hanukkah Attack",
       "summary": "Australia's royal commission into antisemitism opened its first public hearings Monday in Sydney, with survivors and family members of victims from the December Bondi Beach Hanukkah shooting testifying about the ongoing impact of antisemitic violence and harassment. Sheina Gutnick, whose father Reuven Morrison was killed while throwing objects at the gunmen to protect others, told the commission she had received messages since the attack saying she too should have been killed. The shooting left 15 dead; gunman Sajid Akram was killed by police at the scene, and his son Naveed Akram faces 59 charges including 15 counts of murder.\n\nGutnick described a marked shift in the social acceptability of antisemitism since October 2023, telling the commission: 'I felt as though antisemitism was allowed to come into the open. All of a sudden it was socially, morally acceptable for antisemitic comments to be made in public discourse.' A second witness, identified only as AAL, said he was reconsidering whether Australia remained safe for his grandchildren.\n\nThe commission has received nearly 7,500 public submissions. Former High Court judge Virginia Bell, overseeing the proceedings, published an interim report last week with 14 recommendations including gun reforms and extended police protection for Jewish community events. The first block of hearings runs through May 15, focusing on lived experience of antisemitism before the commission delivers a final report on the anniversary of the attack.\n\nBell acknowledged a 'sharp spike' in antisemitism mirrored across Western countries and linked to 'events in the Middle East,' underscoring the global dimension of the issue. The commission's work comes as governments in Australia, the United Kingdom, and elsewhere grapple with how to respond to rising hate crimes against Jewish communities.",
       "source": "BBC News",
