@@ -4,6 +4,45 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Australia Opens Royal Commission Hearings on Antisemitism After Bondi Hanukkah Attack",
+      "summary": "Australia's royal commission into antisemitism opened its first public hearings Monday in Sydney, with survivors and family members of victims from the December Bondi Beach Hanukkah shooting testifying about the ongoing impact of antisemitic violence and harassment. Sheina Gutnick, whose father Reuven Morrison was killed while throwing objects at the gunmen to protect others, told the commission she had received messages since the attack saying she too should have been killed. The shooting left 15 dead; gunman Sajid Akram was killed by police at the scene, and his son Naveed Akram faces 59 charges including 15 counts of murder.\n\nGutnick described a marked shift in the social acceptability of antisemitism since October 2023, telling the commission: 'I felt as though antisemitism was allowed to come into the open. All of a sudden it was socially, morally acceptable for antisemitic comments to be made in public discourse.' A second witness, identified only as AAL, said he was reconsidering whether Australia remained safe for his grandchildren.\n\nThe commission has received nearly 7,500 public submissions. Former High Court judge Virginia Bell, overseeing the proceedings, published an interim report last week with 14 recommendations including gun reforms and extended police protection for Jewish community events. The first block of hearings runs through May 15, focusing on lived experience of antisemitism before the commission delivers a final report on the anniversary of the attack.\n\nBell acknowledged a 'sharp spike' in antisemitism mirrored across Western countries and linked to 'events in the Middle East,' underscoring the global dimension of the issue. The commission's work comes as governments in Australia, the United Kingdom, and elsewhere grapple with how to respond to rising hate crimes against Jewish communities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1m2rk209mzo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-04T08:08:35.185100-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "North Korean Athletes to Cross into South Korea for First Time Since 2018",
+      "summary": "North Korean women's football club Naegohyang will travel to South Korea later this month to compete in the Asian Women's Champions League semi-final against Suwon on May 20, marking the first time athletes from North Korea have crossed the border since the 2018 Pyeongchang Winter Olympics. Pyongyang has submitted a list of 27 players and 12 staff for the trip, and South Korea's Unification Ministry has confirmed the visit.\n\nThe rare crossing carries significant diplomatic weight. The two Koreas are technically still at war — no peace treaty was signed when the Korean War ended in 1953 — and relations have deteriorated sharply in recent years, with North Korea labeling the South its 'most hostile state' and formally abandoning any pursuit of reunification. South Korean President Lee Jae Myung has sought to ease those tensions since taking office.\n\nNaegohyang is appearing in the Asian Women's Champions League for the first time, having defeated Ho Chi Minh City of Vietnam 3-0 in the quarter-final. The winner of the semi-final will face Melbourne City or Tokyo Verdy in the final, also to be played in Suwon on May 23.\n\nAnalysts note that even limited athletic exchanges have historically served as a diplomatic opening between the two nations. The visit is being closely watched as a potential signal of whether inter-Korean dialogue may be reviving under the current South Korean administration.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/cx216122kv1o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-04T08:08:35.185100-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "John Sterling, Voice of the New York Yankees for 35 Years, Dies at 87",
+      "summary": "John Sterling, the radio broadcaster whose voice defined New York Yankees baseball for more than three decades, died Monday at age 87. Sterling began calling Yankees games on WABC radio in 1989 and retired in April 2024, having called 5,420 regular-season games and 211 postseason contests. He worked 5,060 consecutive games between 1989 and 2019, rarely missing a broadcast.\n\nSterling was known nationally for his signature home run calls — personalized, theatrical exclamations tailored to individual players — and for his catchphrase 'It is high, it is far, it is gone!' He won 12 Emmy Awards over the course of his career and was widely regarded as one of the most distinctive voices in baseball broadcasting history.\n\nA native New Yorker, Sterling became synonymous with the Yankees through their championship dynasties of the late 1990s and their subsequent decades of contention. His tenure spanned some of the franchise's most celebrated and turbulent eras, and his retirement in 2024 was treated as the end of an institution by fans across the region.\n\nTributes from players, broadcasters, and fans poured in following the announcement of his death. Sterling called more games for the Yankees than any other announcer in the franchise's history.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/04/sports/john-sterling-dead.html",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-04T08:08:35.185100-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Nobel Laureate Narges Mohammadi Near Death in Iranian Prison, Family Says",
       "summary": "Jailed Iranian human rights campaigner and 2023 Nobel Peace Prize winner Narges Mohammadi has been hospitalized after a catastrophic deterioration in her health, following what her family describes as 140 days of arbitrary detention and the persistent denial of specialized medical care. Her brother Hamidreza Mohammadi, speaking from Norway, told the BBC he fears she is dying and wakes up each day \"waiting for the worst call\" he could receive. She was transferred from Zanjan Prison to a local hospital after suffering a suspected heart attack, having previously been found unconscious by fellow inmates.\n\nMohammadi, 54, has a history of serious cardiac, lung, and blood pressure conditions, including a pulmonary embolism and prior stenting and angiography. Her family says treatment at the Zanjan hospital is effectively impossible given her complex medical history and is calling for her transfer to specialists in Tehran. The head of the Nobel Peace Prize Committee, Jorgen Watne Frydnes, told Reuters her life is at risk and echoed the family's call for adequate care.\n\nMohammadi has been arrested 13 times over her lifetime and has been sentenced to a cumulative 31 years in prison and 154 lashes. Iranian authorities have not publicly responded to the family's account or to international calls for her release. Her brother suggested the ongoing Iran war and international focus on the Strait of Hormuz have diverted global attention from the plight of political prisoners inside the country.",
       "source": "BBC News",
