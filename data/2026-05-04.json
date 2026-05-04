@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-04",
+  "dateFormatted": "Monday, May 4, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Nobel Laureate Narges Mohammadi Near Death in Iranian Prison, Family Says",
+      "summary": "Jailed Iranian human rights campaigner and 2023 Nobel Peace Prize winner Narges Mohammadi has been hospitalized after a catastrophic deterioration in her health, following what her family describes as 140 days of arbitrary detention and the persistent denial of specialized medical care. Her brother Hamidreza Mohammadi, speaking from Norway, told the BBC he fears she is dying and wakes up each day \"waiting for the worst call\" he could receive. She was transferred from Zanjan Prison to a local hospital after suffering a suspected heart attack, having previously been found unconscious by fellow inmates.\n\nMohammadi, 54, has a history of serious cardiac, lung, and blood pressure conditions, including a pulmonary embolism and prior stenting and angiography. Her family says treatment at the Zanjan hospital is effectively impossible given her complex medical history and is calling for her transfer to specialists in Tehran. The head of the Nobel Peace Prize Committee, Jorgen Watne Frydnes, told Reuters her life is at risk and echoed the family's call for adequate care.\n\nMohammadi has been arrested 13 times over her lifetime and has been sentenced to a cumulative 31 years in prison and 154 lashes. Iranian authorities have not publicly responded to the family's account or to international calls for her release. Her brother suggested the ongoing Iran war and international focus on the Strait of Hormuz have diverted global attention from the plight of political prisoners inside the country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c362pd8epw9o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-04T05:08:35.320435-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "European Leaders Converge on Armenia for Unprecedented Summits as Russia Watches",
+      "summary": "More than 30 European leaders and Canada's prime minister are gathering in Yerevan, Armenia, for a European Political Community summit on Monday — an extraordinary diplomatic moment for a country long considered one of Russia's closest allies in the South Caucasus. A first-ever bilateral EU-Armenia summit follows on Tuesday, attended by European Commission President Ursula von der Leyen and European Council President António Costa. The gatherings signal Armenia's accelerating pivot away from Moscow following Russia's failure to defend it during Azerbaijan's 2023 military operation in Nagorno-Karabakh.\n\nArmenia remains formally embedded in Russia's economic and security orbit — it is a member of Putin's Eurasian Economic Union and hosts a Russian military base — yet its parliament passed a law in March 2025 to begin the EU accession process. Armenia's foreign relations committee chairman cited the 2023 war as a turning point, saying the country \"realised that the security architecture we are in was not working.\" The EU had brokered a border recognition deal and deployed a civilian monitoring mission that shifted public sentiment toward Europe.\n\nThe diplomatic realignment carries regional costs. Azerbaijan's parliament voted last week to suspend ties with the European Parliament over a resolution calling for the right of return of Nagorno-Karabakh Armenians and the release of Armenian prisoners. A Trump-brokered White House agreement last August between Armenia and Azerbaijan aimed to end decades of conflict, and a connectivity corridor linking the region to European markets — dubbed the Trump Route for International Peace and Prosperity — runs along Armenia's border with Iran. Moscow has watched the shifting alignments with evident displeasure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgkp1124y3yo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-04T05:08:35.320435-06:00"
+    },
+    {
+      "category": "business",
+      "headline": "Spirit Airlines Shutdown to Raise Fares, Strand Passengers; Refund Path Unclear for Some",
+      "summary": "Spirit Airlines' abrupt shutdown is expected to push airfares higher across the industry, with analysts warning that reduced capacity in markets the carrier once served will drive up ticket prices at an already elevated baseline. A CBS News analysis of aviation analytics firm Cirium's data found average fares on routes where Spirit previously operated jumped 23%, or roughly $60 for a round trip, when the carrier exited. Overall passenger volume on those routes fell 20% as well. The shutdown compounds pressure from higher jet fuel costs tied to the Iran war.\n\nSpirit announced Saturday that it had begun an \"orderly wind-down of operations, effective immediately,\" after a $500 million federal bailout effort stalled. All flights have been canceled. Customers who purchased tickets with a credit or debit card are entitled to full refunds, which Spirit says it will process automatically. However, travelers who paid in cash, with vouchers, or through Spirit's loyalty points program may receive little or nothing — their cases will be determined through the bankruptcy process.\n\nTravel experts are advising affected passengers not to cancel their tickets proactively, as doing so could forfeit protections. Instead, they recommend filing a chargeback with the card issuer on grounds of non-delivery of service. Several other airlines have announced short-term special offers for displaced Spirit customers, though the Transportation Department noted passengers will need to provide a Spirit confirmation number and proof of payment to access those fares.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/spirit-airlines-tickets-flghts-shutting-down-impact/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-04T05:08:35.320435-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "NTSB Launches Investigation After United Airlines Plane Strikes Pole on NJ Turnpike Approach",
+      "summary": "The National Transportation Safety Board announced Sunday it has opened a formal investigation into an incident in which a United Airlines Boeing 767-400, operating as Flight 169 from Venice to Newark, struck a light pole and a truck on the New Jersey Turnpike while on approach to Newark Liberty Airport. No immediate casualty figures were reported in initial coverage, but the incident prompted NTSB involvement given the proximity of a commercial wide-body aircraft to a major highway.\n\nThe Boeing 767-400 is a large twin-aisle jet commonly used on transatlantic routes. Investigators will examine flight data, crew communications, and approach procedures to determine how a commercial aircraft came close enough to the highway infrastructure to make contact. Newark Liberty Airport's approach paths run over densely populated areas of northern New Jersey, making such incidents a matter of public safety concern.\n\nThe NTSB investigation is in its early stages and no cause has been assigned. United Airlines has not yet issued a detailed public statement beyond confirming the incident. The event adds to ongoing scrutiny of aviation safety procedures at Newark, one of the busiest airports in the northeastern United States.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/transportation/5861703-united-airlines-plane-strikes-pole/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-04T05:08:35.320435-06:00"
+    }
+  ]
+}
