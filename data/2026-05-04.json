@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Two Killed, 22 Injured After Car Driven Into Crowd in Leipzig, Germany",
+      "summary": "A car rammed into pedestrians on a busy street in the eastern German city of Leipzig on Monday afternoon, killing two people and injuring 22 others, including two seriously. The suspected perpetrator, identified as a 33-year-old German citizen, was arrested at the scene after bystanders helped apprehend him. Police described the incident as a \"violent rampage\" by a lone perpetrator and said there was no ongoing threat to public safety.\n\nLeipzig Mayor Burkhard Jung confirmed the deaths and arrest, while the head of the state of Saxony, Michael Kretschmer, said the suspect had previously suffered from mental illness. Authorities said the car struck pedestrians on Grimmaische Straße before continuing past the market area, where it came to a halt at bollards. The motive remained unclear as of Monday evening.\n\nThe attack is the latest in a series of vehicle-ramming incidents in Germany in recent years. In December 2024, a car attack on a Christmas market in Magdeburg killed at least six people and wounded more than 300. A separate attack in Munich in February 2025 injured at least 30. The recurrence of such attacks has intensified debate in Germany over public safety and security measures.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "1:52 PM MT",
+      "addedAtISO": "2026-05-04T13:52:10.929243-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Mali Junta Leader Names Himself Defence Minister After Predecessor Killed in Attacks",
+      "summary": "Mali's military leader Gen. Assimi Goïta has appointed himself defence minister following the killing of his predecessor, Sadio Camara, in a suicide truck bombing during a wave of coordinated nationwide attacks. A decree read on state television Monday formalized the change, with army chief of staff Gen. Oumar Diarra named as minister delegate. The move is widely seen as an attempt by Goïta to consolidate power amid a severe challenge to his authority.\n\nThe crisis began on April 25, when an alliance of the separatist Azawad Liberation Front and the al-Qaeda-linked JNIM launched simultaneous attacks across Mali, imposing a partial blockade on Bamako and other cities. Malian and allied Russian forces withdrew from the northern city of Kidal under pressure from the offensive. Malian authorities said over the weekend that they had arrested soldiers allegedly complicit in planning the attacks.\n\nMali, Niger, and Burkina Faso — all under military rule and members of the Alliance of Sahel States — launched joint air strikes against the insurgents in response. The three countries expelled French forces and brought in Russian troops in recent years, but the attacks have continued, with large swaths of all three nations remaining outside government control. The coordinated scale of the offensive has raised significant doubts about the durability of the junta governments across the Sahel.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8r8jr7x8mlo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:52 PM MT",
+      "addedAtISO": "2026-05-04T13:52:10.929243-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "DeSantis Signs Florida Redistricting Map Into Law, Potentially Netting Republicans Four House Seats",
+      "summary": "Florida Gov. Ron DeSantis on Monday signed into law a new set of congressional district maps drawn during a fast-tracked redistricting special session, a move Republicans say could net the party up to four additional U.S. House seats. The signing caps off the latest round in a nationwide mid-decade redistricting battle triggered by the Supreme Court's recent ruling weakening the Voting Rights Act. DeSantis announced the signing with the message \"Signed, Sealed, and Delivered\" on social media.\n\nThe new maps reshape multiple districts in Florida's congressional delegation, which currently sends 20 Republicans to Washington. Republicans argue the new lines more fairly reflect the state's partisan composition and correct what they see as flawed prior maps. The special session was described as Republicans' last opportunity to redraw districts before the November elections.\n\nOpponents moved quickly to challenge the maps. Liberal voters filed suit Monday alleging the new districts violate a Florida constitutional provision prohibiting political gerrymandering. Democrats on the House Oversight Committee also raised separate concerns about former Attorney General Pam Bondi's upcoming deposition, including questions over whether she will testify under oath. The Florida redistricting fight is part of a broader national wave of map-drawing battles following the Supreme Court's voting rights decision.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/5855827-florida-redistricting-desantis-law/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:52 PM MT",
+      "addedAtISO": "2026-05-04T13:52:10.929243-06:00"
+    },
+    {
+      "category": "business",
+      "headline": "GameStop Makes Surprise $55.5 Billion Takeover Offer for eBay",
+      "summary": "Video game retailer GameStop has made an unsolicited $55.5 billion cash-and-stock offer to acquire e-commerce giant eBay, valuing eBay shares at $125 each — roughly $20 above Friday's closing price. GameStop CEO Ryan Cohen said eBay could be made far more valuable under his leadership and potentially rival Amazon, and warned he was prepared to take the bid directly to shareholders if eBay's board rejected it. eBay said it would consider the proposal.\n\nAnalysts reacted with significant skepticism. Morgan Stanley said the two companies had \"fundamentally different\" business models, and Bernstein noted that GameStop's balance sheet is far smaller than eBay's, saying it would be \"surprised if anything became of it.\" Retail analyst Sucharita Kodali of Forrester described the offer as not \"terribly good\" because it would load eBay with GameStop's debt. GameStop said it has a commitment letter from TD Securities to provide around $20 billion in financing.\n\nMarkets reflected the uncertainty: eBay shares rose approximately 5 percent Monday while GameStop fell more than 9 percent. GameStop, which became famous during the 2021 meme-stock frenzy, has seen improving finances under Cohen, with net profit rising to $418 million in 2025, though sales have continued to fall. The proposed deal would make Cohen CEO of the combined company with no salary, compensated solely on performance.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:52 PM MT",
+      "addedAtISO": "2026-05-04T13:52:10.929243-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: Iran Strikes UAE Oil Infrastructure as U.S. 'Project Freedom' Convoy Launches, Stocks and Oil Prices Surge",
       "summary": "Iran carried out strikes against an oil carrier belonging to the Abu Dhabi National Oil Company and the Fujairah petroleum export complex on Monday, according to the UAE, even as President Trump launched his \"Project Freedom\" initiative to escort commercial vessels through the Strait of Hormuz. Iran had warned that any U.S. military presence in the strait would constitute a violation of the ceasefire between Washington and Tehran. Iranian state media separately claimed Iranian forces struck a U.S. patrol boat and turned back a U.S. warship, allegations the U.S. denied.\n\nThe attacks sent oil markets sharply higher, with Brent crude futures rising approximately 5.2% to around $114 per barrel and U.S. West Texas Intermediate crossing $105. U.S. equity markets declined, with the Dow Jones Industrial Average falling roughly 0.9% and the S&P 500 and Nasdaq each slipping about 0.5%, as investors weighed the risk of broader military escalation in the Gulf.\n\nTrump warned Sunday on social media that any interference with the humanitarian convoy operation would \"have to be dealt with forcefully.\" The new strikes represent a concrete escalation following the ceasefire period and raise immediate questions about whether the fragile truce between the U.S. and Iran can hold. The Strait of Hormuz is a critical chokepoint through which a significant portion of the world's oil supply flows.\n\nSupporters of Trump's assertive posture argue that \"Project Freedom\" is necessary to protect global commerce and project American resolve; critics warn that direct U.S. military engagement in the strait risks dragging the country into a broader regional conflict with no clear exit strategy.",
       "source": "finance.yahoo.com",
