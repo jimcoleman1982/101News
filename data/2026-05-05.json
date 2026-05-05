@@ -3,6 +3,58 @@
   "dateFormatted": "Tuesday, May 5, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Romanian Prime Minister Ousted in No-Confidence Vote",
+      "summary": "Romania's parliament voted Tuesday to remove Prime Minister Ilie Bolojan in a no-confidence motion, with 281 MPs backing the measure — well above the 233 needed. The left-wing Social Democrats, the country's largest party, abandoned Bolojan's four-party coalition last month and joined far-right opposition lawmakers to force the vote, citing clashes over austerity measures aimed at reducing Romania's budget deficit, the largest in the European Union.\n\nPresident Nicusor Dan, who won a tense presidential election last May after a far-right victory was annulled over allegations of Russian interference, must now attempt to rebuild a governing coalition under a different prime minister. He has sought to reassure partners that Romania, an EU and NATO member bordering Ukraine, will maintain its pro-Brussels orientation. Bolojan will serve as caretaker prime minister until a new government is confirmed.\n\nFinancial markets have reacted with concern: Romania's currency, the leu, fell to a record low against the euro ahead of the vote. The political turbulence raises fears that Bucharest could waver on its commitment to fiscal consolidation at a time when the EU is watching closely. Snap elections are unlikely, as the next scheduled ballot is not until 2028.\n\nThe Social Democrats have indicated they are prepared to rejoin a pro-EU coalition under a different leader, meaning the ideological direction of a new government may not shift dramatically. Nonetheless, the crisis underscores the fragility of Romania's post-election political settlement and the continuing influence of far-right parties that gained a third of parliamentary seats in recent elections.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgkpjz2638ro?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:48 PM MT",
+      "addedAtISO": "2026-05-05T13:48:24.176758-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Nine Coal Miners Killed in Gas Explosion in Colombia",
+      "summary": "Nine miners died Monday afternoon after a gas explosion tore through a coal mine in Sutatausa, a town north of Bogotá, Colombia. Emergency responders rescued six additional miners from the tunnels, and those survivors are receiving hospital treatment. The national mining agency said a build-up of gases was the suspected cause of the blast, which occurred at approximately 4:00 p.m. local time.\n\nColombia's mining regulator disclosed that it had inspected the same mine less than a month earlier and issued warnings about a \"potentially dangerous gas build-up\" to the operators. The disclosure raises questions about regulatory enforcement in a country where many mines operate informally and without adequate safety standards.\n\nSutatausa has a long history as a coal-mining center, and the area has seen repeated fatal accidents. In 2023, 21 people died in a methane gas explosion at a complex of coal mines in the same town. Last year, 18 workers were rescued after being trapped underground for 18 hours in an unlicensed gold mine due to a mechanical failure.\n\nEmergency crews were still working Tuesday to retrieve the bodies of the deceased miners. The recurring nature of such disasters has renewed pressure on Colombian authorities to strengthen oversight of the mining sector and enforce compliance with safety standards at both licensed and informal operations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:48 PM MT",
+      "addedAtISO": "2026-05-05T13:48:24.176758-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Austria Expels Three Russian Diplomats Over Espionage Accusations",
+      "summary": "Austria has expelled three Russian diplomats, accusing them of using a network of antennas installed atop diplomatic buildings in Vienna to conduct espionage operations. Foreign Minister Beate Meinl-Reisinger said the antennas, mounted on the roof of the Russian embassy and at a Russian diplomatic compound, were used to intercept satellite internet data from organizations in Austria, including international bodies headquartered there. The three diplomats have already departed the country.\n\nThe Russian embassy rejected the expulsions as \"entirely unjustified\" and \"purely politically motivated,\" warning that Moscow would \"undoubtedly respond harshly\" to what it called \"ill-considered actions\" by Austrian authorities. The standoff adds to a growing list of espionage-related diplomatic confrontations between Russia and European nations.\n\nThe expulsions come amid an ongoing high-profile spy trial in Vienna involving Egisto Ott, a former Austrian intelligence official charged with passing information to Russian intelligence officers and to Jan Marsalek, the fugitive ex-executive of German payments firm Wirecard, who is believed to be sheltering in Moscow. In January, Germany separately expelled a diplomat accused of spying for Russia and summoned the Russian ambassador.\n\nVienna has long served as a hub for international espionage given its neutral status and role as host to UN agencies and the Organization for Security and Cooperation in Europe. Austrian officials said the expulsions signal a deliberate shift in policy toward more decisive action against foreign intelligence operations conducted under diplomatic cover.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yrwny111xo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:48 PM MT",
+      "addedAtISO": "2026-05-05T13:48:24.176758-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "Pulitzer Prizes Awarded to Washington Post, AP, Reuters, and New York Times",
+      "summary": "The Washington Post won the Pulitzer Prize for Public Service on Monday for its coverage scrutinizing the Trump administration's overhaul of federal agencies, documenting the effects of spending cuts and institutional changes on individual Americans. The Associated Press won the International Reporting prize for a multi-year investigation revealing that American companies helped build the infrastructure underpinning China's surveillance state. The New York Times won three Pulitzer Prizes, including for Investigative Reporting focused on President Trump's approach to conflicts of interest, while Reuters won two awards including for National Reporting.\n\nSeveral winning entries this year centered on the Trump presidency and its impact on federal norms, democratic institutions, and press freedom. Reuters' national reporting prize recognized its examination of how Trump has used federal power and political influence to expand presidential authority and target opponents. Times executive editor Joseph Kahn noted that the paper's reporters have faced threats over their work and pledged the newsroom would not yield to pressure.\n\nA special Pulitzer citation was awarded to Miami Herald reporter Julie K. Brown for her reporting nearly a decade ago that brought public attention to Jeffrey Epstein's sexual abuses. Prize administrator Marjorie Miller described the awards as a moment of celebration at a time of significant financial and political pressure on American newsrooms.\n\nThe announcement came against a backdrop of industry upheaval: the Post cut a third of its staff in recent months, CBS News announced the closure of its radio service, and the AP offered buyouts to more than 120 journalists. The Pulitzer Board acknowledged the challenging environment for journalism while honoring work it said exemplified the public-service mission of a free press.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/pulitzer-journalism-coverage-db1306a7a4a5fb5160eccdd1b540f2c9",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:48 PM MT",
+      "addedAtISO": "2026-05-05T13:48:24.176758-06:00"
+    },
+    {
       "category": "politics",
       "headline": "Indiana and Ohio Hold Primaries Testing Trump's Influence Over GOP",
       "summary": "Voters in Indiana and Ohio headed to the polls Tuesday in primary elections with significant national implications. In Indiana, seven Republican state senators face Trump-backed primary challengers after they defied the president's push last year to redraw the state's congressional map. Nearly $12 million in advertising has flooded Indiana airwaves, transforming typically low-profile state legislative races into a high-stakes referendum on political loyalty to Trump.\n\nIn Ohio, a Senate special election features Democrat Sherrod Brown attempting to reclaim his seat, with Republicans eyeing the race as a bellwether for November's midterms. Democrats are hoping to capitalize on voter dissatisfaction with the economy and the ongoing war with Iran, while Republicans are working to hold key seats and test Trump's coattails ahead of a midterm cycle where control of Congress is at stake.\n\nVice President JD Vance cast his ballot in Cincinnati on Tuesday before heading to Iowa for a campaign appearance, underscoring the administration's focus on the electoral calendar. Trump chose to vote by mail for a Florida special election in March but has been vocally engaged in the Indiana primaries through endorsements and public statements.\n\nSupporters of Trump's intervention argue it is necessary to ensure Republican unity behind his legislative agenda, particularly on redistricting and immigration. Critics within the party, including the incumbent Indiana senators, contend that state-level redistricting decisions should not be dictated by Washington, and that primarying sitting Republicans undermines party cohesion heading into a difficult election cycle.",
