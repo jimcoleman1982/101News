@@ -3,6 +3,32 @@
   "dateFormatted": "Monday, May 4, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Commerce Secretary Lutnick to Face Closed-Door Deposition on Epstein Ties Before House Committee",
+      "summary": "Commerce Secretary Howard Lutnick is set to appear May 6 in a voluntary, closed-door deposition before the House Oversight Committee regarding his relationship with the late convicted sex offender Jeffrey Epstein. The Republican-controlled committee has been investigating the federal government's handling of cases involving Epstein and his former girlfriend Ghislaine Maxwell.\n\nLutnick's ties to Epstein came under intensified scrutiny after he gave contradictory accounts of their relationship. Lutnick had said he cut off all contact with Epstein in 2005, before the financier's 2008 conviction. However, Department of Justice documents released in January showed emails between the two men indicating they made lunch plans in 2012. Lutnick later acknowledged before the Senate Appropriations Committee that he had at least 10 documented email exchanges and two meetings with Epstein after 2005.\n\nLutnick has denied any wrongdoing. He has described briefly touring Epstein's home and immediately leaving after the financier made a sexually suggestive remark, calling Epstein a \"disgusting person.\" Several Democrats have called for Lutnick's resignation, though he retains the support of the Trump administration.\n\nLutnick's deposition is one of several the committee has sought from prominent figures across the political and financial spectrum who appeared in DOJ-released Epstein files. Former President Bill Clinton, former Secretary of State Hillary Clinton, and other notable figures have also provided testimony. Inclusion in the files does not in itself indicate wrongdoing, the committee has noted.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/who-is-howard-lutnick-and-whats-his-connection-to-jeffrey-epstein",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-04T21:08:25.413694-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Trump Administration Weighs Mandatory Pentagon Safety Reviews for AI Models Deployed to Governments",
+      "summary": "The Trump administration is considering a new policy that would require the Pentagon to conduct safety reviews of artificial intelligence models before they are deployed to federal, state, and local governments, according to Axios. The White House's Office of the National Cyber Director hosted two meetings last week with technology and cybersecurity companies to discuss the framework.\n\nThe move represents a notable shift for an administration that had previously taken a hands-off stance on AI safety and security measures, which officials had broadly dismissed. Analysts suggest the reconsideration follows the emergence of concerns about AI reliability in sensitive government applications, referred to in discussions as the post-\"Mythos\" environment, referencing an AI incident that prompted fresh scrutiny of deployment risks.\n\nIf adopted, the policy would mark one of the most significant federal actions on AI governance since the administration took office, potentially affecting a rapidly expanding ecosystem of AI tools being integrated into government operations at all levels. Details of the specific testing protocols under consideration have not been publicly disclosed.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/04/trump-white-house-ai-safety-tests-mythos",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-04T21:08:25.413694-06:00"
+    },
+    {
       "category": "business",
       "headline": "SEC Settles with Elon Musk Over Delayed Twitter Stake Disclosure for $1.5 Million",
       "summary": "The Securities and Exchange Commission has reached a settlement with Elon Musk over his delayed disclosure of a significant ownership stake in Twitter, now known as X, according to court documents filed Monday. Musk will pay a $1.5 million civil penalty to resolve the lawsuit, which centered on allegations that he failed to timely disclose his stake before acquiring the platform for $44 billion in late 2022.\n\nThe SEC had alleged that Musk's delayed filing allowed him to purchase additional shares at lower prices before the market became aware of his interest, potentially saving him hundreds of millions of dollars. Under the settlement terms, Musk is not required to return any of the money he allegedly saved from the delayed disclosure — a point critics have noted limits the penalty's deterrent effect.\n\nThe settlement closes one of the more prominent regulatory confrontations between the SEC and Musk, who has been a vocal critic of the agency. The $1.5 million figure is a relatively modest sum for one of the world's wealthiest individuals, and the resolution comes ahead of what would have been a significant civil trial. The case drew broad attention given Musk's current role leading the Department of Government Efficiency and his close relationship with the Trump administration.",
