@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-05",
+  "dateFormatted": "Tuesday, May 5, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Ukraine and Russia Issue Dueling Ceasefires Ahead of Victory Day as Strikes Continue",
+      "summary": "Ukraine's President Volodymyr Zelensky announced that Ukraine would observe an open-ended ceasefire beginning midnight on May 6, while Russia separately declared a ceasefire for May 8-9 to coincide with its Victory Day celebrations marking the Soviet Union's defeat of Nazi Germany. The two sides have not agreed on shared terms, duration, or monitoring mechanisms, leaving both gestures effectively unilateral.\n\nDespite the announced pauses, fighting continued without interruption. Five people were killed and dozens injured in overnight Russian missile and drone strikes across Ukraine. Ukraine, in turn, struck targets inside Russia, including an industrial facility in the Leningrad region and a factory producing military components in Cheboksary, some 1,500 kilometers from the front line, using domestically produced Flamingo cruise missiles.\n\nZelensky condemned Moscow's approach as 'utter cynicism,' saying it was hypocritical for Russia to request battlefield quiet for 'propaganda celebrations' while continuing to attack Ukrainian territory. He challenged Russia to move toward 'real diplomacy' and argued that Ukraine's willingness to begin an immediate, open-ended ceasefire would make any further violations clearly attributable to Moscow.\n\nIn a sign of heightened tension ahead of the May 9 parade in Red Square, the Kremlin announced the event would be scaled back — with no heavy military hardware displayed — citing a 'terrorist threat' from Ukraine. Moscow's three major airports were temporarily shut Tuesday morning after drones were reported near the capital, and residents were warned that mobile internet access would be disrupted for several days.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:15 AM MT",
+      "addedAtISO": "2026-05-05T07:15:48.764440-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Explosion at Chinese Fireworks Factory Kills 26, Injures 61",
+      "summary": "An explosion at the Huasheng Fireworks plant in Liuyang, Hunan province, killed 26 people and injured 61 on Monday afternoon, according to Chinese state media. Authorities evacuated residents within a 3-kilometer radius of the facility and deployed more than 1,500 emergency responders, including search dogs, drones, and robots, rescuing seven people trapped under debris.\n\nThe blast was powerful enough to shatter windows in nearby residential buildings, deform aluminum window frames, and twist stainless-steel doors. Police have taken unspecified 'control measures' against factory management as they investigate the cause. Two gunpowder warehouses within the plant posed additional hazards during the rescue operation, requiring crews to humidify the surrounding area to prevent secondary explosions.\n\nPresident Xi Jinping called for maximum rescue efforts and a thorough investigation to hold those responsible to account, state media reported. Local authorities said air and water quality monitoring in the area showed no abnormal readings as of Tuesday.\n\nLiuyang is widely regarded as the world's largest producer of fireworks. Industrial explosions at fireworks facilities are a recurring safety problem in China; a separate blast at a fireworks shop in Hubei province in February killed 12 people.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c70vqwengxno",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:15 AM MT",
+      "addedAtISO": "2026-05-05T07:15:48.764440-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Supreme Court Temporarily Restores Nationwide Access to Abortion Pill Mifepristone",
+      "summary": "The U.S. Supreme Court on Monday issued an emergency stay blocking a lower appeals court ruling that would have sharply curtailed access to mifepristone, one of the two drugs commonly used in medication abortions. The stay, which will remain in effect for at least one week while the high court considers the matter further, restores the ability of women to obtain the drug by mail or at pharmacies without an in-person doctor's visit.\n\nThe administrative stay was issued by Justice Samuel Alito. The underlying case centers on whether federal rules governing how mifepristone can be prescribed and dispensed — rules that were loosened during and after the COVID-19 pandemic — should be rolled back. The appeals court ruling that prompted the stay had caused immediate disruption, with some pharmacies and telehealth providers halting mifepristone prescriptions even in states where abortion remains legal.\n\nSupporters of expanded abortion access welcomed the temporary relief but cautioned that the stay does not resolve the underlying legal challenge. The case is expected to become a prominent issue in the November midterm elections. Critics of the looser prescribing rules have argued that the FDA exceeded its authority and that in-person oversight is a necessary safeguard.\n\nThe Supreme Court's willingness to weigh in quickly comes in a politically charged environment following its 2022 decision overturning Roe v. Wade. The outcome of the mifepristone case could significantly affect abortion access nationwide, particularly in states where surgical abortion remains unavailable.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/05/abortion-pill-rulings-whiplash-confusion",
+      "sourceCount": 9,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:15 AM MT",
+      "addedAtISO": "2026-05-05T07:15:48.764440-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "UK Counter-Terror Police Probe Arson at Former London Synagogue; PM Warns Iran of Consequences",
+      "summary": "British counter-terrorism police opened an investigation Tuesday into an arson attack at a former synagogue in east London, the latest in a wave of antisemitic incidents in the capital. Surveillance footage confirmed the fire was set intentionally; no injuries were reported and no arrests have been made. The attack came as Prime Minister Keir Starmer convened an emergency meeting with community groups, ministers, and police chiefs to address what he called a 'crisis' of antisemitic violence.\n\nA group believed to have ties to Iran — Harakat Ashab al-Yamin al-Islamia — has claimed responsibility for a series of recent antisemitic attacks across London and several other European cities. Last week, two Jewish men were stabbed in north London, and multiple synagogues and Jewish sites have been targeted since March. Starmer said one line of inquiry is whether a foreign state has been directing some of the attacks.\n\nStarmer issued a direct warning to Tehran on Tuesday, saying: 'Our message to Iran or to any other country that might seek to promote violence, hatred or division in society is that it will not be tolerated.' He said there would be 'consequences' if Iranian state involvement is proven, and announced plans to fast-track new legislation targeting foreign 'malign threats.'\n\nThe group told CBS News in March that it would continue targeting 'U.S. and Israeli interests worldwide' in retaliation for military actions in Gaza, Iran, and Lebanon. The string of attacks has heightened concern among Jewish communities in Britain and prompted calls for greater government protection of religious sites and individuals.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/u-k-counter-terror-police-investigate-arson-former-london-synagogue-prime-minister-warning-iran/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:15 AM MT",
+      "addedAtISO": "2026-05-05T07:15:48.764440-06:00"
+    }
+  ]
+}
