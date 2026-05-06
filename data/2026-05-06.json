@@ -3,6 +3,32 @@
   "dateFormatted": "Wednesday, May 6, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "California Governor Debate: Seven Candidates Clash in Wide-Open Race to Succeed Newsom",
+      "summary": "Seven candidates vying to succeed Gov. Gavin Newsom squared off Tuesday in a debate hosted by NBC Los Angeles, covering issues from gas prices and taxes to healthcare and immigration. The race remains wide open, with a recent California Democratic Party poll showing Democrats Xavier Becerra and Steve Hilton tied at 18 percent, Republican Riverside County Sheriff Chad Bianco at 14 percent, and Tom Steyer at 12 percent.\n\nRep. Katie Porter drew attention during the debate for sharp anti-Trump rhetoric and faced separate backlash after appearing to attribute California's population decline to illegal immigrants — a comment at odds with her usual progressive positioning. Former Los Angeles Mayor Antonio Villaraigosa and San José Mayor Matt Mahan were also among the participants in a Democratic field that has struggled to consolidate around a frontrunner.\n\nThe race is significant nationally because California is the most populous state and the outcome will shape the direction of the Democratic Party heading into the 2026 midterms and beyond. No candidate from either party has established a commanding lead, making the debate a pivotal moment for candidates to differentiate themselves before the June primary.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/06/us/california-governor-debate-newsletter.html",
+      "sourceCount": 17,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:07 PM MT",
+      "addedAtISO": "2026-05-06T16:07:09.952072-06:00"
+    },
+    {
+      "category": "business",
+      "headline": "Trump Administration Begins Paying Out Tariff Refunds After Supreme Court Ruling",
+      "summary": "The Trump administration has started issuing refunds to importers following the U.S. Supreme Court's earlier ruling this year that declared $166 billion in global tariffs unlawful. Payments are now hitting importers' bank accounts, marking the beginning of what is expected to be a large-scale reimbursement process.\n\nThe court's decision struck down a significant portion of the tariff regime that had been a centerpiece of Trump's trade policy, creating substantial financial and logistical obligations for the federal government. The scale of the refund program underscores the economic disruption caused by the tariffs, which affected a wide range of imported goods.\n\nAnalysts note that one downstream consequence of the original tariff regime — sharply elevated auto prices — may prove longer-lasting, with reports suggesting the surge in vehicle costs could permanently reduce the market for entry-level cars even as the refunds are distributed. The situation highlights the complex and lasting effects of trade policy reversals on consumer markets.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-06/tariff-refunds-have-started-being-paid-by-trump-administration",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:07 PM MT",
+      "addedAtISO": "2026-05-06T16:07:09.952072-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: Ukraine's Chief Negotiator to Travel to U.S. for Talks With Witkoff",
       "summary": "Ukraine's chief negotiator Rustem Umerov is expected to travel to Miami as early as this week to meet with U.S. special envoy Steve Witkoff, according to people familiar with the matter. The meeting would mark a significant diplomatic development as both sides attempt to advance a framework for ending Russia's nearly four-year war against Ukraine.\n\nThe talks come amid an active and volatile period in the conflict, with rival ceasefires recently announced and ongoing strikes reported across Ukraine. Previous coverage has noted dueling ceasefire proposals and continued fighting, making any direct high-level engagement between Washington and Kyiv particularly consequential.\n\nWitkoff has served as a key back-channel envoy in the Trump administration's efforts to broker negotiations. Ukraine's willingness to send its top negotiator to the United States signals continued engagement with the American diplomatic process, even as disagreements over terms and security guarantees persist between the parties.",
