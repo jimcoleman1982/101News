@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-06",
+  "dateFormatted": "Wednesday, May 6, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Iran Strikes UAE as U.S. Ships Transit Strait of Hormuz, Oil Surges",
+      "summary": "The United Arab Emirates reported coming under Iranian attack for the first time since an early April ceasefire took hold, after President Trump announced Sunday that the United States would escort commercial vessels through the Strait of Hormuz. The U.S. military confirmed Monday that two American-flagged merchant ships successfully transited the strait, while American forces sank six small boats and established an \"enhanced security area\" for crossing vessels.\n\nOil markets reacted sharply to the escalation, with Brent crude jumping 5.8% to settle at $114.44 per barrel — more than 60% above its pre-war level of roughly $70. U.S. equities fell from record highs, with the Dow dropping 557 points and the S&P 500 declining 0.4%, though broader corporate earnings have kept Wall Street resilient through months of Middle East conflict.\n\nThe renewed fighting raises questions about the durability of the April ceasefire and the viability of Trump's \"Project Freedom\" initiative to reopen the waterway, through which a significant share of global oil exports normally flows. Iran's closure of the strait has kept tankers bottled up in the Persian Gulf, driving the extended oil price surge. Markets had hoped the escort operation would ease supply fears, but the UAE attack sent prices higher amid fresh uncertainty.\n\nThe episode marks a new flashpoint in the broader U.S.-Iran confrontation. Supporters of the escort mission argue it reasserts freedom of navigation and could eventually bring prices down; critics warn that direct military involvement risks wider escalation with Iran and its proxies across the region.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/stocks-markets-rates-oil-iran-f49473018bee5fb6f2af85495fa045f8",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-06T05:08:43.947565-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Russia Kills More Than 20 in Ukraine Strikes as Rival Ceasefires Take Effect",
+      "summary": "Russian aerial attacks killed more than 20 people across Ukraine on Tuesday — including 12 in Zaporizhzhia, five in Kramatorsk, and four in Dnipro — even as Moscow and Kyiv prepared to activate separately declared unilateral ceasefires ahead of Russia's Victory Day commemorations on May 9. President Volodymyr Zelensky condemned the strikes as \"cynical terrorist\" attacks, noting they came just before a ceasefire Moscow itself had called.\n\nUkraine declared an open-ended ceasefire beginning midnight May 6, framing it as a test of Russian intentions; Russia's ceasefire covers only May 8 and 9, tied to its Victory Day parade, and Moscow threatened a \"massive missile strike\" on central Kyiv if the truce was violated. The two ceasefires are unilateral and uncoordinated — no joint terms, monitoring, or duration have been agreed upon.\n\nBefore its own ceasefire kicked in, Ukraine launched strikes deep into Russian territory, hitting an industrial facility in the Leningrad region and a military components factory in Cheboksary, roughly 1,500 kilometers from the front line, using domestically produced Flamingo cruise missiles. Russia said it downed six Flamingos and 601 Ukrainian drones; several Russian airports were temporarily closed and drones were reported near Moscow.\n\nThe Kremlin has visibly scaled back its planned Red Square military parade, citing the \"terrorist threat\" from Ukraine — a sign of the pressure the war is placing on Putin's signature annual ceremony. Zelensky urged Russia to \"move to real diplomacy,\" while his chief of staff said Ukraine would maintain its ceasefire symmetrically if Russia reciprocated.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-06T05:08:43.947565-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "IS-Linked Australian Women and Children Book Return Flights from Syria, Arrests Expected",
+      "summary": "Thirteen women and children with ties to Islamic State have booked flights to return to Australia from a Syrian camp, Australian Home Affairs Minister Tony Burke announced Wednesday. The group — four women and nine children, part of a larger cohort of 34 believed to include wives, widows, and children of IS fighters — has spent years at the al-Roj camp in northern Syria since IS was driven from its final Syrian stronghold in 2019.\n\nAustralian Federal Police Commissioner Krissy Barrett confirmed that upon arrival, \"some individuals will be arrested and charged,\" and said investigators have spent more than a decade gathering evidence on potential terrorism offenses and crimes against humanity, including slave trading. Burke emphasized the government had not assisted the group's return and had \"long-standing plans\" dating to 2014 to manage and monitor them.\n\nBurke acknowledged there are \"very serious limits\" on what the government can do to prevent citizens from returning home, and said authorities were alerted when airline tickets were booked. Children in the group will be placed in community integration and countering violent extremism programs. The head of Australia's ASIO spy agency said he was not \"immediately concerned\" but confirmed the returnees would be closely monitored.\n\nThe case mirrors dilemmas faced by France, the Netherlands, and the United Kingdom, which have largely refused to repatriate their own nationals from Syrian camps. Australia had previously banned one member of the broader group from returning under a temporary exclusion order. The episode reignites debate in Western nations about how to handle citizens who joined or supported IS and now seek to return.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn0pyny6jk0o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-06T05:08:43.947565-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Apple Agrees to $250 Million Settlement Over Misleading AI Feature Claims",
+      "summary": "Apple has agreed to pay up to $250 million to settle a class-action lawsuit alleging the company falsely advertised artificial intelligence capabilities on iPhone 15 and iPhone 16 devices sold between June 2024 and March 2025. Eligible U.S. buyers could receive between $25 and $95 each. Apple did not admit wrongdoing in the settlement, filed Tuesday in California federal court.\n\nThe lawsuit centered on Apple's marketing of \"Apple Intelligence,\" which the company promoted as delivering a dramatically enhanced version of its Siri voice assistant — transforming it from a \"limited voice interface into a full-fledged personal AI assistant.\" Plaintiffs' attorneys alleged those features \"did not exist at the time, do not exist now, and will not exist for two or more years, if ever.\"\n\nLawyers argued Apple pursued aggressive AI marketing in order to compete in a Big Tech race driven by newer entrants like OpenAI and Anthropic, and that the iPhone 16 was shipped to consumers without the promised Apple Intelligence capabilities. The settlement comes as outgoing CEO Tim Cook has faced sustained criticism over the pace of Apple's innovation.\n\nThe case is one of the first major legal settlements arising from alleged false advertising around generative AI product claims, and may set a precedent for how tech companies market AI capabilities that have not yet been fully developed or deployed. Apple said it resolved the matter \"to stay focused on delivering the most innovative products and services.\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-06T05:08:43.947565-06:00"
+    }
+  ]
+}
