@@ -3,6 +3,45 @@
   "dateFormatted": "Wednesday, May 6, 2026",
   "stories": [
     {
+      "category": "other",
+      "headline": "Ted Turner, Media Mogul Who Founded CNN, Dies at 87",
+      "summary": "Ted Turner, the pioneering media entrepreneur who launched Cable News Network in 1980 and fundamentally transformed how the world consumes news, died Wednesday at age 87. CNN confirmed his death without specifying a cause; Turner had disclosed in 2018 that he was living with Lewy body dementia, a degenerative neurological disease.\n\nTurner founded CNN as the first 24-hour dedicated news channel, a concept widely mocked at launch as the 'Chicken Noodle Network.' The network proved its value covering the 1981 assassination attempt on President Reagan, the 1986 Challenger disaster, and achieved global significance with live coverage of the 1991 Gulf War. CNN's success spurred the creation of rival networks including Fox News, launched in 1996 by Turner's longtime competitor Rupert Murdoch.\n\nBeyond news, Turner built the Turner Broadcasting System from a family billboard company, owned the Atlanta Braves, Atlanta Hawks, and Atlanta Thrashers sports franchises, and won the America's Cup yacht race in 1977. He was married to actress Jane Fonda from 1991 to 2001 and became a major philanthropist, donating $1 billion to the United Nations and investing heavily in environmental causes.\n\nPresident Donald Trump, a frequent critic of the current CNN, paid tribute to Turner as 'one of the greats of broadcast history, and a friend of mine.' CNN's current CEO Mark Thompson called Turner 'the giant on whose shoulders we stand.' Eight major news outlets covered the announcement, reflecting the breadth of his impact on global media.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:04 AM MT",
+      "addedAtISO": "2026-05-06T10:04:59.579000-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Alaska Megatsunami Was Second Largest Ever Recorded, New Research Finds",
+      "summary": "A massive wave that struck a remote fjord in southeast Alaska last summer has been confirmed as the second-tallest megatsunami ever recorded, reaching nearly 500 metres in height, according to new research published in the journal Science. The wave was triggered when 64 million cubic metres of rock — equivalent in volume to 24 Great Pyramids — collapsed into Tracy Arm Fjord in under a minute, a landslide of extraordinary scale.\n\nScientists say the disaster went largely unreported at the time because it occurred in the early hours of the morning in a remote area. Researchers warn it was a near-miss for tourist cruise ships that regularly visit the fjord to observe Alaska's natural landscape. Geologist Dr. Bretwood Higman, who surveyed the aftermath, described finding broken trees hurled into the water and vast stretches of mountainside stripped bare of soil and vegetation.\n\nThe new study links the collapse directly to glacier retreat driven by climate change. According to Dr. Stephen Hicks of University College London, the glacier had previously stabilized the rock face; as ice melted and retreated, it exposed the base of the cliff, allowing the sudden collapse. Alaska's combination of steep terrain, narrow fjords, and seismic activity makes it particularly vulnerable to such events.\n\nResearchers expressed concern that growing numbers of tourists visiting remote Alaskan wilderness — often to witness the effects of climate change firsthand — are increasingly exposed to these hazards. The only megatsunami larger on record occurred in the 1950s and exceeded 500 metres. Scientists say improved monitoring and public awareness are urgently needed as glacial retreat accelerates.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:04 AM MT",
+      "addedAtISO": "2026-05-06T10:04:59.579000-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "BBC Investigation: 10-Minute Israeli Bombing Campaign Caused Single Deadliest Day of Lebanon War",
+      "summary": "A BBC World Service investigation has reconstructed a devastating Israeli airstrike campaign on April 8 that struck approximately 100 targets across Lebanon in roughly 10 minutes, resulting in 361 deaths and more than 1,000 injuries — the single deadliest day of the ongoing conflict. The strikes targeted Hezbollah command centres and military sites, but reporters visiting affected Beirut neighbourhoods found widespread destruction in residential areas.\n\nIn the southern Beirut neighbourhood of Hay el Sellom, residents described a community that had remained relatively calm despite earlier Israeli evacuation orders and strikes elsewhere. One resident, Mohammed, told BBC journalists his son Abbas was killed when an airstrike caused three floors of their building to collapse. 'This is the second home I've lost,' he said. 'This brick can be rebuilt. But nothing will bring back my son.'\n\nIsrael has stated that its targets were legitimate Hezbollah military and command infrastructure. The strikes came after Hezbollah fired rockets into Israel on March 2 in response to U.S. and Israeli attacks on Iran, triggering a broader Israeli campaign in Lebanon. A temporary ceasefire between the U.S. and Iran had been in effect earlier on April 8 before the wave of strikes began, according to the BBC's account.\n\nThe investigation highlights the difficulty of distinguishing civilian and military targets in densely populated urban areas — a central point of dispute in international assessments of the conflict. Lebanese authorities have recorded thousands of deaths since the fighting escalated in March, and humanitarian organizations have raised alarms about the displacement of civilian populations in southern Lebanon and Beirut's southern suburbs.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:04 AM MT",
+      "addedAtISO": "2026-05-06T10:04:59.579000-06:00"
+    },
+    {
       "category": "politics",
       "headline": "Trump-Backed Challengers Oust Most Indiana Republicans Who Opposed Redistricting",
       "summary": "President Trump's political operation scored a sweeping victory in Tuesday's Indiana Republican primaries, defeating six of eight state senators who had blocked his push to redraw the state's congressional map. One incumbent survived and one race remained too close to call as of late Tuesday. The outcome signals Trump's continued grip over intraparty discipline heading into the 2026 midterms.\n\nTrump and his allies had explicitly targeted the Indiana state senators after they voted against his proposed redistricting plan, which aimed to reshape congressional districts in Republicans' favor. The result demonstrates the president's willingness and ability to punish Republican officeholders who defy him on legislative priorities, even at the state level.\n\nSupporters of the challengers argue the ousted senators stood in the way of legitimate electoral strategy and that voters have endorsed Trump's agenda. Critics contend the purge reflects authoritarian pressure on elected representatives and undermines legislative independence within the GOP. The outcome adds to a pattern established in earlier primaries of Trump successfully remaking the Republican Party in his image ahead of the midterms.",
