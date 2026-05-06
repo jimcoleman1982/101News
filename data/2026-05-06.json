@@ -3,6 +3,58 @@
   "dateFormatted": "Wednesday, May 6, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump-Backed Challengers Oust Most Indiana Republicans Who Opposed Redistricting",
+      "summary": "President Trump's political operation scored a sweeping victory in Tuesday's Indiana Republican primaries, defeating six of eight state senators who had blocked his push to redraw the state's congressional map. One incumbent survived and one race remained too close to call as of late Tuesday. The outcome signals Trump's continued grip over intraparty discipline heading into the 2026 midterms.\n\nTrump and his allies had explicitly targeted the Indiana state senators after they voted against his proposed redistricting plan, which aimed to reshape congressional districts in Republicans' favor. The result demonstrates the president's willingness and ability to punish Republican officeholders who defy him on legislative priorities, even at the state level.\n\nSupporters of the challengers argue the ousted senators stood in the way of legitimate electoral strategy and that voters have endorsed Trump's agenda. Critics contend the purge reflects authoritarian pressure on elected representatives and undermines legislative independence within the GOP. The outcome adds to a pattern established in earlier primaries of Trump successfully remaking the Republican Party in his image ahead of the midterms.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/news/trump-backed-primary-challengers-handily-defeat-most-anti-redistricting-indiana-republicans/",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-06T08:08:23.415170-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Sherrod Brown Wins Ohio Democratic Senate Nomination, Sets Up Key General Election Against Husted",
+      "summary": "Former U.S. Senator Sherrod Brown won the Ohio Democratic Senate nomination on Tuesday, defeating long-shot rival Ron Kincaid. Brown, who served three decades in Congress before losing his re-election bid in 2024 to Republican Sen. Bernie Moreno, will now face appointed Republican Sen. John Husted in the general election. The race will determine who fills the remaining two years of Vice President JD Vance's Senate term.\n\nHusted, Ohio's former lieutenant governor, was appointed to replace Vance after Vance vacated the seat upon becoming vice president. Vance traveled to Cincinnati on Tuesday to cast a ballot in the primary. Husted ran unopposed on the Republican side and has secured endorsements from a record 75 Ohio sheriffs, including independents and one Democrat, with his campaign emphasizing public safety and immigration enforcement.\n\nOhio has shifted markedly rightward over the past decade — Trump carried the state by 11 points in 2024 — but both the Senate and gubernatorial races are expected to be competitive. The Ohio Senate contest is among a handful of races that will determine whether Republicans defend their current 53-47 Senate majority or Democrats reclaim control of the chamber. Brown's fundraising ability and statewide name recognition make him a formidable opponent despite the state's partisan lean.",
+      "source": "Fox News Politics",
+      "url": "https://www.foxnews.com/politics/brown-secures-ohio-democrat-nomination-faces-gops-husted-key-battle-senate-majority",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-06T08:08:23.415170-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "200,000 Immigrant Truckers Losing Commercial Licenses Under Trump Administration Rule",
+      "summary": "A Trump administration rule that took effect in March is stripping commercial driver's licenses from roughly 200,000 immigrants with temporary legal status, including DACA recipients, refugees, and asylum seekers. The Federal Motor Carrier Safety Administration rule bars those groups from obtaining or renewing CDLs, which are required to operate semitrucks, buses, and tractor-trailers. Affected drivers are losing their livelihoods as licenses expire without the ability to renew.\n\nThe administration cited 17 fatal trucking accidents in 2025 it attributes to noncitizen truck drivers, and Transportation Secretary Sean Duffy said the rule is intended to improve road safety. Critics point out that 17 crashes represent less than one percent of annual fatal truck accidents nationwide, and argue the safety rationale is being used to advance an immigration enforcement agenda rather than address a documented safety crisis.\n\nTrucking industry analysts warn the policy could worsen existing driver shortages and raise costs for freight and consumer goods across the supply chain. Affected drivers like Mynor Solares, a DACA recipient who drove legally for 12 years in the Western U.S., say their careers and family incomes have been abruptly ended despite clean driving records. Legal challenges to the rule are expected.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/thousands-of-immigrant-truckers-lose-commercial-licenses-in-trump-administration-crackdown",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-06T08:08:23.415170-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "German Police Raid 50 Locations Targeting Neo-Nazi Youth Groups in 12 States",
+      "summary": "German federal police conducted coordinated raids Wednesday on approximately 50 homes and locations across 12 states, targeting members of two far-right criminal youth organizations: \"Jung & Stark\" (Young and Strong) and \"Deutsche Jugend Voran\" (Forwards German Youth). More than 600 officers participated in the operation, though no arrests were made. Prosecutors allege the groups organize violence through social media and have built nationwide networks.\n\nAuthorities say members of the groups have attacked individuals perceived to be left-wing or suspected pedophiles, beating victims in coordinated assaults that left serious injuries. One leader of Deutsche Jugend Voran was sentenced last year to more than three years in prison for a series of violent attacks against political opponents in Berlin. Both groups operate openly on platforms including Telegram and Instagram, reportedly to recruit young men.\n\nExperts say the groups represent a newer strain of far-right extremism in Germany, distinct from more mainstream movements like the AfD, with an explicit focus on martial training and street violence rather than electoral politics. Researchers warn that glacier-related instability and rising numbers of young recruits in their teens and early twenties pose a growing public safety concern. German authorities have expressed deep concern about the radicalization of young people into violent far-right activity.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgkpmy6l2deo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-06T08:08:23.415170-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: Iran Strikes UAE as U.S. Ships Transit Strait of Hormuz, Oil Surges",
       "summary": "The United Arab Emirates reported coming under Iranian attack for the first time since an early April ceasefire took hold, after President Trump announced Sunday that the United States would escort commercial vessels through the Strait of Hormuz. The U.S. military confirmed Monday that two American-flagged merchant ships successfully transited the strait, while American forces sank six small boats and established an \"enhanced security area\" for crossing vessels.\n\nOil markets reacted sharply to the escalation, with Brent crude jumping 5.8% to settle at $114.44 per barrel — more than 60% above its pre-war level of roughly $70. U.S. equities fell from record highs, with the Dow dropping 557 points and the S&P 500 declining 0.4%, though broader corporate earnings have kept Wall Street resilient through months of Middle East conflict.\n\nThe renewed fighting raises questions about the durability of the April ceasefire and the viability of Trump's \"Project Freedom\" initiative to reopen the waterway, through which a significant share of global oil exports normally flows. Iran's closure of the strait has kept tankers bottled up in the Persian Gulf, driving the extended oil price surge. Markets had hoped the escort operation would ease supply fears, but the UAE attack sent prices higher amid fresh uncertainty.\n\nThe episode marks a new flashpoint in the broader U.S.-Iran confrontation. Supporters of the escort mission argue it reasserts freedom of navigation and could eventually bring prices down; critics warn that direct military involvement risks wider escalation with Iran and its proxies across the region.",
