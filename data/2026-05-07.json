@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "world",
+      "headline": "British Local and Regional Elections Test Starmer's Leadership and Farage's Rise",
+      "summary": "Voters across England, Scotland, and Wales cast ballots Thursday in local council and regional elections widely seen as a referendum on Prime Minister Keir Starmer's Labour government, less than a year after Labour swept to power in the 2024 general election. The results are expected to reflect deep public frustration with Starmer over issues including cost-of-living pressures, welfare cuts, and a perceived lack of policy momentum.\n\nThe elections are also a major test for Nigel Farage's Reform UK party, which has surged in national polls and is seeking to translate that support into tangible electoral gains at the local level. Strong Reform showings could signal a fundamental realignment in British politics, putting pressure on both Labour and the Conservatives simultaneously.\n\nFor Starmer, significant losses could trigger internal party pressure and calls to change direction ahead of the next general election. Analysts describe the vote as one of the most consequential rounds of local elections in recent British history, with results expected to come in through Friday morning.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/international/5868644-farage-starmer-uk-vote-analysis/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:13 PM MT",
+      "addedAtISO": "2026-05-07T16:13:41.223230-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Five Killed in Fire at Packed Mexico Fairground Concert Attended by Tens of Thousands",
+      "summary": "At least five people died and scores were injured Thursday after a massive fire broke out at a crowded fairground in Villahermosa, in Mexico's Tabasco state. The blaze erupted during a concert in the early morning hours, with local officials reporting that as many as 135,000 people were in attendance when the fire started.\n\nSocial media footage showed panicked crowds fleeing the fairgrounds as flames spread. The cause of the fire has not been determined. Emergency services eventually brought the blaze under control, according to Tabasco Governor Javier May, who posted an update on X and expressed condolences to victims' families.\n\nGovernor May announced an economic recovery program for businesses affected by the fire and said state authorities would provide full support to victims. The incident is one of the deadliest crowd-event disasters in Mexico in recent years, raising questions about safety protocols at large public gatherings.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq6py38q81ro?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:13 PM MT",
+      "addedAtISO": "2026-05-07T16:13:41.223230-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "FEMA Review Council Recommends Sweeping Overhaul, Including Privatizing Flood Insurance and Shifting Power to States",
+      "summary": "The FEMA Review Council, established by President Trump to examine the agency's structure and effectiveness, approved its final report Thursday, recommending a broad restructuring of the Federal Emergency Management Agency. Key proposals include reviewing and reducing agency staffing levels, devolving greater disaster-response responsibility to state, local, and tribal governments, and privatizing the National Flood Insurance Program.\n\nThe recommendations represent a significant philosophical shift in how the federal government approaches disaster recovery — moving away from a centralized federal response model toward one that relies more heavily on state and local capacity. Critics of the current system have long argued that FEMA is bloated and slow; defenders counter that smaller and poorer states lack the resources to handle major disasters without robust federal support.\n\nThe report's implementation would require action by Congress and the executive branch. Advocates of the changes argue they would increase efficiency and reduce federal spending, while opponents warn that shifting responsibility to states could leave vulnerable communities without adequate assistance in the aftermath of large-scale disasters.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/energy-environment/5868328-fema-review-council-makes-its-recommendations-to-reform-agency/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:13 PM MT",
+      "addedAtISO": "2026-05-07T16:13:41.223230-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "OpenAI Releases Expanded Access to Cybersecurity-Focused GPT-5.5 Model for Vetted Defenders",
+      "summary": "OpenAI announced Thursday it is opening a limited preview of a more permissively licensed version of its GPT-5.5 model, internally known as \"Spud,\" to vetted cybersecurity professionals and defenders. The release comes amid security testing that suggests GPT-5.5 is nearly as capable as Anthropic's Mythos Preview model at identifying and exploiting software vulnerabilities.\n\nThe rapid advancement of AI models capable of finding and weaponizing software bugs has intensified debate in Silicon Valley and at the White House over how to prevent such tools from reaching malicious actors. OpenAI's decision to limit access to screened cyber defenders represents an attempt to balance the defensive utility of the technology against the risk of misuse.\n\nSeparately, a senior Pentagon technology official said Thursday the Defense Department would not return to an exclusive reliance on any single AI vendor, pointedly ruling out a renewed sole-source relationship with Anthropic. \"Never again will we be single-threaded with any one model,\" said Emil Michael, under secretary of Defense for research and engineering, at the AI+ Expo.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/07/openai-gpt-55-cybersecurity-model",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:13 PM MT",
+      "addedAtISO": "2026-05-07T16:13:41.223230-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Gaza Ceasefire on Brink of Collapse as Hamas Disarmament Talks Stall",
       "summary": "Ceasefire negotiations between Israel and Hamas have reached a deadlock, with Israeli media reporting that Israel is preparing to resume fighting in Gaza. An Israeli airstrike this week killed the son of Hamas's chief negotiator Khalil al-Hayya, and Palestinian sources confirmed to the BBC that talks have stalled over Hamas's refusal to disarm.\n\nIsrael contends that Hamas's stance on disarmament violates the ceasefire agreement that took effect October 10. Israeli Prime Minister adviser Michael Eisenberg told the BBC that 'all options are on the table,' while Israel's Channel 12 News reports Washington may give Israel a 'green light' to resume operations, potentially expanding the so-called Yellow Line that marks roughly 60 percent of Gaza under Israeli military control.\n\nHamas insists Israel is the party in violation, citing failures to meet humanitarian commitments and continued deadly strikes. At least 846 people have been killed in Gaza since the ceasefire began, according to the Hamas-run health ministry. Israel says five of its soldiers have been killed in the same period. More than two million residents remain displaced.\n\nCivilians in Gaza expressed exhaustion and fear of renewed full-scale war. One displaced mother called on Hamas to consider disarmament, while a neighbor accused Israel of 'intransigence' and warned that with global attention focused on conflicts in Iran and Lebanon, Gaza risks sliding back into fighting with little international scrutiny.",
       "source": "BBC News",
