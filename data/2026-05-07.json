@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-07",
+  "dateFormatted": "Thursday, May 7, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Israel Strikes Beirut as U.S. Reports Iran Deal Near, Blockade Continues",
+      "summary": "Israel launched airstrikes on Beirut's southern suburbs for the first time since a ceasefire was announced April 16, targeting what Prime Minister Benjamin Netanyahu described as a Hezbollah commander. The strikes came amid a flurry of diplomatic activity, with Trump telling reporters that U.S.-Iran talks had been productive over the last 24 hours and that a deal was potentially close.\n\nA U.S. media report indicated the Trump administration was near finalizing a memorandum of understanding with Iran, with a response from Tehran expected within 48 hours. Iran's foreign ministry said a U.S. proposal was still under consideration, and Iran's navy signaled the Strait of Hormuz could reopen if what it called \"aggressors' threats\" ended. The U.S. blockade remains fully in effect, with U.S. Central Command announcing 52 ships have been turned around so far.\n\nThe U.S. also reported disabling an Iranian-flagged oil tanker in the Gulf of Oman. The developments mark a significant intensification and diplomatic pivot within the same 24-hour window, with active military operations continuing even as negotiators reportedly close in on a framework agreement.\n\nThe situation remains highly fluid. Supporters of the administration's pressure campaign argue the blockade and military actions have brought Iran closer to a deal; critics warn that simultaneous Israeli strikes on Lebanon risk derailing diplomacy and broadening the conflict across the region.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/live/c152zyj0599t",
+      "sourceCount": 8,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-07T05:08:38.809780-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "North Korea Amends Constitution to Give Kim Jong Un Sole Legal Authority Over Nuclear Arsenal",
+      "summary": "North Korea has revised its constitution to formally vest sole authority over the country's nuclear weapons in leader Kim Jong Un, according to South Korean lawmakers briefed by Seoul's National Intelligence Service. The change codifies what had long been Kim's de facto control, but its formal enshrinement in the country's foundational law signals a deliberate and permanent posture regarding the arsenal.\n\nPyongyang accompanied the announcement with a statement that its status as a nuclear-armed state \"will not change based on external rhetorical claims,\" a clear signal directed at the United States and any ongoing diplomatic overtures. The constitutional amendment removes any ambiguity about succession or institutional checks on nuclear decision-making.\n\nThe move has significant implications for nonproliferation efforts and for any future negotiations. Analysts note that formalizing Kim's singular authority makes denuclearization commitments harder to negotiate and enforce, as no other official or body retains legal standing to offer concessions on the arsenal.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-07/north-korea-s-new-constitution-gives-kim-formal-power-over-nukes",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-07T05:08:38.809780-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Hantavirus Outbreak Spreads Beyond Cruise Ship as WHO Confirms Cases in Multiple Countries",
+      "summary": "A hantavirus outbreak that began aboard the cruise ship MV Hondius has now spread to patients in the Netherlands, Switzerland, and is under investigation in South Africa, the World Health Organization confirmed. Three passengers have died since the ship departed Argentina a month ago, and the WHO has identified eight cases — three confirmed, five suspected — among people connected to the vessel. The MV Hondius is now sailing toward Spain's Canary Islands after three days anchored near Cape Verde.\n\nThe South African Andes strain of hantavirus — which has previously been observed spreading between human patients, an unusual characteristic for the virus — was identified in two confirmed cases. A KLM flight attendant in Amsterdam was separately hospitalized with hantavirus symptoms after contact with a Dutch passenger who later died, raising concern about transmission beyond the ship's passenger and crew population.\n\nU.S. health authorities in Georgia and Arizona confirmed they are monitoring three returned passengers, all currently asymptomatic. The multinational spread of cases across passengers from at least 23 countries has prompted the WHO to issue guidance and monitor the situation closely. Hantavirus carries a high fatality rate and no approved antiviral treatment, making containment of human-to-human transmission a priority for public health officials.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y093d5n9ko",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-07T05:08:38.809780-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Federal Judge Rules Justice Department May Keep Seized Fulton County 2020 Election Ballots",
+      "summary": "A federal judge ruled Wednesday that the Justice Department does not have to return 2020 presidential election ballots and other materials seized by the FBI from a Fulton County, Georgia warehouse in January. U.S. District Judge J.P. Boulee, in a 68-page ruling, found that while the January seizure \"was certainly not perfect,\" Fulton County had not established that its constitutional rights were callously disregarded or that it would suffer irreparable harm, particularly since the DOJ had provided the county with copies of the seized materials.\n\nThe Justice Department has said it is investigating \"irregularities\" in the 2020 election in Fulton County and cited two potential statutory violations — one requiring election records to be maintained for 22 months, another prohibiting fraudulent ballot procurement or tabulation. Georgia's 2020 presidential results were counted three times, including once by hand, with each count affirming Joe Biden's victory. Fulton County Board of Commissioners Chairman Robb Pitts said he \"strongly disagrees\" with the ruling and that the county intends to pursue \"all available legal options.\"\n\nThe ruling comes alongside a separate DOJ grand jury subpoena, issued in April, seeking the names and personal contact information of all Fulton County election workers and volunteers involved in the 2020 election. The county filed a motion Monday to quash that subpoena, arguing it is overly broad and amounts to harassment of political opponents. Supporters of the investigation argue federal oversight is warranted to ensure election integrity; critics, including county officials and civil liberties advocates, contend the effort is a politically motivated attempt to intimidate election workers and relitigate a settled election.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/trump-2020-election-fulton-county-fbi-ballots-1c425a1d1d04bf4ea2178c2a5443f2e9",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-07T05:08:38.809780-06:00"
+    }
+  ]
+}
