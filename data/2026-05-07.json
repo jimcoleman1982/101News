@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Gaza Ceasefire on Brink of Collapse as Hamas Disarmament Talks Stall",
+      "summary": "Ceasefire negotiations between Israel and Hamas have reached a deadlock, with Israeli media reporting that Israel is preparing to resume fighting in Gaza. An Israeli airstrike this week killed the son of Hamas's chief negotiator Khalil al-Hayya, and Palestinian sources confirmed to the BBC that talks have stalled over Hamas's refusal to disarm.\n\nIsrael contends that Hamas's stance on disarmament violates the ceasefire agreement that took effect October 10. Israeli Prime Minister adviser Michael Eisenberg told the BBC that 'all options are on the table,' while Israel's Channel 12 News reports Washington may give Israel a 'green light' to resume operations, potentially expanding the so-called Yellow Line that marks roughly 60 percent of Gaza under Israeli military control.\n\nHamas insists Israel is the party in violation, citing failures to meet humanitarian commitments and continued deadly strikes. At least 846 people have been killed in Gaza since the ceasefire began, according to the Hamas-run health ministry. Israel says five of its soldiers have been killed in the same period. More than two million residents remain displaced.\n\nCivilians in Gaza expressed exhaustion and fear of renewed full-scale war. One displaced mother called on Hamas to consider disarmament, while a neighbor accused Israel of 'intransigence' and warned that with global attention focused on conflicts in Iran and Lebanon, Gaza risks sliding back into fighting with little international scrutiny.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd6p5l3n2q3o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:51 PM MT",
+      "addedAtISO": "2026-05-07T13:51:07.956415-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "FBI Reportedly Opens Criminal Investigation Into Reporter Who Wrote About Kash Patel's Drinking",
+      "summary": "The FBI has reportedly launched a criminal investigation into whether classified or sensitive information was leaked to Sarah Fitzpatrick, a reporter for The Atlantic who wrote that FBI Director Kash Patel's 'excessive drinking' was causing deep concern within the bureau. The investigation was reportedly ordered from Patel's executive suite, with a unit in Huntsville, Alabama, directed to review Fitzpatrick's contacts, phone metadata, and social media activity.\n\nThe FBI's assistant director flatly denied the report, saying in a statement: 'This is completely false. No such investigation like this exists. The reporter you mention is not being investigated at all.' Patel previously sued The Atlantic for $250 million over the drinking story, denying he had ever been intoxicated on the job. The Atlantic on Thursday published an update to its original story that included a photo of custom bourbon bottles bearing Patel's name that he reportedly gives out.\n\nCarol Leonnig, the senior investigative reporter who broke the investigation story, said her outlet stands by its reporting and cited multiple sources. She noted that FBI agents within the bureau have themselves raised concerns about whether any legal predicate exists to open such an investigation, as leak investigations typically require a reasonable belief that classified information was disclosed.\n\nThe episode raises significant press freedom concerns. Critics argue that using the FBI's investigative apparatus to pursue a reporter who wrote critically about the bureau's director would represent a serious threat to journalistic independence. Supporters of Patel contend that legitimate leak investigations are lawful and that the original story relied on anonymous sources making unverified claims.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/fbi-reportedly-investigates-reporter-who-wrote-about-kash-patels-heavy-drinking",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:51 PM MT",
+      "addedAtISO": "2026-05-07T13:51:07.956415-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Rubio Announces New Sanctions on Cuba's Military-Controlled Business Empire",
+      "summary": "Secretary of State Marco Rubio announced Thursday a fresh round of sanctions targeting Cuba's military-industrial enterprise, including GAESA — Grupo de Administración Empresarial S.A. — an umbrella conglomerate controlled by the Cuban military that dominates the island's economy. The sanctions also target GAESA's leader and a state-owned natural resources company.\n\nThe measures were imposed under President Trump's May 1 executive order targeting those responsible for repression in Cuba and threats to U.S. national security. The action signals that the Trump administration is actively pursuing its long-stated goal of regime change in Cuba, a priority shared by Rubio, who has long championed a hard line against Havana.\n\nGAESA controls large portions of Cuba's tourism, retail, and import sectors, meaning the sanctions are designed to cut off a primary revenue stream for the Cuban government and military. The Biden administration had moved to ease some Cuba restrictions, a course the Trump administration has sharply reversed.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/07/rubio-cuba-sanctions",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:51 PM MT",
+      "addedAtISO": "2026-05-07T13:51:07.956415-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Rwandan Government Critic and Singer Dies Moments Before Prison Release, Sparking Suspicion",
+      "summary": "Rwandan singer and YouTuber Aimable Karasira, 48, died Wednesday as he was being escorted out of Nyarugenge Prison in Kigali, just moments before his scheduled release. The Rwanda Correctional Service said he died at a hospital after allegedly overdosing on prescription medication, and announced a post-mortem examination. Karasira suffered from diabetes, high blood pressure, and poor mental health, according to prison officials.\n\nKarasira was well known for YouTube videos criticizing President Paul Kagame's government and the ruling Rwandan Patriotic Front. He was arrested in 2021 and sentenced in 2025 to five years for inciting division, though a high court had acquitted him of more serious charges including genocide denial. Human rights activists and government critics immediately called his death suspicious, noting that it occurred at the precise moment of his release.\n\nRwandan human rights activist Denise Zaneza, based in Belgium, called for an independent investigation, citing what she described as Rwanda's history of repression and suspicious deaths in detention. She drew a parallel to the 2020 prison death of gospel singer Kizito Mihigo, another RPF critic and genocide survivor whose death the government also ruled a suicide. Both cases have drawn international scrutiny over press freedom and political repression in Rwanda.\n\nKarasira's criticism centered on RPF killings of Tutsi civilians during the 1994 genocide — a narrative that challenges the Rwandan government's official account of the period. The government has not responded to calls for an independent autopsy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cevpxn0ddp9o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:51 PM MT",
+      "addedAtISO": "2026-05-07T13:51:07.956415-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: U.S. and Iran Edge Toward Short-Term Deal to Halt War, White House Awaits Tehran Response",
       "summary": "The United States and Iran are moving closer to a temporary agreement to end their war, with Washington presenting Tehran a one-page memorandum of understanding that would halt fighting, limit Iran's nuclear program, and reopen the Strait of Hormuz to international shipping. President Trump told reporters the two sides have had \"very good talks over the last 24 hours\" and expressed confidence a deal is possible within days, though he cautioned \"we are not far, but there is no deal yet.\" U.S. officials said they expected an Iranian response within 24 to 48 hours.\n\nThe proposed MOU would set a framework for more detailed nuclear negotiations rather than resolve all outstanding issues immediately. Iranian President Masoud Pezeshkian confirmed he met with Supreme Leader Mojtaba Khamenei, who has remained in hiding since the war began, as Tehran deliberates over the 14-point American proposal. China's foreign minister Wang Yi, meeting with his Iranian counterpart in Beijing, called for the Strait to be reopened \"as soon as possible\" and described a lasting ceasefire as an \"urgent priority,\" adding pressure on Iran to respond.\n\nSupporters of the deal, including some Republican hawks and Gulf allies, argue a negotiated end to the conflict would stabilize global energy markets and avert further escalation. Critics on both sides remain skeptical: some conservatives warn any deal must include ironclad nuclear verification mechanisms, while Iranian hardliners have resisted what they characterize as capitulation to American military pressure. A PBS/NPR/Marist poll released Thursday found six in ten Americans disapprove of how Trump has handled the Iran conflict.\n\nSecretary of State Marco Rubio separately met Pope Leo XIV at the Vatican for two and a half hours to discuss \"efforts to achieve a durable peace in the Middle East,\" following a public clash between President Trump and the American-born pontiff over the war. The 60-day clock on the 1973 War Powers Resolution has expired, with Congress pressing the administration for justification for continuing Operation Epic Fury. Oil prices have fallen and stocks surged on reports of deal progress, though analysts warn pump prices will likely remain elevated for months even if the Strait reopens immediately.",
       "source": "Reuters",
