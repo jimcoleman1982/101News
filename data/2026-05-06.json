@@ -3,6 +3,58 @@
   "dateFormatted": "Wednesday, May 6, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: U.S. Fires on Iranian Oil Tanker as Trump Threatens New Bombing Campaign",
+      "summary": "The U.S. military fired on an Iranian oil tanker in the Gulf of Oman on Wednesday, shooting out its rudder after the vessel attempted to breach the American blockade of Iran's ports, U.S. Central Command announced. The strike occurred while an official ceasefire between the U.S. and Iran remains nominally in place. President Trump simultaneously threatened a new and more intense bombing campaign if Tehran does not accept a reported peace framework, writing on social media: \"If they don't agree, the bombing starts, and it will be, sadly, at a much higher level and intensity than it was before.\"\n\nAxios reported that the White House believes it is close to a one-page memorandum of understanding with Iran, with provisions said to include a moratorium on Iranian uranium enrichment, lifting of U.S. sanctions, distribution of frozen Iranian funds, and reopening of the Strait of Hormuz to international shipping. Trump publicly stated that Iranian officials \"want to make a deal very much\" but that any agreement must be \"satisfactory to us.\" Iran's Foreign Ministry said Tehran was reviewing the latest American proposals.\n\nSeparately, Iran's Foreign Minister Abbas Araghchi met Wednesday in Beijing with Chinese counterpart Wang Yi, who called the two-month-old war deeply distressing and urged a comprehensive ceasefire. Secretary of State Marco Rubio had previously expressed hope that China would press Iran on the Strait of Hormuz issue during the visit.\n\nAlso on Wednesday, Israel struck Beirut's southern suburbs for the first time since a ceasefire between Israel and Hezbollah was announced April 17, targeting what Israeli Prime Minister Benjamin Netanyahu's office described as a commander in Hezbollah's Radwan Force. More than 2,500 people have died in Lebanon since fighting began March 2.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3",
+      "sourceCount": 11,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-06T21:08:33.171648-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Russia Strikes Ukrainian Kindergarten, Ignoring Kyiv's Unilateral Ceasefire",
+      "summary": "Russia launched a wave of drone and missile attacks across Ukraine on Wednesday, ignoring a unilateral open-ended ceasefire that Kyiv had declared effective from midnight Tuesday. Ukrainian President Volodymyr Zelensky accused Moscow of \"active hostilities and terrorist shelling,\" citing strikes on front-line positions as well as civilian areas. Two people were killed when a kindergarten in the Sumy border region was hit; no children were present at the time.\n\nZelensky declared Russia's actions \"an obvious spurning of a ceasefire and of saving lives\" and warned that Ukraine would \"decide on our further actions\" based on evening military and intelligence reports — a signal that Kyiv may resume or intensify its own strikes. He also noted that Russia had redeployed additional air defense rings around Moscow ahead of Saturday's Victory Day parade, suggesting the Kremlin was prioritizing the celebration over defending other parts of the country, which Zelensky said created \"additional opportunities for our long-range sanctions\" — a likely reference to deep strikes inside Russia.\n\nThe dueling ceasefires — Moscow announced a two-day truce for May 8-9 to mark Victory Day, while Kyiv issued its own open-ended version — have produced no coordinated halt to fighting. Ukraine's Foreign Minister Andriy Sybiha said Russia's continued aggression showed that \"fake calls for a ceasefire on May 9th have nothing to do with diplomacy.\" A slew of Russian strikes on Tuesday had already killed 27 people across Ukraine, including 12 in Zaporizhzhia.\n\nThe situation underscores the fragility of any diplomatic progress on the conflict. Moscow has threatened a \"massive\" military response if Ukraine targets Russian territory during the Victory Day commemorations, while Kyiv has demonstrated an increasing ability to strike Russian cities with long-range drones, including a Tuesday strike in Cheboksary more than 1,500 kilometers from the front.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpdpxdd5n6yo",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-06T21:08:33.171648-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Federal Judge Unseals Purported Jeffrey Epstein Suicide Note",
+      "summary": "A federal judge on Wednesday ordered the public release of a purported suicide note written by convicted sex offender Jeffrey Epstein, unsealing the document in the criminal case of Epstein's former cellmate, Nicholas Tartaglione. Tartaglione has said he found the note tucked inside a graphic novel after Epstein's failed suicide attempt in July 2019 — roughly three weeks before Epstein was found dead in his Metropolitan Correctional Center cell. The New York Times, which had sought the unsealing, reported that it has not independently authenticated that Epstein wrote the note.\n\nEpstein's 2019 death was ruled a suicide by hanging, a conclusion the Justice Department and FBI reaffirmed last July following an investigation. That investigation was conducted under FBI Director Kash Patel, who had previously promoted conspiracy theories about Epstein's death as a media personality. The release of the note is the first time the document has been made public and is likely to reignite public debate about the circumstances of Epstein's death, even as federal authorities maintain their suicide finding.\n\nThe unsealing comes as Commerce Secretary Howard Lutnick testified Wednesday before the House Oversight Committee in a closed-door session about his ties to Epstein. Democratic Rep. Ro Khanna said afterward that Lutnick's answers were so \"embarrassing\" that \"if Donald Trump had seen the video transcript, he would have fired Howard Lutnick.\" Republicans on the committee have not publicly characterized the testimony.\n\nThe Epstein case has remained a flashpoint in American politics, with figures across the political spectrum calling for greater transparency about his network of associates and the circumstances of his death. The note's release, ordered by U.S. District Judge Kenneth M. Karas in the Southern District of New York, represents a concrete new disclosure in a case that has generated years of speculation.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/06/jeffrey-epstein-purported-suicide-note-judge-release-read",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-06T21:08:33.171648-06:00"
+    },
+    {
+      "category": "business",
+      "headline": "Airline Fuel Costs Surged 56 Percent in March as Iran War Roiled Energy Markets",
+      "summary": "U.S. scheduled service airlines spent $5.06 billion on fuel in March, a 56 percent spike compared to prior periods, according to data released Wednesday by the Department of Transportation's Bureau of Transportation Statistics. March was the first full month following the outbreak of the U.S.-Iran war, which sharply disrupted global oil supplies and drove jet fuel prices sharply higher. The figures represent one of the largest single-month fuel cost increases in U.S. commercial aviation history.\n\nThe surge compounds existing pressures on the airline industry and consumers. Jet fuel typically accounts for the single largest operating cost for carriers, and sharp increases translate directly into fare hikes and flight reductions. The implosion of Spirit Airlines — which ceased operations in recent weeks — has further reduced low-cost competition on domestic routes, removing a key check on ticket prices at a time when fuel costs are already elevated.\n\nThe data illustrates the broad economic ripple effects of the Middle East conflict beyond the immediate theater of war. Energy analysts have warned that prolonged disruption to Strait of Hormuz shipping, which the U.S. blockade of Iran has affected, could keep fuel prices elevated through the summer travel season, hitting both airlines and passengers at a critical period for the industry.\n\nThe Transportation Department did not project future fuel cost trends, but the figures are expected to draw scrutiny from lawmakers and consumer advocates who have already raised concerns about rising airfares. Airlines have generally passed fuel cost increases to consumers through fuel surcharges and base fare increases.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/energy-environment/5866958-airline-fuel-costs-spike/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-06T21:08:33.171648-06:00"
+    },
+    {
       "category": "politics",
       "headline": "California Governor Debate: Seven Candidates Clash in Wide-Open Race to Succeed Newsom",
       "summary": "Seven candidates vying to succeed Gov. Gavin Newsom squared off Tuesday in a debate hosted by NBC Los Angeles, covering issues from gas prices and taxes to healthcare and immigration. The race remains wide open, with a recent California Democratic Party poll showing Democrats Xavier Becerra and Steve Hilton tied at 18 percent, Republican Riverside County Sheriff Chad Bianco at 14 percent, and Tom Steyer at 12 percent.\n\nRep. Katie Porter drew attention during the debate for sharp anti-Trump rhetoric and faced separate backlash after appearing to attribute California's population decline to illegal immigrants — a comment at odds with her usual progressive positioning. Former Los Angeles Mayor Antonio Villaraigosa and San José Mayor Matt Mahan were also among the participants in a Democratic field that has struggled to consolidate around a frontrunner.\n\nThe race is significant nationally because California is the most populous state and the outcome will shape the direction of the Democratic Party heading into the 2026 midterms and beyond. No candidate from either party has established a commanding lead, making the debate a pivotal moment for candidates to differentiate themselves before the June primary.",
