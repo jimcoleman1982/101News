@@ -4,6 +4,45 @@
   "stories": [
     {
       "category": "world",
+      "headline": "China Sentences Two Former Defence Ministers to Death With Reprieve on Corruption Charges",
+      "summary": "A Chinese military court on Thursday sentenced former defence ministers Wei Fenghe and Li Shangfu to suspended death sentences — effectively life imprisonment without parole — on bribery charges, state media reported. Both men had their personal assets confiscated. The sentences follow years of investigation and are among the most prominent outcomes of President Xi Jinping's sweeping anti-corruption campaign within the People's Liberation Army.\n\nWei served as defence minister from 2018 to 2023. Li succeeded him but was abruptly dismissed in October 2023 after disappearing from public life for two months, prompting widespread speculation. Investigators found both men had accepted large sums in bribes and used their positions to benefit associates.\n\nThe verdicts come after Xi publicly acknowledged the military crackdown in February, stating the army had undergone 'revolutionary tempering in the fight against corruption.' The purge has extended to the country's top military general, Zhang Youxia, who was also recently removed. Critics of Xi argue the anti-corruption drives serve a dual purpose, also functioning as a tool to eliminate political rivals and consolidate personal control over the military.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:02 AM MT",
+      "addedAtISO": "2026-05-07T07:02:36.122342-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "BJP Aide Assassinated Amid Post-Election Violence in West Bengal",
+      "summary": "Chandranath Rath, personal assistant to senior BJP leader Suvendu Adhikari, was shot dead Wednesday night in West Bengal, India, becoming at least the third person killed in political violence since the state election results were announced Monday. Rath was traveling home when a gunman fired from a motorcycle. Police recovered live rounds and spent cartridges but made no arrests, though more than 400 people had already been detained in connection with earlier post-election incidents.\n\nThe killing comes days after the BJP secured a historic landslide in West Bengal, winning 207 of 294 seats and ending 15 years of rule by Mamata Banerjee's Trinamool Congress. Adhikari, widely expected to be sworn in as chief minister on Saturday, called the killing 'cold-blooded murder.' The TMC condemned the violence but both parties have accused each other of targeting their respective workers.\n\nTensions had been building before results were announced, stemming from a controversial voter roll cleansing exercise that Banerjee alleged removed non-BJP voters. Election officials denied the claims. The assassination of a senior aide to the likely incoming chief minister has sharply escalated fears of broader unrest as the state prepares for a transfer of power.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8pjz7dv7ro?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:02 AM MT",
+      "addedAtISO": "2026-05-07T07:02:36.122342-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "Tornadoes Tear Through Mississippi, Collapsing Hundreds of Homes and Injuring at Least 17",
+      "summary": "At least 14 tornadoes were reported across central and western Mississippi on Wednesday night, with one confirmed by the National Weather Service. The storms collapsed hundreds of homes, downed trees, and knocked out power across multiple counties. At least 17 people were reported injured, and a 1-year-old child was reported missing in Lincoln County as of early Thursday.\n\nThe National Weather Service described one system as 'a very large and dangerous tornado' that tracked from Lincoln County into Lawrence County. In Bogue Chitto, falling trees split a car and trapped residents at a mobile home park. A separate home in Tylertown was engulfed by fire after a lightning strike. Governor Tate Reeves confirmed the scale of destruction and said the state Emergency Management Agency was coordinating response efforts.\n\nMore severe weather, including the possibility of additional tornadoes, was forecast Thursday across parts of Alabama, Georgia, Florida, the Carolinas, and Texas. Damage assessments were ongoing in Lincoln County, with authorities asking residents to stay off roads as emergency crews worked to clear blocked passages.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/tornadoes-mississippi-powerful-storms-damage-hundreds-homes/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:02 AM MT",
+      "addedAtISO": "2026-05-07T07:02:36.122342-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: Israel Strikes Beirut as U.S. Reports Iran Deal Near, Blockade Continues",
       "summary": "Israel launched airstrikes on Beirut's southern suburbs for the first time since a ceasefire was announced April 16, targeting what Prime Minister Benjamin Netanyahu described as a Hezbollah commander. The strikes came amid a flurry of diplomatic activity, with Trump telling reporters that U.S.-Iran talks had been productive over the last 24 hours and that a deal was potentially close.\n\nA U.S. media report indicated the Trump administration was near finalizing a memorandum of understanding with Iran, with a response from Tehran expected within 48 hours. Iran's foreign ministry said a U.S. proposal was still under consideration, and Iran's navy signaled the Strait of Hormuz could reopen if what it called \"aggressors' threats\" ended. The U.S. blockade remains fully in effect, with U.S. Central Command announcing 52 ships have been turned around so far.\n\nThe U.S. also reported disabling an Iranian-flagged oil tanker in the Gulf of Oman. The developments mark a significant intensification and diplomatic pivot within the same 24-hour window, with active military operations continuing even as negotiators reportedly close in on a framework agreement.\n\nThe situation remains highly fluid. Supporters of the administration's pressure campaign argue the blockade and military actions have brought Iran closer to a deal; critics warn that simultaneous Israeli strikes on Lebanon risk derailing diplomacy and broadening the conflict across the region.",
       "source": "BBC News",
