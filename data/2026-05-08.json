@@ -3,6 +3,58 @@
   "dateFormatted": "Friday, May 8, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "U.S. Economy Added 115,000 Jobs in April, Nearly Double Expectations",
+      "summary": "The U.S. economy added 115,000 jobs in April, the Bureau of Labor Statistics reported Friday, far exceeding economists' consensus forecast of roughly 65,000 to 67,000 new positions. The unemployment rate held steady at 4.3 percent. The report marked the first back-to-back monthly advance in hiring in nearly a year.\n\nThe stronger-than-expected figures suggest the labor market retains meaningful resilience despite ongoing uncertainty tied to tariff policy and elevated interest rates. Economists had broadly anticipated a sharper slowdown in hiring given the macroeconomic headwinds facing employers. The results prompted U.S. stocks to approach record closing highs, with semiconductor shares and the holding of the Iran ceasefire also contributing to market gains.\n\nThe report will factor heavily into Federal Reserve deliberations over the pace and timing of any interest rate adjustments. Policymakers have signaled they want sustained evidence that inflation and employment conditions justify cuts before moving. Friday's numbers reduce pressure on the Fed to act quickly but also complicate the case for those arguing the tariff environment has already begun materially damaging the labor market.\n\nThe April data will be scrutinized by both political parties. Supporters of the current administration are likely to point to the beat as evidence of economic durability, while critics will note the unemployment rate remains elevated compared to the historic lows recorded in 2023 and that the pace of hiring has slowed considerably from prior years.",
+      "source": "The Hill",
+      "url": "https://thehill.com/business/5869331-april-jobs-report-economy-inflation/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-08T08:08:42.990207-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Farage's Reform UK Sweeps English Local Elections, Delivering Major Blow to Starmer's Labour",
+      "summary": "Nigel Farage's populist Reform UK party posted sweeping gains in English local elections, winning more than 400 council races and dealing a significant defeat to Prime Minister Keir Starmer's Labour government in results reported Friday. The voting across England, Scotland and Wales represented the largest electoral test for Starmer since Labour won the general election in 2024.\n\nStarmer said he had no intention of stepping down as Labour leader despite the scale of the losses, acknowledging that voters were sending a message of dissatisfaction but framing the results as a reflection of difficult decisions his government has had to make in office. Reform UK, which campaigns on strict immigration controls, opposition to net-zero climate policies and skepticism of mainstream political institutions, has rapidly consolidated support that previously flowed to both the Conservative Party and disaffected Labour voters.\n\nThe results mark a significant milestone for Farage, who has sought to position Reform as the primary opposition force in British politics ahead of the next general election. The Conservatives, who lost power in 2024, also suffered losses, reinforcing questions about whether the party can recover its traditional base or whether Reform has permanently fractured the British right.\n\nAnalysts cautioned that local election results do not translate directly to general election outcomes, but the breadth of Reform's gains — across regions that historically voted Labour as well as Conservative — indicates the party's appeal extends well beyond its initial base of Brexit-aligned voters in English towns and coastal communities.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/farage-racks-up-uk-election-gains-as-voters-punish-starmer",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-08T08:08:42.990207-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Three Hikers Killed After Volcano Erupts on Indonesian Island Despite Warnings",
+      "summary": "Three hikers — two Singaporeans and one Indonesian — died Friday after Mount Dukono on North Maluku island erupted during an early morning hike, sending a column of ash 10 kilometers into the sky. The three were among a group of approximately 20 Singaporeans and Indonesians climbing the mountain in defiance of official restrictions. The remaining members of the group were located and evacuated to hospital.\n\nIndonesian authorities said retrieval of the bodies was hampered by repeated eruptions, difficult terrain and strong volcanic blasts. A rescue operation to reach the crater, where the bodies are believed to be located, was suspended as darkness fell Friday evening and is set to resume Saturday. The volcano was still emitting ash and rock material from its crater late Friday afternoon.\n\nMount Dukono has erupted more than 200 times since March of last year, and officials had issued and widely publicized warnings — including on social media and via banners at trailheads — against climbing the mountain. A guide who was on the mountain with clients at the time of the eruption told BBC Indonesian that he sensed pressure building inside the volcano and descended quickly, saving his group.\n\nThe deaths underscore the dangers posed by active volcanoes in the Indonesian archipelago, which sits on the Pacific Ring of Fire and is home to dozens of highly active volcanic peaks. Officials said eyewitness accounts suggest additional hikers beyond the identified group of 20 were also on the mountain at the time of the eruption.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-08T08:08:42.990207-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Pentagon Releases New Tranche of UFO Files Under Trump Transparency Order",
+      "summary": "The Pentagon released a new batch of classified files on unidentified anomalous phenomena, commonly known as UFOs or UAPs, on Friday as part of President Trump's directive ordering the Defense Department to make such documents public. Defense Secretary Pete Hegseth said in a statement that the documents \"have long fueled justified speculation\" and that it was time for the American public to see them.\n\nThe release follows a 2024 congressional report that catalogued hundreds of new UAP incidents but found no confirmed evidence that the U.S. government had ever verified a sighting of alien technology. Experts said the newly released files could help scientists and researchers shed light on unexplained aerial incidents and longstanding questions about government secrecy surrounding the topic.\n\nThe Trump administration has positioned transparency on UAPs as a bipartisan priority, building on disclosure legislation passed by Congress in recent years that sought to compel executive-branch agencies to declassify and release historical records on the subject. The Pentagon has previously acknowledged operating programs that investigated UAP reports going back decades.\n\nThe scope and content of Friday's document release were not fully detailed in early reporting, and analysts cautioned that official document dumps have historically contained heavily redacted materials. Independent researchers and advocacy groups have called for the release of unredacted files and raw sensor data to allow independent verification of government claims.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/5869342-pentagon-ufo-files-release/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-08T08:08:42.990207-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: Trump Pauses Iran Military Operation as Ceasefire Holds Tenuously; Israel Strikes Beirut",
       "summary": "President Trump announced a pause in U.S. military operations against Iran — dubbed 'Project Freedom' — saying progress has been made toward a deal. The pause comes two days after Trump announced the operation and follows intensive diplomatic activity, including Chinese Foreign Minister Wang Yi holding talks in Beijing with Iranian Foreign Minister Abbas Araghchi on his first visit to China since the war began.\n\nDespite the pause, tensions remain high. Iran accused the U.S. of violating the ceasefire by targeting an oil tanker and striking coastal areas. The U.S. maintained it had targeted Iranian 'missile and drone launch sites, command and control locations, and intelligence, surveillance and reconnaissance nodes.' The fragile Gulf ceasefire is under serious strain from continued U.S.-Iran exchanges.\n\nIsrael carried out a strike on Beirut targeting a senior Hezbollah figure — the first such strike on the Lebanese capital since mid-April — even as a U.S.-brokered ceasefire between Israel and Hezbollah nominally remains in effect. Israeli media also reported that Israel is preparing to resume full-scale fighting in Gaza due to an impasse in disarmament talks with Hamas.\n\nMediator Pakistan said it is 'endeavouring to convert this ceasefire into a permanent end to this war,' but analysts warn the dual fronts in Lebanon and Iran, combined with the stalled Gaza negotiations, make a durable peace elusive. European aviation authorities separately warned that jet fuel shortages tied to the conflict could worsen if fighting continues.",
