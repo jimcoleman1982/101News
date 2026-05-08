@@ -3,6 +3,45 @@
   "dateFormatted": "Friday, May 8, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: Two IS-Linked Australian Women Charged with Crimes Against Humanity After Returning from Syria",
+      "summary": "Three Australian women with alleged ties to the Islamic State appeared in Australian courts on Friday, less than 24 hours after being arrested upon their return from Syria. Kawsar Ahmad, 53, faces four charges of crimes against humanity, with police alleging she traveled to Syria in 2014 and kept a female slave in her home; her daughter Zeinab Ahmad, 31, faces two similar charges carrying a maximum sentence of 25 years. A third woman, Janai Safar, 32, appeared in a Sydney court charged with entering a declared conflict zone and joining IS, offenses carrying up to ten years in prison.\n\nThe Australian Federal Police allege Kawsar Ahmad was complicit in the purchase of a female slave for $10,000 USD and that both mother and daughter knowingly kept the woman in their home. Kawsar and Zeinab Ahmad were remanded in custody until Monday, when their lawyers said they would seek bail; Safar was also remanded and will next appear in court in July.\n\nThe three women are part of a larger group of 34 Australian women and children who had been held at the al-Roj camp in northeast Syria since 2019. The cohort had attempted to return to Australia earlier in the year but were sent back to the camp for what the government described as \"technical reasons,\" with authorities refusing to offer repatriation assistance.\n\nAFP Assistant Commissioner for Counter Terrorism Stephen Nutt said the investigation into Australians who traveled to declared conflict areas remains active and that authorities \"will ensure those who are alleged to have committed a criminal offence are put before the courts.\" The charges mark one of the most significant terrorism-related prosecutions in Australia in recent years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdrpx8pl36vo",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:21 AM MT",
+      "addedAtISO": "2026-05-08T10:21:07.355403-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: EU and Aviation Bodies Clear Use of U.S.-Grade Jet Fuel in Europe Amid Iran War Supply Crunch",
+      "summary": "The European Union, the International Air Transport Association (IATA), and the European Aviation Safety Agency (EASA) on Friday moved to ease potential aviation fuel shortages in Europe caused by disruptions to Gulf supplies stemming from the U.S.-Israeli war with Iran. The EU stated there are no \"regulatory obstacles\" to European airlines using American-grade Jet A fuel, provided it is introduced safely, while EASA issued a formal safety information bulletin with guidance for fuel suppliers, airlines, and airport operators.\n\nThe price of Jet A-1, the international standard fuel used by most European carriers, has risen approximately 50 percent since the conflict began, as supplies from the Gulf region have slowed sharply. IATA's director of flight and technical operations warned that if the Middle East conflict continues, \"it won't be long before we see fuel shortages in some parts of the world.\"\n\nThe two fuel types — Jet A-1 and the North American Jet A — are both kerosene-based and broadly similar, but Jet A-1 has a lower freezing point, making it more flexible for long-haul and polar routes. EASA cautioned that introducing Jet A without careful management \"could result in an aircraft flying outside of its safe operating limits,\" particularly if fuel grades are inconsistently available across airports.\n\nThe regulatory move represents a significant practical response to wartime supply chain disruption, with European carriers now able to tap increased U.S. refinery output to offset the loss of Gulf imports. Industry officials said careful planning, monitoring, and the use of fuel additives — techniques already standard in cold-weather North American operations — can mitigate the technical risks involved.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp8pk2m4nlxo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:21 AM MT",
+      "addedAtISO": "2026-05-08T10:21:07.355403-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Trump Meets Brazil's Lula at White House; No Joint Statement, but Trade Talks to Follow",
+      "summary": "U.S. President Donald Trump and Brazilian President Luiz Inácio Lula da Silva held a three-hour meeting at the White House on Friday to discuss trade, tariffs, and bilateral relations. The meeting ended without a joint press appearance — unusual for a summit of this scale — as Lula's motorcade departed without either leader addressing reporters, leaving journalists who had waited hours without comment.\n\nTrump posted on Truth Social afterward that the meeting \"went very well\" but offered few specifics. Brazilian ministers speaking at the Brazilian embassy echoed that characterization, saying representatives from both countries would meet in coming weeks to negotiate an end to U.S. tariffs on Brazilian goods. Lula told reporters separately that he had raised the idea of a transnational group to counter drug trafficking and organized crime, and that Brazil wished to share its critical rare earth mineral potential with interested investor nations.\n\nThe meeting carries diplomatic complexity: Trump has a close relationship with Lula's predecessor, Jair Bolsonaro, whom he had publicly backed for re-election. Bolsonaro is currently imprisoned in Brazil after being convicted of attempting to stage a coup to remain in power. When asked whether Trump might seek to influence Brazil's upcoming elections, Lula said: \"I don't think Trump will have any influence.\"\n\nThe encounter is the latest in a series of White House meetings with foreign leaders as the Trump administration pursues bilateral trade negotiations following its sweeping tariff actions. Brazil is a major U.S. trading partner and one of the world's largest exporters of agricultural commodities, making any tariff resolution economically significant for both countries.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/live/c8095x87j1nt",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:21 AM MT",
+      "addedAtISO": "2026-05-08T10:21:07.355403-06:00"
+    },
+    {
       "category": "business",
       "headline": "U.S. Economy Added 115,000 Jobs in April, Nearly Double Expectations",
       "summary": "The U.S. economy added 115,000 jobs in April, the Bureau of Labor Statistics reported Friday, far exceeding economists' consensus forecast of roughly 65,000 to 67,000 new positions. The unemployment rate held steady at 4.3 percent. The report marked the first back-to-back monthly advance in hiring in nearly a year.\n\nThe stronger-than-expected figures suggest the labor market retains meaningful resilience despite ongoing uncertainty tied to tariff policy and elevated interest rates. Economists had broadly anticipated a sharper slowdown in hiring given the macroeconomic headwinds facing employers. The results prompted U.S. stocks to approach record closing highs, with semiconductor shares and the holding of the Iran ceasefire also contributing to market gains.\n\nThe report will factor heavily into Federal Reserve deliberations over the pace and timing of any interest rate adjustments. Policymakers have signaled they want sustained evidence that inflation and employment conditions justify cuts before moving. Friday's numbers reduce pressure on the Fed to act quickly but also complicate the case for those arguing the tariff environment has already begun materially damaging the labor market.\n\nThe April data will be scrutinized by both political parties. Supporters of the current administration are likely to point to the beat as evidence of economic durability, while critics will note the unemployment rate remains elevated compared to the historic lows recorded in 2023 and that the pace of hiring has slowed considerably from prior years.",
