@@ -3,6 +3,58 @@
   "dateFormatted": "Friday, May 8, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Judge Rules Trump's DOGE-Led Cancellation of Humanities Grants Unconstitutional",
+      "summary": "A federal judge in New York permanently barred the Trump administration from terminating more than $100 million in National Endowment for the Humanities grants, ruling Thursday that the cancellations violated the First and Fifth Amendments. U.S. District Judge Colleen McMahon found that the Department of Government Efficiency had no lawful authority to end the congressionally approved funding, which covered more than 1,400 grants to scholars, writers, research groups and other organizations.\n\nMcMahon wrote that officials engaged in 'a textbook example of unconstitutional viewpoint discrimination' by canceling grants associated with diversity, equity and inclusion, and criticized DOGE's use of artificial intelligence in making the cuts. The ruling sided with plaintiffs including The Authors Guild, the American Historical Association, the Modern Language Association and individual grant recipients who sued DOGE and the NEH.\n\nGovernment lawyers had argued the cuts were legal exercises of executive authority to eliminate DEI-linked programs and reduce discretionary spending. The White House and Justice Department did not immediately comment, and it was unclear whether an appeal was planned.\n\nThe decision is the latest in a series of judicial checks on DOGE-driven spending cuts. Supporters of the ruling called it a vindication of free speech and congressional appropriations authority; the administration has argued across similar cases that the president holds broad discretion to realign federal spending with executive priorities.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/judge-finds-trumps-doge-led-cancellation-of-humanities-grants-unconstitutional",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:09 PM MT",
+      "addedAtISO": "2026-05-08T16:09:53.801758-06:00"
+    },
+    {
+      "category": "business",
+      "headline": "Update: Court Again Strikes Down Trump's Global Tariffs; Administration Appeals",
+      "summary": "The U.S. Court of International Trade issued a 2-to-1 ruling Thursday declaring the Trump administration's 10% global import tariff unauthorized by law, finding that the White House misinterpreted Section 122 of the Trade Act of 1974 and failed to satisfy the legal criteria for such surcharges. The court ordered that illegally collected tariffs 'shall be refunded with interest,' mirroring an earlier Supreme Court ruling that struck down Trump's 'Liberation Day' tariffs imposed under separate emergency powers.\n\nThe Trump administration appealed the ruling Friday, which may delay any immediate halt to tariff collection by 30 days or more. The 10% Section 122 duties had been put in place as a temporary replacement for the previously invalidated Liberation Day tariffs and were scheduled to expire July 24 regardless.\n\nThe administration had planned to replace the temporary duties with permanent tariffs under Section 301 and Section 232 authorities, but the lengthy investigation process required means those measures are unlikely to take effect for months, leaving a window in which importers could again accelerate purchases to avoid future duties — a pattern seen before the original Liberation Day announcement.\n\nPresident Trump blasted the decision as the work of 'two radical left judges.' Economists at Capital Economics noted the ruling may not immediately change the effective U.S. tariff rate but raises the risk of further Treasury refund obligations and signals continued judicial resistance to the administration's broader trade agenda.",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/article/what-the-latest-ruling-on-trumps-tariffs-could-mean-for-businesses-225608802.html",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:09 PM MT",
+      "addedAtISO": "2026-05-08T16:09:53.801758-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Justice Department Moves to Strip 12 Americans of Citizenship Over Fraud Allegations",
+      "summary": "The Department of Justice announced Friday it is seeking to denaturalize a dozen people across the country whom federal prosecutors accuse of fraudulently obtaining U.S. citizenship by lying during the naturalization process. Actions were filed this week in U.S. District Courts in multiple jurisdictions.\n\nAmong those targeted is former U.S. Ambassador Victor Manuel Rocha, against whom the DOJ filed a complaint in the Southern District of Florida alleging he illegally obtained naturalization by misrepresenting himself while serving as a spy for the Cuban government. The other 11 individuals face allegations including child sexual abuse and providing material support to terrorist organizations.\n\nThe move is part of the Trump administration's broader effort to use denaturalization as an enforcement tool, an authority that has historically been used sparingly. Immigration advocates have raised concerns that expanding its use could create uncertainty for naturalized citizens more broadly, while administration officials argue the actions target individuals who obtained citizenship through deliberate deception.\n\nDenaturalization cases are decided in federal civil court and require the government to prove fraud by clear and convincing evidence. The cases announced Friday represent one of the largest single-day batches of such filings in recent memory.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5870355-justice-department-seeks-denaturalization/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:09 PM MT",
+      "addedAtISO": "2026-05-08T16:09:53.801758-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "David Attenborough Turns 100 as World Celebrates His Seven Decades of Nature Broadcasting",
+      "summary": "Sir David Attenborough, the BBC broadcaster whose narration of nature documentaries spanning more than 70 years shaped global public understanding of the natural world, turned 100 on Friday. The BBC hosted a celebration at the Royal Albert Hall, cinemas screened his films, and scientists, politicians and conservationists worldwide offered tributes to a career that took viewers from the Himalayas to the Amazon.\n\nAttenborough was born in London on May 8, 1926, and built a body of work that includes landmark series such as Life on Earth, The Private Life of Plants and The Blue Planet. Colleagues described him as insistent that the animals, not he, were the stars of his programs, and uncomfortable with personal fame despite being one of the most recognized voices on the planet.\n\nOver time, Attenborough moved from neutral observer to outspoken advocate on climate change, ocean plastic and biodiversity loss — a shift his collaborators say was driven by frustration that political and business leaders were not responding to mounting scientific evidence. Evolutionary biologist Professor Ben Garrod noted that Attenborough 'shouldn't have ever had to have turned to policymaking and advocacy.'\n\nAlastair Fothergill, producer of several of Attenborough's most celebrated series, said Attenborough maintained through his career that scientific accuracy was as important as stunning imagery, helping audiences understand not only the beauty of the natural world but the reasons to protect it.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/happy-birthay-david-attenborough-the-man-behind-the-excited-but-hushed-voice-of-nature-programs-turns-100",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "4:09 PM MT",
+      "addedAtISO": "2026-05-08T16:09:53.801758-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: Iran Accuses U.S. of 'Reckless Military Adventure' as Naval Clashes Continue, Deal Response Due",
       "summary": "Iran's Foreign Minister Abbas Araghchi accused the United States on Friday of pursuing a \"reckless military adventure\" each time a diplomatic solution is within reach, posting on X that Iranians would \"never bow to pressure.\" The statement came a day after both sides accused each other of initiating attacks in the Strait of Hormuz, and as U.S. Central Command announced it had disabled two Iranian-flagged oil tankers attempting to enter an Iranian port on the Gulf of Oman by firing precision munitions into their smokestacks. Centcom said U.S. forces are currently preventing more than 70 tankers from entering or leaving Iranian ports under an ongoing naval blockade.\n\nDespite the exchanges, President Trump maintained that the ceasefire enabling diplomatic talks remains intact. Secretary of State Marco Rubio, speaking during a visit to Italy, said Iran is expected to respond to U.S. proposals on Friday, adding: \"I hope it's a serious offer, I really do.\" The conflict, now in its third month following the U.S.-Israeli military campaign launched in February, has choked the Strait of Hormuz, through which roughly 20 percent of the world's oil and liquefied natural gas normally transits.\n\nIran's Foreign Minister framed the continued military action as potentially the work of a \"spoiler\" manipulating the U.S. president, questioning whether the strikes were a pressure tactic or evidence that Trump was being \"duped into another quagmire.\" Trump, for his part, posted to Truth Social that U.S. forces had destroyed multiple Iranian small boats, missiles and drones, and warned of stronger action if Iran continued to engage. The dueling accusations underscore the precarious state of ceasefire-backed negotiations.\n\nThe standoff carries significant global economic consequences. Jet fuel prices in Europe have surged roughly 50 percent since the conflict began, and energy markets remain volatile. With Iran's expected diplomatic response due Friday and U.S. forces actively interdicting vessels, the next 24 to 48 hours are widely seen as critical to determining whether talks advance or the conflict escalates further.",
