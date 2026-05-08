@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: U.S. Military Intercepts Iranian Attacks on Three Navy Destroyers in Strait of Hormuz",
+      "summary": "The U.S. military intercepted Iranian attacks on three Navy destroyers transiting the Strait of Hormuz on Thursday and struck Iranian military facilities in retaliation, U.S. Central Command announced. The command described the Iranian attacks as \"unprovoked\" and said no ships were hit, adding that U.S. forces \"remain positioned and ready to protect American forces.\" Iranian state media confirmed exchanges of fire near Qeshm Island, the largest Iranian island in the Persian Gulf, and reported explosions near Bandar Abbas and defensive fire in western Tehran.\n\nPresident Trump told reporters the ceasefire between the two countries was still holding despite the violence. \"They trifled with us today. We blew them away,\" Trump said. The incident highlights the extreme fragility of the month-old ceasefire and comes as hundreds of ships and thousands of mariners remain stranded at the Strait of Hormuz, which Iran has controlled, causing significant disruption to global trade.\n\nSeparately, Secretary of State Marco Rubio met Pope Leo XIV at the Vatican on Thursday in what was described as a fence-mending visit following weeks of tension over Trump's repeated criticism of the Pope's calls for peace in the Iran conflict. Rubio said the talks focused on \"efforts to achieve a durable peace in the Middle East.\"\n\nThe episode underscores the volatile state of U.S.-Iran relations and the difficulty of maintaining any ceasefire framework while active military exchanges continue in one of the world's most critical shipping lanes.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-us-israel-war-may-7-2026-fdc6d2ae9396377919c967746fa9996b",
+      "sourceCount": 22,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-07T21:08:18.523301-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Tennessee Passes Redistricting Map That Could Erase Memphis's Majority-Black Congressional District",
+      "summary": "Tennessee lawmakers on Thursday approved a new U.S. House congressional map that carves up Memphis's majority-Black district, potentially positioning Republicans to win all nine of the state's congressional seats in the November midterm elections. The vote makes Tennessee the first state to adopt new districts following a U.S. Supreme Court ruling last week that significantly weakened federal Voting Rights Act protections for minority communities.\n\nPresident Trump has urged Republican-led states to redraw their congressional maps in the wake of that Supreme Court ruling. Louisiana, Alabama, and South Carolina have also taken steps toward redistricting, suggesting a broader national reshaping of congressional boundaries could be underway ahead of the midterms.\n\nSupporters of the Tennessee map argue it reflects legitimate partisan redistricting that is now legally permissible following the court's ruling. Critics, including Tennessee Democrats who locked arms in protest on the chamber floor, contend the map is a deliberate effort to dilute Black voting power and that the Supreme Court ruling enabling it represents a major setback for minority representation in Congress.\n\nThe move carries national significance: with the House majority potentially at stake in the midterms, similar redistricting efforts in other Republican-controlled states could meaningfully alter the composition of Congress.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/tennessee-lawmakers-pass-u-s-house-map-carving-up-majority-black-district-in-memphis",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-07T21:08:18.523301-06:00"
+    },
+    {
+      "category": "business",
+      "headline": "Trump Sets July 4 Deadline for EU Trade Deal as U.S. Court Strikes Down 10% Global Tariffs",
+      "summary": "President Trump issued an ultimatum to the European Union on Thursday, threatening sharply higher tariffs if the bloc does not finalize a trade agreement by July 4 — the United States' 250th anniversary. After a phone call with European Commission President Ursula von der Leyen, Trump posted on social media that tariffs would \"immediately jump to much higher levels\" if no deal was in place by the deadline. Von der Leyen said both sides were making \"good progress towards tariff reduction\" and remained committed to the agreement's implementation.\n\nThe existing framework, struck between Trump and von der Leyen last year, would set a 15% U.S. tariff on EU goods — down from a threatened 30%. The deal received conditional approval from the European Parliament in March, but requires endorsement from all 27 EU member states, a process that has stalled. The Parliament has conditioned acceptance on the U.S. exempting EU steel and aluminum goods from a separate 50% global metals tariff.\n\nHours after Trump's announcement, the U.S. Court of International Trade ruled 2-1 that Trump's latest 10% global tariff — imposed in February under Section 122 of the 1974 Trade Act after the Supreme Court struck down his earlier \"Liberation Day\" tariffs — was not justified under U.S. trade law. The ruling could open the door to further legal challenges to Trump's tariff architecture.\n\nThe twin developments — a presidential ultimatum to a key trading partner and a federal court again constraining the president's tariff authority — add fresh uncertainty to global trade relations at a moment when supply chains are already stressed by the ongoing Iran conflict.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-07T21:08:18.523301-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Canvas Learning Platform Taken Offline After Hackers Claim Access to Data of 275 Million Users Across 9,000 Schools",
+      "summary": "Canvas, the online learning management system used by thousands of schools and universities across the United States, was taken offline Thursday following a cyberattack. A hacking group claiming responsibility said it gained access to data from more than 275 million people across approximately 9,000 institutions served by Canvas's parent company.\n\nThe outage struck at a particularly disruptive time, with thousands of students losing access to course materials, assignments, and communications during finals season. Universities have launched investigations into the scope of the breach as institutions scramble to assess what student and faculty data may have been compromised.\n\nIf the hackers' claims are accurate, the breach would rank among the largest education-sector data exposures on record, raising serious questions about the cybersecurity posture of widely used educational technology platforms that now serve as the backbone of academic life at institutions nationwide.\n\nDetails on the specific nature of the compromised data — including whether Social Security numbers, financial information, or other sensitive personal records were accessed — had not been confirmed by Thursday evening. Canvas's parent company had not publicly verified the hackers' claims about the scale of the breach.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/07/education/canvas-hacked-down-data-breach.html",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-07T21:08:18.523301-06:00"
+    },
+    {
+      "category": "world",
       "headline": "British Local and Regional Elections Test Starmer's Leadership and Farage's Rise",
       "summary": "Voters across England, Scotland, and Wales cast ballots Thursday in local council and regional elections widely seen as a referendum on Prime Minister Keir Starmer's Labour government, less than a year after Labour swept to power in the 2024 general election. The results are expected to reflect deep public frustration with Starmer over issues including cost-of-living pressures, welfare cuts, and a perceived lack of policy momentum.\n\nThe elections are also a major test for Nigel Farage's Reform UK party, which has surged in national polls and is seeking to translate that support into tangible electoral gains at the local level. Strong Reform showings could signal a fundamental realignment in British politics, putting pressure on both Labour and the Conservatives simultaneously.\n\nFor Starmer, significant losses could trigger internal party pressure and calls to change direction ahead of the next general election. Analysts describe the vote as one of the most consequential rounds of local elections in recent British history, with results expected to come in through Friday morning.",
       "source": "The Hill",
