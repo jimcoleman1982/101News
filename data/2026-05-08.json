@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-08",
+  "dateFormatted": "Friday, May 8, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Trump Pauses Iran Military Operation as Ceasefire Holds Tenuously; Israel Strikes Beirut",
+      "summary": "President Trump announced a pause in U.S. military operations against Iran — dubbed 'Project Freedom' — saying progress has been made toward a deal. The pause comes two days after Trump announced the operation and follows intensive diplomatic activity, including Chinese Foreign Minister Wang Yi holding talks in Beijing with Iranian Foreign Minister Abbas Araghchi on his first visit to China since the war began.\n\nDespite the pause, tensions remain high. Iran accused the U.S. of violating the ceasefire by targeting an oil tanker and striking coastal areas. The U.S. maintained it had targeted Iranian 'missile and drone launch sites, command and control locations, and intelligence, surveillance and reconnaissance nodes.' The fragile Gulf ceasefire is under serious strain from continued U.S.-Iran exchanges.\n\nIsrael carried out a strike on Beirut targeting a senior Hezbollah figure — the first such strike on the Lebanese capital since mid-April — even as a U.S.-brokered ceasefire between Israel and Hezbollah nominally remains in effect. Israeli media also reported that Israel is preparing to resume full-scale fighting in Gaza due to an impasse in disarmament talks with Hamas.\n\nMediator Pakistan said it is 'endeavouring to convert this ceasefire into a permanent end to this war,' but analysts warn the dual fronts in Lebanon and Iran, combined with the stalled Gaza negotiations, make a durable peace elusive. European aviation authorities separately warned that jet fuel shortages tied to the conflict could worsen if fighting continues.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "sourceCount": 22,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:09 AM MT",
+      "addedAtISO": "2026-05-08T05:09:02.784249-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Russia Escalating Foreign Assassination Campaign Since Ukraine Invasion, Western Officials Say",
+      "summary": "Three Western intelligence officials from separate countries have told the Associated Press that Russia has significantly ramped up a campaign of targeted killings abroad since President Vladimir Putin launched his full-scale invasion of Ukraine in 2022. Officials say Russia's security services have become more brazen, now targeting not only Russian dissidents but also foreign supporters of Ukraine, including arms company executives and military officials.\n\nDocumented plots uncovered in recent years include: a suspected reconnaissance operation outside a Russian activist's home in France in April 2025; disrupted assassination plots in Lithuania against a Ukrainian supporter and a Russian activist; two foiled plots in Germany targeting a weapons company executive and a Ukrainian military official; and an arrest in Poland in 2024 linked to an alleged plot to kill Ukrainian President Volodymyr Zelenskyy. A Russian helicopter pilot who defected was killed in Spain, with Russian operatives considered prime suspects.\n\nThe AP used anonymous sourcing for the story, with the outlet's standards team explaining its policy. The Kremlin has consistently denied involvement in overseas killings, framing such allegations as Western disinformation. However, Western governments have repeatedly expelled Russian diplomats and sanctioned Russian intelligence officials in connection with the plots.\n\nThe report underscores the broader security challenge facing European governments as the war in Ukraine grinds on, with analysts warning that the boldness of Russian operations signals a deliberate strategy to intimidate critics and supporters of Kyiv across the continent.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-putin-killing-assassination-intelligence-6e60452ecbe1a42a0ddc9adcd2f39f23",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:09 AM MT",
+      "addedAtISO": "2026-05-08T05:09:02.784249-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: Third Briton Suspected of Hantavirus as Cruise Ship Outbreak Spreads; Passengers to Be Flown Home",
+      "summary": "A third British national has developed a suspected hantavirus infection connected to the outbreak aboard the cruise ship MV Hondius, the U.K. government confirmed Friday. The patient is currently on the remote Atlantic island of Tristan da Cunha, where the ship made a stop in mid-April. Five cases of hantavirus have now been confirmed overall, including one of three passengers who have died from the illness.\n\nThe MV Hondius is expected to dock in the Canary Islands this weekend, where a chartered British plane will meet the vessel to fly remaining U.K. passengers and crew home. Those returning will be asked to self-isolate for up to 45 days even if they display no symptoms. Two other confirmed British cases remain hospitalized — one in a stable condition in the Netherlands and one in intensive care in South Africa.\n\nContact tracing is under way across multiple countries, including Switzerland and the Netherlands, for dozens of passengers who disembarked before the outbreak was detected. The World Health Organization called the situation a 'serious incident' but said the risk to the general public remains low and stressed it bears no resemblance to the COVID-19 pandemic. The origin of the outbreak has not yet been determined.\n\nHantavirus is typically transmitted to humans through contact with infected rodents or their droppings and is not known to spread easily between people — a key distinction from respiratory illnesses. The unusual shipboard outbreak has prompted health authorities in several countries to issue monitoring and isolation guidance for former passengers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yr41vq2ero",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:09 AM MT",
+      "addedAtISO": "2026-05-08T05:09:02.784249-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Administration to Begin Revoking Passports of Americans With Unpaid Child Support",
+      "summary": "The U.S. State Department announced it will begin revoking passports of Americans who carry significant unpaid child support debt, targeting those with outstanding balances above $2,500. The department said it will work with the Department of Health and Human Services to identify delinquent parents. Those whose passports are revoked will be ineligible for new ones until their debt is cleared.\n\nThe policy expands enforcement of a rarely-used 1996 federal law. Previously, the consequence was applied only when parents with such debt sought to renew their passports; the new policy allows for proactive revocation. Americans abroad at the time of revocation will need to visit a U.S. embassy or consulate to obtain an emergency travel document to re-enter the country. The Associated Press reported enforcement is expected to begin Friday.\n\nThe State Department framed the action as using 'commonsense tools to support American families and strengthen compliance' with existing U.S. law, saying it enforces parents' 'legal and moral obligations to their children.' The department added that the action 'supports the welfare of American children by exacting real consequences for child support delinquency.'\n\nChild support enforcement affects millions of American families; the federal Office of Child Support Services reported tens of billions of dollars in unpaid support owed nationally. The policy is expected to draw support from those who argue existing enforcement mechanisms are insufficient and criticism from civil liberties advocates concerned about the breadth of passport revocation as a collections tool.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c62r52l107po",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:09 AM MT",
+      "addedAtISO": "2026-05-08T05:09:02.784249-06:00"
+    }
+  ]
+}
