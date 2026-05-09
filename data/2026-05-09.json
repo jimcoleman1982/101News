@@ -4,6 +4,45 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Peter Magyar Sworn In as Hungary's Prime Minister, Ending Orbán's 16-Year Rule",
+      "summary": "Péter Magyar was officially sworn in as Hungary's new prime minister on Saturday at the Parliament building in Budapest, formally ending Viktor Orbán's 16-year authoritarian tenure. Magyar's center-right Tisza party secured a historic parliamentary majority in last month's election, winning more votes and seats than any party in Hungary's post-Communist history.\n\nMagyar, a former opposition leader and one-time Orbán ally who turned fierce critic, now faces the formidable task of overhauling what Orbán called an 'illiberal democracy' — including a judiciary, media landscape, and public institutions widely seen as reshaped in Fidesz's image over more than a decade. The swearing-in ceremony marks the concrete institutional transfer of power following the election result covered in previous days.\n\nHungary's political transformation carries significant implications for the European Union, which had long been in conflict with Orbán over rule-of-law standards and his government's alignment with Russia and China. Magyar has signaled a return to closer EU cooperation, though the scale of institutional reform needed means his early months in office will be closely watched by Brussels and NATO allies alike.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/09/world/europe/peter-magyar-hungary-viktor-orban.html",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-05-09T11:08:39.672088-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "UK Deploys Warship to Middle East for Potential Hormuz Escort Mission",
+      "summary": "The United Kingdom announced Saturday that it is moving a warship to the Middle East as part of contingency planning for a European-led mission to escort commercial vessels through the Strait of Hormuz. The deployment is conditional on a stable ceasefire taking hold in the ongoing U.S.-Iran conflict that has disrupted shipping in the region.\n\nThe move reflects growing European concern about freedom of navigation through one of the world's most critical maritime chokepoints, through which roughly 20 percent of global oil trade passes. A coalition of European nations has been discussing a joint escort operation modeled on earlier Gulf security arrangements, though the diplomatic and military parameters remain under negotiation.\n\nThe announcement comes as the U.S. and Iran have been edging toward a short-term deal to halt hostilities, and follows days of naval clashes in the strait involving U.S. destroyers. Britain's deployment signals that Western allies are preparing for a post-ceasefire security architecture even before a formal agreement is reached.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-09/uk-moves-warship-to-middle-east-for-potential-hormuz-mission",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-05-09T11:08:39.672088-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Jack Smith Accuses DOJ of Corruption in Fiery Private Remarks, Targeting of Trump Critics",
+      "summary": "Former special counsel Jack Smith delivered an unusually sharp rebuke of the Justice Department at a private Washington dinner in April, remarks that have since become public. Smith accused the DOJ of being 'corrupted' and said it is 'targeting people for criminal prosecution simply because the president doesn't like them,' citing ongoing investigations into former FBI Director James Comey and New York Attorney General Letitia James.\n\nSmith's remarks drew a swift response from a DOJ spokesperson, who told Fox News Digital that the department 'expected nothing less from Jack Smith whose sole mission was to politically prosecute a former president.' The spokesperson added that 'this DOJ has ended the weaponization perpetrated by the Biden Administration and will continue to ensure no one is above the law.'\n\nThe exchange underscores a deepening institutional conflict between Trump's Justice Department and critics who argue it is being used to settle political scores. Smith himself prosecuted Trump on charges related to the 2020 election and classified documents before both cases were dropped; Republicans have long accused Smith of the same 'weaponization' he now alleges against the current DOJ. The episode raises fresh questions about prosecutorial independence and the politicization of federal law enforcement from both ends of the political spectrum.",
+      "source": "Fox News Politics",
+      "url": "https://www.foxnews.com/politics/jack-smith-escalates-trump-doj-clash-blistering-private-event-rebuke",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-05-09T11:08:39.672088-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: U.S. Fires on Iranian Oil Tankers as Ceasefire Strains, Awaits Tehran Response",
       "summary": "U.S. fighter jets struck two Iran-flagged oil tankers in the Strait of Hormuz on Friday, accusing them of attempting to violate the American naval blockade by docking at an Iranian port. The strikes came as the United States simultaneously awaited Iran's response to a draft deal to end the nearly 10-week-old war. Secretary of State Marco Rubio said Washington expected to hear from Tehran imminently, while Iran's foreign minister accused the U.S. of breaching the month-old ceasefire and undermining diplomacy.\n\nThe Pentagon released footage of the strikes on the tankers. Vice President Vance met Friday in Rome with Qatari Prime Minister Sheikh Mohammed bin Abdul Rahman al-Thani, a key back-channel mediator, as formal negotiations between the U.S. and Iran continue through Pakistan. President Trump stated that the ceasefire remains technically in effect and that his proposal includes conditions that would prevent Iran from acquiring a nuclear weapon.\n\nIran charged that U.S. forces attack every time a diplomatic solution appears within reach. The clashes represent the most serious flare-up since the ceasefire was announced last month, raising doubts about its durability. Analysts say the U.S. blockade is squeezing Iranian oil exports so severely that the regime may be dumping crude into the Persian Gulf as storage capacity runs out.\n\nThe U.S. also imposed new sanctions on three Chinese firms for providing satellite imagery to Iran that enabled Iranian military strikes on American forces. Meanwhile, Rubio urged European allies in Rome to move beyond rhetoric and take concrete action against Iran, as the Trump administration seeks to build international pressure ahead of any potential deal.",
       "source": "Bloomberg Politics",
