@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-09",
+  "dateFormatted": "Saturday, May 9, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Starmer Refuses to Resign After Labour Suffers Historic Local Election Losses to Reform UK",
+      "summary": "British Prime Minister Keir Starmer declared Friday he would not resign despite his Labour Party losing more than half the seats it was defending in English local and regional elections, calling the results \"very tough\" and saying he was \"not going to walk away.\" Reform UK, led by Nigel Farage, swept hundreds of council seats across traditional Labour strongholds in England's north — including Sunderland — and made significant gains from Conservatives in areas such as Essex, marking the party's most consequential electoral performance to date.\n\nThe elections were widely interpreted as a referendum on Starmer's leadership less than two years after Labour won power by a landslide, ending 14 years of Conservative government. Voters signaled impatience over slow economic improvement and a perceived failure to deliver meaningful change. Welsh Labour leader Eluned Morgan resigned after her party suffered heavy losses in Wales, adding to the pressure on Starmer's national leadership.\n\nFarage framed the results as a mandate against the political establishment, with Reform running on anti-immigration and anti-establishment themes. Conservatives, led by Kemi Badenoch, also claimed modest victories, including taking Westminster City Council from Labour. Starmer's supporters argue he inherited deep structural problems and that reforms take time; critics within Labour warn the party faces an existential threat from Reform on one flank and the Conservatives on another.\n\nThis is a new development on a previously covered story: results are now largely confirmed, Starmer has publicly responded, and Welsh Labour's leader has resigned — all material changes since earlier coverage of the vote count.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/britain-elections-labour-starmer-reform-farage-f17a122a0cfcc3595ef01f142517b0b6",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-09T05:08:15.709351-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Australian Women Formally Charged with Crimes Against Humanity After Return from Syria",
+      "summary": "Two Australian women with alleged links to the Islamic State appeared in a Melbourne court Friday and were remanded in custody after being charged with crimes against humanity. Kawsar Ahmad, 53, faces four counts, with police alleging she travelled to Syria in 2014 and kept a female slave in her home purchased for $10,000; her daughter Zeinab Ahmad, 31, faces two similar charges carrying a maximum sentence of 25 years. A third woman, Janai Safar, 32, appeared separately in Sydney charged with entering a declared conflict zone and membership in a terrorist organization.\n\nThe three women were among a group of 34 Australian women and children who had been held at the al-Roj camp in northeastern Syria since 2019. The group departed the camp in February to return to Australia but was initially turned back before ultimately being permitted to fly home Thursday. The Australian Federal Police stated the investigation into all Australians who traveled to declared conflict zones remains active.\n\nThis is a material update on a previously covered story: the women have now appeared in court, formal charges have been filed, and remand decisions have been issued — concrete legal developments beyond the earlier reporting of their arrest.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-09T05:08:15.709351-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Forecasters Warn Potentially Record-Breaking El Niño Could Bring Extreme Heat, Drought, and Floods",
+      "summary": "Climate scientists and meteorologists warned Friday that a potentially historic El Niño event is expected to develop by mid-2026, with the World Meteorological Organization citing rapidly rising sea-surface temperatures and high confidence in its onset. Subsurface warm water anomalies in the equatorial Pacific are among the largest on record, raising the possibility of a so-called \"super El Niño\" — the most intense classification — though forecasters cautioned the outcome is not guaranteed and spring models carry greater uncertainty.\n\nEl Niño redistributes heat across the planet, typically triggering above-average temperatures, intensified heat waves, and worsening drought in some regions while increasing atmospheric moisture and the risk of severe flooding in others. Across the United States, forecasters expect a hotter-than-normal summer with significant heat waves and more frequent thunderstorms in the Southwest. In the Atlantic, El Niño tends to suppress hurricane activity by competing with heat that would otherwise fuel tropical storms.\n\nThe event, if it materializes at full strength, could affect hundreds of millions of people globally through altered agricultural conditions, water supply, and extreme weather frequency. Climate scientist Daniel Swain of the California Institute for Water Resources said Friday the physical preconditions are \"about as large as we've seen in the historical record,\" adding that \"the potential is there for something genuinely remarkable.\"",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/el-nino-climate-hurricane-heat-drought-rain-d9b3de8acc849198fbb1097fbb0eb4f6",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-09T05:08:15.709351-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "Frontier Airlines Jet Strikes Pedestrian on Denver Runway, Suffers Engine Fire",
+      "summary": "A Frontier Airlines flight preparing to depart Denver International Airport for Los Angeles struck an individual on runway 17L late Friday night, the airport and airline confirmed. The aircraft sustained an engine fire following the incident but was safely evacuated. The identity and condition of the person struck were not immediately available.\n\nThe incident prompted an emergency response at Denver International Airport. Federal aviation authorities were expected to investigate how an individual came to be on an active runway during departure operations. Frontier Airlines had not issued a full public statement on the circumstances as of late Friday.\n\nRunway incursions and pedestrian access to active airfields are among the most serious safety concerns in commercial aviation, and the incident is likely to draw scrutiny from the National Transportation Safety Board and the Federal Aviation Administration.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-09T05:08:15.709351-06:00"
+    }
+  ]
+}
