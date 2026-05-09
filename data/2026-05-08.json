@@ -3,6 +3,58 @@
   "dateFormatted": "Friday, May 8, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Hungary's New Prime Minister Péter Magyar to Be Sworn In, Ending 16 Years of Orbán Rule",
+      "summary": "Hungary's new prime minister Péter Magyar is set to be sworn in Saturday after his Tisza party won a landslide election victory last month, capturing 141 of 199 parliamentary seats after being founded just two years ago. The inauguration caps a dramatic political shift that ended Viktor Orbán's 16-year grip on power, with Orbán's Fidesz party collapsing from 135 seats to 52. A large public celebration dubbed a \"gateway of regime change\" is planned along the Danube in Budapest.\n\nMagyar has pledged a broad \"change of system,\" promising to hold those responsible for financial crimes accountable while setting up a new office to recover what he describes as stolen state assets. Incoming ministers say there will be no political retribution, but investigations will proceed through proper legal channels. The incoming government is already facing a grim fiscal reality — a budget deficit swollen by a spending spree under the outgoing Orbán administration.\n\nThe transition has not been without controversy. Magyar's initial appointment of his brother-in-law as justice minister drew sharp criticism on social media; the nominee withdrew within days, saying he did not want \"even the slightest shadow\" cast on the new government. A prominent Fidesz-aligned businessman's large donation to Tisza was promptly returned by Magyar.\n\nOrbán and most senior Fidesz figures have declined to take their parliamentary seats, leaving their political futures uncertain. The new government inherits a state whose contracts and public funds were widely funneled to Fidesz-linked business circles over more than a decade, according to incoming ministers — a pattern they say will now face scrutiny.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-08T21:08:52.915352-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Canvas Cyberattack Disrupts Thousands of Schools Worldwide During Final Exams",
+      "summary": "A cyberattack by the hacking group ShinyHunters knocked the Canvas online learning platform offline for much of Thursday and Friday, disrupting finals week for students at roughly 9,000 institutions across the United States, Canada, and Australia. The platform, owned by Instructure, is used by tens of millions of students and faculty to submit assignments, access course materials, and take exams. Several universities — including Mississippi State, Penn State, Idaho State, and the University of British Columbia — cancelled or postponed scheduled exams.\n\nShinyHunters claimed to have accessed billions of private messages and other records, and displayed ransom notes directly on students' screens during active exam sessions, demanding bitcoin payments in exchange for not releasing the data. Instructure confirmed the attackers exploited a vulnerability related to its Free-For-Teacher accounts and has temporarily shut down those accounts. The company has not disclosed whether any ransom was paid or what user data was compromised.\n\nThe breach caused widespread alarm during one of the highest-stakes periods of the academic calendar. Students mid-exam suddenly saw ransom messages appear and were left uncertain whether their completed work had been saved. Universities scrambled to communicate via email and alternative channels while advising students to log out and ignore suspicious messages.\n\nThe attack follows a pattern of escalating ransomware strikes on educational institutions, which hold large volumes of digitized personal and academic data. Previous attacks have targeted major school districts including Los Angeles Unified and Minneapolis Public Schools. Cybersecurity analysts note that schools remain attractive targets because of their data richness and historically limited security resources.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/canvas-cyberattack-outage-college-446c240d5aeb1b1a1e3795fb92237563",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-08T21:08:52.915352-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "New U.S. Counterterrorism Strategy Targets Drug Cartels and Left-Wing Groups, Omits Right-Wing Extremism",
+      "summary": "The Trump administration has released a 16-page national counterterrorism strategy that identifies three primary threats: narco-terrorists and transnational criminal gangs, legacy Islamist terrorist groups, and violent left-wing extremists including anarchists and anti-fascists. The document specifically cites \"radically pro-transgender\" ideology as a characteristic of the left-wing threat category, and references the suspect in the killing of conservative activist Charlie Kirk. The strategy makes no mention of right-wing or far-right extremist groups.\n\nU.S. counterterrorism officials met Friday with allied nations to coordinate on the strategy's priorities. Administration officials argue the focus on cartels and gangs reflects the real-world threat posed by groups like the Sinaloa cartel and MS-13, which they say are pushing drugs and violence across U.S. borders. The document also addresses hostage recovery, terrorist acquisition of weapons of mass destruction, and the enduring threat from jihadist organizations.\n\nCritics, including terrorism analysts, say the strategy has significant blind spots. Colin Clarke, executive director of The Soufan Center, said the omission of domestic far-right terrorism is a serious flaw, given that U.S. government research and independent studies have consistently found right-wing extremist groups responsible for the majority of violent domestic attacks in recent years. Clarke also described the document as \"riddled with partisan accusations\" despite its stated goal of being apolitical.\n\nThe debate over how to define and prioritize domestic terrorism threats has been politically charged for years. Conservatives have argued that previous administrations over-focused on right-wing threats while minimizing Islamist and left-wing violence; civil liberties groups and many security experts counter that data consistently shows far-right violence as the dominant domestic threat and warn that the new strategy politicizes what should be a data-driven process.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/new-u-s-counterterror-strategy-focuses-on-drug-cartels-but-omits-right-wing-extremism",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-08T21:08:52.915352-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Mystery Naval Drone With Explosives Found in Greek Waters, Possibly Linked to Ukraine-Russia War",
+      "summary": "Greek fishermen discovered an unmanned naval drone armed with explosives in a sea cave near the island of Lefkada in the Ionian Sea on Thursday, prompting the Greek coast guard to tow it to a nearby port. The Greek defence ministry is now overseeing an investigation into the drone's origin and purpose. Its engine was reportedly still running when it was found.\n\nGreek media reports suggest the vessel may be Ukrainian-made or connected to the ongoing war between Russia and Ukraine. One newspaper identified it as resembling Ukraine's MAGURA V5 naval drone, which has been used in multiple attacks on Russian warships and oil tankers. That identification has not been independently verified, and neither Greece's nor Ukraine's military has officially commented.\n\nInvestigators are working to determine whether the drone ended up in Greek territorial waters due to a technical failure, a loss of communication with its operators, or another cause. One theory under examination is that it may have been deployed against Russia's so-called \"shadow fleet\" — the network of tankers used to transport Russian oil in circumvention of Western sanctions.\n\nThe incident highlights the expanding geographic reach of the naval drone campaign that Ukraine has waged since Russia's full-scale invasion in 2022. Ukrainian sea drones have previously struck Russian vessels in the Black Sea, the Mediterranean, and other distant waters. The presence of such a weapon in Greek territorial waters raises sensitive questions about the spread of the conflict's military hardware into neutral EU member states.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-08T21:08:52.915352-06:00"
+    },
+    {
       "category": "politics",
       "headline": "Judge Rules Trump's DOGE-Led Cancellation of Humanities Grants Unconstitutional",
       "summary": "A federal judge in New York permanently barred the Trump administration from terminating more than $100 million in National Endowment for the Humanities grants, ruling Thursday that the cancellations violated the First and Fifth Amendments. U.S. District Judge Colleen McMahon found that the Department of Government Efficiency had no lawful authority to end the congressionally approved funding, which covered more than 1,400 grants to scholars, writers, research groups and other organizations.\n\nMcMahon wrote that officials engaged in 'a textbook example of unconstitutional viewpoint discrimination' by canceling grants associated with diversity, equity and inclusion, and criticized DOGE's use of artificial intelligence in making the cuts. The ruling sided with plaintiffs including The Authors Guild, the American Historical Association, the Modern Language Association and individual grant recipients who sued DOGE and the NEH.\n\nGovernment lawyers had argued the cuts were legal exercises of executive authority to eliminate DEI-linked programs and reduce discretionary spending. The White House and Justice Department did not immediately comment, and it was unclear whether an appeal was planned.\n\nThe decision is the latest in a series of judicial checks on DOGE-driven spending cuts. Supporters of the ruling called it a vindication of free speech and congressional appropriations authority; the administration has argued across similar cases that the president holds broad discretion to realign federal spending with executive priorities.",
