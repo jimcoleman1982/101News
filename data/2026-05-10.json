@@ -4,6 +4,32 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Israel Deports Two Gaza Flotilla Activists After Week-Long Detention",
+      "summary": "Israel has deported two pro-Palestinian activists — Saif Abu Keshek, a Spanish national of Palestinian origin, and Thiago Ávila, a Brazilian citizen — who were detained after the Global Sumud Flotilla was intercepted in international waters near Crete last week. The flotilla consisted of 22 boats carrying roughly 175 activists attempting to deliver humanitarian aid to Gaza; the other passengers were taken to Crete and freed, but the two men were transferred to Israeli custody in Ashkelon.\n\nIsrael's Foreign Ministry said authorities had completed their investigation and confirmed the deportations, reiterating that 'Israel will not allow any breach of the lawful naval blockade on Gaza.' The legal rights group Adalah, which represented the men, called the detention 'a sham proceeding with no legal basis' and said their transfer to Israeli custody violated international law. Brazil, Spain, and the United Nations had all formally demanded their release.\n\nAdалah alleged the two men were subjected to psychological abuse during their week-long detention, including prolonged interrogations, constant bright lighting, complete isolation, and blindfolded transfers — claims Israel's Foreign Ministry denied. Both men had been on hunger strike since their detention began, with Abu Keshek also refusing water from May 5. Israel said it had suspected Abu Keshek of links to a terrorist organization and Ávila of illegal activity, allegations both denied.\n\nThe flotilla incident adds diplomatic friction to an already volatile situation around Gaza, where a fragile ceasefire remains in place following more than two years of war. The UN has repeatedly warned of a dire humanitarian situation in the territory, and the flotilla organizers said the mission aimed to challenge what they called Israel's illegal blockade.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-05-10T11:08:34.242272-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Supreme Court Voting Rights Ruling Sparks Redistricting Race Across Southern States",
+      "summary": "A recent Supreme Court ruling weakening the Voting Rights Act has triggered a rapid redistricting effort across Southern Republican-controlled states, with Tennessee approving a new congressional map that threatens to unseat the state's lone House Democrat. The court's decision has been characterized by critics, including Rep. Jim Clyburn (D-S.C.), as 'openly partisan,' with Clyburn predicting Chief Justice John Roberts will join the ranks of 'infamous' Supreme Court justices as a result.\n\nRed states are moving quickly to redraw maps in the wake of the ruling, which Democrats say could entrench Republican House majorities heading into the 2026 midterm elections. Kamala Harris characterized the Virginia Supreme Court's related redistricting ruling as part of what she called an effort to 'rig the midterms,' while President Trump praised the same decision as a major win for Republicans defending their House majority.\n\nRepublicans argue the redistricting actions are lawful exercises of state authority now clarified by the court, and that prior Democratic-drawn maps had themselves been partisan gerrymanders. The legal battles are expected to continue, with Virginia Democrats having appealed to the U.S. Supreme Court — a filing that was mocked by Republicans for containing multiple spelling errors, including misspelling the state's name.\n\nThe redistricting wave is unfolding against the backdrop of a competitive midterm environment shaped by the Iran war, high gas prices, and broader economic pressures. Control of the House may hinge on the outcome of these map disputes, making the Supreme Court's ruling one of the more consequential political developments of the current term.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/house/5871633-clyburn-roberts-infamous-supreme-court-justices/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-05-10T11:08:34.242272-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: Iran Threatens Gulf Shipping, Strikes Reported on Commercial Vessel and Drones Intercepted",
       "summary": "Iran's military warned Gulf neighbors on Sunday that complying with U.S. sanctions would result in their ships facing \"severe consequences\" in the Strait of Hormuz, escalating an ongoing naval standoff with the United States. The warning came as a bulk carrier was struck by an unknown projectile roughly 23 nautical miles northeast of Doha, Qatar, causing a small fire but no casualties. Iran's Fars news agency claimed the vessel was U.S.-flagged.\n\nSeparately, Kuwait reported drones had entered its airspace and were neutralized, while the UAE said its air defenses intercepted two drones launched from Iranian territory. The incidents follow a clash Friday in which the U.S. said Iran launched missiles, drones, and small boats against three American warships; Iran countered that U.S. forces had targeted an Iranian oil tanker and conducted aerial strikes on coastal sites.\n\nThe conflict, which began with U.S. and Israeli strikes on February 28, has produced rival blockades, with the U.S. blockading Iranian ports and Iran imposing a transit toll on vessels using the strait — through which roughly a fifth of the world's oil and gas flows. President Trump has maintained a ceasefire reached last month remains in force, while Tehran said it is still considering a White House proposal to end the war.\n\nDefense ministers from more than 40 nations are scheduled to meet Monday, co-chaired by the UK and France, to discuss protecting commercial shipping in the strait. The breadth of new incidents — a struck cargo ship, two drone interceptions, and an Iranian military threat to regional states — marks a concrete escalation since the last coverage of this story.",
       "source": "BBC News",
