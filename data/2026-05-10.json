@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-10",
+  "dateFormatted": "Sunday, May 10, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Starmer Faces Mounting Resignation Calls After Labour's Historic Local Election Collapse",
+      "summary": "British Prime Minister Keir Starmer pledged Saturday to rebuild his government rather than resign, even as Labour suffered its worst local election results in decades. The party lost more than 1,100 council seats across England, ceded control of authorities it had held for decades, and was ousted from power in Wales after 27 years of Labour governance — a sweeping rebuke less than two years after Starmer led the party to a landslide general election victory.\n\nAnti-immigration Reform UK, led by Nigel Farage, gained more than 1,300 seats across England and made significant inroads in Wales and Scotland, cementing its status as a major force in British politics. The results are widely interpreted as a voter verdict on Starmer's leadership, which has seen his approval ratings fall sharply since taking office.\n\nStarmer insisted he would stay and 'show the path forward,' and senior Cabinet colleagues publicly backed him. But a growing number of Labour backbenchers called for him to set a timetable for departure, with legislator Clive Betts telling the BBC 'there has to be a timetable.' At least one MP said she would seek to trigger a leadership contest if the Cabinet had not acted by Monday.\n\nThe new development today is the final tallying of results and the eruption of open internal pressure on Starmer to name a departure date — a materially sharper escalation than the refusal to resign covered previously.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/uk-elections-starmer-labour-what-to-know-eb11ff39b1b74bbaf9f4ef6abfd60f64",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-10T05:08:32.152546-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Hungary's Péter Magyar Sworn In as Prime Minister, Vows to Serve Rather Than Rule",
+      "summary": "Péter Magyar was formally sworn in as Hungary's new prime minister Saturday, completing a historic transfer of power that ended 16 years of Viktor Orbán's rule. Magyar's Tisza party, founded just two years ago, holds 141 of 199 parliamentary seats after its landslide election victory, while Orbán's Fidesz collapsed from 135 seats to 52 and its leadership has refused to take their seats, leaving the party's future uncertain.\n\n'I will not rule over Hungary — I will serve my country,' Magyar said after taking his oath of office. Tens of thousands of Hungarians gathered along the Danube in Budapest for a celebration the new prime minister described as a 'gateway of regime change.' Magyar has promised a 'change of system' alongside a change of government, and an office to recover what his party calls stolen state assets.\n\nThe incoming government faces a serious fiscal crisis, with the budget deficit already near its full-year target after what Magyar's team describes as a politically motivated spending spree by Orbán in the final months of his tenure. New ministers pledged accountability for financial crimes through legal processes rather than political retribution, though they said prosecutors had already begun questioning prominent Fidesz-linked figures.\n\nThe new development today is Magyar's formal swearing-in and his first public remarks as prime minister, a concrete Tier 1 head-of-state event not covered in previous summaries.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-10T05:08:32.152546-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Australia's One Nation Wins First Federal Lower House Seat in Historic By-Election",
+      "summary": "Australia's right-wing populist One Nation party secured its first-ever seat in the federal House of Representatives Saturday, with candidate David Farley winning 57% of the two-candidate preferred vote in the vast New South Wales constituency of Farrer. The seat, which covers more than 127,000 square kilometers and had always been held by the Liberal or National parties, was contested in a by-election triggered by the resignation of Sussan Ley after she was ousted as Liberal Party leader.\n\nThe result will not alter the Labor government's substantial parliamentary majority, but it signals a significant rightward shift in Australian voter sentiment. The win follows One Nation's strong second-place finish in the March South Australian state election, and party leader Pauline Hanson declared Saturday's result 'a win for Australia,' vowing the party was 'coming after those other seats.'\n\nThe by-election also served as the first major post-election test for new Liberal leader Angus Taylor and new National leader Matt Canavan, both of whom took over after the conservative coalition suffered its worst-ever federal election defeat last year. Analysts see the result as part of a broader pattern of voters across Western democracies abandoning mainstream parties for insurgent populist movements.\n\nOne Nation had never previously won a federal lower house race; Hanson originally held her seat in the late 1990s as an independent before losing re-election. Saturday's result marks a durable institutional breakthrough for the party.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy2e4z4npro",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-10T05:08:32.152546-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "Boat Explosion at Miami Tourist Sandbar Injures 11",
+      "summary": "An explosion aboard a boat at Haulover Sandbar, a popular tourist marina in Miami, injured 11 people Saturday, sending emergency crews, the U.S. Coast Guard, and Florida Fish and Wildlife Conservation officers to the scene. Miami-Dade Fire Rescue Battalion Chief Juan Arias confirmed that all 11 were transported to local hospitals with burns and traumatic injuries.\n\nEyewitness Patrick Lee told CBS News he saw 'three people fly out of the boat' and described victims with severe burns. 'It is quick, but it's high octane gasoline, and so a lot of them got burnt,' Lee said. Video from the scene showed a helicopter landing near the marina and emergency teams carrying at least one injured person on a stretcher.\n\nAuthorities have not publicly identified a cause of the explosion. The incident occurred at Haulover Sandbar, a shallow-water marina frequented by boaters and tourists in Miami-Dade County. The investigation is ongoing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c7076k4e31do",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-10T05:08:32.152546-06:00"
+    }
+  ]
+}
