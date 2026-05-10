@@ -4,6 +4,45 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Iran Threatens Gulf Shipping, Strikes Reported on Commercial Vessel and Drones Intercepted",
+      "summary": "Iran's military warned Gulf neighbors on Sunday that complying with U.S. sanctions would result in their ships facing \"severe consequences\" in the Strait of Hormuz, escalating an ongoing naval standoff with the United States. The warning came as a bulk carrier was struck by an unknown projectile roughly 23 nautical miles northeast of Doha, Qatar, causing a small fire but no casualties. Iran's Fars news agency claimed the vessel was U.S.-flagged.\n\nSeparately, Kuwait reported drones had entered its airspace and were neutralized, while the UAE said its air defenses intercepted two drones launched from Iranian territory. The incidents follow a clash Friday in which the U.S. said Iran launched missiles, drones, and small boats against three American warships; Iran countered that U.S. forces had targeted an Iranian oil tanker and conducted aerial strikes on coastal sites.\n\nThe conflict, which began with U.S. and Israeli strikes on February 28, has produced rival blockades, with the U.S. blockading Iranian ports and Iran imposing a transit toll on vessels using the strait — through which roughly a fifth of the world's oil and gas flows. President Trump has maintained a ceasefire reached last month remains in force, while Tehran said it is still considering a White House proposal to end the war.\n\nDefense ministers from more than 40 nations are scheduled to meet Monday, co-chaired by the UK and France, to discuss protecting commercial shipping in the strait. The breadth of new incidents — a struck cargo ship, two drone interceptions, and an Iranian military threat to regional states — marks a concrete escalation since the last coverage of this story.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "7:52 AM MT",
+      "addedAtISO": "2026-05-10T07:52:35.558801-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Putin Claims Ukraine War 'Coming to an End' at Victory Day Parade Stripped of Heavy Weapons",
+      "summary": "Russian President Vladimir Putin told reporters Saturday that he believes the conflict in Ukraine is \"coming to an end,\" speaking after presiding over a scaled-back Victory Day parade on Moscow's Red Square that, for the first time since 2008, featured no tanks, missiles, or heavy military equipment. Officials attributed the absence to the \"current operational situation\" and threat of Ukrainian drone attacks; Putin said the hardware was needed on the battlefield.\n\nThe parade marked the 81st anniversary of Germany's defeat in World War II and featured North Korean troops for the first time, reflecting Pyongyang's military partnership with Moscow after sending soldiers to help repel a Ukrainian incursion into Russia's Kursk region. Mobile internet and text messaging services were restricted across Moscow for the duration of the event. Putin reiterated longstanding claims that Russian forces face \"the entire NATO bloc\" and are fighting a \"just cause.\"\n\nThe event took place under a U.S.-brokered three-day ceasefire that President Trump announced Friday, describing it as potentially the \"beginning of the end\" of the war. Ukrainian President Volodymyr Zelenskyy separately declared Red Square temporarily off-limits to Ukrainian strikes during the festivities, though neither side's broader ceasefire commitments held fully in preceding days, with each blaming the other for continued attacks.\n\nPutin's assertion that the war is nearing its conclusion — made publicly and on the record — represents a notable new claim not previously part of his Victory Day remarks, and comes amid active U.S.-mediated diplomacy. Western governments and Ukraine have consistently disputed Russian characterizations of battlefield progress.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-victory-day-parade-security-moscow-may-9-7cb7b5cbfbaf993dadfe9bafb5cf5262",
+      "sourceCount": 8,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:52 AM MT",
+      "addedAtISO": "2026-05-10T07:52:35.558801-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Violent Crime Drops Sharply Across Major U.S. Cities in Early 2026",
+      "summary": "Data from 67 major law enforcement agencies compiled by the Major Cities Chiefs Association show violent crime fell across every major category in the first quarter of 2026 compared with the same period in 2025, extending a nationwide decline that began after the pandemic-era crime spike. The decreases span every major U.S. region, suggesting a systemic trend rather than a localized anomaly.\n\nThe report covers cities that account for a substantial share of the U.S. urban population, making the breadth of the decline significant for public safety policy. Analysts note the data encompasses drops in categories including homicide, robbery, and aggravated assault, though the full breakdown by crime type was not detailed in early reporting.\n\nThe findings arrive as crime and public safety remain prominent political concerns. Republicans have credited stricter federal enforcement actions and support for law enforcement, while Democrats have pointed to longer-term investments in community programs and the natural recession of pandemic-era social disruptions as driving factors. Both parties have sought to claim credit for the trend ahead of the 2026 midterm elections.\n\nThe decline is notable given that crime levels had been a defining political issue in the 2024 election cycle and remain a top voter concern in surveys. Whether the trend continues through the full year will be closely watched by policymakers and campaigns alike.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/10/violent-crime-us-cities-trump",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:52 AM MT",
+      "addedAtISO": "2026-05-10T07:52:35.558801-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: Starmer Faces Mounting Resignation Calls After Labour's Historic Local Election Collapse",
       "summary": "British Prime Minister Keir Starmer pledged Saturday to rebuild his government rather than resign, even as Labour suffered its worst local election results in decades. The party lost more than 1,100 council seats across England, ceded control of authorities it had held for decades, and was ousted from power in Wales after 27 years of Labour governance — a sweeping rebuke less than two years after Starmer led the party to a landslide general election victory.\n\nAnti-immigration Reform UK, led by Nigel Farage, gained more than 1,300 seats across England and made significant inroads in Wales and Scotland, cementing its status as a major force in British politics. The results are widely interpreted as a voter verdict on Starmer's leadership, which has seen his approval ratings fall sharply since taking office.\n\nStarmer insisted he would stay and 'show the path forward,' and senior Cabinet colleagues publicly backed him. But a growing number of Labour backbenchers called for him to set a timetable for departure, with legislator Clive Betts telling the BBC 'there has to be a timetable.' At least one MP said she would seek to trigger a leadership contest if the Cabinet had not acted by Monday.\n\nThe new development today is the final tallying of results and the eruption of open internal pressure on Starmer to name a departure date — a materially sharper escalation than the refusal to resign covered previously.",
       "source": "Associated Press",
