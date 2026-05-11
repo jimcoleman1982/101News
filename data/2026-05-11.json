@@ -3,6 +3,45 @@
   "dateFormatted": "Monday, May 11, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Israel Approves Eichmann-Style Military Tribunal for Oct. 7 Suspects, Some Facing Execution",
+      "summary": "Israel's parliament has passed a law establishing a special military tribunal to prosecute hundreds of Palestinians accused of participating in the October 7, 2023 attacks that killed approximately 1,200 Israelis and ignited the war in Gaza. The legislation paves the way for military trials outside the normal civilian court system, and some defendants could face the death penalty if convicted.\n\nThe tribunal has been likened to the historic proceedings against Adolf Eichmann, the Nazi official tried and executed in Israel in 1962. Hundreds of Palestinians are currently in Israeli custody in connection with the attacks, and the new legal framework is designed to process cases at a scale the existing court system was not equipped to handle.\n\nSupporters of the legislation argue it provides a necessary legal mechanism to hold perpetrators accountable for one of the deadliest attacks in Israeli history. Critics and human rights organizations have raised concerns about due process protections in military court settings and the application of capital punishment. The move is likely to draw international scrutiny as the Gaza conflict continues into its third year.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-11/israel-will-prosecute-oct-7-suspects-in-eichmann-style-tribunal",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:17 PM MT",
+      "addedAtISO": "2026-05-11T16:17:48.817880-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "EU Sanctions 16 Russian Officials Over Abduction of Tens of Thousands of Ukrainian Children",
+      "summary": "The European Union on Monday imposed sanctions on 16 Russian officials and seven facilities accused of involvement in the systematic deportation and forced transfer of Ukrainian children to Russia or Russian-held territories. The action brings the total number of individuals and entities under EU travel bans and asset freezes related to the abductions to more than 130.\n\nSince Russia's full-scale invasion of Ukraine began in February 2022, approximately 20,500 children have been unlawfully deported or forcibly transferred, according to EU officials. Many are reportedly stripped of their Ukrainian identity, given Russian passports, and placed for adoption or sent to indoctrination camps and military training facilities. Around 2,200 have been returned, though identifying and repatriating them has proven extremely difficult.\n\nThe International Criminal Court has already issued an arrest warrant for Russian President Vladimir Putin in connection with the abductions. Latvia's foreign minister said Monday the abductions bear hallmarks of genocide under international law. The EU was simultaneously hosting, alongside Canada, a 47-nation coalition meeting aimed at increasing diplomatic pressure on Russia and supporting efforts to trace and return the children.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/eu-targets-russians-with-sanctions-over-the-abduction-of-thousands-of-ukrainian-children",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:17 PM MT",
+      "addedAtISO": "2026-05-11T16:17:48.817880-06:00"
+    },
+    {
+      "category": "business",
+      "headline": "Foreign Student Enrollment at U.S. Colleges Drops 20% Amid Visa Clampdown",
+      "summary": "New foreign undergraduate student enrollment at American colleges and universities fell by an average of 20 percent this spring compared to a year earlier, according to a study by a coalition of education groups. The decline represents one of the most significant single-year drops on record and is being attributed directly to the Trump administration's tightened visa policies and its broader standoff with higher education institutions.\n\nForeign students are a critical source of both talent and revenue for U.S. universities, often paying full tuition and filling graduate programs in science, technology, engineering, and mathematics. A sustained decline at this scale would have significant financial implications for institutions already facing funding pressures, as well as long-term consequences for American research and innovation capacity.\n\nThe data underscores the real-world impact of immigration enforcement measures and diplomatic tensions on academic institutions. University administrators have warned that prospective international students are increasingly choosing Canada, the United Kingdom, Australia, and other countries over the United States, and that reputational damage may prove difficult to reverse even if policies shift.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-11/us-colleges-report-20-drop-in-foreign-students-over-visa-clampdown",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:17 PM MT",
+      "addedAtISO": "2026-05-11T16:17:48.817880-06:00"
+    },
+    {
       "category": "business",
       "headline": "Update: JP Morgan Forecasts Oil to Stay Above $100 for Rest of 2026 Even if Hormuz Reopens",
       "summary": "Investment bank JP Morgan warned Monday that global oil prices will remain in the \"low $100s\" for most of 2026 even if the Strait of Hormuz reopens as soon as next month, saying a quick normalization of supply is unlikely. The bank's analysis projects Brent crude will average $97 per barrel for the full year, citing logistical bottlenecks — including tanker availability and refinery ramp-ups — that will persist well after any reopening of the strait. Brent briefly rose above $105 a barrel Monday before settling near that level.\n\nThe forecast came after President Trump publicly rejected Iran's latest peace proposal, posted on social media that the response was \"TOTALLY UNACCEPTABLE,\" and as Israeli Prime Minister Benjamin Netanyahu stated the war would not end until Iran's enriched uranium stockpiles are \"taken out.\" Iran had sent its response via Pakistan, calling for an immediate ceasefire and guarantees against further U.S.-Israeli strikes. The standoff leaves the Strait of Hormuz — through which roughly a fifth of global oil and gas normally flows — effectively closed since late February.\n\nThe prolonged energy disruption is rippling through global markets and corporate earnings. Saudi Aramco reported a 25% jump in first-quarter profits compared to the same period in 2025, citing its overland pipeline as a critical alternative to disrupted shipping routes. BP and other major energy companies have similarly reported surging revenues amid the price spike.\n\nThe sustained high prices are also generating domestic political pressure in the United States, where average gasoline prices hit $4.52 per gallon over the weekend — up from under $3 at the start of the Iran conflict. President Trump this week endorsed a federal gasoline tax holiday, reversing an earlier White House position that such a suspension was not under consideration, though the 18.4-cent-per-gallon federal tax would offset only a fraction of the war-driven increase.",
