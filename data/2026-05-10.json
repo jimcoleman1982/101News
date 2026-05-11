@@ -3,6 +3,58 @@
   "dateFormatted": "Sunday, May 10, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: Trump Calls Iran's Ceasefire Counter-Proposal 'Totally Unacceptable' as Strait of Hormuz Demands Escalate",
+      "summary": "President Trump declared Iran's response to a U.S. peace proposal \"totally unacceptable\" on Sunday, accusing Tehran of \"playing games\" with the United States and the broader international community. Iran's counter-proposal, reported by Iranian state media, included demands for recognition of sovereignty over the Strait of Hormuz, release of frozen Iranian assets, lifting of sanctions, and compensation — but made no mention of the country's nuclear program, a central U.S. concern.\n\nIran's military separately warned that countries enforcing sanctions against Tehran would \"face problems\" when their vessels use the Strait of Hormuz, a waterway through which roughly 20 percent of global oil trade passes. The exchange marks a significant new development in ongoing U.S.-Iran negotiations, with the two sides' positions appearing to harden following weeks of naval clashes in the region.\n\nIsraeli Prime Minister Benjamin Netanyahu added a notable dimension to the diplomatic picture, telling CBS's \"60 Minutes\" that he wants to reduce U.S. military aid to Israel from $3.8 billion per year \"to zero\" over the next decade. Netanyahu also said China had provided \"certain components of missile manufacturing\" to Iran, a claim Beijing has denied, and that U.S. intelligence indicates China is preparing to deliver new air defense systems to Tehran.\n\nThe breakdown in talks represents a concrete new setback to U.S. diplomatic efforts and raises fresh uncertainty about whether a negotiated resolution to the conflict is achievable in the near term. Trump administration officials have not yet indicated whether they plan to resume negotiations or what next steps may follow.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/05/10/world/live-news/iran-war-news",
+      "sourceCount": 23,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-10T21:08:26.832193-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Russia and Ukraine Trade Accusations of Ceasefire Violations as U.S.-Brokered Truce Frays",
+      "summary": "Russia and Ukraine exchanged mutual accusations of ceasefire violations on Sunday, with both sides reporting casualties from drone and artillery strikes over the previous 24 hours. Ukrainian President Volodymyr Zelenskyy said Russia was not observing the truce and was \"not even particularly trying to,\" while pledging that Ukraine would respond to any aggression. Russia's Defense Ministry accused Kyiv of more than 1,000 ceasefire violations, claiming Ukrainian forces had struck civilian targets in several Russian regions.\n\nThe U.S.-brokered ceasefire, announced by President Trump on Friday, was intended to run through Monday to coincide with Russia's Victory Day celebrations marking the 81st anniversary of the Soviet Union's defeat of Nazi Germany. Zelenskyy noted that Ukraine had refrained from long-range retaliatory strikes in response to the absence of large-scale Russian attacks, but warned that a return to full-scale warfare would bring an \"immediate and significant\" Ukrainian response.\n\nCasualties were reported on both sides despite the truce. Ukrainian officials said one person was killed and 19 wounded in Russian attacks across multiple regions, while Russian-installed authorities reported two people injured by Ukrainian shelling in occupied Kherson. The front-line situation reflects a pattern of mutual recrimination that has characterized previous ceasefire attempts in the conflict.\n\nThe fraying of the truce is a material new development in a fast-moving diplomatic situation, raising questions about the viability of U.S.-mediated negotiations and the durability of any future agreement between the two sides.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-ukraine-war-ceasefire-beabe2b017b868e99408e227c403789b",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-10T21:08:26.832193-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Publicly Rebukes Justices Barrett and Gorsuch Over Tariff Ruling",
+      "summary": "President Trump on Sunday publicly criticized two of his own Supreme Court appointees, Justices Amy Coney Barrett and Neil Gorsuch, for their February ruling against his tariff agenda. In a lengthy post, Trump said the justices \"were appointed by me, and yet have hurt our Country so badly,\" adding that he did not believe they intended the harm but that \"their decision on Tariffs cost the\" country significantly.\n\nThe rebuke is notable for its directness: it is rare for a sitting president to publicly attack Supreme Court justices, let alone ones he personally nominated. The underlying ruling struck down Trump's use of the International Emergency Economic Powers Act to impose broad tariffs, a decision that has resulted in the government processing refunds estimated at more than $166 billion paid by roughly 330,000 importers.\n\nSupporters of the ruling, including many business groups and trade economists, have argued the tariffs were an overreach of executive authority and that the court was correct to strike them down. Trump and his allies contend the tariffs were a legitimate and necessary tool of economic statecraft, and that the justices failed to defer appropriately to presidential authority on national security and trade matters.\n\nThe public criticism raises fresh questions about the relationship between the executive branch and the judiciary and follows a pattern in which Trump has used public pressure to signal displeasure with court decisions that run counter to his policy agenda.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5872012-trump-scolds-justices-barrett-gorsuch/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-10T21:08:26.832193-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Remains of U.S. Soldier Recovered in Atlantic After Disappearance During Morocco Military Exercises",
+      "summary": "The remains of 1st Lt. Kendrick Lamont Key Jr., a 27-year-old U.S. Army Air Defense Artillery officer, were recovered along the Moroccan Atlantic coastline on Saturday, the U.S. Army announced Sunday. Key was one of two American soldiers who fell from a cliff during an off-duty recreational hike near the Cap Draa Training Area outside Tan-Tan, Morocco, on May 2, while participating in African Lion 26, the largest annual U.S.-led military exercise in Africa.\n\nA Moroccan military search team found Key's remains in the water approximately one mile from where the two soldiers were last seen entering the ocean, according to a U.S. Army Europe and Africa statement. Search operations are continuing for the second missing soldier. The recovery effort has involved more than 600 personnel from the United States, Morocco, and partner nations, along with frigates, vessels, helicopters, and drones.\n\nKey had entered military service in 2023, earned his commission through Officer Candidate School in 2024, and was assigned to the 10th Army Air and Missile Defense Command. African Lion 26 involved more than 7,000 personnel from over 30 nations across Morocco, Tunisia, Ghana, and Senegal.\n\nThe death is the first confirmed fatality from the incident and brings to a close one phase of what had been an active search-and-rescue operation. The fate of the second soldier remains unknown as the search continues.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/remains-recovered-of-u-s-soldier-who-went-missing-during-military-exercises-in-morocco",
+      "sourceCount": 6,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-10T21:08:26.832193-06:00"
+    },
+    {
       "category": "politics",
       "headline": "Biden Moves to Block DOJ Release of Ghostwriter Tapes from Classified Documents Probe",
       "summary": "Former President Joe Biden is preparing to ask a federal court to prevent the Trump administration's Justice Department from releasing audio recordings and transcripts of his conversations with ghostwriter Mark Zwonitzer. The tapes were central to Special Counsel Robert Hur's investigation into Biden's handling of classified documents.\n\nThe recordings are significant because Hur's 2024 report concluded that Biden had read classified notebook passages aloud to Zwonitzer and that Biden's memory lapses would have made it difficult to prove he acted willfully — conclusions that politically damaged Biden during his final year in office. Biden's legal team is expected to argue executive or personal privilege protections against the release of even redacted versions of the material.\n\nThe move sets up a legal confrontation between a former president and the current administration over sensitive investigative materials. Critics of the release argue it amounts to continued political targeting of Biden; supporters of disclosure contend the public has a legitimate interest in understanding the full scope of the classified documents case.",
