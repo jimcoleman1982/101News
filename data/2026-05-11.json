@@ -3,6 +3,58 @@
   "dateFormatted": "Monday, May 11, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Hegseth Accuses Sen. Mark Kelly of Disclosing Classified Information on Weapons Stockpiles",
+      "summary": "Defense Secretary Pete Hegseth on Sunday accused Sen. Mark Kelly (D-Ariz.) of divulging classified information during an appearance on CBS's \"Face the Nation,\" and said he has referred the matter to Pentagon lawyers. Kelly discussed American inventories of Tomahawk cruise missiles and Army Tactical Missiles during the interview, which Hegseth characterized as a violation of Kelly's oath of office.\n\nKelly, a former astronaut and Navy combat pilot, pushed back sharply, saying the information he cited was not classified — and that he had heard it directly from Hegseth himself, spoken publicly and under oath during congressional testimony. The dispute highlights ongoing tensions between the Pentagon and congressional Democrats over military readiness and weapons stockpile levels.\n\nThe clash underscores a broader political fight over transparency in defense matters. Republicans have rallied behind Hegseth's position, arguing that lawmakers cannot selectively discuss sensitive national security information in televised interviews. Democrats contend that congressional oversight requires members to be able to raise concerns about military preparedness, and that the referral is an attempt to silence criticism rather than protect classified material.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/5872193-defense-secretary-kelly-classified-info/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:35 AM MT",
+      "addedAtISO": "2026-05-11T10:35:54.395070-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Dozens of Nigerian Fishermen Feared Dead After Chad Air Strikes on Boko Haram",
+      "summary": "Dozens of Nigerian fishermen are feared dead following Chadian military air strikes targeting Boko Haram militants in the Lake Chad basin, a regional fishing association leader told the BBC on Monday. Abubakar Gamandi Usman, chairman of the Lake Chad Basin Fisheries Association of Nigeria, said more than 40 members of his union are believed to have been killed, with some struck directly by the strikes and others drowned while fleeing in overloaded boats. No bodies have yet been recovered.\n\nChad's presidency confirmed on Sunday that it had launched \"intensive air strikes\" against Boko Haram strongholds in retaliation for attacks the previous week that killed at least 24 Chadian soldiers and two generals near Lake Chad. Authorities in both Chad and Nigeria have not commented specifically on civilian casualties from the operation.\n\nThe Lake Chad region — shared by Nigeria, Chad, Niger, and Cameroon — has long been a stronghold for Boko Haram and its rival faction, Islamic State West Africa Province. Chadian military operations in the area have previously been linked to civilian deaths, including a similar strike in October 2024 that killed dozens of Nigerian fishermen on Tilma Island. Boko Haram exerts significant control over the fishing economy in the region, taxing fishermen and controlling their access to fishing grounds.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:35 AM MT",
+      "addedAtISO": "2026-05-11T10:35:54.395070-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "South Africa's Ramaphosa to Address Nation as Parliament Prepares Impeachment Inquiry Report",
+      "summary": "South African President Cyril Ramaphosa will address the nation on Monday following a Constitutional Court judgment in a case brought by the Economic Freedom Fighters that revives a parliamentary impeachment probe into his conduct. A report forming the basis of the inquiry is set to be submitted to parliament on Tuesday, reactivating a scandal that nearly forced Ramaphosa to resign four years ago.\n\nThe case centers on the so-called Phala Phala scandal, in which a large sum of foreign currency — reportedly millions of dollars in cash — was found hidden in furniture on Ramaphosa's private game farm. Critics alleged the incident involved money laundering and a cover-up; Ramaphosa has denied wrongdoing, attributing the cash to proceeds from a legitimate buffalo sale.\n\nThe revival of the probe represents a significant political threat to Ramaphosa, who leads the African National Congress and has positioned himself as an anti-corruption reformer. The EFF's legal challenge forced the Constitutional Court to weigh in on whether parliament had properly handled the initial inquiry, and Monday's national address is expected to be a critical moment in determining his political future.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-11/s-african-parliament-to-submit-report-reviving-ramaphosa-probe",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:35 AM MT",
+      "addedAtISO": "2026-05-11T10:35:54.395070-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Nazi-Looted Portrait Found in Home of Dutch SS Collaborator's Descendants",
+      "summary": "A painting stolen from Jewish art dealer Jacques Goudstikker during the Nazi occupation of the Netherlands has been found in the home of descendants of Hendrik Seyffardt, a Dutch general who commanded a Waffen-SS volunteer unit on the Eastern Front before being assassinated by resistance fighters in 1943. Art detective Arthur Brand announced the discovery of \"Portrait of a Young Girl\" by Dutch painter Toon Kelder, which is believed to have hung in the Seyffardt family home for decades.\n\nThe case was brought to Brand's attention by a descendant of Seyffardt who said he was \"disgusted\" to learn his family had kept the artwork. The family, which changed its name after the war, admitted to possessing the painting but denied knowing its true origin. The descendant's grandmother reportedly told him it was \"Jewish looted art, stolen from Goudstikker\" and instructed the family to say nothing about it.\n\nGoudstikker was one of Europe's most prominent art dealers before fleeing the Nazi invasion in 1940; he died during the escape, leaving behind more than 1,000 paintings that were subsequently auctioned off under Nazi control. Brand identified the painting through archival records of a 1940 auction and a catalogue number etched into the frame. The Goudstikker heirs' lawyers have been notified, and the descendant has said publicly that the painting should be returned.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "10:35 AM MT",
+      "addedAtISO": "2026-05-11T10:35:54.395070-06:00"
+    },
+    {
       "category": "world",
       "headline": "Suspect in WHCA Dinner Attack Pleads Not Guilty to Attempting to Assassinate Trump",
       "summary": "Cole Allen, 31, pleaded not guilty Monday in federal court to four charges stemming from an alleged assassination attempt against President Donald Trump at a Washington hotel gala last month during the White House Correspondents' Association dinner. Allen appeared in shackles and was represented by public defender Tezira Abe, who spoke on his behalf during the hearing.\n\nAllen faces charges including attempted assassination of the president, assault on law enforcement, transporting a firearm across state lines to commit a felony, and discharging a weapon during a crime of violence. The April incident drew intense scrutiny over security protocols at high-profile events attended by the president.\n\nThe not-guilty plea sets the stage for a formal trial process. The case represents one of the most serious threats against a sitting U.S. president in recent years and is being prosecuted at the federal level.",
