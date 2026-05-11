@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Suspect in WHCA Dinner Attack Pleads Not Guilty to Attempting to Assassinate Trump",
+      "summary": "Cole Allen, 31, pleaded not guilty Monday in federal court to four charges stemming from an alleged assassination attempt against President Donald Trump at a Washington hotel gala last month during the White House Correspondents' Association dinner. Allen appeared in shackles and was represented by public defender Tezira Abe, who spoke on his behalf during the hearing.\n\nAllen faces charges including attempted assassination of the president, assault on law enforcement, transporting a firearm across state lines to commit a felony, and discharging a weapon during a crime of violence. The April incident drew intense scrutiny over security protocols at high-profile events attended by the president.\n\nThe not-guilty plea sets the stage for a formal trial process. The case represents one of the most serious threats against a sitting U.S. president in recent years and is being prosecuted at the federal level.",
+      "source": "The Hill",
+      "url": "https://thehill.com/regulation/court-battles/5872247-trump-assassination-attempt-plea/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:51 AM MT",
+      "addedAtISO": "2026-05-11T07:51:13.495970-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Iranian Nobel Laureate Narges Mohammadi Granted Bail, Transferred to Tehran Hospital",
+      "summary": "Iranian authorities granted Nobel Peace Prize laureate Narges Mohammadi a sentence suspension on heavy bail Sunday and transferred her from Zanjan Prison to Tehran Pars Hospital, where she is being treated by her own medical team. Her family and supporters had warned in recent days that the 54-year-old activist could die in custody after she suffered two suspected heart attacks earlier this year.\n\nMohammadi's brother, Hamidreza, told the BBC the bail provided \"temporary relief from the certain death that Narges faced in the prison,\" while cautioning that the extent of permanent damage to her health remained unclear. Her Paris-based husband, Taghi Rahmani, said her \"life hangs in the balance\" and called a temporary transfer insufficient, demanding she never be returned to the conditions that broke her health. Her lawyer posted a photo of Mohammadi sitting up in a hospital bed, describing her as barely recognizable after losing approximately 20 kilograms.\n\nMohammadi was awarded the 2023 Nobel Peace Prize for her activism against female oppression in Iran and her promotion of human rights. She has spent more than a decade in prison over her career and is currently serving a 13-year sentence on charges of propaganda against the state and collusion against state security, charges she has denied. She was most recently arrested in December 2024 after making what Iranian authorities described as \"provocative remarks\" at a memorial ceremony.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:51 AM MT",
+      "addedAtISO": "2026-05-11T07:51:13.495970-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Bosnia's International Peace Envoy Christian Schmidt Resigns, Raising Fears for Country's Stability",
+      "summary": "Christian Schmidt, who has served as Bosnia and Herzegovina's international high representative since 2021, confirmed Monday he is stepping down from the post, which was established under the 1995 Dayton Peace Agreement to oversee implementation of the peace deal that ended the country's devastating ethnic conflict. Schmidt's office said he \"has taken the personal decision to conclude his service,\" but the departure comes amid a loss of U.S. support, likely linked to his opposition to a gas pipeline deal involving a company with reported ties to the Trump family.\n\nSchmidt had been an active holder of the office, repeatedly using his broad \"Bonn Powers\" to block separatist legislation promoted by Bosnian-Serb leader Milorad Dodik. Dodik, who has long sought the closure of the High Representative's office, had earlier been sentenced to a year in prison and banned from public office for six years for defying Schmidt's rulings. The Trump administration subsequently lifted long-standing U.S. sanctions on Dodik, eroding Schmidt's standing.\n\nThe departure raises fundamental questions about the future of the Office of the High Representative itself. Russia has never recognized Schmidt's appointment and, along with Dodik, has called for the office to be abolished. If the United States takes a similar position, Bosnia could lose the only internationally mandated figure empowered to counter ethno-nationalist separatism, a prospect that alarms Western diplomats who see the Dayton framework as the country's key guardrail against renewed conflict.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg5pvj5pg51o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:51 AM MT",
+      "addedAtISO": "2026-05-11T07:51:13.495970-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Sri Lanka's Most Senior Buddhist Monk Arrested Over Alleged Rape of 15-Year-Old Girl",
+      "summary": "Venerable Pallegama Hemarathana Thero, one of Sri Lanka's highest-ranking Buddhist monks and the chief prelate of eight sacred Buddhist sites in the country, was arrested Saturday and remanded to custody over the alleged rape and sexual assault of a 15-year-old girl. The arrest came after Sri Lanka's child protection authority publicly criticized police for failing to detain him despite his being named as a suspect. He is scheduled to appear in court on May 12.\n\nThe monk was receiving treatment at a private hospital in Colombo when he was arrested. A magistrate ordered him transferred to the Colombo prison hospital and issued an immigration hold to prevent him from leaving the country. The alleged victim's mother was also arrested and charged with aiding and abetting the abuse.\n\nThe case is highly unusual in Sri Lanka, where Buddhist monks hold significant political power and are deeply venerated by society. Pallegama Hemarathana has not publicly commented on the charges. The arrest has drawn widespread attention to questions of accountability for religious figures in the country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:51 AM MT",
+      "addedAtISO": "2026-05-11T07:51:13.495970-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Philippine Vice President Sara Duterte Impeached for Second Time",
       "summary": "The Philippine House of Representatives voted Monday to impeach Vice President Sara Duterte for the second time, with 255 of 290 lawmakers in attendance supporting the measure — far exceeding the one-third threshold required. The case now moves to the Senate for trial, where a conviction would disqualify Duterte from holding public office, effectively ending her bid for the presidency in 2028.\n\nThe charges stem from alleged misuse of public funds and death threats Duterte reportedly made against President Ferdinand Marcos Jr., his wife, and his cousin, then-House Speaker Martin Romualdez. Duterte and Marcos were once allies who won the 2022 election by a landslide, but their partnership collapsed as they pursued conflicting political agendas. The first impeachment attempt in 2025 was blocked by the Supreme Court on a technicality before a Senate trial could begin.\n\nDuterte's legal team dismissed the charges as 'nothing more than a scrap of paper' and called the proceedings politically motivated. She refused to appear at committee hearings and did not publicly address the allegations. The scale of Monday's House vote is widely seen as a measure of Marcos' consolidated power in the lower chamber.\n\nConviction in the Senate remains uncertain. Unlike House members, who are elected by district and tend to align with the sitting president, senators are elected nationally and are considered more independent. Candidates allied with Duterte outperformed Marcos-backed rivals in last year's midterm elections, and Duterte currently leads presidential preference surveys by 17 points over her nearest rival.",
       "source": "BBC News",
