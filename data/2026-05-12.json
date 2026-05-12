@@ -3,6 +3,45 @@
   "dateFormatted": "Tuesday, May 12, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "U.S. Inflation Accelerates to 3.8% in April, Driven by Energy Costs From Iran War",
+      "summary": "The Consumer Price Index rose 3.8% annually in April, exceeding the Dow Jones consensus forecast of 3.7% and marking the highest inflation reading since May 2023. Higher energy costs — stemming from the effective closure of the Strait of Hormuz amid the ongoing U.S.-Iran conflict — have replaced tariffs as the primary driver of price increases for American consumers.\n\nThe surge in energy and petrochemical prices reflects the severe disruption to global supply chains caused by the military confrontation with Iran. Analysts warn that sustained closure of the Hormuz strait could keep upward pressure on prices well into the summer, complicating the Federal Reserve's policy calculus.\n\nThe inflation data lands as President Trump is in Beijing for a summit with Chinese President Xi Jinping, where trade, tariffs, and the Iran war are all on the agenda. Trump has publicly dismissed Iranian counter-proposals to end the conflict as unacceptable, and U.S. officials say the military option remains under active consideration.\n\nThe report will intensify the political debate over the economic costs of the Iran war. Critics argue the administration has underestimated the inflationary fallout of prolonged military action in the Gulf, while supporters contend that a decisive resolution to Iran's nuclear program is worth the short-term economic pain.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html",
+      "sourceCount": 15,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:22 PM MT",
+      "addedAtISO": "2026-05-12T16:22:08.048369-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Hamas 'Weaponised' Sexual Violence on Oct. 7, Comprehensive Israeli Investigation Concludes",
+      "summary": "A 300-page independent Israeli investigation has concluded that Hamas and other Palestinian armed groups engaged in \"systematic, widespread\" sexual violence during the October 7, 2023, attacks, with rapes, sexual assault, and sexual torture deployed intentionally \"to maximize pain and suffering.\" The report is the most comprehensive investigation to date, drawing on 430 filmed survivor and witness interviews, more than 10,000 photographs and videos filmed by attackers, and official forensic records.\n\nThe Civil Commission found recurring accounts of violent gang rape at the Nova music festival, genital mutilation of victims, and sexual violence against hostages held in Gaza over prolonged periods — affecting both men and women. Among the most harrowing findings, the report describes two young relatives being forced by captors to perform sex acts on each other, which investigators said reflected a deliberate pattern of exploiting family bonds as instruments of terror.\n\nThe report concludes the crimes \"constitute war crimes, crimes against humanity, and genocidal acts under international law.\" Evidence has been preserved in a secure archive to support future prosecutions. Hamas has repeatedly denied that any sexual violence occurred during the attacks or against hostages.\n\nWhile prior UN reports had found \"reasonable grounds to believe\" sexual violence had occurred, this investigation represents a significant escalation in the formal documentation of alleged atrocities. The findings are likely to intensify international legal proceedings and renewed calls for accountability, even as the broader Gaza conflict continues.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgz9k7pzggo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:22 PM MT",
+      "addedAtISO": "2026-05-12T16:22:08.048369-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Macron Announces $27 Billion African Investment Package at Nairobi Summit in Pivot Away From Colonial-Era Ties",
+      "summary": "French President Emmanuel Macron co-hosted the Africa Forward Summit in Nairobi, Kenya on Tuesday alongside Kenyan President William Ruto, announcing $27 billion in French investment across energy transition, digital infrastructure, AI, the maritime economy, and agriculture. The summit is the first of its kind held in an English-speaking African country, a deliberate symbolic departure from France's traditional practice of convening such meetings in Paris or Francophone Africa.\n\nMacron repeatedly invoked the language of \"co-investment\" and \"equal footing partnerships,\" and invited African business leaders to invest in France in return. The investment package is projected to create approximately 250,000 jobs across both Africa and France.\n\nThe summit comes against a backdrop of sharply rising anti-French sentiment across West Africa, where several former French colonies have expelled French troops and sought ties with Russia and China in recent years. French influence on the continent has been in accelerating decline, and analysts say the choice of Kenya signals Paris is attempting a structural reset — broadening engagement beyond its historically Francophone sphere.\n\nKenya's Foreign Minister Musalia Mudavadi framed the summit as a chance to dismantle \"artificial\" linguistic barriers and build deeper pan-African integration. Senegal-based analyst Gilles Yabi told the BBC that a new generation of Africans is demanding a definitive break from colonial and post-colonial influence, putting pressure on Macron to demonstrate that the rhetorical shift translates into substantive policy change.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpqpernnx8xo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:22 PM MT",
+      "addedAtISO": "2026-05-12T16:22:08.048369-06:00"
+    },
+    {
       "category": "politics",
       "headline": "Update: FDA Commissioner Marty Makary Resigns Amid Trump Dissatisfaction",
       "summary": "Food and Drug Administration Commissioner Marty Makary announced his resignation Tuesday after 13 months in the role, becoming the fourth high-profile Trump administration departure this year. Deputy Commissioner for Food Kyle Diamantas will serve as acting commissioner. President Trump, when asked about Makary, said: 'He's a great doctor and he was having some difficulty, but he's going to go on and he's going to do well.'\n\nMakary's tenure was marked by significant turbulence, including mass layoffs, leadership upheaval, and a series of controversies in which the agency's scientific principles were perceived by critics as being overridden by political interests. The FDA operates under the broader health policy direction of Secretary Robert F. Kennedy Jr., whose aggressive reform agenda generated repeated friction with career staff and outside stakeholders.\n\nThe FDA regulates approximately one-fifth of the U.S. economy, meaning leadership instability at the agency carries wide-ranging consequences for drug approvals, food safety, and the pharmaceutical and medical device industries. Supporters of the administration had argued Makary was pursuing necessary reforms to an entrenched bureaucracy; critics contended the turmoil undermined the agency's credibility and scientific independence.\n\nThe resignation was first reported by Politico Pro and quickly confirmed by multiple outlets. No timeline has been given for naming a permanent replacement.",
