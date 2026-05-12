@@ -3,6 +3,58 @@
   "dateFormatted": "Tuesday, May 12, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: FDA Commissioner Marty Makary Resigns Amid Trump Dissatisfaction",
+      "summary": "Food and Drug Administration Commissioner Marty Makary announced his resignation Tuesday after 13 months in the role, becoming the fourth high-profile Trump administration departure this year. Deputy Commissioner for Food Kyle Diamantas will serve as acting commissioner. President Trump, when asked about Makary, said: 'He's a great doctor and he was having some difficulty, but he's going to go on and he's going to do well.'\n\nMakary's tenure was marked by significant turbulence, including mass layoffs, leadership upheaval, and a series of controversies in which the agency's scientific principles were perceived by critics as being overridden by political interests. The FDA operates under the broader health policy direction of Secretary Robert F. Kennedy Jr., whose aggressive reform agenda generated repeated friction with career staff and outside stakeholders.\n\nThe FDA regulates approximately one-fifth of the U.S. economy, meaning leadership instability at the agency carries wide-ranging consequences for drug approvals, food safety, and the pharmaceutical and medical device industries. Supporters of the administration had argued Makary was pursuing necessary reforms to an entrenched bureaucracy; critics contended the turmoil undermined the agency's credibility and scientific independence.\n\nThe resignation was first reported by Politico Pro and quickly confirmed by multiple outlets. No timeline has been given for naming a permanent replacement.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/12/makary-out-fda-chief-turmoil",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:07 PM MT",
+      "addedAtISO": "2026-05-12T13:07:39.084280-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "CBO Estimates Trump's 'Golden Dome' Missile Defense System Would Cost $1.2 Trillion",
+      "summary": "A new analysis from the nonpartisan Congressional Budget Office estimates that President Trump's proposed 'Golden Dome' space-based missile defense system would cost approximately $1.2 trillion over 20 years — nearly seven times the $175 billion price tag Trump cited when announcing the program last year. The CBO cautioned its analysis reflects 'one illustrative approach rather than an estimate of a specific Administration proposal,' citing a lack of detailed specifications from the Defense Department.\n\nTrump ordered the Golden Dome program by executive order during his first week in office and pledged it would be 'fully operational' before his term ends in January 2029. The system is envisioned to include ground- and space-based capabilities to detect, intercept, and destroy incoming missiles at all stages of flight, partly modeled on Israel's layered air defense architecture. Congress has already appropriated roughly $24 billion for the initiative.\n\nSen. Jeff Merkley (D-OR), who requested the CBO estimate, said the program was 'nothing more than a massive giveaway to defense contractors paid for entirely by working Americans.' Supporters of the program argue the escalating threat from peer adversaries — including advanced hypersonic and intercontinental ballistic missiles developed by China and Russia — justifies the investment regardless of cost.\n\nThe CBO's previous estimate had already placed the space-based components alone at up to $542 billion over 20 years, suggesting the full-system figure has been widely understood in budget circles to far exceed the White House's initial public estimate.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/trumps-golden-dome-estimated-to-cost-1-2-trillion-far-more-than-initially-said",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:07 PM MT",
+      "addedAtISO": "2026-05-12T13:07:39.084280-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Zelensky's Former Chief of Staff Appears in Court as Ukraine Corruption Probe Escalates",
+      "summary": "Andriy Yermak, until recently President Volodymyr Zelensky's closest adviser and chief of staff, appeared in a Kyiv court Tuesday after Ukraine's two anti-corruption agencies named him a suspect in a money-laundering scheme tied to a $10.5 million luxury construction project outside the capital. Prosecutors asked the court to either detain Yermak or set bail of approximately $4 million. Yermak told reporters he owns only 'one flat and one car' and denied wrongdoing; his lawyer called the allegations 'baseless.'\n\nThe case is part of the broader 'Operation Midas,' a sweeping anti-corruption investigation into an alleged $100 million embezzlement scheme in Ukraine's nuclear energy sector. Former Deputy Prime Minister Oleksiy Chernyshov has been charged with abuse of office, ex-Energy Minister Herman Haluschenko was detained attempting to leave the country, and businessman Timur Mindich — once part of Zelensky's inner circle — reportedly fled to Israel. Anti-corruption officials stressed Zelensky himself is not a subject of the investigation.\n\nYermak led Ukraine's negotiations with the United States throughout Russia's full-scale invasion and was considered the second-most powerful figure in the Ukrainian government until his resignation last November following a raid on his apartment. The corruption allegations have complicated Ukraine's EU accession bid; last year Zelensky was forced to rescind a law seen as weakening the independence of the anti-corruption agencies after protests and EU pressure.\n\nThe case carries significant geopolitical weight at a moment when Ukraine is heavily dependent on Western financial and military support. Continued high-profile corruption findings could complicate ongoing aid discussions and reinforce concerns among some Western lawmakers about accountability for funds sent to Kyiv.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g48kj40lwo",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:07 PM MT",
+      "addedAtISO": "2026-05-12T13:07:39.084280-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Putin Announces Deployment of Nuclear-Capable Sarmat ICBM by Year's End",
+      "summary": "Russian President Vladimir Putin declared Tuesday that Russia will deploy its Sarmat intercontinental ballistic missile — capable of carrying multiple nuclear warheads — by the end of 2026, following what Moscow described as a successful test of the weapon. The announcement came as Russia and Ukraine resumed strikes against one another following the expiration of a short-term ceasefire, and months after the last remaining U.S.-Russia nuclear arms control treaty, New START, expired without renewal.\n\nThe Sarmat, known in NATO parlance as the SS-X-30 'Satan II,' is designed to evade missile defense systems and can reportedly carry up to 15 independently targeted nuclear warheads. Russia had announced the missile's development years ago but its operational deployment has faced repeated delays. Putin's statement signals Moscow's intent to modernize its nuclear arsenal even as diplomatic channels with Washington remain strained.\n\nThe timing of the announcement — coinciding with the breakdown of the U.S.-brokered ceasefire in Ukraine — was widely seen as a deliberate strategic signal. No immediate response from the White House or NATO was issued Tuesday. Arms control analysts have warned that the expiration of New START has left no formal verification mechanism in place for either side to monitor the other's strategic nuclear forces.\n\nThe Sarmat deployment pledge adds a new dimension to already elevated nuclear tensions between Moscow and Western capitals. It comes as President Trump is simultaneously engaged in high-stakes diplomatic summitry with China in Beijing, where nuclear and strategic stability issues are also on the agenda.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/russia-to-deploy-sarmat-missile-after-test-success-putin-says",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:07 PM MT",
+      "addedAtISO": "2026-05-12T13:07:39.084280-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: Trump-Xi Beijing Summit Opens as U.S. Presses China on Iran, Trade, and Fertilizer Hoarding",
       "summary": "U.S. President Donald Trump arrived in Beijing for a high-stakes summit with Chinese President Xi Jinping, with preparations including heightened security around Tiananmen Square and an itinerary featuring formal talks, a state banquet, and a visit to the Temple of Heaven. The summit is being described by analysts as one of the most consequential U.S.-China encounters in years, with the future of global trade, Taiwan tensions, and competition in advanced technology all on the agenda.\n\nA central focus is the ongoing U.S.-Israel war with Iran and the closure of the Strait of Hormuz, which has severely disrupted global oil and fertilizer shipments. China has been quietly positioning itself as a mediator alongside Pakistan, presenting a five-point ceasefire plan and nudging Iranian officials toward negotiations. U.S. Secretary of State Marco Rubio said publicly he hoped China would tell Iran's foreign minister, who visited Beijing last week, that blocking the Strait was causing global isolation.\n\nSeparately, former World Bank President David Malpass called on China to stop hoarding food and fertilizer stockpiles, warning that global supply disruptions are costing billions of meals per week and hitting the poorest countries hardest. China halted fertilizer exports in March, citing domestic needs; a Chinese embassy spokesperson rejected the criticism, saying the root causes of supply disruptions could not be shifted onto Beijing.\n\nThe summit carries enormous economic weight for both sides. China's economy is under strain from slower growth, higher unemployment, and rising petrochemical costs tied to the Iran conflict, giving Xi incentive to help broker a resolution — but also leverage to extract concessions from Washington. Analysts say the outcomes of this meeting could shape U.S.-China relations and global stability for years.",
