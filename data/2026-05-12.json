@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-12",
+  "dateFormatted": "Tuesday, May 12, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Israel Passes Death Penalty Law for Oct. 7 Attackers as Iran Rejects U.S. Ceasefire Terms",
+      "summary": "Israel's parliament passed legislation Monday permitting the death penalty and public military tribunals for those involved in the October 7, 2023 Hamas-led attacks. The move, long debated within Israeli society, marks a significant escalation in how the country intends to prosecute suspects linked to the assault that killed approximately 1,200 people and took roughly 250 hostage.\n\nOn the diplomatic front, President Trump publicly rejected Iran's counteroffer to end the Gulf war, calling the month-long ceasefire 'unbelievably weak' and describing it as on 'massive life support.' Iran's conditions reportedly include lifting of the U.S. naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz, and compensation for war damage — terms the Trump administration has dismissed as non-starters.\n\nThe rejection deepens uncertainty over the fragile ceasefire. With the Strait of Hormuz dispute unresolved, global fertilizer and food supply chains remain under severe strain, and J.P. Morgan has forecast oil prices above $100 for the rest of 2026. Meanwhile, Iran-backed Hezbollah and Israel continued to exchange fire in Lebanon despite a separate U.S.-brokered ceasefire announced last month.\n\nSupporters of the Israeli death penalty law argue it delivers proportionate justice for unprecedented atrocities; critics, including some Israeli legal experts and human rights groups, warn it risks undermining rule-of-law norms and could complicate hostage negotiations. The dual crises — Israel's domestic legal moves and the stalled Iran talks — leave the broader Middle East situation deeply volatile.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "sourceCount": 11,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-12T05:08:35.703831-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: French Hantavirus Patient Critical After Misdiagnosis; Dutch Hospital Workers Quarantined",
+      "summary": "A French woman who disembarked from the hantavirus-stricken cruise ship MV Hondius is in critical condition in Paris after doctors initially dismissed her symptoms as anxiety or stress rather than viral infection. Spanish Health Minister Javier Padilla Bernáldez confirmed her flu-like symptoms had appeared to resolve before her condition deteriorated rapidly following her departure from the Canary Islands on Sunday. She was evacuated by air to a Paris hospital, where she is being treated by a specialized infectious disease unit.\n\nSeparately, 12 hospital workers at Radboudumc hospital in Nijmegen, Netherlands, were placed in a six-week precautionary quarantine after handling blood and urine samples from a hantavirus patient without adhering to strict PPE protocols. The development raises concerns about secondary exposure risks in healthcare settings.\n\nWHO Director-General Tedros Adhanom Ghebreyesus said Tuesday there is 'no sign' of a larger outbreak beginning, but cautioned that the virus's long incubation period means additional cases could still emerge in coming weeks. Seven cases have been confirmed overall, with three deaths. The MV Hondius, now evacuated of all passengers, is sailing to Rotterdam for sanitation.\n\nEighteen Americans previously repatriated remain under quarantine in the United States, with one passenger who tested weakly positive held in a Nebraska biocontainment unit. The Andes strain of hantavirus involved is notable for its capacity for human-to-human transmission, distinguishing it from most other hantavirus varieties.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/05/12/world-news/hantavirus-patient-in-critical-condition-after-doctors-dismissed-symptoms-as-anxiety/",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-12T05:08:35.703831-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "California Mayor Resigns, Agrees to Plead Guilty to Acting as Covert Chinese Foreign Agent",
+      "summary": "Eileen Wang, 58, the mayor of Arcadia, California, resigned abruptly Monday after the U.S. Department of Justice announced she had been charged with acting as an illegal covert foreign agent of China. Wang agreed to plead guilty to the felony count and faces up to 10 years in prison. Prosecutors allege she promoted pro-China propaganda and advanced the interests of Chinese officials while holding elected office.\n\nArcadia is a wealthy suburb of Los Angeles with a large Chinese-American population and has long been a focus of federal investigators examining Chinese political influence operations in Southern California. The case is part of a broader DOJ effort to identify and prosecute individuals operating on behalf of foreign governments without proper registration under the Foreign Agents Registration Act.\n\nThe case highlights ongoing U.S. government concerns about Chinese government efforts to cultivate influence through local and state-level political figures, a strategy analysts say is difficult to detect and prosecute. The guilty plea, once formally entered, would make Wang one of the most senior elected U.S. officials to be convicted of acting as a foreign agent.\n\nChina's embassy in Washington did not immediately issue a public comment on the charges. The DOJ announcement comes amid already heightened U.S.-China tensions, with President Trump currently in Beijing for a summit with President Xi Jinping.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/5873215-eileen-wang-pleads-guilty-china/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-12T05:08:35.703831-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Canvas Maker Pays Ransom to Hackers Who Stole Data from 9,000 Universities",
+      "summary": "Instructure, the company behind the widely used Canvas learning management system, has paid a ransom to the criminal hacking group Shiny Hunters after the group stole 3.5 terabytes of student and institutional data in a cyberattack that disrupted approximately 9,000 colleges and universities across the United States, Canada, Australia, and the United Kingdom. The breach, discovered April 29, knocked Canvas offline for a period and disrupted online exams for tens of thousands of students.\n\nInstructure confirmed it reached an 'agreement' with the hackers, who have stated they deleted the stolen data and will not extort students or institutions individually. The company framed the payment as a protective measure for students' data, though it did not disclose the financial terms. Cybersecurity experts and law enforcement agencies worldwide generally advise against paying ransoms, noting that criminals frequently keep stolen data for resale even after accepting payment — a pattern documented in the dismantling of the LockBit ransomware group.\n\nThe Shiny Hunters group, described as prolific in extortion operations, claimed the attack publicly online. Students sitting exams in the U.S. were among those most acutely affected; one meteorology student at Mississippi State University described a ransom message appearing mid-exam on their screen. The scale of the disruption — affecting nearly every major English-speaking country's higher education sector simultaneously — underscores the systemic vulnerability of centralized educational technology platforms.\n\nInstructure said its priority was protecting students and education staff and noted it had maintained transparency with regular public updates throughout the incident, an unusual stance for a ransomware victim. The FBI and other law enforcement agencies were not named as having been consulted in Instructure's decision to pay.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdepzg83x87o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-12T05:08:35.703831-06:00"
+    }
+  ]
+}
