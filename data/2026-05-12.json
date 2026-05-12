@@ -4,6 +4,45 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Trump-Xi Beijing Summit Opens as U.S. Presses China on Iran, Trade, and Fertilizer Hoarding",
+      "summary": "U.S. President Donald Trump arrived in Beijing for a high-stakes summit with Chinese President Xi Jinping, with preparations including heightened security around Tiananmen Square and an itinerary featuring formal talks, a state banquet, and a visit to the Temple of Heaven. The summit is being described by analysts as one of the most consequential U.S.-China encounters in years, with the future of global trade, Taiwan tensions, and competition in advanced technology all on the agenda.\n\nA central focus is the ongoing U.S.-Israel war with Iran and the closure of the Strait of Hormuz, which has severely disrupted global oil and fertilizer shipments. China has been quietly positioning itself as a mediator alongside Pakistan, presenting a five-point ceasefire plan and nudging Iranian officials toward negotiations. U.S. Secretary of State Marco Rubio said publicly he hoped China would tell Iran's foreign minister, who visited Beijing last week, that blocking the Strait was causing global isolation.\n\nSeparately, former World Bank President David Malpass called on China to stop hoarding food and fertilizer stockpiles, warning that global supply disruptions are costing billions of meals per week and hitting the poorest countries hardest. China halted fertilizer exports in March, citing domestic needs; a Chinese embassy spokesperson rejected the criticism, saying the root causes of supply disruptions could not be shifted onto Beijing.\n\nThe summit carries enormous economic weight for both sides. China's economy is under strain from slower growth, higher unemployment, and rising petrochemical costs tied to the Iran conflict, giving Xi incentive to help broker a resolution — but also leverage to extract concessions from Washington. Analysts say the outcomes of this meeting could shape U.S.-China relations and global stability for years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ceqprgen1nyo",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:26 AM MT",
+      "addedAtISO": "2026-05-12T10:26:11.493062-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Criminal Charges Filed Against Dali Ship Operator Over Deadly Baltimore Bridge Collapse",
+      "summary": "Federal prosecutors unsealed a criminal indictment Tuesday against Synergy Marine, the Singapore- and India-based operator of the cargo ship Dali, and one of its employees over the March 2024 collapse of Baltimore's Francis Scott Key Bridge, which killed six construction workers. Synergy and its technical supervisor Radhakrishnan Karthik Nair face charges including conspiracy, obstruction, and misconduct resulting in death.\n\nProsecutors allege the Dali lost power twice in a four-minute span before striking the bridge, with the first outage caused by a loose wire in a switchboard and the second caused by an improperly used flushing pump supplying fuel to generators — a configuration the vessel was not approved to use. Acting Attorney General Todd Blanche called the collapse \"a preventable tragedy of enormous consequence\" and said the indictment was a critical step toward accountability for what he described as reckless disregard for maritime safety regulations.\n\nAccording to the indictment, Synergy employees knew about the improper pump use and \"took steps to hide\" it on the Dali and other vessels, and the company also allegedly falsified safety records. Synergy said it \"will defend against these allegations with vigor.\" The company has already paid more than $100 million to the Justice Department in a civil settlement and $350 million to Maryland's insurer, and faces another civil trial next month.\n\nThe charges mark the first criminal accountability action in one of the most economically disruptive infrastructure disasters in recent U.S. history. Baltimore is still working to reconstruct the bridge, a project expected to take years and cost billions of dollars.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cnvpm67ner6o",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:26 AM MT",
+      "addedAtISO": "2026-05-12T10:26:11.493062-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "McConnell Breaks With Hegseth Over Pentagon Budget, Warns of Alienating Allies",
+      "summary": "Senate Appropriations defense subcommittee Chairman Mitch McConnell pressed Defense Secretary Pete Hegseth Tuesday over the Trump administration's $1.5 trillion fiscal year 2027 Pentagon budget request, raising pointed objections about how key programs — including the Golden Dome missile defense initiative — would be funded. McConnell also rebuked Hegseth for what he characterized as alienating U.S. allies at a moment of multiple major world conflicts, including the ongoing war with Iran.\n\nThe public clash between the Senate's senior Republican and the Trump administration's Defense Secretary underscores growing intraparty friction over defense spending priorities and alliance management. McConnell has historically been among the most hawkish voices in the GOP on defense funding and U.S. alliance commitments, placing him at odds with elements of the Trump administration's approach.\n\nThe hearing comes as Pentagon officials make their case on Capitol Hill for one of the largest defense budget requests in U.S. history, framed in part around the demands of the Iran conflict now in its third month. The budget debate will shape military readiness and alliance relationships at a critical juncture in U.S. foreign policy.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/5874160-mcconnell-hegseth-defense-budget-allies/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:26 AM MT",
+      "addedAtISO": "2026-05-12T10:26:11.493062-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: UN Confirms 269 Killed in Pakistani Airstrike on Afghan Drug Rehab Centre, War Crime Probe Sought",
       "summary": "A United Nations report released Tuesday confirmed at least 269 people were killed in a Pakistani airstrike on the Omid Drug Rehabilitation Hospital in Kabul — the deadliest single attack in Afghanistan's modern history, surpassing casualty figures from two decades of NATO-era combat. The UN was granted access to the site and confirmed the strike hit civilians undergoing treatment for drug addiction. Human Rights Watch has called the attack \"an unlawful attack and a possible war crime.\"\n\nPakistan disputes that it struck a civilian facility, stating in a response to the BBC that \"no hospital, no drug rehabilitation centre, and no civilian facility was targeted\" and that the strike was aimed at \"military and terrorist infrastructure.\" The site, Camp Phoenix, is a former U.S. and NATO military compound that was converted into a rehabilitation centre in 2016, five years before the Taliban returned to power. Islamabad has long accused the Taliban government of sheltering militants responsible for attacks inside Pakistan; Kabul denies the charge.\n\nFamilies of more than 30 confirmed victims — including recovering addicts and hospital staff — reject Pakistan's account. Many bodies were so badly burned or fragmented that identification was impossible, with some relatives locating loved ones only by birthmarks or partial remains. The UN acknowledged the true death toll is likely significantly higher than the 269 confirmed figure.\n\nThe strike marks a sharp escalation in months of cross-border fighting between Pakistan and Afghanistan. Calls are growing for an independent international investigation into whether the attack constitutes a war crime under international humanitarian law, though no formal tribunal has been announced.",
       "source": "BBC News",
