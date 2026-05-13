@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Philippine Senate Locked Down After Gunshots Fired as ICC-Wanted Senator Takes Refuge",
+      "summary": "The Philippine Senate was placed on lockdown Wednesday after rounds of gunfire were heard inside and around the building in Manila, where Senator Ronald Dela Rosa had sought refuge to avoid potential arrest on International Criminal Court charges. Police commandos in fatigues entered the Senate building while anti-riot police surrounded the perimeter, but officials said there were no casualties and denied they were attempting to arrest Dela Rosa, stating they were there to protect him.\n\nDela Rosa faces ICC accusations of killing dozens of people when he served as national police chief during former President Rodrigo Duterte's drug war, in which thousands of alleged dealers were shot and killed. Duterte himself has been held at The Hague since March 2025 after the ICC rejected the Philippines' argument that its 2019 withdrawal from the Rome Statute shielded him from prosecution.\n\nThe incident deepens an already acute political crisis in the Philippines. The senate, currently controlled by Duterte allies, is also embroiled in a broader power struggle with President Bongbong Marcos, whose alliance with the Duterte family collapsed two years ago. Separately, the lower house of congress voted Monday to begin impeachment proceedings against Vice President Sara Duterte, though the senate holds power to block that action.\n\nInterior Secretary Jonvic Remulla insisted the government had no intention of arresting Dela Rosa and urged the public to submit videos to help investigators determine who fired the shots. Dela Rosa's lawyers have separately appealed to the Supreme Court to block any extradition to The Hague.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "10:26 AM MT",
+      "addedAtISO": "2026-05-13T10:26:34.945778-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Volkswagen and Israel's Rafael Near Deal to Produce Iron Dome Parts in Germany",
+      "summary": "Volkswagen AG and Israeli defense manufacturer Rafael Advanced Defense Systems are nearing an agreement to form a joint venture to produce components of the Iron Dome air defense system in Germany, according to Bloomberg. The deal, expected to be finalized before the end of the year, would represent a significant expansion of European domestic defense manufacturing amid heightened security concerns across the continent.\n\nThe arrangement reflects a broader European push to build indigenous defense industrial capacity following Russia's invasion of Ukraine and the ongoing conflict in the Middle East. Iron Dome, developed by Rafael and co-financed by the United States, has been widely deployed by Israel to intercept short-range rockets and artillery shells and has attracted strong interest from European governments seeking layered air defense solutions.\n\nParticipation by Volkswagen, one of Europe's largest industrial manufacturers, signals a notable pivot for the automaker, which has faced significant financial pressures from the transition to electric vehicles and intensifying Chinese competition. A defense manufacturing joint venture would diversify its industrial portfolio at a moment of structural strain.\n\nThe deal carries diplomatic significance as well, representing deepened defense-industrial ties between Germany and Israel at a time when that relationship has been tested by debate over arms transfers and the Gaza conflict.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-13/volkswagen-rafael-near-deal-for-iron-dome-production-in-germany",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:26 AM MT",
+      "addedAtISO": "2026-05-13T10:26:34.945778-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Louisiana Advances Congressional Map That Eliminates Majority-Black District",
+      "summary": "Louisiana state senators voted in the early hours of Wednesday to advance a congressional redistricting map that eliminates one of the state's two majority-Black congressional districts, following nearly ten hours of overnight testimony from residents. The proposed map would place incumbent U.S. Representatives Troy Carter and Cleo Fields — currently representing separate districts — in direct electoral competition against each other.\n\nThe move follows a Supreme Court decision that further curtailed protections under the Voting Rights Act, giving state legislatures greater latitude to redraw district lines with reduced federal civil rights oversight. Supporters of the new map argue it reflects updated population data and legitimate redistricting principles; critics contend it dilutes Black political representation in violation of the spirit of civil rights law.\n\nThe change would have concrete consequences for the balance of power in Congress. Louisiana currently sends two Black Democrats to the House from majority-Black districts; the new configuration would likely reduce that number, shifting the delegation's partisan and demographic composition. Civil rights advocates have signaled legal challenges are likely.\n\nThe legislative action is part of a broader national pattern of states revisiting congressional maps in the wake of recent Supreme Court rulings on race-conscious redistricting, with outcomes expected to be felt in the 2026 midterm elections.",
+      "source": "Axios",
+      "url": "https://www.axios.com/local/new-orleans/2026/05/13/new-louisiana-congressional-map-advances",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:26 AM MT",
+      "addedAtISO": "2026-05-13T10:26:34.945778-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Hantavirus Contact Case Isolating on Remote Pitcairn Islands as Outbreak Monitoring Continues",
+      "summary": "A woman who traveled aboard the hantavirus-affected cruise ship MV Hondius is now isolating on the Pitcairn Islands, a British Overseas Territory in the South Pacific with a population of approximately 50 people, after authorities confirmed she had contact with a hantavirus-exposed individual. UK and local officials said she was not a suspected case and was showing no signs of illness, but the UK Health Security Agency indicated close contacts of confirmed cases must isolate for 45 days.\n\nThe new development adds a geographic complication to an outbreak that has already claimed three lives and produced nine confirmed cases, with two additional suspected cases, according to the World Health Organization. The woman traveled from San Francisco on May 7, transiting through Tahiti and Mangareva in French Polynesia without notifying territorial health authorities — a lapse that prompted French Polynesia to hold an emergency meeting and bar her from re-entering its territory.\n\nWHO Director-General Tedros Adhanom Ghebreyesus said Tuesday there was no sign of a larger outbreak following evacuation of the last passengers from the ship, but warned the situation could change and more confirmed cases could emerge. The strain involved is the Andes variant of hantavirus, which unlike most hantavirus strains is capable of human-to-human transmission.\n\nThe Pitcairn case illustrates the logistical challenges of containing an outbreak involving international cruise passengers who dispersed globally before the extent of exposure was known. UK authorities said they were coordinating with local Pitcairn officials and the UKHSA to manage risks to both the individual and the island community.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:26 AM MT",
+      "addedAtISO": "2026-05-13T10:26:34.945778-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: Kevin Warsh Confirmed as Federal Reserve Chair as Senate Advances Nomination",
       "summary": "The U.S. Senate voted to confirm Kevin Warsh to the Federal Reserve's board of governors and advanced his nomination to serve as chairman of the central bank, where he will inherit an inflation fight that has driven consumer prices to a three-year high. April's Consumer Price Index rose 3.8% year-over-year, driven largely by energy costs tied to the ongoing U.S.-Iran war, complicating Warsh's expected push for interest rate relief.\n\nWarsh has expressed the view that productivity gains from artificial intelligence adoption will eventually ease inflation once the Iran conflict is resolved, enabling lower short- and long-term interest rates. Strong April hiring data, however, reduces the urgency for near-term rate cuts and gives the incoming chair less immediate room to maneuver. Total U.S. household debt rose to $18.8 trillion in Q1 2026, according to a new Federal Reserve Bank of New York report released Tuesday.\n\nThe confirmation comes as President Trump faces mounting political pressure over the economy, with a CNN poll showing 70% of Americans disapproving of his handling of economic conditions. Trump has proposed suspending the federal gas tax — currently 18.4 cents per gallon — to ease consumer fuel costs, but the measure faces skepticism from both Republican and Democratic leaders on Capitol Hill.\n\nRepublicans argue the gas tax suspension would deliver direct relief to consumers burdened by war-driven energy prices, while Democrats have proposed alternative measures targeting corporate pricing and anti-competitive mergers. The incoming Fed chair's policy independence from the White House will be closely watched, given the administration's vocal interest in lower borrowing costs.",
       "source": "Reuters",
