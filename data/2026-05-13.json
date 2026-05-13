@@ -3,6 +3,58 @@
   "dateFormatted": "Wednesday, May 13, 2026",
   "stories": [
     {
+      "category": "other",
+      "headline": "South Carolina Supreme Court Overturns Alex Murdaugh's Murder Convictions, Orders New Trial",
+      "summary": "The South Carolina Supreme Court unanimously overturned the 2023 murder convictions of Alex Murdaugh on Wednesday, ordering a new trial for the disgraced attorney who has been serving two life sentences for the killings of his wife, Maggie, and son Paul in June 2021. The 5-0 ruling found that Colleton County Clerk of Court Rebecca Hill had improperly influenced jurors during the trial, violating Murdaugh's right to a fair trial by an impartial jury.\n\nThe court cited affidavits from jurors who said Hill made comments directing them to watch Murdaugh closely, told them not to be \"fooled\" by the defense's evidence, and said at the start of deliberations that the verdict \"shouldn't take us long.\" The justices wrote that Hill had \"placed her fingers on the scales of justice.\" Hill pleaded guilty in December 2025 to misconduct in office, obstruction of justice, and perjury in a separate proceeding involving misuse of public funds and leaking sealed court information; she had also published a book about the trial that was later pulled after plagiarism was discovered.\n\nMurdaugh, 56, had been a prominent South Carolina attorney before his legal troubles — which included the murders as well as state and federal financial crimes for which he is serving additional 27- and 40-year sentences — captivated a global audience and spawned documentaries, podcasts, and books. The murder case itself was televised nationally. His defense team had argued for years that Hill tampered with the jury.\n\nThe ruling does not acquit Murdaugh but grants him a new trial on the murder charges. He remains imprisoned on the financial crimes convictions. Prosecutors will now decide whether to retry him; the state has not yet announced its intentions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 11,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:05 PM MT",
+      "addedAtISO": "2026-05-13T13:05:57.521385-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "House Democrats Secure Signatures to Force Floor Vote on Ukraine Aid, Bypassing Speaker Johnson",
+      "summary": "House Democrats on Wednesday secured the 218 signatures needed to file a successful discharge petition, forcing a floor vote on legislation that would provide billions of dollars in new Ukraine aid and impose additional sanctions on Russia. The move bypasses Speaker Mike Johnson, who has declined to bring the measure to the floor under regular order.\n\nRep. Kevin Kiley of California, who left the Republican Party earlier this year to become an independent, provided a key signature in the bipartisan effort. Democrats framed the move as necessary to sustain U.S. support for Kyiv at a critical moment in the war with Russia; Johnson and House Republican leadership have resisted the package, reflecting broader skepticism among some conservatives about continued Ukraine funding.\n\nThe discharge petition maneuver is a rarely used but constitutionally available tool that allows a majority of House members to bring a bill to the floor without leadership's consent. This is the eighth time in three years that the mechanism has been used to circumvent GOP leadership, and the second such success in the current 119th Congress. The development represents a significant legislative defeat for Johnson and signals that a House majority exists for Ukraine support independent of the Speaker's agenda.\n\nThe bill's passage on the House floor is not guaranteed, as procedural hurdles remain and the final vote count will be closely watched. The White House has not publicly commented on the discharge petition outcome. The move comes as the broader U.S.-Russia-Ukraine diplomatic situation remains volatile, with a fragile ceasefire under stress.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/13/ukraine-aid-discharge-petition-mike-johnson-kiley",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:05 PM MT",
+      "addedAtISO": "2026-05-13T13:05:57.521385-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: Hantavirus Outbreak Grows to 11 Cases as French Patient Placed on Artificial Lung",
+      "summary": "The global hantavirus outbreak linked to the MV Hondius cruise ship has grown to 11 cases, with the World Health Organization confirming nine of them. A French woman who contracted the Andes virus aboard the ship is being treated in Paris with the assistance of an artificial lung after developing life-threatening lung and heart complications, French health officials confirmed Tuesday.\n\nFrench Health Minister Stéphanie Rist told lawmakers that the virus has not yet shown signs of mutation, though full genetic sequencing is not yet complete. A Spanish passenger also tested positive after disembarking the ship, adding to the tally. Three people connected to the voyage have died, two of them confirmed Andes virus cases; the third died before testing could be completed but had displayed symptoms consistent with infection.\n\nSeparately, a woman who traveled aboard the Hondius has been isolating on the remote Pitcairn Islands in the South Pacific after transiting through French Polynesia without notifying health authorities. She is not a confirmed case and is showing no symptoms, but UK and Pitcairn authorities are coordinating her 45-day isolation period. French Polynesia has barred her from re-entering its territory.\n\nThe WHO has said there is no sign of a broader outbreak beyond those connected to the ship, but warned the situation could change as more passengers are tested. The Andes strain is notable among hantaviruses for its capacity for human-to-human transmission, which has elevated international concern about the cluster.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/5876149-hantavirus-cases-increase-worldwide/",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:05 PM MT",
+      "addedAtISO": "2026-05-13T13:05:57.521385-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Fatal Drug Overdoses Fall for Third Consecutive Year, CDC Data Shows",
+      "summary": "Fatal drug overdoses in the United States declined for a third straight year in 2025, according to provisional data released by the Centers for Disease Control and Prevention. An estimated 68,632 people died from overdoses through December 2025, representing a 14 percent drop from the prior year and marking the longest sustained decline in overdose deaths in decades.\n\nExperts cited a range of contributing factors, including wider availability of the overdose-reversal drug naloxone, expanded addiction treatment programs, and shifts in illicit drug supply. The numbers, though provisional, represent a significant public health milestone following years of record-breaking overdose fatalities driven largely by synthetic opioids, particularly fentanyl.\n\nDespite the decline, the death toll remains staggeringly high — nearly 70,000 Americans per year — and public health officials cautioned against complacency. The data does not yet reflect potential policy changes in 2026 that could affect treatment access or harm reduction infrastructure.\n\nThe figures come as Congress debates federal health and social services funding. Advocates for addiction treatment programs said the downward trend validates investment in evidence-based interventions, while some fiscal conservatives have questioned the cost and scope of federally funded harm reduction efforts.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/5876308-overdose-deaths-drop-three-years/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:05 PM MT",
+      "addedAtISO": "2026-05-13T13:05:57.521385-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: Philippine Senate Locked Down After Gunshots Fired as ICC-Wanted Senator Takes Refuge",
       "summary": "The Philippine Senate was placed on lockdown Wednesday after rounds of gunfire were heard inside and around the building in Manila, where Senator Ronald Dela Rosa had sought refuge to avoid potential arrest on International Criminal Court charges. Police commandos in fatigues entered the Senate building while anti-riot police surrounded the perimeter, but officials said there were no casualties and denied they were attempting to arrest Dela Rosa, stating they were there to protect him.\n\nDela Rosa faces ICC accusations of killing dozens of people when he served as national police chief during former President Rodrigo Duterte's drug war, in which thousands of alleged dealers were shot and killed. Duterte himself has been held at The Hague since March 2025 after the ICC rejected the Philippines' argument that its 2019 withdrawal from the Rome Statute shielded him from prosecution.\n\nThe incident deepens an already acute political crisis in the Philippines. The senate, currently controlled by Duterte allies, is also embroiled in a broader power struggle with President Bongbong Marcos, whose alliance with the Duterte family collapsed two years ago. Separately, the lower house of congress voted Monday to begin impeachment proceedings against Vice President Sara Duterte, though the senate holds power to block that action.\n\nInterior Secretary Jonvic Remulla insisted the government had no intention of arresting Dela Rosa and urged the public to submit videos to help investigators determine who fired the shots. Dela Rosa's lawyers have separately appealed to the Supreme Court to block any extradition to The Hague.",
