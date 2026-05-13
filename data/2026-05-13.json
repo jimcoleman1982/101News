@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-13",
+  "dateFormatted": "Wednesday, May 13, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Criminal Charges Filed Against Dali Ship Operator Over Deadly Baltimore Bridge Collapse",
+      "summary": "Federal prosecutors have unsealed criminal charges against Synergy Marine, the Singapore- and India-based company that operated the cargo ship Dali, two years after the vessel struck Baltimore's Francis Scott Key Bridge, killing six construction workers. Synergy and one of its technical supervisors, Radhakrishnan Karthik Nair, face charges including conspiracy, obstruction, and misconduct resulting in death. Acting Attorney General Todd Blanche called the collapse \"a preventable tragedy of enormous consequence\" and said the indictment was a \"critical step toward holding accountable those whose reckless disregard for maritime safety regulations caused this disaster.\"\n\nProsecutors allege the Dali lost power twice in a four-minute span before striking the bridge, with the first outage caused by a loose wire in a switchboard and the second resulting from the crew's improper use of a flushing pump not designed for automatic restart after a blackout. They allege Synergy employees knew of the improper fuel supply setup and concealed safety hazards from the U.S. Coast Guard. Had proper fuel systems been used, prosecutors say, the vessel would have regained power before impact.\n\nSynergy rejected the allegations, calling them \"baseless\" and describing the prosecution as \"criminalising a tragic accident.\" The company said the use of the flushing pump was \"wholly irrelevant to the cause\" of the crash and vowed to defend against the charges vigorously. Separately, Synergy and the state of Maryland have already settled a civil case over the collapse for $2.25 billion.\n\nThe case is among the most closely watched maritime criminal prosecutions in recent U.S. history. Baltimore is still working to reconstruct the bridge, a project expected to take years and cost billions of dollars. The charges were covered by 18 news outlets, reflecting the broad national significance of the indictment.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cnvpm67ner6o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 18,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-13T05:08:38.792803-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Israel Strikes Kill 13 in Lebanon as Ceasefire Holds in Name Only",
+      "summary": "Israeli air strikes killed at least 13 people across southern Lebanon on Tuesday, including two paramedics from the Lebanese Civil Defense emergency service who were struck while conducting a rescue mission in Nabatieh. Lebanese President Joseph Aoun expressed regret over the paramedics' deaths and said continued Israeli strikes were hindering efforts to restore calm. Lebanon's health ministry accused Israeli forces of deliberately targeting emergency workers, calling it a violation of international humanitarian law.\n\nIsrael said it struck a suspect in the Tayr Debba area who had allegedly attempted to fire a surface-to-air missile at an Israeli aircraft. The Israeli military said it was looking into reports of the paramedic deaths. Hezbollah, meanwhile, launched explosive-laden drones at Israeli troops in southern Lebanon and fired on a community in northern Israel, though no Israeli casualties were reported.\n\nThe violence underscores the fragility of a ceasefire brokered by the United States between Israel and Lebanon in April. Israel has accused Hezbollah of repeatedly violating the agreement and has intensified strikes in response; Hezbollah and Lebanese officials contend Israel's continuing military operations and occupation of parts of southern Lebanon are themselves ceasefire violations. Israeli and Lebanese officials are expected to meet again in Washington on Thursday in an attempt to stabilize the situation.\n\nThe conflict between Israel and Hezbollah began on March 2, two days after the U.S. and Israel launched a joint attack on Iran. The fighting has resulted in significant civilian casualties on both sides and complicated broader diplomatic efforts to de-escalate tensions across the region.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-13T05:08:38.792803-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Texas Sues Netflix, Alleging Covert Data Collection on Children and Deceptive Privacy Claims",
+      "summary": "Texas Attorney General Ken Paxton filed a lawsuit against Netflix on Monday, accusing the streaming company of secretly collecting and monetizing data on millions of users, including children, in violation of the state's Deceptive Trade Practices Act. The complaint alleges Netflix recorded billions of behavioral data points — including what users clicked on, lingered over, and for how long — while publicly portraying itself as unlike other big-tech surveillance companies. It quotes former Netflix CEO Reed Hastings saying in 2019 and 2020 that the company did not and would not collect or monetize user data for advertising.\n\nThe lawsuit further alleges that beginning in 2022, Netflix shared data extracted from children and families with commercial data brokers to generate revenue, and employed \"addictive\" design features such as auto-play to maximize engagement. Texas is seeking court orders requiring Netflix to delete all deceptively collected data, cease using it for targeted advertising, and disable auto-play by default on children's profiles.\n\nNetflix denied the allegations, saying the suit \"lacks merit and is based on inaccurate and distorted information\" and that it complies with all applicable privacy and data protection laws. The company said it takes members' privacy seriously and plans to challenge the lawsuit in court.\n\nThe case arrives as tech platforms face intensifying scrutiny over child safety and data practices across multiple jurisdictions. A recent California lawsuit found Meta and YouTube potentially liable for addictive design harms to minors, and the European Union has separately moved to restrict social media access for children.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-13T05:08:38.792803-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "EU's Von der Leyen Calls for Pan-European Social Media Delay for Children",
+      "summary": "European Commission President Ursula von der Leyen proposed Tuesday that the EU introduce a \"social media delay\" for children, telling a summit in Copenhagen that new legislation could be put forward within months. She said an expert panel is expected to recommend specific protective steps by July and did not rule out setting a minimum age for access to platforms. \"The question is not whether young people should have access to social media,\" she said. \"The question is whether social media should have access to young people.\"\n\nThe proposal comes as multiple European countries have moved independently to restrict minors' access to social platforms. France is pushing a ban for under-15s by September; Spain, Norway, and Germany have each proposed bans for children under 15 or 16; and Australia became the first country to implement such a ban for under-16s last December. Denmark and nine other EU member states have formally proposed age limits.\n\nVon der Leyen emphasized that age restrictions would not relieve tech companies of broader regulatory obligations, noting that the European Commission recently found Meta's Instagram and Facebook in breach of the Digital Services Act for failing to keep children under 13 off their platforms. The EU has also threatened TikTok with heavy fines over its addictive design features.\n\nThe push for a continent-wide framework reflects growing concern among governments about the mental health effects of social media on children and the inadequacy of self-regulation by platforms. The Trump administration has been critical of the EU's digital enforcement agenda, adding a transatlantic dimension to the debate over how aggressively governments should regulate tech companies.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9q3x19ddl7o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-13T05:08:38.792803-06:00"
+    }
+  ]
+}
