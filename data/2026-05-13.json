@@ -4,6 +4,45 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Kevin Warsh Confirmed as Federal Reserve Chair as Senate Advances Nomination",
+      "summary": "The U.S. Senate voted to confirm Kevin Warsh to the Federal Reserve's board of governors and advanced his nomination to serve as chairman of the central bank, where he will inherit an inflation fight that has driven consumer prices to a three-year high. April's Consumer Price Index rose 3.8% year-over-year, driven largely by energy costs tied to the ongoing U.S.-Iran war, complicating Warsh's expected push for interest rate relief.\n\nWarsh has expressed the view that productivity gains from artificial intelligence adoption will eventually ease inflation once the Iran conflict is resolved, enabling lower short- and long-term interest rates. Strong April hiring data, however, reduces the urgency for near-term rate cuts and gives the incoming chair less immediate room to maneuver. Total U.S. household debt rose to $18.8 trillion in Q1 2026, according to a new Federal Reserve Bank of New York report released Tuesday.\n\nThe confirmation comes as President Trump faces mounting political pressure over the economy, with a CNN poll showing 70% of Americans disapproving of his handling of economic conditions. Trump has proposed suspending the federal gas tax — currently 18.4 cents per gallon — to ease consumer fuel costs, but the measure faces skepticism from both Republican and Democratic leaders on Capitol Hill.\n\nRepublicans argue the gas tax suspension would deliver direct relief to consumers burdened by war-driven energy prices, while Democrats have proposed alternative measures targeting corporate pricing and anti-competitive mergers. The incoming Fed chair's policy independence from the White House will be closely watched, given the administration's vocal interest in lower borrowing costs.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/us/federal-reserve/",
+      "sourceCount": 26,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:26 AM MT",
+      "addedAtISO": "2026-05-13T07:26:44.847224-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Ghana Orders Evacuation of 300 Citizens from South Africa Amid Xenophobic Unrest",
+      "summary": "Ghana announced Tuesday it will evacuate approximately 300 of its citizens from South Africa following a wave of anti-immigrant protests that prompted its foreign ministry to issue a safety advisory. Foreign Minister Samuel Okudzeto Ablakwa said President John Mahama had approved the \"immediate evacuation\" of distressed Ghanaians who registered at the country's embassy in Pretoria. Ghana's embassy also warned nationals in Durban to close their businesses and avoid public gatherings ahead of a protest planned for Wednesday.\n\nThousands of South Africans have joined protests in recent days demanding the mass deportation of undocumented foreign nationals, citing concerns about jobs, housing and crime. South African President Cyril Ramaphosa on Monday described the demonstrations as \"isolated acts of criminality\" that did not reflect government policy, and pledged to regulate migration and secure the country's borders. South African authorities have disputed the severity of the violence, asserting that widely circulated videos purporting to show attacks on foreign nationals were fake.\n\nGhana and Nigeria have both summoned the South African ambassador to their respective capitals over the treatment of their citizens, and Ghana has written to the African Union requesting an emergency discussion of what it called a \"serious risk\" to the safety of Africans living in South Africa. Kenya, Malawi, Lesotho and Zimbabwe have also issued travel warnings for their nationals in the country. South Africa responded by saying it had \"nothing to hide.\"\n\nXenophobia has been a persistent and sometimes deadly problem in South Africa, which is home to more than three million registered foreigners — roughly 5% of the population — with an unknown number of undocumented migrants. The crisis is straining diplomatic relations across sub-Saharan Africa and raising fresh questions about South Africa's standing within the African Union.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cedpv17gqqzo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:26 AM MT",
+      "addedAtISO": "2026-05-13T07:26:44.847224-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Waymo Recalls 3,800 Robotaxis After Self-Driving Vehicle Swept Into Creek During Flooding",
+      "summary": "Waymo is recalling nearly 3,800 of its autonomous robotaxis in the United States after a software flaw allowed a vehicle to drive into a flooded road and be swept into a creek in San Antonio, Texas, on April 20. The voluntary recall, disclosed in a letter posted to the National Highway Traffic Safety Administration website Tuesday, affects vehicles using the company's fifth and sixth-generation automated driving systems. Waymo said it is developing \"additional software safeguards\" and has already applied temporary updates limiting where affected vehicles can operate during extreme weather.\n\nThe company's San Antonio service remains suspended in the aftermath of the incident, though Waymo said rides will resume once the necessary software fix has been deployed. Waymo, owned by Google parent company Alphabet, currently provides more than 500,000 trips per week across multiple U.S. cities including San Francisco, Austin and Miami, and has announced plans to expand to London by September.\n\nThe recall adds to a series of high-profile autonomous vehicle incidents over the past year, including a mass Apollo Go robotaxi outage in Wuhan, China, in April that left hundreds of self-driving cars stopped in traffic, and a San Francisco power outage in December 2025 that disabled Waymo vehicles across the city. Experts say such failures are likely to multiply as autonomous fleets expand.\n\nJack Stilgoe, professor of science and technology policy at University College London, said all self-driving systems have operational limits that often only become apparent when accidents occur. \"Policymakers would prefer to know about these things in advance rather than discovering them in hindsight,\" he told the BBC. The incident is expected to intensify regulatory scrutiny of autonomous vehicle deployment in the United States.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy2011dl4xo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:26 AM MT",
+      "addedAtISO": "2026-05-13T07:26:44.847224-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: Criminal Charges Filed Against Dali Ship Operator Over Deadly Baltimore Bridge Collapse",
       "summary": "Federal prosecutors have unsealed criminal charges against Synergy Marine, the Singapore- and India-based company that operated the cargo ship Dali, two years after the vessel struck Baltimore's Francis Scott Key Bridge, killing six construction workers. Synergy and one of its technical supervisors, Radhakrishnan Karthik Nair, face charges including conspiracy, obstruction, and misconduct resulting in death. Acting Attorney General Todd Blanche called the collapse \"a preventable tragedy of enormous consequence\" and said the indictment was a \"critical step toward holding accountable those whose reckless disregard for maritime safety regulations caused this disaster.\"\n\nProsecutors allege the Dali lost power twice in a four-minute span before striking the bridge, with the first outage caused by a loose wire in a switchboard and the second resulting from the crew's improper use of a flushing pump not designed for automatic restart after a blackout. They allege Synergy employees knew of the improper fuel supply setup and concealed safety hazards from the U.S. Coast Guard. Had proper fuel systems been used, prosecutors say, the vessel would have regained power before impact.\n\nSynergy rejected the allegations, calling them \"baseless\" and describing the prosecution as \"criminalising a tragic accident.\" The company said the use of the flushing pump was \"wholly irrelevant to the cause\" of the crash and vowed to defend against the charges vigorously. Separately, Synergy and the state of Maryland have already settled a civil case over the collapse for $2.25 billion.\n\nThe case is among the most closely watched maritime criminal prosecutions in recent U.S. history. Baltimore is still working to reconstruct the bridge, a project expected to take years and cost billions of dollars. The charges were covered by 18 news outlets, reflecting the broad national significance of the indictment.",
       "source": "BBC News",
