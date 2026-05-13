@@ -3,6 +3,58 @@
   "dateFormatted": "Wednesday, May 13, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: UK Prime Minister Starmer Faces Imminent Leadership Challenge as Health Secretary Expected to Declare Bid",
+      "summary": "British Prime Minister Keir Starmer convened emergency meetings with cabinet ministers Wednesday after supporters of Health Secretary Wes Streeting told the BBC they expected him to formally challenge Starmer for the Labour Party leadership as soon as Thursday. The crisis erupted on a day meant to showcase the government's agenda through the King's Speech at the State Opening of Parliament, severely undercutting the legislative rollout.\n\nStarmer met directly with Streeting in a session lasting less than 20 minutes, then gathered broader ministerial groups in Parliament to warn them that any leadership contest would 'plunge us into chaos.' The confrontation marks one of the most acute crises of Starmer's tenure, coming in the aftermath of poor local election results that had already prompted calls for a government reset.\n\nThe situation remained fluid Wednesday evening, with BBC political correspondents noting significant numbers of Labour figures lamenting how the party reached this point. It is not yet clear whether Streeting will formally trigger a challenge or whether the warning from Starmer will forestall one. A formal leadership contest would require a vote among Labour MPs and could destabilize the government at a critical legislative moment.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/live/c1e2n923v1lt",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:23 PM MT",
+      "addedAtISO": "2026-05-13T16:23:24.650604-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Gaza Ceasefire Stalled Seven Months In, U.S. Envoy Says Hamas Disarmament Is Non-Negotiable",
+      "summary": "Nickolay Mladenov, the top diplomat overseeing the U.S.-brokered Gaza ceasefire, declared Wednesday that the truce has effectively stalled, with the deadlock over disarming Hamas blocking all progress on reconstruction, Israeli troop withdrawals, and the establishment of a new Palestinian government. Speaking to foreign reporters in Jerusalem after meeting Israeli Prime Minister Benjamin Netanyahu, Mladenov said the disarmament requirement is 'not negotiable' and warned that without it, Gaza faces prolonged 'misery.'\n\nNearly all of Gaza's 2 million residents remain displaced, with many living in tent camps lacking basic services. Mladenov acknowledged violations by both sides on a daily basis but said the ceasefire had largely held and prevented a return to full-scale war. 'Seven months since the ceasefire, the door to the future of Gaza is still closed,' he said.\n\nHamas has sought to link any demilitarization to Israeli troop pullbacks, while Israel's military remains in control of more than half of the territory. President Trump's 20-point ceasefire plan envisions Hamas surrendering weapons and destroying tunnels, Israeli forces withdrawing to the perimeter, a new technocratic Palestinian government, and an international security force — none of which have advanced. Mladenov did not specify what consequences would follow if Hamas refuses to disarm.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/board-of-peace-envoy-mladenov-says-ceasefire-hinges-on-hamas-disarmament",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:23 PM MT",
+      "addedAtISO": "2026-05-13T16:23:24.650604-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "FBI Director Patel Clashes with Democratic Senator at Budget Hearing Over Drinking Allegations",
+      "summary": "FBI Director Kash Patel appeared before a Senate budget subcommittee Tuesday and sharply denied published allegations that he drinks excessively on the job and has been unreachable to staff, calling the claims 'unequivocally, categorically false.' The confrontation came after Sen. Chris Van Hollen of Maryland pressed Patel on a recent Atlantic magazine article portraying his leadership in a deeply unflattering light. Patel has filed a $250 million lawsuit against The Atlantic, which says it stands by its reporting and will vigorously defend against what it calls a 'meritless lawsuit.'\n\nThe exchange turned combative when Patel accused Van Hollen of 'slinging margaritas on the taxpayer dime' in El Salvador — a reference to the senator's 2025 visit to wrongly deported Maryland resident Kilmar Abrego Garcia while he was detained there. 'The only person who has been drinking during the day on the taxpayer dime was you,' Patel told the senator, shouting over Van Hollen during the hearing.\n\nThe hearing, nominally focused on the FBI's fiscal year 2027 budget request, highlighted ongoing tensions between the Trump administration's leadership of federal law enforcement and congressional Democrats. Republicans have largely backed Patel's tenure, while Democrats have continued to raise oversight questions about his management of the bureau.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/kash-patel-fbi-atlantic-drinking-e7fcec03555aa5e463aae5bb502936b5",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:23 PM MT",
+      "addedAtISO": "2026-05-13T16:23:24.650604-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Florida to Close 'Alligator Alcatraz' Immigration Detention Facility",
+      "summary": "Florida Governor Ron DeSantis announced Wednesday that the state's 'Alligator Alcatraz' immigration detention facility, a tented encampment located in the remote Florida Everglades, will close next month. DeSantis said the facility was always conceived as a temporary measure, opened in summer 2025 when the federal government lacked sufficient detention capacity. State officials have already instructed vendors at the site to prepare for the camp's breakdown beginning in June.\n\nThe facility became a flashpoint in the national immigration debate after President Trump praised it for its deliberately harsh and austere conditions. Environmental groups and immigration advocates had consistently criticized the site's location in the Everglades and the conditions detainees faced, and on Wednesday welcomed what they called its overdue closure.\n\nThe announcement reflects a broader shift in federal immigration detention infrastructure, as the administration has expanded dedicated federal facilities over the past year, reducing the need for state-run overflow capacity. The closure does not signal a change in immigration enforcement posture, with DeSantis framing it as an operational transition rather than a policy reversal.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/5876769-florida-immigration-detention-closure/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:23 PM MT",
+      "addedAtISO": "2026-05-13T16:23:24.650604-06:00"
+    },
+    {
       "category": "other",
       "headline": "South Carolina Supreme Court Overturns Alex Murdaugh's Murder Convictions, Orders New Trial",
       "summary": "The South Carolina Supreme Court unanimously overturned the 2023 murder convictions of Alex Murdaugh on Wednesday, ordering a new trial for the disgraced attorney who has been serving two life sentences for the killings of his wife, Maggie, and son Paul in June 2021. The 5-0 ruling found that Colleton County Clerk of Court Rebecca Hill had improperly influenced jurors during the trial, violating Murdaugh's right to a fair trial by an impartial jury.\n\nThe court cited affidavits from jurors who said Hill made comments directing them to watch Murdaugh closely, told them not to be \"fooled\" by the defense's evidence, and said at the start of deliberations that the verdict \"shouldn't take us long.\" The justices wrote that Hill had \"placed her fingers on the scales of justice.\" Hill pleaded guilty in December 2025 to misconduct in office, obstruction of justice, and perjury in a separate proceeding involving misuse of public funds and leaking sealed court information; she had also published a book about the trial that was later pulled after plagiarism was discovered.\n\nMurdaugh, 56, had been a prominent South Carolina attorney before his legal troubles — which included the murders as well as state and federal financial crimes for which he is serving additional 27- and 40-year sentences — captivated a global audience and spawned documentaries, podcasts, and books. The murder case itself was televised nationally. His defense team had argued for years that Hill tampered with the jury.\n\nThe ruling does not acquit Murdaugh but grants him a new trial on the murder charges. He remains imprisoned on the financial crimes convictions. Prosecutors will now decide whether to retry him; the state has not yet announced its intentions.",
