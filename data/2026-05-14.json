@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: U.S.-Iran Ceasefire on 'Life Support' as Strait of Hormuz Partially Reopens",
+      "summary": "President Trump declared the U.S.-Iran ceasefire is on 'life support' in a Truth Social post Tuesday, asserting that American forces have decisively crippled Iran's military and warning that media reports suggesting otherwise amount to 'virtual TREASON.' Trump claimed Iran's entire navy had been sunk and its air force destroyed, while cautioning that favorable coverage of Iran undermines U.S. efforts.\n\nMeanwhile, new developments at the Strait of Hormuz offered a mixed picture. Iranian state media reported more than 30 ships had passed through the strait since Wednesday night 'in coordination' with Iranian authorities, with an IRIB correspondent declaring a 'new era' in which passage requires coordination with the IRGC Navy. Tehran separately allowed some Chinese vessels through after diplomatic discussions with Beijing, though it was unclear whether fees were paid.\n\nU.S. Treasury Secretary Scott Bessent, traveling with Trump in Beijing, said it is 'very much' in China's interest to see the strait fully reopened and expressed confidence Beijing would work behind the scenes toward that end. He acknowledged, however, that the situation in Iran was complicated because 'several layers of leadership were decapitated,' making it difficult to communicate with anyone empowered to reach a binding agreement.\n\nSouth Korea also dispatched a technical team to Dubai to investigate a May 4 missile strike on a South Korean cargo ship near the strait, adding to international pressure. The partial reopening of shipping lanes represents a concrete new development, but Iran's insistence that passage now requires IRGC coordination signals ongoing tensions over who controls one of the world's most critical waterways.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/iran-war-news-trump-strait-hormuz-peace-deal-may-12",
+      "sourceCount": 27,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:03 AM MT",
+      "addedAtISO": "2026-05-14T07:03:41.322648-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Latvian Prime Minister Resigns After Ukrainian Drone Incursions Collapse Coalition Government",
+      "summary": "Latvian Prime Minister Evika Silina resigned Thursday after her governing coalition collapsed following a political crisis triggered by Ukrainian drones straying into Latvian territory. Silina had fired Defence Minister Andris Spruds last week over his handling of two drone crashes in eastern Latvia on May 7, but Spruds's Progressives party responded by withdrawing support from the coalition, causing its collapse months before a planned October general election.\n\nThe incident involved three Ukrainian UAVs apparently intended to strike Russian targets whose signals had been jammed, causing them to stray into Latvian airspace. One drone struck an empty oil storage facility near the town of Rezekne; there were no casualties. Local residents and media criticized a delayed emergency response, noting the cell broadcast alert system was not activated for an hour after one drone crashed.\n\nSilina, who had led Latvia since September 2023, said on her way out: 'I am resigning but I am not giving up.' She noted that Latvia spends 5% of GDP on national defense, demanding 'clear results.' President Edgars Rinkevics said he would move quickly toward forming a new government, with a decision expected May 15.\n\nThe episode underscores the acute tensions facing NATO's Baltic members as the Ukraine war continues. Latvia, Lithuania, and Estonia have all significantly expanded defense spending and reintroduced conscription since Russia's 2022 invasion, but the drone incursions highlight the practical risks of proximity to an active conflict zone.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy21k5917jo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:03 AM MT",
+      "addedAtISO": "2026-05-14T07:03:41.322648-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Prosecutors to Retry Alex Murdaugh After South Carolina Supreme Court Overturns Murder Convictions",
+      "summary": "South Carolina prosecutors announced Wednesday they will seek to retry disgraced attorney Alex Murdaugh after the state Supreme Court overturned his murder convictions and life sentence for the 2021 killings of his wife Maggie and son Paul. The court found that trial clerk Mary Rebecca 'Becky' Hill improperly communicated to jurors that Murdaugh was guilty, tainting the proceedings. Hill pleaded guilty to related charges in December 2025.\n\nMurdaugh, 57, will not be released: he is simultaneously serving a 40-year federal sentence and a 27-year state sentence for stealing approximately $12 million from clients. State Attorney General Alan Wilson said he respected the ruling but that 'no one is above the law,' and that his office aims to retry Murdaugh on the murder charges, preferably in 2026. Prosecutors have not ruled out appealing the Supreme Court decision.\n\nThe retrial will look significantly different. The justices also ruled that extensive evidence about Murdaugh's financial crimes — central to the prosecution's first case — should not be admitted in a new murder trial. Defense attorneys Dick Harpootlian and Jim Griffin called the ruling a vindication, noting Murdaugh 'has said from day one that he did not kill his wife and son.'\n\nThe case, which spawned multiple streaming series, bestselling books, and true crime podcasts, drew national attention because of its combination of a prominent Southern legal dynasty, layered financial fraud, and the shocking double murder. The prospect of a new trial ensures the story remains a major media and legal event well into 2026.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/murdaugh-killings-appeal-overturned-65a2ea0610bdb80763b39838ab4fcdb6",
+      "sourceCount": 6,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:03 AM MT",
+      "addedAtISO": "2026-05-14T07:03:41.322648-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "U.S. Students Remain Half a Grade Level Behind Pre-Pandemic Reading Levels, National Scorecard Finds",
+      "summary": "A comprehensive national Education Scorecard released Wednesday by researchers at Harvard, Stanford, and Dartmouth found that American students remain nearly half a grade level below pre-pandemic reading achievement, despite years of recovery efforts since COVID-19 disrupted schooling. The analysis examined state test scores for students in grades three through eight across more than 5,000 school districts in 38 states, covering the period from 2022 to 2025.\n\nOnly five states plus the District of Columbia showed meaningful growth in reading test scores over that period. The researchers noted the decline is not entirely a pandemic phenomenon: reading scores for eighth graders had been falling since 2013 and for fourth graders since 2015, according to the National Assessment of Educational Progress. Harvard professor Thomas Kane described the pandemic as 'the mudslide that had followed seven years of steady erosion in achievement.'\n\nThe math picture was somewhat brighter — nearly every state in the analysis saw improvement in math scores from 2022 to 2025, and student absenteeism declined in most states. Bright spots in reading were found in districts that aggressively shifted to phonics-based instruction and provided additional support for struggling readers, including schools in Modesto, California, which posted consistent gains in both subjects.\n\nThe findings carry significant implications for federal and state education policy at a moment when funding for school recovery programs is under scrutiny. The persistence of learning gaps more than five years after pandemic closures began suggests structural challenges that go beyond emergency relief measures.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/reading-math-test-scores-education-scorecard-7fa4111ad0de934f664ebb984e830d13",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:03 AM MT",
+      "addedAtISO": "2026-05-14T07:03:41.322648-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: Russia Launches One of Its Largest Attacks of the War Against Ukraine, Killing at Least 4 in Kyiv",
       "summary": "Russia launched a massive overnight barrage against Ukraine on Thursday, firing more than 670 drones and 56 missiles across the country in what President Volodymyr Zelensky described as among the largest attacks since the full-scale invasion began in 2022. At least four people were killed in Kyiv, including three pulled from the rubble of a partially destroyed nine-story apartment building, and 44 were injured, among them two children.\n\nThe strikes damaged residential buildings, a school, a veterinary clinic, and other infrastructure across the capital, and disrupted the city's water supply. More than 1,500 rescuers and police officers were deployed across Ukraine, with roughly 600 operating in Kyiv alone. More than ten people remained missing in the collapsed building as of early Thursday.\n\nThe attack marked the third consecutive day Ukraine reported deaths from Russian strikes, coming shortly after a three-day ceasefire expired Monday. Ukrainian Foreign Minister Andriy Sybiha condemned what he called a 'barbaric attack' and noted it coincided with the high-stakes summit between U.S. President Donald Trump and Chinese President Xi Jinping in Beijing, urging both leaders to pressure Moscow to end the war.\n\nZelensky called on allies to strengthen Ukraine's air defense capabilities, saying it was 'the only way to save our people and our cities.' The scale of Thursday's assault significantly escalates the military pressure on Kyiv at a moment when diplomatic efforts to negotiate a ceasefire remain stalled.",
       "source": "BBC News",
