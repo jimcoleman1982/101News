@@ -4,6 +4,45 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Trump Says Xi Offered to Help Broker Iran Deal as Beijing Summit Enters Day Two",
+      "summary": "President Donald Trump, in an exclusive interview with Fox News host Sean Hannity from Beijing, revealed that Chinese President Xi Jinping has offered to assist in brokering a resolution to the U.S.-Iran conflict, including ensuring navigation through the Strait of Hormuz. Trump said Xi told him: \"If I can be of any help at all, I would like to be of help.\" Trump noted that China's dependence on Iranian oil gives Beijing a tangible stake in resolving the standoff.\n\nThe disclosure came as the two leaders attended a state banquet on the second day of Trump's high-stakes visit to China, which has drawn a delegation of 17 top U.S. CEOs alongside the president. The summit is being closely watched for signals on the intertwined issues of trade, Taiwan, and the ongoing U.S.-Iran war.\n\nXi's offer to mediate adds a new diplomatic dimension to the Iran conflict, potentially expanding the framework for any eventual ceasefire beyond direct U.S.-Iranian talks. A deal that channels Chinese influence could be a significant geopolitical development, though skeptics note that Beijing's interests do not always align with Washington's goals in the Middle East.\n\nThe summit is covered by more than two dozen major outlets and represents one of the most consequential bilateral meetings of Trump's second term. Both sides have described the atmosphere as productive, though substantive outcomes on trade and Taiwan remain unclear as talks continue.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/trump-heads-to-beijing-for-high-stakes-xi-summit-as-taiwan-tensions-trade-disputes-test-us-strength",
+      "sourceCount": 23,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:12 AM MT",
+      "addedAtISO": "2026-05-14T10:12:27.246541-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Update: UK Health Secretary Wes Streeting Resigns, Declaring He Has 'Lost Confidence' in PM Starmer's Leadership",
+      "summary": "UK Health Secretary Wes Streeting resigned Thursday, publishing a letter to Prime Minister Keir Starmer stating that \"where we need vision, we have a vacuum\" and that he had \"lost confidence\" in Starmer's leadership. The resignation follows devastating local election results in which Reform UK, led by Nigel Farage, made sweeping gains, with Streeting warning that \"for the first time in our country's history, nationalists are in power in every corner of the United Kingdom.\"\n\nIn his letter, Streeting listed significant NHS achievements under his tenure — including the largest monthly drop in waiting lists since 2008, improved ambulance response times, and a record boost in GP recruitment — arguing these were reasons he might stay, but that a loss of confidence in the prime minister made remaining in post \"dishonourable and unprincipled.\"\n\nThe resignation is a major blow to Starmer's already embattled government. It comes on the same day as the State Opening of Parliament, when King Charles III unveiled the government's legislative agenda, overshadowing the ceremonial occasion. Streeting is expected to mount a formal leadership challenge imminently, according to allies who spoke to the BBC.\n\nStreeting's departure intensifies a leadership crisis that has been building since Labour's poor showing in recent elections. Supporters of Starmer argue the government needs time to deliver on its agenda, while critics, including Streeting, contend that the party risks being outflanked by Reform UK without a more decisive change in direction.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8p7p83vdzo",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:12 AM MT",
+      "addedAtISO": "2026-05-14T10:12:27.246541-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "FBI Visits Home of Milwaukee County Elections Director in Expanding Federal Probe of 2020 Swing-State Results",
+      "summary": "An FBI agent visited the private residence of Milwaukee County's elections director and left a business card in an apparent attempt to secure an interview, Milwaukee County Clerk George Christenson confirmed Thursday. No formal charges or subpoenas have been disclosed. The visit is part of a broader Trump administration effort that also includes federal scrutiny of election materials in Fulton County, Georgia, and Wayne County, Michigan — all heavily Democratic jurisdictions in states that were pivotal in the 2020 presidential election.\n\nChristenson sharply criticized the approach, stating: \"No dedicated public servant should be subjected to that type of intrusion simply for carrying out her responsibilities with integrity and professionalism.\" He defended the county's 2020 election results as having been validated by a recount, multiple court challenges, a forensic audit by the Wisconsin Legislative Audit Bureau, and two independent audits. The county said it would cooperate with \"all legitimate\" law enforcement activity while defending against what it described as attacks on democracy.\n\nThe FBI declined to comment. Milwaukee County is Wisconsin's most populous county; Joe Biden won nearly 70% of votes cast there in 2020 and carried the state overall by just over 20,000 votes. The Trump campaign had unsuccessfully sued in December 2020 to disqualify more than 200,000 ballots in Milwaukee and Dane Counties.\n\nSupporters of the federal review argue that unresolved questions about 2020 ballot integrity warrant continued investigation. Critics, including county officials and election-law experts, contend that the repeated audits have settled the matter and that unannounced home visits to local election administrators represent an inappropriate use of federal law enforcement that could intimidate election workers ahead of future contests.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/fbi-milwaukee-county-wisconsin-election-official/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:12 AM MT",
+      "addedAtISO": "2026-05-14T10:12:27.246541-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: U.S.-Iran Ceasefire on 'Life Support' as Strait of Hormuz Partially Reopens",
       "summary": "President Trump declared the U.S.-Iran ceasefire is on 'life support' in a Truth Social post Tuesday, asserting that American forces have decisively crippled Iran's military and warning that media reports suggesting otherwise amount to 'virtual TREASON.' Trump claimed Iran's entire navy had been sunk and its air force destroyed, while cautioning that favorable coverage of Iran undermines U.S. efforts.\n\nMeanwhile, new developments at the Strait of Hormuz offered a mixed picture. Iranian state media reported more than 30 ships had passed through the strait since Wednesday night 'in coordination' with Iranian authorities, with an IRIB correspondent declaring a 'new era' in which passage requires coordination with the IRGC Navy. Tehran separately allowed some Chinese vessels through after diplomatic discussions with Beijing, though it was unclear whether fees were paid.\n\nU.S. Treasury Secretary Scott Bessent, traveling with Trump in Beijing, said it is 'very much' in China's interest to see the strait fully reopened and expressed confidence Beijing would work behind the scenes toward that end. He acknowledged, however, that the situation in Iran was complicated because 'several layers of leadership were decapitated,' making it difficult to communicate with anyone empowered to reach a binding agreement.\n\nSouth Korea also dispatched a technical team to Dubai to investigate a May 4 missile strike on a South Korean cargo ship near the strait, adding to international pressure. The partial reopening of shipping lanes represents a concrete new development, but Iran's insistence that passage now requires IRGC coordination signals ongoing tensions over who controls one of the world's most critical waterways.",
       "source": "Fox News",
