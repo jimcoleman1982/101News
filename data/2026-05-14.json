@@ -3,6 +3,45 @@
   "dateFormatted": "Thursday, May 14, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: Russia Kills Nine, Including a Child, as Missile Strike Demolishes Kyiv Apartment Block",
+      "summary": "Russia launched a third consecutive day of massive drone and missile strikes against Ukraine on Thursday, demolishing a nine-story residential apartment building in Kyiv's Darnytsia neighborhood and killing at least nine people, including a 12-year-old girl. All 18 apartments in the building were destroyed, and approximately 20 residents were reported missing as emergency workers sifted through rubble. Mayor Vitali Klitschko declared Friday a day of mourning.\n\nAdditional strikes across Ukraine wounded more than two dozen civilians in other cities. Ukrainian Foreign Minister Andrii Sybiha noted the timing of the attack coincided with President Trump's visit to Beijing, calling on Trump and Xi Jinping to use their combined leverage to compel Russian President Vladimir Putin to end the now four-year-old invasion.\n\nThe strike represents a significant escalation in the sustained bombardment campaign and is among the deadliest single attacks on Kyiv in recent months. Ukrainian officials have repeatedly urged Western leaders to respond to the intensifying pattern of strikes on civilian infrastructure. The attack follows what Ukrainian officials described earlier today as one of Russia's largest assaults of the war.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-ukraine-drones-missiles-zelenskyy-putin-12b12a7694b6f7df0e1ba971068efc86",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "4:19 PM MT",
+      "addedAtISO": "2026-05-14T16:19:06.935396-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "DOJ Accuses Yale Medical School of Race-Based Discrimination in Admissions",
+      "summary": "The Department of Justice on Thursday accused the Yale School of Medicine of unlawfully favoring Black and Hispanic applicants over white and Asian applicants with equivalent test scores, concluding a yearlong investigation into the school's internal data and policies. The DOJ's civil rights division said Yale's practices are inconsistent with the Supreme Court's 2023 ruling that banned race-conscious admissions at universities.\n\nThe action marks the second time in eight days that the Trump administration has targeted a major medical school over admissions policies, signaling a broadening federal enforcement campaign against affirmative action practices that persist after the Supreme Court's landmark decision. The finding stops short of immediate legal action but puts Yale on notice that further steps could follow.\n\nSupporters of the administration's position argue the findings vindicate the Supreme Court's ruling and protect applicants from discrimination on the basis of race. Critics and civil rights advocates contend that race-conscious admissions policies were lawful tools to address historical inequities and that dismantling them will reduce diversity in medicine, with tangible consequences for underserved communities. Yale has not yet issued a formal public response to the DOJ letter.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5878916-doj-yale-medical-school-race-discrimination/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:19 PM MT",
+      "addedAtISO": "2026-05-14T16:19:06.935396-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "NOAA Raises Odds of Historically Strong 'Super El Niño' Forming by Winter",
+      "summary": "Federal forecasters at NOAA's Climate Prediction Center released updated projections Thursday showing El Niño is developing faster than expected, with a two-in-three chance it will reach strong or very strong intensity by this winter — a significant upgrade from last month's forecast, which favored neutral conditions through June. The probability of El Niño persisting through winter now stands at 96 percent. Separately, European and Australian meteorological agencies issued warnings that 2027 could become the warmest year on record if the event develops as projected.\n\nThe accelerated development is driven by a large pool of abnormally warm water building in the depths of the central and eastern equatorial Pacific, which forecasters say will rise to the surface and sustain strengthening through the summer and fall. The odds of a rare 'Super El Niño' — defined by ocean temperatures more than 2 degrees Celsius above average — between November and January have risen from one-in-four to one-in-three. Some forecast models suggest warming could exceed 3 degrees Celsius, which would surpass the historical record set in 1877.\n\nA strong or super El Niño carries widespread humanitarian implications, including heightened drought and wildfire risk in some regions, severe flooding in others, disruption to global food supplies, and suppression of Atlantic hurricane activity. Scientists note that El Niño's effects compound ongoing human-caused climate warming, pushing global average temperatures even higher. NOAA said substantial uncertainty in peak strength remains and promised a more thorough assessment in July.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:19 PM MT",
+      "addedAtISO": "2026-05-14T16:19:06.935396-06:00"
+    },
+    {
       "category": "politics",
       "headline": "Border Patrol Chief Mike Banks Resigns Immediately After 37 Years of Service",
       "summary": "U.S. Border Patrol Chief Mike Banks announced his resignation effective immediately on Thursday, informing colleagues in an email and telling Fox News simply that \"it's just time.\" Banks, who was appointed to lead the agency in late 2024, oversaw what he described as the most aggressive militarization of the southern border in recent history under the Trump administration's crackdown on illegal immigration.\n\nBanks, a 37-year veteran of public service, called the role \"the honor of my lifetime\" in his farewell message. He had previously made headlines for implementing sweeping enforcement operations along the U.S.-Mexico border and for publicly clashing with critics of the administration's immigration posture. Reports of prostitution allegations involving Banks had circulated in prior weeks, though the circumstances of his departure were not officially linked to those reports.\n\nThe resignation comes as the Trump administration continues rapid turnover at senior immigration enforcement positions. Acting ICE Director Todd Lyons also departed recently, with Dave Venturella named as his replacement. The departures raise questions about leadership continuity at two of the federal government's most prominent immigration enforcement agencies at a moment when border policy remains a central pillar of the administration's agenda.\n\nRepublicans have largely credited the administration's enforcement posture with a significant drop in illegal border crossings, while Democrats and immigration advocates argue the approach has led to due process violations and humanitarian concerns along the border.",
