@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Trump-Xi Beijing Summit Bilateral Talks Underway as President Declares Relations 'Better Than Ever'",
+      "summary": "President Trump and Chinese President Xi Jinping moved into direct bilateral talks in Beijing on Wednesday, with Trump declaring publicly that relations between the two superpowers would be \"better than ever before.\" The summit, the first U.S. presidential visit to China in nearly a decade, comes amid a fragile tariff truce and ongoing tensions over trade, Taiwan, Iran, and fertilizer hoarding. More than a dozen top U.S. CEOs accompanied Trump on the trip.\n\nThe talks are being closely watched as a test of whether the two nations can convert a recent trade detente into durable agreements. Trump has said his first request to Xi would be to \"open up\" China to American commerce, while Beijing is expected to press Washington on the status of Taiwan and the terms of existing tariff arrangements.\n\nAnalysts note the stakes are unusually high. One expert cited by the BBC described China as \"arguably the most powerful competitor the U.S. has confronted in its history.\" The visit follows recent leadership shuffles within China's military and occurs against the backdrop of the Iran conflict, which has rattled global supply chains and put pressure on Chinese export industries.\n\nThe announcement of new bilateral measures is expected before the delegation departs. Whether the summit produces concrete agreements or remains largely symbolic will shape the trajectory of U.S.-China relations for the remainder of Trump's term.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/asia/china",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-13T21:08:31.076563-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "ICE Uncovers Over 10,000 Foreign Students Linked to OPT Visa Fraud Scheme Involving Phantom Employers",
+      "summary": "Acting ICE Director Todd Lyons announced Tuesday that federal investigators have identified more than 10,000 foreign students connected to \"highly suspect employers\" through the STEM Optional Practical Training (OPT) visa extension program. Lyons described the findings as \"just the tip of the iceberg,\" saying investigators uncovered empty buildings, locked doors, and residential addresses listed as workplaces for hundreds of foreign students. Homeland Security Investigations officers conducted site visits in Virginia, Texas, Georgia, Illinois, New York, New Jersey, North Carolina, and Florida.\n\nOPT is a federal program allowing international students on F-1 visas to work temporarily in the U.S. in fields related to their studies. Lyons said the program, created under the Bush administration and expanded under Obama, was originally expected to serve only a few thousand students but has grown into what he called \"an uncontrolled guest worker pipeline with hundreds of thousands of foreign students working in the United States.\"\n\nSupporers of the enforcement action argue the fraud undermines legitimate immigration pathways and displaces American workers, and that the scale of abuse justifies aggressive federal scrutiny. Critics of the broader Trump immigration crackdown contend that sweeping investigations risk ensnaring lawful students and scholars and chilling legitimate academic and professional exchange programs.\n\nThe announcement comes as the administration has simultaneously begun a new wave of international student visa revocations, heightening tensions with universities and foreign governments over U.S. immigration policy.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/ice-drops-uncontrolled-fraud-bombshell-involving-thousands-foreign-students-phantom-employees",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-13T21:08:31.076563-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "House Oversight Committee Releases Transcript of Commerce Secretary Lutnick's Closed-Door Epstein Deposition",
+      "summary": "The House Oversight Committee on Wednesday released the full transcript of Commerce Secretary Howard Lutnick's closed-door deposition regarding his relationship with convicted sex offender Jeffrey Epstein. Lutnick testified before lawmakers on May 6 following public scrutiny over contradictory statements he had made about his ties to Epstein, who was once his neighbor. The committee also released the transcript of a deposition with Ted Waitt, former boyfriend of Epstein associate Ghislaine Maxwell and co-founder of Gateway Inc.\n\nLutnick and Epstein exchanged emails that were released by the Department of Justice in February, fueling congressional interest in the scope of Epstein's connections to current and former government officials. The committee's broader investigation covers the federal government's handling of cases related to Epstein and Maxwell, and has sought testimony from figures including former President Bill Clinton, former Secretary of State Hillary Clinton, and Bill Gates, who is scheduled for a deposition next month.\n\nSeparately, House Democrats held an unofficial field hearing in West Palm Beach, Florida — near Trump's Mar-a-Lago estate — where Epstein survivor Roza, recruited from Uzbekistan as a teenager, testified publicly for the first time that Epstein raped her repeatedly while he was under house arrest following his 2008 conviction. The unofficial hearing carries no legal authority but was organized by Democratic members of the Oversight Committee to keep the case in the public spotlight.\n\nRepublican committee members have focused the formal investigation on the full scope of Epstein's crimes and networks, while Democratic members have concentrated scrutiny on the Trump administration's handling of Epstein-related files and the terms of Epstein's 2008 plea deal, which a Democratic committee report released Tuesday concluded allowed Epstein to continue abusing victims for nearly another decade.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/read-the-full-transcript-of-howard-lutnicks-testimony-about-jeffrey-epstein",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-13T21:08:31.076563-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "California Attorney General Investigates FIFA Over World Cup Ticket Zone Changes",
+      "summary": "California Attorney General Rob Bonta sent a formal letter to FIFA's chief legal officer Wednesday demanding answers about the sports organization's ticketing practices for upcoming World Cup matches in the state. Bonta raised concerns that FIFA sold tickets for specific seating zones that were subsequently changed without adequate notice or recourse for ticket holders, and said his office was assessing whether those practices violated California consumer protection law.\n\nThe investigation covers matches scheduled to be played at California venues as part of the 2026 FIFA World Cup, which the United States is co-hosting with Canada and Mexico. The World Cup represents one of the largest sporting events ever staged on American soil, with tens of millions of fans expected to follow the tournament domestically and internationally.\n\nThe inquiry adds to existing friction between FIFA and American regulators and law enforcement. Separately, Homeland Security Secretary Markwayne Mullin confirmed in a CBS News interview Wednesday that ICE arrests at World Cup venues are \"not off the table\" but said the agency will not be deployed to the event for the purpose of immigration enforcement.\n\nFIFA has not yet publicly responded to Bonta's letter. The outcome of the investigation could have significant implications for how FIFA structures its ticketing and consumer communications for the remainder of the tournament.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/5876891-world-cup-ticket-concerns/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-13T21:08:31.076563-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: UK Prime Minister Starmer Faces Imminent Leadership Challenge as Health Secretary Expected to Declare Bid",
       "summary": "British Prime Minister Keir Starmer convened emergency meetings with cabinet ministers Wednesday after supporters of Health Secretary Wes Streeting told the BBC they expected him to formally challenge Starmer for the Labour Party leadership as soon as Thursday. The crisis erupted on a day meant to showcase the government's agenda through the King's Speech at the State Opening of Parliament, severely undercutting the legislative rollout.\n\nStarmer met directly with Streeting in a session lasting less than 20 minutes, then gathered broader ministerial groups in Parliament to warn them that any leadership contest would 'plunge us into chaos.' The confrontation marks one of the most acute crises of Starmer's tenure, coming in the aftermath of poor local election results that had already prompted calls for a government reset.\n\nThe situation remained fluid Wednesday evening, with BBC political correspondents noting significant numbers of Labour figures lamenting how the party reached this point. It is not yet clear whether Streeting will formally trigger a challenge or whether the warning from Starmer will forestall one. A formal leadership contest would require a vote among Labour MPs and could destabilize the government at a critical legislative moment.",
       "source": "BBC News",
