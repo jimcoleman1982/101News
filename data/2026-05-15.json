@@ -3,6 +3,58 @@
   "dateFormatted": "Friday, May 15, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Colorado Governor Commutes Tina Peters' Sentence, Setting Her Free Next Month",
+      "summary": "Colorado Democratic Gov. Jared Polis on Friday announced he is cutting the prison sentence of Tina Peters, the former Mesa County clerk convicted of tampering with election equipment, by half. The commutation makes Peters eligible for release on June 1. Peters had been serving a nearly nine-year sentence after being convicted in 2023 for allowing unauthorized individuals to access her county's voting systems in a scheme tied to efforts to challenge the results of the 2020 presidential election.\n\nThe move follows sustained pressure from President Trump and his allies, who had championed Peters as a political martyr. Trump issued a symbolic pardon for Peters late last year, though he has no jurisdiction over state-level convictions. Polis had previously described Peters' original sentence as 'harsh,' signaling openness to intervention even as he and Trump are on opposite sides of the political spectrum.\n\nSupporters of Peters, largely on the right, argue she was prosecuted for exposing alleged irregularities in voting systems and that her sentence was disproportionate. Critics and election security advocates counter that her actions directly undermined the integrity of election infrastructure and that commuting the sentence rewards an assault on democratic institutions. Peters was the first local official to be convicted over efforts to subvert the 2020 election result.\n\nThe commutation is notable both for its political symbolism and as an example of a Democratic governor yielding, at least in part, to Republican pressure on a case that became a flashpoint in the national debate over the 2020 election and election security.",
+      "source": "Axios",
+      "url": "https://www.axios.com/local/denver/2026/05/15/polis-tina-peters-sentence-clemency",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:10 PM MT",
+      "addedAtISO": "2026-05-15T16:10:07.580594-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Russian Nationalist Vigilante Group's Raids on Citizens Escalate, BBC Investigation Finds",
+      "summary": "A BBC World Service investigation has documented a sharp rise in raids carried out by Russkaya Obshina, the largest of a network of Russian nationalist vigilante groups, which targets individuals it accuses of violating traditional values. The group has conducted raids on nightclubs, shops, warehouses, hostels, and abortion clinics, with the number of raids increasing rapidly over the past two years. The investigation found evidence suggesting the group has received funding from charities linked to figures close to the Kremlin.\n\nThe BBC spoke with victims including a woman named Katya, whose 30th birthday party was stormed by masked members of the group who subjected guests to physical and verbal attacks. Police participated in at least some raids, and Katya was subsequently convicted of blasphemy because a neon cross-shaped decoration hung on the wall of the nightclub she had rented. She was sentenced to 200 hours of community service.\n\nThe group's stated aim is to accelerate President Vladimir Putin's agenda against what he characterizes as Western liberalism, and to enforce what members describe as traditional family values. One in four of the group's posts target migrants and frequently include racist language, according to the investigation. The group did not respond to BBC requests for comment.\n\nThe findings illuminate how state-aligned private actors are increasingly enforcing social and political conformity in Russia outside formal legal channels, raising concerns about vigilante justice operating with apparent official tolerance or support.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq5p306l7weo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:10 PM MT",
+      "addedAtISO": "2026-05-15T16:10:07.580594-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Senate Judiciary Chair Summons Meta, Alphabet, TikTok and Snap CEOs for June Hearing on Child Safety",
+      "summary": "Senate Judiciary Committee Chairman Chuck Grassley (R-Iowa) has invited the chief executives of Meta, Alphabet, TikTok, and Snap to testify before the committee on June 23 in a hearing titled 'Examining Tech Industry Practices and the Implications for Users and Families: Is This Social Media's Big Tobacco Moment?' The hearing will address Big Tech and AI safety oversight, whistleblower issues, and online child safety, according to a committee spokesperson.\n\nThe summons comes after a pair of recent landmark court decisions against two of the named companies and amid growing bipartisan concern over the effects of social media platforms on minors. Grassley's invocation of the 'Big Tobacco' framing signals an intent to press the companies on whether their internal research showing harms to children was suppressed or ignored, a comparison that has gained traction among lawmakers from both parties.\n\nThe hearing would bring the highest-profile gathering of major tech CEOs before Congress in several years, with the companies collectively reaching billions of users worldwide including hundreds of millions of minors. The committee has broad subpoena authority if the executives decline the invitation to appear voluntarily.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/15/tech-ceos-grassley-june-hearing",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:10 PM MT",
+      "addedAtISO": "2026-05-15T16:10:07.580594-06:00"
+    },
+    {
+      "category": "business",
+      "headline": "World Cup Hotel Bookings Lag in U.S. Host Cities as Industry Warns of Underwhelming Demand",
+      "summary": "Hotel owners in U.S. cities hosting matches in the 2026 FIFA World Cup are reporting significantly lower bookings than anticipated, with the American Hotel and Lodging Association finding that eight in ten hotels in host cities are seeing demand below expectations. Some operators described the tournament as a 'non-event' in booking terms, with occupancy tracking below typical summer levels. One Houston boutique hotel owner near the fan zone reported only 45 percent capacity for the tournament period, compared with 70 percent for the same period last year.\n\nHotel owners cited multiple factors for the shortfall, including the political climate surrounding immigration enforcement under the Trump administration, the rising cost of living in the wake of the U.S.-Iran war, and record-high ticket prices. Official World Cup final tickets were priced as high as $32,970, with resale listings exceeding $2 million. President Trump himself acknowledged the prices were too high.\n\nBy contrast, Airbnb stated the World Cup is on track to be the biggest hosting event in the company's history, suggesting some demand may be shifting to short-term rental accommodations. Industry groups are calling on FIFA to reduce ticket prices and urging the U.S. government to expedite visa processing for international fans. The tournament is scheduled to begin in the coming weeks across multiple American cities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn0p2532xn4o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:10 PM MT",
+      "addedAtISO": "2026-05-15T16:10:07.580594-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: UK Gilts Slump as Andy Burnham Moves to Challenge Starmer for Labour Leadership",
       "summary": "UK government bonds fell sharply and the British pound headed for its worst weekly performance since 2024 as Greater Manchester Mayor Andy Burnham secured a pathway to contest the Labour Party leadership and potentially challenge Prime Minister Keir Starmer. Investors are pricing in a period of political instability, with gilt yields surging on fears that a protracted leadership contest could result in more expansive fiscal policy under a new government.\n\nBurnham is among the frontrunners to mount a challenge following the resignation of Health Secretary Wes Streeting, which has accelerated pressure on Starmer's premiership. The crisis represents a significant deepening of the political turmoil that has gripped the Labour government in recent days, moving from internal cabinet dissent to an open contest for the party leadership.\n\nThe market reaction underscores the severity of the moment: bond investors view a Labour leadership transition as a meaningful risk event for British fiscal policy. The pound's slide and rising gilt yields reflect concern that any successor to Starmer could pursue higher public spending commitments. A formal leadership challenge would require a vote among Labour MPs and party members, a process that could take weeks and leave the government in a weakened state.",
