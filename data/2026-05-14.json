@@ -4,6 +4,45 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: CIA Director Ratcliffe Meets Cuban Counterpart in Havana as U.S. Renews $100M Aid Offer",
+      "summary": "CIA Director John Ratcliffe traveled to Havana on Thursday for a direct meeting with Cuban intelligence and interior ministry officials, marking a significant diplomatic contact as Cuba's energy crisis deepens. A CIA official said Ratcliffe personally delivered a message from President Trump and that the U.S. is \"prepared to seriously engage on economic and security issues, but only if Cuba makes fundamental changes.\" The Cuban delegation included the grandson of former President Raúl Castro, the interior minister, and the head of Cuban intelligence.\n\nThe visit comes as the U.S. renewed an offer of $100 million in humanitarian aid to ease fuel shortages caused by the American oil blockade, which has forced hospitals to operate under severe constraints and closed schools and government offices. Washington stipulated the aid must be distributed through the Catholic Church and independent humanitarian organizations, bypassing the Cuban government — a condition Havana has previously rejected.\n\nCuban President Miguel Díaz-Canel said the crisis could be resolved faster if the U.S. simply lifted the blockade, while Foreign Minister Bruno Rodríguez said Cuba was \"ready to hear the details\" of the aid proposal. Cuba has been cut off from its traditional Venezuelan and Mexican oil suppliers after Trump threatened tariffs on countries that send fuel to the island.\n\nBoth sides described the meeting as aimed at improving dialogue on intelligence cooperation, economic stability, and security. The Cuban statement said both parties expressed interest in bilateral law enforcement cooperation \"in the interest of the security of both countries.\" Protests have erupted in Havana in recent days as the energy crisis worsens.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-14T21:08:29.775801-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Israel and Lebanon Open Third Round of Direct Washington Talks as Truce Nears Expiration",
+      "summary": "A third round of direct negotiations between Israel and Lebanon opened in Washington on Thursday, with higher-level envoys from both countries participating ahead of the imminent expiration of a U.S.-brokered truce. Lebanon's envoy Simon Karam and Israel's Deputy National Security Adviser Yossi Draznin led their respective delegations in what officials described as a step toward more substantive talks. The current ceasefire, originally struck April 17 and extended for three weeks, has failed to stop cross-border fire between Israel and Hezbollah.\n\nThe two sides enter the talks with significant gaps. Israel is focused on the disarmament of Hezbollah and has described the negotiations as a potential precursor to normalization of diplomatic relations. Lebanon is seeking a security agreement or armistice that stops well short of normalization, and a senior Lebanese official said Beirut wants a full ceasefire before any discussion of Israeli troop withdrawal — with the question of Hezbollah's weapons to be handled through Lebanon's domestic political process afterward.\n\nHezbollah, which is not party to the talks, has vocally opposed Lebanon's engagement in direct negotiations with Israel and has continued trading fire across the border despite the truce. The Trump administration has been pushing for a breakthrough; Secretary of State Marco Rubio attended earlier rounds but was traveling with Trump in China and did not attend Thursday's session.\n\nPresident Trump has publicly called for a direct meeting between Lebanese President Joseph Aoun and Israeli Prime Minister Benjamin Netanyahu, but Aoun has declined at this stage, a move his advisers say would generate significant domestic backlash in Lebanon.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/lebanon-and-israel-kick-off-new-negotiations-amid-fighting-with-hezbollah",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-14T21:08:29.775801-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Mississippi Governor Cancels Redistricting Special Session, Stalling GOP Push for 4-0 House Delegation",
+      "summary": "Mississippi Gov. Tate Reeves canceled a planned special legislative session on Wednesday that had been expected to redraw congressional district maps following the Supreme Court's recent \"Callais\" ruling, which addressed how race may factor into redistricting. The decision is a setback for Republican efforts to flip the state's congressional delegation from 3-1 to 4-0 in favor of the GOP, a shift that would have endangered longtime Democratic Rep. Bennie Thompson, who is seeking his 18th term representing the predominantly Black Mississippi Delta region.\n\nReeves cited the state's March 10 primary as already having passed, complicating any near-term change to the electoral landscape, and said he would act in the best interests of both Mississippi and the country in coordination with the Trump administration. He pushed back on characterizations that he had reversed himself, saying the question of redistricting is not \"if\" but \"when.\" Republican activists and voting-rights advocates had pressured Reeves to act immediately, arguing any new map must be in place before the 2026 elections.\n\nThe Callais ruling has prompted several Republican-led states to move toward race-neutral redistricting under the argument that previous maps improperly weighted racial considerations. Supporters of redistricting in Mississippi argue a new map could produce four evenly divided, Republican-leaning districts. Critics and voting-rights advocates, including Thompson, argue the effort is designed to dilute Black political representation in the state.\n\nThompson and Reeves exchanged pointed remarks on social media following the announcement, with Thompson posting an image depicting the state being repainted along racial lines and Reeves countering that Thompson's use of the word \"my\" to describe the district was itself revealing. The issue is expected to resurface after the 2026 election cycle.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/mississippis-gop-governor-drops-election-pledge-huge-setback-trumps-midterm-plan",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-14T21:08:29.775801-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: Russia Kills Nine, Including a Child, as Missile Strike Demolishes Kyiv Apartment Block",
       "summary": "Russia launched a third consecutive day of massive drone and missile strikes against Ukraine on Thursday, demolishing a nine-story residential apartment building in Kyiv's Darnytsia neighborhood and killing at least nine people, including a 12-year-old girl. All 18 apartments in the building were destroyed, and approximately 20 residents were reported missing as emergency workers sifted through rubble. Mayor Vitali Klitschko declared Friday a day of mourning.\n\nAdditional strikes across Ukraine wounded more than two dozen civilians in other cities. Ukrainian Foreign Minister Andrii Sybiha noted the timing of the attack coincided with President Trump's visit to Beijing, calling on Trump and Xi Jinping to use their combined leverage to compel Russian President Vladimir Putin to end the now four-year-old invasion.\n\nThe strike represents a significant escalation in the sustained bombardment campaign and is among the deadliest single attacks on Kyiv in recent months. Ukrainian officials have repeatedly urged Western leaders to respond to the intensifying pattern of strikes on civilian infrastructure. The attack follows what Ukrainian officials described earlier today as one of Russia's largest assaults of the war.",
       "source": "Associated Press",
