@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: UK Gilts Slump as Andy Burnham Moves to Challenge Starmer for Labour Leadership",
+      "summary": "UK government bonds fell sharply and the British pound headed for its worst weekly performance since 2024 as Greater Manchester Mayor Andy Burnham secured a pathway to contest the Labour Party leadership and potentially challenge Prime Minister Keir Starmer. Investors are pricing in a period of political instability, with gilt yields surging on fears that a protracted leadership contest could result in more expansive fiscal policy under a new government.\n\nBurnham is among the frontrunners to mount a challenge following the resignation of Health Secretary Wes Streeting, which has accelerated pressure on Starmer's premiership. The crisis represents a significant deepening of the political turmoil that has gripped the Labour government in recent days, moving from internal cabinet dissent to an open contest for the party leadership.\n\nThe market reaction underscores the severity of the moment: bond investors view a Labour leadership transition as a meaningful risk event for British fiscal policy. The pound's slide and rising gilt yields reflect concern that any successor to Starmer could pursue higher public spending commitments. A formal leadership challenge would require a vote among Labour MPs and party members, a process that could take weeks and leave the government in a weakened state.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/gilts-slump-as-investors-brace-for-burnham-challenge-to-starmer",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:52 PM MT",
+      "addedAtISO": "2026-05-15T13:52:34.768740-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Harvey Weinstein New York Rape Case Ends in Third Mistrial",
+      "summary": "A Manhattan judge declared a mistrial Friday in the rape case against Harvey Weinstein after the jury said it was hopelessly deadlocked and unable to reach a unanimous verdict. The outcome marks the third time a New York jury has been unable to produce a final conviction in the case centered on allegations that Weinstein raped actress Jessica Mann in a hotel room more than a decade ago. Nine jurors wanted to acquit Weinstein and three wanted to convict, according to a juror who spoke to reporters after the verdict.\n\nWeinstein, 74, was originally convicted of raping Mann in 2020, but New York's Court of Appeals overturned that verdict in 2024. A second trial last year also ended in a mistrial. Weinstein remains incarcerated on separate sexual assault charges while Manhattan District Attorney Alvin Bragg said prosecutors are now weighing whether to attempt a fourth trial.\n\nBragg said in a statement that prosecutors \"deeply respect the jury system\" and would consult with Mann before determining next steps, also noting Weinstein's pending sentencing in a separate case. Defense attorneys argued the repeated mistrials demonstrate that \"public perception and prejudice\" surrounding Weinstein have made a fair verdict \"emotionally or socially impossible,\" and called on the DA's office to cease retrying the case.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:52 PM MT",
+      "addedAtISO": "2026-05-15T13:52:34.768740-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Becerra Confronted at California Gubernatorial Debate After Aides Plead Guilty to Stealing $225K from Campaign",
+      "summary": "Former Health and Human Services Secretary Xavier Becerra faced a sustained attack from rivals in California's final gubernatorial debate Thursday, hours after two of his former staffers pleaded guilty to stealing $225,000 from an inactive campaign account. His former chief of staff Sean McCluskie and political strategist Dana Williamson admitted to withdrawing payments of $7,500 to $10,000 from the account between 2022 and 2024 to supplement their own salaries, in violation of Federal Election Commission regulations.\n\nRepublican candidate Steve Hilton, a frontrunner on the GOP side, told Becerra at the debate that he \"shouldn't be on this stage\" and should be \"preparing your criminal defense.\" Democrat Katie Porter also pressed Becerra on the scandal. Becerra denied any wrongdoing, saying in a statement ahead of the debate: \"I did nothing wrong. Case closed.\"\n\nThe guilty pleas add a significant complication to Becerra's standing as a Democratic frontrunner in the crowded race to replace outgoing Gov. Gavin Newsom ahead of the June 2 primary. Prosecutors have not charged Becerra himself, but questions about what he knew and when have become central to the campaign. The scandal crosses partisan lines in framing: Republicans argue it is disqualifying, while Becerra's supporters contend the misconduct was carried out by staff without his knowledge.",
+      "source": "Fox News Politics",
+      "url": "https://www.foxnews.com/politics/becerras-debate-stage-beating-rivals-confront-dem-california-candidate-over-campaign-scandal",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:52 PM MT",
+      "addedAtISO": "2026-05-15T13:52:34.768740-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Five Italian Divers, Including University Professor and Her Daughter, Die in Maldives Cave Dive",
+      "summary": "Five Italian nationals died while attempting to explore underwater caves at a depth of approximately 50 meters in the Maldives' Vaavu Atoll, Italy's Foreign Ministry confirmed Friday. The victims include University of Genoa ecology professor Monica Montefalcone, her daughter and fellow student Giorgia Sommacal, research fellow Muriel Oddenino, marine biology graduate Federico Gualtieri, and boat operations manager and diving instructor Gianluca Benedetti.\n\nThe group entered the water Thursday morning from the yacht Duke of York. The vessel's crew reported them missing when they failed to resurface. Maldives military forces located one body in a cave roughly 60 meters underwater and believe the other four remain in the same area. Recovery operations were suspended due to rough weather and a yellow warning issued for the region; efforts are expected to resume May 16.\n\nThe cause of the accident has not been confirmed. Dive instructor Maurizio Uras suggested oxygen toxicity — a phenomenon that can occur when divers use an inadequately mixed gas supply at extreme depths — as a possible contributing factor. Montefalcone's husband described her as \"among the best divers in the world\" and expressed disbelief that she would have taken unnecessary risks. The incident is believed to be the worst single diving accident in the Maldives' history.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:52 PM MT",
+      "addedAtISO": "2026-05-15T13:52:34.768740-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: Kyiv Mourns 24 Dead as Russia-Ukraine Prisoner Swap Proceeds Amid Renewed Strikes",
       "summary": "Rescue workers in Kyiv's Darnytskyi district completed a 28-hour search of a destroyed nine-story apartment block on Friday, confirming 24 people were killed in a Russian X-101 cruise missile strike — including three girls aged 12 and 15. President Zelensky attended the scene and said the missile had been manufactured in recent weeks, indicating Russia continues to procure components for precision weapons despite sanctions.\n\nHours after the mourning ceremonies, Russia and Ukraine completed an exchange of 205 prisoners of war, most of whom had been held since 2022. The swap had been part of a short-lived ceasefire that Russia effectively ended with its massive strike barrage. Separately, Ukrainian drones struck the city of Ryazan southeast of Moscow, killing four people including a child and damaging residential blocks, according to Russian officials. Ukraine's drone commander said the strikes targeted Ryazan's oil refinery.\n\nThe civilian death toll from the Kyiv apartment strike represents one of the single deadliest attacks on the Ukrainian capital in months, raising pressure on Western allies over weapons supplies and diplomatic strategy. Zelensky called for intensified international pressure on Moscow, warning that Russia 'deliberately destroys lives and hopes to remain unpunished.'\n\nThis is a new development on the Russia-Ukraine conflict: the finalized death toll of 24, the completion of the prisoner exchange, and the Ukrainian retaliatory drone strikes on Ryazan are all materially new facts reported today.",
       "source": "BBC News",
