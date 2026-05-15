@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-15",
+  "dateFormatted": "Friday, May 15, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Trump-Xi Summit Ends With Stabilized Relations but No Formal Breakthroughs",
+      "summary": "President Trump departed Beijing on Thursday after two days of talks with Chinese President Xi Jinping, concluding what both sides described as a historic summit but one that produced no formal agreements on the major issues dividing the two powers. Trump said \"a lot of different problems\" were settled, though substantive announcements on trade, Iran, or Taiwan have yet to materialize. The summit is the highest-level U.S.-China engagement in years, occurring against a backdrop of ongoing U.S.-Iran conflict and severe global economic disruption from the closure of the Strait of Hormuz.\n\nOn Iran, the two leaders agreed Tehran should not possess nuclear weapons, and a potential U.S.-China energy deal — under which Beijing would purchase more American energy in lieu of Iranian oil — was reported to be in early discussions. However, Beijing largely reiterated its existing position, and analysts said the summit moved the needle little on ending the conflict. Iranian Foreign Minister Abbas Araghchi, speaking in New Delhi, welcomed any Chinese diplomatic effort and said Tehran was open to Beijing's mediation.\n\nOn Taiwan, Xi told Trump the island was \"the most important issue\" in U.S.-China relations and delivered an explicit warning. Secretary of State Marco Rubio responded by saying U.S. policy on Taiwan is \"unchanged,\" appearing to quell fears that Trump might use Taiwan as a bargaining chip in broader negotiations. On trade, Trump returned with what he called economic wins, though no formal agreements were confirmed by either government.\n\nThe summit leaves the bilateral relationship in a more stable but unresolved state. Supporters of the engagement argue that direct leader-level contact reduces the risk of miscalculation during a period of global crisis; critics caution that a cordial atmosphere without binding commitments may give Beijing leverage without requiring concessions. The meeting was covered by more than two dozen major outlets, reflecting its status as one of the most consequential diplomatic events of the year.",
+      "source": "Associated Press",
+      "url": "https://www.cnn.com/politics/live-news/trump-china-visit-xi-meeting-hnk",
+      "sourceCount": 25,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-15T05:08:32.940807-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Ebola Outbreak Declared in Eastern DR Congo; 65 Dead, 246 Cases Reported",
+      "summary": "Africa's top health agency declared an Ebola outbreak in the Democratic Republic of Congo's eastern Ituri province on Friday, with approximately 246 cases and 65 deaths reported, concentrated in the gold-mining towns of Mongwalu and Rwampara. The Africa Centres for Disease Control and Prevention said it was convening an emergency meeting with DRC, neighboring Uganda, South Sudan, and international partners to coordinate response efforts and cross-border surveillance. The Congolese government had not yet officially declared an outbreak as of Friday, though a press conference was expected.\n\nPreliminary laboratory tests at the Institut National de Recherche Biomédicale in Kinshasa detected the Ebola virus in 13 of 20 analyzed samples. Africa CDC expressed concern about the high risk of further spread due to the urban settings of the affected towns, ongoing mining activity driving population movement, and proximity to international borders. Additional suspected cases have been reported in Ituri's provincial capital, Bunia, with laboratory confirmation pending.\n\nEbola, first identified in 1976 in what is now DRC, spreads through direct contact with bodily fluids and carries an average fatality rate of roughly 50 percent, according to the World Health Organization. This is the country's 17th outbreak of the disease. The deadliest DRC outbreak, between 2018 and 2020, killed nearly 2,300 people; a separate outbreak in central Kasai province last year killed 45.\n\nIturi province has been under military rule since 2021 due to ongoing armed group activity, including forces affiliated with the Islamic State group, complicating the public health response. Africa CDC executive director Dr. Jean Kaseya warned that \"significant population movement\" between affected areas and neighboring countries makes regional coordination essential.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cze2wpk7y76o",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-15T05:08:32.940807-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: UK's Starmer Faces Open Party Rebellion as Health Secretary Quits and Rivals Position for Challenge",
+      "summary": "British Health Secretary Wes Streeting resigned from Prime Minister Keir Starmer's Cabinet on Thursday, becoming the first senior minister to publicly break with the government and positioning himself as a likely leadership challenger. In a sharply worded resignation letter, Streeting said he had \"lost confidence\" in Starmer, writing: \"Where we need vision, we have a vacuum. Where we need direction, we have drift.\" He called on Starmer to step aside to allow a broad field of candidates to contest the party's future direction, though he stopped short of explicitly declaring his own candidacy.\n\nThe resignation follows devastating results for Labour in last week's local and regional elections, which hardened doubts within the party about Starmer's political judgment and long-term viability as a leader. Two other senior figures — Deputy Prime Minister Angela Rayner and Manchester Mayor Andy Burnham — are also reportedly positioning themselves for potential leadership bids. Starmer responded to Streeting's departure with a conciliatory letter, saying he was \"truly sorry\" to see him leave and making no direct reference to his criticisms.\n\nThis is a material escalation of the previously covered leadership crisis: Streeting's formal resignation from Cabinet represents the rebellion moving from speculation to concrete action, crossing a significant threshold. The Starmer government, which returned Labour to power in July 2024 after 14 years in opposition, is now facing a genuine internal insurgency less than two years into its term. Streeting praised Starmer for \"keeping Britain out of the war in Iran\" but argued that domestic leadership had been inadequate.\n\nThe political situation remains fluid. No formal leadership challenge has been triggered, and Starmer has indicated he intends to continue governing. Whether Streeting's departure prompts a cascade of further resignations or a formal confidence vote will determine the near-term survival of the government.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/britain-politics-starmer-streeting-rayner-6bd359148664c9478ed01b36ebb6e37d",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-15T05:08:32.940807-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: CDC Monitoring 41 People in U.S. for Hantavirus; No Confirmed American Cases",
+      "summary": "The Centers for Disease Control and Prevention said Thursday it is monitoring 41 people in the United States for possible Andes hantavirus infection, up from previous figures, but confirmed there are no cases of the disease on American soil. Eighteen of the individuals under monitoring are quarantined in Nebraska and Atlanta. CDC incident manager David Fitter told reporters the agency does not plan to impose movement restrictions on those being tracked, and most have been advised to remain at home and limit contact with others.\n\nThe monitoring program stems from the outbreak that killed three people aboard a luxury cruise ship earlier this month. The Andes strain of hantavirus, which can spread person-to-person unlike other hantavirus variants, has been at the center of international concern since cases emerged among cruise ship passengers. Previously covered developments included a French patient placed on an artificial lung, contact cases isolating on remote Pitcairn Islands, and WHO stating it saw no sign of a larger outbreak.\n\nThe updated figure of 41 people under surveillance represents a concrete new data point in an evolving public health situation. Hantavirus causes severe respiratory illness and carries a significant fatality rate; the Andes variant's capacity for human-to-human transmission makes it of particular concern to health authorities. The CDC's decision not to impose movement restrictions suggests officials currently assess the risk of broader community spread in the United States as low.\n\nHealth authorities continue to conduct contact tracing and laboratory testing on individuals who may have been exposed through the cruise ship. No timeline has been given for when those under monitoring will be cleared.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/5878827-cdc-hantavirus-response-monitoring/",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-15T05:08:32.940807-06:00"
+    }
+  ]
+}
