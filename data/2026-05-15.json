@@ -3,6 +3,58 @@
   "dateFormatted": "Friday, May 15, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: Trump Signals Shift on Iran Nuclear Demands, Would Accept 20-Year Suspension",
+      "summary": "President Donald Trump said Friday he would accept a 20-year suspension of Iran's nuclear program as a condition for ending the ongoing U.S.-Israel war with Iran, marking a notable shift from his previous demand for a permanent halt to uranium enrichment. Trump made the remarks to reporters aboard Air Force One after departing Beijing, where he had concluded a two-day summit with Chinese President Xi Jinping. He stipulated the suspension would need to be a \"real 20 years\" but did not elaborate on verification mechanisms.\n\nThe statement represents a significant softening of the U.S. position. Trump had previously insisted Iran permanently cease enriching uranium and be prevented from ever acquiring nuclear weapons. U.S. media had reported in April that Vice President JD Vance floated a 20-year minimum during talks in Islamabad, but this appears to be the first time Trump himself has publicly embraced that timeframe.\n\nThe shift complicates relations with Israel, a key partner in the air campaign against Iran. Prime Minister Benjamin Netanyahu has stated Iran's stockpile of enriched uranium must be physically eliminated before the conflict can be considered over, and he vehemently opposed the 2015 Obama-era nuclear deal partly because of its sunset clauses — a concern that applies equally to any time-limited suspension. Israel has not yet responded to Trump's remarks.\n\nThe two sides remain far apart. Iran's latest proposal reportedly called for an immediate end to all fighting, a halt to the U.S. naval blockade of Iranian ports, and guarantees against further strikes — terms the U.S. has not accepted. Pakistan is serving as mediator. Trump also said he and Xi agreed Iran cannot be permitted a nuclear weapon and must reopen the Strait of Hormuz, which Tehran continues to block, keeping global oil prices elevated.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-15T21:08:35.219965-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Trump Leaves Beijing with Vague Trade Commitments, Markets Fall on Lack of Specifics",
+      "summary": "President Trump departed Beijing on Friday after a two-day summit with Chinese President Xi Jinping, announcing a handful of preliminary commercial agreements but offering few binding details. China agreed in principle to purchase 200 Boeing aircraft and expressed interest in buying additional U.S. oil, while U.S. Trade Representative Jamieson Greer cited an expected agricultural goods commitment in the \"double-digit billions\" of dollars. China had not confirmed any of the U.S. statements as of Friday afternoon.\n\nMarkets responded negatively to the lack of concrete outcomes. Dow futures fell more than 300 points, S&P 500 futures dropped 1 percent, and Nasdaq futures declined 1.4 percent. Brent crude rose above $108 a barrel after no firm resolution emerged on reopening the Strait of Hormuz, which Iran continues to blockade. Soybean futures also sold off sharply on the vague agricultural commitment.\n\nAnalysts noted Trump arrived in Beijing with considerably less leverage than during his 2017 visit, when the Commerce Department announced 37 deals totaling more than $250 billion before Air Force One had even left China. This time, Trump faces record-low consumer sentiment at home, rising gas and consumer prices stemming from the Iran war, and an approaching midterm election — pressures Xi Jinping does not share.\n\nSupporters of the summit argued that stabilizing the U.S.-China relationship after years of deterioration was itself a meaningful outcome, and that further commercial negotiations would follow. Critics countered that Trump's weakened domestic position allowed Beijing to extract concessions — including Trump's suggestion he might lift sanctions on Chinese firms buying Iranian oil — while offering little in return. The trip was the first by a U.S. president to Beijing since November 2017.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/05/15/business/stock-market-china-us-deal-trump-xi-business",
+      "sourceCount": 7,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-15T21:08:35.219965-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Pentagon Cancels Troop Deployments to Poland and Germany in European Drawdown",
+      "summary": "The Pentagon has halted the deployment of approximately 4,000 troops from the Army's 2nd Armored Brigade Combat Team, 1st Cavalry Division to Poland, and separately canceled an upcoming deployment of a long-range rocket and missile battalion to Germany, U.S. officials confirmed Friday. The moves are part of a presidential order issued in early May directing a reduction of roughly 5,000 U.S. forces in Europe. Defense Secretary Pete Hegseth signed a memo directing the Joint Chiefs to move a brigade combat team out of Europe, with military leaders choosing which unit to halt.\n\nThe decision reflects a widening rift between the Trump administration and European NATO allies over the ongoing U.S.-Iran conflict. Trump has repeatedly criticized NATO members for insufficient support and clashed publicly with German Chancellor Friedrich Merz, who recently said the U.S. was being \"humiliated\" by Iranian leadership and condemned what he called a lack of coherent strategy. The troop reduction had initially been described as targeting only Germany; the cancellation of the Poland deployment surprised officials in Warsaw.\n\nPolish Prime Minister Donald Tusk said Friday he received assurances that the Poland cancellation was a logistical consequence of the Germany reduction and was not directed at Poland specifically. Polish officials maintained the move was not targeted at their country. Nonetheless, the development has raised concerns among Eastern European allies who depend on forward-deployed U.S. forces as a deterrent against Russian aggression.\n\nCritics in Congress and among defense analysts warned that drawing down European forces during an active Middle East conflict and ongoing Russian pressure on NATO's eastern flank sends a damaging signal to allies and adversaries alike. The administration has not publicly detailed how or whether the reduction will be offset by other security arrangements.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/poland-us-troop-reduction-deployment-europe-34138e62c7afc0b83ab7c7cc8fa60071",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-15T21:08:35.219965-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Rep. Steve Cohen Drops Reelection Bid After Tennessee Redistricting Carves Up His Majority-Black District",
+      "summary": "Democratic Rep. Steve Cohen of Tennessee announced Friday he is ending his reelection campaign after Republicans in the state legislature enacted a new congressional map that dismantles his majority-Black Memphis district, reshaping it to benefit the GOP. Cohen, who has represented the district for nearly two decades, said the boundaries were drawn specifically to defeat him. He is challenging the redistricting in court and said he would reenter the race if a lawsuit succeeds in restoring his original district.\n\nTennessee is the first state to enact new congressional maps following a recent U.S. Supreme Court decision that significantly weakened federal Voting Rights Act protections for minority voters. Republicans in Louisiana, Alabama, and South Carolina are also moving toward redistricting, signaling that Cohen's situation may be a preview of broader changes to the House map ahead of November's midterm elections. The effort is part of President Trump's broader strategy to preserve the GOP's slim House majority.\n\nCohen, the first Jewish person to represent Tennessee in Congress, is one of the last white Democrats elected from a Southern majority-Black district — a distinction he called \"unique in America.\" He had been facing a primary challenge from state lawmaker Justin Pearson, a Black progressive who represents much of Memphis in the Tennessee General Assembly. Pearson said Friday he intends to continue his campaign in the redrawn 9th Congressional District, which now includes multiple rural counties that backed Trump by double-digit margins.\n\nRepublicans have framed the redistricting as a legal exercise of state legislative authority following the Supreme Court's ruling. Democrats and voting rights advocates argue the maps are designed to dilute Black political representation and eliminate competitive seats, warning that the precedent set in Tennessee could strip minority communities of congressional representation across the South.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/steve-cohen-e1512c0a65ba6de5d0ec0c15e3831a95",
+      "sourceCount": 15,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-15T21:08:35.219965-06:00"
+    },
+    {
       "category": "politics",
       "headline": "Colorado Governor Commutes Tina Peters' Sentence, Setting Her Free Next Month",
       "summary": "Colorado Democratic Gov. Jared Polis on Friday announced he is cutting the prison sentence of Tina Peters, the former Mesa County clerk convicted of tampering with election equipment, by half. The commutation makes Peters eligible for release on June 1. Peters had been serving a nearly nine-year sentence after being convicted in 2023 for allowing unauthorized individuals to access her county's voting systems in a scheme tied to efforts to challenge the results of the 2020 presidential election.\n\nThe move follows sustained pressure from President Trump and his allies, who had championed Peters as a political martyr. Trump issued a symbolic pardon for Peters late last year, though he has no jurisdiction over state-level convictions. Polis had previously described Peters' original sentence as 'harsh,' signaling openness to intervention even as he and Trump are on opposite sides of the political spectrum.\n\nSupporters of Peters, largely on the right, argue she was prosecuted for exposing alleged irregularities in voting systems and that her sentence was disproportionate. Critics and election security advocates counter that her actions directly undermined the integrity of election infrastructure and that commuting the sentence rewards an assault on democratic institutions. Peters was the first local official to be convicted over efforts to subvert the 2020 election result.\n\nThe commutation is notable both for its political symbolism and as an example of a Democratic governor yielding, at least in part, to Republican pressure on a case that became a flashpoint in the national debate over the 2020 election and election security.",
