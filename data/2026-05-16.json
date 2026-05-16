@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: US Brokers 45-Day Lebanon-Israel Ceasefire Extension as Israeli Strike Kills Six",
+      "summary": "The United States announced Friday that Israel and Lebanon have agreed to a 45-day extension of their fragile ceasefire, following two days of negotiations in Washington. State Department spokesman Tommy Pigott said the two sides hoped the discussions would \"advance lasting peace\" and full mutual recognition of sovereignty, with a security track to be launched at the Pentagon on May 29.\n\nThe announcement came the same day Lebanon's health ministry reported that an Israeli air strike on the town of Harouf in southern Lebanon killed six people, including three paramedics, and critically wounded a fourth paramedic at a civil defence centre. Israel has not commented on the specific strike. Lebanon accused Israel of targeting civilians and medical personnel, which Israel denies, saying its operations are aimed at Hezbollah fighters and infrastructure.\n\nThe ceasefire, originally brokered by President Trump on April 16, has been violated almost daily, with Israel intensifying air and artillery strikes and Hezbollah continuing rocket and drone attacks into northern Israel. Israel says it is establishing a buffer zone in southern Lebanon to prevent future Hezbollah attacks. More than one million Lebanese — roughly one in five of the population — have been displaced since the conflict escalated.\n\nIsrael's Ambassador to the US called the Washington talks \"frank and constructive,\" while Lebanon's Prime Minister Nawaf Salam said he hoped to mobilize Arab and international support for Lebanon's negotiating position. The state department said a political track of negotiations would reconvene in June.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:02 AM MT",
+      "addedAtISO": "2026-05-16T10:02:53.539810-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Targets Sen. Cassidy as Louisiana Republican Senate Primary Votes Saturday",
+      "summary": "Louisiana's Republican Senate primary is taking place Saturday, with incumbent Sen. Bill Cassidy fighting for his political future against Rep. Julia Letlow, who is backed by President Donald Trump. Trump used social media on Saturday morning to call Cassidy \"a disloyal disaster\" and \"a terrible guy,\" predicting he would \"get CLOBBERED\" while praising Letlow as \"a winner.\"\n\nCassidy drew Trump's ire primarily for voting to convict him in his second impeachment trial following the January 6, 2021 Capitol attack, and for clashing with Health Secretary Robert F. Kennedy Jr. over vaccine policy, even though Cassidy provided crucial support for Kennedy's Senate confirmation. A third candidate, state Treasurer John Fleming, is also in the race. If no candidate clears 50 percent of the vote, a runoff will be held June 27.\n\nThe race is widely seen as a test of Trump's ability to purge the Senate Republican caucus of members he views as disloyal. Cassidy's campaign is expected to have spent roughly $9.6 million on advertising, with a supporting super PAC adding $12.3 million — significantly outspending Letlow. Some Republican strategists say the race is statistically unlikely but no longer impossible for Cassidy to win.\n\nThe primary is also complicated by a recent Supreme Court ruling affecting the Voting Rights Act, which prompted Louisiana to delay House primaries to allow congressional district lines to be redrawn, potentially causing voter confusion on Saturday. The Senate seat is heavily favored to remain Republican in the November general election regardless of which candidate wins the primary.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/trump-disparages-incumbent-sen-cassidy-and-tries-to-propel-his-challenger-in-louisiana-gop-primary",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:02 AM MT",
+      "addedAtISO": "2026-05-16T10:02:53.539810-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "London Deploys 4,000 Police as Right-Wing Rally and Nakba Day March Converge",
+      "summary": "London's Metropolitan Police deployed approximately 4,000 officers on Saturday as two major competing protests converged in the British capital, raising significant concerns about potential unrest. Authorities described it as one of their busiest and most operationally complex days in recent years.\n\nA right-wing rally and a Nakba Day march — marking the 78th anniversary of Palestinian displacement following the 1948 Arab-Israeli war — are taking place simultaneously, heightening tensions between demonstrators and the risk of confrontation. Police have warned both groups of strict conditions on their movements and behavior.\n\nThe heavy security presence reflects broader anxieties in Britain about public order following a series of far-right disturbances in 2025 that prompted emergency government action. Authorities have signaled a zero-tolerance approach to violence or intimidation from any quarter.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-16/rival-london-protests-raise-unrest-risk-as-4-000-police-deployed",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:02 AM MT",
+      "addedAtISO": "2026-05-16T10:02:53.539810-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "FBI Offers $200,000 Reward for Former Air Force Specialist Who Defected to Iran",
+      "summary": "The FBI announced a $200,000 reward Wednesday for information leading to the capture and prosecution of Monica Elfriede Witt, a former U.S. Air Force counterintelligence specialist who defected to Iran in 2013 and was indicted in 2019 on espionage charges. Witt, 47, remains at large more than a decade after her defection.\n\nWitt served in the Air Force from 1997 to 2008, where she was trained in the Farsi language and deployed on classified counterintelligence missions in the Middle East. She later worked as a Defense Department contractor before defecting following two all-expenses-paid trips to Iran that the Justice Department said promoted anti-Western propaganda. According to the indictment, she provided the Iranian government with sensitive national defense information and conducted research to help Iran target her former U.S. government colleagues.\n\nThe FBI's decision to renew attention to a case that is more than a decade old comes at a moment of heightened U.S.-Iran tensions, with the two countries having been in a state of conflict since late February. The bureau said it believes \"during this critical moment in Iran's history, there is someone who knows something about her whereabouts.\" Witt had been warned by the FBI before her defection but told agents she would not share sensitive information if she returned to Iran.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/monica-witt-iran-fbi-counterintelligence-defector-1e11b09b9cb7d8a0d568019d8adf7942",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:02 AM MT",
+      "addedAtISO": "2026-05-16T10:02:53.539810-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: Trump Leaves Beijing with Boeing Deal Claim but No Confirmed Trade Breakthroughs",
       "summary": "President Trump departed Beijing following a two-day summit with Chinese President Xi Jinping, declaring the talks \"very successful\" and claiming China had agreed to purchase 200 Boeing jets with a potential commitment for 750 more — a deal Boeing confirmed. Trump also said American farmers would benefit from Chinese purchases of \"billions of dollars\" in soybeans, though Beijing has not confirmed any specific trade agreements.\n\nChinese Foreign Minister Wang Yi confirmed Xi will visit the White House in September, and both sides agreed to establish a \"Board of Trade\" to manage the bilateral relationship without reopening tariff negotiations. Notably, Trump told reporters aboard Air Force One that he and Xi did not discuss tariffs at all during the summit, a claim that surprised many observers given the looming November expiration of the existing tariff truce.\n\nThe summit was defined by warm symbolism — Trump received an honor guard, a state banquet, and access to the exclusive compound where China's Communist Party leaders reside — but analysts noted the gap between the rhetoric and concrete outcomes. China's foreign ministry spokesman declined to confirm specific deals, saying only that both sides should implement the \"important consensus\" reached and work toward stability in bilateral trade.\n\nThe absence of formal breakthroughs on tariffs, rare earth exports, or Taiwan leaves significant uncertainty heading into the fall. U.S. Treasury Secretary Scott Bessent indicated he expected progress on a future investment mechanism, but the summit's legacy may hinge on whether Xi's White House visit in September produces more tangible agreements.",
       "source": "BBC News",
