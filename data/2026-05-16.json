@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-16",
+  "dateFormatted": "Saturday, May 16, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Israeli Settlers Attack Areas of Palestinian Self-Governance in West Bank",
+      "summary": "Violent Israeli settler attacks in the West Bank have expanded beyond areas under direct Israeli military control, with settlers now targeting zones where Israel formally agreed to Palestinian self-governance under past accords. The escalation represents a significant shift in the scope and reach of settler violence, according to reporting drawing on 14 news outlets across the political spectrum.\n\nIsraeli government critics and Palestinian authorities argue the attacks undermine any remaining framework for a two-state solution and amount to a systematic effort to drive Palestinians from territory designated for their administration. Human rights organizations have documented an increase in such incidents over the past year, with some accusing Israeli security forces of failing to intervene.\n\nSupporters of the current Israeli government contend that settler activity reflects legitimate security concerns in areas where Palestinian governance has failed to prevent terrorism, and that characterizing the violence as organized policy misrepresents what they describe as the actions of individuals. The Israeli government has condemned some specific violent acts while drawing criticism for not prosecuting perpetrators at higher rates.\n\nThe story carries heightened significance given ongoing U.S.-brokered discussions around Gaza and regional stability. The West Bank situation remains a parallel and complicating front in the broader Israeli-Palestinian conflict, with implications for diplomatic efforts involving the United States, European Union, and Arab states.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/section/world/middleeast",
+      "sourceCount": 14,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-16T05:08:15.932572-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: Six Hantavirus-Exposed Cruise Passengers Begin Three-Week Quarantine in Australia",
+      "summary": "Six passengers from the MV Hondius — a cruise ship at the center of a hantavirus outbreak — arrived in Australia on Friday and were transferred to the Bullsbrook quarantine facility near Perth for a mandatory three-week isolation period. The passengers, five Australians and one New Zealander, all tested negative for the virus before departing the Netherlands but remain under observation given the 42-day potential incubation period identified by the World Health Organization.\n\nAustralian Health Minister Mark Butler described the government's response as among the world's most stringent, contrasting it with procedures in the United States and most European countries, where returning passengers are spending only a few days in quarantine centers before being released to their homes. The Bullsbrook facility was originally built in 2022 in response to the COVID-19 pandemic and had remained largely unused.\n\nThree people among the 11 confirmed cases from the MV Hondius have died. The ship, which was traveling from Argentina to Antarctica and remote South Atlantic islands when the outbreak was identified, is now sailing back to the Netherlands for cleaning and disinfection. Authorities have not yet determined what precautions will govern the remainder of the full 42-day incubation window once the initial three-week quarantine ends.\n\nThe outbreak has drawn global attention to hantavirus, a rodent-borne illness that is not typically transmitted person-to-person but carries a significant mortality rate in severe cases. The CDC previously reported monitoring 41 people in the United States for potential exposure.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/6-passengers-from-hantavirus-hit-cruise-ship-arrive-in-australia-for-3-week-quarantine",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-16T05:08:15.932572-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Wife of Active-Duty U.S. Army Soldier Released After Month in ICE Detention",
+      "summary": "Deisy Rivera Ortega, the wife of Sgt. 1st Class Jose Serrano, an active-duty U.S. Army soldier, was released from federal immigration detention on Thursday after spending approximately one month in custody. Rivera Ortega had been arrested at an immigration office in El Paso, Texas, on April 14. Her release was confirmed by the office of Sen. Tammy Duckworth (D-Ill.).\n\nThe case drew attention as one of several high-profile instances in which family members of U.S. military personnel have been detained in the course of broad immigration enforcement operations. Critics, including Democratic lawmakers and military family advocates, argued the detention of a service member's spouse was a damaging and counterproductive consequence of current enforcement priorities.\n\nAdministration supporters and immigration enforcement advocates have maintained that legal immigration status requirements apply uniformly and that the government must uphold immigration law regardless of a detainee's family connections, while noting that the release demonstrates the system's capacity to address individual cases through review.\n\nThe case adds to ongoing national debate over the scope and implementation of immigration enforcement under current federal policy, particularly as it affects people with direct ties to the U.S. military.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/5880586-deisy-rivera-ortega-release/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-16T05:08:15.932572-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Andy Burnham Moves Toward Formal Challenge to UK Prime Minister Starmer",
+      "summary": "Andy Burnham, the Mayor of Greater Manchester, has identified a credible route to challenge Prime Minister Keir Starmer for the Labour Party leadership, according to reporting from the New York Times and Politico. While no formal challenge has yet been declared, Burnham's positioning marks a concrete escalation in the internal party crisis that erupted this week with the resignation of Health Secretary Wes Streeting.\n\nThe development is the latest in a week of significant political turbulence for the Starmer government, which has faced an open party rebellion and the departure of senior cabinet members. Burnham is widely seen as a potential figurehead for Labour's left and centrist dissenters who believe Starmer has lost the authority to govern effectively.\n\nStarmer's allies have pushed back against suggestions of an imminent leadership contest, arguing that internal party rules make a successful challenge logistically difficult and that the prime minister retains the support of a majority of Labour MPs. They contend that external pressures, including economic headwinds and opposition attacks, are being exploited by rivals.\n\nThe UK political situation remains fluid. A formal leadership contest would require a significant threshold of parliamentary party nominations, and it is unclear whether Burnham or any other potential challenger currently has sufficient support to trigger one. The story continues to develop.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/16/world/europe/britain-politics-labour-whats-next.html",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-16T05:08:15.932572-06:00"
+    }
+  ]
+}
