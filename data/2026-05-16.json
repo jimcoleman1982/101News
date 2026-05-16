@@ -4,6 +4,45 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Gunmen Kidnap More Than 50 Children, Including Toddlers, From Nigerian Schools",
+      "summary": "Armed gunmen abducted more than 50 children from three schools in Mussa, Borno state, in northeastern Nigeria on Friday, with most victims aged between two and five years old. Eyewitnesses told the BBC that the attackers used the children as human shields while fleeing on motorbikes, preventing security forces from opening fire. A statement from Senator Ali Ndume of Borno South confirmed at least 42 children were taken from two of the schools.\n\nHeadmaster Abdu Dunama of Mussa Central Primary School said armed men stormed the building after troops on patrol had departed the town, seizing 34 children — mostly nursery pupils aged five and under — directly from their classrooms. No group has immediately claimed responsibility, though residents and analysts noted the attacks bore hallmarks of Boko Haram, the Islamist militant group contesting the region with its rival faction, the Islamic State West Africa Province.\n\nThe kidnappings have prompted an urgent appeal from the largely farming community for government intervention. Security forces are reported to be on the ground tracking the abductors. The incident is the latest in a spate of mass abductions across Nigeria and deepens an already severe humanitarian crisis in Borno state, a region that has endured decades of Islamist insurgency.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "1:19 PM MT",
+      "addedAtISO": "2026-05-16T13:19:07.713949-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Supreme Court Rejects Virginia Democrats' Bid to Restore Voter-Approved Congressional Map",
+      "summary": "The U.S. Supreme Court on Friday declined an emergency request from Virginia Democrats to reinstate a voter-approved congressional redistricting map that the Virginia Supreme Court had struck down as unconstitutional. The high court issued its order without any noted dissent, dealing a decisive blow to a Democratic effort that had drawn more than $64 million in spending and was seen as a potential path to flipping four House seats ahead of November's midterm elections.\n\nThe Virginia Supreme Court had earlier ruled that the process leading to the referendum approving the new map was legally flawed. The U.S. Supreme Court's refusal to pause that ruling and allow time for a federal appeal effectively ends the redistricting fight and leaves in place existing congressional lines that favor Republicans. Virginia Gov. Abigail Spanberger blasted the decision, accusing both courts of nullifying voters' choices.\n\nThe ruling is the latest development in a broader national mid-decade redistricting competition, accelerated by Republican-controlled legislatures redrawing maps in multiple states following a Supreme Court voting rights decision. Democrats had bet heavily on Virginia as a counterweight to GOP gains elsewhere. Republicans argued the Democratic map-drawing process violated state constitutional procedures, a position now upheld at every judicial level.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/news/taking-a-chance-on-you-judge-had-admitted-risk-of-letting-boston-parkway-shooter-off-with-light-sentence/",
+      "sourceCount": 24,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:19 PM MT",
+      "addedAtISO": "2026-05-16T13:19:07.713949-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Car Rams Pedestrians in Italian City of Modena, Injuring Eight; Woman Loses Both Legs",
+      "summary": "A car plowed into pedestrians on a main street in Modena, a city in northern Italy, on Saturday, injuring at least eight people, four of them critically, local authorities said. One woman was pinned against a shop window and required the amputation of both legs, according to Mayor Massimo Mezzetti. Victims were transported to hospitals in Modena and Bologna, with the most critical cases airlifted by helicopter.\n\nThe driver, a 31-year-old man born in Bergamo and raised in the Modena province, mounted the sidewalk and struck multiple people before crashing into a shop front. Witnesses reported he was carrying a knife but did not stab anyone. Bystanders intervened to detain the suspect until police arrived; he is now being questioned at police headquarters while authorities determine whether the act was deliberate, linked to substance use, or both.\n\nItalian Prime Minister Giorgia Meloni called the incident \"extremely serious\" and expressed solidarity with the victims, praising citizens who helped subdue the suspect. Mayor Mezzetti said that if the act proved intentional, it would be \"even more serious.\" Investigators have not yet publicly characterized the incident as a terrorist attack, and the suspect's motive remains under investigation.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/vehicle-rams-into-pedestrians-in-italy-injuring-at-least-8-people",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:19 PM MT",
+      "addedAtISO": "2026-05-16T13:19:07.713949-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: US Brokers 45-Day Lebanon-Israel Ceasefire Extension as Israeli Strike Kills Six",
       "summary": "The United States announced Friday that Israel and Lebanon have agreed to a 45-day extension of their fragile ceasefire, following two days of negotiations in Washington. State Department spokesman Tommy Pigott said the two sides hoped the discussions would \"advance lasting peace\" and full mutual recognition of sovereignty, with a security track to be launched at the Pentagon on May 29.\n\nThe announcement came the same day Lebanon's health ministry reported that an Israeli air strike on the town of Harouf in southern Lebanon killed six people, including three paramedics, and critically wounded a fourth paramedic at a civil defence centre. Israel has not commented on the specific strike. Lebanon accused Israel of targeting civilians and medical personnel, which Israel denies, saying its operations are aimed at Hezbollah fighters and infrastructure.\n\nThe ceasefire, originally brokered by President Trump on April 16, has been violated almost daily, with Israel intensifying air and artillery strikes and Hezbollah continuing rocket and drone attacks into northern Israel. Israel says it is establishing a buffer zone in southern Lebanon to prevent future Hezbollah attacks. More than one million Lebanese — roughly one in five of the population — have been displaced since the conflict escalated.\n\nIsrael's Ambassador to the US called the Washington talks \"frank and constructive,\" while Lebanon's Prime Minister Nawaf Salam said he hoped to mobilize Arab and international support for Lebanon's negotiating position. The state department said a political track of negotiations would reconvene in June.",
       "source": "BBC News",
