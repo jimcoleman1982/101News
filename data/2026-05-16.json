@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Trump Leaves Beijing with Boeing Deal Claim but No Confirmed Trade Breakthroughs",
+      "summary": "President Trump departed Beijing following a two-day summit with Chinese President Xi Jinping, declaring the talks \"very successful\" and claiming China had agreed to purchase 200 Boeing jets with a potential commitment for 750 more — a deal Boeing confirmed. Trump also said American farmers would benefit from Chinese purchases of \"billions of dollars\" in soybeans, though Beijing has not confirmed any specific trade agreements.\n\nChinese Foreign Minister Wang Yi confirmed Xi will visit the White House in September, and both sides agreed to establish a \"Board of Trade\" to manage the bilateral relationship without reopening tariff negotiations. Notably, Trump told reporters aboard Air Force One that he and Xi did not discuss tariffs at all during the summit, a claim that surprised many observers given the looming November expiration of the existing tariff truce.\n\nThe summit was defined by warm symbolism — Trump received an honor guard, a state banquet, and access to the exclusive compound where China's Communist Party leaders reside — but analysts noted the gap between the rhetoric and concrete outcomes. China's foreign ministry spokesman declined to confirm specific deals, saying only that both sides should implement the \"important consensus\" reached and work toward stability in bilateral trade.\n\nThe absence of formal breakthroughs on tariffs, rare earth exports, or Taiwan leaves significant uncertainty heading into the fall. U.S. Treasury Secretary Scott Bessent indicated he expected progress on a future investment mechanism, but the summit's legacy may hinge on whether Xi's White House visit in September produces more tangible agreements.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:56 AM MT",
+      "addedAtISO": "2026-05-16T07:56:30.550420-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Rescue Diver Dies Searching for Bodies of Five Italians Who Drowned in Maldives Caves",
+      "summary": "A Maldivian rescue diver, Staff Sgt. Mohamed Mahdhee, died Saturday after losing consciousness while searching for the bodies of five Italian divers who perished in a cave-diving accident earlier in the week at Vaavu Atoll, approximately 100 kilometers south of the capital Malé. Mahdhee was pulled from the water unresponsive and later died in hospital, adding a sixth fatality to what is already considered the worst single diving accident in Maldivian history.\n\nThe five Italian victims included Monica Montefalcone, a professor of ecology at the University of Genoa, her daughter, two researchers, and a diving instructor who served as the group's boat operations manager. The team entered the water Thursday morning and never resurfaced. Only one body is believed to have been recovered so far, found at a depth of around 60 meters — double the 30-meter limit for recreational scuba diving in Maldivian waters.\n\nMaldivian President Mohamed Muizzu traveled to the atoll Saturday to observe search operations, which authorities have described as extremely high-risk due to unfavorable weather conditions. Investigators have not yet explained why the Italian divers descended to such depths or entered the cave system.\n\nItaly's foreign ministry confirmed that 20 other Italian nationals aboard the yacht from which the group departed are unharmed and receiving assistance from the Italian embassy in Colombo, Sri Lanka. The cause of the original accident remains under investigation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:56 AM MT",
+      "addedAtISO": "2026-05-16T07:56:30.550420-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Anti-Immigration AI Videos Targeting UK Audiences Traced to Overseas Operators in Sri Lanka, Iran, and Vietnam",
+      "summary": "A BBC Panorama investigation has identified dozens of interconnected Facebook and Instagram accounts producing AI-generated anti-immigration videos about the United Kingdom that have amassed millions of views — while being operated by individuals based in Sri Lanka, Vietnam, Iran, the United Arab Emirates, the United States, and elsewhere in Europe. One account, \"Great British People,\" presents itself as a Yorkshire-based page and has garnered 1.3 million views for a recent video of an elderly white man lamenting his pension, but is run from Sri Lanka.\n\nThe videos feature fabricated scenes including the House of Commons filled with men in traditional Arab clothing supposedly imposing Sharia law, and fake interviews with women in hijabs discussing Islamization of the UK. Several accounts previously focused on American political content before pivoting to anti-immigration narratives about Britain. Some accounts also share content sympathetic to the Russian and Iranian governments, though direct state involvement is difficult to verify.\n\nLondon Mayor Sadiq Khan, who has separately commissioned research into AI-generated images depicting London in decline, said some account operators are motivated purely by money while others appear to be backed by hostile states. Cambridge University social psychologist Prof. Sander van der Linden described the accounts as a \"new evolution of influence operations,\" warning that exposure to large volumes of AI fakes causes people to distrust authentic material as well.\n\nThe investigation highlights the ease with which overseas actors can purchase UK-registered social media accounts and use inexpensive AI tools to manufacture seemingly domestic political content, posing a challenge for platform regulators and election authorities ahead of future votes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:56 AM MT",
+      "addedAtISO": "2026-05-16T07:56:30.550420-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Train Kills at Least Eight in Bangkok After Freight Locomotive Strikes Public Bus",
+      "summary": "A collision between a freight train and a public bus killed at least eight people and injured 25 others in Bangkok on Saturday, triggering a fire that engulfed the bus and spread to nearby vehicles. Emergency services dispatched firefighters and rescue crews to the scene, where teams worked simultaneously to pull survivors from the wreckage and contain the blaze.\n\nAuthorities said the fire has since been brought under control, with crews working to cool the area, ventilate gas, and continue searching for additional victims. The cause of the collision is under investigation, and Thai officials have not yet indicated whether driver error, a signal failure, or mechanical issues were responsible.\n\nThe crash represents a significant mass casualty event in one of Southeast Asia's largest cities, with the death toll potentially subject to revision as search operations continue.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:56 AM MT",
+      "addedAtISO": "2026-05-16T07:56:30.550420-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Israeli Settlers Attack Areas of Palestinian Self-Governance in West Bank",
       "summary": "Violent Israeli settler attacks in the West Bank have expanded beyond areas under direct Israeli military control, with settlers now targeting zones where Israel formally agreed to Palestinian self-governance under past accords. The escalation represents a significant shift in the scope and reach of settler violence, according to reporting drawing on 14 news outlets across the political spectrum.\n\nIsraeli government critics and Palestinian authorities argue the attacks undermine any remaining framework for a two-state solution and amount to a systematic effort to drive Palestinians from territory designated for their administration. Human rights organizations have documented an increase in such incidents over the past year, with some accusing Israeli security forces of failing to intervene.\n\nSupporters of the current Israeli government contend that settler activity reflects legitimate security concerns in areas where Palestinian governance has failed to prevent terrorism, and that characterizing the violence as organized policy misrepresents what they describe as the actions of individuals. The Israeli government has condemned some specific violent acts while drawing criticism for not prosecuting perpetrators at higher rates.\n\nThe story carries heightened significance given ongoing U.S.-brokered discussions around Gaza and regional stability. The West Bank situation remains a parallel and complicating front in the broader Israeli-Palestinian conflict, with implications for diplomatic efforts involving the United States, European Union, and Arab states.",
       "source": "New York Times",
