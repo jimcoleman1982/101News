@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "world",
+      "headline": "U.S.-Nigeria Joint Strike Kills Senior Islamic State Leader in Lake Chad Basin",
+      "summary": "U.S. and Nigerian forces killed Abu Bakr al-Mainuki, a senior Islamic State leader, in a precision air-land operation carried out early Saturday in the Lake Chad Basin. President Trump announced the strike in a late-night social media post, describing al-Mainuki as the group's global second-in-command and a key figure in IS financing and organization who had been plotting attacks against the United States and its interests. Nigerian President Bola Tinubu confirmed the operation, stating that al-Mainuki was killed alongside several of his lieutenants during a strike on his compound.\n\nThe Nigerian military task force spokesperson described the mission as a 'highly complex precision air-land operation' lasting three hours, conducted without casualties or loss of assets. Al-Mainuki, born in Nigeria's Borno province in 1982, took command of the IS branch in West Africa after his predecessor was killed in 2018 and was sanctioned by the U.S. in 2023. The UN has reported that IS intensified activity in West Africa, with more than 500 attacks recorded between January and October of last year.\n\nSome analysts disputed Trump's characterization of al-Mainuki as the global second-in-command, though his importance to the West Africa affiliate was not in question. The operation is the latest under a security partnership between the U.S. and Nigeria that began last year. The task force called it 'the single most consequential counterterrorism outcome' in the region since operations began in 2015.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/trump-islamic-state-nigeria-almainuki-e05aaa1b7e07037b2de5954f335114d0",
+      "sourceCount": 17,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-05-16T18:08:41.983658-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: Canadian Passenger from Hantavirus-Hit Cruise Ship Tests Positive, Raising Total Infections to 11",
+      "summary": "A Canadian who sailed on the MV Hondius, the cruise ship struck by a hantavirus outbreak in April, has tested presumptive positive for the disease, British Columbia health officials announced Friday. The individual, one of four people isolating on Vancouver Island after disembarking in Canada, had developed mild symptoms. The case raises the total number of confirmed or presumptive infections to 11, all among passengers, with three deaths recorded — two confirmed to have had the virus.\n\nBritish Columbia's senior health officer Dr. Bonnie Henry said the positive result still requires confirmation by a national microbiology lab, and stressed that none of the other five Canadians from the ship have tested positive. The six Canadian passengers are split between two couples isolating on Vancouver Island and two others self-isolating at their home in Ontario. The 21-day isolation period initially required of the Canadians may now be extended following the new positive result.\n\nHealth officials emphasized that hantavirus, particularly the Andes strain believed responsible for the ship outbreak, does not carry pandemic potential and differs fundamentally from respiratory viruses such as Covid or influenza. The cruise ship departed Argentina on April 1 and docked in Tenerife last week, allowing its 147 passengers and crew from 23 countries to begin isolation. The WHO has recommended 42 days of isolation for those exposed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-05-16T18:08:41.983658-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Texas Children's Hospital Agrees to Create First 'Detransition Clinic' and Fire Five Doctors in DOJ Settlement",
+      "summary": "Texas Children's Hospital, the largest children's hospital in the United States, has agreed to establish what Texas Attorney General Ken Paxton called the country's 'first-ever detransition clinic' as part of a settlement resolving a yearslong investigation by his office and the U.S. Department of Justice into the hospital's gender care program for minors. The Houston hospital also agreed to terminate five physicians who previously provided transition care to children and to pay $10 million to settle allegations of improper Medicaid billing for such care. For the first five years of operation, the clinic must provide detransition services at no cost.\n\nPatten said the settlement 'reflects an institutional and fundamental cultural shift away from radical gender ideology.' The hospital, for its part, said it agreed to settle to protect resources from 'endless and costly litigation,' maintaining it had followed all applicable laws throughout. The hospital produced more than 5 million documents over the course of the three-year investigation and conducted multiple internal reviews.\n\nDetails of what clinical services the detransition clinic will offer have not been released. Detransitioning — the process of no longer identifying as transgender or ceasing medical transition — is considered rare, and the medical interventions involved are largely similar to those used in transitioning, including mental health therapy and hormone treatment. Critics of the settlement argue it represents government coercion of a medical institution, while supporters contend it corrects inappropriate care provided to minors. The agreement marks a significant escalation in state and federal efforts to restrict gender-affirming care for children.",
+      "source": "NBC Politics",
+      "url": "https://www.nbcnews.com/news/us-news/texas-childrens-hospital-detransition-clinic-settle-doj-paxton-rcna345340",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-05-16T18:08:41.983658-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Colombia Presidential Campaign Manager Killed Two Weeks Before Election",
+      "summary": "The local campaign manager for Colombian presidential candidate Abelardo de la Espriella and one of his aides were shot and killed late Friday, Colombian officials confirmed Saturday. The killings occurred approximately two weeks before Colombia's presidential election on May 31, which will determine the successor to President Gustavo Petro, the country's first leftist head of state.\n\nThe assassinations have intensified concerns about political violence in the run-up to the vote. Colombia has a long history of violence against political figures, particularly those challenging entrenched criminal and paramilitary networks. No group has immediately claimed responsibility for the attack.\n\nThe May 31 election marks the end of Petro's term and is seen as a pivotal moment for the country's political direction. The killing of a candidate's regional organizer so close to election day raises alarms about the security environment surrounding the vote and the safety of campaign workers operating in areas with active armed group presence.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-16/colombia-presidential-candidate-s-local-campaign-head-is-killed",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-05-16T18:08:41.983658-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Gunmen Kidnap More Than 50 Children, Including Toddlers, From Nigerian Schools",
       "summary": "Armed gunmen abducted more than 50 children from three schools in Mussa, Borno state, in northeastern Nigeria on Friday, with most victims aged between two and five years old. Eyewitnesses told the BBC that the attackers used the children as human shields while fleeing on motorbikes, preventing security forces from opening fire. A statement from Senator Ali Ndume of Borno South confirmed at least 42 children were taken from two of the schools.\n\nHeadmaster Abdu Dunama of Mussa Central Primary School said armed men stormed the building after troops on patrol had departed the town, seizing 34 children — mostly nursery pupils aged five and under — directly from their classrooms. No group has immediately claimed responsibility, though residents and analysts noted the attacks bore hallmarks of Boko Haram, the Islamist militant group contesting the region with its rival faction, the Islamic State West Africa Province.\n\nThe kidnappings have prompted an urgent appeal from the largely farming community for government intervention. Security forces are reported to be on the ground tracking the abductors. The incident is the latest in a spate of mass abductions across Nigeria and deepens an already severe humanitarian crisis in Borno state, a region that has endured decades of Islamist insurgency.",
       "source": "BBC News",
