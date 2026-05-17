@@ -4,6 +4,45 @@
   "stories": [
     {
       "category": "world",
+      "headline": "UAE's Barakah Nuclear Power Plant Struck by Drone, Fire Breaks Out",
+      "summary": "A fire broke out at the United Arab Emirates' Barakah Nuclear Power Plant on Sunday after a drone strike hit the area, according to reports. Abu Dhabi's state media office did not attribute the strike to any party and urged the public to rely only on verified sources and to avoid spreading rumors about the incident.\n\nThe Barakah plant, located in Abu Dhabi emirate, is the Arab world's first operational nuclear power station and a critical piece of the UAE's energy infrastructure. A strike on the facility would represent a significant escalation in the regional conflict stemming from the U.S.-Israel military campaign against Iran, which has already seen Iranian attacks paralyze Qatar's gas exports and disrupt shipping through the Strait of Hormuz.\n\nDetails remain limited as authorities have not confirmed the source of the drone or the extent of damage to the facility. The incident underscores the expanding geographic footprint of the Iran conflict, with Gulf state infrastructure now apparently within range of hostile drone operations.\n\nThe UAE has maintained a delicate posture during the Iran conflict, and an attack on its nuclear facility — if confirmed as hostile — could significantly alter the regional calculus and draw additional Gulf states more directly into the confrontation.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/trump-returns-china-with-stability-stalemate-2026-05-16/",
+      "sourceCount": 19,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "7:55 AM MT",
+      "addedAtISO": "2026-05-17T07:55:18.014252-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Thousands March in Montgomery to Defend Black Voting Rights as Redistricting Rollbacks Accelerate",
+      "summary": "Thousands of demonstrators rallied Saturday in Montgomery, Alabama — retracing the route of the 1965 Selma-to-Montgomery Voting Rights March — to protest the dismantling of congressional districts that have provided Black political representation. The rally began in Selma and ended at the Alabama State Capitol, where Sen. Cory Booker (D-N.J.) called Montgomery 'sacred soil' and warned that the current generation risked losing hard-won civil rights gains.\n\nOrganizers and speakers pointed to a series of Supreme Court decisions that have progressively weakened the Voting Rights Act, culminating in a recent ruling involving Louisiana that critics say cleared the way for stricter voter ID laws, tighter registration rules, and limits on early voting in states with histories of racial discrimination in elections. Veterans of the original Civil Rights Movement expressed alarm at the speed of the rollbacks.\n\nSupporters of the redistricting changes argue that race-neutral mapping criteria produce fairer maps and that the Supreme Court rulings correctly interpret the law. Conservative legal groups contend that majority-minority districts can themselves constitute racial gerrymandering and that the focus should be on individual voting rights rather than group representation.\n\nThe rally drew participants from across the country and reflected growing Democratic and civil rights coalition efforts to mobilize voters ahead of midterm elections, framing redistricting fights as a central front in a broader struggle over political representation.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/thousands-rally-in-birthplace-of-civil-rights-movement-to-defend-black-political-representation",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:55 AM MT",
+      "addedAtISO": "2026-05-17T07:55:18.014252-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "PGA Championship Final Round Set: Unheralded Alex Smalley Enters Sunday as 54-Hole Leader",
+      "summary": "Alex Smalley, a 29-year-old PGA Tour journeyman with no prior Tour victories, enters Sunday's final round of the PGA Championship at Aronimink Golf Club holding a two-shot lead — the most unlikely position of his professional career. Smalley, a Duke University alumnus who turned professional in 2019, has made 85 cuts and recorded 15 top-10 finishes in 140 Tour starts but has never won on Tour.\n\nThe storyline surrounding Smalley extends beyond the leaderboard. His mother Maria has tracked his detailed tournament statistics — distance to the pin, club selection, wind direction — since his senior year of high school, and has attended virtually every event of his professional career, including this week at Aronimink.\n\nA Smalley victory Sunday would rank among the more surprising major championship wins in recent memory, coming against a field that includes world No. 1 Scottie Scheffler and numerous other top-ranked players. The PGA Championship is the second major of the 2026 golf calendar.",
+      "source": "Fox News Latest",
+      "url": "https://www.foxnews.com/outkick-sports/alex-smalleys-mom-garnering-ton-attention-son-grabs-surprise-lead-pga-championship",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "7:55 AM MT",
+      "addedAtISO": "2026-05-17T07:55:18.014252-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: Trump Leaves Beijing with Boeing Deal Claim but No Confirmed Trade Breakthroughs",
       "summary": "President Trump departed Beijing after a two-day summit with Chinese President Xi Jinping, declaring the talks \"very successful\" and claiming China had agreed to purchase 200 Boeing jets with a potential commitment for an additional 750 planes — Boeing's first major Chinese deal in nearly a decade. Trump also said American farmers would benefit from Chinese purchases of \"billions of dollars\" in soybeans. Xi called the visit \"historic and landmark\" and confirmed he will visit the White House in September.\n\nHowever, no formal trade agreements were announced by either side, and Chinese officials did not confirm the Boeing deal or agricultural purchases. Notably, Trump told reporters aboard Air Force One that he and Xi did not discuss tariffs at all — a surprise given that a tariff truce struck in October is set to expire in November. The White House said both leaders agreed to create a \"Board of Trade\" to manage the bilateral relationship without reopening tariff negotiations.\n\nThe summit was heavy on symbolism: Trump received an honor guard, a state banquet, and an invitation to the exclusive compound where China's Communist Party leaders reside. U.S. Treasury Secretary Scott Bessent said he expected progress on a mechanism to support future investment, but provided few specifics. Markets fell last week on the lack of concrete outcomes.\n\nThe divergence between Trump's bullish public characterization and the absence of Chinese confirmation has raised questions about what, if anything, was actually agreed. Analysts note that even the Boeing figure — if real — would represent a significant de-escalation in bilateral trade tensions that had effectively frozen American aerospace exports to China for years.",
       "source": "BBC News",
