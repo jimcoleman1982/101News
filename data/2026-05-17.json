@@ -4,6 +4,45 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Thousands Gather on National Mall for Christian Prayer Rally Tied to U.S. 250th Anniversary",
+      "summary": "Thousands of people descended on Washington's National Mall on Sunday for \"Rededicate 250: National Jubilee of Prayer, Praise & Thanksgiving,\" a daylong Christian prayer rally billed as a rededication of the United States as \"One Nation under God\" in honor of the country's 250th anniversary. President Trump delivered a video address to the gathering, while Defense Secretary Pete Hegseth, Secretary of State Marco Rubio, and House Speaker Mike Johnson appeared in person or via promotional materials.\n\nThe event's lineup was almost exclusively Christian, with the sole non-Christian speaker being Orthodox Jewish Rabbi Meir Soloveichik, who serves on the Trump administration's Religious Liberty Commission. The stage featured imagery associating the nation's founders with Christian symbolism, including a white cross displayed within arched stained-glass windows designed to resemble a federal building.\n\nCritics from religious and civil society organizations pushed back sharply. The Rev. Adam Russell Taylor of the progressive Christian group Sojourners said the event represented a \"rededication\" to \"a very narrow and ideological part of the Christian faith that betrays our nation's fundamental commitment to religious freedom.\" Rabbi Jonah Dov Pesner of the Religious Action Center of Reform Judaism emphasized America's historic religious diversity, including Jews, Muslims, and Indigenous peoples from the nation's earliest days.\n\nSupporters framed the rally as a return to what they described as the country's founding principles, with Hegseth stating in a promotional video that rights come from God, not government, and that national strength is rooted in faith. The event highlights ongoing tensions over the role of Christianity in American public life as the country marks its semiseptennial.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/crowds-pack-into-washingtons-national-mall-for-prayer-rally",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:04 PM MT",
+      "addedAtISO": "2026-05-17T16:04:39.541905-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Oldest Known Manuscript of First English Poem Discovered in Roman Library",
+      "summary": "Researchers at Trinity College Dublin have identified what they believe to be the oldest surviving manuscript copy of \"Caedmon's Hymn,\" widely considered the first poem written in the English language, in Rome's main public library. The manuscript dates to the 9th century — roughly three centuries older than the previously known earliest copy — and is significant because the Old English poem appears within the main body of the Latin text rather than as a marginal addition or appendix.\n\n\"Caedmon's Hymn\" is a nine-line poem composed in Old English by a Northumbrian agricultural worker in the 7th century, according to an account preserved by the monk and historian the Venerable Bede. The poem is said to have been produced after a divine vision instructed Caedmon, who worked at Whitby Abbey in North Yorkshire, to sing about creation. Associate professor Mark Faulkner of Trinity College Dublin described the discovery as evidence that English was already being treated as a language of cultural importance by the early 9th century, long before scholars previously assumed.\n\nThe manuscript had crossed the Atlantic at least twice and changed hands multiple times before researchers located it digitally in Rome. Visiting research fellow Elisabetta Magnanti, who co-led the discovery, said the team was \"speechless\" upon finding the poem integrated into the main Latin text rather than relegated to the margins.\n\nFaulkner described the find as pushing back the documented diffusion of the English language by roughly three centuries, offering new insight into how early medieval scholars valued vernacular writing alongside Latin scholarship.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/05/17/world-news/oldest-surviving-english-poem-in-history-discovered-in-manuscript-in-roman-library/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:04 PM MT",
+      "addedAtISO": "2026-05-17T16:04:39.541905-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Comey Fires Back at Acting AG Blanche Over Federal Case, Cites Court Rules on Public Comment",
+      "summary": "Former FBI Director James Comey publicly challenged Acting Attorney General Todd Blanche on Sunday, urging him to \"bone up on the rules\" after Blanche made public statements about the ongoing federal case against Comey. Comey, who faces prosecution related to a 2025 Instagram post, declined to discuss the substance of the case, citing federal court rules that restrict parties from making extrajudicial statements about pending litigation.\n\nComey stated he has \"complete faith in our judicial system\" and appeared to draw a pointed contrast between his own restraint and what he characterized as Blanche's improper public commentary on an active case. The remark carries additional weight given that Blanche previously served as Donald Trump's personal criminal defense attorney before being appointed to lead the Justice Department.\n\nThe case against Comey is part of a broader pattern of the Trump Justice Department pursuing legal action against individuals perceived as adversaries of the president, a practice that critics — primarily Democrats and civil liberties advocates — have called the weaponization of federal law enforcement. Supporters of the prosecutions argue they represent the legitimate application of the law to officials who themselves overstepped their authority.\n\nSeparately, the story broke on the same day as continued disruption to the Long Island Rail Road, where workers remain on strike for the first time in roughly three decades, affecting hundreds of thousands of daily commuters in the New York metropolitan area.",
+      "source": "The Hill",
+      "url": "https://thehill.com/regulation/court-battles/5882082-comey-blanche-doj-seashells-investigation/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:04 PM MT",
+      "addedAtISO": "2026-05-17T16:04:39.541905-06:00"
+    },
+    {
+      "category": "politics",
       "headline": "Trump Warns Iran 'Clock Is Ticking,' Raises Prospect of Harder Military Strikes",
       "summary": "President Donald Trump issued a stark public warning to Iran on Sunday, writing on Truth Social that 'the Clock is Ticking, and they better get moving, FAST, or there won't be anything left of them.' The warning came as U.S.-Iran nuclear negotiations appeared stalled, with Iranian officials refusing to make meaningful concessions on their nuclear program and rejecting several American demands.\n\nAccording to Axios, which spoke with Trump directly, the president indicated that if Tehran does not produce a better offer, military options are back on the table. U.S. officials say Trump wants a negotiated deal but that Iran's posture has frustrated progress. Trump is reportedly expected to convene senior national security advisers to weigh next steps.\n\nThe warning follows Trump's return from Beijing, where trade discussions with China dominated his agenda, and comes amid reports that he had previously signaled openness to a 20-year suspension arrangement on Iran's nuclear activities — a position that appeared to harden with Sunday's statement. Iran has not publicly responded to the latest threat.\n\nSupporters of Trump's approach argue that maximum-pressure rhetoric is necessary to force concessions from Tehran, while critics warn that inflammatory language risks miscalculation and military conflict in an already volatile Middle East. The standoff has implications for global oil markets and U.S. alliances in the region.",
       "source": "Axios",
