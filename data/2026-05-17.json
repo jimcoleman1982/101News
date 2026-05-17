@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Ukraine Launches Massive Drone Strike on Moscow Region, Killing Three",
+      "summary": "Ukraine carried out its largest drone attack on the Moscow region in more than a year overnight, with Russian officials reporting at least three people killed and several injured. A woman died in the city of Khimki north of Moscow, while a man and a woman were killed in the village of Pogorelki. Russia's military said it intercepted 556 drones across the country, approximately 130 of them in the Moscow region. An Indian citizen was also killed, according to India's Moscow embassy.\n\nUkraine's President Volodymyr Zelensky called the strikes an 'entirely justified' response to recent deadly Russian attacks on Ukrainian cities, including a massive missile and drone barrage earlier this week that killed 24 people in Kyiv. Ukraine's state security service said it targeted oil facilities, a semiconductor-making plant, and air defense systems at the Belbek military airfield in Crimea. Moscow Mayor Sergei Sobyanin reported 12 people injured after drones struck an entrance to the city's oil refinery, with three nearby houses also damaged.\n\nRussia's busiest airport, Sheremetyevo, reported drone wreckage on its territory but said no one was injured and operations remained stable. The scale of the attack represents a significant escalation in Ukraine's long-range strike campaign against Russian infrastructure and signals Kyiv's intent to bring the costs of war directly to Russian territory. Zelensky stated that Ukraine's 'long-range sanctions have reached the Moscow region' and warned that 'their state must end its war.'\n\nThe exchange of strikes underscores the continued intensity of the conflict even as diplomatic discussions around a potential ceasefire remain inconclusive. The attack marks a concrete new development in the Russia-Ukraine war, with the largest drone assault on the Russian capital region in over a year occurring overnight into Sunday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "10:03 AM MT",
+      "addedAtISO": "2026-05-17T10:03:39.797093-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Venezuela Deports Maduro Ally Alex Saab to United States for Criminal Proceedings",
+      "summary": "Venezuela's government announced Saturday that it had deported Alex Saab, a close ally of former President Nicolás Maduro and a Colombian-born businessman long described by U.S. officials as Maduro's 'bag man,' to the United States to face multiple criminal investigations. The move marks a dramatic reversal: Maduro's government previously fought strenuously to protect Saab after his international arrest in 2020, and Saab was returned to Venezuela in 2023 as part of a prisoner swap brokered under the Biden administration. Venezuelan authorities referred to Saab only as a 'Colombian citizen' in their statement, an apparent workaround of Venezuelan law prohibiting the extradition of its own nationals.\n\nSaab, 54, amassed significant wealth through Venezuelan government contracts and is now expected to potentially testify against Maduro, who is himself awaiting trial on drug trafficking charges in Manhattan after being captured in a U.S. military raid in January. Federal prosecutors have been investigating Saab's alleged role in a bribery conspiracy involving Venezuelan government contracts to import food. His removal to the U.S. is seen as part of the broader accommodation the new Venezuelan leadership under acting President Delcy Rodríguez has made toward Washington, including opening the country's oil and mining industries to American investment.\n\nThe deportation is likely to deepen internal divisions within Venezuela's ruling Chavista coalition. Hardliners such as Interior Minister Diosdado Cabello, who himself faces U.S. criminal charges and wields significant influence over Venezuelan security forces, have bristled at Rodríguez's concessions to what the movement historically has called the U.S. 'Empire.' Saab had already been demoted and effectively sidelined by the new leadership before his removal.\n\nThe case carries significant geopolitical weight, coming months after the U.S. military's capture of Maduro himself and amid ongoing U.S. efforts to reshape its relationship with Venezuela. Saab's potential cooperation with U.S. prosecutors could provide prosecutors with a high-value inside witness against Maduro and other senior Venezuelan officials.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/venezuela-deports-maduro-ally-to-u-s-for-criminal-proceedings",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:03 AM MT",
+      "addedAtISO": "2026-05-17T10:03:39.797093-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Modena Car-Ramming Attack Suspect Had Prior Mental Health Referral; Italian Leaders Visit Victims",
+      "summary": "Italian Prime Minister Giorgia Meloni and President Sergio Mattarella visited victims in hospital on Sunday following Saturday's car-ramming and stabbing attack in Modena, in which a man drove into a crowd of pedestrians injuring eight people, four seriously. One woman had both legs amputated. The suspect, a 31-year-old Italian national of Moroccan origin identified by far-right Deputy Prime Minister Matteo Salvini as Salim El Koudri, had been referred to a mental health center in 2022 for schizoid disorders but had 'disappeared without a trace' afterward, the city prefect said.\n\nMeloni, who canceled a planned trip to Cyprus to respond to the incident, called it 'extremely serious' and praised a bystander, Luca Signorelli, who chased the attacker after the vehicle came to a halt, was attacked with a knife, and then helped restrain the suspect with other passersby. Italian media describe the suspect as an economics graduate who is unemployed and has no prior criminal record. The attack occurred in the afternoon near Modena's iconic cathedral on a busy pedestrian street.\n\nThe incident has immediately become politically charged in Italy. Salvini, who leads the anti-immigrant League party, posted the suspect's name on social media, framing the attack in the context of immigration. Critics noted that the suspect was born in Italy and had no criminal record, and that authorities identified mental illness as a likely factor. The tension between those emphasizing the attacker's ethnic background and those highlighting his mental health history reflects ongoing national debates about immigration, integration, and public safety.\n\nThis story represents a new development on a previously covered event: Italian leaders' hospital visits, the revelation of the suspect's prior mental health referral, and Meloni's public response all occurred Sunday and materially advance the story beyond Saturday's initial report.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cyv28pd4n22o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:03 AM MT",
+      "addedAtISO": "2026-05-17T10:03:39.797093-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Peru Officially Confirms Fujimori and Sánchez as Presidential Runoff Candidates for June 7 Vote",
+      "summary": "Peruvian electoral authorities have officially certified conservative Keiko Fujimori and left-wing lawmaker Roberto Sánchez as the two candidates who will compete in a presidential runoff election on June 7, more than a month after the first round of voting was held. The formal confirmation sets the stage for a sharp ideological contest in one of South America's larger economies.\n\nFujimori, daughter of jailed former President Alberto Fujimori, is a veteran of Peruvian presidential politics, having lost runoff elections in 2011 and 2016. She leads the Fuerza Popular party and represents a right-of-center platform. Sánchez, a sitting lawmaker, enters the runoff as the left-wing challenger in a country that has seen significant political instability in recent years, including the impeachment and imprisonment of former President Pedro Castillo.\n\nPeru's political landscape has been highly volatile, with multiple presidents removed from office or forced to resign over the past decade. The June 7 runoff will determine the country's direction on economic policy, relations with mining and energy industries that are central to Peru's export economy, and ongoing anti-corruption efforts. International observers and markets will be watching the result closely given Peru's role as one of the world's leading copper producers.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/fujimori-sanchez-officially-declared-peru-s-runoff-candidates",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:03 AM MT",
+      "addedAtISO": "2026-05-17T10:03:39.797093-06:00"
+    },
+    {
+      "category": "world",
       "headline": "UAE's Barakah Nuclear Power Plant Struck by Drone, Fire Breaks Out",
       "summary": "A fire broke out at the United Arab Emirates' Barakah Nuclear Power Plant on Sunday after a drone strike hit the area, according to reports. Abu Dhabi's state media office did not attribute the strike to any party and urged the public to rely only on verified sources and to avoid spreading rumors about the incident.\n\nThe Barakah plant, located in Abu Dhabi emirate, is the Arab world's first operational nuclear power station and a critical piece of the UAE's energy infrastructure. A strike on the facility would represent a significant escalation in the regional conflict stemming from the U.S.-Israel military campaign against Iran, which has already seen Iranian attacks paralyze Qatar's gas exports and disrupt shipping through the Strait of Hormuz.\n\nDetails remain limited as authorities have not confirmed the source of the drone or the extent of damage to the facility. The incident underscores the expanding geographic footprint of the Iran conflict, with Gulf state infrastructure now apparently within range of hostile drone operations.\n\nThe UAE has maintained a delicate posture during the Iran conflict, and an attack on its nuclear facility — if confirmed as hostile — could significantly alter the regional calculus and draw additional Gulf states more directly into the confrontation.",
       "source": "Reuters",
