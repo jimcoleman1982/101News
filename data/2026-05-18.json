@@ -3,6 +3,32 @@
   "dateFormatted": "Monday, May 18, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Pope Leo XIV to Release First Encyclical on AI and Human Dignity on May 25",
+      "summary": "Pope Leo XIV will formally launch his first encyclical, titled \"Magnifica Humanitas\" (Magnificent Humanity), on May 25 in a high-profile Vatican ceremony that will include Christopher Olah, co-founder of AI safety company Anthropic, as a lay speaker. The Vatican announced Monday that the document addresses the care of human dignity in the era of artificial intelligence, with senior cardinals and theologians also presenting alongside the pope.\n\nThe encyclical was signed May 15 — 135 years to the day after Leo XIII signed \"Rerum Novarum,\" the foundational document of modern Catholic social teaching on labor and capitalism. The current pope has explicitly drawn a parallel between the Industrial Revolution and today's AI transformation, framing the new document within the church's established tradition of addressing systemic economic and social disruption.\n\nThe presence of Anthropic at the Vatican carries geopolitical significance. In February, the Trump administration barred all U.S. agencies from using Anthropic's AI technology and imposed penalties after the company refused to grant the military unrestricted access to its systems. Anthropic is currently suing the administration, alleging illegal retaliation. The pope's alignment with Anthropic — a company that emphasizes AI safety and limits on military applications — signals a potential clash with U.S. policy on AI governance.\n\nLeo has made artificial intelligence a central concern of his early pontificate, expressing particular alarm about AI in warfare and calling for international monitoring of the technology's deployment. The encyclical is expected to situate AI within Catholic social doctrine covering labor rights, justice, and peace.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/pope-leo-xiv-to-launch-his-first-encylical-a-document-on-artificial-intelligence-with-anthropics-co-founder",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:01 PM MT",
+      "addedAtISO": "2026-05-18T13:01:14.226616-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "PCOS Renamed PMOS After 14-Year Global Effort to Improve Diagnosis and Care",
+      "summary": "A hormonal condition affecting one in eight women worldwide has been officially renamed polyendocrine metabolic ovarian syndrome (PMOS), replacing the long-standing term polycystic ovary syndrome (PCOS). The change, published Monday in The Lancet, resulted from 14 years of collaboration between medical experts and patients who argued the old name was clinically inaccurate and contributed to missed diagnoses.\n\nPhysicians and researchers said the former name mischaracterized the disorder by emphasizing cysts and ovaries, when the condition is actually a complex endocrine and metabolic syndrome involving insulin dysregulation, hormone imbalances, and systemic effects on weight, skin, reproductive function, and mental health. The new name is intended to prompt more comprehensive evaluation and treatment by better reflecting the disorder's underlying biology.\n\nSymptoms of PMOS vary widely and include irregular menstrual cycles, excess androgen production leading to acne or abnormal hair growth, and increased risk of Type 2 diabetes, heart disease, and infertility. The Cleveland Clinic identifies it as the most common cause of female infertility. Treatment priorities center on lifestyle changes, though the name change is expected to push clinicians toward addressing metabolic and endocrine dimensions that are often undertreated.\n\nThe renaming represents one of the most significant reclassifications in women's endocrinology in decades and is expected to influence clinical guidelines, medical education, and patient advocacy globally. Experts say aligning the name with the condition's true pathophysiology could reduce the diagnostic delays that many patients currently experience.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/health/the-condition-known-as-pcos-is-now-called-pmos-what-to-know-about-the-name-change-and-treatment",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:01 PM MT",
+      "addedAtISO": "2026-05-18T13:01:14.226616-06:00"
+    },
+    {
       "category": "politics",
       "headline": "Update: Supreme Court's Voting Rights Act Ruling Triggers Redistricting Scramble in Louisiana, Alabama, and Beyond",
       "summary": "The Supreme Court's recent decision weakening Section 2 of the Voting Rights Act has set off rapid redistricting efforts in Louisiana, Alabama, and at least 17 other state and local governments, according to legal analysts. Justice Ketanji Brown Jackson, the Court's first Black woman justice, wrote a sharp dissent arguing the majority's willingness to expedite the case had \"spawned chaos\" in Louisiana. Federal judges have warned they will redraw Louisiana's congressional map themselves if the state legislature cannot produce one.\n\nThe ruling's practical effects are sweeping: experts told ABC News that redistricting in the South could eliminate up to a third of congressional seats currently held by Black legislators. The Court separately tossed out federal rulings in Mississippi and North Dakota on racial redistricting claims, issuing summary dispositions that applied the new, stricter standard. A Native American tribes case involving the same law was also remanded for reconsideration.\n\nSupporters of the ruling argue that the original Voting Rights Act does not mandate the creation of majority-minority districts and that the decision restores a race-neutral constitutional framework. Critics, including Virginia Governor Abigail Spanberger, accused the Court of nullifying election results and voter-approved maps, calling the decisions an assault on minority representation.\n\nThe story is drawing coverage from 19 outlets across the political spectrum, reflecting its status as one of the most consequential civil rights rulings in recent memory. The downstream legal and political battles — in courts, state legislatures, and ahead of the 2026 midterms — are expected to intensify in the coming weeks.",
