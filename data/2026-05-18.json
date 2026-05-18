@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-18",
+  "dateFormatted": "Monday, May 18, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Israeli Forces Board Gaza-Bound Flotilla in International Waters Near Cyprus",
+      "summary": "Israeli military commandos boarded multiple vessels from the Global Sumud Flotilla on Monday as the convoy of more than 50 boats attempted to break Israel's maritime blockade of Gaza, according to activists who streamed the operation live. The interception occurred roughly 250 nautical miles west of Cyprus, in international waters. Israel's foreign ministry had no immediate comment but previously described the flotilla as \"a provocation\" involving \"two violent Turkish groups.\"\n\nThis is the second interception of the same flotilla. In April, Israeli forces stopped 22 boats near Crete, detaining about 175 activists, nearly all of whom were released on a Greek island the following day amid international condemnation. The remaining boats regrouped in Turkey before departing again last week.\n\nActivists say they are attempting to deliver humanitarian aid to Gaza's 2.1 million residents, most of whom are displaced despite a ceasefire agreed seven months ago. Israel maintains the maritime blockade is lawful and that Gaza is \"flooded with aid.\" The UN disputes that characterization, noting that restrictions on spare parts, fuel, and equipment continue to undermine humanitarian operations, and that 14 percent of approved supplies were turned back at border crossings.\n\nThe interception is likely to intensify international scrutiny of Israel's blockade policy at a moment when the Gaza war, now in its twentieth month, has killed more than 72,760 people according to the Hamas-run health ministry. Diplomatic fallout from the April incident — which drew widespread condemnation — suggests the boarding of a larger convoy will generate significant international reaction.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c142vz80553o",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-18T05:08:34.828098-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Kenya Paralyzed by Nationwide Transport Strike Over Record Fuel Prices",
+      "summary": "Thousands of Kenyan commuters were stranded Monday as public transport operators launched a nationwide strike to protest fuel prices that hit record highs after the government raised petroleum costs by more than 20 percent last week. Key roads in the capital Nairobi were largely empty, schools sent students home, and businesses in parts of the city remained shut. Police used tear gas against demonstrators who barricaded roads and lit fires.\n\nThe price surge is directly linked to the disruption of Gulf oil supply routes following the U.S.-Israel military campaign against Iran that began February 28. Although a ceasefire was declared, the Strait of Hormuz — through which roughly one-fifth of the world's oil passes — remains blocked, keeping global fuel prices elevated. Kenya, like many African nations, depends heavily on fuel imports from the Gulf.\n\nThe Transport Sector Alliance, which organized the shutdown, called on all vehicle users — including private motorists, matatus, and truckers — to stay off the roads, framing the action as a national crisis rather than a labor dispute alone. The alliance is demanding a 35 percent reduction in fuel prices and accuses the government of failing to shield citizens from a broader cost-of-living crisis.\n\nTreasury Minister John Mbadi called the price increase \"unfortunate\" but said the strike was \"completely uncalled for,\" arguing that Kenya cannot solve a global problem through domestic measures. The government had already cut VAT on fuel from 16 to 8 percent through July, but activists say the relief is insufficient. The crisis illustrates the cascading economic consequences of the Iran conflict for developing nations far from the Middle East.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cm2p0n44drvo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-18T05:08:34.828098-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Bangkok Train Crash Driver Tested Positive for Drugs, Charged With Reckless Driving",
+      "summary": "Thai police announced Monday that the freight train driver whose locomotive struck a public bus in Bangkok on Saturday, killing eight people, has tested positive for drugs and been formally charged with reckless driving. The bus had stalled on the Asoke-Din Daeng railway crossing due to heavy traffic that prevented the safety barriers from lowering in time. The bus burst into flames on impact; dozens more were injured.\n\nBoth the bus driver and the crossing guard responsible for manually lowering the barrier have also been charged, authorities said. Preliminary data from the train's black box showed the emergency braking system was activated only about 100 meters from the bus — too short a distance to prevent the collision. Thai rail authorities have ordered mandatory drug and alcohol tests for all train drivers and railway staff before their shifts.\n\nExperts say the crash reflects deep structural risks at the crossing, which sees an estimated 100,000 road vehicles per day — well above the safety threshold for such junctions. The tracks predate the surrounding road network, and urban growth has created what one structural engineer called \"risk normalisation\" — a cultural acceptance of hazardous conditions that persists until a catastrophe occurs.\n\nThe disaster has intensified public pressure on Thai authorities to modernize railway infrastructure and enforce safety standards more rigorously. District officials and transport regulators are reviewing crossing safety across Bangkok.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3v2ngnpgl9o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-18T05:08:34.828098-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Senate Unanimously Votes to Withhold Members' Pay During Government Shutdowns",
+      "summary": "The U.S. Senate unanimously approved a bipartisan resolution Thursday that would withhold senators' salaries during government shutdowns, directing the secretary of the Senate to hold lawmakers' pay until funding is restored. The measure, sponsored by Sen. John Kennedy (R-La.), is intended to create a financial incentive for Congress to avoid shutdowns after a string of record-breaking funding lapses over the past year.\n\nThe resolution comes in the wake of two shutdowns that caused severe hardship for tens of thousands of federal workers. A 76-day partial shutdown at the Department of Homeland Security — the longest agency funding lapse in U.S. history — ended only last month, following a 43-day full government shutdown that also set a record. The Constitution requires lawmakers to be paid regardless of government operations, meaning senators continued to receive their $174,000 annual salaries while federal employees went without paychecks.\n\nThe resolution does not apply to the House of Representatives. Kennedy said the House's \"business is the House's business\" while acknowledging significant tensions between the chambers. Sen. Lindsey Graham (R-S.C.) had previously proposed a constitutional amendment to permanently require lawmakers to forfeit pay during shutdowns, but acknowledged that path would take far longer given the requirement that three-fourths of states ratify any amendment.\n\nThe measure takes effect the day after the November 3 general election. Critics note that many senators are independently wealthy, limiting the practical deterrent effect, but supporters argue it establishes an important principle of shared sacrifice between lawmakers and the federal workforce they oversee.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/senate-pay-shutdown-withhold-government-face16eac3196ad4c3bedf3d699be87f",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-18T05:08:34.828098-06:00"
+    }
+  ]
+}
