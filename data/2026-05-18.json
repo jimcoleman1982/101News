@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Taiwan President Vows No Provocation, No Surrender of Sovereignty After Trump-Xi Summit",
+      "summary": "Taiwanese President Lai Ching-te issued his first public response to the Trump-Xi Beijing summit, declaring that Taiwan \"will not provoke, will not escalate conflict, but will not under pressure give up national sovereignty and dignity.\" Writing on Facebook, Lai reiterated that Taiwan — officially the Republic of China — is already a sovereign, independent democratic country and that there is therefore no \"Taiwan independence issue\" requiring formal declaration.\n\nThe statement came after Chinese President Xi Jinping told Trump that Taiwan was \"the most important issue\" in U.S.-China relations and that mishandling it could lead to conflict. Trump, speaking to Fox News after leaving Beijing, warned Taiwan against seeking independence, saying \"I'm not looking to have somebody go independent,\" while also telling reporters he made \"no commitment either way\" to Beijing.\n\nLai said Taiwan is willing to pursue \"healthy and orderly exchanges and dialogue with China on the premise of equality and dignity\" but rejected Beijing's use of \"unification\" framing as a vehicle for coercion. Beijing, which considers Taiwan a breakaway province, has labeled Lai a \"troublemaker\" and has not ruled out the use of force to take the island.\n\nThe exchange highlights the renewed fragility of cross-strait relations following the summit. The U.S. remains Taiwan's largest arms supplier under the Taiwan Relations Act; the Trump administration approved $11 billion in arms sales to Taipei in December. Some Trump advisers have privately warned that Xi may view the summit's outcome as an opening to more aggressive moves toward Taiwan within the next five years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-18T08:08:37.328140-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Drops $10 Billion Lawsuit Against IRS Over Tax Return Leak",
+      "summary": "President Trump, his two eldest sons, and the Trump Organization voluntarily dismissed their $10 billion lawsuit against the IRS and Treasury Department on Monday, according to a filing in a Miami federal court. The suit had alleged that the IRS improperly leaked Trump's tax returns in 2019.\n\nThe dismissal is notable for its timing: Trump has been publicly weighing the creation of a $1.776 billion taxpayer-funded compensation fund for individuals who claim they were wrongfully targeted by the Biden administration, including January 6 defendants. The proposed fund reflects Trump's longstanding assertion that the Biden-era Justice Department was weaponized against his allies.\n\nSupporters of the dismissal argue it clears the decks for a broader political remedy — the compensation fund — rather than a narrow legal one. Critics contend that a presidential administration dropping a personal lawsuit while simultaneously considering a taxpayer-funded fund for political allies raises serious conflict-of-interest concerns.\n\nThe voluntary dismissal means no court ruling on the merits of the IRS leak claim will be issued. The move was reported by five outlets including ABC News, Axios, Bloomberg, and NBC News.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/18/trump-irs-lawsuit-dropped",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-18T08:08:37.328140-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Trump Joins 'Rededicate 250' Faith Rally on National Mall, Recites Scripture",
+      "summary": "President Trump appeared at the \"Rededicate 250\" Christian prayer rally on the National Mall Sunday alongside Cabinet members, reciting a passage from 2 Chronicles 7 in a video address aired to the crowd. The verse — \"If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways, then will I hear from heaven\" — is frequently cited by evangelical Christians as a call for national spiritual renewal.\n\nThe event was organized as part of celebrations leading up to the 250th anniversary of American independence and drew thousands of attendees to the Mall. It is among the largest faith-oriented political gatherings in Washington in recent years, with the president's participation lending it significant official visibility.\n\nSupporters framed Trump's involvement as an affirmation of the administration's alignment with Christian conservative values and the broader religious freedom agenda that has animated much of his political base. Critics and civil liberties advocates raised concerns about the blurring of lines between official governmental participation and a sectarian religious event.\n\nThe rally was covered by 19 outlets across the political spectrum, making it one of the most widely reported domestic stories of the day.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/rededicate-250-prayer-national-mall-05-17-26",
+      "sourceCount": 19,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-18T08:08:37.328140-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Pentagon Signs AI Contracts With Google, OpenAI, Amazon and Others to Build 'AI-First' Military",
+      "summary": "The Pentagon announced Friday it has signed expanded contracts with eight major technology companies — Google, OpenAI, Amazon, Microsoft, SpaceX, Oracle, Nvidia, and startup Reflection — authorizing AI tools for any \"lawful operational use\" across the U.S. military. Defense officials said the agreements are designed to accelerate the transformation of the armed forces into an \"AI-first fighting force\" and to avoid over-reliance on any single vendor.\n\nThe announcement formalizes several arrangements already in use; more than one million Defense Department personnel have accessed the military's AI platform since its launch last year, with officials saying it has cut many tasks \"from months to days.\" The deals represent the most sweeping institutionalization of commercial AI in U.S. military history.\n\nNotably absent from the agreements is Anthropic, whose CEO Dario Amodei had publicly warned that powerful AI could be used for mass domestic surveillance and fully autonomous weapons. Defense Secretary Pete Hegseth subsequently labeled Anthropic a \"supply chain risk,\" and the company is now suing the government over what it describes as retaliation. That legal challenge is expected to reach court in September.\n\nThe move comes amid growing debate — including from over 60 Trump allies who sent a letter Monday urging mandatory White House review of powerful AI models before release — about how rapidly the U.S. government should deploy artificial intelligence without formal safety vetting.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy02gjq2987o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-18T08:08:37.328140-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Israeli Forces Board Gaza-Bound Flotilla in International Waters Near Cyprus",
       "summary": "Israeli military commandos boarded multiple vessels from the Global Sumud Flotilla on Monday as the convoy of more than 50 boats attempted to break Israel's maritime blockade of Gaza, according to activists who streamed the operation live. The interception occurred roughly 250 nautical miles west of Cyprus, in international waters. Israel's foreign ministry had no immediate comment but previously described the flotilla as \"a provocation\" involving \"two violent Turkish groups.\"\n\nThis is the second interception of the same flotilla. In April, Israeli forces stopped 22 boats near Crete, detaining about 175 activists, nearly all of whom were released on a Greek island the following day amid international condemnation. The remaining boats regrouped in Turkey before departing again last week.\n\nActivists say they are attempting to deliver humanitarian aid to Gaza's 2.1 million residents, most of whom are displaced despite a ceasefire agreed seven months ago. Israel maintains the maritime blockade is lawful and that Gaza is \"flooded with aid.\" The UN disputes that characterization, noting that restrictions on spare parts, fuel, and equipment continue to undermine humanitarian operations, and that 14 percent of approved supplies were turned back at border crossings.\n\nThe interception is likely to intensify international scrutiny of Israel's blockade policy at a moment when the Gaza war, now in its twentieth month, has killed more than 72,760 people according to the Hamas-run health ministry. Diplomatic fallout from the April incident — which drew widespread condemnation — suggests the boarding of a larger convoy will generate significant international reaction.",
       "source": "BBC News",
