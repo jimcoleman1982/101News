@@ -3,6 +3,45 @@
   "dateFormatted": "Monday, May 18, 2026",
   "stories": [
     {
+      "category": "other",
+      "headline": "At Least Three Dead After Shooting at San Diego Islamic Center",
+      "summary": "At least five people are dead — including two gunmen — after a shooting at the Islamic Center of San Diego in the Clairemont neighborhood Monday, according to San Diego Police Chief Scott Wahl. Police began receiving calls about an active shooter at approximately 11:40 a.m. Pacific time. Wahl described the scene as \"extremely chaotic\" during an initial press briefing.\n\nThe Islamic Center also operates as a school. Police confirmed that all children present at the time of the attack are reported safe. SWAT officers responded alongside patrol units in a large emergency deployment.\n\nAuthorities said the scene has been contained. The identities of the victims and gunmen have not been publicly released, nor has a motive been established. Investigators are expected to provide additional details as the situation develops.",
+      "source": "Axios",
+      "url": "https://www.axios.com/local/san-diego/2026/05/18/shooting-san-diego-islamic-center",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "4:11 PM MT",
+      "addedAtISO": "2026-05-18T16:11:14.637939-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "ICE Officer Charged With Assault Over Shooting of Venezuelan Man During Minneapolis Immigration Crackdown",
+      "summary": "Hennepin County Attorney Mary Moriarty issued an arrest warrant Monday for ICE officer Christian Castro, 52, charging him with four counts of second-degree assault with a deadly weapon and one count of falsely reporting a crime in connection with the nonfatal shooting of Venezuelan immigrant Julio Sosa-Celis on January 14. The incident occurred during \"Operation Metro Surge,\" the Trump administration's militarized immigration enforcement campaign in the Minneapolis area.\n\nCastro becomes the second federal officer to face felony charges in Minnesota stemming from Operation Metro Surge. A state investigation had previously been complicated by federal interference. A nationwide arrest warrant has been issued.\n\nThe case has become a flashpoint in the broader national debate over the Trump administration's immigration enforcement tactics. Defenders of aggressive enforcement argue officers face dangerous situations with limited information, while critics contend the charges demonstrate that some operations have proceeded with insufficient legal safeguards and accountability. A separate Brookings Institution report released Monday estimates that more than 145,000 U.S. citizen children have been separated from at least one parent due to immigration detention under the current administration.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/5883550-ice-officer-arrest-warrant-venezuelan/",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:11 PM MT",
+      "addedAtISO": "2026-05-18T16:11:14.637939-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Jury Tosses Musk's Lawsuit Against OpenAI, Finding Claims Expired",
+      "summary": "A California jury unanimously ruled Monday that Elon Musk waited too long to file his lawsuit against OpenAI and CEO Sam Altman, finding that the statute of limitations had lapsed on his core claims. Jurors deliberated for roughly two hours after a three-week trial that featured testimony from Musk, Altman, and Microsoft CEO Satya Nadella, among others.\n\nMusk had accused Altman of breaching a non-profit agreement by transitioning OpenAI to a for-profit structure after Musk donated approximately $38 million in the company's early years. He alleged Altman had deceived him and that Microsoft aided in the improper transition. Because the jury found the claims time-barred, it was not required to rule on their underlying merits. Microsoft's remaining claims were also dismissed.\n\nMusk quickly attacked the verdict on X, calling it \"a free license to loot charities\" and accusing the presiding judge of being a \"terrible activist.\" He vowed to appeal, arguing the decision rested on a \"calendar technicality\" rather than the facts. Altman had testified during the trial that Musk had not only supported OpenAI's for-profit pivot but had actively sought control of the organization himself. Legal observers described the jury's decision as a straightforward application of statute-of-limitations rules.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cewpyv79pw1o",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:11 PM MT",
+      "addedAtISO": "2026-05-18T16:11:14.637939-06:00"
+    },
+    {
       "category": "world",
       "headline": "Pope Leo XIV to Release First Encyclical on AI and Human Dignity on May 25",
       "summary": "Pope Leo XIV will formally launch his first encyclical, titled \"Magnifica Humanitas\" (Magnificent Humanity), on May 25 in a high-profile Vatican ceremony that will include Christopher Olah, co-founder of AI safety company Anthropic, as a lay speaker. The Vatican announced Monday that the document addresses the care of human dignity in the era of artificial intelligence, with senior cardinals and theologians also presenting alongside the pope.\n\nThe encyclical was signed May 15 — 135 years to the day after Leo XIII signed \"Rerum Novarum,\" the foundational document of modern Catholic social teaching on labor and capitalism. The current pope has explicitly drawn a parallel between the Industrial Revolution and today's AI transformation, framing the new document within the church's established tradition of addressing systemic economic and social disruption.\n\nThe presence of Anthropic at the Vatican carries geopolitical significance. In February, the Trump administration barred all U.S. agencies from using Anthropic's AI technology and imposed penalties after the company refused to grant the military unrestricted access to its systems. Anthropic is currently suing the administration, alleging illegal retaliation. The pope's alignment with Anthropic — a company that emphasizes AI safety and limits on military applications — signals a potential clash with U.S. policy on AI governance.\n\nLeo has made artificial intelligence a central concern of his early pontificate, expressing particular alarm about AI in warfare and calling for international monitoring of the technology's deployment. The encyclical is expected to situate AI within Catholic social doctrine covering labor rights, justice, and peace.",
