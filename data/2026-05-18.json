@@ -3,6 +3,45 @@
   "dateFormatted": "Monday, May 18, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: Supreme Court's Voting Rights Act Ruling Triggers Redistricting Scramble in Louisiana, Alabama, and Beyond",
+      "summary": "The Supreme Court's recent decision weakening Section 2 of the Voting Rights Act has set off rapid redistricting efforts in Louisiana, Alabama, and at least 17 other state and local governments, according to legal analysts. Justice Ketanji Brown Jackson, the Court's first Black woman justice, wrote a sharp dissent arguing the majority's willingness to expedite the case had \"spawned chaos\" in Louisiana. Federal judges have warned they will redraw Louisiana's congressional map themselves if the state legislature cannot produce one.\n\nThe ruling's practical effects are sweeping: experts told ABC News that redistricting in the South could eliminate up to a third of congressional seats currently held by Black legislators. The Court separately tossed out federal rulings in Mississippi and North Dakota on racial redistricting claims, issuing summary dispositions that applied the new, stricter standard. A Native American tribes case involving the same law was also remanded for reconsideration.\n\nSupporters of the ruling argue that the original Voting Rights Act does not mandate the creation of majority-minority districts and that the decision restores a race-neutral constitutional framework. Critics, including Virginia Governor Abigail Spanberger, accused the Court of nullifying election results and voter-approved maps, calling the decisions an assault on minority representation.\n\nThe story is drawing coverage from 19 outlets across the political spectrum, reflecting its status as one of the most consequential civil rights rulings in recent memory. The downstream legal and political battles — in courts, state legislatures, and ahead of the 2026 midterms — are expected to intensify in the coming weeks.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/18/us/politics/supreme-court-voting-rights-act-timing.html",
+      "sourceCount": 19,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:50 AM MT",
+      "addedAtISO": "2026-05-18T10:50:59.168369-06:00"
+    },
+    {
+      "category": "business",
+      "headline": "NextEra and Dominion Energy Announce Merger to Create World's Largest Regulated Electric Utility",
+      "summary": "NextEra Energy and Dominion Energy announced Monday they would combine in an all-stock merger that would create the world's largest regulated electric utility by market capitalization, serving approximately 10 million customers across Florida, Virginia, North Carolina, and South Carolina. The companies described the deal as the largest electricity sector transaction since artificial intelligence dramatically expanded power demand. NextEra chair, president and CEO John Ketchum framed the combination as essential to building the generation and infrastructure capacity needed to meet surging electricity needs.\n\nThe announcement comes as U.S. electricity prices have risen an average of 6.1 percent year-over-year as of April, driven in part by AI data center construction and the broader energy disruptions stemming from the U.S.-Iran war. Dominion shares rallied nearly 10 percent on the news while NextEra fell approximately 5 percent as investors assessed the terms of the all-stock deal.\n\nThe merger will require regulatory approval from federal and state authorities, a process that could take well over a year. Utilities regulators in Virginia and Florida, two of the largest states served by the combined entity, will have significant say over whether and under what conditions the deal proceeds. The transaction would consolidate two companies that together manage a significant portion of the Eastern Seaboard's power grid.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/18/nextera-dominion-merger-power-electricity",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:50 AM MT",
+      "addedAtISO": "2026-05-18T10:50:59.168369-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Lebanon Death Toll From Israeli Strikes Passes 3,000 Despite Ceasefire Extension",
+      "summary": "Lebanon's health ministry announced Monday that the death toll from Israeli strikes since the conflict's escalation in early March has surpassed 3,000, reaching 3,020. The grim milestone comes despite a 45-day ceasefire extension brokered by the United States and announced Friday, with more than 400 of the deaths occurring after the initial truce took effect on April 17. The ceasefire agreement permits Israel to carry out strikes it characterizes as targeting Hezbollah military activity.\n\nSince the extension was announced Friday, Israeli strikes have continued across southern Lebanon and the Bekaa Valley, killing dozens. On Saturday, strikes hit more than two dozen villages, only nine of which received prior evacuation warnings. Hezbollah responded by claiming drone attacks on the Yaara barracks in northern Israel; Israel's military confirmed one soldier had been killed in southern Lebanon fighting, bringing its losses since March to 20, with four civilians also killed.\n\nLebanon has condemned the ongoing strikes as undermining its efforts to reestablish state authority over armed groups. Israeli ground forces continue to occupy a strip of territory approximately 10 kilometers deep inside Lebanese territory seized during the conflict. The two sides are scheduled to resume ceasefire negotiations at the beginning of June.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:50 AM MT",
+      "addedAtISO": "2026-05-18T10:50:59.168369-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: Taiwan President Vows No Provocation, No Surrender of Sovereignty After Trump-Xi Summit",
       "summary": "Taiwanese President Lai Ching-te issued his first public response to the Trump-Xi Beijing summit, declaring that Taiwan \"will not provoke, will not escalate conflict, but will not under pressure give up national sovereignty and dignity.\" Writing on Facebook, Lai reiterated that Taiwan — officially the Republic of China — is already a sovereign, independent democratic country and that there is therefore no \"Taiwan independence issue\" requiring formal declaration.\n\nThe statement came after Chinese President Xi Jinping told Trump that Taiwan was \"the most important issue\" in U.S.-China relations and that mishandling it could lead to conflict. Trump, speaking to Fox News after leaving Beijing, warned Taiwan against seeking independence, saying \"I'm not looking to have somebody go independent,\" while also telling reporters he made \"no commitment either way\" to Beijing.\n\nLai said Taiwan is willing to pursue \"healthy and orderly exchanges and dialogue with China on the premise of equality and dignity\" but rejected Beijing's use of \"unification\" framing as a vehicle for coercion. Beijing, which considers Taiwan a breakaway province, has labeled Lai a \"troublemaker\" and has not ruled out the use of force to take the island.\n\nThe exchange highlights the renewed fragility of cross-strait relations following the summit. The U.S. remains Taiwan's largest arms supplier under the Taiwan Relations Act; the Trump administration approved $11 billion in arms sales to Taipei in December. Some Trump advisers have privately warned that Xi may view the summit's outcome as an opening to more aggressive moves toward Taiwan within the next five years.",
