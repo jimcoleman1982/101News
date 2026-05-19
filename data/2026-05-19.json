@@ -3,6 +3,58 @@
   "dateFormatted": "Tuesday, May 19, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Kevin Warsh Sworn In as Federal Reserve Chair as Treasury Yields Hit 18-Year High",
+      "summary": "Kevin Warsh, a 56-year-old lawyer and financier, will be sworn in as U.S. Federal Reserve chairman on Friday by President Trump, the White House confirmed Monday. The installation of Warsh caps a prolonged effort by the Trump administration to reshape leadership at the central bank, which sets interest rate policy for the world's largest economy.\n\nWarsh's arrival comes at a moment of acute financial pressure: the yield on 30-year U.S. Treasury bonds has surged to 5.11%, its highest level since 2007, up from 4.63% at the end of February. Analysts note that global bond markets are being driven higher by AI-fueled capital demand, energy supply disruptions tied to the Iran war, and mounting fiscal deficits — creating an immediate test for the new Fed chief.\n\nSupporers of Warsh argue he is well-suited to navigate the Fed through a period of elevated inflation risk and geopolitical uncertainty. Critics, particularly on the left, have raised concerns about Trump's influence over central bank independence and whether Warsh will prioritize fighting inflation over supporting growth. The Fed's decisions will affect borrowing costs for mortgages, business loans, and the national debt.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/us/federal-reserve/",
+      "sourceCount": 22,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "8:06 AM MT",
+      "addedAtISO": "2026-05-19T08:06:40.408675-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Voters Head to Polls in Six-State Primary as Trump Tests Grip on GOP; Massie Faces Trump-Backed Challenger",
+      "summary": "Voters in Kentucky, Georgia, Pennsylvania, Alabama, Oregon, and Idaho are casting ballots Tuesday in one of the most consequential primary days of the 2026 midterm cycle. The most closely watched race is in Kentucky's 4th Congressional District, where Rep. Thomas Massie — a libertarian-leaning Republican and persistent Trump critic — faces retired Navy SEAL Ed Gallrein, who has received active backing from President Trump and a campaign-eve endorsement event appearance by Defense Secretary Pete Hegseth.\n\nMassie's ouster has become a personal priority for Trump, whose electoral influence on the Republican Party has already been demonstrated by the defeat of Sen. Bill Cassidy (R-LA) in Saturday's Louisiana primary — one of only seven Senate Republicans who voted to convict Trump during his impeachment trial. Georgia will also hold competitive gubernatorial and Senate primaries Tuesday, with the Senate seat seen as potentially decisive for control of the chamber in November.\n\nAlabama voters will select candidates for only three of seven congressional districts following a Supreme Court Voting Rights Act ruling that forced Republicans to redraw maps, costing Democrats a House seat. Pennsylvania Democrats are choosing nominees in four seats considered critical for the party's effort to retake the U.S. House. The outcomes will be widely read as a barometer of Trump's continued dominance over the Republican Party heading into the fall.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/us/federal-reserve/",
+      "sourceCount": 22,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "8:06 AM MT",
+      "addedAtISO": "2026-05-19T08:06:40.408675-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Update: DOJ Creates $1.776 Billion 'Anti-Weaponization Fund' to Compensate Trump Allies Claiming Unfair Prosecution",
+      "summary": "The Justice Department announced Monday the creation of a $1.776 billion \"Anti-Weaponization Fund\" as part of a settlement in which President Trump agreed to drop his $10 billion lawsuit against the IRS over the leak of his tax returns. Acting Attorney General Todd Blanche said the fund will provide a \"systematic process\" to hear and redress claims from individuals who allege they were subjected to politically motivated investigations or prosecutions under prior administrations, potentially including January 6 defendants.\n\nThe fund is to be overseen by five commissioners and its legal general counsel, Brian Morrissey, stepped down hours after the announcement. Democrats swiftly condemned the arrangement, with Rep. Jamie Raskin (D-MD) calling it an unprecedented use of taxpayer money to fund what he described as a \"private militia\" for the president's political allies, and others labeling it a \"slush fund\" that funnels public dollars to Trump supporters with limited oversight.\n\nSupporters of the fund argue it provides a legitimate mechanism to address documented cases of government overreach and prosecutorial abuse under the Biden administration. Acting AG Blanche is scheduled to testify Tuesday before the Senate Appropriations Committee, where the fund is expected to dominate questioning. The episode marks an unprecedented use of a civil lawsuit settlement to redirect nearly $1.8 billion in taxpayer funds to a newly created executive-branch compensation body.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/us/federal-reserve/",
+      "sourceCount": 22,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "8:06 AM MT",
+      "addedAtISO": "2026-05-19T08:06:40.408675-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Putin Arrives in Beijing as Xi-Russia Alliance Deepens After Trump-Xi Summit",
+      "summary": "Russian President Vladimir Putin has arrived in Beijing for a state visit coinciding with the 25th anniversary of the Treaty of Good-Neighbourliness and Friendly Cooperation between China and Russia. The visit comes just days after President Trump met with Xi Jinping in Beijing, with the Kremlin saying it sought to receive a firsthand account of that summit. Xi reportedly referenced Putin's prior visits to Beijing's Zhongnanhai compound during his walk with Trump, signaling the durability of the Sino-Russian partnership.\n\nAnalysts describe the China-Russia relationship as deeply asymmetric: China is Russia's largest trading partner, while Russia accounts for only about 4% of China's international commerce. Years of Western sanctions over the Ukraine war have pushed Moscow into increasing economic and technological dependence on Beijing, with companies such as Huawei filling gaps left by Western firms in Russia's telecommunications infrastructure. Experts at the Carnegie Russia Eurasia Center characterize Russia as effectively operating \"in China's pocket.\"\n\nThe back-to-back summits — Trump in Beijing followed immediately by Putin — carry significant geopolitical weight. Washington had hoped the Trump-Xi meeting might pull China away from its alignment with Russia, but analysts say those hopes appear unfounded. The visits are being interpreted as a demonstration of China's centrality to the emerging global order, and Xi's ability to host rival powers in succession as a signal of Chinese diplomatic leverage.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:06 AM MT",
+      "addedAtISO": "2026-05-19T08:06:40.408675-06:00"
+    },
+    {
       "category": "science_health",
       "headline": "Update: WHO Warns Ebola Outbreak in DR Congo May Be Far Larger Than Known, Spreading to New Areas",
       "summary": "A World Health Organization representative warned Tuesday that the Ebola outbreak in the Democratic Republic of Congo is spreading faster and more widely than initially understood. Dr. Anne Ancia told the BBC that ongoing investigations reveal the virus has already crossed into other provinces and into neighboring Uganda, where one person has died. The epicenter remains Ituri province, a region the WHO describes as highly insecure with constant population movement, complicating containment efforts.\n\nModeling from the London-based MRC Centre for Global Infectious Disease Analysis suggests the true number of cases could already exceed 1,000, far above the 513 suspected cases officially recorded. The study concludes there has been 'substantial' under-detection and that the outbreak's 'true magnitude remains uncertain.' The Red Cross warned that conditions in the region — including overwhelmed health systems and limited community awareness — are precisely those under which Ebola escalates rapidly.\n\nThe strain driving this outbreak has no approved vaccine, though the WHO is evaluating whether existing drugs may offer some protection. WHO Director-General Tedros Adhanom Ghebreyesus, who declared an international emergency last week, said he is 'deeply concerned about the scale and speed of the epidemic.' An American citizen believed to be a missionary doctor developed symptoms over the weekend and is being evacuated to Germany for treatment.\n\nSeveral neighboring countries have tightened border screenings. Rwanda has closed its border with DR Congo, and Uganda has advised citizens to avoid physical contact. The outbreak is believed to have been ongoing for weeks before it was first detected on April 24, raising fears about how far it may have already spread undetected.",
