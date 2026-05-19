@@ -3,6 +3,45 @@
   "dateFormatted": "Tuesday, May 19, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "NATO Fighter Jet Shoots Down Suspected Ukrainian Drone Over Estonian Territory",
+      "summary": "A Romanian F-16 participating in NATO's Baltic air policing mission shot down a drone over central Estonia on Tuesday after the projectile was identified as a potential threat and tracked from Latvia. Estonian Defence Minister Hanno Pevkur confirmed the debris fell in a marshy area between Lake Võrtsjärv and the town of Põltsamaa, with no damage or injuries reported. The drone came within roughly 30 meters of a residential building before crashing into a forest.\n\nUkraine acknowledged the incident and apologized to Estonia and its Baltic allies, with Foreign Ministry spokesman Heorhii Tykhyi accusing Russia of deliberately redirecting Ukrainian drones targeting legitimate military objectives in Russia into NATO member territory. Russia has not commented. The incident follows a similar pattern of recent drone incursions over Latvia and Estonia, and comes just days after Latvian Prime Minister Evika Silina resigned amid a political crisis triggered by Russian-bound Ukrainian drones straying into Latvian airspace.\n\nThe episode highlights a growing and dangerous complication of the Ukraine war: Ukrainian drone strikes on Russian infrastructure near the Baltic states are increasingly crossing into NATO territory, either through navigational error or, as Kyiv alleges, through deliberate Russian electronic jamming. Moscow has in turn accused the Baltic states of allowing Ukraine to use their air corridors to strike Russian targets, a charge Tallinn, Riga, and Vilnius firmly deny.\n\nThe incident is the latest stress test for NATO cohesion on its eastern flank. The alliance's air policing mission in the Baltics exists precisely to guard against such intrusions, and Tuesday's intercept demonstrates both its operational readiness and the increasingly blurred lines of the Ukraine conflict as it spills into allied airspace.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c302jy8z4vro",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:23 PM MT",
+      "addedAtISO": "2026-05-19T16:23:14.045500-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Thailand Cuts Visa-Free Stay for 93 Countries, Including U.S. and UK, Citing Security Concerns",
+      "summary": "Thailand's government approved a plan on Tuesday to reduce visa-free stays for nationals of 93 countries from 60 days to 30 days, or in some cases less, depending on reciprocal agreements with individual nations. The affected countries include the United States, United Kingdom, China, India, Australia, France, Germany, Italy, and Spain. The new rules take effect 15 days after publication in the Royal Gazette.\n\nPrime Minister Anutin Charnvirakul said the policy requires revision 'to be more suitable for the current situation, both in terms of the economy and national security.' The government cited a series of high-profile arrests of foreign nationals in recent months — including cases linked to drug smuggling, sex trafficking, and unlicensed employment — as well as confusion created by overlapping visa exemption schemes.\n\nThailand extended the 60-day visa-free window in July 2024 to revive tourism following the Covid-19 pandemic. The country attracted nearly 40 million visitors in 2019 before the pandemic decimated arrivals; nearly 12 million tourists have already visited in 2025. Tourism officials will be monitoring whether the rollback measurably dampens visitor numbers from key source markets.\n\nThe policy shift affects tens of millions of potential travelers annually and signals a broader recalibration by Southeast Asian governments balancing economic openness with security and law enforcement pressures. Travelers planning extended stays in Thailand will now be required to obtain a visa in advance rather than relying on automatic entry allowances.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78q3qjqnn5o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:23 PM MT",
+      "addedAtISO": "2026-05-19T16:23:14.045500-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Congress Moves to Regulate Prediction Markets After Insider Trading Scandals",
+      "summary": "Members of Congress are scrambling to impose new regulatory guardrails on online prediction markets such as Kalshi and Polymarket following a string of alleged insider trading scandals tied to the platforms. More than a dozen bills have been introduced in 2026 alone, according to the Congressional Research Service, reflecting mounting legislative urgency around an industry that has expanded rapidly with minimal federal oversight.\n\nThe push mirrors previous congressional efforts to regulate cryptocurrency and artificial intelligence — sectors where lawmakers have consistently found themselves behind the technological curve. Dozens of states have taken legal action against prediction market companies, but Minnesota has become the first state to pass a law making it a felony for such platforms to operate, setting a potential model for federal action.\n\nProponents of stricter regulation argue that prediction markets — which allow users to bet on the outcomes of elections, policy decisions, and other events — are functionally gambling operations that carry systemic risks around market manipulation and insider trading. Defenders of the industry contend the markets aggregate information efficiently, provide genuine price discovery, and should be treated as a legitimate financial instrument subject to existing commodities or securities frameworks rather than blanket prohibition.\n\nThe regulatory debate carries political stakes: prediction markets became closely associated with the 2024 election cycle, and questions about who profits from advance knowledge of major policy or political decisions have drawn bipartisan concern. How Congress ultimately classifies and regulates these platforms could determine whether a multibillion-dollar industry expands or contracts significantly.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/19/prediction-market-kalshi-polymarket-bill-congress",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:23 PM MT",
+      "addedAtISO": "2026-05-19T16:23:14.045500-06:00"
+    },
+    {
       "category": "technology",
       "headline": "OpenAI Co-Founder Andrej Karpathy Joins Anthropic in Major AI Talent Shift",
       "summary": "Andrej Karpathy, one of the most prominent researchers in artificial intelligence and a founding member of OpenAI, announced Tuesday that he is joining rival AI lab Anthropic. Karpathy, who also served as director of AI at Tesla, will start this week on Anthropic's pre-training team, which is responsible for developing the foundational models underpinning the company's Claude AI system.\n\nThe hire represents a significant coup for Anthropic in the intensely competitive race for elite AI talent. Karpathy is widely regarded as one of the field's most respected technical minds and has a substantial public following in the AI research community, known in part for his educational content explaining machine learning concepts.\n\nThe move is another signal of Anthropic's rising position in the AI industry, following a period of substantial investment and growing commercial traction for its Claude models against competitors including OpenAI's GPT series and Google's Gemini. The departure of a founding figure from OpenAI — even one who had previously left and operated independently — is notable given the ongoing rivalry between the two labs.\n\nThe announcement comes as Congress and regulators are separately scrambling to keep pace with the AI industry's rapid growth, and as major AI labs continue to compete aggressively on talent, compute, and model capability.",
