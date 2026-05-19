@@ -3,6 +3,45 @@
   "dateFormatted": "Tuesday, May 19, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: Sandy Fire Forces Mass Evacuations in Simi Valley as Blazes Visible from Space",
+      "summary": "Two uncontrolled wildfires burning in southern California have been captured in satellite imagery showing massive smoke plumes, as the Sandy Fire in Simi Valley continued to grow without containment. The fire, which ignited Monday after a tractor reportedly struck a rock, has spread across roughly 1,364 acres with zero percent containment as of Tuesday morning, with 750 firefighters and night-flying water-dropping helicopters battling the blaze.\n\nMore than 10,000 homes have been evacuated from Simi Valley and surrounding communities, with an additional 3,500 homes under evacuation warnings extending into neighboring Los Angeles County. NASA wildfire monitoring data shows active hotspots moving further south overnight. Los Angeles Mayor Karen Bass said officials do not expect the fire to reach the city but issued warnings 'out of an abundance of caution.'\n\nA separate fire on Santa Rosa Island off the Los Angeles coast has burned 14,600 acres of Channel Islands National Park, with that blaze also entirely uncontained. At least 70 firefighters and park rangers are battling that fire. The back-to-back disasters arrive months after the devastating January 2025 Los Angeles fires that killed approximately 30 people and destroyed more than 10,000 homes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg4pn0e2yp6o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:52 AM MT",
+      "addedAtISO": "2026-05-19T10:52:32.666279-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Afghan Families Selling Children as U.S. Aid Cuts Drive Country Toward Famine",
+      "summary": "A BBC investigation from Afghanistan's Ghor province documents fathers considering selling their daughters into marriage or domestic labor as record-level hunger grips the country. Three in four Afghans cannot meet basic needs, and an estimated 4.7 million people — more than a tenth of the population — are one step from famine, according to United Nations figures, as foreign aid that once sustained millions has drastically diminished.\n\nIn Chaghcharan, hundreds of men gather daily at a labor square hoping for work, with wages of roughly $2-$3 a day when available. Men interviewed described children going to bed hungry for multiple consecutive nights and families surviving on bread and hot water. One father, Abdul Rashid Azimi, said he is willing to sell his seven-year-old twin daughters, explaining: 'If I sell one daughter, I could feed the rest of my children for at least four years.'\n\nThe crisis has been accelerated by the Taliban government's restrictions on women and girls, which led many international aid organizations to curtail or exit their operations, as well as broader reductions in global humanitarian funding. Afghanistan's humanitarian situation now ranks among the worst in the world, with the collapse of the Western-backed government in 2021 having dismantled the public-sector jobs and international contracts that supported large portions of the population.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:52 AM MT",
+      "addedAtISO": "2026-05-19T10:52:32.666279-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Lula Reclaims Lead in Brazil Presidential Race as Bolsonaro Ally Hit by Banking Fraud Scandal",
+      "summary": "Brazilian President Luiz Inácio Lula da Silva has reclaimed the lead in polling for Brazil's presidential race after Senator Flávio Bolsonaro, son of former president Jair Bolsonaro, lost support following revelations about his ties to a central figure in Brazil's largest banking fraud scandal, according to a new Bloomberg-cited poll.\n\nThe scandal adds fresh legal and political pressure to the Bolsonaro family, which has faced multiple ongoing legal proceedings. Jair Bolsonaro was charged in connection with an alleged coup attempt following his 2022 electoral defeat and remains barred from holding office, making Flávio one of the family's primary vehicles for maintaining political influence ahead of the October 2026 election.\n\nBrazil's presidential election is being closely watched across Latin America as a bellwether for the region's political direction, pitting a center-left incumbent against a right-wing opposition whose leading figure faces mounting legal and reputational headwinds.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-19/lula-reclaims-lead-in-brazil-race-as-bolsonaro-hit-by-scandal",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:52 AM MT",
+      "addedAtISO": "2026-05-19T10:52:32.666279-06:00"
+    },
+    {
       "category": "politics",
       "headline": "Kevin Warsh Sworn In as Federal Reserve Chair as Treasury Yields Hit 18-Year High",
       "summary": "Kevin Warsh, a 56-year-old lawyer and financier, will be sworn in as U.S. Federal Reserve chairman on Friday by President Trump, the White House confirmed Monday. The installation of Warsh caps a prolonged effort by the Trump administration to reshape leadership at the central bank, which sets interest rate policy for the world's largest economy.\n\nWarsh's arrival comes at a moment of acute financial pressure: the yield on 30-year U.S. Treasury bonds has surged to 5.11%, its highest level since 2007, up from 4.63% at the end of February. Analysts note that global bond markets are being driven higher by AI-fueled capital demand, energy supply disruptions tied to the Iran war, and mounting fiscal deficits — creating an immediate test for the new Fed chief.\n\nSupporers of Warsh argue he is well-suited to navigate the Fed through a period of elevated inflation risk and geopolitical uncertainty. Critics, particularly on the left, have raised concerns about Trump's influence over central bank independence and whether Warsh will prioritize fighting inflation over supporting growth. The Fed's decisions will affect borrowing costs for mortgages, business loans, and the national debt.",
