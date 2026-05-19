@@ -3,6 +3,45 @@
   "dateFormatted": "Tuesday, May 19, 2026",
   "stories": [
     {
+      "category": "technology",
+      "headline": "OpenAI Co-Founder Andrej Karpathy Joins Anthropic in Major AI Talent Shift",
+      "summary": "Andrej Karpathy, one of the most prominent researchers in artificial intelligence and a founding member of OpenAI, announced Tuesday that he is joining rival AI lab Anthropic. Karpathy, who also served as director of AI at Tesla, will start this week on Anthropic's pre-training team, which is responsible for developing the foundational models underpinning the company's Claude AI system.\n\nThe hire represents a significant coup for Anthropic in the intensely competitive race for elite AI talent. Karpathy is widely regarded as one of the field's most respected technical minds and has a substantial public following in the AI research community, known in part for his educational content explaining machine learning concepts.\n\nThe move is another signal of Anthropic's rising position in the AI industry, following a period of substantial investment and growing commercial traction for its Claude models against competitors including OpenAI's GPT series and Google's Gemini. The departure of a founding figure from OpenAI — even one who had previously left and operated independently — is notable given the ongoing rivalry between the two labs.\n\nThe announcement comes as Congress and regulators are separately scrambling to keep pace with the AI industry's rapid growth, and as major AI labs continue to compete aggressively on talent, compute, and model capability.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/19/anthropic-openai-karpathy-andrej-claude",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:16 PM MT",
+      "addedAtISO": "2026-05-19T13:16:04.448241-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Key Channel Crossing People Smuggler Arrested in Iraqi Kurdistan After BBC Investigation Uncovered Identity",
+      "summary": "A high-level people smuggler believed to have transported thousands of migrants across the English Channel in small boats has been arrested in Iraqi Kurdistan after a BBC investigation uncovered his real identity. Kardo Jaf, 28, who operated under the alias Kardo Ranya, was arrested by officers of the Kurdistan Regional Security Agency on suspicion of human trafficking offenses and remains in custody.\n\nJaf had concealed his real name for years to evade international arrest warrants, operating a network that offered smuggling services stretching from Afghanistan to the United Kingdom. The BBC's investigation, detailed in the Radio 4 podcast 'Intrigue: To Catch A King,' found that Jaf advertised his services on social media, offering tiered services including a 'VIP' flight package to Manchester for £160,000 per family. Less affluent customers described being placed on dangerously overcrowded boats and left to steer themselves across the Channel.\n\nThe UK's National Crime Agency confirmed Tuesday that a suspected people smuggler had been arrested on May 13, without initially naming Jaf. NCA Director General of Operations Rob Jones called it a 'potentially very significant arrest' and said individuals operating such networks should not consider themselves beyond the reach of law enforcement. A Kurdish MP told the BBC he believed 70% of illegal migration to the UK was being controlled from the town of Ranya, the namesake of Jaf's alias.\n\nJaf denied the allegations when confronted by the BBC, saying he had only advised people on how to leave Iraq and did not believe he had committed any offense. The arrest is seen as a significant development in the UK and European effort to dismantle organized cross-Channel smuggling networks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yejzmvy56o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:16 PM MT",
+      "addedAtISO": "2026-05-19T13:16:04.448241-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Justice Jackson Warns Supreme Court Risks Appearing Political After Voting Rights Ruling",
+      "summary": "Supreme Court Justice Ketanji Brown Jackson warned Monday that the court risks being perceived as a political institution, speaking at a gathering of the American Law Institute in Washington, D.C. Her remarks followed her solo dissent from the court's recent decision allowing Louisiana to immediately implement new congressional maps after the conservative majority struck down a majority-Black district and weakened the Voting Rights Act.\n\n'Public confidence is really all the judiciary has,' Jackson said. 'Everyone believes the court system is outside the political sphere. I think that means it's incumbent on us to do things, to act in ways, that shore up public confidence.' She had previously written in her dissent that the court had 'spawned chaos' amid a fierce nationwide redistricting battle triggered by the ruling.\n\nThree of Jackson's conservative colleagues on the court issued a sharp rebuttal, calling her criticism 'baseless' and rejecting accusations of partisanship. They argued the alternative — allowing an election to proceed under a map that had been found unconstitutional — would itself have been legally untenable. Chief Justice John Roberts has separately expressed concern about public perceptions of the court as political, calling it a misunderstanding.\n\nPolling has shown public trust in the Supreme Court at historic lows in recent years. The exchange reflects a deepening public divide over the court's direction, with liberals arguing the conservative supermajority is reshaping foundational civil rights law and conservatives contending the court is simply applying the Constitution as written.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/supreme-court-voting-rights-justice-jackson-d9971fd19f7a63c841e7890b89e104f6",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:16 PM MT",
+      "addedAtISO": "2026-05-19T13:16:04.448241-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: Sandy Fire Forces Mass Evacuations in Simi Valley as Blazes Visible from Space",
       "summary": "Two uncontrolled wildfires burning in southern California have been captured in satellite imagery showing massive smoke plumes, as the Sandy Fire in Simi Valley continued to grow without containment. The fire, which ignited Monday after a tractor reportedly struck a rock, has spread across roughly 1,364 acres with zero percent containment as of Tuesday morning, with 750 firefighters and night-flying water-dropping helicopters battling the blaze.\n\nMore than 10,000 homes have been evacuated from Simi Valley and surrounding communities, with an additional 3,500 homes under evacuation warnings extending into neighboring Los Angeles County. NASA wildfire monitoring data shows active hotspots moving further south overnight. Los Angeles Mayor Karen Bass said officials do not expect the fire to reach the city but issued warnings 'out of an abundance of caution.'\n\nA separate fire on Santa Rosa Island off the Los Angeles coast has burned 14,600 acres of Channel Islands National Park, with that blaze also entirely uncontained. At least 70 firefighters and park rangers are battling that fire. The back-to-back disasters arrive months after the devastating January 2025 Los Angeles fires that killed approximately 30 people and destroyed more than 10,000 homes.",
