@@ -3,6 +3,45 @@
   "dateFormatted": "Monday, May 18, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "DOJ Creates $1.8 Billion Fund to Compensate Alleged Victims of Politically Motivated Prosecutions",
+      "summary": "The Trump administration announced Monday the creation of a nearly $1.8 billion \"Anti-Weaponization Fund\" to compensate individuals who believe they were unjustly investigated or prosecuted for political reasons, including by the Biden-era Justice Department. The fund, established as part of a settlement resolving Trump's lawsuit against the IRS over the leak of his tax returns, will allow applicants to seek payouts overseen by Acting Attorney General Todd Blanche, who called it \"a lawful process for victims of lawfare and weaponization to be heard and seek redress.\"\n\nDemocrats and government watchdog groups reacted with sharp condemnation. Nearly 100 House Democrats signed a legal brief urging a judge to block the arrangement, describing it as an unprecedented use of taxpayer dollars to enrich allies of the president. Donald Sherman of Citizens for Responsibility and Ethics in Washington called it \"one of the single most corrupt acts in American history.\" Blanche is expected to face pointed questions about the fund when he testifies Tuesday before Congress on the Justice Department budget.\n\nSupporters of the fund argue it addresses genuine abuses of prosecutorial power, pointing to what they characterize as politically motivated investigations of Trump allies during the Biden years. Critics counter that the administration has itself pursued politically charged prosecutions of Trump's perceived adversaries, exposing the DOJ to the same accusations of weaponization that Blanche said he opposed.\n\nThe announcement represents one of the most consequential and legally contentious domestic policy moves by the administration to date, with implications for the independence of federal law enforcement and the use of settlement funds outside normal congressional appropriations processes.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/trump-lawsuit-irs-leak-3729de38770b558be01712a143437bf8",
+      "sourceCount": 12,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-18T21:08:17.222579-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "Sandy Fire Forces Evacuation of More Than 29,000 Residents in Simi Valley, California",
+      "summary": "A fast-moving brush fire broke out Monday in Simi Valley, California, prompting mandatory evacuations for more than 29,000 residents and burning at least 720 acres as of Monday evening. The fire moved into at least one neighborhood, destroying at least one home and another structure, as firefighters worked to contain the blaze amid dry conditions.\n\nThe Sandy Fire is the latest in a series of significant wildfire events in California this year. Separately, a wildfire on Santa Rosa Island in Channel Islands National Park has grown to more than 10,000 acres, becoming the state's largest wildfire so far in 2026; it has destroyed historic structures and threatened rare plant communities. That fire was sparked when a shipwrecked man set off flares to signal for rescue.\n\nFirefighters have deployed roughly six dozen personnel to the Channel Islands blaze, while a larger response is underway in Simi Valley. Evacuations are ongoing, and officials have not yet given a full damage assessment for the Simi Valley fire as the situation remains active.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/18/us/sandy-fire-simi-valley-california.html",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-18T21:08:17.222579-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Sen. Tillis Threatens to Vote Against GOP Reconciliation Bill, Jeopardizing Senate Passage",
+      "summary": "Sen. Thom Tillis (R-N.C.) informed fellow Republican senators Monday that he will not vote for the budget reconciliation bill if the Senate takes it up this week, according to two people familiar with the matter. In an email to GOP colleagues, Tillis identified a $1 billion allocation for a White House ballroom renovation as a \"major policy problem\" and called for the chamber to delay action on the measure.\n\nTillis's firm opposition threatens the bill's passage in a Senate where Republicans hold a narrow majority and can afford to lose very few votes. The reconciliation package is intended to fund immigration enforcement operations through 2029. Tillis left open the possibility of eventually supporting a revised version of the bill, signaling that his objection is to specific provisions rather than the legislation's broader goals.\n\nThe development adds to existing Senate Republican tensions over the reconciliation package, with at least one other senator, John Cornyn, also reported to have reservations. Leadership has been pressing to advance the bill quickly, while a contingent of members is urging more deliberation over its contents and cost.\n\nThe outcome of the vote will have significant implications for the administration's immigration funding priorities and for Republican leaders' ability to move their legislative agenda through the upper chamber before the summer recess.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/18/tillis-senate-reconciliation-cassidy-cornyn",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-18T21:08:17.222579-06:00"
+    },
+    {
       "category": "other",
       "headline": "At Least Three Dead After Shooting at San Diego Islamic Center",
       "summary": "At least five people are dead — including two gunmen — after a shooting at the Islamic Center of San Diego in the Clairemont neighborhood Monday, according to San Diego Police Chief Scott Wahl. Police began receiving calls about an active shooter at approximately 11:40 a.m. Pacific time. Wahl described the scene as \"extremely chaotic\" during an initial press briefing.\n\nThe Islamic Center also operates as a school. Police confirmed that all children present at the time of the attack are reported safe. SWAT officers responded alongside patrol units in a large emergency deployment.\n\nAuthorities said the scene has been contained. The identities of the victims and gunmen have not been publicly released, nor has a motive been established. Investigators are expected to provide additional details as the situation develops.",
