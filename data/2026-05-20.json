@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-20",
+  "dateFormatted": "Wednesday, May 20, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Update: Primary Results: Georgia Senate and Governor Races Head to Runoffs; Pennsylvania Dem Picks Union Leader",
+      "summary": "Voters across multiple states cast ballots Tuesday in primary contests testing the shape of both parties heading into the 2026 midterms. In Georgia's Republican Senate primary, former University of Tennessee football coach Derek Dooley — backed heavily by Gov. Brian Kemp — advanced to a June 16 runoff against incumbent Rep. Mike Collins, while former Secretary of State Brad Raffensperger fell short in the Republican governor's primary, sending Lt. Gov. Burt Jones and billionaire Rick Jackson to a runoff.\n\nOn the Democratic side, former Atlanta Mayor Keisha Lance Bottoms emerged as the Democratic nominee for Georgia governor, telling supporters she was \"a fighter\" ready for the general election campaign. In Pennsylvania, union leader and former firefighter Bob Brooks won the Democratic primary in a competitive congressional race, drawing endorsements from Sen. Bernie Sanders and Gov. Josh Shapiro.\n\nThe results carry national implications as both parties assess their positioning ahead of November. In Georgia, Gov. Kemp's ability to steer Dooley into a runoff signals ongoing tensions within the Republican Party between Trump-aligned and establishment factions. Raffensperger, who gained national prominence for resisting Trump's 2020 election pressure, said spending by better-funded rivals drowned out his message.\n\nThe Associated Press called races across the board as results came in Tuesday night. The Georgia runoffs are set for June 16, with both the Senate and governor contests still unresolved on the Republican side.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-kentucky-us-house-4-primary.html",
+      "sourceCount": 22,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-20T05:08:26.630629-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: WHO Reports 600 Suspected Ebola Cases, 139 Deaths as Outbreak Spreads Beyond DR Congo",
+      "summary": "The World Health Organization reported Wednesday that the Ebola outbreak in the Democratic Republic of Congo has now reached 600 suspected cases and 139 suspected deaths, with confirmed cases also recorded in Uganda's capital Kampala. WHO Director-General Dr. Tedros Adhanom Ghebreyesus said the outbreak of the Bundibugyo species likely began \"a couple of months ago\" and that case counts are expected to rise further given delays in detection.\n\nThe outbreak is centered in DR Congo's eastern Ituri province, with additional cases in North Kivu — including rebel-controlled Goma. The two confirmed cases in Uganda both involved individuals who had traveled from DR Congo. The WHO declared a public health emergency of international concern on Sunday but said the situation does not yet rise to pandemic level, assessing global risk as low.\n\nThe Bundibugyo species presents particular challenges: it has not been seen in over a decade, there is no approved vaccine for it, and no targeted drug treatments exist. A vaccine used against the more common Zaire species may offer partial protection, but experimental options remain limited. The region's years of armed conflict further complicate containment efforts.\n\nThis is DR Congo's 17th Ebola outbreak. Health officials are working to trace contacts and establish treatment infrastructure in the affected gold-mining communities of Mongwalu and surrounding areas, where access is difficult.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy2g197dp8o",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-20T05:08:26.630629-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "NAACP Launches Boycott of Southern College Athletic Programs Over Voting Rights Rollback",
+      "summary": "The NAACP announced Tuesday a campaign called \"Out of Bounds\" urging Black athletes, fans, and alumni to boycott the athletic programs of public universities in seven Southern states — Alabama, Florida, Georgia, Louisiana, Mississippi, Texas, and South Carolina — over what the civil rights organization describes as efforts to restrict Black voting representation. The campaign calls on prospective recruits, enrolled athletes, and donors to \"withhold athletic and financial support\" from flagship university programs.\n\nThe boycott is a direct response to redistricting actions by Republican state legislatures following a recent U.S. Supreme Court ruling that weakened a key provision of the Voting Rights Act of 1965. Activists argue that GOP-led states have used the ruling to eliminate majority-Black congressional districts, and the NAACP is targeting college athletics — an arena where Black talent disproportionately drives revenue — as a pressure point.\n\n\"Black athletes should not be asked to generate wealth, prestige, and power for state institutions while those same states strip political power from Black communities,\" said NAACP President Derrick Johnson. Supporters of the redistricting plans argue the maps comply with the Supreme Court's ruling and reflect legitimate political and geographic considerations. Republican state officials have defended the new district lines as lawful.\n\nThe near-term practical impact of the boycott may be limited: college football and basketball transfer portals are closed until 2027, and binding recruiting commitments have already been made for the upcoming season. However, advocates say the campaign could influence high school recruits weighing their choices for 2027 and beyond, potentially affecting programs that generate hundreds of millions of dollars annually.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/naacp-calls-for-boycott-of-southern-college-sports-programs-over-voting-rights",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-20T05:08:26.630629-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Ukraine Strikes Russia's Norsi Oil Refinery for Second Time This Week",
+      "summary": "Ukraine said Tuesday it struck Russia's major Norsi oil refinery in the Nizhny Novgorod region for the second time in a single week, continuing its campaign to degrade Russian energy infrastructure deep inside Russian territory. The refinery is one of Russia's largest and most strategically significant petroleum processing facilities.\n\nThe repeated strikes signal a Ukrainian effort to impose sustained economic and logistical costs on Moscow as ground fighting continues in the east. Some analysts have interpreted President Putin's recent statements about a potential truce as a stalling tactic rather than a genuine peace overture, noting that Russian forces have faced pressure along portions of the front line.\n\nThe attacks on energy infrastructure have been a central element of Ukraine's long-range strategy, aimed at reducing Russia's ability to fund and supply its war effort. Russia has responded with its own strikes on Ukrainian power and industrial infrastructure throughout the conflict.\n\nThe Norsi strikes come amid broader diplomatic activity, including ongoing U.S.-mediated discussions about a possible ceasefire framework, though no agreement has been reached. Ukraine has maintained that continued military pressure is essential leverage in any negotiations.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-20/ukraine-says-it-attacked-russia-s-major-norsi-oil-refinery-again",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-20T05:08:26.630629-06:00"
+    }
+  ]
+}
