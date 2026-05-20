@@ -3,6 +3,45 @@
   "dateFormatted": "Wednesday, May 20, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "Meta Cuts 8,000 Jobs in Sweeping AI Pivot",
+      "summary": "Meta, the parent company of Facebook and Instagram, announced Wednesday it is laying off approximately 8,000 employees and canceling plans to hire for an additional 6,000 roles as it accelerates its transformation into an artificial intelligence-focused company. The cuts represent one of the largest rounds of layoffs in the company's history and come as Meta has been investing tens of billions of dollars into AI infrastructure and development.\n\nThe company acknowledged it lags behind competitors in the AI race and is restructuring its workforce to redirect resources toward AI products and services. Employees have reportedly been left scrambling to determine who has been let go, and some workers had previously circulated internal petitions protesting AI-driven surveillance and monitoring practices within the company.\n\nThe move underscores a broader industry trend of large technology firms shedding traditional roles in favor of AI-oriented positions. Meta's announcement affects tens of thousands of workers and their families and signals a significant shift in how one of the world's largest platforms intends to compete in the next era of the internet.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/20/nx-s1-5826917/meta-layoffs-ai-jobs",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:33 PM MT",
+      "addedAtISO": "2026-05-20T13:33:22.294942-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "U.S. Marines Board Iranian-Flagged Oil Tanker in Gulf of Oman",
+      "summary": "U.S. Marines from the 31st Marine Expeditionary Unit boarded an Iranian-flagged oil tanker, the M/T Celestial Sea, in the Gulf of Oman on Wednesday after the vessel was suspected of attempting to violate a U.S. naval blockade by sailing toward an Iranian port. The ship, which sailed under the flag of Aruba and stretches more than 120 meters in length, was subsequently released after the boarding.\n\nThe operation is part of the Trump administration's sustained pressure campaign on Tehran's economy as diplomatic negotiations over Iran's nuclear program continue. The boarding marks an escalation in enforcement of maritime restrictions targeting Iranian oil exports, which Washington has used as a primary economic lever in its standoff with Tehran.\n\nThe incident comes amid ongoing U.S.-Iran tensions following earlier military strikes and active negotiations. The administration has publicly signaled it may pursue harder measures if talks do not yield results, making naval enforcement actions like this one closely watched indicators of where that broader confrontation is headed.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/5887890-marines-redirect-iranian-oil-tanker/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:33 PM MT",
+      "addedAtISO": "2026-05-20T13:33:22.294942-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Russian Jets 'Dangerously' Intercept British Spy Plane Over Black Sea",
+      "summary": "The United Kingdom's Ministry of Defense disclosed Wednesday that two Russian fighter jets repeatedly and dangerously intercepted a Royal Air Force Rivet Joint surveillance aircraft over the Black Sea last month, calling it the most serious such incident involving a British aircraft since 2022. At one point, a Russian Su-27 flew within six meters of the British plane's nose, and the encounter triggered the aircraft's emergency systems and disabled its autopilot.\n\nDefense Minister John Healey described the behavior as \"dangerous and unacceptable\" and said it created \"a serious risk of accidents and potential escalation.\" The U.K. and Russia have formally exchanged diplomatic complaints over the incident, and London released a 12-second video of the intercept. The British plane was conducting a routine flight in international airspace as part of NATO's eastern flank security operations.\n\nThe disclosure arrives amid broader NATO-Russia tensions tied to the ongoing war in Ukraine. Britain has recently publicized other confrontations with Russian forces, including the tracking of three Russian submarines in Atlantic waters near undersea cables in April. Healey said the incident would not deter the U.K.'s commitment to NATO or its allies.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/uk-spy-plane-intercepted-russian-military-jets-black-sea/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:33 PM MT",
+      "addedAtISO": "2026-05-20T13:33:22.294942-06:00"
+    },
+    {
       "category": "politics",
       "headline": "Update: Jan. 6 Officers Sue to Dissolve Trump's $1.8 Billion 'Anti-Weaponization' Fund",
       "summary": "Two Capitol Police officers who defended the U.S. Capitol during the January 6, 2021 riot filed suit Wednesday to dissolve President Trump's newly created $1.776 billion \"Anti-Weaponization Fund,\" calling it \"the most brazen act of presidential corruption this century.\" Lead plaintiffs Harry Dunn and Daniel Hodges argue the taxpayer-funded pool is a corrupt scheme designed to compensate Trump allies — potentially including convicted Jan. 6 rioters — who claim they were wrongly prosecuted by the Biden administration.\n\nThe Trump administration has defended the fund as necessary redress for political weaponization of the justice system under the previous president, and has not ruled out payments to Jan. 6 defendants. Acting Attorney General Todd Blanche faced Democratic questioning on Capitol Hill over the fund's legality and scope.\n\nCritics, including legal experts, have called the fund illegal, but the question of who has standing to challenge it in court remains unresolved. The lawsuit filed by Dunn and Hodges is seen as a test of that legal question, with judges yet to rule on whether the officers have sufficient standing to proceed.\n\nThe story touches a sharp political divide: supporters of the fund frame it as correcting prosecutorial overreach, while opponents — including those who fought the rioters — argue it rewards the very people who attacked them and the institution they protected.",
