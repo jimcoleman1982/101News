@@ -3,6 +3,45 @@
   "dateFormatted": "Wednesday, May 20, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "Kennedy Fires Co-Chairs of Panel That Sets Insurance Coverage Rules Under ACA",
+      "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. dismissed the two co-chairs of the U.S. Preventive Services Task Force (USPSTF) on May 11, according to letters obtained by The Hill. Kennedy fired vice chairs John Wong and Esa Davis as the administration prepares to vet new applicants to the influential expert panel, a process in which the chairs would normally be centrally involved.\n\nThe USPSTF is the independent body that recommends which preventive health services — such as cancer screenings, blood pressure checks, and certain medications — private insurers must cover at no cost to patients under the Affordable Care Act. Its recommendations carry significant legal and financial weight, directly affecting coverage decisions for tens of millions of Americans.\n\nCritics warn the firings open the panel to political influence at a moment when the administration is also scrutinizing ACA subsidy structures. Supporters of the move argue the administration has the authority to reshape advisory bodies and that new leadership could better align the panel's work with the administration's health priorities. The full scope of any policy changes to coverage mandates will depend on who is appointed to replace the dismissed chairs.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/20/kennedy-fires-heads-of-task-force-that-sets-insurance-coverage-rules",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-20T21:08:15.308630-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "U.S. Deports Migrants to Sierra Leone Under Third-Country Agreement as Legal Challenges Mount",
+      "summary": "Nine migrants from West African nations — including Ghana, Guinea, Senegal, and Nigeria — landed in Sierra Leone on Wednesday after being deported from the United States under a third-country deportation agreement. Sierra Leone's foreign minister said the government agreed to temporarily receive migrants deported by the Trump administration, accepting only West African nationals, under a deal backed by a $1.5 million U.S. government grant.\n\nThe United States has now struck similar third-country deportation agreements with at least nine African nations, several of which have been criticized by human rights organizations for repressive governance records. Deportees are to be housed by a private contractor and transferred or returned home within 14 to 30 days, with the program capped at 300 deportees per year under the Sierra Leone arrangement.\n\nThe program is facing legal challenges in U.S. courts. A federal judge halted at least one deportation to Sierra Leone after the government failed to allow the migrant to seek protection under the Convention Against Torture, as required by law. Immigration lawyers say additional deportations were halted shortly before a recent flight departed the United States. Critics argue the deals violate migrants' due process rights, while the Trump administration contends the agreements are essential tools to reduce illegal immigration and enforce removal orders.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/9-deportees-from-us-arrive-in-sierra-leone-under-third-country-agreement",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-20T21:08:15.308630-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "3 Dead, First Responders Hospitalized After Exposure to Unknown Substance at New Mexico Home",
+      "summary": "Three people were found dead and a fourth was hospitalized Wednesday after authorities responding to a suspected drug overdose at a rural home near Mountainair, New Mexico, east of Albuquerque, discovered four people unresponsive inside. The cause of death and the specific substance involved have not been identified, and hazmat teams from Albuquerque Fire Rescue were dispatched to the scene.\n\nMore than a dozen first responders who entered the residence began experiencing symptoms including nausea and dizziness and were transported to the University of New Mexico Hospital, where 23 patients were assessed and decontaminated. Two first responders remained in serious condition Wednesday evening, and three symptomatic patients — including the Mountainair EMS chief, who was the first to enter the residence — were kept under monitoring overnight.\n\nNew Mexico State Police said investigators believe the substance is transmitted through contact rather than the air, and stressed there is no broader threat to the public. Authorities ruled out carbon monoxide and natural gas as causes. Officials said indications point toward illicit drugs as a likely factor, though formal identification of the substance was still pending.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/3-dead-and-first-responders-decontaminated-in-new-mexico-after-exposure-to-unknown-substance",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-20T21:08:15.308630-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: WHO Declares Ebola Emergency as Vaccine Could Be Nine Months Away, Death Toll Rises",
       "summary": "The World Health Organization confirmed Wednesday that a vaccine against the rare Bundibugyo strain of Ebola causing the current outbreak in the Democratic Republic of Congo could take up to nine months to develop, as neither of two candidate vaccines has yet completed clinical trials. WHO chief Dr. Tedros Adhanom Ghebreyesus said there are now 600 suspected cases and 139 suspected deaths, with 51 confirmed cases in DRC and two confirmed in Uganda's capital Kampala, both of whom had traveled from DRC.\n\nThe WHO declared a public health emergency of international concern on Sunday but stressed the situation does not constitute a pandemic emergency, assessing global risk as low while national and regional risk remains high. Health facilities in the affected areas of eastern DRC's Ituri province are being overwhelmed, with Médecins Sans Frontières reporting facilities are full of suspected cases and lacking adequate protective equipment for workers.\n\nThe outbreak is complicated by the fact that Bundibugyo Ebola had not previously been seen in Ituri, meaning initial tests designed for the more common Zaire strain returned false negatives, allowing the virus to spread undetected for weeks. The outbreak zone is also a conflict area with roughly a quarter-million displaced people and porous borders, and health officials believe the virus began circulating before the first known case — a nurse who died April 24 — was identified.\n\nOne person has also died in Uganda, and cases have spread beyond the original gold-mining towns of Mongwalu and Rwampara to include Butembo city, rebel-controlled Goma in North Kivu province, and South Kivu province. The Bundibugyo strain has historically killed approximately 30 percent of those infected in its two previous outbreaks, in 2007 and 2012.",
