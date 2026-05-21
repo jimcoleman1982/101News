@@ -3,6 +3,45 @@
   "dateFormatted": "Thursday, May 21, 2026",
   "stories": [
     {
+      "category": "technology",
+      "headline": "Nvidia Posts Record $81.6 Billion Quarter as AI Spending Surges, but Shares Slip",
+      "summary": "Nvidia reported first-quarter revenue of $81.6 billion on Thursday — up 85% from a year earlier — with net income more than tripling to $58.3 billion, driven almost entirely by explosive demand for AI infrastructure chips. The company, now the world's most valuable with a market capitalization of roughly $5.3 trillion, forecast second-quarter revenues of $91 billion and projected global AI infrastructure spending could reach $3–4 trillion annually by the end of the decade.\n\nChief Executive Jensen Huang told analysts that demand for Nvidia's chips had 'gone parabolic' and declared that 'the era of agentic AI is here.' The company also announced a quarterly dividend increase from one cent to 25 cents per share and an $80 billion share buyback program, signaling strong confidence in continued cash generation.\n\nDespite the record results, Nvidia shares fell roughly 1.6% in after-hours trading. Analysts attributed the decline to a 'buy the rumor, sell the fact' dynamic — shares had already rallied ahead of earnings — and to investor concerns about growing competition as hyperscale cloud providers develop proprietary chips to reduce reliance on Nvidia's hardware.\n\nNvidia's results remain a key bellwether for the AI investment cycle. The company has been at the center of U.S.-China technology rivalry; the Trump administration recently allowed sales of the H200 chip to Chinese customers under certain conditions, though Beijing has yet to grant import approval as it works to develop domestic alternatives.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c759x9pq3dpo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:10 PM MT",
+      "addedAtISO": "2026-05-21T13:10:28.085888-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "California Gov. Newsom Signs Executive Order to Study AI-Driven Job Displacement",
+      "summary": "California Governor Gavin Newsom signed an executive order Thursday directing state agencies to evaluate policy overhauls aimed at supporting workers displaced by artificial intelligence. The order calls for a review of existing labor protections, workforce training programs, and social safety net structures to assess their adequacy in the face of potential large-scale AI-driven job losses.\n\nThe move comes as technology and business leaders — including executives at major AI firms — have themselves warned publicly that the technology could eliminate or significantly transform millions of jobs across industries within this decade. Newsom has previously navigated a complex position on AI, vetoing some AI regulation bills while signing others, and California remains the center of the global AI industry.\n\nSupporters of the order argue that proactive government planning is essential to prevent economic disruption from hitting workers without a safety net. Critics, including some business groups and AI advocates, contend that government intervention risks slowing innovation and that AI is more likely to augment jobs than eliminate them outright.\n\nThe executive order does not mandate specific policy changes but sets a timeline for agencies to report findings, laying groundwork for potential legislation. California's actions on AI regulation are closely watched nationally and often serve as a model — or a cautionary tale — for other states and federal policymakers.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/5889582-california-ai-job-losses/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:10 PM MT",
+      "addedAtISO": "2026-05-21T13:10:28.085888-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Murder or Accident? Mango Fashion Founder's Son Arrested Over Father's Cliff Death in Spain",
+      "summary": "Jonathan Andic, son of Isak Andic — the founder of European fashion giant Mango — was arrested in Spain this week after a judge ruled there was sufficient evidence to treat the elder Andic's December 2024 death as non-accidental. Isak Andic, 71, died after falling roughly 500 feet from a cliff in the Montserrat natural park north of Barcelona while hiking with his son. Police initially treated it as an accident, but the case was reopened and Jonathan was placed under formal investigation in October 2025.\n\nInvestigators allege that the nature of the fall is inconsistent with an accidental slip, citing the position of the body, the type of injuries sustained, and a forensic finding that the trajectory appeared deliberate. They also identified what they believe are contradictions in Jonathan's accounts of where he was standing when his father fell, and noted that Isak's phone — which Jonathan said his father was using to take photos moments before the fall — was found in the victim's pocket.\n\nJonathan Andic, 45, posted €1 million in bail and maintains his innocence. Executors of Isak Andic's will previously issued a public statement defending Jonathan, saying the family's private grief had been compounded by damaging public speculation. Investigators have also questioned Jonathan's two sisters and an uncle as part of the broader inquiry.\n\nIsak Andic built Mango into one of Europe's largest clothing empires, with thousands of stores worldwide. The case has gripped Spain and raised questions about succession disputes and family dynamics at the top of one of the country's most prominent business dynasties.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy2g09yvgmo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:10 PM MT",
+      "addedAtISO": "2026-05-21T13:10:28.085888-06:00"
+    },
+    {
       "category": "politics",
       "headline": "DNC Releases 2024 Election Autopsy After Months of Internal Pressure",
       "summary": "Democratic National Committee Chair Ken Martin released the party's full post-mortem report on its 2024 presidential election loss Thursday, bowing to intense pressure from frustrated Democratic operatives who had publicly demanded transparency. Martin accompanied the release with an apology, saying the report did not meet his standards and that he had initially resisted publication to avoid distracting from the 2026 midterm campaign.\n\nThe report's release marks a significant moment of internal Democratic reckoning, following months in which Martin's refusal to publish the analysis had itself become a source of crisis within the party. Senior Democrats had openly criticized his handling of the document, and the delay fueled further doubt about the party's direction after its losses to Donald Trump.\n\nThe findings arrive as a New York Times/Siena poll released this week showed 52 percent of likely Democratic voters believe the party's 2028 presidential nominee must reposition the party toward more moderate ideological ground. The combination of the autopsy's release and that polling data underscores deep divisions about whether the party's path forward lies in progressive mobilization or centrist repositioning.\n\nRepublicans have pointed to the prolonged internal dispute as evidence of Democratic disarray, while party reformers argue the report's release — however belated — is a necessary first step toward rebuilding ahead of the midterms.",
