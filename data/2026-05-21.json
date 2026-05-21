@@ -3,6 +3,58 @@
   "dateFormatted": "Thursday, May 21, 2026",
   "stories": [
     {
+      "category": "other",
+      "headline": "NASCAR Champion Kyle Busch Dies at 41",
+      "summary": "Two-time NASCAR Cup Series champion Kyle Busch died Thursday at age 41 after being hospitalized with a severe illness, NASCAR announced. His family, Richard Childress Racing, and the organization all confirmed the sudden death, calling it a \"tragic\" loss for the sport.\n\nBusch was widely considered one of NASCAR's greatest and most competitive drivers, having won the Cup Series championship in 2015 and 2019. He was known for his aggressive driving style and prolific win total across NASCAR's top three series.\n\nNASCAR said it was \"saddened and heartbroken\" to share the news, and tributes from across the motorsports world began pouring in Thursday. Busch had been scheduled to compete at Charlotte Motor Speedway this weekend before his sudden hospitalization.\n\nThe cause of the severe illness has not been publicly disclosed. Busch is survived by his family, and no further details about his condition or death have been released as of Thursday.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/nexstar_media_wire/5890309-nascars-kyle-busch-a-2-time-champion-dies/",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:39 PM MT",
+      "addedAtISO": "2026-05-21T16:39:13.734712-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Greenlanders Protest Opening of New U.S. Consulate, Chant 'Go Home'",
+      "summary": "Hundreds of Greenlanders gathered in the capital Nuuk on Thursday to protest the opening of a new U.S. Consulate, chanting \"go home\" at Americans and waving Greenlandic flags. Protesters held signs reading \"USA Asu\" — meaning \"Stop USA\" — and gathered outside the Greenlandic Parliament, voicing opposition to President Trump's repeated statements about acquiring the autonomous Danish territory.\n\nThe consulate opening marks a significant expansion of U.S. diplomatic presence on the island and comes amid sustained pressure from the Trump administration, which has repeatedly claimed that Greenland's strategic location and natural resources are vital to American national security interests. Trump has refused to rule out using military or economic force to take control of the island.\n\nGreenlandic and Danish officials have consistently rejected Trump's overtures, and public sentiment on the island has been largely opposed to any change in sovereignty. The protest reflects deep unease among residents about what many see as an attempt to impose American interests on their homeland.\n\nThe U.S. has argued the consulate strengthens bilateral ties and supports economic development, but critics say the timing and context make the move feel more like political pressure than diplomacy.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/international/5890264-greenland-protests-us-consulate/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:39 PM MT",
+      "addedAtISO": "2026-05-21T16:39:13.734712-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Ebola Hospital Tents Set on Fire in DR Congo as Patients Flee",
+      "summary": "An angry crowd set fire to isolation ward tents at Rwampara General Hospital near Bunia in eastern Democratic Republic of Congo on Thursday, in a new and serious escalation of the ongoing Ebola outbreak. The unrest was triggered after family and friends of a young man believed to have died from Ebola were prevented from taking his body for traditional burial — a standard but contentious public health measure. Police fired warning shots to disperse the crowd, and a healthcare worker was injured by stone-throwing before order was restored.\n\nTwo tents used as isolation wards were destroyed, and up to six patients receiving treatment in those tents may have initially fled the hospital during the chaos, raising fears of further virus spread. Medical charity Alima, which operated the tents, later said all patients were accounted for and receiving care. A body awaiting safe burial was also burned in the incident.\n\nThe episode highlights the severe public trust problem facing health authorities in the region. Local politician Luc Malembe Malembe told the BBC that many residents believe Ebola \"does not exist\" and that NGOs and hospitals are fabricating the outbreak for financial gain. The WHO has declared the outbreak a public health emergency of international concern, with 139 deaths recorded among roughly 600 suspected cases.\n\nThe DR Congo national football team separately cancelled its pre-World Cup training camp in Kinshasa due to the outbreak. The episode represents a materially new development in the ongoing Ebola crisis: the first known destruction of treatment infrastructure and potential patient dispersal during the emergency.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:39 PM MT",
+      "addedAtISO": "2026-05-21T16:39:13.734712-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "NOAA Forecasts Below-Average Atlantic Hurricane Season Due to El Niño",
+      "summary": "The National Oceanic and Atmospheric Administration issued its 2026 Atlantic hurricane season outlook Thursday, forecasting a 55% probability of a below-average season. NOAA projects eight to fourteen named storms, with three to six reaching hurricane strength and one to three intensifying to major hurricanes — well below the historical averages of fourteen named storms, seven hurricanes, and three major hurricanes.\n\nA strengthening El Niño pattern is credited with the expected dampening effect. Colorado State University, which pioneered seasonal hurricane forecasting in 1984, called for the lowest overall activity since 2015 — the strongest El Niño in 75 years — and said its June forecast is likely to show even lower numbers. Eighteen other academic and private forecasters broadly concurred, averaging twelve named storms with five reaching hurricane strength.\n\nMeteorologists cautioned against complacency, noting that even a below-average season can produce catastrophic storms. Last year's season started slowly before producing a near-record three Category 5 hurricanes, including one that devastated Jamaica and Cuba. \"It only takes one to cause real devastation,\" said University at Albany atmospheric scientist Kristen Corbosiero.\n\nThe forecast comes after nine of the last ten Atlantic hurricane seasons were above normal or hyperactive. Inflation-adjusted global damage from tropical cyclones has risen from an average of $11.4 billion per year in the 1980s to $109.7 billion annually over the past decade, with three-quarters of that damage occurring in the Atlantic basin.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/watch-noaa-forecasts-milder-atlantic-hurricane-season-thanks-to-el-nino",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:39 PM MT",
+      "addedAtISO": "2026-05-21T16:39:13.734712-06:00"
+    },
+    {
       "category": "technology",
       "headline": "Nvidia Posts Record $81.6 Billion Quarter as AI Spending Surges, but Shares Slip",
       "summary": "Nvidia reported first-quarter revenue of $81.6 billion on Thursday — up 85% from a year earlier — with net income more than tripling to $58.3 billion, driven almost entirely by explosive demand for AI infrastructure chips. The company, now the world's most valuable with a market capitalization of roughly $5.3 trillion, forecast second-quarter revenues of $91 billion and projected global AI infrastructure spending could reach $3–4 trillion annually by the end of the decade.\n\nChief Executive Jensen Huang told analysts that demand for Nvidia's chips had 'gone parabolic' and declared that 'the era of agentic AI is here.' The company also announced a quarterly dividend increase from one cent to 25 cents per share and an $80 billion share buyback program, signaling strong confidence in continued cash generation.\n\nDespite the record results, Nvidia shares fell roughly 1.6% in after-hours trading. Analysts attributed the decline to a 'buy the rumor, sell the fact' dynamic — shares had already rallied ahead of earnings — and to investor concerns about growing competition as hyperscale cloud providers develop proprietary chips to reduce reliance on Nvidia's hardware.\n\nNvidia's results remain a key bellwether for the AI investment cycle. The company has been at the center of U.S.-China technology rivalry; the Trump administration recently allowed sales of the H200 chip to Chinese customers under certain conditions, though Beijing has yet to grant import approval as it works to develop domestic alternatives.",
