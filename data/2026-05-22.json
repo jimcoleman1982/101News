@@ -4,6 +4,45 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Federal Judge Dismisses Human Smuggling Case Against Kilmar Abrego Garcia, Citing Vindictive Prosecution",
+      "summary": "A federal judge in Tennessee dismissed all criminal charges against Kilmar Abrego Garcia on Friday, ruling that the Trump administration had prosecuted him for political reasons rather than on the merits of the evidence. U.S. District Judge Waverly Crenshaw wrote that the case was brought only to justify the government's earlier wrongful deportation of Abrego Garcia to El Salvador, and that prosecutors had failed to rebut a legal presumption of vindictiveness. \"The objective evidence here shows that, absent Abrego's successful lawsuit challenging his removal to El Salvador, the government would not have brought this prosecution,\" Crenshaw wrote.\n\nAbrego Garcia, a Salvadoran national who had lived in Maryland for years and is married to an American citizen, was wrongfully deported to El Salvador's CECOT megaprison in March 2025 despite a standing court order protecting him from removal. The Supreme Court ordered the government to facilitate his return. He was brought back to the U.S. in June 2025 only after federal prosecutors filed human smuggling charges against him related to a 2022 Tennessee traffic stop in which several people were found in his vehicle. He had pleaded not guilty.\n\nThe Justice Department had maintained the prosecution was apolitical and that charges were brought because \"the evidence pointed to Abrego Garcia having committed a crime.\" The department had not commented on Friday's dismissal as of publication. Supporters of the administration argued the charges were legitimate and that Abrego Garcia had evaded accountability; immigration enforcement critics argued the case exemplified the use of criminal charges as a tool of political retaliation.\n\nThe ruling is the latest development in a high-profile legal saga that has become a central flashpoint in debates over the limits of executive power in immigration enforcement. The case is covered by nine outlets and marks a concrete new legal outcome in an ongoing story.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21r04wg8qo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 9,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:16 PM MT",
+      "addedAtISO": "2026-05-22T16:16:05.982109-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "DHS Orders Green Card Applicants to Return to Home Countries Before Seeking Permanent U.S. Residency",
+      "summary": "The Department of Homeland Security announced Friday that immigrants currently in the United States on temporary visas — including students, tourist visa holders, and temporary workers — must return to their home countries before applying for permanent legal residency (green cards), with exceptions only in \"extraordinary circumstances.\" The policy reverses a longstanding practice that allowed applicants to adjust their status from within the U.S. DHS characterized the existing process as a \"loophole\" that incentivizes abuse of the immigration system.\n\n\"An alien who is in the U.S. temporarily and wants a Green Card must return to their home country to apply,\" DHS said in a statement. U.S. Citizenship and Immigration Services spokesman Zach Kahler said the change frees USCIS resources to process other visa categories, including visas for victims of violent crime and human trafficking, and ensures the system functions \"as the law intended.\" The administration framed the move as part of its broader effort to reduce overall immigration levels.\n\nCritics of the policy argue it will force hundreds of thousands of legal visa holders — many of whom have lived and worked in the U.S. for years — to uproot themselves and potentially face lengthy waits abroad before receiving a determination. Immigration attorneys warn that consular processing timelines are already severely backlogged, meaning applicants could face years outside the country. The change affects a wide population including foreign workers at major corporations, international students who marry U.S. citizens, and others with lawful temporary status.\n\nThe announcement comes as the administration reported that ICE and federal partners have arrested 641,000 undocumented immigrants since January 2025, with 800,000 removed. The green card guidance is covered by six outlets and represents a significant new federal policy action with broad impact on the legal immigration system.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/policy/immigration/4579531/trump-administration-green-card-applicants-return-home-country/",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:16 PM MT",
+      "addedAtISO": "2026-05-22T16:16:05.982109-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Thousands Ordered to Evacuate in Orange County, California Over Unstable Toxic Chemical Tank",
+      "summary": "Southern California officials expanded evacuation orders Friday across several Orange County cities after a tank containing a toxic substance became \"actively in crisis,\" with authorities warning of a possible explosion or spill. The precise chemical involved and the location of the facility were not fully detailed in early reports, but officials described the situation as rapidly deteriorating and urged residents in affected zones to leave immediately.\n\nEmergency response teams were deployed to the site as officials worked to stabilize the tank. The evacuation zone expansion suggests the threat radius grew during the day, affecting an unknown but potentially large number of residents in the densely populated Southern California county. Orange County has a population of more than 3 million people.\n\nThe incident is in early stages of reporting, covered by two outlets as of Friday afternoon. Authorities have not confirmed casualties or indicated whether the tank failure was accidental or the result of equipment malfunction. Further updates are expected as emergency crews assess the situation on the ground.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/22/us/california-chemical-leak-evacuation-orange-county.html",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier2",
+      "addedAt": "4:16 PM MT",
+      "addedAtISO": "2026-05-22T16:16:05.982109-06:00"
+    },
+    {
+      "category": "politics",
       "headline": "IRS Grants Trump Sweeping Tax Audit Immunity in Unusual Settlement, Experts Warn of Unprecedented Scope",
       "summary": "The Internal Revenue Service has agreed to permanently drop all pending tax probes of President Donald Trump, his sons, and the Trump Organization as part of a settlement resolving Trump's $10 billion lawsuit over the 2018 leak of his tax returns to The New York Times. A one-page court document states the U.S. government is \"forever barred and precluded\" from examining or prosecuting Trump's or the Trump Organization's current tax filings — a provision quietly added to a broader $1.8 billion settlement establishing a fund to compensate people Trump alleges were improperly investigated.\n\nTax and legal experts are calling the grant of immunity extraordinary in its breadth. Former IRS Commissioner Daniel Werfel said the settlement was \"an unprecedented remedy,\" adding that Trump should be subject to the same enforcement framework as any other American. Among the probes potentially shelved is a long-standing audit into whether Trump double-dipped on tax deductions — a technique that could have triggered an estimated $100 million liability if wrongdoing had been found.\n\nTrump has repeatedly denied any wrongdoing and characterized IRS scrutiny as politically motivated, without providing evidence. Supporters argue the original leak of his tax returns was itself an illegal government act that warranted legal remedy. Critics, including Democratic lawmakers and tax law scholars, contend that having a president sue — and then effectively immunize himself from — an agency within his own administration sets a dangerous precedent for equal enforcement of tax law.\n\nThe arrangement is structurally unusual: Trump sued a federal agency overseen by his own executive branch, and that agency then resolved the case in his favor with what experts describe as a uniquely broad shield against future examination.",
       "source": "Associated Press",
