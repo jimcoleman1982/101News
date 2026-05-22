@@ -4,6 +4,45 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Cuba's Blackouts and Fuel Shortages Deepen as U.S. Pressure Intensifies",
+      "summary": "Cubans are enduring up to 20-hour daily blackouts and severe fuel shortages as the United States maintains a near-total fuel blockade on the island. Residents in Havana high-rises describe being unable to leave their apartments due to non-functioning elevators, with elderly and medically vulnerable residents including those with pacemakers facing heightened danger. Water delivery to over 100 residents in one building has effectively ceased.\n\nThe crisis coincides with escalating U.S. pressure following the formal indictment of former Cuban leader Raúl Castro over the 1996 shootdown of Brothers to the Rescue aircraft that killed four people, including three Americans. Secretary of State Marco Rubio has declared Cuba a \"national security threat\" and characterized the chances of a peaceful resolution as \"not high.\" Cuban President Miguel Díaz-Canel dismissed the charges as \"a political manoeuvre, devoid of any legal foundation.\"\n\nPresident Trump has publicly discussed toppling Cuba's communist government. U.S. demands reportedly include political and economic reforms and an end to Russian and Chinese intelligence presence on the island, though the specifics remain unclear. The combination of sanctions, indictments, and fuel restrictions represents the most intensive U.S. campaign against Cuba in decades.\n\nMany Cubans were unaware of the Castro indictment when it was announced due to the ongoing communications blackouts. The humanitarian conditions described on the ground illustrate the direct civilian toll of the geopolitical standoff, a dimension that critics of the policy have emphasized.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3e2w43lkvzo",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:30 AM MT",
+      "addedAtISO": "2026-05-22T10:30:52.031983-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Waymo Pauses Robotaxi Service in Five U.S. Cities After Vehicles Drive Into Flooded Roads",
+      "summary": "Alphabet-owned Waymo has suspended its self-driving taxi service across five U.S. cities — four in Texas and Atlanta — after multiple incidents in which vehicles entered flooded roads and became stranded. The company also separately paused freeway operations in San Francisco, Los Angeles, Phoenix, and Miami while evaluating vehicle performance in construction zones. Waymo provides more than 500,000 trips per week across its U.S. markets.\n\nThe pause follows a voluntary recall of nearly 3,800 robotaxis using the company's fifth and sixth-generation automated driving systems, disclosed to the National Highway Traffic Safety Administration earlier this month. A key incident occurred April 20 in San Antonio, where an unoccupied Waymo vehicle entered a flooded road and was swept into a creek. A similar incident was recorded in Atlanta on Wednesday.\n\nWaymo said it is working on \"additional software safeguards\" to prevent vehicles from slowing and then driving into standing water on higher-speed roadways. The company said safety was its \"highest priority\" and that it expected to resume affected routes soon. Waymo had been planning to launch a London service later this year.\n\nThe incidents add to a series of high-profile autonomous vehicle failures over the past year, including a major San Francisco power outage in December 2025 that halted Waymo service citywide and a mass Apollo Go robotaxi outage in Wuhan, China in April that stopped over 100 vehicles mid-traffic. Regulators and safety advocates have used such incidents to press for clearer federal oversight standards for autonomous vehicles.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgplyxxl75o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:30 AM MT",
+      "addedAtISO": "2026-05-22T10:30:52.031983-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "U.S. Sanctions Senior Tanzanian Police Official Over Torture and Sexual Assault of Rights Activists",
+      "summary": "The United States has sanctioned Faustine Jackson Mafwele, Tanzania's senior assistant commissioner of police, over his alleged involvement in the detention, torture, and sexual assault of Kenyan activist Boniface Mwangi and Ugandan activist Agather Atuhaire in May 2025. Secretary of State Marco Rubio announced the designation, which bars Mafwele from entering the United States, citing \"credible information\" of gross human rights violations. He is the first senior official under President Samia Suluhu Hassan's government to face foreign sanctions.\n\nThe two activists had traveled to Tanzania to observe the trial of opposition leader Tundu Lissu when they were detained. Mwangi alleged he was stripped, hung upside down, beaten on his feet, and sexually assaulted; Atuhaire said she was raped. Tanzanian police previously dismissed the allegations as \"opinions\" and \"hearsay.\" A BBC Africa Eye documentary in February named Mafwele as the main perpetrator; he did not respond to those allegations.\n\nThe sanctions come amid broader scrutiny of Tanzania following a disputed October general election in which a commission of inquiry found 518 people died — 197 shot dead — during ensuing protests. The commission blamed foreign-sponsored groups for the violence, a characterization rejected by opposition figures and human rights organizations who attribute the deaths to security forces.\n\nAmnesty International and Human Rights Watch have both cited the activists' case in pressing for accountability. U.S. lawmakers had called for tougher action on Tanzania's human rights record. Tanzania's Foreign Affairs Ministry said it had not yet received the formal designation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4p8m3r1glo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:30 AM MT",
+      "addedAtISO": "2026-05-22T10:30:52.031983-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: Iran's Strait of Hormuz Blockade Sends Gas Prices to $4.53 as Global Shipping Collapses",
       "summary": "Traffic through the Strait of Hormuz has fallen by as much as 97% since the United States and Israel launched joint strikes against Iran on February 28, according to vessel-tracking data. Iranian threats to fire drones and ballistic missiles at ships that do not comply with its demands have effectively halted the waterway through which roughly one-fifth of the world's daily oil supply previously moved. The national average gasoline price has risen to $4.53 per gallon, up from $2.98 two days before the conflict began, according to AAA.\n\nThe Strait is roughly 20 nautical miles wide at its narrowest point between Oman and Iran, making vessels particularly vulnerable to Iranian forces operating within or near the country's 12-nautical-mile territorial sea. International maritime law — including the UN Convention on the Law of the Sea — requires freedom of passage through such straits, but enforcement has proven difficult under active conflict conditions. From a peak of up to 180 vessels transiting daily before the strikes, traffic collapsed within hours of the initial attacks.\n\nThe disruption has raised urgent questions about the global economy's vulnerability to chokepoint strategy and what leverage any negotiated ceasefire would actually provide, given that Iran retains the capability to reimpose the blockade. U.S. officials have said they are in the final stages of an Iran deal, though no agreement has been announced. The blockade's economic ripple effects extend well beyond oil, touching liquefied natural gas shipments and broader trade flows across Asia, Europe, and the Americas.\n\nThe story is covered by 15 outlets spanning the ideological spectrum, making it among the most broadly reported international developments of the day. Critics of the administration argue the military strikes precipitated an avoidable economic crisis, while supporters contend the pressure campaign is necessary to dismantle Iran's nuclear and military ambitions.",
       "source": "Washington Examiner",
