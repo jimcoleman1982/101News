@@ -3,6 +3,58 @@
   "dateFormatted": "Thursday, May 21, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: Senate Republicans Abandon Immigration Vote Over Trump's $1.8 Billion 'Anti-Weaponization' Fund",
+      "summary": "Senate Republicans abruptly departed Washington Thursday without voting on a roughly $70 billion immigration enforcement funding bill, derailed by deep unease over the Trump administration's newly created $1.776 billion 'Anti-Weaponization Fund.' The fund, established through a Justice Department settlement of a lawsuit Trump personally filed against the IRS, would compensate individuals who claim they were targeted by politically motivated prosecutions under the Biden administration. Acting Attorney General Todd Blanche made an unplanned trip to the Capitol to defend the fund in a closed-door meeting, but senators left unconvinced, pushing the vote past Memorial Day and past Trump's self-imposed June 1 deadline.\n\nThe fund has drawn criticism from both parties. Sen. Lisa Murkowski (R-Alaska) said it was dropped 'like a bomb in the middle of a pretty well planned out reconciliation bill.' Former Senate Republican Leader Mitch McConnell publicly rebuked Blanche for accepting the arrangement. Democratic lawmakers, including Rep. Jamie Raskin (D-Md.) and Rep. Brian Fitzpatrick (R-Pa.), have indicated they may pursue legislation to block the fund, while Jan. 6 defendants and Trump allies have already begun seeking payouts.\n\nThe fund raises unresolved legal questions about its constitutionality, oversight, and enforcement. Federal law prohibits the IRS from halting audits at presidential direction, and critics argue the settlement — in which the president's own appointees resolved a lawsuit he brought in his personal capacity — amounts to an extraordinary conflict of interest. The DOJ has not yet appointed commissioners to oversee disbursements, though applications are already arriving.\n\nThe stall also stranded a separate, unrelated effort to cancel Thursday's House vote on a Democratic-led Iran war powers resolution, which GOP leaders pulled through a procedural move after party absences threatened an embarrassing rebuke of the president. The twin legislative failures underscored a difficult week for Republican congressional leadership despite Trump's recent primary victories.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/news/podcasters-are-pushing-the-right-toward-antisemitism-these-conservatives-are-fighting-back/",
+      "sourceCount": 24,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-21T21:08:42.737962-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Rubio Warns Cuba Threat Is High as U.S. Arrests Cuban Military Official's Sister",
+      "summary": "Secretary of State Marco Rubio escalated U.S. pressure on Cuba Thursday, saying the likelihood of a diplomatic solution with Havana is 'not high' and that Cuba represents 'one of the leading sponsors of terrorism in the entire region.' His remarks came one day after the Justice Department unsealed charges against former Cuban President Raúl Castro over the 1996 shootdown of two unarmed civilian planes that killed four U.S. nationals. Cuba's Foreign Minister Bruno Rodríguez dismissed Rubio's statements as 'lies' and accused Washington of trying to 'instigate a military aggression.'\n\nIn a concrete new development Thursday, Rubio announced the arrest of Adys Lastres Morera, the sister of a top official of GAESA, the Cuban military-run conglomerate that controls much of the country's economy. Morera was living in Florida and was arrested by immigration enforcement; she faces deportation proceedings. Acting Attorney General Todd Blanche, who announced the Castro indictment in Miami on Wednesday, said the U.S. expects Castro will face charges 'by his own will or another way,' while Rubio declined to detail how Washington might seek to bring him to the U.S.\n\nCuba is in the grip of a severe fuel and food crisis worsened by an effective U.S. oil blockade. Trump told reporters Cuba was a 'failed country' but that the U.S. was trying to help on a humanitarian basis, noting that Rubio had confirmed Cuba accepted a $100 million U.S. humanitarian aid offer. The indictment has drawn comparisons to the Trump administration's earlier seizure of Venezuelan President Nicolás Maduro's ally Alex Saab and has fueled speculation — which Cuba and some experts have dismissed — about a potential U.S. military action.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-21T21:08:42.737962-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "SpaceX Postpones First Starship V3 Test Flight One Day Before Historic IPO Filing",
+      "summary": "SpaceX postponed the maiden test flight of its Starship V3 rocket Thursday after a malfunctioning hydraulic pin on the launch tower halted the launch attempt. Elon Musk said on social media that engineers would attempt to fix the problem overnight, with a second launch window set for Friday at 5:30 a.m. CT. The delay came just one day after SpaceX revealed plans for what could be the largest initial public offering in Wall Street history, targeting a Nasdaq listing under the ticker SPCX as early as next month.\n\nSpaceX has valued itself at $1.25 trillion in its IPO filing, and Musk's majority ownership stake could be worth more than $600 billion, potentially making him the world's first trillionaire. The company spent more than $15 billion developing Starship, describing V3 as 'the most powerful launch system ever developed,' capable of carrying 100 metric tons of payload. A successful test flight is considered important for investor confidence ahead of the offering.\n\nThe uncrewed Starship V3 features dozens of upgrades designed to accelerate Starlink satellite launches and support NASA moon missions. SpaceX reported $18.6 billion in revenue last year but recorded a net loss of $4.9 billion; in the first quarter of 2026 it posted $4.7 billion in sales against a net loss of $4.3 billion, figures that investors will scrutinize closely ahead of the IPO.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-21T21:08:42.737962-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Eli Lilly's Retatrutide Shows 28% Average Weight Loss in Trial, Surpassing Existing Drugs",
+      "summary": "Eli Lilly reported Thursday that its experimental weight-loss drug retatrutide produced an average body weight reduction of 28 percent over 80 weeks in clinical trials, a result that substantially exceeds the performance of currently approved obesity medications such as semaglutide and tirzepatide. The drug has not yet been submitted for regulatory approval or reached the market. Retatrutide is a triple hormone receptor agonist targeting GIP, GLP-1, and glucagon pathways simultaneously, a mechanism that researchers believe accounts for its stronger effect.\n\nThe results generated significant attention among endocrinologists and obesity specialists, who noted that no approved therapy has previously achieved weight loss at this scale in a large trial population. Analysts said the data, if confirmed in further studies, could reshape the obesity drug market, which has already grown rapidly with the success of GLP-1 class medications. Eli Lilly did not announce a timeline for an FDA submission.\n\nObesity affects more than 40 percent of American adults and is linked to diabetes, cardiovascular disease, and numerous other chronic conditions, making effective treatments a major public health priority. The announcement comes as competition in the weight-loss drug sector intensifies, with multiple pharmaceutical companies racing to develop next-generation therapies.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/21/science/retatrutide-weight-loss-drug.html",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-21T21:08:42.737962-06:00"
+    },
+    {
       "category": "other",
       "headline": "NASCAR Champion Kyle Busch Dies at 41",
       "summary": "Two-time NASCAR Cup Series champion Kyle Busch died Thursday at age 41 after being hospitalized with a severe illness, NASCAR announced. His family, Richard Childress Racing, and the organization all confirmed the sudden death, calling it a \"tragic\" loss for the sport.\n\nBusch was widely considered one of NASCAR's greatest and most competitive drivers, having won the Cup Series championship in 2015 and 2019. He was known for his aggressive driving style and prolific win total across NASCAR's top three series.\n\nNASCAR said it was \"saddened and heartbroken\" to share the news, and tributes from across the motorsports world began pouring in Thursday. Busch had been scheduled to compete at Charlotte Motor Speedway this weekend before his sudden hospitalization.\n\nThe cause of the severe illness has not been publicly disclosed. Busch is survived by his family, and no further details about his condition or death have been released as of Thursday.",
