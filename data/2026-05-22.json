@@ -3,6 +3,32 @@
   "dateFormatted": "Friday, May 22, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "IRS Grants Trump Sweeping Tax Audit Immunity in Unusual Settlement, Experts Warn of Unprecedented Scope",
+      "summary": "The Internal Revenue Service has agreed to permanently drop all pending tax probes of President Donald Trump, his sons, and the Trump Organization as part of a settlement resolving Trump's $10 billion lawsuit over the 2018 leak of his tax returns to The New York Times. A one-page court document states the U.S. government is \"forever barred and precluded\" from examining or prosecuting Trump's or the Trump Organization's current tax filings — a provision quietly added to a broader $1.8 billion settlement establishing a fund to compensate people Trump alleges were improperly investigated.\n\nTax and legal experts are calling the grant of immunity extraordinary in its breadth. Former IRS Commissioner Daniel Werfel said the settlement was \"an unprecedented remedy,\" adding that Trump should be subject to the same enforcement framework as any other American. Among the probes potentially shelved is a long-standing audit into whether Trump double-dipped on tax deductions — a technique that could have triggered an estimated $100 million liability if wrongdoing had been found.\n\nTrump has repeatedly denied any wrongdoing and characterized IRS scrutiny as politically motivated, without providing evidence. Supporters argue the original leak of his tax returns was itself an illegal government act that warranted legal remedy. Critics, including Democratic lawmakers and tax law scholars, contend that having a president sue — and then effectively immunize himself from — an agency within his own administration sets a dangerous precedent for equal enforcement of tax law.\n\nThe arrangement is structurally unusual: Trump sued a federal agency overseen by his own executive branch, and that agency then resolved the case in his favor with what experts describe as a uniquely broad shield against future examination.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/trump-justice-department-irs-tax-audits-7ba4781b9b9bef99873151df6bfc33ab",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:03 PM MT",
+      "addedAtISO": "2026-05-22T13:03:01.569835-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Putin Vows Retaliation After Accusing Ukraine of Striking Student Dormitory in Occupied Luhansk",
+      "summary": "Russian President Vladimir Putin has ordered his military to prepare retaliatory options after accusing Ukraine of a drone strike on a student dormitory in Starobilsk, in the Russian-occupied Luhansk region of eastern Ukraine. Putin said six people were killed and 39 injured in the overnight attack, which he described as carried out in three waves using 16 drones, and that 15 people remained missing. Kremlin-installed officials released images showing a collapsed building with rescuers searching the rubble.\n\nUkraine's military acknowledged the strike but offered a different characterization, saying it had targeted the headquarters of Russia's elite Rubicon drone unit, which it accused of regularly attacking Ukrainian civilians and civilian infrastructure. Ukraine stated its forces strictly adhere to international humanitarian law and that the building served military purposes. The BBC was unable to independently verify the nature of the structure or the casualty figures.\n\nThe strike escalates an already intense period of cross-border attacks. Ukrainian President Volodymyr Zelensky said earlier this week that Ukrainian forces had also struck an FSB headquarters in the Russian-occupied Kherson region, killing or wounding approximately 100 Russian personnel. Russia's military has not confirmed that incident. Last week, a Russian missile strike destroyed a residential high-rise in Kyiv, killing 24 people including three children.\n\nPutin's vow of retaliation raises concerns about a further escalation in the conflict. Russia has consistently denied deliberately targeting civilians, while Ukraine accuses Moscow of a systematic campaign against civilian infrastructure since its full-scale invasion began in February 2022.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y74lwx395o",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:03 PM MT",
+      "addedAtISO": "2026-05-22T13:03:01.569835-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: Cuba's Blackouts and Fuel Shortages Deepen as U.S. Pressure Intensifies",
       "summary": "Cubans are enduring up to 20-hour daily blackouts and severe fuel shortages as the United States maintains a near-total fuel blockade on the island. Residents in Havana high-rises describe being unable to leave their apartments due to non-functioning elevators, with elderly and medically vulnerable residents including those with pacemakers facing heightened danger. Water delivery to over 100 residents in one building has effectively ceased.\n\nThe crisis coincides with escalating U.S. pressure following the formal indictment of former Cuban leader Raúl Castro over the 1996 shootdown of Brothers to the Rescue aircraft that killed four people, including three Americans. Secretary of State Marco Rubio has declared Cuba a \"national security threat\" and characterized the chances of a peaceful resolution as \"not high.\" Cuban President Miguel Díaz-Canel dismissed the charges as \"a political manoeuvre, devoid of any legal foundation.\"\n\nPresident Trump has publicly discussed toppling Cuba's communist government. U.S. demands reportedly include political and economic reforms and an end to Russian and Chinese intelligence presence on the island, though the specifics remain unclear. The combination of sanctions, indictments, and fuel restrictions represents the most intensive U.S. campaign against Cuba in decades.\n\nMany Cubans were unaware of the Castro indictment when it was announced due to the ongoing communications blackouts. The humanitarian conditions described on the ground illustrate the direct civilian toll of the geopolitical standoff, a dimension that critics of the policy have emphasized.",
