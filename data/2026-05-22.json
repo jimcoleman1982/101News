@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Tulsi Gabbard Resigns as Director of National Intelligence After Husband's Cancer Diagnosis",
+      "summary": "Director of National Intelligence Tulsi Gabbard announced her resignation Friday, effective June 30, citing her husband Abraham Williams's recent diagnosis with an extremely rare form of bone cancer. Gabbard informed President Trump of her decision in a White House meeting and submitted a formal resignation letter, saying she could not \"in good conscience\" ask her husband to face the illness alone while she remained in a demanding government role. ODNI Principal Deputy Director Aaron Lukas will serve as acting director.\n\nPresident Trump praised Gabbard on Truth Social, saying she \"has done an incredible job\" and expressing confidence that her husband would recover. The ODNI confirmed her departure was for \"personal reasons.\" Gabbard has served as the nation's top intelligence official since her Senate confirmation in February 2025.\n\nDuring her tenure, Gabbard oversaw the declassification of more than half a million pages of government records, including documents related to the Trump-Russia investigation and the assassination of President John F. Kennedy. In her resignation letter she cited \"significant progress\" at the ODNI in \"advancing unprecedented transparency and restoring integrity to the intelligence community.\"\n\nReuters reported, citing a source familiar with the matter, that Gabbard was forced out by the White House rather than departing voluntarily — a claim a senior administration official denied, calling it \"total bulls***\" to the Washington Examiner. Gabbard is the latest in a series of Trump Cabinet departures, following former Homeland Security Secretary Kristi Noem and former Attorney General Pam Bondi, both of whom were ousted by Trump.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4579695/tulsi-gabbard-resigns-after-husbands-bone-cancer-diagnosis/",
+      "sourceCount": 21,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-22T21:08:14.953795-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Update: New Fed Chair Kevin Warsh Sworn In Amid Inflation Pressures and Trump Rate-Cut Demands",
+      "summary": "Kevin Warsh was sworn in Friday at the White House as the 17th Chairman of the Federal Reserve, beginning his tenure against a backdrop of elevated inflation, an energy price shock stemming from the ongoing Strait of Hormuz crisis, and intense political pressure from President Trump to lower interest rates. Former Fed Governor Betsy Duke described both Warsh and outgoing Chair Jerome Powell as \"natural leaders\" while acknowledging the challenging conditions Warsh inherits.\n\nWarsh faces a Federal Reserve board that is broadly skeptical of near-term rate cuts, complicating any effort to accommodate the president's wishes. Fed minutes released previously showed a majority of officials open to rate hikes if inflation persists — directly at odds with Trump's public demands for lower borrowing costs. Trump himself urged Warsh on Friday to make independent decisions: \"Don't look at me, don't look at anybody.\"\n\nThe transition marks a pivotal moment for U.S. monetary policy. Warsh, a former Fed governor who served during the 2008 financial crisis, is seen as more hawkish than some Trump allies had hoped. Markets and economists will be watching closely for signals on whether he will resist White House pressure or begin laying groundwork for eventual cuts.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/22/warsh-trump-federal-reserve",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-22T21:08:14.953795-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Mahmoud Khalil to Ask Supreme Court to Halt Deportation After Appeals Court Ruling",
+      "summary": "Mahmoud Khalil, the Columbia University graduate student detained by U.S. authorities over his involvement in pro-Palestinian campus protests, will ask the U.S. Supreme Court to halt his deportation after a federal appeals court on Friday rejected his request for a rehearing. The appeals court's ruling means Khalil must pursue his constitutional claims through the immigration appeals process once a final removal order is issued.\n\nKhalil became a prominent symbol of the Trump administration's crackdown on pro-Palestinian demonstrators. His case has drawn intense scrutiny from civil liberties advocates, who argue that his detention raises First Amendment concerns, and from immigration enforcement advocates, who contend the government has broad discretion to deport non-citizens on national security grounds.\n\nThe move to the Supreme Court represents a significant escalation of a case that has drawn national attention to the limits of free speech protections for non-citizen protesters. The high court has not yet indicated whether it will take up the matter, and Khalil's legal team faces a narrow procedural window to seek an emergency stay of removal.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-22/ex-columbia-student-to-ask-supreme-court-to-stop-deportation",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-22T21:08:14.953795-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "Explosion and Fire at Staten Island Shipyard Injures 16, Including Firefighters",
+      "summary": "A fire and explosion at a Staten Island, New York, shipyard injured at least 16 people Friday afternoon, including three with serious injuries, according to the New York Fire Department. The incident began around 3:30 p.m. when workers were reported trapped in a confined space at a dock; firefighters arrived to find a blaze burning in the basement of a large metal structure. A major explosion occurred approximately 50 minutes into the response, injuring two firefighters and one civilian seriously, with two additional firefighters sustaining moderate injuries.\n\nMore than 200 firefighters and emergency medical personnel from 68 units responded to the scene. The cause of the fire and explosion remains under investigation. The dock is home to several businesses, including a coffee roasting company and a self-storage facility, and the shipyard is the former site of Bethlehem Steel Company operations used to build U.S. Navy vessels during World War II.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/shipyard-fire-and-explosion-on-staten-island-injures-at-least-16-officials-say",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-22T21:08:14.953795-06:00"
+    },
+    {
+      "category": "politics",
       "headline": "Federal Judge Dismisses Human Smuggling Case Against Kilmar Abrego Garcia, Citing Vindictive Prosecution",
       "summary": "A federal judge in Tennessee dismissed all criminal charges against Kilmar Abrego Garcia on Friday, ruling that the Trump administration had prosecuted him for political reasons rather than on the merits of the evidence. U.S. District Judge Waverly Crenshaw wrote that the case was brought only to justify the government's earlier wrongful deportation of Abrego Garcia to El Salvador, and that prosecutors had failed to rebut a legal presumption of vindictiveness. \"The objective evidence here shows that, absent Abrego's successful lawsuit challenging his removal to El Salvador, the government would not have brought this prosecution,\" Crenshaw wrote.\n\nAbrego Garcia, a Salvadoran national who had lived in Maryland for years and is married to an American citizen, was wrongfully deported to El Salvador's CECOT megaprison in March 2025 despite a standing court order protecting him from removal. The Supreme Court ordered the government to facilitate his return. He was brought back to the U.S. in June 2025 only after federal prosecutors filed human smuggling charges against him related to a 2022 Tennessee traffic stop in which several people were found in his vehicle. He had pleaded not guilty.\n\nThe Justice Department had maintained the prosecution was apolitical and that charges were brought because \"the evidence pointed to Abrego Garcia having committed a crime.\" The department had not commented on Friday's dismissal as of publication. Supporters of the administration argued the charges were legitimate and that Abrego Garcia had evaded accountability; immigration enforcement critics argued the case exemplified the use of criminal charges as a tool of political retaliation.\n\nThe ruling is the latest development in a high-profile legal saga that has become a central flashpoint in debates over the limits of executive power in immigration enforcement. The case is covered by nine outlets and marks a concrete new legal outcome in an ongoing story.",
       "source": "BBC News",
