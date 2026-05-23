@@ -3,6 +3,58 @@
   "dateFormatted": "Saturday, May 23, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "Update: Trump Administration Expands Ebola Travel Restrictions to Green Card Holders",
+      "summary": "The Trump administration has broadened its Ebola-related travel restrictions to temporarily bar entry of lawful permanent residents — green card holders — who have been in the Democratic Republic of Congo, Uganda, or South Sudan within the past 21 days. The move, announced by the Department of Health and Human Services and the CDC, marks a significant escalation of the administration's response to the ongoing Ebola outbreak in central Africa.\n\nThe expansion goes beyond earlier restrictions that targeted temporary visa holders and tourists. Immigration lawyers warn the change could affect hundreds of thousands of people and lead to family separations, as spouses or relatives may be stranded abroad while awaiting application decisions.\n\nThe announcement comes alongside a separate USCIS directive requiring most temporary visa holders already in the U.S. to return to their home countries to complete green card applications — a step critics say compounds legal immigration difficulties. Supporters of the restrictions argue the measures are necessary to prevent the spread of a deadly pathogen with no widely available treatment.\n\nPublic health officials are also contending with misinformation about the virus as cases continue to emerge in Africa. The administration has not indicated a specific end date for the restrictions, tying their duration to conditions on the ground in affected countries.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/5892561-trump-administration-ebola-outbreak-restrictions-green-card-holders/",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:06 AM MT",
+      "addedAtISO": "2026-05-23T10:06:27.349408-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Canadian PM Carney Calls Alberta 'Essential' as Province Sets October Separation Vote",
+      "summary": "Canadian Prime Minister Mark Carney pushed back Friday against Alberta separatism, calling the oil-rich western province 'essential' to Canada and praising its 'huge contributions' to the country. His remarks came one day after Alberta Premier Danielle Smith announced citizens will vote October 19 on whether the province should remain in Canada or begin the legal process toward a binding independence referendum — framing the vote as a two-step process after a court ruling blocked direct action.\n\nA First Nations-backed legal challenge earlier this month halted the verification of separation petition signatures, with the judge ruling Alberta's government failed to consult with indigenous communities. Smith said she would appeal the ruling but refused to let it silence Albertan voices. Smith herself said she will vote in favour of remaining in Canada, but defended holding the plebiscite on procedural grounds.\n\nThe vote represents the most significant test of Canadian national unity in decades. Critics from multiple directions panned the move: the Sturgeon Lake Cree Nation called Smith's government 'undemocratic and authoritarian,' NDP leader Naheed Nenshi called the vote 'needless,' and even separatist organizers expressed disappointment that the referendum fell short of a direct independence question. Opinion polls suggest roughly 25% of Albertans support independence.\n\nCarney said his government is 'renovating the country' and that Alberta is central to that project, signaling Ottawa intends to address western grievances rather than dismiss them. The situation is being watched closely across Canada as a potential stress test for federal-provincial relations under a newly elected government.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy42w778e72o",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:06 AM MT",
+      "addedAtISO": "2026-05-23T10:06:27.349408-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Cuban Government Holds Rally Outside U.S. Embassy in Defense of Raúl Castro",
+      "summary": "The Cuban government organized a large rally outside the U.S. Embassy in Havana on Friday in defense of former president Raúl Castro, days after U.S. authorities indicted the 94-year-old on charges of conspiracy to kill U.S. nationals, murder, and destruction of aircraft stemming from the 1996 shootdown of two civilian planes operated by the exile group Brothers to the Rescue. Thousands of Cubans waved flags and chanted 'Long Live Raúl' at the demonstration; Castro did not appear in person.\n\nCastro's daughter, Mariela Castro, was among those who spoke at the rally, which the government framed as a display of national solidarity against what Havana characterizes as politically motivated U.S. aggression. The indictment has drawn sharp condemnation from Cuban officials, who deny any wrongdoing and argue U.S. courts lack jurisdiction over the matter.\n\nThe charges mark a rare move by U.S. prosecutors to formally indict a former head of state for actions taken while in power, raising both legal and diplomatic questions about enforcement. With Castro living in Cuba and no extradition treaty in place, legal experts say any prosecution would be largely symbolic in practical terms but carries significant geopolitical weight.\n\nThe development comes as U.S.-Cuba relations remain severely strained, with Washington maintaining economic pressure on the island and Havana deepening ties with Russia and China. The rally signals the Castro-era leadership retains a degree of mobilization capacity despite Cuba's ongoing economic crisis.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cr5pl7jevyro",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:06 AM MT",
+      "addedAtISO": "2026-05-23T10:06:27.349408-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "Google's Search Overhaul Marks End of an Era as AI Reshapes the Internet",
+      "summary": "Google this week announced what it called the 'biggest upgrade to our Search box in over 25 years,' accelerating a shift toward AI-generated responses that analysts say effectively closes the chapter on the early internet era of keyword-driven, link-based search. The overhaul replaces much of the traditional results page with AI summaries, raising questions about the future of web traffic for publishers and independent websites.\n\nThe change reflects a broader transformation of the digital landscape driven by generative AI and the so-called TikTok-ification of social media — platforms increasingly curated by algorithmic recommendation rather than user choice. Critics argue the shift concentrates information power in fewer hands and may undermine the open-web ecosystem that allowed diverse voices to reach audiences organically.\n\nProponents of the AI-driven model say it delivers faster, more relevant answers and reduces the friction of sifting through pages of links, many of which are cluttered with ads or SEO-optimized content of low quality. Google has framed the upgrade as a response to user demand and growing competition from AI-native search tools.\n\nThe redesign arrives as regulators in the U.S. and Europe scrutinize Google's dominance in search. The timing adds complexity to ongoing antitrust proceedings that have already found Google illegally maintained its search monopoly in the U.S., with remedies still being determined by a federal court.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/23/google-search-internet-social-media",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:06 AM MT",
+      "addedAtISO": "2026-05-23T10:06:27.349408-06:00"
+    },
+    {
       "category": "politics",
       "headline": "Update: Senate Republicans Erupt at Acting AG Blanche Over $1.8 Billion 'Anti-Weaponization' Fund",
       "summary": "About half the Senate Republican Conference confronted acting Attorney General Todd Blanche at a closed-door Capitol meeting Thursday, with Sen. Ted Cruz (R-Texas) describing the session as featuring \"screaming\" and \"fireworks at an epic level.\" Cruz said he was surprised by the intensity of his colleagues' anger over a proposed $1.8 billion fund described as an \"anti-weaponization\" initiative within the Justice Department.\n\nThe confrontation marks a significant new development in Republican opposition to the fund, which the Senate GOP had already voted to strip from legislation earlier this week. Thursday's meeting escalated that friction into a direct, heated exchange between a senior Trump administration official and members of the president's own party in Congress.\n\nThe episode underscores deepening tensions between Senate Republicans and the Trump Justice Department over the fund's scope and purpose. Critics within the party have raised concerns about how the money would be used, while administration allies have framed it as a tool to counter politically motivated prosecutions. No resolution was announced following the meeting.",
