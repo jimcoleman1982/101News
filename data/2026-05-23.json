@@ -3,6 +3,58 @@
   "dateFormatted": "Saturday, May 23, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: Senate Republicans Erupt at Acting AG Blanche Over $1.8 Billion 'Anti-Weaponization' Fund",
+      "summary": "About half the Senate Republican Conference confronted acting Attorney General Todd Blanche at a closed-door Capitol meeting Thursday, with Sen. Ted Cruz (R-Texas) describing the session as featuring \"screaming\" and \"fireworks at an epic level.\" Cruz said he was surprised by the intensity of his colleagues' anger over a proposed $1.8 billion fund described as an \"anti-weaponization\" initiative within the Justice Department.\n\nThe confrontation marks a significant new development in Republican opposition to the fund, which the Senate GOP had already voted to strip from legislation earlier this week. Thursday's meeting escalated that friction into a direct, heated exchange between a senior Trump administration official and members of the president's own party in Congress.\n\nThe episode underscores deepening tensions between Senate Republicans and the Trump Justice Department over the fund's scope and purpose. Critics within the party have raised concerns about how the money would be used, while administration allies have framed it as a tool to counter politically motivated prosecutions. No resolution was announced following the meeting.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/senate/5892149-cruz-republican-anger-blanche/",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:00 AM MT",
+      "addedAtISO": "2026-05-23T08:00:15.897134-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: U.S.-Cuba Tensions Deepen as Washington Signals Low Odds of Peaceful Resolution",
+      "summary": "The United States and Cuba are locked in an escalating confrontation, with Secretary of State Marco Rubio declaring this week that the likelihood of a peaceful diplomatic agreement with Havana is \"not high.\" Washington has imposed an oil blockade, new sanctions, and an unprecedented murder indictment against former Cuban leader Raúl Castro, while simultaneously increasing surveillance flights near the island — with military aircraft broadcasting their positions on public tracking sites in what experts describe as a deliberate show of force.\n\nCuba's Foreign Minister Bruno Rodríguez accused Rubio of trying to \"instigate military aggression\" and charged the U.S. with constructing a \"fraudulent case\" to justify intervention. U.S. news outlet Axios, citing classified intelligence, reported that Cuba possesses 300 drones and has discussed targeting nearby U.S. assets including Guantanamo Bay and naval vessels; Cuba denied posing any threat, saying it \"neither threatens nor desires war.\"\n\nThe situation has deepened concerns about the possibility of U.S. military action in the Caribbean. The Trump administration has not announced any invasion plans, but President Trump has previously mused that Cuba is \"ready to fall\" and suggested the possibility of a \"friendly takeover.\" Iranian military advisers may be present in Havana, according to U.S. intelligence cited by Axios, a claim Cuba has not directly addressed. Analysts note the rapid deterioration of relations since Trump returned to office represents a sharp break from the partial normalization pursued under the Obama administration.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "8:00 AM MT",
+      "addedAtISO": "2026-05-23T08:00:15.897134-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Italian Cave Divers Lacked Proper Safety Equipment, Rescue Diver Reveals",
+      "summary": "The Finnish diver who recovered the bodies of four Italian scuba divers from a deep underwater cave in the Maldives has said they were found without the standard safety equipment used in cave diving. Sami Paakkarinen told Italian media the divers lacked a scuba reel or guide rope — tools he described as essential for navigating such hazardous environments — and said the gear recovered with the bodies \"was not optimal.\"\n\nThe five Italian divers, including two University of Genoa marine researchers, disappeared on May 14 after entering a 60-metre-deep cave in Vaavu Atoll during rough weather. Paakkarinen described the recovery site as \"very deep\" and \"very challenging,\" and suggested the cause may have been \"a tragic human error,\" though he deferred to investigators for a final determination. A Maldivian rescue diver, Staff Sgt. Mohamed Mahdhee, died during the search operation.\n\nThe four recovered bodies are expected to be repatriated to Italy on Saturday, where post-mortem examinations will be conducted. The accident is considered the worst single diving incident in Maldivian history. Italian authorities are expected to open an inquiry into the circumstances of the dive.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0l2j723nrxo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:00 AM MT",
+      "addedAtISO": "2026-05-23T08:00:15.897134-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "Nearly 40 Million Americans Expected on Roads for Memorial Day Weekend Despite Four-Year High Gas Prices",
+      "summary": "AAA estimates nearly 40 million Americans will travel by road this Memorial Day weekend, a figure that would set a new record, even as gas prices reach their highest levels in four years. The surge in travel is occurring against the backdrop of broader consumer strain, with elevated fuel costs cutting into household budgets across the country.\n\nThe holiday travel outlook comes as economic analysts have flagged signs of a consumer slowdown driven in part by persistent energy costs. Despite those pressures, demand for holiday travel appears resilient, with air and road bookings both running strong heading into the long weekend.\n\nMemorial Day weekend traditionally marks the unofficial start of summer travel season in the United States, making the volume of travelers a closely watched indicator of consumer confidence and discretionary spending. Transportation officials are advising drivers to expect significant congestion on major highways beginning Friday afternoon.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/us-expects-record-setting-travel-despite-high-gas-prices/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "8:00 AM MT",
+      "addedAtISO": "2026-05-23T08:00:15.897134-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: Pentagon Releases Second Batch of UFO Files, Including Senior Intelligence Officer's 2025 Account",
       "summary": "The Pentagon on Friday released a second batch of declassified UFO files, including 51 videos, audio recordings, and a half-dozen documents spanning 80 years of sightings. The materials follow an initial release of 161 files on May 8, ordered by President Trump, who encouraged the public to draw their own conclusions.\n\nA notable new document contains a first-hand account from an unnamed senior U.S. intelligence officer who reported witnessing \"countless orange orbs swarming in all directions\" from a military helicopter in 2025 over the western United States. The officer described oval-shaped, super-hot objects moving at high speed that coalesced into a triangle formation before vanishing, an encounter lasting more than an hour.\n\nOther materials include a 116-page Armed Forces Special Weapons Program report from 1948–1950 documenting 209 sightings at Sandia, New Mexico, and videos captured by U.S. military infrared cameras between 2018 and 2023. The Pentagon cautioned that many videos lacked a verified chain of custody, meaning they could have been altered.\n\nNo definitive conclusions about extraterrestrial life or alien technology were drawn in the files. U.S. officials stated the public could interpret the materials as they saw fit.",
