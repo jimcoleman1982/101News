@@ -3,6 +3,58 @@
   "dateFormatted": "Saturday, May 23, 2026",
   "stories": [
     {
+      "category": "other",
+      "headline": "Cannes Palme d'Or Goes to Romanian Director Cristian Mungiu's 'Fjord'",
+      "summary": "Romanian director Cristian Mungiu won his second Palme d'Or at the Cannes Film Festival on Saturday for \"Fjord,\" a drama starring Sebastian Stan and Renate Reinsve about a Christian evangelical family that relocates from Romania to a Norwegian village, only to have their children removed by child services after disciplining them. Mungiu becomes only the tenth filmmaker in history to win the top prize twice, having previously taken the Palme d'Or in 2007 for \"4 Months, 3 Weeks and 2 Days.\"\n\nThe film, based on true events, centers on the clash between the family's religious values and Norwegian progressive child welfare norms. Mungiu described it as a story about \"left-wing fundamentalism\" and used his acceptance speech to call for greater practical application of tolerance and empathy.\n\nOther major awards included the Grand Prix for Russian exile director Andrey Zvyagintsev's war drama \"Minotaur,\" set against Russia's invasion of Ukraine. Zvyagintsev addressed Putin directly from the stage, saying \"put an end to the carnage, the whole world is waiting for it.\" Rwandan filmmaker Marie-Clementine Dusabejambo won the Camera d'Or for her genocide drama \"Ben'Imana.\"\n\nThe Cannes Film Festival is one of the world's most prestigious cultural events, and the Palme d'Or is widely considered the most coveted prize in international cinema.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/fjord-by-romanias-cristian-mungiu-wins-cannes-top-film-prize?traffic_source=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "4:04 PM MT",
+      "addedAtISO": "2026-05-23T16:04:24.873597-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Hegseth Attacks 'Identity Politics' in West Point Commencement Address, Announces Record Army Recruiting",
+      "summary": "Defense Secretary Pete Hegseth delivered the commencement address at the U.S. Military Academy at West Point on Saturday, sharply criticizing what he called \"foolish and feckless\" former military leaders for promoting identity politics at the expense of combat readiness. \"The battlefield does not grade on a curve, and you can't throw your pronouns at the enemy,\" Hegseth told graduating cadets in the rain.\n\nHegseth also announced that the U.S. Army had met its 2026 recruiting goals four months ahead of schedule, marking a second consecutive record year. Administration officials have attributed the recruiting surge in part to the rollback of diversity, equity, and inclusion programs in the military.\n\nThe speech drew praise from conservative commentators who argued that refocusing the military on warfighting capability over social priorities strengthens national security. Critics, including some former military officers, have countered that DEI initiatives improve unit cohesion and broaden the talent pool available to the armed forces, and that Hegseth's framing mischaracterizes what those programs were designed to accomplish.\n\nThe address reflects a broader effort by the Trump administration to reshape military culture, following a series of executive orders targeting DEI programs across federal agencies and the armed services since January 2025.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/5892744-defense-secretary-west-point-address/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:04 PM MT",
+      "addedAtISO": "2026-05-23T16:04:24.873597-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Fraud and Harm Found Inside Rapidly Growing Autism Therapy Industry Billing Medicaid",
+      "summary": "A New York Times investigation published Saturday details widespread overbilling, fraud, and patient harm inside the rapidly expanding autism therapy clinic industry, which has grown sharply in recent years as states have expanded Medicaid coverage for applied behavior analysis treatments for young children. The industry's growth has strained state Medicaid budgets, while a focus on maximizing billing hours has in some cases led to practices that investigators and clinicians describe as harmful to young patients.\n\nSeparately, the Department of Justice indicted two individuals in an alleged $46.6 million Minnesota Medicaid autism fraud scheme. HHS Secretary Robert F. Kennedy Jr. called it the largest autism fraud bust in U.S. history, framing the case as part of his broader scrutiny of autism-related spending and treatment.\n\nThe investigation highlights tension between the expansion of autism diagnoses and services — which advocates say has helped many families access necessary care — and oversight failures that have allowed bad actors to exploit a system where billing is largely self-reported and state auditing resources are limited.\n\nThe findings arrive as Congress debates Medicaid funding cuts in budget reconciliation negotiations, with supporters of cuts pointing to fraud as justification for tighter spending controls, and opponents warning that cuts would harm vulnerable children and families who depend on legitimate services.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/23/health/autism-therapy-clinics.html",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:04 PM MT",
+      "addedAtISO": "2026-05-23T16:04:24.873597-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "F1 Legend Alain Prost Injured in Masked Home Invasion Robbery in Switzerland",
+      "summary": "Four-time Formula 1 world champion Alain Prost suffered a head injury when a gang of masked individuals raided his home in Nyon, Switzerland, approximately 25 kilometers north of Geneva, Swiss media reported Saturday. Police confirmed that a family was targeted by robbers around 8:30 a.m. Tuesday, though they did not identify the victims by name.\n\nAccording to a statement from the Vaud cantonal police, the intruders threatened the occupants, slightly injured one family member in the head, and forced another to open a safe before fleeing with its contents. The value of the stolen items has not yet been assessed.\n\nSwiss and French police, along with border security forces, launched a large-scale search operation following the incident. A psychological support team was provided to the family.\n\nProst, 71, is widely regarded as one of the greatest Formula 1 drivers in history, having won the world championship in 1985, 1986, 1989, and 1993 with McLaren, Renault, and Williams. Only Michael Schumacher, Lewis Hamilton, and Juan Manuel Fangio have won more titles.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "4:04 PM MT",
+      "addedAtISO": "2026-05-23T16:04:24.873597-06:00"
+    },
+    {
       "category": "world",
       "headline": "China Coal Mine Explosion Kills at Least 82 in Worst Disaster Since 2009",
       "summary": "A gas explosion at the Liushenyu Coal Mine in Shanxi province, China, killed at least 82 people and left two missing after the blast struck Friday evening local time with 247 workers underground. Rescue officials revised the toll downward from an earlier figure of 90, citing chaotic initial conditions, and said 128 people were being treated in hospitals, including two in critical condition. More than 100 workers were saved, with hundreds of rescue personnel deployed to the site.\n\nChinese President Xi Jinping ordered that no effort be spared in treating the injured and searching for survivors. State media reported that carbon monoxide levels in the mine had exceeded safe limits, though the precise cause of the explosion has not been confirmed. Some members of the mine's management team have been detained.\n\nThe disaster is the deadliest in China's coal mining industry since 2009. The Liushenyu mine had been flagged as having \"severe safety hazards\" in 2024, and its operator, Tongzhou Group, received two administrative penalties for safety violations in 2025. Shanxi province accounts for more than a quarter of China's total coal output, underscoring the national significance of safety standards there.\n\nRescue operations have been complicated by water buildup near the explosion site and discrepancies between the mine's blueprints and its actual layout. China's Ministry of Emergency Management sent 345 personnel from six rescue teams to assist. The State Council said a rigorous investigation would be conducted and those found responsible would be severely punished.",
