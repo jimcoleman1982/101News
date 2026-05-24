@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-24",
+  "dateFormatted": "Sunday, May 24, 2026",
+  "stories": [
+    {
+      "category": "science_health",
+      "headline": "Update: WHO Raises DR Congo Ebola Risk to 'Very High' as Red Cross Volunteers Die, Uganda Reports New Cases",
+      "summary": "Three Red Cross volunteers in the Democratic Republic of Congo have died from suspected Ebola contracted while managing dead bodies in the eastern Ituri region, the International Federation of Red Cross and Red Crescent Societies confirmed. The volunteers — Alikana Udumusi Augustin, Sezabo Katanabo, and Ajiko Chandiru Viviane — are believed to have been infected on March 27 while working in Mongwalu, now considered the epicenter of the outbreak, and died between May 5 and 16.\n\nThe World Health Organization on Friday raised the public health risk from the outbreak in DR Congo from 'high' to 'very high,' citing more than 170 suspected deaths and 750 suspected cases involving the rare Bundibugyo species of Ebola, for which no proven vaccine exists and which kills approximately one-third of those infected. Uganda confirmed three new cases on Saturday, bringing its national total to five, while the African CDC warned that ten neighboring countries — including Rwanda, Kenya, and South Sudan — face elevated risk.\n\nDR Congo has suspended all commercial and private flights to and from Bunia, the provincial capital of Ituri, to limit cross-border spread. Humanitarian and medical flights will require special government authorization. The response has been further complicated by community resistance, with a tent provided by Médecins Sans Frontières burned on Friday and an angry crowd setting fire to part of a hospital the previous day after a family was prevented from taking a suspected Ebola victim's body for burial.\n\nThe outbreak is unfolding against a backdrop of armed conflict in eastern Congo, with rebel group M23 controlling parts of the affected North and South Kivu regions, adding logistical difficulties to containment efforts. The escalating situation represents a material new development beyond prior coverage of CDC screening expansion and travel restrictions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-24T05:08:29.883908-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Russia Vows Retaliation Over Luhansk Dormitory Strike as UN Security Council Convenes",
+      "summary": "Russian President Vladimir Putin has ordered his defense ministry to prepare a response after a strike destroyed a dormitory at the Starobilsk Professional College in Russian-occupied Luhansk, killing 21 people and wounding 42, according to Russian official figures. Putin called the attack a 'terrorist strike,' insisting no military facilities were located nearby, while Ukraine's Armed Forces acknowledged conducting an operation near Starobilsk on the night of May 21-22 but said the target was a Russian military unit, not a civilian building.\n\nRussia convened an emergency session of the United Nations Security Council on Friday, with Moscow's UN ambassador Vasily Nebenzya calling the incident a war crime under international humanitarian law and displaying photographs of the destroyed college. Denmark's UN representative pushed back sharply, saying that applying Russia's own logic would require twice-daily emergency sessions to address Russian strikes on Ukraine. Emergency teams completed their search and rescue operation late Saturday.\n\nHawkish pro-Kremlin commentators used the incident to call for retaliatory strikes against European nations, with Sergey Karaganov, honorary chairman of the Council on Foreign and Defence Policy, publicly urging 'symbolic' strikes on Europe on state-run media. The Kremlin has not confirmed the scope of any planned response, but Putin's public order to his defense ministry signals the incident may escalate the trajectory of the war.\n\nThis represents a new development beyond prior coverage of Putin's initial vow to retaliate: emergency rescue operations have now concluded, casualty figures are confirmed, and Russian state media and official advisers are publicly advocating strikes on European targets — raising the stakes of the confrontation between Russia, Ukraine, and NATO-aligned nations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-24T05:08:29.883908-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "France Bans Israeli Minister Ben-Gvir Over Treatment of Flotilla Detainees, Calls on EU to Follow",
+      "summary": "France has banned Israeli National Security Minister Itamar Ben-Gvir from entering French territory, with Foreign Minister Jean-Noël Barrot citing Ben-Gvir's 'unspeakable' behavior toward French and European citizens detained from the Global Sumud Flotilla. Ben-Gvir drew international condemnation this week after promoting videos of himself taunting bound detainees at an Israeli port — waving a flag over hunched prisoners, yelling at a kneeling detainee with zip-tied wrists, and overseeing detainees with their foreheads to the floor as the Israeli national anthem played.\n\nBarrot called on the European Union to impose its own sanctions on Ben-Gvir. Poland had already announced a five-year ban on Thursday, with Polish Foreign Minister Radek Sikorski stating, 'In the democratic world we do not abuse and gloat over people in custody.' Even Israeli Prime Minister Benjamin Netanyahu condemned Ben-Gvir's on-camera conduct. The Israeli government has not responded to AP requests for comment on France's ban.\n\nThe flotilla of approximately 50 boats was intercepted in international waters roughly 250 miles off the coast of Israel while attempting to breach Israel's naval blockade of Gaza. More than 430 activists were detained. Detained activists have alleged beatings, use of tasers, and attack dogs, which Israel's prison service denies. French officials, while condemning Ben-Gvir's conduct, also criticized the flotilla itself, calling its approach counterproductive and a burden on diplomatic services.\n\nThe diplomatic fallout reflects growing European friction with Israel's far-right government over the Gaza conflict. Ben-Gvir leads the Otzma Yehudit party and has been a polarizing figure both domestically and internationally; his exclusion from multiple European countries marks an escalating diplomatic rupture between Israel and its traditional Western partners.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/france-israel-gaza-flotilla-itamar-bengvir-benjamin-netanyahu-a6c6b4bf6179bd6bc40037b010056ff4",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-24T05:08:29.883908-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "DOJ Removes Jan. 6 Press Releases, Calls Past Prosecutions 'Partisan Propaganda'",
+      "summary": "The Justice Department has removed from its website press releases documenting the charges, convictions, and sentencings of hundreds of individuals prosecuted for the January 6, 2021, Capitol attack. The department acknowledged the deletions, describing the historical prosecution records as 'partisan propaganda' — framing that critics say amounts to an official rewriting of the public record of one of the most significant domestic security events in recent American history.\n\nThe move comes more than a year after President Trump pardoned nearly all January 6 defendants upon returning to office. Supporters of the administration argue the pardons rendered the prosecutions moot and that maintaining the records serves a political rather than legal purpose. Critics, including legal experts and Democratic lawmakers, contend the removal of official court-related public records is an unprecedented step that obscures documented federal court findings and undermines government transparency.\n\nThe purge is the latest in a series of Trump administration actions to revise the official government narrative surrounding January 6. Previous steps included reclassifying some participants as political prisoners, dismissing remaining charges, and using the $1.8 billion 'anti-weaponization' fund — which has itself drawn fierce Republican and Democratic pushback in the Senate — to compensate individuals prosecuted in connection with that day.\n\nThe decision is deeply divisive along partisan lines. Conservatives backing the move argue the prosecutions were politically motivated overreach by the prior administration. Democrats and many legal scholars contend the removals destroy publicly funded official records of federal criminal cases that proceeded through the courts and were upheld on appeal, setting a troubling precedent for the selective erasure of inconvenient institutional history.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5892788-justice-department-january-6-capitol-attack-press-releases-scrapped/",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-24T05:08:29.883908-06:00"
+    }
+  ]
+}
