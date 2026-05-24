@@ -3,6 +3,58 @@
   "dateFormatted": "Sunday, May 24, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: U.S. and Iran Near Deal to End War, Reopen Strait of Hormuz as Republican Hawks Revolt",
+      "summary": "The United States and Iran are closing in on a framework agreement that would extend the ceasefire for 60 days, reopen the Strait of Hormuz to shipping, and initiate negotiations over Iran's nuclear program, according to senior U.S. officials. President Trump said Saturday that a deal had been \"largely negotiated,\" but reversed course Sunday, posting on Truth Social that \"time is on our side\" and instructing his negotiators \"not to rush into a deal.\" The White House indicated it does not expect a final agreement to be signed Sunday and that approval by Iran's leadership, including Supreme Leader Mojtaba Khamenei, could take several more days.\n\nA senior Trump administration official said Sunday that Iran has agreed in principle to dispose of its stockpile of highly enriched uranium, a significant new development. The proposed framework involves a 60-day truce during which the Strait of Hormuz would be reopened, Iran would be permitted to sell oil freely, and talks on limiting Iran's nuclear program would resume. Regional officials told the Associated Press that the deal's terms are close to finalized, though Iran's foreign ministry said the fate of the Strait remains under Iranian control and that nuclear weapons are not part of any initial framework.\n\nThe emerging agreement has triggered a rare and sharp backlash from Republican allies of the president. Senators Lindsey Graham, Ted Cruz, and Thom Tillis publicly criticized the deal, with Tillis warning Trump's decisions are \"killing our chances\" for Republicans to hold the Senate. Speaker Mike Johnson defended the administration's position, while Secretary of State Marco Rubio called GOP criticism \"absurd\" and said diplomacy remained the preferred path.\n\nIsraeli Prime Minister Benjamin Netanyahu said Sunday he supports Trump but insisted any final deal must address Iran's nuclear program comprehensively. The Iran conflict, which Trump launched with massive U.S.-Israeli strikes in late February, has sent global oil prices sharply higher and created severe economic pressure domestically. White House economic adviser Kevin Hassett said a successful deal could cause energy prices to plummet, potentially creating conditions for Federal Reserve interest rate cuts.",
+      "source": "The Hill",
+      "url": "https://thehill.com/",
+      "sourceCount": 25,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "4:07 PM MT",
+      "addedAtISO": "2026-05-24T16:07:02.649966-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Russia Fires Nuclear-Capable Oreshnik Missile at Kyiv for Third Time, Killing Four",
+      "summary": "Russia struck Ukraine with a nuclear-capable Oreshnik ballistic missile for the third time Sunday morning as part of a broader missile and drone barrage that killed four people and injured approximately 100, according to Ukrainian President Volodymyr Zelensky. The attack was concentrated on Kyiv and damaged 30 residential buildings, Zelensky said in a post on X. The use of the Oreshnik missile, which Russia first deployed in combat late last year, marks a significant escalation in the conflict's weaponry.\n\nThe strike comes days after Ukraine was accused by Russia of hitting a student dormitory in Russian-occupied Luhansk, which Moscow used to justify retaliatory action. The UN Security Council convened earlier this week over the Luhansk incident. Sunday's Kyiv barrage is described as one of the largest Russian attacks on the capital since the war began, drawing international condemnation.\n\nThe attack underscores the ongoing intensity of the conflict even as global diplomatic attention has shifted toward the U.S.-Iran situation. The repeated use of the Oreshnik missile raises concerns among Western defense analysts about Russia's willingness to deploy increasingly advanced weapons systems against civilian infrastructure. Ukraine has called on allies to provide additional air defense capabilities.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/",
+      "sourceCount": 25,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "4:07 PM MT",
+      "addedAtISO": "2026-05-24T16:07:02.649966-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Suicide Bomb Attack Kills 23 on Pakistani Passenger Train, Baloch Separatists Claim Responsibility",
+      "summary": "A suicide bombing killed at least 23 people and wounded more than 70 others on a passenger train in Quetta, the capital of Pakistan's southwestern Balochistan province, on Sunday. The blast derailed the train and caused two carriages to catch fire, according to the Associated Press. The Balochistan Liberation Army, a separatist militant group, claimed responsibility for the attack.\n\nThe train was carrying military personnel along with civilian passengers at the time of the explosion. Balochistan has been the site of a long-running insurgency, with the BLA conducting increasingly sophisticated attacks against Pakistani security forces and infrastructure. The group has previously targeted pipelines, security checkpoints, and transportation routes in the province.\n\nThe death toll makes this one of the deadliest single terrorist attacks in Pakistan in recent years. Pakistani authorities launched emergency response operations at the scene, and the military condemned the attack. The incident highlights the persistent instability in Balochistan, where separatist groups have accused the central government of exploiting the province's natural resources while neglecting its population.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/",
+      "sourceCount": 25,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:07 PM MT",
+      "addedAtISO": "2026-05-24T16:07:02.649966-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Sen. Booker Says Democratic Party 'Desperately Needs New Leadership' Ahead of Midterms",
+      "summary": "Democratic Sen. Cory Booker of New Jersey said Sunday that his party \"desperately needs new leadership\" as it heads into midterm elections less than six months away. \"We need to focus on the people, and the Democratic Party desperately needs new leadership,\" Booker said, adding that he is encouraged by new leaders and a new vision emerging within the party. He expressed frustration with internal party maneuvering, saying he is \"tired of all this machination about party politics.\"\n\nBooker's comments reflect broader tensions within the Democratic Party following its 2024 electoral losses and ongoing debates over direction, messaging, and candidates. The remarks come amid calls from some quarters for DNC Chair Ken Martin to resign over the handling of the party's 2024 election autopsy, and growing pressure from progressive activists who argue the party has failed working-class voters.\n\nRepublicans have seized on Democratic disarray as they seek to hold congressional majorities in the November midterms, though some GOP figures, including Rep. Thomas Massie, have warned that Trump's primary campaign against Republican incumbents could leave the party \"very vulnerable\" in competitive districts. The Democratic leadership question is likely to intensify as primary season progresses and potential 2028 presidential candidates begin to position themselves.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/senate/5893308-booker-democrats-need-new-leadership/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:07 PM MT",
+      "addedAtISO": "2026-05-24T16:07:02.649966-06:00"
+    },
+    {
       "category": "science_health",
       "headline": "China Launches Shenzhou 23 Mission With First Hong Kong Astronaut, One Crew Member to Spend Year in Space",
       "summary": "China launched the Shenzhou 23 spacecraft Sunday night from the Jiuquan Satellite Launch Center in northwestern China, sending three astronauts to its Tiangong space station. The crew includes commander Zhu Yangzhu, Zhang Zhiyuan, and Lai Ka-ying — the first astronaut from Hong Kong to fly on a space mission. Lai holds a doctoral degree in computer forensics and was born and raised in Hong Kong.\n\nOne of the three astronauts is scheduled to remain aboard Tiangong for a full year, which would rank among the world's longest single stays in space. Chinese state media said the extended mission is designed to explore human adaptability and performance limits in long-duration spaceflight environments. The crew will also conduct dozens of science and application projects.\n\nThe mission comes as China accelerates its broader space ambitions, including a goal of landing astronauts on the Moon by 2030. China's Tiangong station first hosted a crew in 2021 after the country was effectively excluded from the International Space Station over U.S. national security concerns. The United States, through NASA, is separately targeting a crewed lunar surface landing by 2028, setting up an intensifying space race between the two nations.",
