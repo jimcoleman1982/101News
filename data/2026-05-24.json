@@ -3,6 +3,58 @@
   "dateFormatted": "Sunday, May 24, 2026",
   "stories": [
     {
+      "category": "technology",
+      "headline": "Trump Pulls AI Executive Order at Last Minute After White House Infighting",
+      "summary": "President Trump abruptly scrapped a long-anticipated executive order on artificial intelligence testing Thursday, pulling back after ushering tech industry leaders to the White House for what was expected to be a signing ceremony. A senior White House official and two people familiar with the matter said former AI czar David Sacks voiced industry concerns directly to Trump, prompting the reversal at the eleventh hour.\n\nThe episode has exposed significant internal divisions within the administration over how to regulate AI development without impeding its growth. The sudden reversal left tech executives who had gathered for the signing in an awkward position and raised questions about the coherence of the administration's AI policy agenda.\n\nSupporters of a lighter-touch approach, largely aligned with Sacks and the tech-industry wing of the White House, argue that heavy regulatory requirements could place U.S. companies at a competitive disadvantage against Chinese rivals. Critics of the pullback contend that the absence of safety and testing standards leaves the public exposed to rapidly advancing AI systems with no federal guardrails.\n\nThe story is being covered by ten outlets across the political spectrum, signaling its broad significance. No replacement executive order or revised timeline has been announced, leaving the administration's AI governance framework in an undefined state.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/5891923-trump-ai-order-scrapped-divide/",
+      "sourceCount": 10,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:56 AM MT",
+      "addedAtISO": "2026-05-24T07:56:34.848214-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Bolivia's Public Works Minister Ambushed as Anti-Government Protests Escalate",
+      "summary": "Bolivia's public works minister, Mauricio Zamora, was ambushed Saturday by protesters while overseeing an operation to clear roadblocks in the town of Copata, south of La Paz. His convoy was attacked with stones and dynamite, his vehicle was separated from the group, and he briefly went missing before being located safely after navigating a dirt road and surviving a second ambush.\n\nThe incident reflects a sharp escalation in unrest gripping Bolivia. Trade unions and supporters of left-wing former President Evo Morales have intensified blockades this week aimed at cutting off goods to La Paz and the nearby city of El Alto. Police and military were deployed Saturday to clear roads using bulldozers, but clashes erupted at multiple points and blockades were re-established. Protesters looted and burned a customs post, torched a military truck, and attacked a minibus and police station in separate incidents.\n\nThe demonstrations are targeting center-right President Rodrigo Paz, who took office six months ago on a pledge to address Bolivia's worst economic crisis in decades. His decision to eliminate long-standing fuel subsidies has sharply raised living costs and fueled popular anger. Morales, who faces criminal charges related to an alleged relationship with a minor during his presidency, has publicly supported the protests; the government accuses him of instigating the unrest.\n\nThe political crisis pits an austerity-oriented government aligned with the United States against a left-wing opposition movement with deep roots in Bolivia's labor and indigenous communities. The government denied opposition claims that a protester was killed in the clashes, but the situation remains volatile.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:56 AM MT",
+      "addedAtISO": "2026-05-24T07:56:34.848214-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Building Collapse Near Philippine Capital Traps Dozens of Workers",
+      "summary": "A nine-story building under construction collapsed early Sunday morning in Angeles City, about 90 kilometers northwest of Manila, trapping an estimated 20 or more people under its rubble. Rescue workers have pulled 24 survivors from the site and two additional people from a nearby hotel struck by falling debris, with no confirmed deaths reported as of Sunday morning.\n\nAuthorities said the building gave way around 3 a.m. local time. Many of those trapped are believed to be construction workers who were on site overnight and could not escape in time. City officials described large chunks of concrete making the rescue operation difficult, with heavy equipment needed to lift debris. At least five people have been confirmed trapped, two of whom have made voice contact with rescuers.\n\nOfficials are investigating the cause of the collapse. Construction safety in the Philippines is a persistent concern; researchers have documented widespread problems with project planning, management, and design errors in the country's building sector. A landfill collapse in Cebu in January killed 11 workers.\n\nAngeles City is the site of a substantial population center and commercial district. The scale of the rescue operation and the number of people potentially unaccounted for make this a developing story with a potentially rising casualty count.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier2",
+      "addedAt": "7:56 AM MT",
+      "addedAtISO": "2026-05-24T07:56:34.848214-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "Supreme Court Tensions With Trump Escalate Ahead of Major Rulings",
+      "summary": "The U.S. Supreme Court is approaching a series of consequential decisions that could determine the fate of key elements of the Trump administration's agenda, and relations between the White House and the court have grown openly confrontational. President Trump has alternated between pressuring the justices publicly and attempting to court their favor as the term nears its end.\n\nAmong the recent decisions drawing political fire was a ruling on the Voting Rights Act. Rep. Ro Khanna (D-Calif.) called the decision 'an assault on the civil rights legacy' and renewed Democratic calls for Supreme Court term limits and expansion in order to, in his framing, depoliticize the institution. The administration has not publicly responded to the expansion proposals.\n\nThe standoff reflects a broader constitutional tension over separation of powers that has defined the early phase of Trump's second term. The administration has pursued aggressive executive action across immigration, federal workforce policy, and foreign affairs, and multiple cases testing the legal limits of those actions are pending before the court.\n\nConservatives have largely defended the court's recent rulings as legally grounded and resisted characterizations of the institution as partisan, while liberals argue the court's rightward shift has produced outcomes driven more by ideology than precedent. The coming weeks are expected to bring rulings with significant implications for voting rights, immigration enforcement, and executive authority.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/24/us/politics/supreme-court-trump-vance.html",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:56 AM MT",
+      "addedAtISO": "2026-05-24T07:56:34.848214-06:00"
+    },
+    {
       "category": "science_health",
       "headline": "Update: WHO Raises DR Congo Ebola Risk to 'Very High' as Red Cross Volunteers Die, Uganda Reports New Cases",
       "summary": "Three Red Cross volunteers in the Democratic Republic of Congo have died from suspected Ebola contracted while managing dead bodies in the eastern Ituri region, the International Federation of Red Cross and Red Crescent Societies confirmed. The volunteers — Alikana Udumusi Augustin, Sezabo Katanabo, and Ajiko Chandiru Viviane — are believed to have been infected on March 27 while working in Mongwalu, now considered the epicenter of the outbreak, and died between May 5 and 16.\n\nThe World Health Organization on Friday raised the public health risk from the outbreak in DR Congo from 'high' to 'very high,' citing more than 170 suspected deaths and 750 suspected cases involving the rare Bundibugyo species of Ebola, for which no proven vaccine exists and which kills approximately one-third of those infected. Uganda confirmed three new cases on Saturday, bringing its national total to five, while the African CDC warned that ten neighboring countries — including Rwanda, Kenya, and South Sudan — face elevated risk.\n\nDR Congo has suspended all commercial and private flights to and from Bunia, the provincial capital of Ituri, to limit cross-border spread. Humanitarian and medical flights will require special government authorization. The response has been further complicated by community resistance, with a tent provided by Médecins Sans Frontières burned on Friday and an angry crowd setting fire to part of a hospital the previous day after a family was prevented from taking a suspected Ebola victim's body for burial.\n\nThe outbreak is unfolding against a backdrop of armed conflict in eastern Congo, with rebel group M23 controlling parts of the affected North and South Kivu regions, adding logistical difficulties to containment efforts. The escalating situation represents a material new development beyond prior coverage of CDC screening expansion and travel restrictions.",
