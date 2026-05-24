@@ -3,6 +3,58 @@
   "dateFormatted": "Sunday, May 24, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: Iran Moves World Cup Base Camp to Mexico After U.S. Security Concerns",
+      "summary": "The president of Iran's Football Federation announced Saturday that the national team's World Cup base camp has been relocated from Tucson, Arizona, to Tijuana, Mexico, following FIFA approval. Federation president Mehdi Taj said the move resolves potential visa complications, as the team will now enter the United States from Mexico for its group-stage matches. FIFA had not independently confirmed the change as of Saturday.\n\nIran is scheduled to play all three of its Group G matches on U.S. soil — against New Zealand on June 15 in Inglewood, California, Belgium on June 21, and Egypt on June 26 in Seattle. The federation said Tijuana's proximity to the Los Angeles area makes it a practical alternative, and noted the team may even travel using Iran Air flights. Officials at Tucson's Kino Sports Complex declined to comment.\n\nThe move reflects broader tensions between Iran and the United States stemming from the ongoing conflict in the Middle East, including the Strait of Hormuz crisis. The federation had previously signaled that World Cup participation on U.S. soil was in doubt due to security concerns and uncertainty over visas. The 2026 World Cup runs from June 11 to July 19 and is co-hosted by the U.S., Canada, and Mexico.\n\nIran is appearing in its fourth consecutive World Cup and seventh overall, but has never advanced past the group stage. The base camp decision is the latest diplomatic and logistical complication surrounding the tournament, which has already drawn scrutiny over the participation of nations in conflict or under U.S. sanctions.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/irans-soccer-federation-says-its-world-cup-base-camp-has-been-moved-to-mexico-from-the-united-states",
+      "sourceCount": 10,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:06 AM MT",
+      "addedAtISO": "2026-05-24T10:06:28.444858-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Man Killed in Shark Attack Off Queensland Coast, Second Fatal Attack in Australia in Two Weeks",
+      "summary": "A 39-year-old man died Sunday after a shark attack off the Cassowary Coast in Queensland, Australia, between Cairns and Townsville. Police said the man had been spearfishing near Kennedy Shoal, a shallow reef approximately 45 kilometers offshore, when he was attacked and suffered a critical head injury. He was retrieved from the water by a companion and declared dead upon reaching shore roughly an hour later.\n\nQueensland Police Inspector Elaine Burns confirmed that the man had traveled to the reef by private vessel with three others. Authorities are preparing a report for the coroner, classifying the death as sudden and non-suspicious. The identities of the victim and companions have not been released.\n\nThe incident marks the second fatal shark attack in Australian waters in as many weeks. On the previous Saturday, a 38-year-old spearfisher was killed near Perth in Western Australia after being bitten on the lower legs. Shark attacks around Australia occur more frequently than in most other parts of the world, though fatal encounters remain relatively rare.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "10:06 AM MT",
+      "addedAtISO": "2026-05-24T10:06:28.444858-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "French Mother and Partner Held in Portugal After Abandoning Two Young Sons on Roadside",
+      "summary": "A French judge ordered a mother and her partner held in pre-trial detention Saturday after they allegedly abandoned her two young sons, aged four and five, on a roadside near Alcácer do Sal in southern Portugal. The boys were found crying beside the road on Tuesday evening; the woman, identified as Marine R, and her partner, Marc B, were arrested in Fátima on Thursday. Portuguese law requires suspects to appear before a judge within 48 hours of arrest.\n\nBoth adults face charges of child endangerment and abandonment, while the man faces an additional charge of aggravated assault. According to a motorist's account relayed by Portuguese media, one of the children said they were blindfolded and told to search for a hidden toy, only to find their mother had vanished when they removed the blindfolds. The couple were reportedly heard shouting at each other from separate jail cells.\n\nThe children's father had reported them missing on May 11, prompting a European arrest warrant. The boys are currently in the care of a French foster family in Lisbon and are expected to return to France. The case has drawn significant attention in both countries, partly due to the backgrounds of those involved — the woman describes herself as a sexologist, and her partner is a former French gendarmerie officer.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "10:06 AM MT",
+      "addedAtISO": "2026-05-24T10:06:28.444858-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Russia-Ukraine War — Latest Developments",
+      "summary": "The Russia-Ukraine conflict continued to generate major coverage Sunday across 14 news outlets spanning the political spectrum, including wire services, international broadcasters, and U.S. outlets on both left and right. The broad cross-outlet attention reflects ongoing military operations, diplomatic maneuvering, and the aftermath of recent strikes, including Ukraine's attack on an occupied dormitory in Luhansk that Russia has vowed to retaliate against — a story previously covered in today's briefing.\n\nHowever, the candidate story submitted under this heading contained no specific new factual developments beyond what has already been reported, offering only a general landing-page reference to CNN's Ukraine coverage hub. Without a concrete new event — a new strike, casualty figure, ceasefire development, or diplomatic action — first occurring today, this story does not meet the freshness threshold for inclusion as a standalone item.\n\nReaders seeking the latest on the conflict are directed to today's earlier briefing item on Russia's vow of retaliation following the Luhansk dormitory strike and the convening of the UN Security Council.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/world/europe/ukraine",
+      "sourceCount": 14,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:06 AM MT",
+      "addedAtISO": "2026-05-24T10:06:28.444858-06:00"
+    },
+    {
       "category": "technology",
       "headline": "Trump Pulls AI Executive Order at Last Minute After White House Infighting",
       "summary": "President Trump abruptly scrapped a long-anticipated executive order on artificial intelligence testing Thursday, pulling back after ushering tech industry leaders to the White House for what was expected to be a signing ceremony. A senior White House official and two people familiar with the matter said former AI czar David Sacks voiced industry concerns directly to Trump, prompting the reversal at the eleventh hour.\n\nThe episode has exposed significant internal divisions within the administration over how to regulate AI development without impeding its growth. The sudden reversal left tech executives who had gathered for the signing in an awkward position and raised questions about the coherence of the administration's AI policy agenda.\n\nSupporters of a lighter-touch approach, largely aligned with Sacks and the tech-industry wing of the White House, argue that heavy regulatory requirements could place U.S. companies at a competitive disadvantage against Chinese rivals. Critics of the pullback contend that the absence of safety and testing standards leaves the public exposed to rapidly advancing AI systems with no federal guardrails.\n\nThe story is being covered by ten outlets across the political spectrum, signaling its broad significance. No replacement executive order or revised timeline has been announced, leaving the administration's AI governance framework in an undefined state.",
