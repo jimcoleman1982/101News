@@ -3,6 +3,58 @@
   "dateFormatted": "Saturday, May 23, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Gunman Killed by Secret Service After Opening Fire Near White House",
+      "summary": "A man approached a security checkpoint near 17th Street and Pennsylvania Avenue NW in Washington, D.C., shortly before 6 p.m. Saturday, pulled a pistol from his bag, and opened fire. U.S. Secret Service agents returned fire, hitting the suspect, who was later pronounced dead at a local hospital. A bystander on the street was also wounded; no Secret Service officers were injured.\n\nPresident Trump was inside the White House at the time of the incident. Reporters on the North Lawn were rushed inside by Secret Service as dozens of shots were heard. The White House was briefly locked down before the all-clear was given. The FBI is involved in the investigation.\n\nThe shooting comes approximately four weeks after a separate alleged assassination attempt against Trump at the White House Correspondents' Dinner, and on the day his son Donald Trump Jr. was married in the Bahamas — a ceremony the president said he could not attend due to official duties. The suspect's identity and motive had not been publicly released as of Saturday evening.\n\nThe incident drew coverage from 17 news outlets across the political spectrum and is being treated by authorities as an isolated attack. No ongoing threat was identified following the exchange of gunfire.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/5893010-white-house-shots-reporters-rushed/",
+      "sourceCount": 17,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-23T21:08:10.968061-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Russia Launches Major Missile and Drone Strike on Kyiv",
+      "summary": "Kyiv came under a large-scale Russian ballistic missile and drone assault early Sunday, Ukrainian authorities said, wounding at least five people. The attack followed warnings issued by President Volodymyr Zelenskyy and the U.S. embassy in Kyiv that a major Russian strike was imminent. Moscow had previously threatened retaliation for Ukrainian strikes on Russian-occupied eastern Ukraine.\n\nThe assault also included exchanges targeting energy infrastructure on both sides: Russia struck gas and oil assets in two Ukrainian regions, while Ukraine hit oil facilities at a key Russian Black Sea port. The dual targeting of energy supplies marks a significant escalation in the ongoing conflict's economic warfare dimension.\n\nThe strike comes amid stalled peace negotiations and ongoing U.S. diplomatic efforts. Russia has shown no sign of scaling back offensive operations, even as international pressure mounts for a ceasefire. Ukraine has continued cross-border and long-range strikes in an effort to raise the cost of the war for Moscow.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/ukraine-says-it-s-under-attack-from-major-russian-air-strikes",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-23T21:08:10.968061-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Rubio Meets Modi in India, Pushing U.S. Energy Sales Amid Strait of Hormuz Crisis",
+      "summary": "U.S. Secretary of State Marco Rubio met with Indian Prime Minister Narendra Modi in New Delhi on Saturday as part of a four-day visit to India. Rubio extended a White House invitation to Modi and discussed regional and global security, with energy supply emerging as the dominant issue. The visit comes as the ongoing Iran war has severely disrupted energy shipments through the Strait of Hormuz, through which roughly 20 percent of the world's oil and natural gas normally flows.\n\nIndia, which imports more than 80 percent of its energy needs and has historically sourced nearly half its crude oil through the strait, is under acute pressure to find alternative supplies. Rubio told Modi the United States would not allow Iran to hold the global energy market hostage and indicated Washington was eager to sell India as much energy as it would buy. Analysts noted the pitch would also help narrow the $58.2 billion U.S. goods trade deficit with India, a longstanding irritant for President Trump.\n\nThe visit is complicated by broader tensions in the bilateral relationship, including disputes over trade negotiations and conflicting accounts of who brokered the recent India-Pakistan ceasefire. Trump has repeatedly claimed credit for ending that conflict, while India has consistently rejected any suggestion of third-party mediation. Rubio is also scheduled to visit Jaipur and Agra during his trip.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-23T21:08:10.968061-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Venezuelan Opposition Leader Machado Announces Presidential Run, Plans Return from Exile",
+      "summary": "Venezuelan opposition leader and Nobel Peace Prize laureate María Corina Machado announced Saturday in Panama City that she intends to run for president again and plans to return to Venezuela before the end of 2026. Speaking alongside fellow opposition leaders, Machado said she and her allies remain committed to achieving a democratic transition through free and fair presidential elections open to all Venezuelans at home and abroad.\n\nMachado has been in exile since December, when she emerged from 11 months in hiding in Venezuela to travel to Norway to accept the Nobel Prize. Her announcement comes more than four months after the Trump administration sidelined her and shifted its engagement toward figures within Venezuela's ruling establishment, following the U.S. military's capture of then-President Nicolás Maduro. The Trump administration has since praised Maduro's successor, acting President Delcy Rodríguez, who has opened Venezuela's oil sector to U.S. investment.\n\nThe timing of any presidential election remains unclear. Venezuela's constitution requires an election within 30 days of a president becoming permanently unavailable, but the Trump administration has dampened talk of elections as it prioritizes the oil relationship with Rodríguez's government. Machado said organizing a credible democratic election would require seven to nine months of preparation, including neutral electoral authorities and the removal of bans on opposition candidates.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/venezuelan-opposition-leader-machado-says-she-will-run-again-for-presidency-and-return-from-exile-by-late-2026",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-23T21:08:10.968061-06:00"
+    },
+    {
       "category": "other",
       "headline": "Cannes Palme d'Or Goes to Romanian Director Cristian Mungiu's 'Fjord'",
       "summary": "Romanian director Cristian Mungiu won his second Palme d'Or at the Cannes Film Festival on Saturday for \"Fjord,\" a drama starring Sebastian Stan and Renate Reinsve about a Christian evangelical family that relocates from Romania to a Norwegian village, only to have their children removed by child services after disciplining them. Mungiu becomes only the tenth filmmaker in history to win the top prize twice, having previously taken the Palme d'Or in 2007 for \"4 Months, 3 Weeks and 2 Days.\"\n\nThe film, based on true events, centers on the clash between the family's religious values and Norwegian progressive child welfare norms. Mungiu described it as a story about \"left-wing fundamentalism\" and used his acceptance speech to call for greater practical application of tolerance and empathy.\n\nOther major awards included the Grand Prix for Russian exile director Andrey Zvyagintsev's war drama \"Minotaur,\" set against Russia's invasion of Ukraine. Zvyagintsev addressed Putin directly from the stage, saying \"put an end to the carnage, the whole world is waiting for it.\" Rwandan filmmaker Marie-Clementine Dusabejambo won the Camera d'Or for her genocide drama \"Ben'Imana.\"\n\nThe Cannes Film Festival is one of the world's most prestigious cultural events, and the Palme d'Or is widely considered the most coveted prize in international cinema.",
