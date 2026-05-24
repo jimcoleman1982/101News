@@ -3,6 +3,58 @@
   "dateFormatted": "Sunday, May 24, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "China Launches Shenzhou 23 Mission With First Hong Kong Astronaut, One Crew Member to Spend Year in Space",
+      "summary": "China launched the Shenzhou 23 spacecraft Sunday night from the Jiuquan Satellite Launch Center in northwestern China, sending three astronauts to its Tiangong space station. The crew includes commander Zhu Yangzhu, Zhang Zhiyuan, and Lai Ka-ying — the first astronaut from Hong Kong to fly on a space mission. Lai holds a doctoral degree in computer forensics and was born and raised in Hong Kong.\n\nOne of the three astronauts is scheduled to remain aboard Tiangong for a full year, which would rank among the world's longest single stays in space. Chinese state media said the extended mission is designed to explore human adaptability and performance limits in long-duration spaceflight environments. The crew will also conduct dozens of science and application projects.\n\nThe mission comes as China accelerates its broader space ambitions, including a goal of landing astronauts on the Moon by 2030. China's Tiangong station first hosted a crew in 2021 after the country was effectively excluded from the International Space Station over U.S. national security concerns. The United States, through NASA, is separately targeting a crewed lunar surface landing by 2028, setting up an intensifying space race between the two nations.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/china-launches-latest-shenzhou-mission-with-1-of-3-astronauts-preparing-for-a-yearlong-stay",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:27 PM MT",
+      "addedAtISO": "2026-05-24T13:27:32.619187-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "Caitlin Clark Serves as Grand Marshal of 110th Indianapolis 500",
+      "summary": "WNBA star Caitlin Clark served as the grand marshal of the 110th running of the Indianapolis 500 on Sunday at Indianapolis Motor Speedway, giving the command for drivers to start their engines before one of the largest single-day sporting events in the world. Clark, an Indiana Fever guard, walked the celebrity red carpet and addressed the crowd in her home state of Indiana.\n\n\"I'm honored to represent Gainbridge as Grand Marshal of the Indy 500,\" Clark said in a statement. Indianapolis Motor Speedway president J. Douglas Boles said fans had been eager to share the Indy 500 experience with Clark since she was drafted by the Fever. Clark joins a list of past grand marshals that includes Derek Jeter, Alex Rodriguez, and Blake Shelton.\n\nClark returned to the Fever lineup earlier in the week after missing a game with an injury, recording 22 points and nine assists in a 90-82 win over the Golden State Valkyries. Her appearance at the Indy 500 drew significant crowd attention and reflects her status as one of the most popular athletes in American sports.",
+      "source": "Fox News Latest",
+      "url": "https://www.foxnews.com/sports/indy-500-fans-clamor-caitlin-clark-takes-center-stage-race",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "1:27 PM MT",
+      "addedAtISO": "2026-05-24T13:27:32.619187-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "Knicks on Verge of First NBA Finals in 27 Years as Playoff Ticket Prices Reach Record Highs",
+      "summary": "The New York Knicks stand one win away from their first NBA Finals appearance since 1999 after taking a 3-0 series lead over the Cleveland Cavaliers. The prospect of a Finals return to Madison Square Garden has sent ticket prices to extraordinary levels on the secondary market, with a pair of potential Game 3 courtside seats already selling on StubHub for $279,804.\n\nThe cheapest available single ticket to a potential Finals home game at MSG was listed at $3,265 as of Sunday, according to Tick Pick, while seats near the court were listed as high as $192,000 on SeatGeek. By comparison, the highest secondary-market price for a potential Finals Game 1 at either Oklahoma City or San Antonio sits between $12,000 and $29,000 — a fraction of New York pricing.\n\nThe Knicks last reached the Finals in 1999, losing to the San Antonio Spurs. A championship drought of 53 years has fueled intense fan demand. The Western Conference Finals between the Thunder and Spurs will determine New York's potential opponent.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/05/24/sports/pair-of-knicks-nba-finals-tickets-already-sold-for-279k/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "1:27 PM MT",
+      "addedAtISO": "2026-05-24T13:27:32.619187-06:00"
+    },
+    {
+      "category": "technology",
+      "headline": "AI Chatbots Remain Vulnerable to Misinformation Exploits as BBC Investigation Prompts Industry Response",
+      "summary": "A BBC investigation found a straightforward method by which AI chatbots can be prompted to generate and spread misinformation, drawing responses from Google and other major AI companies who said they were working to address the problem. The investigation highlighted ongoing vulnerabilities in large language models that persist despite years of safety research and corporate assurances.\n\nThe finding comes amid broader scrutiny of AI reliability and safety. Separately, Nvidia reported strong quarterly results but saw its shares fall in after-hours trading as investors questioned whether the chip giant can sustain its pace of growth against increasing competition — a signal of potential turbulence in the AI hardware sector that has driven much of the recent technology market rally.\n\nThe convergence of safety concerns and market uncertainty reflects mounting pressure on the AI industry to demonstrate both technical reliability and sustainable economics. Critics argue that AI companies have moved faster to deploy products than to solve fundamental safety problems, while proponents say the technology's benefits justify rapid development.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/topics/ce1qrvleleqt",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "1:27 PM MT",
+      "addedAtISO": "2026-05-24T13:27:32.619187-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: Iran Moves World Cup Base Camp to Mexico After U.S. Security Concerns",
       "summary": "The president of Iran's Football Federation announced Saturday that the national team's World Cup base camp has been relocated from Tucson, Arizona, to Tijuana, Mexico, following FIFA approval. Federation president Mehdi Taj said the move resolves potential visa complications, as the team will now enter the United States from Mexico for its group-stage matches. FIFA had not independently confirmed the change as of Saturday.\n\nIran is scheduled to play all three of its Group G matches on U.S. soil — against New Zealand on June 15 in Inglewood, California, Belgium on June 21, and Egypt on June 26 in Seattle. The federation said Tijuana's proximity to the Los Angeles area makes it a practical alternative, and noted the team may even travel using Iran Air flights. Officials at Tucson's Kino Sports Complex declined to comment.\n\nThe move reflects broader tensions between Iran and the United States stemming from the ongoing conflict in the Middle East, including the Strait of Hormuz crisis. The federation had previously signaled that World Cup participation on U.S. soil was in doubt due to security concerns and uncertainty over visas. The 2026 World Cup runs from June 11 to July 19 and is co-hosted by the U.S., Canada, and Mexico.\n\nIran is appearing in its fourth consecutive World Cup and seventh overall, but has never advanced past the group stage. The base camp decision is the latest diplomatic and logistical complication surrounding the tournament, which has already drawn scrutiny over the participation of nations in conflict or under U.S. sanctions.",
