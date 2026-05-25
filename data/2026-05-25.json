@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-25",
+  "dateFormatted": "Monday, May 25, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Iran and U.S. Near Deal as Ceasefire and Strait of Hormuz Reopening Discussed",
+      "summary": "Negotiations between the United States and Iran have reached a critical juncture, with U.S. Secretary of State Marco Rubio saying a deal could be announced as early as Monday. The framework under discussion would involve a 60-day ceasefire extension and the reopening of the Strait of Hormuz, which has been effectively blockaded since the U.S. and Israel attacked Iran on February 28.\n\nIran's foreign minister signaled progress on talks but stated that the question of nuclear weapons is not part of any initial framework. Chinese President Xi Jinping separately thanked Pakistani Prime Minister Shehbaz Sharif for his mediation role in the conflict, underscoring the global stakes of a war that has roiled energy markets and disrupted global shipping.\n\nPresident Trump had previously held off on a planned military escalation, citing ongoing serious negotiations. Energy markets and global supply chains have experienced significant disruption since the conflict began, with fuel prices rising sharply in multiple countries due to the Strait blockade.\n\nRepublican hawks in Congress have pushed back against any deal perceived as insufficiently tough on Iran's nuclear program, while diplomatic voices argue that a ceasefire framework — even without a nuclear component — is an essential first step toward de-escalation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-25T05:08:22.981778-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: California Declares Emergency Over Toxic Chemical Leak at Orange County Facility",
+      "summary": "California Governor Gavin Newsom declared a state of emergency Sunday as firefighters and hazardous materials teams worked to contain a potential rupture of a tank holding roughly 7,000 gallons of methyl methacrylate — a highly volatile and flammable chemical used in plastics manufacturing — at a facility in Garden Grove, Orange County.\n\nInvestigators discovered a potential crack in the tank, which has been heating internally at a rate of about one degree Fahrenheit per hour. Orange County Fire Authority officials said they were preparing for two scenarios: a chemical spill or a full explosion. Emergency crews have been spraying the tank with water to stabilize its temperature, while earthen dykes and dams are being constructed to contain any spill before it reaches storm drains or the ocean.\n\nThousands of residents near the facility have been placed under evacuation orders, local schools have closed, and several major road exits have been shut. The facility is located approximately 35 miles southeast of Los Angeles and five miles from Disneyland, which remains open and outside the evacuation zone.\n\nOrange County health officials warned residents to alert authorities if they detect a \"fruity and heavy smell\" from the chemical, noting that exposure can cause respiratory harm. The cause of the tank failure remains under investigation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-25T05:08:22.981778-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Pope Leo XIV Issues First Encyclical Calling for Robust AI Regulation",
+      "summary": "Pope Leo XIV issued his first encyclical Monday, titled \"Magnifica Humanitas\" (Magnificent Humanity), calling for binding legal frameworks to govern artificial intelligence and urging developers to prioritize the common good over profit. The document had been widely anticipated since Leo — the first U.S.-born pope — declared shortly after his election that he considered AI the greatest challenge facing humanity.\n\nIn the encyclical, Leo condemned the \"culture of power\" driving the global AI race and declared it \"not permissible\" to delegate irreversible, lethal decisions to AI systems — a stance that puts him in direct tension with the Trump administration, which has aggressively pursued AI deregulation. The Vatican invited Anthropic co-founder Christopher Olah to the launch event; Anthropic is currently in a legal dispute with the Trump administration over access to its technology.\n\nLeo warned that concentrating AI data and power in a small number of private hands poses dangers particularly to children and vulnerable populations. He called for external regulatory oversight rather than industry self-policing, writing: \"A more moral AI is not enough if that morality is determined by a few.\"\n\nExperts in technology, academia and Catholic ethics said the document is likely to become a significant reference point for policymakers globally. The encyclical arrives as near-daily advances in AI fuel concerns about job displacement, autonomous weapons, and the erosion of human cognitive primacy.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/05/25/world-news/pope-leo-xiv-calls-for-robust-regulation-of-ai-in-manifesto-that-ponders-the-future-of-humanity/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-25T05:08:22.981778-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "RAF Jet Carrying UK Defence Secretary Had GPS Jammed Near Russian Border",
+      "summary": "An RAF aircraft transporting British Defence Secretary John Healey had its GPS signal jammed as it flew near the Russian border on Thursday, forcing pilots to switch to an alternative navigation system for the duration of the three-hour flight. Russia is believed to be responsible for the interference, according to reporting first published by The Times.\n\nHealey was returning to the United Kingdom after visiting British troops stationed in Estonia as part of a NATO military exercise near the Russian border. It is not known whether the jamming was a deliberate targeting of his aircraft or a broader electronic warfare action, though the flight's path was publicly visible on aircraft tracking websites.\n\nThe incident follows a separate episode last month in which two Russian warplanes, including a Su-27, made six passes in front of an RAF Rivet Joint surveillance aircraft over the Black Sea, getting as close as six metres from the nose. The Ministry of Defence described those flybys as the most dangerous Russian action against British aircraft since 2022.\n\nA nearly identical GPS jamming incident occurred in 2024 when then-Defence Secretary Grant Shapps was aboard an RAF aircraft near Russian territory, suggesting a pattern of Russian electronic harassment of senior UK officials traveling in the region.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyp0jrxv7ro?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-25T05:08:22.981778-06:00"
+    }
+  ]
+}
