@@ -3,6 +3,32 @@
   "dateFormatted": "Monday, May 25, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "Update: Uganda Reports Two New Ebola Cases, Bringing Total to Seven as Outbreak Spreads Beyond Congo",
+      "summary": "Ugandan health authorities on Monday confirmed two additional Ebola infections, raising the country's case count to seven. The new patients are health workers at a private hospital in Kampala who were exposed to a Congolese man who died of Ebola on May 14 before his illness was identified. All Ugandan cases trace back to the ongoing outbreak in neighboring Democratic Republic of Congo.\n\nPresident Yoweri Museveni has ordered Ugandans to stop shaking hands and postponed a major annual Catholic pilgrimage that draws thousands of worshippers from Congo and elsewhere. Ugandan authorities have also temporarily suspended public transportation and flights between the two countries. The DRC outbreak, centered in eastern Ituri province, has now surpassed 900 suspected cases.\n\nThe outbreak involves the Bundibugyo strain of Ebola, for which no approved vaccine or treatment exists. Aid organizations warn they lack critical protective equipment including face shields, protective suits, testing kits, and body bags. International aid cuts by the United States and other wealthy nations in 2025 have significantly weakened the response infrastructure in the region.\n\nThe World Health Organization has designated the outbreak a global health emergency. Complicating containment efforts in Congo are attacks on treatment centers, deep distrust of authorities in a conflict-affected region, and logistical obstacles that have hampered the delivery of supplies to frontline health workers.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/ugandan-health-officials-report-new-ebola-virus-infections-bringing-cases-to-7",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:26 AM MT",
+      "addedAtISO": "2026-05-25T10:26:42.185904-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Putin Signs Law Authorizing Military Deployment Abroad to Protect Detained Russian Citizens",
+      "summary": "Russian President Vladimir Putin on Monday signed legislation granting him authority to deploy Russian military forces to foreign countries to assist Russian citizens who have been detained or face prosecution abroad. The law significantly expands the legal basis for Russian military action outside its borders under the stated justification of protecting nationals.\n\nThe legislation comes amid heightened global tensions over the detention of Russian nationals in Western and allied countries, including several high-profile cases tied to sanctions enforcement and espionage charges. Critics and Western officials are likely to view the law as a potential pretext for coercive or destabilizing operations in third countries under a humanitarian cover.\n\nRussia has increasingly used the protection of its nationals abroad as a political and legal justification for assertive foreign policy moves, a pattern that has drawn repeated condemnation from NATO members and human rights organizations. The new law places that doctrine on a formal statutory footing, granting the executive branch expanded discretion to authorize military action without additional legislative approval.\n\nThe Kremlin has not specified which countries or cases might trigger deployment under the new law. Analysts note that the breadth of the legislation, combined with Russia's ongoing military operations in Ukraine and its assertive posture in the former Soviet space, raises concern about its potential application in the Baltic states, Central Asia, or elsewhere where Russian-speaking minorities reside.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-25/putin-signs-law-on-use-of-army-to-aid-russians-detained-abroad",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:26 AM MT",
+      "addedAtISO": "2026-05-25T10:26:42.185904-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: Xi Thanks Pakistan for Mediating U.S.-Iran Talks as Diplomacy Intensifies",
       "summary": "Chinese President Xi Jinping thanked Pakistani Prime Minister Shehbaz Sharif on Monday for Islamabad's role in mediating negotiations between the United States and Iran, underscoring Beijing's active interest in ending a conflict that threatens global energy markets and China's economic stability. The meeting highlights Pakistan's emergence as a key diplomatic go-between in the war, with Sharif describing China and Pakistan as \"iron brother\" countries.\n\nThe development comes as the U.S. and Iran are reported to be nearing a deal that would include a ceasefire and the reopening of the Strait of Hormuz, a critical chokepoint for global oil shipments. China, as the world's second-largest economy and a major importer of Middle Eastern energy, has strong economic incentives to see the conflict resolved quickly.\n\nPakistan's mediation role elevates its regional standing and reflects the complex diplomatic web surrounding the Iran conflict, with multiple non-Western powers pushing for a negotiated settlement. The acknowledgment from Xi signals that Beijing views Islamabad's shuttle diplomacy as substantive rather than merely symbolic.",
