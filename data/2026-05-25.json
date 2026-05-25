@@ -3,6 +3,58 @@
   "dateFormatted": "Monday, May 25, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Saudi Arabia Scales Back Vision 2030 Megaprojects as Oil Revenue Uncertainty Bites",
+      "summary": "Saudi Crown Prince Mohammed bin Salman's sweeping Vision 2030 modernization program is being significantly curtailed, with several flagship projects under the $500 billion Neom umbrella now downsized, suspended, or abandoned entirely. The Line — a planned 100-mile-long mirror-clad linear city meant to house millions — is being reduced to a far more modest footprint. The mountain resort of Trojena has been scaled back and will no longer host the 2029 Asian Winter Games, which have been relocated to Kazakhstan. The Cube, a massive mixed-use structure described as large enough to contain the Empire State Building 20 times over, has been scrapped entirely.\n\nThe retrenchment reflects a combination of financial pressures and unrealized expectations. A prolonged fall in oil prices preceding the current Middle East conflict dented Saudi Arabia's sovereign wealth fund revenues, while the foreign investment the kingdom had counted on to fund these projects never materialized at the scale anticipated. The ongoing regional war has since pushed oil prices higher but introduced new uncertainty into Saudi fiscal planning.\n\nAnalysts describe the moment as a recalibration rather than a wholesale retreat from Vision 2030's ambitions, but the symbolic weight of shelving its most futuristic concepts is considerable. The program was conceived as MBS's defining legacy — a transformation of Saudi Arabia from an oil-dependent economy into a global hub for technology, tourism, and entertainment. Many of the original proposals existed primarily as elaborate digital renderings and promotional campaigns that attracted both admiration and skepticism.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21g0828reo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:54 PM MT",
+      "addedAtISO": "2026-05-25T13:54:23.580694-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Venezuela Prison Erupts in Violence as Inmates Protest Alleged Mistreatment",
+      "summary": "Violent clashes broke out at the Injuba prison in Venezuela's Barinas state after inmates climbed the facility's roof and set fire to mattresses in protest over alleged mistreatment under a newly appointed director. Witnesses reported hearing explosions, and inmates in circulating videos alleged they were shot at by security forces. Prisoners said they had been subjected to violent searches, solitary confinement, and denial of medical care, including for tuberculosis patients.\n\nThe Venezuelan Prison Observatory (OVP), a non-governmental organization that monitors conditions in the country's penitentiary system, said inmates had been lodging complaints for more than a week before the situation escalated. Neither the prison director nor the government of interim President Delcy Rodríguez had publicly responded as of the time of reporting. Venezuela's Committee for the Freedom of Political Prisoners expressed solidarity with the Injuba inmates, alleging that torture and inhumane conditions form part of systematic prison policy.\n\nThe incident comes amid a broader human rights backdrop following the U.S. military operation in January that removed Nicolás Maduro from power. While U.S. pressure has led to the release of hundreds of political prisoners, the UN's High Commissioner for Human Rights reported in March that torture of detainees had continued after Maduro's ouster. More than 400 political prisoners remain incarcerated, according to the advocacy group Foro Penal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0l22wrx44po",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:54 PM MT",
+      "addedAtISO": "2026-05-25T13:54:23.580694-06:00"
+    },
+    {
+      "category": "business",
+      "headline": "Indian Companies on Overseas Buying Spree as Domestic Growth Disappoints",
+      "summary": "Indian corporations are accelerating acquisitions of foreign companies at a record pace, driven by slowing domestic growth, weakening foreign investment inflows, and better opportunities abroad. In late April, Sun Pharmaceuticals agreed to pay $11.75 billion to acquire U.S.-listed Organon & Co., the largest overseas deal by an Indian company in nearly two decades. Other recent transactions include Tata Motors' $4.4 billion acquisition of Italian vehicle maker Iveco and IT firm Coforge's $2.35 billion purchase of Silicon Valley AI company Encora.\n\nData from Grant Thornton shows Indian companies spent more than $18 billion on outbound acquisitions in 2025 — a 34 percent increase from the prior year — and analysts project deal value in just the first half of 2026 could surpass $15 billion. Experts say the motivations differ from India's previous acquisition boom in the early 2000s: companies are now pursuing Western assets for strategic diversification and operational capability rather than prestige, as the domestic business environment has grown less attractive despite government incentives.\n\nThe trend poses a quiet challenge for the Indian government, which has repeatedly urged private sector firms to invest more at home. Analysts note that private capital formation has remained stubbornly weak even as corporate profits surged after the pandemic. The outflow signals growing corporate disaffection with domestic conditions, including difficulties accessing capital and acquiring industrial land compared to markets in the United States and Europe.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy21x20q23o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:54 PM MT",
+      "addedAtISO": "2026-05-25T13:54:23.580694-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Morocco Promotes Tourism in Western Sahara, Drawing International Legal Concerns",
+      "summary": "Morocco is aggressively marketing Western Sahara as a tourist destination, with visitor numbers to the territory rising more than 50 percent over the past seven years to 743,133 in 2025. European budget airlines including Ryanair and Transavia France now offer direct flights from Madrid and Paris to Dakhla, a coastal city in the territory, listing the destination as part of Morocco. The Moroccan government has invested heavily in tourism infrastructure in the region as part of a broader strategy to consolidate its administrative control over an area the United Nations classifies as a non-self-governing territory.\n\nMorocco claims Western Sahara as its \"southern provinces\" and controls roughly 80 percent of the territory, but the indigenous Sahrawi population has never been permitted to vote on self-determination in a referendum consistently called for by the UN. Rights groups and legal experts told the BBC that marketing and branding Western Sahara as Moroccan territory raises serious concerns under international law and risks legitimizing the occupation in the eyes of tourists and airlines alike. The Moroccan government did not respond to requests for comment.\n\nThe situation highlights tensions between commercial tourism promotion and disputed territorial sovereignty. At least one airline, Binter Canarias — the flag carrier of Spain's Canary Islands — buckets the industry trend by explicitly labeling Dakhla as being in Western Sahara rather than Morocco. The dispute, now more than 50 years old, has no imminent resolution in sight, while infrastructure investment and growing air connectivity continue to deepen Morocco's de facto integration of the territory.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgldqk4w95o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:54 PM MT",
+      "addedAtISO": "2026-05-25T13:54:23.580694-06:00"
+    },
+    {
       "category": "science_health",
       "headline": "Update: Uganda Reports Two New Ebola Cases, Bringing Total to Seven as Outbreak Spreads Beyond Congo",
       "summary": "Ugandan health authorities on Monday confirmed two additional Ebola infections, raising the country's case count to seven. The new patients are health workers at a private hospital in Kampala who were exposed to a Congolese man who died of Ebola on May 14 before his illness was identified. All Ugandan cases trace back to the ongoing outbreak in neighboring Democratic Republic of Congo.\n\nPresident Yoweri Museveni has ordered Ugandans to stop shaking hands and postponed a major annual Catholic pilgrimage that draws thousands of worshippers from Congo and elsewhere. Ugandan authorities have also temporarily suspended public transportation and flights between the two countries. The DRC outbreak, centered in eastern Ituri province, has now surpassed 900 suspected cases.\n\nThe outbreak involves the Bundibugyo strain of Ebola, for which no approved vaccine or treatment exists. Aid organizations warn they lack critical protective equipment including face shields, protective suits, testing kits, and body bags. International aid cuts by the United States and other wealthy nations in 2025 have significantly weakened the response infrastructure in the region.\n\nThe World Health Organization has designated the outbreak a global health emergency. Complicating containment efforts in Congo are attacks on treatment centers, deep distrust of authorities in a conflict-affected region, and logistical obstacles that have hampered the delivery of supplies to frontline health workers.",
