@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Xi Thanks Pakistan for Mediating U.S.-Iran Talks as Diplomacy Intensifies",
+      "summary": "Chinese President Xi Jinping thanked Pakistani Prime Minister Shehbaz Sharif on Monday for Islamabad's role in mediating negotiations between the United States and Iran, underscoring Beijing's active interest in ending a conflict that threatens global energy markets and China's economic stability. The meeting highlights Pakistan's emergence as a key diplomatic go-between in the war, with Sharif describing China and Pakistan as \"iron brother\" countries.\n\nThe development comes as the U.S. and Iran are reported to be nearing a deal that would include a ceasefire and the reopening of the Strait of Hormuz, a critical chokepoint for global oil shipments. China, as the world's second-largest economy and a major importer of Middle Eastern energy, has strong economic incentives to see the conflict resolved quickly.\n\nPakistan's mediation role elevates its regional standing and reflects the complex diplomatic web surrounding the Iran conflict, with multiple non-Western powers pushing for a negotiated settlement. The acknowledgment from Xi signals that Beijing views Islamabad's shuttle diplomacy as substantive rather than merely symbolic.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-25/xi-thanks-pakistan-s-sharif-for-mediating-in-iran-conflict",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-25T08:08:19.077639-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Senegal Political Crisis Deepens as Parliament Speaker Resigns",
+      "summary": "Senegal's political turmoil escalated Sunday when Parliament Speaker El Malick Ndiaye resigned days after President Bassirou Diomaye Faye sacked Prime Minister Ousmane Sonko and dissolved the government. Ndiaye cited \"integrity\" and national interest in his resignation statement, and lawmakers have now been called to meet Tuesday to potentially install Sonko as the new parliament speaker — a move that would dramatically constrain presidential power.\n\nSonko, the firebrand leader of the ruling Pastef party, had renounced his legislative seat to serve as prime minister but is now positioned to return to parliament, where his party holds an absolute majority. Analysts warn that if Sonko secures the speakership, President Faye would face significant obstacles in passing legislation or appointing a new prime minister acceptable to the legislature.\n\nThe deepening rift between the two former allies raises serious questions about governance in one of West Africa's historically more stable democracies. Senegal faces mounting debt challenges, and political paralysis could complicate economic reform efforts at a critical moment.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c87qq07l1d8o",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-25T08:08:19.077639-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "Inaugural Enhanced Games Open in Las Vegas with Steroids Permitted, $25 Million in Prize Money",
+      "summary": "The inaugural Enhanced Games opened Sunday in Las Vegas, billed as an Olympics-style competition where athletes are permitted — and encouraged — to use performance-enhancing drugs that are legal and FDA-approved, including testosterone and human growth hormone. Dozens of elite athletes compete across track, swimming, and weightlifting events for $25 million in prize money, with a $1 million bonus for breaking world records in select events. Prominent investors including billionaire Peter Thiel and Donald Trump Jr. have backed the venture.\n\nOrganizers argue the competition brings transparency to what they describe as widespread covert doping in mainstream athletics, allowing athletes to compete openly without fear of sanction. Critics, including the CEO of the U.S. Anti-Doping Agency, counter that the event endangers athletes and sends a damaging message to young people by normalizing drug use as a prerequisite for elite competition.\n\nHealth experts have raised concerns about the cardiovascular and neurological risks of anabolic steroids and growth hormones. The event represents a direct philosophical challenge to the Olympic movement's anti-doping framework and is being closely watched as a test of whether a commercially viable alternative sports model built around enhanced performance can attract mainstream audiences.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cedpz1zqp8po",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-25T08:08:19.077639-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "19 Hospitalized After Capsaicin Spray Incident at Tokyo's Ginza 6 Mall",
+      "summary": "At least 19 people were taken to hospital Monday after a man sprayed an irritant substance near an ATM on the ground floor of the upscale Ginza 6 shopping centre in central Tokyo, police said. Authorities identified the substance as likely containing capsaicin, the compound found in chili peppers, which caused throat pain, irritation, and numbness among those nearby.\n\nA large emergency response was deployed to the scene, including police, firefighters, and ambulance crews in hazmat suits who helped evacuate affected shoppers. The road in front of the centre was blocked and cordons were established while emergency workers canvassed the building. The suspect remained at large as of Monday.\n\nThe incident drew significant attention given the location — one of Tokyo's most prominent luxury retail destinations — and the scale of the emergency response. Japanese broadcaster NHK reported that the suspect had not been apprehended, and police continued their search.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cevpp983kmzo",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-05-25T08:08:19.077639-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: Iran and U.S. Near Deal as Ceasefire and Strait of Hormuz Reopening Discussed",
       "summary": "Negotiations between the United States and Iran have reached a critical juncture, with U.S. Secretary of State Marco Rubio saying a deal could be announced as early as Monday. The framework under discussion would involve a 60-day ceasefire extension and the reopening of the Strait of Hormuz, which has been effectively blockaded since the U.S. and Israel attacked Iran on February 28.\n\nIran's foreign minister signaled progress on talks but stated that the question of nuclear weapons is not part of any initial framework. Chinese President Xi Jinping separately thanked Pakistani Prime Minister Shehbaz Sharif for his mediation role in the conflict, underscoring the global stakes of a war that has roiled energy markets and disrupted global shipping.\n\nPresident Trump had previously held off on a planned military escalation, citing ongoing serious negotiations. Energy markets and global supply chains have experienced significant disruption since the conflict began, with fuel prices rising sharply in multiple countries due to the Strait blockade.\n\nRepublican hawks in Congress have pushed back against any deal perceived as insufficiently tough on Iran's nuclear program, while diplomatic voices argue that a ceasefire framework — even without a nuclear component — is an essential first step toward de-escalation.",
       "source": "BBC News",
