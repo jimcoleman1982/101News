@@ -4,6 +4,45 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Explosions Reported Near Iranian Port City of Bandar Abbas as U.S.-Iran Peace Talks Continue in Qatar",
+      "summary": "Three explosions were heard near Bandar Abbas, a strategically vital Iranian port city along the Strait of Hormuz and home to a key naval and air base, early Tuesday local time, according to Iran's Islamic Revolutionary Guard Corps. Iran's air defense system was activated to counter what it described as hostile targets, and Iranian state media reported the sounds of multiple consecutive blasts near the city's airport. Iran's armed forces separately said they had destroyed a hostile drone in the Persian Gulf area.\n\nThe explosions occurred as Iranian officials remained in Qatar for what a diplomatic source described to CNN as 'intense talks' aimed at reaching a peace agreement with the United States to end the ongoing war. The two sides have been working toward a memorandum of understanding, but disputes over language concerning Iran's nuclear program and the lifting of sanctions have delayed finalization. President Trump said negotiations are 'proceeding nicely,' while newly appointed Iranian National Security Council chief Mohammad Bagher Zolghadr vowed publicly that 'there will be no retreat' in Iran's fight.\n\nTrump separately escalated demands Monday, saying he is 'mandatorily requesting' that Saudi Arabia, Qatar, Turkey and other Gulf states join the Abraham Accords as a condition of any broader Iran deal. Republican hawks including Sen. Ted Cruz have criticized the emerging agreement as insufficiently tough, while Israeli opposition leader Yair Lapid called it 'a disaster.' The White House has pushed back, with Trump's inner circle defending the diplomatic approach.\n\nIsrael is also reported to be preparing to expand its operations in Lebanon in the near future, with an Israeli source telling CNN the moves are being coordinated with the United States. The combination of fresh military activity near Bandar Abbas, the ongoing Qatar talks, and Israeli military preparations makes this one of the most fluid and consequential developing situations in the region.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/05/25/world/live-news/iran-war-us-peace-deal",
+      "sourceCount": 9,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "4:16 PM MT",
+      "addedAtISO": "2026-05-25T16:16:26.158847-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Record Heat Grips Europe and South Asia on Memorial Day Weekend, Prompting Government Warnings and Deaths",
+      "summary": "Blistering heat waves struck Europe and South Asia simultaneously on Monday, with Delhi recording temperatures of 45 degrees Celsius (113°F) as forecasters warned the Indian capital could approach the hottest May temperatures ever recorded there. In Europe, the United Kingdom recorded its highest temperature for the month of May — reaching 35°C (95°F) in some areas — shattering historical records as an unusually early and intense heat event spread across the continent.\n\nFrench authorities reported deaths linked to the heat at amateur sports events, prompting government warnings to avoid outdoor exertion. Tennis players at the French Open in Paris described the on-court conditions as the hottest they had experienced at Roland Garros, including hotter than during the 2024 Paris Olympics. Players and officials have raised concerns about the safety of scheduling matches during peak afternoon heat.\n\nThe simultaneous occurrence of extreme heat across widely separated regions — South Asia and Western Europe — in late May, weeks before typical summer peaks, has drawn attention from climate researchers who note that such events are increasingly consistent with long-term warming trends. Authorities in multiple countries urged citizens to stay hydrated, avoid direct sun exposure, and check on elderly and vulnerable neighbors.\n\nThe heat events are occurring as global climate discussions intensify, with researchers pointing to a pattern of earlier, more intense heat seasons across populous regions. South Asian countries including India have invested in heat action plans following deadly heat waves in prior years, but experts warn that urban infrastructure in many areas remains poorly adapted to extreme temperatures of this magnitude.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c4g002jvv8wo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:16 PM MT",
+      "addedAtISO": "2026-05-25T16:16:26.158847-06:00"
+    },
+    {
+      "category": "politics",
+      "headline": "New Jersey Governor Sherrill Denied Entry to ICE Detention Facility as Protesters Clash with Agents Outside",
+      "summary": "New Jersey Gov. Mikie Sherrill (D) was denied access Monday to the Delaney Hall ICE detention center in Newark, where a detainee hunger strike has entered its fourth day and anti-ICE protesters have gathered outside. Sherrill, accompanied by state lawmakers, said the refusal to allow her oversight visit raised 'serious questions about what they are' doing inside the facility and called on ICE to grant her entry.\n\nProtestors outside the facility alleged that immigration agents deployed pepper spray and batons against them as they attempted to prevent the transfer of Martin Soto, the detainee who initiated the hunger strike, to the Elizabeth Contract Detention Facility. ICE confirmed Soto was transferred but disputed the protesters' characterization of the confrontation. New Jersey Democratic members of Congress separately visited the facility and demanded ICE shut it down.\n\nThe standoff represents the latest flashpoint between New Jersey Democratic officials and the Trump administration over federal immigration enforcement. The Trump administration has maintained that its detention policies are lawful and that state officials have no right to inspect federal immigration facilities without authorization. The administration has framed such oversight attempts as political grandstanding that interferes with legitimate law enforcement operations.\n\nSupporters of the detainees argue that conditions inside Delaney Hall are inhumane and that the hunger strike reflects desperate circumstances. The episode is one of several high-profile confrontations between Democratic governors and the federal government over immigration enforcement since the Trump administration dramatically expanded detention and deportation operations earlier this year.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/5894189-new-jersey-detention-center-sherrill/",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:16 PM MT",
+      "addedAtISO": "2026-05-25T16:16:26.158847-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Saudi Arabia Scales Back Vision 2030 Megaprojects as Oil Revenue Uncertainty Bites",
       "summary": "Saudi Crown Prince Mohammed bin Salman's sweeping Vision 2030 modernization program is being significantly curtailed, with several flagship projects under the $500 billion Neom umbrella now downsized, suspended, or abandoned entirely. The Line — a planned 100-mile-long mirror-clad linear city meant to house millions — is being reduced to a far more modest footprint. The mountain resort of Trojena has been scaled back and will no longer host the 2029 Asian Winter Games, which have been relocated to Kazakhstan. The Cube, a massive mixed-use structure described as large enough to contain the Empire State Building 20 times over, has been scrapped entirely.\n\nThe retrenchment reflects a combination of financial pressures and unrealized expectations. A prolonged fall in oil prices preceding the current Middle East conflict dented Saudi Arabia's sovereign wealth fund revenues, while the foreign investment the kingdom had counted on to fund these projects never materialized at the scale anticipated. The ongoing regional war has since pushed oil prices higher but introduced new uncertainty into Saudi fiscal planning.\n\nAnalysts describe the moment as a recalibration rather than a wholesale retreat from Vision 2030's ambitions, but the symbolic weight of shelving its most futuristic concepts is considerable. The program was conceived as MBS's defining legacy — a transformation of Saudi Arabia from an oil-dependent economy into a global hub for technology, tourism, and entertainment. Many of the original proposals existed primarily as elaborate digital renderings and promotional campaigns that attracted both admiration and skepticism.",
       "source": "BBC News",
