@@ -4,6 +4,58 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Turkish Police Storm Opposition Party Headquarters, Fire Tear Gas at Supporters",
+      "summary": "Turkish riot police forced their way into the headquarters of the main opposition Republican People's Party (CHP) in Ankara on Sunday, firing tear gas and rubber bullets at party supporters and officials who had barricaded themselves inside for three days. The raid came after the party's elected leadership vowed to defy a court ruling that removed them from their posts and installed Kemal Kilicdaroglu as court-appointed chairman, at the request of rival Ozgur Ozel who sought government support to oust him.\n\nThe confrontation marks a significant escalation in a deepening political and constitutional crisis. Critics of President Recep Tayyip Erdogan's government accuse the courts of engineering a judicial takeover of Turkey's largest opposition party, effectively neutralizing the primary political check on the ruling AKP ahead of future elections. Supporters of the court ruling argue the action was a lawful resolution of an internal party dispute.\n\nThe crisis has drawn attention from European observers and democracy watchdogs, who have warned that the forced removal of an opposition leadership through judicial intervention sets a dangerous precedent. Turkey's government has defended the police operation as enforcement of a legal court order. The CHP has been the main opposition force in Turkish politics for decades and represents the primary electoral challenge to Erdogan's long-running rule.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/turkey-orders-police-evict-ousted-opposition-leadership-headquarters-2026-05-24/",
+      "sourceCount": 6,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-24T21:08:17.985248-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Syria Holds First Elections in Kurdish-Majority Northeast After Government Reintegration",
+      "summary": "Syria held parliamentary elections Sunday in the Kurdish-majority northeastern province of Hassakeh and the town of Kobani, completing the country's first post-Assad legislative process. The two regions had been excluded from elections held last October because they remained under the control of the Kurdish-led Syrian Democratic Forces at that time; a government offensive in January brought them back under Damascus's authority.\n\nThe vote fills the remaining 11 seats in Syria's new People's Assembly under interim President Ahmad al-Sharaa's Islamist-led government. The process is not fully democratic — most seats are chosen by district electoral colleges rather than direct popular vote, and al-Sharaa retains authority to directly appoint one-third of all legislators. Observers note the system resembles the controlled elections of the Assad era in some respects, though voters described the atmosphere as a meaningful step forward.\n\nThe elections carry symbolic importance as Syria attempts to stabilize after more than a decade of civil war that killed hundreds of thousands and displaced millions. Minority communities in the northeast, including Kurds, have expressed skepticism about life under Islamist governance. Residents who voted cited infrastructure, agriculture, and maintaining peace as top priorities, while some called for a more representative electoral process going forward.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/syria-holds-legislative-elections-in-kurdish-majority-northeast",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-24T21:08:17.985248-06:00"
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: Ebola Outbreak Poses 'Massive' Logistical Crisis as Aid Groups Struggle to Reach DR Congo",
+      "summary": "A senior Médecins Sans Frontières official warned Sunday that the ongoing Ebola outbreak in the Democratic Republic of Congo is creating an unprecedented logistical crisis, with aid organizations unable to move adequate resources into affected areas fast enough. Kate White, an MSF program manager flying out to the region, said she was 'extremely concerned about the inability to get resources' to the country, noting that airspace disruptions are compounding the difficulty of deploying healthcare workers and supplies.\n\nThe outbreak, caused by a rare Ebola species for which no approved vaccine exists, has resulted in more than 850 suspected cases and over 200 suspected deaths. The epicenter is located in a conflict-affected region, making access especially difficult. The World Health Organization has declared a public health emergency of international concern and recently warned the disease may be spreading faster than initially believed.\n\nWhite emphasized that the lack of comprehensive medical countermeasures — including vaccines, targeted treatments, and rapid diagnostic testing — after years of recurring outbreaks reflects a systemic failure in global health preparedness. The outbreak had previously prompted WHO to raise the risk level to 'very high,' and Uganda has reported new cases, raising concerns about cross-border spread. Experimental vaccines are in development but none are yet approved for this strain.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-24T21:08:17.985248-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Five Years On, Taliban's Girls' Education Ban Funnels Afghan Women Into Forced Marriage",
+      "summary": "Nearly five years after the Taliban banned girls over 12 from attending school in Afghanistan, a BBC investigation documents how the prohibition has effectively narrowed the futures of millions of young Afghan women to a single outcome: early marriage. With formal education, university enrollment, and most employment closed off, families that once supported their daughters' ambitions now push marriage as the only viable path, regardless of the girls' wishes.\n\nThe report profiles young women, including a 19-year-old identified only as Alia, who traveled hundreds of miles from her village to Kabul — risking Taliban checkpoints that prohibit women from traveling without a male guardian — to enroll in a private English language course, one of the only educational options remaining for girls. Such courses are available only to those who can afford them, making them inaccessible to the majority of the population, three-quarters of whom cannot meet basic needs according to the United Nations.\n\nAfghanistan under Taliban rule remains the only country in the world to formally ban girls' secondary education. International humanitarian organizations and foreign governments have repeatedly condemned the policy, while the Taliban has offered shifting justifications for maintaining it. The ban has drawn criticism across political lines internationally, and aid groups warn of a lost generation of Afghan women whose economic and social potential has been systematically eliminated.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-24T21:08:17.985248-06:00"
+    },
+    {
+      "category": "world",
       "headline": "Update: U.S. and Iran Near Deal to End War, Reopen Strait of Hormuz as Republican Hawks Revolt",
       "summary": "The United States and Iran are closing in on a framework agreement that would extend the ceasefire for 60 days, reopen the Strait of Hormuz to shipping, and initiate negotiations over Iran's nuclear program, according to senior U.S. officials. President Trump said Saturday that a deal had been \"largely negotiated,\" but reversed course Sunday, posting on Truth Social that \"time is on our side\" and instructing his negotiators \"not to rush into a deal.\" The White House indicated it does not expect a final agreement to be signed Sunday and that approval by Iran's leadership, including Supreme Leader Mojtaba Khamenei, could take several more days.\n\nA senior Trump administration official said Sunday that Iran has agreed in principle to dispose of its stockpile of highly enriched uranium, a significant new development. The proposed framework involves a 60-day truce during which the Strait of Hormuz would be reopened, Iran would be permitted to sell oil freely, and talks on limiting Iran's nuclear program would resume. Regional officials told the Associated Press that the deal's terms are close to finalized, though Iran's foreign ministry said the fate of the Strait remains under Iranian control and that nuclear weapons are not part of any initial framework.\n\nThe emerging agreement has triggered a rare and sharp backlash from Republican allies of the president. Senators Lindsey Graham, Ted Cruz, and Thom Tillis publicly criticized the deal, with Tillis warning Trump's decisions are \"killing our chances\" for Republicans to hold the Senate. Speaker Mike Johnson defended the administration's position, while Secretary of State Marco Rubio called GOP criticism \"absurd\" and said diplomacy remained the preferred path.\n\nIsraeli Prime Minister Benjamin Netanyahu said Sunday he supports Trump but insisted any final deal must address Iran's nuclear program comprehensively. The Iran conflict, which Trump launched with massive U.S.-Israeli strikes in late February, has sent global oil prices sharply higher and created severe economic pressure domestically. White House economic adviser Kevin Hassett said a successful deal could cause energy prices to plummet, potentially creating conditions for Federal Reserve interest rate cuts.",
       "source": "The Hill",
