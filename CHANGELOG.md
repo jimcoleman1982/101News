@@ -1,5 +1,24 @@
 # Changelog
 
+## v2026.5.26
+
+Slot catch-up logic so missed pulls can be recovered later in the same day.
+
+**What was happening:** On 2026-05-26 neither cron-job.org nor GitHub Actions schedule cron fired during the morning slot windows. cron-job.org missed the UTC 11:07 trigger (5 AM MDT) entirely. GitHub Actions schedule cron fired with significant delay (queue lag) — dumping its overnight fires at MDT 22:22, 23:09, 00:52, 01:58 yesterday/today, all in dead-of-night slot windows. The old strict slot logic correctly rejected all those misfires, but had no mechanism to recover the missed 5 AM slot when a later trigger eventually fired. The user noticed no stories had posted by ~7 AM MDT.
+
+**Changes:**
+
+- **Catch-up slot logic.** Replaced `has_pulled_in_current_slot()` with `determine_target_slot()` which returns one of:
+   - The CURRENT slot if we're in a window and that slot is unclaimed (normal path)
+   - The OLDEST unclaimed slot today whose start time has passed (catch-up path)
+   - None if all slots are claimed or no past slots exist yet
+  This way, a delayed trigger or manual trigger fired hours after a missed slot can still backfill that slot.
+- **Explicit `slot` field per story.** Each story now records which slot it claimed. Previously slot membership was inferred from `addedAtISO`, which broke when a catch-up pull happened outside the nominal slot window (e.g., catch-up at 11 AM for the 5 AM slot would falsely look like an 11 AM pull). The new `slot` field is authoritative; the timestamp-based derivation remains as backward compatibility for older stories.
+- **New helper `slots_claimed_today()`.** Returns the set of slot IDs already claimed today, prefering the explicit `slot` field and falling back to timestamp-derived slot.
+- **Test coverage.** 16 new tests covering current-slot path, catch-up path, dead-of-night with all-unclaimed, all-slots-claimed, midnight wrap-around, mixed explicit/derived slot tracking, and a real-data simulation against today's actual outage.
+
+**Operational note:** This makes scheduler outages recoverable but does not prevent them. cron-job.org and GitHub Actions schedule cron are both external services with occasional reliability issues. The catch-up logic ensures that as long as SOME trigger fires later in the day (manual, delayed cron, or a future trigger), missed slots will be filled in.
+
 ## v2026.5.1
 
 Slot-based pull distribution + lower caps (4 per pull, 24 per day) + ruthless importance prioritization.

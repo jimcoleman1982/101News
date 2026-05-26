@@ -347,21 +347,28 @@ def get_slot_for_hour(denver_hour):
     return None
 
 
-def has_pulled_in_current_slot(existing_data, current_dt):
-    """Return True if a story has already been added in the current slot today.
+# Each slot's start hour (the earliest Denver hour at which the slot's window
+# begins). Used by determine_target_slot to find catchup candidates.
+SLOT_START_HOUR = {5: 3, 8: 7, 11: 10, 14: 13, 18: 16, 21: 20}
 
-    Returns False if current_dt is outside any pull window (slot is None) --
-    in that case there is no slot to occupy, and the caller should be exiting
-    on the "outside any slot" check anyway.
+
+def slots_claimed_today(existing_data):
+    """Return the set of slot IDs that have already been claimed today.
+
+    A slot is claimed if any story in today's data has either:
+    1. An explicit `slot` field matching that ID (new in v2026.5.26), or
+    2. An addedAtISO/addedAt whose Denver hour maps to that slot (back-compat
+       for stories written before the slot field was added).
     """
+    claimed = set()
     if not existing_data:
-        return False
-
-    current_slot = get_slot_for_hour(current_dt.hour)
-    if current_slot is None:
-        return False  # caller should exit on slot=None separately
-
+        return claimed
     for story in existing_data.get("stories", []):
+        # Explicit slot field
+        if "slot" in story and story["slot"] in SCHEDULED_SLOT_HOURS:
+            claimed.add(story["slot"])
+            continue
+        # Back-compat: derive from addedAtISO
         iso = story.get("addedAtISO", "")
         if iso:
             try:
@@ -370,23 +377,54 @@ def has_pulled_in_current_slot(existing_data, current_dt):
                     dt = dt.replace(tzinfo=DENVER_TZ)
                 else:
                     dt = dt.astimezone(DENVER_TZ)
-                if get_slot_for_hour(dt.hour) == current_slot:
-                    return True
+                slot = get_slot_for_hour(dt.hour)
+                if slot is not None:
+                    claimed.add(slot)
                 continue
             except (ValueError, TypeError):
                 pass
-
-        # Fallback: parse addedAt like "5:08 AM MT" or "11:08 PM MT"
+        # Last fallback: parse addedAt like "5:08 AM MT"
         added = story.get("addedAt", "")
         m = re.match(r"(\d+):(\d+)\s*([AaPp])M", added)
         if m:
             h = int(m.group(1)) % 12
             if m.group(3).upper() == "P":
                 h += 12
-            if get_slot_for_hour(h) == current_slot:
-                return True
+            slot = get_slot_for_hour(h)
+            if slot is not None:
+                claimed.add(slot)
+    return claimed
 
-    return False
+
+def determine_target_slot(existing_data, current_dt):
+    """Decide which slot this pull should claim.
+
+    Two paths:
+    1. CURRENT-SLOT path: if current_dt is inside a slot window and that slot
+       is unclaimed today, claim it.
+    2. CATCH-UP path: otherwise (outside any slot OR current slot already
+       claimed), find the OLDEST unclaimed slot today whose window has already
+       started. Claim that. This recovers missed slots when a delayed cron or
+       a manual trigger fires later in the day.
+
+    Returns the slot ID to claim, or None if no slot is available (either all
+    slots claimed, or no past-slot windows have started yet today).
+    """
+    claimed = slots_claimed_today(existing_data)
+    current_slot = get_slot_for_hour(current_dt.hour)
+
+    # Path 1: current slot is real and unclaimed
+    if current_slot is not None and current_slot not in claimed:
+        return current_slot, "current"
+
+    # Path 2: catch-up. Find oldest unclaimed slot whose start has passed today.
+    for slot_id in SCHEDULED_SLOT_HOURS:  # already in chronological order
+        if slot_id in claimed:
+            continue
+        if current_dt.hour >= SLOT_START_HOUR[slot_id]:
+            return slot_id, "catchup"
+
+    return None, None
 
 
 def get_existing_headlines(existing_data):
@@ -1675,8 +1713,14 @@ def resolve_google_news_url(google_url):
         return google_url
 
 
-def write_output(existing_data, new_stories, date_str, date_formatted):
-    """Write/update the JSON data file. Prepends new stories to existing stories."""
+def write_output(existing_data, new_stories, date_str, date_formatted, target_slot=None):
+    """Write/update the JSON data file. Prepends new stories to existing stories.
+
+    target_slot, if provided, is recorded on each new story so that subsequent
+    runs can identify which slot has been claimed (independent of the wall-clock
+    time the pull happened -- important for catch-up pulls that fire after
+    their nominal slot window).
+    """
     if existing_data:
         output = existing_data
     else:
@@ -1690,7 +1734,7 @@ def write_output(existing_data, new_stories, date_str, date_formatted):
     output.pop("topNationalStory", None)
     output.pop("topInternationalStory", None)
 
-    # Add timestamps to new stories and prepend (newest first)
+    # Add timestamps + slot tag to new stories and prepend (newest first)
     now = datetime.datetime.now(DENVER_TZ)
     time_label = now.strftime("%-I:%M %p MT")
     iso_label = now.isoformat()
@@ -1699,6 +1743,8 @@ def write_output(existing_data, new_stories, date_str, date_formatted):
         for story in reversed(new_stories):
             story["addedAt"] = time_label
             story["addedAtISO"] = iso_label
+            if target_slot is not None:
+                story["slot"] = target_slot
             output["stories"].insert(0, story)
 
     # No hard cap -- fresh news always gets added
@@ -1783,26 +1829,28 @@ def main():
         sys.exit(0)
     print(f"  Pulls so far today: {pulls_today}/{MAX_PULLS_PER_DAY}")
 
-    # Short-circuit if this slot has already pulled. Without this, multiple
-    # cron triggers (GitHub schedule + cron-job.org + DST-bypass duplicates)
-    # would eat all 6 pulls in the early-morning slots, leaving nothing for
-    # the afternoon and evening slots. By limiting to one pull per ~3-hour
-    # slot, the day's stories are spread across all 6 scheduled time blocks.
+    # Determine which slot this pull should claim.
+    #
+    # Two paths:
+    # 1. CURRENT-SLOT: if we're inside a slot's window and that slot is unclaimed
+    #    today, claim it (normal-case behavior).
+    # 2. CATCH-UP: otherwise (outside any window OR current slot already claimed),
+    #    find the oldest unclaimed slot today whose window has already started
+    #    and claim it. This recovers missed slots when GitHub Actions cron runs
+    #    late or cron-job.org skips a fire.
+    #
+    # If neither path finds a slot, we exit without pulling.
     now_denver = datetime.datetime.now(DENVER_TZ)
+    target_slot = None
     if not args.date:  # only enforce slot cap for live runs, not backfill
-        current_slot = get_slot_for_hour(now_denver.hour)
-        if current_slot is None:
-            # Triggered outside any scheduled slot (e.g. dead-of-night run from
-            # a misconfigured cron). Refuse to pull -- this saves API budget
-            # and prevents midnight runs from claiming the 9 PM slot for the day.
-            print(f"\nTriggered outside any scheduled slot ({now_denver.strftime('%H:%M %Z')}). "
-                  f"Scheduled slots are 5/8/11 AM and 2/6/9 PM. Skipping this run.")
+        target_slot, slot_path = determine_target_slot(existing_data, now_denver)
+        if target_slot is None:
+            current = get_slot_for_hour(now_denver.hour)
+            claimed = sorted(slots_claimed_today(existing_data))
+            print(f"\nNo slot to claim ({now_denver.strftime('%H:%M %Z')}, current_slot={current}, "
+                  f"claimed_today={claimed}). Skipping this run.")
             sys.exit(0)
-        if has_pulled_in_current_slot(existing_data, now_denver):
-            print(f"\nCurrent slot (slot {current_slot}, {now_denver.strftime('%H:%M %Z')}) "
-                  f"has already pulled today. Skipping this run.")
-            sys.exit(0)
-        print(f"  Current slot: {current_slot} (Denver hour {now_denver.hour})")
+        print(f"  Target slot: {target_slot} ({slot_path} path), Denver hour {now_denver.hour}")
 
     # Verify API keys
     brave_key = os.environ.get("BRAVE_SEARCH_API_KEY")
@@ -1889,6 +1937,7 @@ def main():
     print("\n[Step 5] Writing JSON output...")
     filepath = write_output(
         existing_data, new_stories, target_date_str, target_formatted,
+        target_slot=target_slot,
     )
 
     print("\nDone!")

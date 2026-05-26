@@ -6,7 +6,7 @@ Every few hours from 5 AM to 9 PM Denver time, a GitHub Actions workflow gathers
 
 **Live site:** [101news.org](https://101news.org)
 
-**Current version:** v2026.5.1 — see [CHANGELOG.md](./CHANGELOG.md).
+**Current version:** v2026.5.26 — see [CHANGELOG.md](./CHANGELOG.md).
 
 ## How It Works
 
