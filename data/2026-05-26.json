@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-26",
+  "dateFormatted": "Tuesday, May 26, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Georgia and Pennsylvania Primaries Produce Key Senate and Governor Runoffs",
+      "summary": "Georgia held its 2026 primary elections Tuesday, with multiple major races heading to June runoffs. In the Republican gubernatorial primary, Lt. Gov. Burt Jones and billionaire health care executive Rick Jackson advanced to a June 16 runoff, while Secretary of State Brad Raffensperger was eliminated. On the Democratic side, former Atlanta Mayor Keisha Lance Bottoms won the gubernatorial nomination outright.\n\nIn the Republican U.S. Senate primary, Rep. Mike Collins and former University of Tennessee football coach Derek Dooley — backed heavily by Gov. Brian Kemp — advanced to a runoff, with Dooley edging out Rep. Buddy Carter for the second spot. In Pennsylvania, union leader Bob Brooks won the Democratic Senate primary with endorsements from Sen. Bernie Sanders and Gov. Josh Shapiro.\n\nThe Georgia results carry significant national implications heading into the 2026 midterms. Democrats view the governor's race as a potential pickup opportunity in a state President Biden narrowly carried in 2020, while Republicans are working to consolidate their Senate majority. The Kemp-backed Dooley's strong showing signals the governor's continued influence in state GOP politics despite tensions with Trump allies.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-georgia-primary.html",
+      "sourceCount": 26,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "6:56 AM MT",
+      "addedAtISO": "2026-05-26T06:56:56.128933-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: U.S. Launches New Strikes on Iran Near Bandar Abbas; Deal Still Possible, Rubio Says",
+      "summary": "U.S. Central Command announced Monday it conducted new strikes in southern Iran near Bandar Abbas, targeting Iranian missile sites and boats allegedly attempting to lay mines in the Strait of Hormuz. The strikes were characterized as defensive, designed to \"protect our troops from threats posed by Iranian forces\" while a ceasefire remains nominally in place. Iran's Islamic Revolutionary Guard Corps said it downed a U.S. drone and fired on a fighter jet and another drone that it claimed entered Iranian airspace.\n\nDespite the escalation, Secretary of State Marco Rubio said a diplomatic deal remains possible, describing ongoing talks over specific language in an initial agreement framework. The reported deal would involve a 60-day ceasefire extension, reopening of the Strait of Hormuz, and a framework for further nuclear negotiations — though Iran's foreign ministry said Monday that a signing is \"not imminent.\" Iran's new Supreme Leader Mojtaba Khamenei, reportedly sheltering in an undisclosed location after being wounded in an earlier Israeli strike, has been cited by U.S. intelligence as a complicating factor in the pace of talks.\n\nThe potential deal has fractured Republican unity, with Senators Ted Cruz, Roger Wicker, and Lindsey Graham publicly warning it would be too lenient on Iran. Trump dismissed his critics as \"losers,\" saying the deal would be \"great and meaningful\" or there would be no deal at all. Oil prices fell and Asian markets rose Monday on hopes of an agreement, underscoring the economic stakes tied to the Strait of Hormuz, through which approximately 20 percent of the world's oil and liquefied natural gas passes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "6:56 AM MT",
+      "addedAtISO": "2026-05-26T06:56:56.128933-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Update: Ebola Death Toll Reaches 220 as WHO Warns Outbreak Is Outpacing Response",
+      "summary": "The World Health Organization announced Monday that at least 220 people have died in the ongoing Ebola outbreak centered in the Democratic Republic of Congo, with suspected cases now surpassing 900. WHO director-general Tedros Adhanom Ghebreyesus warned that the outbreak is outpacing response efforts, a significant escalation from previous assessments. Health workers are operating screening checkpoints between villages in the eastern Ituri province, where the outbreak is believed to have originated.\n\nThe outbreak has already spread beyond Congo's borders, with Uganda reporting new confirmed cases in recent days. Aid organizations have described a massive logistical crisis in reaching affected communities in the remote eastern DRC. The WHO had previously raised the risk level to \"very high\" as Red Cross volunteers were reported among the dead.\n\nEbola carries a high fatality rate and spreads through direct contact with bodily fluids of infected individuals. An outbreak surpassing 900 suspected cases with deaths now at 220 represents a serious and accelerating public health emergency with potential regional implications across Central and East Africa.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-southern-california-chemical-tank-no-longer-a-threat-to-%e2%80%8bexplode",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:56 AM MT",
+      "addedAtISO": "2026-05-26T06:56:56.128933-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "Jazz Legend Sonny Rollins, 'Saxophone Colossus,' Dies at 95",
+      "summary": "Sonny Rollins, widely regarded as one of the greatest jazz musicians in history, died Monday at his home in Woodstock, New York, at the age of 95. His publicist described him as \"one of the most honored and influential figures in American music.\" The cause of death was not announced; respiratory illness had forced Rollins to retire from performing in 2014.\n\nBorn Walter Theodore Rollins in New York City in 1930, he began playing saxophone at age seven and rose to prominence in the late 1940s and 1950s, collaborating with Miles Davis, Charlie Parker, John Coltrane, Thelonious Monk, Art Blakey, and Bud Powell. His 1956 album Saxophone Colossus became one of the defining records in jazz history, and his 1962 album The Bridge was inspired by his legendary practice sessions on New York's Williamsburg Bridge. He won two Grammy Awards and received the National Medal of the Arts from President Barack Obama in 2010.\n\nRollins was celebrated for his improvisational mastery and prolific output of more than 60 albums as a bandleader across a career spanning more than six decades. He is survived by a legacy that shaped the course of modern jazz.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1e224dwz18o",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:56 AM MT",
+      "addedAtISO": "2026-05-26T06:56:56.128933-06:00"
+    }
+  ]
+}
