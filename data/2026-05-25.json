@@ -3,6 +3,58 @@
   "dateFormatted": "Monday, May 25, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump Honors Fallen Service Members at Arlington, Invokes Iran War Dead",
+      "summary": "President Donald Trump participated in Memorial Day ceremonies at Arlington National Cemetery on Monday, laying a wreath at the Tomb of the Unknown Soldier and delivering remarks to an audience of military veterans and Gold Star families. Trump described the approaching 250th anniversary of American independence as a \"historic milestone\" and said \"there could be no 4th of July without America's armed forces.\"\n\nTrump specifically honored the 13 U.S. service members killed during Operation Epic Fury, the U.S. military operation against Iran, calling them \"wonderful souls\" who gave their lives to ensure Iran would never obtain a nuclear weapon. \"Oh, and they won't. They will never have a nuclear weapon,\" Trump told the audience, linking the ongoing U.S.-Iran diplomatic talks in Qatar to the sacrifices of those killed in the conflict.\n\nThe ceremony follows a pattern of presidents using Memorial Day at Arlington to connect current foreign policy with the sacrifices of the military. Trump's invocation of the Iran war dead comes as U.S. and Iranian negotiators are reportedly nearing a deal that could include a ceasefire and reopening of the Strait of Hormuz, giving his remarks particular geopolitical weight on a day of national remembrance.",
+      "source": "PBS News",
+      "url": "https://www.pbs.org/newshour/nation/watch-live-trump-participates-in-memorial-day-observance-at-arlington-national-cemetery",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-25T21:08:38.603553-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Rubio's India Visit Focuses on Trade Deal, Quad Alliance, and Countering China",
+      "summary": "U.S. Secretary of State Marco Rubio concluded key meetings in New Delhi on Sunday with Indian Prime Minister Narendra Modi and Foreign Minister Subrahmanyam Jaishankar, seeking to stabilize a relationship strained by Trump administration tariffs on Indian exports. Rubio described India as one of Washington's most important strategic partners and conveyed a formal invitation from President Trump for Modi to visit Washington later this year.\n\nThe visit centers on advancing a bilateral trade deal that remains unfinished despite an interim arrangement that eased some tariffs and expanded Indian purchases of U.S. goods, including energy products. India's continued purchases of Russian oil had been a source of friction, prompting U.S. tariff pressure, though both sides have sought to contain the damage given their shared strategic interest in countering China's expanding influence in the Indo-Pacific.\n\nRubio's four-day trip is also expected to include Quad foreign ministers' talks on Tuesday with counterparts from Australia and Japan, a grouping Washington views as a key framework for maritime security and supply chain resilience. China has accused the Quad of attempting to contain its regional rise, a characterization the alliance's members reject.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/rubios-visit-to-india-focuses-on-u-s-trade-tensions-the-quad-alliance-and-sightseeing",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-25T21:08:38.603553-06:00"
+    },
+    {
+      "category": "world",
+      "headline": "Thai Cave Rescue Experts Join Effort to Save Seven Trapped in Flooded Laos Cave",
+      "summary": "Specialists from Thailand who participated in the celebrated 2018 Tham Luang cave rescue, along with an expert from Finland, arrived Monday at a flooded cave in central Laos where seven villagers have been trapped since May 20. The group entered the cave in Xaysomboun province, roughly 78 miles northeast of Vientiane, while searching for gold, and became trapped after heavy rain caused flash flooding that blocked their exit.\n\nApproximately 100 rescue workers from Laos and Thailand are now at the site, working to pump water out of the multi-level cave system that extends more than 110 yards underground. Rescuers have not yet been able to reach the trapped individuals, and officials acknowledged uncertainty about whether the seven are still alive. \"We still do not know whether there are any signs of life,\" said Bounkham Luanglat, president of a Laotian volunteer rescue association.\n\nThe Laotian rescue group has appealed to Thai charities for additional specialist equipment, including water pumps, generators, and thermal imaging devices. The situation draws direct comparisons to the 2018 Tham Luang rescue, in which all 12 boys and their football coach were saved after spending nearly three weeks underground, an operation that drew global attention and spawned multiple films and documentaries.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/laos-cave-thai-rescue-seven-trapped/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-25T21:08:38.603553-06:00"
+    },
+    {
+      "category": "other",
+      "headline": "MLB Star Wander Franco Found Guilty of Abusing Minor, Granted Judicial Pardon in Dominican Republic",
+      "summary": "A Dominican Republic court found former Tampa Bay Rays shortstop Wander Franco guilty for a second time on charges of sexual and psychological abuse of a 14-year-old girl but granted him a judicial pardon, allowing him to avoid prison. The ruling overturned Franco's original June 2025 conviction, which had resulted in a two-year suspended sentence, after an appeals court ordered a retrial.\n\nThe court found that while Franco, now 25, was criminally responsible for the relationship that began in December 2022 when he was 21, he was also the victim of an extortion scheme allegedly orchestrated by the minor's mother. The harshest sentence — 10 years in prison for money laundering and commercial sexual exploitation — was handed to the mother, with investigators having previously uncovered more than $100,000 in cash at her home.\n\nFranco, who signed an 11-year, $182 million contract extension with the Rays in 2021, has not appeared in an MLB game since August 2023 when the allegations first became public. Immigration experts say the guilty finding, even with the pardon, likely constitutes a \"crime involving moral turpitude\" under U.S. law, making it nearly impossible for Franco to obtain the work visa required to resume his Major League career.",
+      "source": "Fox News Latest",
+      "url": "https://www.foxnews.com/sports/wander-franco-found-guilty-sexual-abuse-minor-granted-judicial-pardon-avoids-prison",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-25T21:08:38.603553-06:00"
+    },
+    {
       "category": "world",
       "headline": "Update: Explosions Reported Near Iranian Port City of Bandar Abbas as U.S.-Iran Peace Talks Continue in Qatar",
       "summary": "Three explosions were heard near Bandar Abbas, a strategically vital Iranian port city along the Strait of Hormuz and home to a key naval and air base, early Tuesday local time, according to Iran's Islamic Revolutionary Guard Corps. Iran's air defense system was activated to counter what it described as hostile targets, and Iranian state media reported the sounds of multiple consecutive blasts near the city's airport. Iran's armed forces separately said they had destroyed a hostile drone in the Persian Gulf area.\n\nThe explosions occurred as Iranian officials remained in Qatar for what a diplomatic source described to CNN as 'intense talks' aimed at reaching a peace agreement with the United States to end the ongoing war. The two sides have been working toward a memorandum of understanding, but disputes over language concerning Iran's nuclear program and the lifting of sanctions have delayed finalization. President Trump said negotiations are 'proceeding nicely,' while newly appointed Iranian National Security Council chief Mohammad Bagher Zolghadr vowed publicly that 'there will be no retreat' in Iran's fight.\n\nTrump separately escalated demands Monday, saying he is 'mandatorily requesting' that Saudi Arabia, Qatar, Turkey and other Gulf states join the Abraham Accords as a condition of any broader Iran deal. Republican hawks including Sen. Ted Cruz have criticized the emerging agreement as insufficiently tough, while Israeli opposition leader Yair Lapid called it 'a disaster.' The White House has pushed back, with Trump's inner circle defending the diplomatic approach.\n\nIsrael is also reported to be preparing to expand its operations in Lebanon in the near future, with an Israeli source telling CNN the moves are being coordinated with the United States. The combination of fresh military activity near Bandar Abbas, the ongoing Qatar talks, and Israeli military preparations makes this one of the most fluid and consequential developing situations in the region.",
