@@ -59,14 +59,34 @@ jobs:
           cd data
           ls -1 *.json 2>/dev/null | sort | head -n -14 | xargs -r rm -f
 
-      - name: Commit and push
+      - name: Commit and push (with retry)
         run: |
           git config user.name "Daily Briefing Bot"
           git config user.email "digest-bot@users.noreply.github.com"
           git add data/
           git diff --cached --quiet && echo "No new data" && exit 0
           git commit -m "Update digest for $(date +%Y-%m-%d)"
-          git push
+          # Retry the push up to 5 times with backoff. Handles two failure modes:
+          # 1. Transient GitHub server errors (e.g. "fatal error in commit_refs")
+          # 2. Concurrent pushes from other workflow runs / cron triggers
+          # Pull --rebase before each retry to absorb any new commits on origin.
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "Push succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "Push attempt $attempt failed."
+            if [ $attempt -lt 5 ]; then
+              backoff=$((attempt * 30))
+              echo "Pulling --rebase and retrying in ${backoff}s..."
+              git pull --rebase --autostash || echo "Rebase failed -- will retry push anyway"
+              sleep $backoff
+            fi
+          done
+          echo "ERROR: All push attempts failed. The digest was generated and the"
+          echo "email (if applicable) was sent, but the data was not committed to"
+          echo "the repo. Investigate GitHub status or manual conflict."
+          exit 1
 
       - name: Notify on failure
         if: failure()
