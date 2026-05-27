@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "science_health",
+      "headline": "Update: Western Europe Shatters Temperature Records for Second Consecutive Day as Heat Wave Kills Multiple People",
+      "summary": "The United Kingdom recorded a temperature of 35.1 degrees Celsius (95.2 degrees Fahrenheit) at London's Kew Gardens on Tuesday, breaking the record of 34.8 C set just one day earlier at the same station and smashing a long-standing May benchmark of 32.8 C set in 1922. London also recorded a rare \"tropical night\" in which overnight temperatures never fell below 20 C. The heat wave has been described by the UK's Met Office as unprecedented in scope and timing for late May.\n\nThe extreme temperatures are driven by a \"heat dome\" — a high-pressure weather front trapping heat over Western Europe — which Météo-France says is producing conditions more than 10 degrees Celsius above seasonal averages. Records also fell in France, where temperatures reached 36 C in the country's southwest, and heat warnings were issued across Rome and other parts of the continent. Several drowning deaths were reported in Britain and France as people sought relief in rivers and open water.\n\nClimate scientists emphasized that heat wave events of this intensity and unseasonable timing have been made significantly more likely and more severe by ongoing climate change. The UK government issued warnings about risks to life, particularly for elderly and vulnerable populations. Authorities urged residents to stay hydrated, avoid direct sun during peak afternoon hours, and check on at-risk neighbors.\n\nThe heat wave is the same system previously reported in South Asia, which has now extended its reach into Western Europe earlier in the year than climatologists typically observe. Meteorologists warned that the dome could persist for several more days before a cooler Atlantic weather system brings relief to northwestern Europe.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/europe-heatwave-temperature-records-france-uk-5e08af7830e72ffa9fccdcf48cf4f7b5",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-26T21:08:44.192578-06:00",
+      "slot": 21
+    },
+    {
+      "category": "science_health",
+      "headline": "Measles Kills More Than 500 Children in Bangladesh as Cases Surpass 60,000",
+      "summary": "More than 500 children with suspected and confirmed measles cases have died in Bangladesh since March, according to the country's health ministry, as the number of suspected infections has surpassed 60,000 in just over two months. Hospitals across the country are overwhelmed, with families of sick children reporting being turned away or unable to find beds. UNICEF confirmed its staff have been deployed to help hospitals triage and isolate incoming patients where such measures are lacking.\n\nThe outbreak has been exacerbated by vaccination gaps, supply shortages, and delays in diagnosis. One father described taking his daughter to receive the measles vaccine four times — twice she was turned away because she had a cold, and twice the vaccine was said to be unavailable — before she contracted the disease, was hospitalized repeatedly, and died after 27 days on life support at age four. Doctors and nurses have had Eid holiday leave cancelled as the government runs an emergency mass vaccination campaign.\n\nMeasles is highly contagious, spreading through respiratory droplets, and is especially dangerous for unvaccinated children under five. Public health experts note that poor healthcare infrastructure and long delays in seeking treatment, particularly among lower-income populations who avoid hospitals until conditions are critical, have contributed to the high death toll. Laboratory confirmation of the full case count is still pending.\n\nThe scale of the Bangladesh outbreak adds to a global pattern of measles resurgence driven by pandemic-era disruptions to routine childhood vaccination. UNICEF and the World Health Organization have both flagged measles as one of the top vaccine-preventable disease threats in low- and middle-income countries, citing declining immunization coverage in the years following COVID-19.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy2d5d7wn5o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-26T21:08:44.192578-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "South Carolina Senate Defies Trump, Rejects Mid-Decade Congressional Redistricting",
+      "summary": "The South Carolina state Senate voted 26-18 Tuesday to reject a mid-decade congressional redistricting effort backed by President Donald Trump, ending the administration's push to redraw maps that would have split the district of Rep. Jim Clyburn, the state's only Democratic congressman and a prominent figure in national Democratic politics. The vote came during a special legislative session and marks a notable instance of Republican state lawmakers directly defying Trump's political objectives.\n\nTrump had pressured South Carolina's Republican-dominated legislature to redraw district lines ahead of the November midterms, part of a broader nationwide effort by his administration to manufacture additional Republican-friendly seats in Congress. The redistricting push has met mixed results: a Florida judge on the same day blocked a legal challenge to a new GOP-favored House map in that state, while a separate federal three-judge panel blocked Alabama from implementing a new congressional map it found was drawn with intentional racial discrimination against Black voters.\n\nProponents of mid-decade redistricting, including Trump and House Republican leadership, argue the moves are a legitimate and necessary response to Democratic-drawn maps elsewhere and a tool to preserve the GOP's narrow House majority through the 2026 elections. Opponents — including some Republicans who voted against the measure in South Carolina — counter that rapid, politically motivated remapping undermines voter trust, is legally vulnerable, and that with early voting already underway in some states, the timing is logistically untenable.\n\nThe outcome in South Carolina is seen as a significant setback for the White House's pre-midterm map strategy, and it adds to a patchwork of federal court rulings and state legislative decisions that have complicated Republican redistricting efforts across the South. The Alabama ruling is expected to be appealed to the Supreme Court.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/europe-heatwave-temperature-records-france-uk-5e08af7830e72ffa9fccdcf48cf4f7b5",
+      "sourceCount": 23,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-26T21:08:44.192578-06:00",
+      "slot": 21
+    },
+    {
+      "category": "science_health",
       "headline": "NASA Unveils Contracts and Timeline for Permanent Moon Base",
       "summary": "NASA on Tuesday announced contracts with Blue Origin, Intuitive Machines, and Astrobotic to build robotic landers, hopping drones, and surface vehicles as the first phase of its Ignition Moon Base program. The agency aims to send 25 robotic launches and deliver four metric tonnes of cargo to the lunar south pole by 2029, with human habitation in semi-permanent housing targeted by 2032. NASA Administrator Jared Isaacman said the announcements mean the U.S. will 'never give up the Moon again.'\n\nThe program is unfolding against a backdrop of direct competition with China, which is pursuing its own crewed lunar landing by 2030. China on Monday launched its Shenzhou-23 spacecraft, keeping pressure on NASA to demonstrate momentum. Some independent scientists told BBC News they would not be surprised if China lands humans on the Moon before the United States, citing NASA's ongoing difficulties securing a human-rated lunar lander.\n\nThe Moon's south pole is the primary target because of water ice deposits that could support long-term habitation and fuel production for future Mars missions. The three-phase plan calls for robotic exploration first, followed by nuclear and solar power infrastructure, and finally crewed semi-permanent settlement. Most outside experts consider NASA's 2032 timeline highly ambitious given current program challenges.\n\nThe announcement represents a significant milestone in the Trump administration's space policy, which has emphasized lunar return before the president leaves office in 2028. The $20 billion program, unveiled in March, now has named contractors and a phased mission schedule, giving the effort more concrete shape than previous planning documents.",
       "source": "BBC News",
