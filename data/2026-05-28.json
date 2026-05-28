@@ -1,0 +1,62 @@
+{
+  "date": "2026-05-28",
+  "dateFormatted": "Thursday, May 28, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: White House Calls Iranian Draft Agreement a 'Complete Fabrication' as Ceasefire Strains",
+      "summary": "The White House sharply rejected a draft memorandum of understanding published by Iranian state media Wednesday, calling it a \"complete fabrication\" — the latest flashpoint in fragile U.S.-Iran peace negotiations. The rejection came as President Trump told a Cabinet meeting he believes Iran is trying to run out the clock until November midterm elections, declaring Iranian leaders had \"miscalculated\" if they thought domestic politics would force him into a rushed deal.\n\nThe diplomatic turbulence coincided with fresh military skirmishes. The U.S. military shot down four Iranian one-way attack drones in the Strait of Hormuz and struck an Iranian ground control station near Bandar Abbas that was preparing to launch a fifth drone, a U.S. official told reporters. Iran's Revolutionary Guards claimed in response that they had targeted an American military base, calling the U.S. strikes a \"blatant violation\" of the ceasefire and international law. Oil prices rose sharply on the renewed hostilities.\n\nTrump struck an ambiguous tone at the Cabinet meeting, at times hardening U.S. positions and at others appearing to soften them, while warning he may have to \"finish the job\" militarily if no deal is reached soon. He also threatened to \"blow up\" Oman after reports that Tehran and Muscat were discussing jointly charging a toll for ships transiting the Strait of Hormuz, which has been largely closed since the war began in late February.\n\nThe breakdown in diplomatic signaling is significant: the U.S. and Iran had appeared on the verge of de-escalation before this week's exchange of strikes. Kuwait reported responding to missile and drone threats of its own, underscoring the regional spillover risk. Separately, the Pentagon warned allies it plans to reduce U.S. NATO contributions by up to half amid the ongoing Iran conflict, and Ukrainian President Zelensky wrote to Trump urging the U.S. to supply Patriot interceptors as the Iran war drains shared missile-defense stockpiles.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/5897389-white-house-denies-iranian-mou/",
+      "sourceCount": 23,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-28T05:08:25.600552-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Sixteen Girls Killed in Fire at Kenyan Boarding School",
+      "summary": "A fire broke out in the early hours of Thursday at Utumishi Girls Academy, a boarding school in Gilgil, Kenya, approximately 120 kilometers northwest of Nairobi, killing at least 16 students and injuring dozens more. The blaze began around 1:00 a.m. local time and engulfed a dormitory housing roughly 220 students while they slept, completely destroying the building's first floor before firefighters extinguished it by 3:00 a.m.\n\nKenya's Education Minister Julius Ogamba and Interior Minister Kipchumba Murkomen both traveled to the scene, where anxious parents gathered seeking news of their children. Officials said 71 students were treated and discharged from hospital, while seven remained admitted. Some students fled into surrounding areas during the chaos and police were still searching for them at the time of reporting.\n\nAuthorities have cordoned off the school and opened an investigation into the cause. Kenya has experienced a series of deadly school fires in recent years, some caused by arson from disgruntled students and others by accident, with overcrowded dormitories and blocked fire exits frequently cited as factors amplifying casualties.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-28T05:08:25.600552-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Former CIA Official Arrested After FBI Finds $40 Million in Gold Bars at Virginia Home",
+      "summary": "Federal authorities have arrested a former senior U.S. government official after FBI agents executing a search warrant at his Virginia home discovered approximately 303 one-kilogram gold bars valued at more than $40 million, along with roughly $2 million in cash and 35 luxury watches. David Rush, identified by the New York Times as a recently retired senior CIA official who held top-secret clearance, has been charged with criminal theft of public money.\n\nCourt documents state that between November 2025 and March 2026, Rush made multiple requests to the U.S. government to receive large quantities of foreign currency and gold bars for purported \"work-related expenses,\" which were granted. The CIA subsequently could not locate the gold or significant amounts of the foreign currency, nor any record of Rush accounting for them. CIA Director John Ratcliffe referred the matter to the FBI after an internal investigation identified potential violations of law.\n\nRush is also accused of lying about his educational background and military service during the government hiring process, and of fraudulently collecting thousands of dollars in military leave pay. He was arrested on May 19 and is being held pending a hearing. His attorney declined to comment. Court documents do not specify why Rush kept the assets at his residence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yezdl054po",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-28T05:08:25.600552-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Israel Orders 17% of Lebanese Territory Evacuated, Strikes 100 Hezbollah Sites",
+      "summary": "The Israeli military issued an evacuation order Thursday covering approximately 17 percent of Lebanese territory, the first such order since a ceasefire took effect on April 17, as hostilities between Israel and Hezbollah intensified sharply in the country's south. The Israeli Defense Forces simultaneously announced it had struck more than 100 Hezbollah infrastructure sites and fighters, while Prime Minister Benjamin Netanyahu vowed to \"crush\" the Iran-backed group.\n\nThe Israeli strikes occurred while Iranian and Qatari negotiators were in Doha for U.S.-Iran peace talks, adding pressure to already strained ceasefire arrangements across the region. Clashes between Israel and Hezbollah have been escalating near the Litani River in southern Lebanon, and few in Lebanon believe ongoing diplomatic efforts between Washington and Tehran will deliver peace to their country.\n\nThe widening Israeli offensive comes as Iran simultaneously engages in conflict with U.S. forces and negotiations in Qatar, stretching diplomatic and military dynamics across multiple fronts simultaneously. The BBC reported that Israel has also been expanding strikes into eastern Lebanon, and its warplanes have moved further inland after months of focusing primarily on southern Lebanon.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-28T05:08:25.600552-06:00",
+      "slot": 5
+    }
+  ]
+}
