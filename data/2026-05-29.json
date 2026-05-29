@@ -1,0 +1,48 @@
+{
+  "date": "2026-05-29",
+  "dateFormatted": "Friday, May 29, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Dallas Apartment Building Destroyed in Gas Explosion and Fire; Fatalities Confirmed, Search Ongoing",
+      "summary": "An explosion ripped through a two-story apartment complex in Dallas's Oak Cliff neighborhood on Thursday, engulfing the building in flames and sending debris flying into surrounding homes. Dallas Fire-Rescue confirmed there were fatalities but declined to give a specific number while recovery operations continued. Dozens of firefighters searched through smoldering rubble hours after the blaze was brought under control.\n\nAuthorities said firefighters were responding to a reported gas leak when the explosion occurred before they could intervene. Natural gas provider Atmos Energy stated that a construction crew unrelated to the company had damaged a pipeline near the site. The company shut off gas service to the area and deployed investigators.\n\nOfficials established a family reunification center at a nearby high school as residents reported being unable to reach friends and family members who lived in the building. The mission formally shifted from rescue to recovery. The full death toll and number of residents displaced remained unclear as of Thursday evening.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/explosion-and-fire-at-dallas-apartment-causes-fatalities-search-for-missing-continues",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-29T05:08:18.629575-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Hezbollah Deploys Fiber-Optic Drones Against Israel as Casualties Mount During Ceasefire",
+      "summary": "Fiber-optic drones have become Hezbollah's primary offensive weapon against Israeli soldiers and civilians along the Lebanese border, six weeks into a ceasefire that took effect in April. The Alma Research Center, an Israeli think tank, has recorded more than 100 drone attacks against Israeli communities since the ceasefire began. One Israeli soldier was killed and two others wounded in a strike near the border community of Shomera on Wednesday; eight of the 11 Israeli soldiers killed during the ceasefire period have died in fiber-optic drone attacks.\n\nUnlike conventional rockets or radio-controlled drones, fiber-optic first-person-view drones fly low, carry explosives, and are guided by a thin optical wire that cannot be jammed by Israel's military systems. The tactic was adapted from the war in Ukraine, where similar weapons have proven highly effective. Residents in frontier communities report little warning before strikes, in stark contrast to the 15-second alert time provided by rocket sirens.\n\nIsraeli forces are currently occupying a large section of southern Lebanon under the terms of the ceasefire agreement, and the ongoing drone campaign is increasing pressure on both communities and the military. The development represents a significant escalation in Hezbollah's capabilities and poses a new challenge for Israeli air-defense planners.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0r2ydlvk41o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-29T05:08:18.629575-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Eight Students Arrested in Kenya Over Arson Attack That Killed 16 Girls at Boarding School",
+      "summary": "Kenyan police have arrested eight students suspected of planning and executing the arson attack at Utumishi Girls Academy in Gilgil that killed 16 pupils early Thursday. Investigators identified the suspects through interviews with students and staff and a review of CCTV footage, according to the National Police Service. The students were traced to their homes and returned to the school for questioning.\n\nThe fire tore through the upper floor of a dormitory housing 135 bunk beds in the early morning hours. Investigations into the precise cause of the blaze are continuing. Distraught parents and relatives gathered outside the school, many still waiting hours later to learn whether their children were among the dead, injured, or arrested.\n\nKenya has a documented history of deadly school dormitory fires, many attributed to arson by students protesting living conditions or school discipline. Overcrowding and failure to comply with fire safety regulations — including keeping exits clear and windows unlocked — have repeatedly been cited as factors amplifying casualties. At least 21 people died in a similar dormitory fire two years ago.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21r3138m9o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-05-29T05:08:18.629575-06:00",
+      "slot": 5
+    }
+  ]
+}
