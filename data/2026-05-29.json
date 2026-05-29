@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Netanyahu Directs IDF to Expand Gaza Control to 70% as Ceasefire Strains",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu said Thursday he has directed the Israel Defense Forces to extend their control of the Gaza Strip from roughly 60% to 70% of its territory, a move that would further contradict the terms of the October 2025 Trump-brokered ceasefire agreement. Speaking at a conference, Netanyahu said the IDF had already moved from 50% to 60% control and signaled further expansion was the next step toward dismantling Hamas. At least 738 Palestinians have been killed since the ceasefire took effect, according to the Hamas-run health ministry, whose figures the United Nations considers reliable.\n\nThe announcement comes as Israel and Hamas remain deadlocked in U.S.-brokered indirect talks over the next phases of a 20-point peace plan. Under the ceasefire's terms, the IDF was to withdraw to a negotiated demarcation line, and subsequent steps would involve Hamas disarming and Israeli forces pulling back. Israeli Defense Minister Israel Katz this week reaffirmed a pledge to eliminate all leaders of the October 7, 2023, attack and said a plan for what he called \"voluntary emigration\" from Gaza would be implemented \"at the proper time.\"\n\nSeveral Israeli strikes this week killed senior Hamas figures, including newly appointed Hamas military wing commander Mohammed Odeh, along with his wife and two sons, just days after his predecessor was killed. A separate strike on a building in Gaza City killed at least 10 people, including five children, according to local hospitals. The Israeli military said it targeted two Hamas operatives in that strike without publicly naming them.\n\nFar-right members of Netanyahu's coalition, including National Security Minister Itamar Ben Gvir and Finance Minister Bezalel Smotrich, have publicly backed what they describe as voluntary Palestinian migration from Gaza — a policy that human rights organizations and the United Nations have characterized as potentially amounting to forced displacement, which constitutes a war crime under international law. The situation places additional pressure on U.S.-led ceasefire diplomacy at a moment when Washington is simultaneously negotiating with Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ceqpelq5reqo",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:06 AM MT",
+      "addedAtISO": "2026-05-29T10:06:54.828141-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "'Poison Seller' Who Supplied Toxic Chemicals to Suicide Forums Worldwide Pleads Guilty in Canada",
+      "summary": "Kenneth Law, a 60-year-old former chef from Ontario, pleaded guilty Friday to 14 counts of aiding suicides in Canada after selling toxic chemicals online to individuals he connected with through suicide forums. The guilty pleas were entered as part of a prosecutorial agreement in which more serious murder charges were withdrawn. Authorities say Law sold approximately 1,200 packages of toxic substances to recipients in 40 countries, and is linked to the deaths of at least 79 people in the United Kingdom alone.\n\nFamilies of British victims expressed frustration that Law will not face criminal charges in the UK. The Crown Prosecution Service said extradition was \"far from guaranteed\" and could have taken years, with a risk that prosecution could have been blocked under double jeopardy principles. A CPS prosecutor stated that a condition of the agreement with Canadian authorities was that Law's sentence must reflect deaths that occurred in England and Wales as a result of substances he supplied.\n\nLaw is also linked to the deaths of five people in Scotland and one in Northern Ireland. Families of victims described sons and daughters who struggled with mental health following the COVID-19 pandemic and paid as little as the equivalent of £50 for the lethal substances. One father whose 22-year-old son Thomas died in a hotel in Surrey in 2021 said he had wanted Law to face justice in the UK and is calling on the British government to hold a public inquiry.\n\nThe case has drawn attention to the role of online platforms in facilitating access to means of suicide, and to the legal complexities of prosecuting cross-border cases involving internet-based offenses. Victim advocates and families are pressing for stronger international cooperation and tighter regulation of online communities that provide information about suicide methods.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c70vg7glglyo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:06 AM MT",
+      "addedAtISO": "2026-05-29T10:06:54.828141-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "At Least 5 Dead After Bus Fails to Slow for Traffic, Strikes Multiple Vehicles on I-95 in Virginia",
+      "summary": "At least five people were killed and dozens hospitalized Friday after a bus failed to slow for traffic on Interstate 95 in Stafford County, Virginia, and collided with six other vehicles, according to state police. All five fatalities were passengers or occupants of vehicles struck by the bus. The incident caused significant disruption on one of the East Coast's most heavily traveled highway corridors.\n\nAuthorities have not yet released information on the cause of the crash, the identity of the bus operator, or the number and severity of injuries among those hospitalized. Investigations are ongoing. The section of I-95 affected runs through a densely populated corridor between Washington, D.C., and Richmond, Virginia, and carries heavy commercial and passenger traffic daily.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/5900954-at-least-5-dead-after-crash-involving-bus-6-vehicles-on-i-95-in-virginia-police/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:06 AM MT",
+      "addedAtISO": "2026-05-29T10:06:54.828141-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "Update: U.S. and Iran Agree to 60-Day Ceasefire Extension, Awaiting Trump Approval",
       "summary": "U.S. and Iranian negotiators have reached a memorandum of understanding to extend the current ceasefire by 60 days and launch formal negotiations over Iran's nuclear program, U.S. sources confirmed to Fox News on Thursday. The agreement was first reported by Axios and is pending final approval from President Donald Trump before it takes effect.\n\nThe development marks a significant diplomatic step in a conflict that has roiled global energy markets, stranded roughly 1,500 ships in and around the Strait of Hormuz, and drawn U.S. military forces into direct exchanges with Iranian assets. The ceasefire extension would provide a framework for structured talks on Iran's nuclear capabilities, though the scope and conditions of those talks remain unspecified.\n\nSupporters of the agreement argue it offers a path to de-escalation and relief for global oil markets that have been under severe strain since Iran closed the strait in the war's early days. Skeptics, including some conservative voices, have questioned whether Tehran can be trusted to honor any such agreement and whether a 60-day pause meaningfully constrains Iran's nuclear ambitions.\n\nThe White House had previously called an Iranian draft agreement a 'complete fabrication,' making Thursday's confirmed MOU a notable shift. The story is developing, and Trump's final decision is expected to clarify the terms and timeline for any formal ceasefire extension.",
       "source": "Fox News",
