@@ -3,6 +3,48 @@
   "dateFormatted": "Thursday, May 28, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "Blue Origin New Glenn Rocket Explodes on Launch Pad During Test at Cape Canaveral",
+      "summary": "A Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral, Florida, on Thursday night during what the company described as a \"hotfire test.\" The company, founded by Amazon billionaire Jeff Bezos, said the incident was an \"anomaly\" and confirmed that all personnel were accounted for with no injuries reported.\n\nThe explosion occurred during a ground-based engine test, a standard procedure in rocket development before an orbital launch attempt. Blue Origin said it would provide updates as more information became available. Video of the explosion circulated widely, showing a large fireball engulfing the pad.\n\nThe New Glenn is Blue Origin's heavy-lift orbital rocket, positioned as a direct competitor to SpaceX's Falcon 9 and United Launch Alliance vehicles. The incident is a significant setback for Blue Origin as it competes in the increasingly crowded commercial launch market and pursues contracts with NASA and other government agencies.\n\nThe explosion drew broad media attention and raises questions about the timeline for future New Glenn missions. Blue Origin has not yet disclosed the extent of damage to the launch pad or the rocket itself, and no cause for the anomaly has been identified publicly.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-28T21:08:33.377770-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Supreme Court Justice Amy Coney Barrett Targeted in 'Swatting' Incident at Virginia Home",
+      "summary": "Supreme Court Justice Amy Coney Barrett was the target of a swatting call at her suburban Virginia home on Wednesday night, local police confirmed Thursday. Police radio traffic indicates law enforcement received a report of a suspicious noise suggesting gunshots at Barrett's address. A dispatcher warned responding officers shortly afterward that a high-priority county resident lived there and that the report might not be authentic.\n\nSwatting is a criminal tactic in which someone makes a false emergency call to direct a large law enforcement response to a target's home. The practice has been used to harass public figures across the political spectrum and has occasionally led to dangerous confrontations between police and unsuspecting residents.\n\nJustices of the Supreme Court have faced heightened security concerns in recent years. In 2022, a man armed with a knife and zip ties was arrested near Justice Brett Kavanaugh's home after making threats; the incident followed the leak of a draft abortion ruling. Congress subsequently passed legislation strengthening security protections for Supreme Court justices and their families.\n\nNo injuries were reported in Wednesday's incident involving Barrett. Law enforcement officials have not announced any arrests or identified a suspect. The incident underscores ongoing concerns about threats to senior judicial officials.",
+      "source": "The Hill",
+      "url": "https://thehill.com/regulation/court-battles/5900372-justice-barrett-swatting-incident/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-28T21:08:33.377770-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Texas Senate Race Takes Shape as Paxton Faces Democrat Talarico in November",
+      "summary": "Following Ken Paxton's Republican primary runoff win this week, the Texas U.S. Senate race is now set between the Trump-backed former attorney general and Democratic state Rep. James Talarico, a 36-year-old progressive lawmaker from Austin. Democrats view Paxton — who survived a 2023 impeachment trial in the Texas Senate — as a flawed candidate who could give them a rare competitive opportunity in a state that has not elected a Democrat to statewide office since 1994.\n\nAnalysts note that a Talarico victory, while still considered an uphill climb, would deliver Democrats an unexpected Senate seat and potentially signal a broader shift in Texas politics ahead of 2028. Paxton has trailed Talarico in fundraising, prompting some Republicans to warn that the party may need to spend heavily to hold the seat.\n\nTalarico has faced early attacks from Republicans over past statements on cultural issues, and he acknowledged this week that some of those comments \"missed the mark.\" Republicans argue his progressive positions are out of step with Texas voters, while Democrats contend Paxton's legal baggage — he was acquitted on articles of impeachment but faces ongoing federal scrutiny — makes him uniquely vulnerable.\n\nThe race is widely seen as one of several key battlegrounds that will determine control of the U.S. Senate in the 2026 midterm elections. Texas carries 40 electoral votes and a competitive Senate race there would require both parties to direct significant resources to the state.",
+      "source": "Axios",
+      "url": "https://www.axios.com/local/austin/2026/05/28/talarico-paxton-senate-race-texas",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-28T21:08:33.377770-06:00",
+      "slot": 21
+    },
+    {
       "category": "politics",
       "headline": "Treasury Pushes Congress to Approve $250 Bill Bearing Trump's Portrait",
       "summary": "Treasury Secretary Scott Bessent announced Thursday that the White House is pushing Congress to approve a new $250 denomination bill featuring President Donald Trump's portrait, framed as a celebration of the United States' 250th anniversary. Enacting the bill would require changing longstanding federal law that prohibits any living person from appearing on U.S. currency. Administration officials have already begun preparing designs should legislation pass.\n\nSupporters of the move argue it is a fitting tribute tied to the nation's semiquincentennial milestone, with Bessent backing the proposal publicly from the White House. Democrats have vowed to block the legislation, arguing it is an unprecedented and self-serving use of the currency system. Critics across the political spectrum have raised concerns about the norm-breaking nature of placing a sitting president's image on legal tender.\n\nThe proposal is the latest in a series of moves by the Trump administration to attach the president's name and image to government initiatives, including the recently launched Trump Accounts app through the Treasury Department. The story is drawing coverage from 14 outlets across the political spectrum, making it one of the most widely reported domestic stories of the day.",
