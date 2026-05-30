@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Colombian Presidential Election Marred by Ecuador Interference Accusations Ahead of Sunday Vote",
+      "summary": "Colombia's foreign ministry has accused Ecuadorian President Daniel Noboa of deliberate interference in its presidential election, scheduled for Sunday, after Noboa publicly promised right-wing Colombian candidate Abelardo de la Espriella he would lift tariffs on Colombian goods as of June 1 — framing the conversation as one with an \"administration-in-waiting.\" Colombia's government called the move \"a flagrant violation of the principle of non-intervention\" and \"an attack on the democratic system.\"\n\nColombia is headed into a deeply polarized election following the presidency of left-wing Gustavo Petro, who is constitutionally barred from seeking re-election. Polling suggests Petro's chosen successor, Iván Cepeda, leads the field, with de la Espriella as his closest rival. No candidate is expected to win an outright majority, making a June 21 runoff highly likely. The election's outcome could significantly reshape Colombia's foreign alignments, particularly its relationships with the United States and regional neighbors.\n\nNoboa, a close U.S. ally who has taken a hardline stance on drug cartel violence, has joined a U.S.-led regional anti-cartel alliance. His intervention reflects the broader geopolitical contest playing out across Latin America between left-leaning governments aligned with Petro's model and right-leaning administrations aligned with Washington. The tariff dispute stems from Ecuador's long-running accusations that Colombia has failed to secure their shared border, which serves as a corridor for cocaine trafficking.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czx2zndk7elo",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:10 PM MT",
+      "addedAtISO": "2026-05-30T16:10:52.685390-06:00",
+      "slot": 18
+    },
+    {
+      "category": "other",
+      "headline": "PSG Wins Back-to-Back UEFA Champions League Titles With Penalty Shootout Victory Over Arsenal",
+      "summary": "Paris Saint-Germain claimed back-to-back UEFA Champions League titles on Saturday, defeating Arsenal 4-3 on penalties in Budapest following a 1-1 draw after extra time. The result marks a historic moment for the French club, which has invested heavily in transforming itself into a European powerhouse following years of near-misses in the competition's latter stages.\n\nThe win consolidates PSG's standing as one of European football's dominant forces and delivers a second consecutive continental crown — a rare achievement in the modern era of the Champions League. Arsenal, seeking their first-ever Champions League title, were denied in dramatic fashion. The match drew a massive global television audience and stands as one of the most significant results in either club's recent history.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/30/nx-s1-5841380/psg-champions-league-victory-against-arsenal",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "4:10 PM MT",
+      "addedAtISO": "2026-05-30T16:10:52.685390-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
       "headline": "Update: U.S. Military Drug-Boat Strikes Push Death Toll Past 200 in Monthslong Campaign",
       "summary": "The U.S. military carried out another strike Friday on an alleged drug-smuggling vessel in the eastern Pacific Ocean, killing three men and pushing the overall death toll from the monthslong campaign to 202 people. U.S. Southern Command announced the strike, saying the vessel was operated by a designated terrorist organization and engaged in narco-trafficking operations, though it provided no independent evidence. The latest attack was notable for being the first released in color video footage rather than the usual black-and-white imagery.\n\nThe strikes, which began in early September, have accelerated this week, with three separate attacks announced Tuesday, Wednesday, and Friday. The Trump administration has declared the United States to be in an armed conflict with Latin American drug cartels, arguing they are responsible for the flow of narcotics into American communities. Critics have raised due process concerns, noting the military provides no judicial finding before lethal strikes on civilian vessels at sea.\n\nThe announcement came as Gen. Francis L. Donovan, the top U.S. commander in Latin America, met with Cuban military leaders near the U.S. Navy base at Guantanamo Bay on Friday — a notable diplomatic contact given the historically strained U.S.-Cuba relationship. The campaign has drawn comparatively little congressional debate despite its scale, with more than 200 people killed by U.S. military action outside of any formally declared war zone.",
       "source": "ABC News",
