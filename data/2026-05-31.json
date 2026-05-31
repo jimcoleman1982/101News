@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "science_health",
+      "headline": "Brazil Monitoring Two Patients for Possible Ebola Infection in São Paulo and Rio de Janeiro",
+      "summary": "Brazilian health authorities are monitoring two patients in São Paulo and Rio de Janeiro for possible Ebola infection, which would be the first confirmed cases of the current outbreak outside Africa if tests return positive. A 37-year-old man from the Democratic Republic of Congo in São Paulo exhibited fever and other symptoms, while a Belgian man who arrived from Uganda in Rio de Janeiro showed viral symptoms including cough, chills, and diarrhea. Test results for both patients are expected next week.\n\nBoth patients have already been diagnosed with other conditions: the São Paulo patient tested positive for meningitis and is in serious condition, while the Rio patient tested positive for malaria. Health officials caution these diagnoses do not rule out a simultaneous Ebola infection. Brazil has activated safety protocols in both cities.\n\nThe current Ebola outbreak, caused by the rare Bundibugyo strain for which no proven vaccine exists and which kills roughly one in three infected people, has produced more than 1,000 suspected cases in the DRC and at least 246 deaths. Uganda has also reported nine confirmed cases and one death. The WHO has repeatedly stressed that global spread of the virus remains highly unlikely, though international screening measures are in place ahead of the 2026 World Cup.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:37 PM MT",
+      "addedAtISO": "2026-05-31T13:37:52.961102-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Pence Breaks with Trump Administration, Calls DOJ Anti-Weaponization Fund 'Deeply Offensive'",
+      "summary": "Former Vice President Mike Pence publicly broke with the Trump administration on Sunday, calling on the White House to scrap its newly created $1.8 billion Department of Justice \"anti-weaponization\" fund, which is designed to compensate individuals he says were unfairly investigated or prosecuted by the government. Appearing on NBC's Meet the Press and CBS's Face the Nation, Pence said it was \"deeply offensive\" that the fund could provide payments to participants in the January 6, 2021, Capitol attack, including those who assaulted police officers.\n\nPence also said the Republican Party has \"lost our way\" under Trump's second term, arguing the administration has departed from traditional conservative principles associated with the Reagan era. He contrasted this with Democrats, whom he said have \"lost their minds,\" and declined to endorse Texas Republican Senate nominee Ken Paxton, whose primary victory over incumbent John Cornyn has alarmed Senate Republican leadership. The remarks represent Pence's most direct public challenge to the Trump administration since the 2024 election cycle.\n\nSupporters of the anti-weaponization fund argue it is necessary to compensate Americans who were subjected to politically motivated prosecutions, and the Trump administration has framed it as a remedy for government overreach. Critics, including some Republicans on Capitol Hill, have pushed back on the fund's scope and the potential for it to benefit those convicted of crimes related to January 6. Senator Cory Booker (D-NJ) said he expects Republican opposition to Trump's broader agenda to grow in the coming months.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/news/as-trump-strays-mike-pence-urges-conservatives-to-return-to-their-roots/",
+      "sourceCount": 16,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:37 PM MT",
+      "addedAtISO": "2026-05-31T13:37:52.961102-06:00",
+      "slot": 14
+    },
+    {
+      "category": "science_health",
       "headline": "Experimental Pill Shows Promise Against Advanced Pancreatic Cancer in New Trial",
       "summary": "Researchers reported Sunday that an experimental oral medication called daraxonrasib has helped people with advanced pancreatic cancer live significantly longer, raising hopes for a disease that has long resisted treatment advances. The findings were presented at a major oncology conference, drawing attention from the cancer research community given pancreatic cancer's historically poor prognosis.\n\nPancreatic cancer is among the deadliest forms of cancer, with a five-year survival rate of roughly 12 percent. Most patients are diagnosed at an advanced stage when surgery is not an option, and existing chemotherapy regimens offer limited benefit. Daraxonrasib targets a specific molecular pathway implicated in pancreatic tumor growth, representing a departure from standard chemotherapy approaches.\n\nWhile the results are preliminary and the drug has not yet received regulatory approval, oncologists described the findings as a meaningful step forward. Further clinical trials are expected to test the drug in larger patient populations and earlier stages of the disease.",
       "source": "NPR",
