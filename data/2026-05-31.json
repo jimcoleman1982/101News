@@ -3,6 +3,48 @@
   "dateFormatted": "Sunday, May 31, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "Experimental Pill Shows Promise Against Advanced Pancreatic Cancer in New Trial",
+      "summary": "Researchers reported Sunday that an experimental oral medication called daraxonrasib has helped people with advanced pancreatic cancer live significantly longer, raising hopes for a disease that has long resisted treatment advances. The findings were presented at a major oncology conference, drawing attention from the cancer research community given pancreatic cancer's historically poor prognosis.\n\nPancreatic cancer is among the deadliest forms of cancer, with a five-year survival rate of roughly 12 percent. Most patients are diagnosed at an advanced stage when surgery is not an option, and existing chemotherapy regimens offer limited benefit. Daraxonrasib targets a specific molecular pathway implicated in pancreatic tumor growth, representing a departure from standard chemotherapy approaches.\n\nWhile the results are preliminary and the drug has not yet received regulatory approval, oncologists described the findings as a meaningful step forward. Further clinical trials are expected to test the drug in larger patient populations and earlier stages of the disease.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/31/nx-s1-5841859/experimental-pill-new-hope-pancreatic-cancer",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:17 AM MT",
+      "addedAtISO": "2026-05-31T10:17:51.713101-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "China Coal Mine Explosion Kills at Least 82 in Worst Mining Disaster in 16 Years",
+      "summary": "A gas explosion at a coal mine in Shanxi province, China, killed at least 82 people on Sunday, with two workers still missing, according to Chinese officials. The blast constitutes the country's deadliest mining accident in 16 years, underscoring persistent safety concerns in China's vast coal industry despite years of government pledges to improve conditions.\n\nDetails on the cause of the explosion are still emerging, and Chinese authorities have launched an investigation. Shanxi is one of China's primary coal-producing regions, and the province has a long history of mining fatalities. State media coverage of the disaster has been closely watched on China's internet, where users are calling for accountability and questioning safety enforcement.\n\nThe disaster comes as China continues to rely heavily on coal for domestic energy production, even as it simultaneously leads global investment in renewable energy. Safety advocates have long argued that production pressures and inadequate enforcement of safety regulations contribute to recurring accidents in the sector.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/asia/china",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "10:17 AM MT",
+      "addedAtISO": "2026-05-31T10:17:51.713101-06:00",
+      "slot": 11
+    },
+    {
+      "category": "other",
+      "headline": "Meteor Explodes Off Massachusetts Coast, Releasing Energy Equivalent to 300 Tons of TNT",
+      "summary": "A meteor exploded in the atmosphere off the coast of Massachusetts on Saturday afternoon, producing a loud sonic boom heard across the greater Boston area, Rhode Island, and parts of New Hampshire. NASA confirmed that the meteor fragmented at an altitude of approximately 40 miles above northeastern Massachusetts and southeastern New Hampshire, releasing energy equivalent to roughly 300 tons of TNT.\n\nDozens of residents reported rattled windows, startled pets, and shaking homes around 2:11 p.m. Eastern Time. Satellite lightning data from the National Oceanic and Atmospheric Administration captured a signature consistent with a meteor at the same time, and reports to the American Meteor Society from witnesses across the Northeast helped scientists reconstruct the object's atmospheric path.\n\nScientists said it is unlikely that any fragments reached the ground, as the meteor appears to have broken apart over the ocean. While such events are startling, NASA noted that meteors of this size burn up harmlessly in the atmosphere and pose no threat to populated areas.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/massachusetts-coast-meteor-explodes-loud-boom/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "10:17 AM MT",
+      "addedAtISO": "2026-05-31T10:17:51.713101-06:00",
+      "slot": 11
+    },
+    {
       "category": "world",
       "headline": "Update: Trump Requests Changes to Iran Nuclear Deal After Envoys Reach Tentative Agreement",
       "summary": "President Trump asked his negotiating team to seek several amendments to the tentative ceasefire and nuclear deal his envoys had reached with Iranian counterparts, following a two-hour Situation Room meeting on Friday. Trump signaled he wants to finalize an agreement soon but is pressing for stronger terms, particularly around Iran's nuclear material and uranium stockpiles, according to two U.S. officials briefed on the matter.\n\nThe move has launched another round of back-channel diplomacy, with U.S. officials indicating Tehran may take days to respond to the tougher terms. The proposed agreement, if finalized, would extend the current ceasefire and reopen the Strait of Hormuz, a critical global shipping lane whose closure has roiled energy markets.\n\nSupporters of the tougher stance argue Trump is right to press for more verifiable constraints on Iran's nuclear program before signing off. Critics, including some analysts, say Trump is undermining his own negotiators and giving Tehran leverage by repeatedly moving the goalposts after tentative agreements are reached.\n\nThe stakes are high on multiple fronts: the ceasefire remains fragile, several Americans were reported injured in a missile attack on a Kuwaiti air base as talks dragged on, and continued instability in the region threatens global oil supplies ahead of U.S. midterm elections.",
