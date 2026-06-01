@@ -3,6 +3,48 @@
   "dateFormatted": "Sunday, May 31, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Pope Leo Issues Statement on AI and Human Creativity; LinkedIn Response Illustrates His Warnings",
+      "summary": "Pope Leo XIV released a formal statement — 'Magnifica Humanitas' — warning that artificial intelligence poses a threat to human creativity and authentic expression. The document drew wide coverage across the political spectrum, with observers noting that the pope's concerns were quickly illustrated by AI-generated and hollow engagement content flooding LinkedIn in response to his remarks.\n\nThe statement marks one of the new pontiff's most substantive interventions on a technology and society question since his election, and arrives as AI-generated content has proliferated across professional and social media platforms. Critics of unchecked AI adoption cited the irony of algorithmically optimized responses to a papal warning about algorithmic inauthenticity.\n\nThe pope's intervention adds a significant moral and institutional voice to an ongoing global debate over AI regulation, creativity rights, and the displacement of human labor in knowledge industries. The Vatican has previously weighed in on AI ethics, but this statement represents a more pointed critique directed at specific platforms and behaviors.\n\nThe document was covered by 19 outlets across the political spectrum, making it one of the most broadly reported stories of the day. Conservative commentators largely welcomed the pope's emphasis on human dignity and authenticity, while progressive outlets focused on the structural implications for workers and artists whose livelihoods are threatened by generative AI tools.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/2026/05/pope-leo-vs-the-linkedin-hollow-men/",
+      "sourceCount": 19,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-31T21:08:40.493642-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Update: U.S. Military Drug-Boat Strikes Reach 205 Deaths in Fourth Attack This Week",
+      "summary": "The U.S. military carried out another strike on a vessel in the eastern Pacific Ocean on Saturday, killing three men and bringing the total death toll from the ongoing drug-interdiction campaign to 205. It was the fourth such strike in a single week. U.S. Southern Command said the vessel was confirmed to be operating along known narco-trafficking routes.\n\nThe campaign, which has been ongoing for several months, has drawn scrutiny from human rights advocates who question the legal framework for lethal strikes on vessels at sea and the standard of evidence used to designate boats as drug-trafficking operations. Critics have also raised concerns about due process for those killed, who have no ability to contest the designation before a strike is carried out.\n\nThe Pentagon has defended the operations as a critical component of counternarcotics strategy, framing the strikes as part of a broader effort to disrupt drug supply chains before narcotics reach U.S. shores. Officials have cited the designation of major drug gangs as foreign terrorist organizations as providing additional legal authority for the use of lethal force.\n\nThe pace of strikes — four in one week — represents a significant escalation in the operational tempo of the campaign. Coverage of the latest strike comes from three outlets, all with left or center leanings, and the story has not yet drawn substantial right-leaning commentary.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/31/nx-s1-5841876/us-strike-drug-boat-kills-3-pacific-ocean",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-31T21:08:40.493642-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Former Biden Aides Rebuke Jill Biden's New Memoir as History-Rewriting and Politically Damaging",
+      "summary": "Former aides to President Joe Biden have reacted with frustration and criticism to excerpts from former first lady Jill Biden's forthcoming memoir, 'View from the West Wing,' telling Axios the book rewrites history, is tone-deaf, and could further damage the Democratic Party at a difficult moment. The backlash emerged as excerpts circulated online and Jill Biden sat for her first interview since leaving the White House.\n\nIn the CBS News interview, Jill Biden acknowledged that her husband was 'slowing down' before he withdrew from the 2024 presidential race but rejected claims that he experienced cognitive decline. The admission renewed debate over the extent to which Biden's inner circle, including the first lady, shielded the public from a full accounting of his condition during the campaign.\n\nThe memoir and interview arrive as Democratic leaders have largely sought to move past the Biden presidency without relitigating its final chapter. Several former aides told Axios the book makes that harder, drawing renewed attention to questions about Biden's fitness that Democrats would prefer to leave behind ahead of the 2026 midterms.\n\nThe controversy is broadly bipartisan in its criticism: Republicans have used Jill Biden's 'slowing down' admission as confirmation of their long-standing argument that his condition was concealed from voters, while Democratic insiders are frustrated that the memoir reopens wounds the party is trying to heal. Kentucky Gov. Andy Beshear said Sunday that the 2024 decision to keep Biden on the ticket should have 'been made differently.'",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/31/jill-biden-book-backlash",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-05-31T21:08:40.493642-06:00",
+      "slot": 21
+    },
+    {
       "category": "world",
       "headline": "Blast Kills at Least 55 in Rebel-Held Myanmar Village",
       "summary": "An explosion killed at least 55 people and wounded dozens more on Sunday in Kaung Tat, a village in Shan State in rebel-held northern Myanmar near the Chinese border. The Ta'ang National Liberation Army, which controls the area and is fighting the country's military junta, said mining and quarrying explosives accidentally detonated around noon local time. Children were among the dead, hundreds of homes were damaged, and footage from the scene showed a vast crater surrounded by shattered buildings.\n\nResidents described scenes of chaos and grief, with some initially believing the blast was an air strike. One resident said virtually an entire neighborhood had been affected. The TNLA acknowledged the explosion in a statement quoted by AFP but offered few details about the cause or the scale of the facility that detonated.\n\nMyanmar's ethnic armed groups commonly rely on mining precious minerals, including in Shan State, to fund their insurgencies against the junta. Safety standards at such operations are widely regarded as minimal, making accidents common. The incident adds to the heavy civilian toll of the country's ongoing civil conflict, which has intensified since the military seized power in a 2021 coup.",
