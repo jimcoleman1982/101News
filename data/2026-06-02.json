@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-02",
+  "dateFormatted": "Tuesday, June 2, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: U.S. Bombs Iran Radar and Drone Sites; Iran Retaliates With Missile Strike on Kuwait",
+      "summary": "The United States struck radar and drone installations inside Iran after Tehran shot down an American drone over the weekend, the Pentagon confirmed Monday. Iran responded by launching missiles targeting U.S. military personnel in Kuwait, which American forces said they intercepted. Kuwait's air defenses also opened fire to intercept incoming projectiles, and the country condemned what it called \"repeated\" Iranian attacks.\n\nThe exchange marks the latest rupture in a fragile, repeatedly violated ceasefire between Washington and Tehran that has been in effect since the broader U.S.-Israel war on Iran began in late February. Officials from both countries are still engaged in negotiations over a framework to extend and eventually formalize the ceasefire, but the talks remain inconclusive and each new strike risks derailing them. A cargo ship also came under attack off Iraq on Monday, according to the British military.\n\nOn a separate front, President Trump announced Monday that Israel and Hezbollah had agreed to dial back their fighting after he held talks with Israeli Prime Minister Benjamin Netanyahu and communicated with Hezbollah through intermediaries. Within minutes of that announcement, however, Israel reported detecting missile launches from Lebanon and warned residents in parts of northern Israel to seek shelter. Israel has pushed deep into Lebanese territory in what officials describe as the most extensive ground operation in 25 years.\n\nIran continues to maintain a chokehold on the Strait of Hormuz, disrupting global energy supplies and driving fuel prices higher. BBC Verify analysis of satellite imagery concluded that Iranian strikes on U.S. military sites have been more extensive than publicly acknowledged, with at least 20 sites damaged since the conflict began. Trump has described the U.S. posture as a blockade of the strait, though the practical enforcement of that claim remains contested.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d",
+      "sourceCount": 21,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-02T05:08:32.830999-06:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "Update: Anthropic Files for IPO as AI Spending Backlash Emerges Among Corporate Customers",
+      "summary": "Anthropic, the artificial intelligence company behind the Claude chatbot, filed confidential paperwork with U.S. regulators Monday for an initial public offering, a move that could value the five-year-old firm at close to $1 trillion. The company said the price and number of shares have not yet been set. The listing is expected to be among the largest technology offerings in history and would come ahead of a potential IPO by rival OpenAI, which CEO Sam Altman said Monday the company intends to pursue but is \"in no rush\" to execute.\n\nThe announcement arrives at a complicated moment for AI companies whose primary customers are large corporations. Hours after Anthropic filed, Altman acknowledged on CNBC that concern over AI costs among enterprise clients is \"the most fair criticism of AI so far.\" A Bain survey of nearly 1,000 companies indicated businesses are beginning to scrutinize what they spend on AI tools, a trend that could pressure Anthropic's revenues just as it attempts to attract public investors.\n\nAnalysts note that Anthropic going public before OpenAI gives it an opportunity to define how public markets value generative AI, setting benchmarks for revenue, subscriber counts, and profitability metrics. However, some strategists warn that if Anthropic's debut underperforms expectations, it could make conditions harder for subsequent AI listings. Google parent Alphabet separately announced plans Monday to deploy $80 billion in AI investment.\n\nSpaceX is also pursuing a public listing expected to set valuation records, meaning U.S. capital markets could soon absorb an extraordinary concentration of investment into a handful of AI and technology companies. The IPO prospectus, once published, will be closely watched by investors seeking hard financial data on a sector whose valuations have been driven largely by growth projections rather than demonstrated profitability.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/02/anthropic-ipo-ai-sticker-shock-spending-usage",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-02T05:08:32.830999-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: Congo Ebola Outbreak Surpasses 282 Confirmed Cases; $62 Million Pledged for Vaccine Development",
+      "summary": "Congo's Ebola outbreak has grown to at least 282 confirmed cases, concentrated in the eastern Ituri province, with more than 1,000 suspected cases of the Bundibugyo virus strain recorded across 22 health zones in three provinces, the country's health ministry reported. The outbreak has killed 42 people in Congo and one person in neighboring Uganda. There is currently no approved treatment or vaccine for the Bundibugyo species of Ebola.\n\nWorld Health Organization Director-General Tedros Adhanom Ghebreyesus visited Bunia, the Ituri provincial capital, over the weekend to open a new Ebola treatment center and honor five health workers who recovered from the disease. \"Coming out of this illness alive is an indescribable joy,\" said Baraka Bulambulu, one of the nurses who survived. Health workers have been at particularly elevated risk throughout the outbreak.\n\nIn a significant development Monday, the Coalition for Epidemic Preparedness Innovations announced it would commit up to $62 million to accelerate development of three experimental vaccines targeting the Bundibugyo strain. The candidate vaccines are being developed by the International AIDS Vaccine Initiative, Moderna, and the University of Oxford. The funding commitment signals growing international urgency as the outbreak continues to spread across remote areas with limited health infrastructure.\n\nCongo's health ministry identified early detection, rapid isolation, contact tracing, safe burials, and infection control in health facilities as the primary challenges to containing the outbreak. The WHO has sought to highlight progress, including new supply deliveries to under-resourced health centers, even as Médecins Sans Frontières has previously described the situation as \"deeply alarming.\"",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/congo-ebola-bunia-ituri-bundibugyo-2e3bd2b74ccce26dd82984f26dabc4c7",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-02T05:08:32.830999-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "India's Modi Holds Talks With Myanmar's Military-Backed President in Closely Watched First Foreign Visit",
+      "summary": "Myanmar President Min Aung Hlaing met with Indian Prime Minister Narendra Modi in New Delhi on Monday, covering trade, border security, connectivity, and defense in talks that are being closely monitored as a signal of how regional powers intend to engage with Myanmar's military-backed government. The visit is Min Aung Hlaing's first foreign trip since being elected president in April, following elections between December 2025 and January 2026 that were widely criticized by Western governments and opposition groups as neither free nor fair.\n\nMin Aung Hlaing seized power in a February 2021 coup, ousting the elected government of Aung San Suu Kyi, sparking a civil war that has killed thousands, displaced millions, and left large portions of the country outside military control. India's Foreign Secretary Vikram Misri told reporters that Modi raised broader issues of democracy with his counterpart and discussed Suu Kyi, who remains under strict house arrest. Modi's last official visit to Myanmar was in 2017.\n\nIndia emphasized its position that sustained dialogue rather than disengagement offers the best path toward peace, saying it supports an \"enduring\" and inclusive process involving all stakeholders. The two countries share a 1,643-kilometer border, and instability in Myanmar has direct consequences for India's northeastern states, including migration and cross-border security concerns involving the Chin ethnic minority.\n\nBefore this visit, Min Aung Hlaing had traveled to Russia and China since the 2021 coup. India's decision to receive him signals a pragmatic regional calculus, even as critics argue the engagement legitimizes a government that has drawn international condemnation for its human rights record and suppression of political opposition.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgplnj1wexo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-02T05:08:32.830999-06:00",
+      "slot": 5
+    }
+  ]
+}
