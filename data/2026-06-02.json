@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Russian Strikes Kill at Least 22 Across Ukraine; Kyiv Neighbourhood Devastated",
+      "summary": "A major Russian missile and drone assault struck Kyiv and other Ukrainian cities overnight, killing at least six people in the capital and 16 in Dnipro, where two residential buildings were hit directly. More than 90 people were injured across both cities, with Kharkiv also reporting 10 casualties including a child. A record 41,000 residents — including nearly 4,500 children — sheltered in the Kyiv metro, the highest such figure in recent years according to the metro company.\n\nIn Kyiv's Vynohradar neighbourhood, high-rise apartment blocks were left with shattered windows and residents emerged to find streets lined with burnt-out cars and rubble. Russia stated it targeted military infrastructure, but the damage was concentrated in civilian areas. The attack followed Moscow's public warning last week that strikes on the capital would intensify.\n\nThe assault prompted large-scale emergency response operations, with government psychologists deployed alongside rescue workers to assist traumatised residents. Volunteers distributed food and drink while police cleared debris from a children's activity centre near one blast site. Municipal crews worked through the morning to restore some semblance of normality.\n\nThe strikes represent a significant escalation in civilian casualties and infrastructure damage in a single night, reinforcing concerns that Russia is deliberately targeting populated areas despite its stated focus on military targets. The attack adds pressure on Ukraine's Western allies to accelerate weapons deliveries and air defence systems.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "4:27 PM MT",
+      "addedAtISO": "2026-06-02T16:27:46.386059-06:00",
+      "slot": 18
+    },
+    {
+      "category": "science_health",
+      "headline": "DR Congo Football Match in Spain Cancelled Over Ebola Fears as World Cup Looms",
+      "summary": "The mayor of La Línea de la Concepción, Spain, has signed a decree cancelling a scheduled international football friendly between the Democratic Republic of Congo and Chile on June 9, citing health risks from the ongoing Ebola outbreak in eastern DRC. The decision followed recommendations from the Andalusian regional health service and the municipality's own medical department, who characterised the cancellation as a precautionary measure.\n\nDR Congo's squad, whose players all play for clubs outside their home country, relocated their pre-tournament training camp to Belgium after an outbreak in Kinshasa made preparation at home impractical. While none of the players are reported to have recently visited DRC, some support staff and fans have travelled from the country, raising concern among Spanish authorities.\n\nThe outbreak involves a rare Bundibugyo strain of Ebola for which no licensed vaccine exists; the World Health Organisation has said development of a jab could take up to nine months. The United States has separately banned entry to non-Americans who have been in DRC, Uganda or South Sudan within the previous 21 days.\n\nThe cancellation carries direct World Cup consequences: DR Congo is set to compete in the tournament for the first time since 1974, with opening fixtures scheduled from June 17 in Houston. The episode raises broader questions about whether health screening and travel restrictions will be adequate as DRC's squad and travelling supporters enter the United States for the tournament.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/cm2pd28jnyxo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:27 PM MT",
+      "addedAtISO": "2026-06-02T16:27:46.386059-06:00",
+      "slot": 18
+    },
+    {
+      "category": "technology",
+      "headline": "Microsoft Claims Quantum Chip 1,000 Times More Reliable, Targets Commercially Viable Machine by 2029",
+      "summary": "Microsoft announced its new Majorana 2 quantum chip achieves qubit stability of approximately 20 seconds on average, compared to milliseconds for its predecessor Majorana 1, representing a roughly 1,000-fold improvement in reliability. The company said this advance clears a critical hurdle toward building a quantum computer capable of solving commercially useful problems, which it now targets for 2029.\n\nThe chip uses Microsoft's distinctive topological qubit approach, based on quasi-particles first theorised by Italian physicist Ettore Majorana in the 1930s and exploiting a novel state of matter distinct from solid, liquid or gas. Microsoft has pursued this strategy for two decades, though the path has not been without controversy — the company was forced to retract a 2018 Nature paper claiming evidence for the Majorana particle, and some physicists have remained publicly sceptical of its research direction.\n\nExternal experts offered cautious validation. Paul Stevenson, a physics professor at the University of Surrey, said Microsoft's timeline sounded plausible if its research holds up, adding that success would elevate the company from having no production quantum computer to being a serious contender in the race for fault-tolerant machines. However, full technical details have not been publicly released, with Microsoft citing commercial confidentiality.\n\nThe current Majorana 2 chip contains only 12 qubits, far short of the millions that would be required for a full-scale commercially viable device. The announcement nonetheless signals meaningful progress in a technology competition that carries major implications for cryptography, pharmaceutical development, materials science and artificial intelligence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:27 PM MT",
+      "addedAtISO": "2026-06-02T16:27:46.386059-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
       "headline": "California Holds Primary to Choose New Governor and Test Redrawn Congressional Maps",
       "summary": "California voters went to the polls Tuesday in a primary election to narrow the field for governor, Los Angeles mayor, and a series of congressional seats drawn under new district maps. The election will advance two candidates to the November general election for governor under the state's top-two primary system, with the open seat representing the first gubernatorial contest in years without an incumbent.\n\nFormer Health and Human Services Secretary Xavier Becerra, who polled at roughly 4 percent earlier in the year, surged in more recent polling to become a leading contender. The race is being closely watched as a bellwether for Democratic coalition-building ahead of November midterms.\n\nThe newly redrawn congressional districts put several competitive seats in play, making Tuesday's results significant for both parties as they calculate their paths to a House majority. Democrats are hoping gains in California can offset vulnerabilities elsewhere, while Republicans are defending incumbents in districts where registration advantages have narrowed.\n\nNote: Today's primary results are the fresh development, distinct from the six-state primary roundup already published, which did not include California.",
       "source": "Reuters",
