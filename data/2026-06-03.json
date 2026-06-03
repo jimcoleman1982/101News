@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-03",
+  "dateFormatted": "Wednesday, June 3, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Ukraine Strikes St. Petersburg Oil Terminal; Drone Hits Bus in Russia-Controlled Territory, Killing Seven",
+      "summary": "Ukraine launched a sweeping overnight drone offensive striking Russian territory, including a hit on an oil terminal in St. Petersburg as the city hosts the annual International Economic Forum. Ukrainian President Volodymyr Zelensky confirmed the strike, calling it part of Ukraine's \"long-range sanctions\" campaign, while Russian aviation authorities temporarily restricted flights at Pulkovo airport. Russia says it shot down 350 Ukrainian drones overnight.\n\nSeparately, seven civilians were killed and 11 injured when a drone struck a passenger bus traveling between Moscow and Simferopol through Russia-controlled Donetsk. Denis Pushilin, the Kremlin-installed regional leader, blamed Ukraine for the attack; Ukrainian officials pushed back, characterizing Russian claims as propaganda designed to equate Ukrainian strikes with Russia's systematic attacks on civilian infrastructure.\n\nThe exchanges come one day after a massive Russian assault killed at least 23 people across Ukraine, including women and children. An 86-year-old woman was also killed in a separate overnight drone attack on Ukraine's Kherson region. The intensifying tit-for-tat strikes underscore the continued escalation of the war with no ceasefire in sight.\n\nRussian President Vladimir Putin is expected to address International Economic Forum delegates in St. Petersburg on Friday, making the timing of the Ukrainian strike on the city particularly pointed. The forum is designed to project economic normalcy and attract international business to Russia despite ongoing Western sanctions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:02 AM MT",
+      "addedAtISO": "2026-06-03T03:02:59.161880-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Suspect Killed After Opening Fire Outside White House; Identified as Maryland Man With Prior Secret Service Encounters",
+      "summary": "A man opened fire outside the White House on Saturday afternoon and was shot by U.S. Secret Service agents. The suspect, identified as Nasire Best, 21, of Maryland, died en route to George Washington University Medical Center. The incident drew coverage from 18 news outlets, reflecting its significance as a direct security threat to the executive mansion.\n\nBest had multiple prior encounters with the Secret Service. He was detained on June 26, 2025, after flagging down agents and making threats, and again on July 10, 2025, for entering a restricted area. Sources described him as having a history of mental health issues.\n\nThe incident raises fresh questions about perimeter security at the White House and the handling of individuals who have previously made threats against or near the complex. No other injuries were reported.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/gunshots-heard-outside-white-house-male-suspect-taken-down-by-secret-service",
+      "sourceCount": 18,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "3:02 AM MT",
+      "addedAtISO": "2026-06-03T03:02:59.161880-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Kuwait Airport Damaged by Iranian Drones as U.S.-Iran Conflict Widens; Israel Threatens Beirut Strikes Again",
+      "summary": "Kuwait's international airport sustained significant damage from Iranian drone strikes, with traffic suspended, marking a major escalation in the widening U.S.-Iran conflict that has already drawn Gulf states into its orbit. Kuwait has condemned what it called \"repeated\" Iranian attacks on its territory. The strikes follow previous Iranian missile attacks on U.S. troops stationed in Kuwait and come as nuclear negotiations remain stalled over U.S. demands related to the Strait of Hormuz and the removal of highly enriched uranium.\n\nOn the Israeli-Hezbollah front, Israeli Prime Minister Benjamin Netanyahu warned that Beirut suburbs would be targeted in response to attacks on Israeli civilians, prompting thousands to flee Hezbollah's stronghold of Dahieh. Israel has not yet struck Beirut following a U.S.-brokered deal announcement, but the ceasefire with Hezbollah appears fragile. Israel also called its capture of Beaufort Castle a \"decisive shift\" in its Lebanon campaign, drawing criticism from European governments.\n\nBBC analysis indicates Iran's strikes on U.S. military positions have been more extensive than publicly acknowledged, with satellite imagery showing damage to at least 20 U.S. military sites since the start of the conflict. Analysts say neither side appears to want all-out war, but the cycle of strikes and stalled negotiations continues to escalate regional risk.\n\nThe conflict is placing acute strain on global shipping, with some 20,000 seafarers reported trapped in the war zone. The White House is under pressure from Gulf allies and domestic polling to broker a deal, but Iran is demanding concessions the U.S. has so far resisted.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:02 AM MT",
+      "addedAtISO": "2026-06-03T03:02:59.161880-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "FBI Launches Nationwide Summer Crime Initiative After 35 Charged in West Virginia Drug and Firearms Operation",
+      "summary": "The FBI announced Tuesday that 35 people had been charged with narcotics and firearms offenses stemming from Operation Turf War, a yearlong federal investigation in West Virginia conducted by FBI Pittsburgh and FBI Baltimore alongside the Eastern Panhandle Drug and Violent Crimes Task Force. The operation resulted in the seizure of illegal firearms, drugs, and proceeds tied to violent criminal activity. FBI Director Kash Patel called it \"a massively successful operation\" demonstrating what law enforcement partnerships \"are supposed to look like.\"\n\nAlongside the West Virginia arrests, the FBI launched Operation Summer Heat 2.0, a nationwide violent crime initiative running through September 20. The effort is modeled on last year's Operation Summer Heat, which the bureau said resulted in more than 8,600 arrests, nearly 7,750 search operations, the seizure of 2,280 firearms, and more than 44,560 kilograms of cocaine. This year's initiative is described as larger in scope, with expanded federal-state-local coordination.\n\nThe announcement reflects the Trump administration's continued emphasis on aggressive federal law enforcement engagement at the local level, a priority that has been both praised by Republican allies as a necessary crackdown on crime and scrutinized by civil liberties advocates concerned about the expansion of federal policing roles.",
+      "source": "Fox News Latest",
+      "url": "https://www.foxnews.com/us/fbi-charges-35-west-virginia-drug-firearms-operation-launches-nationwide-summer-crime-initiative",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:02 AM MT",
+      "addedAtISO": "2026-06-03T03:02:59.161880-06:00",
+      "slot": 5
+    }
+  ]
+}
