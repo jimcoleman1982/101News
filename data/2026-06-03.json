@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, June 3, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "U.S. Announces New Tariffs on Nearly All Trading Partners Over Forced Labour Concerns",
+      "summary": "The Trump administration has announced new tariffs of 10 to 12.5 percent on roughly 60 trading partners — including the United Kingdom, European Union, Canada, India, Japan and China — that together account for nearly all U.S. imports. The U.S. Trade Representative's office said the duties stem from those countries' failure to prohibit or effectively enforce bans on importing goods made with forced labour. The tariffs have not yet taken effect and must go through a formal implementation process.\n\nU.S. Trade Representative Jamieson Greer framed the action as correcting an uneven playing field for American workers. The move marks the second major round of tariffs announced by the Trump administration since the Supreme Court struck down many of its earlier duties in February, this time using forced labour as the legal rationale rather than national security or trade balance.\n\nAffected governments pushed back sharply. The UK said it is actively tackling forced labour in its supply chains and is engaged in ongoing trade negotiations with Washington. China denied that any forced labour exists within its borders, calling the tariffs 'political manipulation.' The EU called the duties unjustified and said it remains committed to the trade deal reached with the Trump administration last year. An India analyst described the move as a pressure tactic ahead of broader negotiations.\n\nThe announcement carries significant economic implications, touching virtually every major U.S. trading relationship. China and India face the higher 12.5 percent rate, while Canada, the EU, the UK and others face 10 percent. The administration's move also raises questions about how courts will treat this new justification for tariffs given the earlier Supreme Court ruling.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-03T08:08:39.360553-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Fire Kills at Least 21 in Delhi Building Housing Foreign Medical Patients",
+      "summary": "A fire tore through a multi-storey building in the Malviya Nagar area of south Delhi early Wednesday, killing at least 21 people and injuring dozens more. The building operated as a bed-and-breakfast catering to patients and relatives of those receiving treatment at a nearby private hospital, and many victims were foreign nationals, including people from Bangladesh and other South Asian countries as well as African and Central Asian nations who had traveled to India for medical care.\n\nMore than 40 people were rescued and taken to hospital. Emergency workers found numerous victims unconscious inside hotel rooms and washrooms. Some occupants jumped from upper floors to escape the flames; a local shopkeeper spread quilts on the ground below to cushion those attempting to jump. The fire was brought under control relatively quickly, but the cause remains unknown.\n\nDelhi Minister Ashish Sood said authorities are investigating whether the building had the necessary legal permissions to operate as a bed-and-breakfast. Prime Minister Narendra Modi expressed condolences and announced compensation of 200,000 rupees for families of the dead and 50,000 rupees for the injured. Officials said those found responsible for any regulatory violations would face criminal action.\n\nThe blaze is described as one of the deadliest fires in recent years in the Indian capital. Fires are common in India, where building safety regulations are frequently flouted, and the death toll among vulnerable foreign nationals traveling for medical treatment adds an international dimension to the tragedy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-03T08:08:39.360553-06:00",
+      "slot": 8
+    },
+    {
+      "category": "technology",
+      "headline": "EU Unveils Sweeping Tech Sovereignty Plan Targeting Chips, AI and Cloud Independence",
+      "summary": "The European Union announced a comprehensive technology sovereignty initiative on Wednesday aimed at expanding domestic supply chains in semiconductors, artificial intelligence and cloud computing. The plan is designed to reduce European dependence on the United States and Asia for critical digital infrastructure, reflecting growing concern in Brussels that reliance on foreign technology platforms poses strategic risks.\n\nThe initiative comes at a moment of heightened transatlantic tension, with new U.S. tariffs announced the same day covering nearly all EU imports and ongoing disputes over digital regulation between Washington and Brussels. The EU has been pressing to build indigenous capacity in advanced chips and AI since supply chain disruptions during the pandemic exposed vulnerabilities in European industry.\n\nFew details of the specific funding mechanisms or timelines were immediately available, but the plan is described as sweeping in scope, covering the full technology stack from hardware to software. It follows previous EU efforts such as the European Chips Act and the AI Act, and signals that the bloc intends to accelerate its push for strategic autonomy in technology even as it navigates trade frictions with its major partners.\n\nThe announcement positions the EU as a third pole in global technology competition alongside the United States and China at a time when AI investment and semiconductor supply chains are central to economic and national security calculations worldwide.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/europe-unveils-sweeping-tech-sovereignty-plan-to-boost-chips-ai",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-03T08:08:39.360553-06:00",
+      "slot": 8
+    },
+    {
       "category": "world",
       "headline": "Update: Ukraine Strikes St. Petersburg Oil Terminal; Drone Hits Bus in Russia-Controlled Territory, Killing Seven",
       "summary": "Ukraine launched a sweeping overnight drone offensive striking Russian territory, including a hit on an oil terminal in St. Petersburg as the city hosts the annual International Economic Forum. Ukrainian President Volodymyr Zelensky confirmed the strike, calling it part of Ukraine's \"long-range sanctions\" campaign, while Russian aviation authorities temporarily restricted flights at Pulkovo airport. Russia says it shot down 350 Ukrainian drones overnight.\n\nSeparately, seven civilians were killed and 11 injured when a drone struck a passenger bus traveling between Moscow and Simferopol through Russia-controlled Donetsk. Denis Pushilin, the Kremlin-installed regional leader, blamed Ukraine for the attack; Ukrainian officials pushed back, characterizing Russian claims as propaganda designed to equate Ukrainian strikes with Russia's systematic attacks on civilian infrastructure.\n\nThe exchanges come one day after a massive Russian assault killed at least 23 people across Ukraine, including women and children. An 86-year-old woman was also killed in a separate overnight drone attack on Ukraine's Kherson region. The intensifying tit-for-tat strikes underscore the continued escalation of the war with no ceasefire in sight.\n\nRussian President Vladimir Putin is expected to address International Economic Forum delegates in St. Petersburg on Friday, making the timing of the Ukrainian strike on the city particularly pointed. The forum is designed to project economic normalcy and attract international business to Russia despite ongoing Western sanctions.",
