@@ -3,6 +3,48 @@
   "dateFormatted": "Tuesday, June 2, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Maine Senate Democratic Front-Runner Graham Platner Meets With Senators Amid Sexual Misconduct Allegations",
+      "summary": "Graham Platner, the likely Democratic nominee in Maine's Senate primary eight days away, traveled to Washington on Tuesday to meet with Democratic senators facing questions about allegations that he sent sexually explicit text messages to as many as a dozen women in 2023. The meetings, reported by Axios, the New York Times, and NBC Politics, gave senators a direct opportunity to question Platner about the allegations first reported by the Wall Street Journal and New York Times. Senate Minority Leader Chuck Schumer declined to express full confidence in Platner when asked by reporters.\n\nThe situation has placed Democrats in a difficult position. Schumer had backed incumbent Gov. Janet Mills over Platner in the primary, but Platner surged ahead with grassroots support. Democrats now face the prospect of entering a must-win general election against Republican Sen. Susan Collins with a nominee whose vetting is incomplete and whose conduct is under scrutiny.\n\nThe Maine seat is considered critical to Democratic hopes of recapturing the Senate majority. Collins is a well-funded incumbent with a history of cross-party appeal, making the quality and stability of the Democratic nominee especially consequential. Party strategists have privately discussed whether a candidate swap is feasible, though the primary timeline makes that logistically difficult.\n\nThe episode underscores broader tensions between the Democratic establishment and grassroots primary voters who have at times favored candidates outside party leadership's preference. The Platner situation is drawing comparisons to other recent cycles where late-breaking candidate controversies complicated competitive Senate races.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/02/democrats-graham-platner-maine-senate-mills",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-02T21:08:36.197853-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Rubio Defends Global Health Cuts in Senate Testimony as Ebola Outbreak Grows",
+      "summary": "Secretary of State Marco Rubio testified before senators Tuesday, fielding sharp Democratic criticism over the Trump administration's cuts to global health programs and their effect on the international response to the ongoing Ebola outbreak in central Africa. Rubio defended the administration's approach and signaled he is reasserting U.S. control over the relationship with Gavi, the international vaccine alliance, which had previously received significant American funding.\n\nDemocrats on the panel argued that reduced U.S. support for global health infrastructure has slowed vaccine distribution and outbreak containment at a time when the Congo Ebola outbreak has surpassed 282 confirmed cases and international donors have pledged $62 million for vaccine development. Republicans and administration officials have maintained that foreign aid programs require reform and that the U.S. retains the ability to respond to genuine emergencies on its own terms.\n\nThe hearing comes as public health officials and aid organizations have warned that reduced American engagement in multilateral health bodies creates gaps in global surveillance and response capacity. Médecins Sans Frontières and other groups have called the Congo situation deeply alarming. Brazil has reported it is monitoring two patients for possible Ebola infection.\n\nRubio's testimony reflects a broader administration posture of reducing U.S. participation in international institutions while asserting direct bilateral control over foreign assistance. Critics contend this approach undermines the cooperative infrastructure built over decades to contain infectious disease before it spreads across borders.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5906723-trump-cuts-ebola-response/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-02T21:08:36.197853-06:00",
+      "slot": 21
+    },
+    {
+      "category": "other",
+      "headline": "Peabo Bryson, Grammy-Winning R&B Singer Behind Disney Duets, Dies at 75",
+      "summary": "Peabo Bryson, the Grammy-winning R&B singer best known for performing the title songs from Disney animated films Beauty and the Beast and Aladdin, died Tuesday at age 75, days after suffering a stroke. His family confirmed the death in a statement. Bryson won two Grammy Awards and was celebrated across four decades for his smooth vocal style and emotionally resonant ballads.\n\nBryson's most recognized recordings include the Oscar-winning Beauty and the Beast, recorded with Celine Dion for the 1991 film, and A Whole New World, recorded with Regina Belle for the 1992 film Aladdin, which also won the Academy Award for Best Original Song. He was also widely admired for a series of duets with Roberta Flack, including Tonight I Celebrate My Love, which became an international hit in 1983.\n\nBorn in Greenville, South Carolina in 1951, Bryson began performing professionally in his teens and recorded his first album in 1976. He became a major figure in soul and adult contemporary music through the 1980s and 1990s, with a catalog spanning more than 25 studio albums. His voice became synonymous with romantic balladry and earned him fans across multiple generations through the enduring popularity of the Disney films.\n\nHis death was reported Tuesday by the New York Times, CBS News, Fox News, and The Guardian.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/02/arts/music/peabo-bryson-dead.html",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-02T21:08:36.197853-06:00",
+      "slot": 21
+    },
+    {
       "category": "world",
       "headline": "Update: Russian Strikes Kill at Least 22 Across Ukraine; Kyiv Neighbourhood Devastated",
       "summary": "A major Russian missile and drone assault struck Kyiv and other Ukrainian cities overnight, killing at least six people in the capital and 16 in Dnipro, where two residential buildings were hit directly. More than 90 people were injured across both cities, with Kharkiv also reporting 10 casualties including a child. A record 41,000 residents — including nearly 4,500 children — sheltered in the Kyiv metro, the highest such figure in recent years according to the metro company.\n\nIn Kyiv's Vynohradar neighbourhood, high-rise apartment blocks were left with shattered windows and residents emerged to find streets lined with burnt-out cars and rubble. Russia stated it targeted military infrastructure, but the damage was concentrated in civilian areas. The attack followed Moscow's public warning last week that strikes on the capital would intensify.\n\nThe assault prompted large-scale emergency response operations, with government psychologists deployed alongside rescue workers to assist traumatised residents. Volunteers distributed food and drink while police cleared debris from a children's activity centre near one blast site. Municipal crews worked through the morning to restore some semblance of normality.\n\nThe strikes represent a significant escalation in civilian casualties and infrastructure damage in a single night, reinforcing concerns that Russia is deliberately targeting populated areas despite its stated focus on military targets. The attack adds pressure on Ukraine's Western allies to accelerate weapons deliveries and air defence systems.",
