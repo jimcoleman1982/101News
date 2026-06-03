@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, June 3, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "SpaceX Files to Raise $75 Billion in IPO, Targeting Largest Stock Market Debut in History",
+      "summary": "SpaceX disclosed Wednesday it plans to raise $75 billion in its initial public offering, offering 555.6 million shares at $135 per share and targeting a valuation of approximately $1.7 trillion. The offering, expected to occur within weeks, would nearly triple the current global IPO record of $29.4 billion set by Saudi Aramco in 2019, and dwarf the U.S. record of $25 billion set by Alibaba in 2014.\n\nThe offering would significantly increase the net worth of CEO Elon Musk, potentially making him the world's first trillionaire. SpaceX has grown into one of the world's most valuable private companies on the strength of its Falcon 9 rocket launches, Starlink satellite internet service, and NASA contracts, while also pursuing longer-term ambitions with its Starship heavy-lift rocket.\n\nThe scale of the offering is extraordinary even by the standards of mega-cap technology companies. A successful IPO at the disclosed price range would give SpaceX a public market capitalization exceeding that of most Fortune 50 corporations. The listing is expected on a major U.S. exchange and is being closely watched by institutional investors and retail markets alike as a potential signal of broader appetite for large technology and aerospace offerings.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/03/spacex-ipo-raise",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:32 PM MT",
+      "addedAtISO": "2026-06-03T16:32:55.774966-06:00",
+      "slot": 18
+    },
+    {
+      "category": "technology",
+      "headline": "U.S. and Five Eyes Allies Issue Unprecedented Joint Warning on Chinese LinkedIn Spy Recruitment",
+      "summary": "The United States and its Five Eyes intelligence partners — the U.K., Canada, Australia, and New Zealand — issued a joint warning Wednesday about Chinese intelligence services using LinkedIn and similar professional networking platforms to recruit assets and conduct espionage operations. Officials described the notice as unprecedented in its multilateral scope, signaling a coordinated effort to alert governments, businesses, and individuals to the threat.\n\nChinese intelligence services have long been accused by Western governments of using social media platforms to identify and approach scientists, researchers, government officials, and defense contractors, often posing as recruiters or academics. The joint notice suggests Five Eyes agencies have observed a significant or intensifying pattern of such activity that warrants a coordinated public alert rather than purely classified channels.\n\nThe warning adds to longstanding friction between Beijing and Western governments over espionage and technology theft. China has consistently denied state-sponsored hacking or intelligence recruitment operations targeting foreign nationals. The alert is likely to prompt renewed scrutiny of LinkedIn's role as a potential intelligence-gathering surface, and may prompt some security-sensitive organizations to restrict employee use of the platform for professional networking.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/us-and-five-eyes-allies-warn-of-linkedin-china-spying-threat",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:32 PM MT",
+      "addedAtISO": "2026-06-03T16:32:55.774966-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "South China Sea Land Rush Accelerates as Vietnam, Philippines Follow China's Island-Building Playbook",
+      "summary": "China has rapidly transformed Antelope Reef in the disputed Paracel Islands from a largely submerged reef into a 6-square-kilometer crescent of land in roughly six months, using its world-leading fleet of cutter suction dredgers. Satellite imagery and analysis suggest the construction pace may represent a world record for land reclamation, and the straight-line edge of a new beach indicates China may be building a military-grade runway at the site.\n\nCrucially, Vietnam and the Philippines are now replicating China's approach on reefs they control, in what analysts describe as an accelerating territorial land rush across the South China Sea. Vietnam, which has recently sought warmer ties with Beijing, is nonetheless building up its own occupied reefs in the Spratlys, while the Philippines is doing so to a lesser extent. The competing construction projects reflect a new strategic reality in which claimant nations believe physical presence and solid land create stronger de facto territorial claims.\n\nThe South China Sea is claimed in overlapping fashion by China, Taiwan, Vietnam, the Philippines, Malaysia, and Brunei. China asserts sovereignty over nearly the entire body of water within its nine-dash line, a claim rejected by an international arbitration tribunal in 2016. China already operates military airports on Mischief, Fiery Cross, and Subi reefs in the Spratlys, and its coast guard and maritime militia routinely confront Filipino vessels in contested waters.\n\nThe escalating construction race has significant implications for regional security and U.S. strategic interests. American naval forces conduct freedom-of-navigation operations in the area, and Washington has mutual defense treaty obligations with the Philippines. The new round of dredging across multiple claimants risks further militarizing one of the world's busiest commercial shipping lanes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy823n3ln29o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:32 PM MT",
+      "addedAtISO": "2026-06-03T16:32:55.774966-06:00",
+      "slot": 18
+    },
+    {
       "category": "politics",
       "headline": "Court Blocks National Park Service From Removing Anti-Trump '86 47' Flag Near National Mall",
       "summary": "A federal judge appointed by President Obama issued a temporary restraining order Monday preventing the National Park Service from removing an \"86 47\" flag flown near the National Mall by progressive activist group Accountability Now USA. U.S. District Judge Randolph Moss found the meaning of \"86\" ambiguous, noting the flag bore patriotic colors and no violent symbols, and concluded the group was using it to urge Congress to impeach and remove President Trump from office.\n\nThe ruling draws the '86 47' symbol into direct legal conflict after the Justice Department charged former FBI Director James Comey over a social media post featuring the same numbers arranged in seashells. The administration has treated \"86 47\" as a threat against the president, citing the term's use in the restaurant industry to mean removing or refusing service, combined with Trump's status as the 47th president. Comey faces up to ten years in prison if convicted and has denied any violent intent.\n\nThe Department of the Interior sharply criticized the ruling. \"This opinion is from an Obama-appointed judge. In what world have we lost all decency, to demand that any threat against the President be taken very seriously,\" a DOI spokesperson told Fox News Digital, while adding that the department would comply with the court's order.\n\nSupporters of the ruling argue it is a straightforward First Amendment protection for political speech, and legal experts have previously warned that the Comey prosecution faces significant constitutional hurdles. Critics contend the symbol constitutes a threat and that allowing its display near the White House perimeter sets a dangerous precedent. The temporary restraining order keeps the flag in place while the broader legal dispute over its meaning continues.",
