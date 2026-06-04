@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-04",
+  "dateFormatted": "Thursday, June 4, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Ukraine Strikes Crimea, Killing Four; Drone Hits Commuter Train as Attacks Widen",
+      "summary": "Russian-installed authorities in occupied Crimea reported at least four people killed in Ukrainian strikes on Thursday, marking what appears to be the first Ukrainian attack causing fatalities in the regional capital, Simferopol. Three people were killed and seven wounded there in strikes on what officials described as non-residential facilities; a separate drone strike on a commuter train near Kerch killed one more person and injured three.\n\nThe strikes come amid a broader Ukrainian offensive targeting Russian-held and Russian territory. On Wednesday, Ukraine struck an oil terminal near St. Petersburg and a naval base at Kronstadt, home of Russia's Baltic Fleet, hours before the opening of Russia's flagship St. Petersburg Economic Forum. President Zelensky confirmed Ukrainian drones had hit multiple locations across Russia.\n\nThursday's Crimea attacks represent the third consecutive day Ukraine has been accused of striking civilian transportation in occupied territories. Earlier in the week, a drone hit a passenger bus in Russian-controlled Donetsk, killing eight. Russia has continued its own strikes on Ukrainian cities; a mass missile and drone attack on Monday killed at least 22 people across Ukraine.\n\nThe escalating exchange of long-range strikes underscores the widening geographic scope of the conflict. Ukraine has framed its attacks on Russian energy infrastructure and naval assets as targeting the logistical backbone of Russia's war machine, while Moscow has not publicly responded to German allegations that Russia lobbied internationally against German membership on the UN Security Council partly over Berlin's support for Kyiv.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-04T05:08:35.352411-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Armed Clashes Erupt in Mogadishu as Somalia's Political Crisis Turns Violent",
+      "summary": "Heavy gunfire erupted across multiple neighborhoods of Somalia's capital, Mogadishu, on Thursday after opposition forces called for protests against President Hassan Sheikh Mohamud's one-year term extension. Mohamud's constitutional term ended on May 15, and opposition leaders declared the extension illegal, triggering the standoff.\n\nPolice said they were conducting a large-scale security operation against armed militias who had launched mortar attacks in parts of the city. Former Prime Minister Hassan Ali Khaire said he was attacked by government forces while preparing for what he described as a planned peaceful demonstration. Former President Sharif Sheikh Ahmed, speaking from the opposition camp, vowed the violence would not stop protests from proceeding.\n\nThe U.S. Embassy in Mogadishu condemned the violence as \"reckless\" and called on leaders across all sides to resolve differences through peaceful means. The number of casualties had not been confirmed as of Thursday.\n\nThe crisis marks a significant setback for Somalia's fragile democratic transition. President Mohamud had been working to replace the country's clan-based electoral system with direct elections — Somalia's first one-person, one-vote contest since 1969. The collapse of talks between the government and opposition following the term expiry has now pushed that process toward armed confrontation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-04T05:08:35.352411-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "China Bans Four New Zealand MPs Over Taiwan Visit in Unprecedented Move",
+      "summary": "China has imposed one-year travel bans on four New Zealand Members of Parliament who visited Taiwan in May, New Zealand's foreign ministry confirmed Thursday. The Chinese Embassy said the ban could be reduced or waived if the MPs apologized, calling their visit an interference in China's internal affairs that sent \"wrong signals\" to Taiwan's ruling Democratic Progressive Party.\n\nNew Zealand Foreign Minister Winston Peters described the move as surprising, noting that New Zealand MPs have visited Taiwan for decades without such consequences and that such visits are consistent with New Zealand's One China policy. Peters has instructed foreign ministry officials in Beijing and Wellington to engage Chinese authorities to better understand what he called a \"departure from past practice.\"\n\nThe four MPs targeted are Maureen Pugh, David Wilson, and Laura McClure from the ruling coalition, and Duncan Webb from the opposition Labour Party. McClure called the ban \"a type of foreign interference\" and said she would not apologize, asserting that New Zealand parliamentarians have the right to travel freely as part of living in a democracy.\n\nThe move represents an escalation in China's efforts to restrict Taiwan's international engagement. Beijing has previously criticized New Zealand parliamentary delegations to Taiwan but had never before imposed formal travel sanctions. The episode adds to growing tensions between Western-aligned democracies and Beijing over Taiwan contacts.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21r1y223ro?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-04T05:08:35.352411-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Germany Loses UN Security Council Bid; Foreign Minister Blames Russian Lobbying",
+      "summary": "Germany failed to secure a rotating seat on the UN Security Council on Wednesday, losing to Portugal and Austria in a vote among UN member states. Foreign Minister Johann Wadephul called the outcome a \"bitter defeat\" and said Russia had actively lobbied against Germany because of Berlin's firm backing for Ukraine. Germany received 104 votes compared to Portugal's 134 and Austria's 131.\n\nWadephul also suggested Germany's strong support for Israel in the Middle East conflict may have cost votes among member states that do not share that position. He acknowledged that Germany's late entry into the race was also a factor. Russia has not publicly responded to the accusations of lobbying against Germany's candidacy.\n\nThe result is a political setback for Chancellor Friedrich Merz, who took office emphasizing his intent to raise Germany's standing in international institutions. Opposition parties were quick to describe the loss as an embarrassment abroad compounding domestic difficulties at home.\n\nThe Security Council is the only UN body empowered to make legally binding decisions, including imposing sanctions and authorizing the use of force. Also elected to the council were Kyrgyzstan, Trinidad and Tobago, and Zimbabwe. Merz congratulated Portugal and Austria and said Germany would remain a \"reliable pillar of the multilateral system.\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-04T05:08:35.352411-06:00",
+      "slot": 5
+    }
+  ]
+}
