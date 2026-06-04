@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, June 3, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: DOJ Permanently Abandons $1.8 Billion 'Anti-Weaponization' Settlement Fund After Bipartisan Backlash",
+      "summary": "Acting Attorney General Todd Blanche told lawmakers Tuesday that the Justice Department would not move forward with a $1.776 billion fund originally announced as part of a settlement in President Trump's personal lawsuit against the IRS over the leak of his tax returns. The fund had been widely condemned as a slush fund intended to compensate Trump allies, including participants in the January 6, 2021 Capitol attack, and drew rare bipartisan criticism including from some Senate Republicans.\n\nThe case has been further complicated by a motion filed by dozens of former federal judges alleging 'fraud on the court,' arguing that Trump was effectively suing himself — as both plaintiff and, through the Justice Department, the defendant. Retired federal judge Nancy Gertner, one of the signatories, stated: 'What happened in this case was, essentially, Trump was suing himself. There was no question that Trump was on both sides of the v.'\n\nSupporters of the fund had argued it addressed legitimate grievances over government overreach and political targeting. Critics, including the former judges and Democratic lawmakers, contend the arrangement was an unconstitutional misuse of executive power and that directing any IRS audit to be opened or closed at a president's request constitutes a federal crime under existing law.\n\nThe reversal marks a significant retreat for the administration on a policy that had generated unusually broad opposition. The underlying lawsuit over the IRS leak of Trump's tax data remains active, and the reopened court case over the alleged collusion is ongoing.",
+      "source": "CBS News",
+      "url": "https://www.democracynow.org/2026/6/3/matt_platkin_nancy_gertner_irs_weaponization",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-03T21:08:24.694093-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Expected to Announce $700 Million Boost for Coal Using Wartime Authority; Blanche Tapped as Permanent AG",
+      "summary": "President Trump is expected to announce a roughly $700 million commitment to the U.S. coal industry on Wednesday, deploying wartime authority under the Defense Production Act to direct $425 million to 13 existing coal plants and $75 million toward a California export terminal. An additional $185 million in related spending is also anticipated, representing one of the most significant federal interventions in the coal sector in years.\n\nSeparately, Trump is expected to nominate Acting Attorney General Todd Blanche to serve permanently in the role. Blanche, who previously served as Trump's personal defense attorney before being tapped as acting AG following Pam Bondi's firing in April, would require Senate confirmation if formally nominated.\n\nProponents of the coal investment argue it advances energy security and preserves jobs in communities dependent on the industry. Critics contend the move runs counter to market forces — coal has been losing ground to natural gas and renewables on cost — and that invoking wartime industrial authority for fossil fuel subsidies is an improper use of emergency powers.\n\nThe dual announcements underscore the administration's continued emphasis on fossil fuel production and loyalty to legal allies. The Blanche nomination is notable given his simultaneous role in the administration's decision to abandon the controversial IRS settlement fund, announced the same day.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/energy-environment/5908921-trump-coal/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-03T21:08:24.694093-06:00",
+      "slot": 21
+    },
+    {
+      "category": "science_health",
+      "headline": "First U.S. Case of Flesh-Eating New World Screwworm Since 1960s Confirmed in Texas Calf",
+      "summary": "The U.S. Department of Agriculture confirmed Wednesday that a case of the New World screwworm — a flesh-eating parasitic fly larva — has been detected in a three-week-old calf in Zavala County, Texas. Larvae were identified in the calf's umbilical area. Agriculture officials say this is the first confirmed case of the pest on U.S. soil since the 1960s, when a decades-long eradication campaign successfully eliminated it from the country.\n\nNew World screwworm (Cochliomyia hominivorax) infests the living tissue of warm-blooded animals, including livestock and humans, and can be fatal if untreated. The parasite was eradicated from the United States and most of Central America through the mass release of sterile flies, one of the most successful biological pest-control programs in agricultural history. Its return would pose a significant threat to the U.S. cattle industry, which generates hundreds of billions of dollars annually.\n\nThe detection follows recent alerts about screwworm spreading northward through Mexico, prompting U.S. agricultural authorities to heighten surveillance at the southern border. The USDA has previously warned that a reestablishment of the pest in the U.S. could cost the livestock industry billions of dollars and require a renewed, costly eradication effort.\n\nAuthorities have not yet disclosed whether additional animals or sites are under investigation. The confirmed case is expected to trigger immediate response protocols including quarantine measures and intensified inspections of livestock in the region.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/03/business/new-world-screwworm-texas.html",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-03T21:08:24.694093-06:00",
+      "slot": 21
+    },
+    {
       "category": "business",
       "headline": "SpaceX Files to Raise $75 Billion in IPO, Targeting Largest Stock Market Debut in History",
       "summary": "SpaceX disclosed Wednesday it plans to raise $75 billion in its initial public offering, offering 555.6 million shares at $135 per share and targeting a valuation of approximately $1.7 trillion. The offering, expected to occur within weeks, would nearly triple the current global IPO record of $29.4 billion set by Saudi Aramco in 2019, and dwarf the U.S. record of $25 billion set by Alibaba in 2014.\n\nThe offering would significantly increase the net worth of CEO Elon Musk, potentially making him the world's first trillionaire. SpaceX has grown into one of the world's most valuable private companies on the strength of its Falcon 9 rocket launches, Starlink satellite internet service, and NASA contracts, while also pursuing longer-term ambitions with its Starship heavy-lift rocket.\n\nThe scale of the offering is extraordinary even by the standards of mega-cap technology companies. A successful IPO at the disclosed price range would give SpaceX a public market capitalization exceeding that of most Fortune 50 corporations. The listing is expected on a major U.S. exchange and is being closely watched by institutional investors and retail markets alike as a potential signal of broader appetite for large technology and aerospace offerings.",
