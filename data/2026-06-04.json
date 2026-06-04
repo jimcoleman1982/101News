@@ -3,6 +3,48 @@
   "dateFormatted": "Thursday, June 4, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: Ukrainian Drones Strike St. Petersburg Suburbs and Naval Base as Putin's Economic Forum Opens",
+      "summary": "Ukraine launched a large-scale drone attack on Russia's second-largest city on Thursday, striking multiple districts in St. Petersburg and the nearby naval town of Kronstadt hours before President Vladimir Putin was set to address the St. Petersburg International Economic Forum. Russian authorities said air defenses shot down 59 drones overnight, but acknowledged strikes across three districts. Thick black smoke was visible over the city's waterfront, and St. Petersburg's Pulkovo Airport was temporarily closed. Mobile internet was also disrupted across the region, and air raid alerts were issued in parts of Latvia and Estonia.\n\nPresident Volodymyr Zelensky confirmed Ukrainian forces struck an oil terminal and a naval base at Kronstadt, home to the Russian Navy's Baltic Fleet. Ukrainian drone commander Robert Brovdi said the corvette Boikiy was hit, though this could not be independently verified. Zelensky described the strikes as part of Ukraine's \"long-range sanctions\" strategy aimed at degrading Russian military and energy infrastructure.\n\nThe timing was deliberately provocative. The St. Petersburg Economic Forum — once dubbed the \"Russian Davos\" — attracted thousands of guests from 130 countries, including, for the first time in nearly a decade, a low-key U.S. delegation led by the head of the U.S. Commission of Fine Arts. Kremlin spokesman Dmitry Peskov warned that Moscow's response \"will be systemic in nature.\" No fatalities from Thursday's strike were reported by Russian authorities.\n\nThe attack marks a further escalation in Ukraine's long-range strike campaign inside Russian territory. In recent days, Ukrainian drones have also hit a St. Petersburg oil terminal and a passenger bus in Russian-controlled territory, killing seven. Ukraine has significantly expanded its drone capabilities since Russia's 2022 invasion and increasingly targets energy infrastructure it argues fuels the Russian war machine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:42 PM MT",
+      "addedAtISO": "2026-06-04T16:42:27.556208-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "DOJ Opens Civil Rights Investigations Into 15 More Medical Schools Over Race-Based Admissions",
+      "summary": "The Department of Justice announced Thursday it has opened civil rights investigations into 15 additional U.S. medical schools over allegations of illegal race-conscious admissions practices. The DOJ's Civil Rights Division said it will examine whether the schools, each of which receives millions in federal funding, are in compliance with federal anti-discrimination law. The announcement follows recent DOJ findings that medical schools at UCLA and Yale illegally used race as a factor in admissions decisions.\n\nThe department did not publicly identify the 15 schools under investigation or provide specific evidence of wrongdoing, saying the investigations were opened to ensure federal compliance. Earlier probes at Ohio State University and Stanford University were also cited as precedents for the expanded effort. The action is part of the Trump administration's broader campaign against diversity, equity, and inclusion programs in higher education.\n\nSupporters of the initiative argue that race-conscious admissions violate the Supreme Court's 2023 ruling in Students for Fair Admissions v. Harvard, which prohibited considering race in college admissions. Critics, including civil rights advocates and many medical educators, counter that diversity in medical education improves health outcomes for underserved communities and that the administration is using the investigations to intimidate institutions and dismantle diversity programs through regulatory pressure rather than litigation.\n\nThe expansion of DOJ scrutiny to medical schools signals that the administration is moving beyond undergraduate admissions enforcement into professional and graduate education. Medical schools have argued that diverse physician workforces are a matter of public health, while opponents contend that admissions must be race-neutral under current law regardless of the downstream rationale.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5910911-civil-rights-probe-med-admissions/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:42 PM MT",
+      "addedAtISO": "2026-06-04T16:42:27.556208-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "House Oversight Releases Bondi Transcript on Epstein Files; Ex-AG Points Finger at Acting AG Blanche",
+      "summary": "The House Oversight and Government Reform Committee released Thursday the transcript of its closed-door interview with former Attorney General Pam Bondi concerning her handling of the Jeffrey Epstein files. The roughly four-hour session produced significant gaps in the record: Bondi declined to answer a number of questions and repeatedly attributed responsibility for overseeing the Epstein file review to Todd Blanche, who served as acting attorney general. The committee also released the transcript of an interview with a prison guard who was on duty the night Epstein died.\n\nBondi left the Justice Department earlier this year and her testimony before the Oversight Committee was among the first formal congressional attempts to obtain answers about why the much-anticipated Epstein files have not been fully released to the public. The disclosures have become a politically charged issue, with members of both parties pressing for transparency on the matter.\n\nThe release of the transcripts marks a new development in the committee's investigation, providing the public its first detailed look at what Bondi said — and declined to say — under questioning. The finger-pointing toward Blanche complicates the accountability chain at the Justice Department and is likely to intensify congressional scrutiny of how the Epstein materials have been managed under the current administration.\n\nThe Epstein files have remained a persistent bipartisan flashpoint since Trump's return to office, with many supporters of the president having expected a full public release of documents related to Epstein's associates. The committee's investigation is ongoing, and further hearings or document requests are expected.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/house/5910872-oversight-committee-bondi-transcript/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:42 PM MT",
+      "addedAtISO": "2026-06-04T16:42:27.556208-06:00",
+      "slot": 18
+    },
+    {
       "category": "business",
       "headline": "Supreme Court Bolsters SEC's Power to Recover Illegal Profits",
       "summary": "The U.S. Supreme Court on Thursday issued a ruling reinforcing the Securities and Exchange Commission's authority to recoup illegal gains from wrongdoers, reaffirming one of the agency's most significant enforcement tools. The decision strengthens the SEC's hand in cases where it seeks disgorgement — the return of profits derived from fraudulent or unlawful activity — following years of legal challenges that had placed limits on the practice.\n\nThe ruling is a notable win for financial regulators at a moment when the SEC's enforcement posture has been closely watched. Prior Supreme Court decisions had narrowed disgorgement authority, and Wednesday's ruling pushes back against that trend by giving the agency broader latitude to pursue ill-gotten gains.\n\nThe case is expected to have wide practical implications for securities enforcement, particularly in complex fraud cases where defendants have argued that disgorgement amounts exceeded what courts could lawfully order. Plaintiffs' attorneys and investor advocates are likely to view the decision as a meaningful expansion of investor protections.\n\nThe ruling arrives amid broader scrutiny of federal regulatory power across multiple agencies, making it a significant data point in ongoing legal debates about the scope of administrative enforcement authority.",
