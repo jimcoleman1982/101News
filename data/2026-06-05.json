@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-05",
+  "dateFormatted": "Friday, June 5, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Zelensky Proposes Direct Face-to-Face Talks With Putin to End War",
+      "summary": "Ukrainian President Volodymyr Zelensky published an open letter to Russian President Vladimir Putin on Thursday calling for direct face-to-face peace negotiations, proposing Switzerland or Turkey as potential venues. Zelensky also called for a full ceasefire for the duration of any proposed talks, and acknowledged publicly that the U.S. is currently \"fully focused on the issue of Iran\" and that Ukraine cannot simply wait for Washington's attention to return to the European war.\n\nThe letter was notable for its defiant and at times mocking tone, with Zelensky remarking that \"after 26 years in power, age is beginning to take its toll\" on Putin. The Kremlin confirmed it received the letter and, as it has before, said Zelensky was welcome to come to Moscow — a condition Ukraine has consistently rejected. Putin, speaking to foreign journalists in St. Petersburg before seeing the letter's contents, said he was willing to reach an agreement but insisted Ukraine must withdraw from four regions largely occupied by Russia and abandon NATO ambitions — terms Kyiv has firmly ruled out.\n\nU.S. President Donald Trump said Thursday he thought a meeting between the two leaders would be \"great.\" Ceasefire negotiations have stalled for months following failed talks in Geneva, Abu Dhabi, and Istanbul. The public letter represents Zelensky's most direct and prominent personal appeal to Putin yet, and comes as Ukraine has escalated drone and missile strikes on Russian territory, a point Zelensky referenced in the letter as leverage.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-05T05:08:22.797910-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Xi Jinping to Visit North Korea Next Week for First Trip in Nearly Seven Years",
+      "summary": "Chinese President Xi Jinping will travel to North Korea on June 8–9 at the invitation of Kim Jong Un, according to state media from both countries. The visit will be Xi's first to Pyongyang since 2019 and comes weeks after Xi hosted both U.S. President Donald Trump and Russian President Vladimir Putin in Beijing, underscoring the complex web of great-power relationships surrounding the Korean Peninsula.\n\nFor Kim, the visit carries significant propaganda value, signaling North Korea's standing on the world stage after its entry into the Ukraine conflict on Russia's side. China remains North Korea's largest trading partner and sole mutual defense treaty partner, and Kim is expected to press for expanded cross-border trade and increased Chinese tourism to newly built resorts. Beijing, meanwhile, has grown increasingly wary of the deepening Pyongyang-Moscow alliance and is eager to maintain its influence over Kim's foreign policy.\n\nSouth Korea's unification minister expressed hope that Xi would use the visit to nudge Kim toward resuming dialogue with both Seoul and Washington. North Korea's nuclear program is also expected to be discussed, though China has significantly softened its public push for denuclearization of the Korean Peninsula in recent years. During last month's Trump-Xi summit, both leaders reaffirmed a shared goal of denuclearization, though concrete mechanisms remain elusive.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clypym3q7p1o",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-05T05:08:22.797910-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "At Least 49 Die of Thirst in Sahara After Lorry Breaks Down in Niger",
+      "summary": "At least 49 people died of thirst in a remote stretch of the Sahara desert in northern Niger after the truck transporting them broke down more than 80 kilometers from the nearest border crossing, Nigerien authorities announced Thursday. Only two of the passengers survived, trekking across the desert to the town of Assamaka where they alerted officials.\n\nThe group had been returning from Mali, where they had attended a Muslim festival, when the vehicle veered off its intended route and the driver and passengers were unable to repair it. Stranded for several days without water in extreme heat, dozens perished. Rescue teams dispatched by local authorities found \"dozens of lifeless bodies\" under and around the immobilized truck and buried victims in mass graves on site.\n\nThe Niger desert is one of the primary overland transit corridors for migrants from across West Africa attempting to reach North Africa and ultimately Europe. The Agadez governor said the tragedy highlighted the \"vulnerability of young people engaged in migratory and cross-border economic activities, often forced to pass through unstable areas.\" Separately, the rescue team on its return encountered a second broken-down lorry carrying more than 60 people who had been stranded for three days; those passengers were given water and helped to safety.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c62r2ldyejro",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-05T05:08:22.797910-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Administration Proposes Giving Political Appointees Final Say Over Federal Research Grants",
+      "summary": "The Trump administration has published a proposed overhaul of how the federal government awards billions of dollars in scientific research grants, a move that would require political appointees — rather than peer-reviewed expert panels — to give final approval before funds are disbursed. The proposal, issued by the Office of Management and Budget, would also bar funding for projects that promote diversity, equity, and inclusion, and require that research \"demonstrably advance the president's policy priorities.\"\n\nAdministration officials framed the changes as necessary to eliminate waste, fraud, and abuse and to stop what they characterized as ideologically driven grant-making. OMB has said the administration has the prerogative to direct research priorities, a position that has precedent in prior administrations' emphases on specific scientific areas.\n\nCritics, including former NOAA chief scientist Craig McLean and the advocacy group Stand Up for Science, argue the proposal would subordinate scientific judgment to political considerations, undermining the integrity of U.S. research and potentially endangering public safety. McLean pointed to the administration's public skepticism of established climate science as evidence that political appointees would override empirical findings. The proposed rules have not yet taken effect, and the comment and review process remains ongoing.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/new-proposal-would-give-trump-officials-more-control-over-scientific-research-grants",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-05T05:08:22.797910-06:00",
+      "slot": 5
+    }
+  ]
+}
