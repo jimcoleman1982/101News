@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Israel Kills Lebanese Soldiers in Strike on Car, Triggers Diplomatic Fury",
+      "summary": "The Israel Defense Forces confirmed Saturday that it struck a vehicle carrying Lebanese Army soldiers in southern Lebanon, near the village of Kfar Tebnit, killing two officers and one soldier. The IDF said the car was 'moving suspiciously towards forces' in an active combat zone where gunfire had been reported, and said its initial investigation confirmed three soldiers were in the vehicle. Lebanon's Army condemned the strike as 'brutal, deliberate and repeated aggression,' and Lebanese President Joseph Aoun called it 'a flagrant violation of Lebanese sovereignty and international law.'\n\nIsrael said it is not in direct conflict with the Lebanese government and that its forces are 'operating against the Hezbollah terrorist organisation, not against the Lebanese Army.' The IDF noted that troop movements in the area require prior coordination with Israeli forces. The Lebanese government, which opposes Hezbollah, has sought a ceasefire and has said it needs one in order to disarm Hezbollah itself.\n\nThe incident further complicates U.S. efforts to broker a deal with Iran, which has made ending the campaign against Hezbollah a condition of any agreement. Hezbollah leader Naim Qassem this week rejected a U.S.-backed ceasefire arrangement between Lebanon and Israel, calling those talks 'futile.' The killing of Lebanese Army personnel — members of the state military rather than Hezbollah — risks widening international pressure on Israel at a sensitive diplomatic moment.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:06 AM MT",
+      "addedAtISO": "2026-06-06T08:06:05.761297-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Iran Says Key Staff Denied U.S. Visas for World Cup Despite Players Being Cleared",
+      "summary": "Iran accused the United States on Saturday of denying entry visas to a 'large portion' of its national soccer team's managerial, executive, and technical staff, hours after Washington confirmed that players and 'necessary support staff' had been granted permission to travel for the upcoming World Cup. Iran's embassy in Turkey called the U.S. announcement a 'whitewash' and accused Washington of 'politically biased interference in sport.' Iranian state-linked media reported that the head of the country's football federation and his deputy were among those denied visas.\n\nThe 2026 World Cup, co-hosted by the United States, Canada, and Mexico, opens June 11, with Iran's first match scheduled for June 15 in Los Angeles against a yet-to-be-confirmed opponent. It will be the first World Cup in which a host nation receives the team of a country it is actively at war with. Iran moved its training base from Tucson, Arizona, to Mexico in late May following the outbreak of conflict.\n\nU.S. Secretary of State Marco Rubio had told lawmakers earlier this week that Iran's delegation would not be permitted to include individuals linked to the Islamic Revolutionary Guards Corps. Several players in Iran's squad have completed mandatory military service with that organization. Iran called on FIFA, soccer's world governing body, to intervene in the dispute, escalating what has become both a diplomatic and sporting flashpoint.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:06 AM MT",
+      "addedAtISO": "2026-06-06T08:06:05.761297-06:00",
+      "slot": 8
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Maine Senate Candidate Graham Platner Faces Mounting Accusations as Primary Approaches",
+      "summary": "With Tuesday's Democratic primary for Maine's U.S. Senate seat drawing near, accuser Lyndsey Fifield publicly charged that New York Times journalists 'twisted' her account of alleged abuse by candidate Graham Platner into a story that benefited his campaign. Fifield, who says she dated Platner from 2013 to 2015, wrote on social media that reporters 'methodically delayed and twisted this into a gift to the Platner campaign,' and accused them of omitting corroborating evidence from friends she said confirmed her account. A separate report by the Washington Free Beacon said the Times also omitted 'accusations of sexual assault' from the story.\n\nPlatner, a Marine combat veteran seeking to unseat Republican Sen. Susan Collins in November, has attributed the controversies to deliberate leaks from the Democratic establishment, which initially backed Maine Gov. Janet Mills for the race. He has spoken publicly about struggling with PTSD from his combat tours and acknowledged past behavior he is 'not proud of.' Three women who dated him offered positive accounts to the Times, while three others described disturbing and volatile behavior.\n\nFifield also said she was the source who originally leaked information about Platner's tattoo of the Totenkopf, a symbol associated with the SS guards of Nazi concentration camps, and said Platner himself had used the German word for the symbol and called it 'my Totenkopf' — directly contradicting his claim that he was unaware of its meaning. Republican senators have denounced Platner over the allegations, and Democratic Rep. Brad Schneider said Platner's denial of knowing the tattoo's origins 'is not credible.' The controversies have thrown one of the country's most competitive Senate races into uncertainty days before voters go to the polls.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/4596470/platner-accuser-lyndsey-fifield-new-york-times-journalists-twisted-story-help-campaign/",
+      "sourceCount": 15,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:06 AM MT",
+      "addedAtISO": "2026-06-06T08:06:05.761297-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
       "headline": "Update: US-Iran War Escalates With Fresh Strikes, Strait of Hormuz Blockade, and Kuwait Attacks",
       "summary": "The United States and Iran carried out fresh strikes around the Strait of Hormuz on Friday, with Iran targeting US military bases in Kuwait and Bahrain in retaliation for earlier American strikes on an Iranian oil tanker and island. Iran also seized two cargo ships in the strait, and President Trump declared the US is blockading the strategic waterway through which a significant share of global oil supplies passes. Iran's top negotiator asserted that Tehran \"will decide the right of passage\" through the strait.\n\nSatellite imagery and video analyzed by BBC Verify shows Iran has damaged 20 US military sites since the conflict began on February 28, when the US and Israel launched coordinated strikes on Iran. One person was killed and more than 60 were injured in an Iranian drone strike earlier this week. Israel has also threatened to resume strikes on Beirut as a cessation of hostilities with Hezbollah — seen as critical to any broader peace process — remains fragile.\n\nEnergy markets have swung sharply since the conflict began, with global oil prices spiking and UK motoring group RAC warning that pump prices could continue rising absent a resolution. The Trump administration is directing emergency funding into coal production to offset domestic energy cost increases driven by the war.\n\nDiplomatic pressure is mounting from Gulf allies and in US polling, with the White House pushing for a negotiated settlement, but Iran is demanding concessions. The BBC's international editor writes that the path to any deal remains narrow, with both sides conducting strikes even as back-channel talks are reported.",
       "source": "BBC News",
