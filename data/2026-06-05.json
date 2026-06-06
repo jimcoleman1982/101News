@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: U.S. Military Shoots Down Iranian Drones, Intercepts Ballistic Missiles Near Strait of Hormuz",
+      "summary": "The U.S. military shot down four Iranian one-way attack drones on Friday that were heading toward the Strait of Hormuz and posed an imminent threat to maritime traffic, according to U.S. Central Command. In response, U.S. forces struck Iranian coastal surveillance radar sites in Goruk, in Hormozgan province, and on Qeshm Island.\n\nHours later, Iran escalated further by firing seven ballistic missiles toward Kuwait and Bahrain. The U.S. military intercepted six of the missiles, marking one of the most serious exchanges since the fragile ceasefire took hold. The incidents represent a significant deterioration in the already tenuous halt to hostilities.\n\nCommercial traffic through the Strait of Hormuz, a chokepoint for roughly a fifth of global oil supply, remains sharply reduced amid the ongoing tensions. Energy analysts warn that a prolonged disruption could send shockwaves through global markets and supply chains. U.S. Central Command has counted nearly 1,000 commercial vessel transits through the strait since the ceasefire, a figure higher than private-sector estimates.\n\nThe exchanges underscore the fragility of the ceasefire and raise questions about whether diplomatic talks between Washington and Tehran can gain traction. Both nations have continued military posturing even as negotiations are described as showing little sign of progress.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/5912849-us-military-shoots-down-iranian-drones/",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-05T21:08:25.158499-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Federal Prosecutor Opens Multiple Election Fraud Investigations in California After Trump's Cheating Claims",
+      "summary": "A federal prosecutor in California announced Friday that his office has opened multiple election fraud investigations following President Trump's public accusations that Democrats cheated in the state's primary elections. Bill Essayli, first assistant U.S. attorney for the Central District of California, confirmed the probes are underway but declined to provide specifics on the scope or targets.\n\nTrump made the fraud allegations this week after results from California's primary elections — including the closely watched governor's race and the Los Angeles mayoral contest — remained uncalled, with counts continuing to trickle in over multiple days. The announcement follows a pattern of the administration directing federal law enforcement resources toward election-related matters in Democratic-leaning states.\n\nCritics of the probe argue it amounts to political pressure on election administrators and voters, with no credible evidence of widespread fraud presented. Supporters of the investigation contend that slow vote-counting and shifting tallies in California warrant scrutiny, and that the DOJ has an obligation to follow up on credible allegations of electoral misconduct.\n\nThe California primary races involved in the dispute include the gubernatorial contest and the Los Angeles mayoral race, both of which remained unresolved as of Friday. The investigations represent a significant escalation of federal involvement in state-level election administration.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/5912737-california-election-fraud-probes/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-05T21:08:25.158499-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
       "headline": "Update: Ebola Outbreak Could Exceed 20,000 Cases, CDC Warns in Worst-Case Modeling",
       "summary": "A new CDC report warns that the ongoing Ebola outbreak in the Democratic Republic of Congo and Uganda could reach more than 20,000 cases and over 2,000 deaths within three months if immediate containment measures are not taken. The modeling represents a worst-case scenario but underscores the urgency of an international response to what could become one of the deadliest Ebola outbreaks on record.\n\nThe outbreak comes amid significant cuts to U.S. global health funding, with Secretary of State Rubio recently defending those reductions in Senate testimony even as the epidemic grows. The DRC has been the epicenter of multiple Ebola outbreaks in recent years, but the spread into Uganda raises concerns about cross-border transmission in a densely populated region.\n\nPublic health officials have warned that reduced U.S. foreign aid, combined with strained health infrastructure in the affected countries, could hamper the rapid response that has historically been critical to containing Ebola. The CDC's intervention with modeling data signals growing alarm within the agency about the trajectory of the outbreak.",
       "source": "NPR",
