@@ -3,6 +3,48 @@
   "dateFormatted": "Saturday, June 6, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: Platner Accuser Says New York Times Reporters 'Twisted' Her Story Into a Gift for His Campaign",
+      "summary": "Lyndsey Fifield, one of three women whose allegations of emotional and physical aggression against Maine Democratic Senate candidate Graham Platner were published by the New York Times this week, publicly accused the paper's reporters of manipulating her account. In a lengthy post on X, Fifield wrote that journalists Katie Glueck and Lisa Lerer 'methodically delayed and twisted' her story in ways that benefited Platner's campaign, alleging they omitted corroborating testimony from friends she had confided in about the alleged abuse years before Platner entered politics.\n\nFifield described specific incidents, including Platner regularly grabbing her by the shoulders, forcibly grabbing her wrist after an argument, and making repeated statements she found threatening. She also said she was the original source who leaked information about Platner's Totenkopf tattoo — a symbol used by SS concentration camp guards — and provided evidence she says disproves his claim that he did not know the symbol's meaning, stating he used the word himself and referred to it as 'my Totenkopf.'\n\nPlatner, who is seeking to unseat Republican Sen. Susan Collins of Maine in one of the most closely watched Senate races in the country, has acknowledged past behavioral struggles he attributes to PTSD from his Marine combat tours. He has also suggested Democratic Party operatives opposed to his candidacy — who initially favored Gov. Janet Mills — have been leaking damaging information to derail his primary campaign.\n\nThe episode has drawn coverage across the political spectrum and raises questions both about the candidate's fitness for office and about the conduct of journalists handling sensitive personal allegations in a contested primary. The Maine Senate race is considered a potential seat-flipping opportunity for Democrats seeking to retake the Senate majority.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/4596470/platner-accuser-lyndsey-fifield-new-york-times-journalists-twisted-story-help-campaign/",
+      "sourceCount": 15,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:43 PM MT",
+      "addedAtISO": "2026-06-06T13:43:27.879029-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Expands TrumpRx Drug Platform to Over 800 Discounted Prescription Medications",
+      "summary": "President Trump on Friday announced the addition of 160 prescription drugs to TrumpRx.gov, a direct-to-consumer pharmaceutical platform launched by his administration, bringing the total number of discounted medications available through the program to more than 800. The White House said the program has saved American consumers over $400 million since its launch, and Trump framed the expansion as delivering on his pledge to lower prescription drug costs without relying on traditional pharmacy benefit managers.\n\nTrumpRx is designed to allow patients to purchase medications at negotiated prices directly through a government-affiliated platform, bypassing intermediaries in the drug supply chain. This marks the second expansion of the program in as many months, signaling the administration is prioritizing it as a visible healthcare cost initiative heading into the midterm election cycle.\n\nSupporters argue the program offers tangible, immediate relief for consumers facing high drug prices and represents a market-based approach to pharmaceutical affordability. Critics have questioned whether the savings claims are fully verifiable, how the platform's pricing compares to existing discount programs such as GoodRx or Medicare Part D, and whether it addresses systemic pricing issues in the pharmaceutical market.\n\nThe announcement is notable as a domestic policy action taken directly by the executive branch on healthcare costs, an issue that polls consistently show is a top concern for American voters across party lines.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/5913129-donald-trump-trumprx-expansion-160-drugs/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:43 PM MT",
+      "addedAtISO": "2026-06-06T13:43:27.879029-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Peru Heads to Presidential Election, Its Tenth in a Decade, in Tight Race Between Far-Right and Leftist Candidates",
+      "summary": "Peruvians go to the polls Sunday to elect a new president in what polls describe as a polarized and closely contested race between hard-right candidate Keiko Fujimori and leftist Roberto Sánchez. The election will produce Peru's tenth president in roughly a decade, a period marked by extraordinary political instability, including impeachments, resignations, and the jailing of multiple former heads of state.\n\nFujimori, daughter of imprisoned former authoritarian president Alberto Fujimori, is making her fourth presidential bid and faces her strongest polling numbers yet despite her own legal troubles, including past convictions and ongoing corruption cases. Sánchez, aligned with the political left, is running on promises of economic reform and greater state intervention, appealing to Peru's large rural and indigenous populations who feel left behind by the country's mining-driven growth.\n\nThe outcome carries significant regional implications. Peru is one of the world's largest copper and gold producers, and a shift in economic policy under either candidate could affect global commodity markets and foreign investment flows. Both candidates have also made divergent statements on relations with neighboring countries and on the role of international institutions.\n\nThe election takes place against a backdrop of deep public distrust in government institutions. Peru has seen sustained street protests, congressional power struggles, and a judiciary under pressure, making political stability a central voter concern regardless of ideological affiliation.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/06/nx-s1-5847845/peru-election",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:43 PM MT",
+      "addedAtISO": "2026-06-06T13:43:27.879029-06:00",
+      "slot": 14
+    },
+    {
       "category": "world",
       "headline": "Pope Leo XIV Arrives in Spain for First Papal Visit in 15 Years",
       "summary": "Pope Leo XIV landed in Madrid on Saturday, beginning a weeklong visit to Spain — the first papal trip to the country in 15 years. The American pope, who has Spanish ancestry and traveled to Spain dozens of times as a priest, was greeted at the airport by King Felipe VI and Queen Letizia. His arrival signals a renewed papal focus on Europe's traditional Christian heartlands after Pope Francis had largely prioritized smaller Catholic communities in the developing world.\n\nIn his opening address, Leo appealed to Spaniards and their political leaders to abandon divisive rhetoric and invest in educating young people to appreciate diversity and complexity. 'Today, the temptation to gain popularity by fanning the flames of polarization seems to have grown rather than diminished, and human dignity continues to be violated,' he said. He also invoked Spain's 800-year Moorish past as a historical model of interfaith dialogue.\n\nThe visit comes at a moment of acute political tension in Spain. The ruling Socialist government of Prime Minister Pedro Sánchez is beset by corruption scandals, while conservative and far-right parties have called for his resignation ahead of 2027 elections. Spain has also bucked European trends by announcing plans to grant legal status to potentially hundreds of thousands of undocumented immigrants, a policy that has deepened partisan divisions.\n\nThe centerpiece of the visit will be Leo's address Monday to both chambers of the Spanish Parliament — the first speech by a pope to a national legislature of this kind, and likely to rank among the most significant of his pontificate. Leo is expected to use his European tour to press a message of peace, unity, and human dignity on a continent fractured by debates over migration, Russia's war in Ukraine, and anxiety over artificial intelligence.",
