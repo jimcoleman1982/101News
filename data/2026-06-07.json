@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-07",
+  "dateFormatted": "Sunday, June 7, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: US-Iran War Expands as Ceasefire Talks Proceed, Iran Strikes Kuwait Bases",
+      "summary": "The United States announced a ceasefire agreement Wednesday night following fresh talks, but strikes continued in the interim as both sides exchanged blows. Iran targeted US military bases in Kuwait and Bahrain in retaliation for American strikes on an Iranian oil tanker and island, while US forces struck Iranian drones and radar sites. One person was killed and more than 60 injured in an Iranian drone strike, and BBC Verify analysis found Iran has damaged 20 US military sites since the start of the conflict.\n\nThe ceasefire announcement comes amid what analysts describe as a tense cycle of negotiations, with President Trump repeatedly claiming progress. BBC Verify also found that Tehran's strikes were more extensive than publicly acknowledged, while satellite imagery confirmed significant damage at US-linked facilities. The Strait of Hormuz situation continues to weigh on some 20,000 seafarers trapped in the war zone.\n\nThe broader conflict continues to ripple through the region. Israel has warned it will resume striking the Lebanese capital as Hezbollah increasingly uses fiber-optic drones against Israeli soldiers and civilians, and Israeli forces are under investigation for a strike in south Lebanon. Meanwhile, neither side appears to want a return to all-out war, though the latest exchange of strikes underscores the fragility of diplomatic progress.\n\nIran's government has imposed an internet blackout since the start of hostilities in February, cutting most Iranians off from outside information. The war's economic toll on Iran is intensifying, with US officials claiming a military and economic advantage, though Iran continues to project defiance through ongoing strike operations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "sourceCount": 9,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-07T05:08:21.766636-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "Flesh-Eating Screwworm Found in Second Texas Calf; Canada Bans Texas Livestock Imports",
+      "summary": "Canada's Food Inspection Agency announced a temporary ban on cattle and horses from Texas after the USDA confirmed a second screwworm case in a one-month-old calf in Zavala County, roughly 5.6 miles from the site of the first confirmed case. The second detection came within a 20-kilometer control zone established after the initial discovery, which marked the parasite's first appearance in Texas in 60 years. Texas Governor Greg Abbott declared a state of disaster on Friday, warning the outbreak \"is likely to spread over the course of the summer.\"\n\nThe New World Screwworm is a parasitic fly whose larvae burrow through the living flesh of warm-blooded animals and humans, entering through wounds and mucous membranes and potentially killing the host if untreated. The outbreak is part of a broader infestation moving northward through Central America and Mexico, which has been under heavy surveillance by US agricultural authorities. Texas is the leading US beef and cattle producer, making the outbreak a significant threat to the national agricultural supply chain.\n\nCanadian officials said the ban covers any livestock that was in Texas within 21 days of crossing the border. While they assessed the risk of establishment in Canada as low due to colder temperatures, they urged farmers to monitor livestock for wounds and advised travelers returning from Texas to check pets. The US and Canada conduct a substantial two-way cattle trade, with 550,000 head imported from the US in 2025 alone.\n\nThe USDA has enacted quarantines, movement controls, and expanded surveillance in the affected area. The parasite was considered eradicated in the US in 1966, though isolated cases have reappeared since, including an outbreak in the 1970s. Officials are racing to contain the current outbreak before warmer summer conditions allow the fly to spread more widely.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cevpv3r7jmpo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-07T05:08:21.766636-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: More Than One Million Attend Pope Leo XIV's Open-Air Mass in Madrid",
+      "summary": "More than one million people filled the streets of Madrid on Sunday as Pope Leo XIV celebrated an open-air mass in the Spanish capital, the second day of his official visit to Spain — the first papal trip to the country in 15 years. King Felipe VI and Queen Letizia were among the congregants, while crowds waved Spanish and Vatican flags and threw petals as the pope passed in his popemobile through the Plaza de Cibeles. In his sermon, the pontiff urged the faithful to see religion not as \"a museum of the past\" but as a living force for helping the poor and marginalized.\n\nThe visit follows a prayer vigil Saturday night near Real Madrid's Santiago Bernabeu stadium attended by approximately 500,000 people, most of them young. During a reception at the royal palace Saturday, the pope praised Spain's commitment to peace, its opposition to global conflicts, and its support for migrants. Spanish Prime Minister Pedro Sánchez, a socialist who has clashed with President Trump over the US-Israel war with Iran and with Israel over Gaza, hosted the pontiff.\n\nPope Leo XIV, who was born in Chicago, has drawn criticism from President Trump over his anti-war positions. His remarks in Madrid echoed those tensions, praising Spain's \"faithful adherence to international law.\" The trip is set to include an unprecedented address before the Spanish parliament and a meeting with survivors of sexual abuse within the Catholic Church.\n\nLater in the week, the pope will travel with Prime Minister Sánchez to the Canary Islands to honor thousands of migrants who have died attempting to reach Europe. The visit carries both religious and geopolitical significance given the pope's public stances on immigration and international conflict.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-07T05:08:21.766636-06:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "Federal Regulators Sue Multiple States Over Efforts to Ban Prediction Markets",
+      "summary": "The Commodity Futures Trading Commission has filed lawsuits against seven states — Arizona, Connecticut, Illinois, Wisconsin, Minnesota, New York, and Rhode Island — over their attempts to ban or restrict online prediction markets, setting up a major legal battle over whether such platforms are illegal gambling or federally regulated financial products. The CFTC has also intervened in related cases in Ohio, Massachusetts, and Nevada. The core legal question is whether the Commodity Exchange Act grants the federal government exclusive jurisdiction over prediction market contracts, or whether states retain authority to regulate what they characterize as gambling.\n\nCFTC Chairman Michael Selig has argued that prediction markets, which allow users to trade on the outcomes of real-world events, fall squarely under federal oversight. \"States cannot circumvent the clear directive of Congress,\" he said in announcing the Wisconsin lawsuit. Companies such as Kalshi and Polymarket, which have rapidly grown in prominence following high-profile use during the 2024 elections, stand to be directly affected by the outcome.\n\nState officials are pushing back forcefully, with a bipartisan coalition of 41 state attorneys general writing to the CFTC arguing the agency lacks exclusive authority. Connecticut Attorney General William Tong called the federal position a recycling of \"industry arguments that have been rejected in district courts across the country.\" Utah's Republican Governor Spencer Cox, whose state has a blanket gambling ban, vowed to use \"every resource\" to defeat the CFTC in court.\n\nThe dispute touches on broader questions about federalism and the evolution of financial technology. Multiple district courts have so far sided with state positions, though the CFTC's aggressive legal strategy suggests the issue will ultimately require appellate or Supreme Court resolution. The outcome could define the regulatory landscape for an industry that processed billions of dollars in contracts during the 2024 election cycle.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4597406/prediction-market-lawsuits-court-battles/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-07T05:08:21.766636-06:00",
+      "slot": 5
+    }
+  ]
+}
