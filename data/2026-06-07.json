@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Trump Declines to Rule Out Payments to Jan. 6 Rioters Who Attacked Police, Even as DOJ Shelves Anti-Weaponization Fund",
+      "summary": "President Trump said in a Sunday interview on NBC News's \"Meet the Press\" that he would not rule out compensating individuals who were charged with assaulting police officers during the January 6, 2021 Capitol attack, saying \"I have to see it\" when pressed directly. Trump defended the administration's short-lived \"anti-weaponization\" fund — a nearly $1.8 billion proposal — calling it \"a great idea,\" even though acting Attorney General Todd Blanche announced Friday that the fund would not move forward.\n\nThe remarks came despite bipartisan criticism. Former Vice President Mike Pence condemned the pardons for January 6 rioters and said they should not receive compensation for their actions. Sen. Lindsey Graham (R-S.C.) has signaled support for alternative mechanisms, and legal analysts note the DOJ retains other pathways — including the Federal Tort Claims Act — that could be used to make payouts to those who claim they were wronged by the government.\n\nSupporters of the fund argue it was necessary to address what they call the politicized prosecution of Trump allies during the Biden administration. Critics, including Democrats and some Republicans, say compensating individuals convicted of attacking law enforcement officers would be an unprecedented misuse of taxpayer funds and a signal that political violence carries no lasting consequence.\n\nThe episode highlights an ongoing tension within the administration over how far to go in rehabilitating January 6 participants. With the fund formally shelved, attention now turns to whether the DOJ will pursue alternative legal channels to deliver compensation, and whether Congress will act on related proposals.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5912674-justice-department-settlements-ftca/",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:44 PM MT",
+      "addedAtISO": "2026-06-07T13:44:05.929264-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Trump Administration Explores Purchasing Chagos Islands to Secure Diego Garcia Military Base",
+      "summary": "The Trump administration is reportedly considering a U.S. purchase of the Chagos Islands in the Indian Ocean as an alternative to a British plan to transfer sovereignty of the archipelago to Mauritius, according to a report published Sunday by the Telegraph. The move would be aimed at securing long-term American control of the Diego Garcia military base, one of the Pentagon's most strategically significant overseas installations, which has served as a hub for bomber operations, naval assets, and intelligence missions for decades.\n\nA 2025 agreement negotiated by British Prime Minister Keir Starmer would have transferred sovereignty to Mauritius while allowing the U.S. and U.K. to continue operating the Diego Garcia base under a 99-year lease. Trump initially appeared open to the deal before publicly calling the transfer \"great stupidity\" and urging Starmer not to \"give away Diego Garcia.\" U.S. officials are also reportedly wary of Mauritius's ties to Iran and China. Britain subsequently shelved the legislation needed to ratify the sovereignty transfer.\n\nDiego Garcia played a central role in recent U.S. military operations during the conflict with Iran, with long-range aircraft and logistical assets operating from the island. The prospect of a direct U.S. purchase would be an extraordinary and historically novel diplomatic move, raising questions about international law, the rights of the Chagossian people who were displaced from the islands decades ago, and the future of the U.S.-U.K. alliance framework.\n\nThe White House had not responded to requests for comment as of the time of reporting. The proposal remains at the discussion stage among administration officials, and no formal offer has been made.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/policy/defense/4598421/trump-purchase-chagos-islands-diego-garcia-base/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:44 PM MT",
+      "addedAtISO": "2026-06-07T13:44:05.929264-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Federal Lawsuit Seeks to Block UFC Fight at the White House Scheduled for Trump's 80th Birthday",
+      "summary": "A federal lawsuit filed Saturday seeks to block a UFC fight card planned for the White House South Lawn on June 14, President Trump's 80th birthday, which coincides with the nation's 250th anniversary. Plaintiffs' attorneys argue the event is \"deeply corrupt\" and that Trump is unlawfully benefiting from it financially, citing reports that he purchased a stake in UFC. The lawsuit contends the administration did not obtain proper approvals for a commercial fighting event on federal property.\n\nThe UFC event is one of the most prominent commercial spectacles ever staged at the White House, and it has drawn scrutiny over the blurring of presidential duties with private business interests. The White House has not publicly addressed the lawsuit. The event is expected to draw significant crowds and media attention as part of broader birthday and national anniversary celebrations.\n\nCritics, primarily from the left, argue the event represents an unprecedented use of public grounds for private commercial gain and sets a troubling precedent for presidential self-dealing. Supporters contend the administration has broad authority over White House grounds and that the event is a legitimate celebration of both a national milestone and the president's birthday, with no impropriety in Trump's business ties.\n\nA federal judge in Washington, D.C. had separately dismissed an unrelated lawsuit by the Kennedy Center against a jazz musician last week. Whether a judge will act on the UFC lawsuit before the June 14 date remains to be seen.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5913941-trump-ufc-whitehouse-lawsuit/",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:44 PM MT",
+      "addedAtISO": "2026-06-07T13:44:05.929264-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
       "headline": "Update: Bill Pulte Appointment as Acting DNI Threatens FISA Reauthorization, Top Democrat Warns",
       "summary": "Rep. Jim Himes, the top Democrat on the House Intelligence Committee, said Sunday that President Trump's decision to appoint Bill Pulte as acting Director of National Intelligence is likely the most dangerous of Trump's intelligence-community appointments and has effectively taken FISA Section 702 reauthorization \"off the table.\" Himes made the remarks on CBS News's \"Face the Nation,\" warning that Pulte's confirmation prospects and political profile make bipartisan cooperation on spy-powers renewal nearly impossible.\n\nSection 702 of the Foreign Intelligence Surveillance Act, which authorizes warrantless surveillance of foreign targets and is a cornerstone of U.S. counterterrorism and counterintelligence operations, requires periodic congressional reauthorization. Democrats and some Republicans have long conditioned their support for renewal on executive-branch commitments to oversight and civil-liberties protections. Himes argued that Pulte, who has no intelligence background, undermines that prospect.\n\nThe Trump administration has not publicly responded to Himes's specific remarks. Republicans have generally backed the appointment, arguing the president is entitled to place trusted loyalists atop the intelligence community. The dispute adds to broader congressional tensions over the administration's handling of the nation's intelligence apparatus.",
       "source": "Bloomberg Politics",
