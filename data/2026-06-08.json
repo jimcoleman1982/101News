@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Houthis Declare Complete Ban on Israeli Ships in Red Sea",
+      "summary": "Yemen's Houthi movement, an Iran-backed militant group controlling much of the country, announced a total ban on Israeli-flagged vessels transiting the Red Sea. The declaration adds a new dimension to the regional conflict, threatening a maritime corridor that has served as a critical bypass route for shipping that might otherwise use the Strait of Hormuz.\n\nThe move comes as tensions between Iran and Israel are escalating sharply, with fresh missile exchanges reported Monday. The Houthis previously conducted sustained drone and missile campaigns against Red Sea shipping during earlier phases of the Israel-Gaza conflict, disrupting global trade and forcing shipping companies to reroute vessels around the Cape of Good Hope at significant additional cost.\n\nA renewed Houthi blockade of Israeli shipping in the Red Sea would compound pressure on global supply chains already strained by the broader Iran-Israel conflict. The combination of a potential Strait of Hormuz disruption and Red Sea restrictions could significantly affect energy and goods transportation worldwide.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/houthis-to-impose-complete-ban-on-israeli-ships-in-the-red-sea",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-08T08:08:19.191584-06:00",
+      "slot": 8
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Trump Abruptly Ends 'Meet the Press' Interview After Clashing With Host Over Election Claims and Anti-Weaponization Fund",
+      "summary": "President Donald Trump cut short a live interview with NBC's 'Meet the Press' host Kristen Welker on Sunday, walking out after a series of confrontational exchanges over his claims of election fraud, California ballot counting, and his proposed $1.8 billion anti-weaponization fund. Trump told Welker, 'You're a one-sided crooked network. Sorry. Let's call it quits because I've had enough,' before ending the interview.\n\nThe sharpest exchanges came over the anti-weaponization fund, which Trump has promoted as compensation for people he says were targeted by the Biden administration. Acting Attorney General Todd Blanche previously stated the administration would not move forward with the fund, but Trump told Welker he still personally supported the idea and believed it would need congressional approval to proceed. Trump also repeated unsubstantiated claims that the 2020 election was rigged.\n\nSupporters of Trump praised his willingness to confront what they characterize as a hostile press, while critics and media observers argued that a sitting president walking out of a major Sunday news program interview was itself a significant and unprecedented moment. The exchange also brought renewed attention to internal Republican tensions over the weaponization fund proposal, which had drawn opposition from members of his own party before being shelved.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/trump-storms-off-meet-press-interview-rips-welker-abc-cbs-cnn-crooked",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-08T08:08:19.191584-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "South Africa Xenophobia Crisis: Malawians Repatriated as Multiple Nations Evacuate Citizens",
+      "summary": "A group of 150 Malawians departed South Africa on Monday amid growing fears of xenophobic violence, with authorities in Lilongwe organizing ground transport for nationals who had taken refuge in temporary camps in Mossel Bay, Western Cape. The repatriation follows reports of door-to-door intimidation targeting foreign nationals and the deaths of two Mozambicans in the area. Ghana, Nigeria, and Zimbabwe have also organized repatriation flights and ground transport for their own citizens in recent days.\n\nSouth African President Cyril Ramaphosa addressed the nation Sunday, announcing new measures to accelerate the deportation of undocumented migrants while warning South Africans against taking the law into their own hands. 'There is no space for xenophobia, racism, sexism, Afrophobia or any other forms of intolerance,' Ramaphosa said. Anti-migrant groups have set a June 30 deadline demanding undocumented migrants leave the country.\n\nThe crisis has triggered a diplomatic dispute between South Africa and Ghana, with South African Foreign Minister Ronald Lamola accusing his Ghanaian counterpart of spreading misinformation about the scale and nature of the violence. Ghana's foreign minister disputed that characterization, calling for an African Union investigation. South Africa is also exploring asking receiving countries to help fund the cost of deportation operations, adding a financial dimension to an already strained regional relationship.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-08T08:08:19.191584-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
       "headline": "Update: Israel and Iran Exchange Strikes as Ceasefire Collapses on War's 100th Day",
       "summary": "Iran fired ballistic missiles at Israel on Sunday for the first time since a fragile ceasefire took effect on April 8, marking a dramatic collapse of the truce on the 100th day of the U.S.-Israel war against Iran. Israel retaliated with airstrikes on military targets in Tehran, Tabriz, and Isfahan early Monday, the first Israeli strikes inside Iran since the ceasefire. Iran had warned that attacks would resume if Israel continued striking Lebanon; the escalation began after Israeli forces bombed suspected Hezbollah strongholds in southern Beirut, killing at least two people.\n\nPresident Trump, who told NBC's 'Meet the Press' that the two sides were 'very close' to a deal, called Israeli Prime Minister Benjamin Netanyahu and urged him not to retaliate, saying 'Each of them had their fun.' Netanyahu proceeded with strikes anyway. Two tense calls were exchanged Monday as Trump demanded Israel halt further action; Netanyahu pushed back, according to the Wall Street Journal. Iran also launched ballistic missiles and drones toward Bahrain and Kuwait, with Kuwaiti authorities reporting one person killed and 63 wounded.\n\nYemen's Houthi rebels separately declared a ban on Israeli ships in the Red Sea, threatening a key bypass route to the Strait of Hormuz. Oil prices surged more than 4%, with Brent crude jumping to $97.34 a barrel, while Asian equity markets fell sharply — South Korea's Kospi triggering a circuit breaker after plunging nearly 9% at open. The escalation has put U.S.-Iran negotiations in serious jeopardy and raised the prospect of a return to full-scale regional war.\n\nSupporters of the war effort argue the strikes are a necessary response to Iranian aggression and that Trump's pressure on Netanyahu reflects appropriate diplomatic management of an ally. Critics, including former national security adviser John Bolton, warn that Trump's 'often-contradictory decisions' during the conflict have laid the groundwork for nuclear proliferation in the Middle East. Congressional war powers resolutions in both chambers seek to curb Trump's authority to continue military operations without legislative approval.",
       "source": "Bloomberg Politics",
