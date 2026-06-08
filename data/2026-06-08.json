@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, June 8, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Federal Judge Strikes Down Trump Administration's $100,000 H-1B Visa Fee as Unlawful Tax",
+      "summary": "A federal judge in Boston on Monday invalidated the Trump administration's $100,000 annual fee on H-1B visa applications, ruling it an unlawful tax that violated both federal administrative law and the Constitution. U.S. District Judge Leo Sorokin sided with a coalition of 20 Democratic-led state attorneys general who argued the administration exceeded its authority and usurped Congress's power to set immigration policy and taxation.\n\nTrump announced the fee via executive order last year, dramatically raising the cost of obtaining the visa used primarily by highly skilled foreign workers in technology, engineering, and other fields. Critics argued the fee was effectively a tax that could only be imposed by Congress, not the executive branch. Supporters of the fee contended it was a legitimate tool to protect American workers and manage immigration flows.\n\nThe ruling is a significant legal setback for the administration's efforts to curtail high-skilled immigration through executive action. The H-1B program is heavily utilized by major U.S. technology companies to hire workers from India, China, and elsewhere. The administration is expected to appeal the decision.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/energy-environment/5915123-green-energy-tax-credits/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:34 PM MT",
+      "addedAtISO": "2026-06-08T13:34:22.357788-06:00",
+      "slot": 14
+    },
+    {
+      "category": "technology",
+      "headline": "Apple Expected to Unveil Revised AI Strategy at WWDC as New CEO Faces Siri Pressure",
+      "summary": "Apple is expected Monday to detail its artificial intelligence roadmap at its annual Worldwide Developers Conference, marking the second consecutive year the company has used the event primarily to lay out its AI ambitions. Unlike competitors such as Google and Microsoft, Apple has not reorganized its corporate structure around AI, a distinction the company is expected to address.\n\nThe conference serves as an early major test for incoming CEO John Ternus, who took over the company's top role this year. Central to his immediate challenges is a long-delayed overhaul of the Siri voice assistant, which has fallen significantly behind rival AI-powered assistants in capability and public perception. Analysts and investors are watching the announcement closely for signs of whether Apple can close the gap.\n\nApple has faced persistent criticism that its AI features, marketed under the Apple Intelligence brand, have been slow to roll out and incremental compared to offerings from Google, Amazon, and OpenAI. The WWDC keynote is expected to provide a clearer timeline and scope for upcoming releases across iPhone, iPad, and Mac platforms.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/08/technology/apple-ai-artificial-intelligence-wwdc.html",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:34 PM MT",
+      "addedAtISO": "2026-06-08T13:34:22.357788-06:00",
+      "slot": 14
+    },
+    {
+      "category": "other",
+      "headline": "'Schmigadoon!' Wins Best Musical, 'Liberation' Takes Best Play at 79th Tony Awards",
+      "summary": "\"Schmigadoon!\", an adaptation of the Apple TV+ series that parodies golden-age Broadway musicals, won the Tony Award for Best New Musical on Sunday at the 79th annual ceremony in New York. Creator Cinco Paul won Tonys for both the score and the book, completing a redemption arc after the original series was canceled after two seasons. Apple became the first studio to achieve an unofficial \"studio EGOT\" — winning major awards across all four top ceremonies — through the win.\n\nBess Wohl's \"Liberation,\" a drama about a consciousness-raising women's group in 1970s Ohio, won Best New Play, making Wohl only the fourth woman to win the prize. The play had also won the Pulitzer Prize for Drama earlier this year, joining a short list of 18 works to achieve both honors. \"Death of a Salesman\" led all productions with six Tonys, including Best Play Revival, with Laurie Metcalf winning her third Tony for her performance alongside Nathan Lane.\n\n\"Ragtime\" won Best Musical Revival, and Caissie Levy won Best Actress in a Musical for her role in the production. The ceremony recognized a Broadway season marked by strong revivals alongside new works, with the revival category drawing some of the evening's most notable performances and design awards.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/arts/broadway-revivals-and-liberation-win-big-at-the-tony-awards",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "1:34 PM MT",
+      "addedAtISO": "2026-06-08T13:34:22.357788-06:00",
+      "slot": 14
+    },
+    {
       "category": "world",
       "headline": "Peru Election Too Close to Call as Vote Count Continues",
       "summary": "Peru's presidential election is deadlocked, with early tallies from pollster Ipsos showing left-wing candidate Roberto Sánchez at 50.3% and right-wing veteran Keiko Fujimori at 49.7%. With more than 91% of official votes counted, the race remains statistically tied and a recount is widely expected, a process that could drag on for weeks as it did in 2021.\n\nSánchez, a former minister under jailed ex-president Pedro Castillo, is counting on rural Andean ballots still being tallied to extend his narrow lead. Fujimori, running for the presidency for the fourth time, is insisting that every ballot sheet be counted before any winner is declared, calling it 'irresponsible' to project a result from early samples. Sánchez has pledged to seek a presidential pardon for Castillo if elected.\n\nThe election pits sharply divergent visions for Peru against each other. Fujimori has campaigned on a military-style crackdown on organized crime and extortion, leaning into the legacy of her father, former president Alberto Fujimori, who was jailed for crimes against humanity but is credited by supporters with defeating violent insurgencies. Sánchez is promising broad economic reforms.\n\nPeru has now held ten presidential elections in roughly a decade, reflecting deep political instability. The 2021 race between the same two candidates took weeks to resolve, and analysts expect a similar prolonged process this time.",
