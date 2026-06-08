@@ -3,6 +3,34 @@
   "dateFormatted": "Monday, June 8, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "OpenAI Confidentially Files IPO Paperwork, Valued at $852 Billion",
+      "summary": "OpenAI announced Monday that it has confidentially filed draft registration paperwork for an initial public offering, giving the artificial intelligence company the option to tap public markets. The company, currently valued at approximately $852 billion, did not disclose the size, terms, or timeline of any potential offering, saying its focus remains on building new AI products and infrastructure.\n\nThe move comes shortly after rival AI company Anthropic announced its own IPO plans, intensifying a race between the two leading AI developers to access large-scale public investment. Going public would allow OpenAI to raise tens of billions of dollars to fund operations and infrastructure as competition in the AI sector accelerates.\n\nOpenAI has been working to stabilize its finances and chart a clearer path to profitability ahead of a public listing. The company has undergone significant structural changes in recent years, including a transition away from its original nonprofit governance model toward a for-profit structure capable of attracting institutional investors.\n\nA successful IPO would represent one of the largest technology public offerings in recent history and could unlock substantial wealth for OpenAI's employees and early investors. The confidential filing status means the company is not yet committed to proceeding and retains flexibility on timing.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/08/openai-ipo",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:45 PM MT",
+      "addedAtISO": "2026-06-08T16:45:47.500065-06:00",
+      "slot": 18
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: Screwworm Spreads Beyond Texas as USDA Confirms Cases in New Mexico",
+      "summary": "The U.S. Department of Agriculture confirmed Monday that the New World screwworm infestation has spread beyond Texas, with a case identified in a dog from Lea County, New Mexico — the first confirmed case in that state. Three additional cases were also confirmed in Texas, bringing the total to five: three calves, a goat, and the New Mexico dog. Agriculture Secretary Brooke Rollins addressed the developments at a Monday briefing.\n\nThe screwworm is a fly larva that burrows into the living flesh of warm-blooded animals through open wounds. It was eradicated from the United States decades ago through a sterile-fly release program but has been detected in Mexico since late 2024. The USDA has been dropping sterile flies across south Texas since February and is working to expand sterile-fly production capacity, including a planned $750 million fly factory in Texas.\n\nThe geographic spread of cases — from south Texas to areas near San Antonio and west of Austin, and now across the New Mexico border — has raised the urgency of containment efforts. Canada has already suspended livestock imports from Texas. Scientists caution that additional cases in the coming days should be expected given heightened surveillance, and do not necessarily indicate rapid spread.\n\nAn unchecked screwworm infestation could devastate the U.S. cattle industry. Beef prices are already near record highs due to historically low cattle numbers, and further disruption to livestock supply chains could have broad economic consequences for producers and consumers.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/health/watch-live-rollins-holds-update-as-usda-confirms-more-screwworm-cases-in-texas",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:45 PM MT",
+      "addedAtISO": "2026-06-08T16:45:47.500065-06:00",
+      "slot": 18
+    },
+    {
       "category": "politics",
       "headline": "Federal Judge Strikes Down Trump Administration's $100,000 H-1B Visa Fee as Unlawful Tax",
       "summary": "A federal judge in Boston on Monday invalidated the Trump administration's $100,000 annual fee on H-1B visa applications, ruling it an unlawful tax that violated both federal administrative law and the Constitution. U.S. District Judge Leo Sorokin sided with a coalition of 20 Democratic-led state attorneys general who argued the administration exceeded its authority and usurped Congress's power to set immigration policy and taxation.\n\nTrump announced the fee via executive order last year, dramatically raising the cost of obtaining the visa used primarily by highly skilled foreign workers in technology, engineering, and other fields. Critics argued the fee was effectively a tax that could only be imposed by Congress, not the executive branch. Supporters of the fee contended it was a legitimate tool to protect American workers and manage immigration flows.\n\nThe ruling is a significant legal setback for the administration's efforts to curtail high-skilled immigration through executive action. The H-1B program is heavily utilized by major U.S. technology companies to hire workers from India, China, and elsewhere. The administration is expected to appeal the decision.",
