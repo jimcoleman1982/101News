@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-08",
+  "dateFormatted": "Monday, June 8, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Israel and Iran Exchange Strikes as Ceasefire Collapses on War's 100th Day",
+      "summary": "Iran fired ballistic missiles at Israel on Sunday for the first time since a fragile ceasefire took effect on April 8, marking a dramatic collapse of the truce on the 100th day of the U.S.-Israel war against Iran. Israel retaliated with airstrikes on military targets in Tehran, Tabriz, and Isfahan early Monday, the first Israeli strikes inside Iran since the ceasefire. Iran had warned that attacks would resume if Israel continued striking Lebanon; the escalation began after Israeli forces bombed suspected Hezbollah strongholds in southern Beirut, killing at least two people.\n\nPresident Trump, who told NBC's 'Meet the Press' that the two sides were 'very close' to a deal, called Israeli Prime Minister Benjamin Netanyahu and urged him not to retaliate, saying 'Each of them had their fun.' Netanyahu proceeded with strikes anyway. Two tense calls were exchanged Monday as Trump demanded Israel halt further action; Netanyahu pushed back, according to the Wall Street Journal. Iran also launched ballistic missiles and drones toward Bahrain and Kuwait, with Kuwaiti authorities reporting one person killed and 63 wounded.\n\nYemen's Houthi rebels separately declared a ban on Israeli ships in the Red Sea, threatening a key bypass route to the Strait of Hormuz. Oil prices surged more than 4%, with Brent crude jumping to $97.34 a barrel, while Asian equity markets fell sharply — South Korea's Kospi triggering a circuit breaker after plunging nearly 9% at open. The escalation has put U.S.-Iran negotiations in serious jeopardy and raised the prospect of a return to full-scale regional war.\n\nSupporters of the war effort argue the strikes are a necessary response to Iranian aggression and that Trump's pressure on Netanyahu reflects appropriate diplomatic management of an ally. Critics, including former national security adviser John Bolton, warn that Trump's 'often-contradictory decisions' during the conflict have laid the groundwork for nuclear proliferation in the Middle East. Congressional war powers resolutions in both chambers seek to curb Trump's authority to continue military operations without legislative approval.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-06-08/iran-war-latest-news-israel-trump-oil-prices-houthis-hormuz-updates",
+      "sourceCount": 26,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "3:02 AM MT",
+      "addedAtISO": "2026-06-08T03:02:24.800337-06:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "Tech Stocks Plunge Globally as AI Selloff, Rate Fears, and Middle East Strikes Converge",
+      "summary": "Asian equity markets suffered steep losses Monday as a confluence of pressures — a tech-sector reassessment, fears of U.S. interest rate hikes, and renewed Iran-Israel hostilities — triggered a broad selloff. South Korea's Kospi index plunged nearly 9% at open, activating a circuit-breaker halt for the third time this year, before closing down 8.3%. Japan's Nikkei fell 3.8%, Taiwan's Taiex dropped sharply on weakness in TSMC shares, and Hong Kong's Hang Seng and Shanghai Composite also closed lower.\n\nThe selloff follows a roughly 4% drop in the Nasdaq on Friday — its worst single-day decline in more than a year — driven by a stronger-than-expected U.S. jobs report that fueled bets on a Federal Reserve interest rate increase, alongside persistent inflation tied to the Middle East war. Investors have been 'repositioning' over concerns that surging AI-related valuations have outpaced actual revenue generation, according to Saxo chief investment strategist Charu Chanana. Samsung closed down 10% and SK Hynix also fell sharply.\n\nOil prices accelerated the pressure, with Brent crude rising 4.6% to $97.34 a barrel after Iran and Israel exchanged strikes for the first time since April's ceasefire. Nvidia CEO Jensen Huang said the tech slide presented a buying opportunity, while South Korean President Lee Jae-myung acknowledged expected volatility but called domestic shares 'slightly undervalued.' European markets opened modestly lower, with Germany's Dax off 0.7% and the UK's FTSE 100 down 0.4%.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:02 AM MT",
+      "addedAtISO": "2026-06-08T03:02:24.800337-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Starmer Hosts Zelenskyy, Macron, and Merz in London for Ukraine Weapons Summit",
+      "summary": "British Prime Minister Keir Starmer hosted Ukrainian President Volodymyr Zelenskyy, French President Emmanuel Macron, and German Chancellor Friedrich Merz at 10 Downing Street on Sunday for talks focused on accelerating weapons production to counter Russia's escalating aerial campaign. The meeting came in the wake of a Russian drone strike that killed three people in Ukraine and follows Russia's repeated use of the Oreshnik hypersonic ballistic missile against Ukrainian cities.\n\nIn a joint statement, the four leaders condemned Russia's 'large-scale missile and drone attacks' and its 'irresponsible and dangerous' drone incursions into NATO territory, including last month's incident in Romania. They 'underlined the urgent need to scale up the production of interceptors and co-develop anti-ballistic missile and deep strike capabilities,' though no financial details or specific commitments were announced. Zelenskyy stressed that Europe must play a central role in any eventual negotiations to end the war with Russia.\n\nThe summit underscores growing European alarm over Russia's weapons advantage at a moment when U.S. attention is heavily focused on the Iran conflict. The meeting produced no concrete funding framework, leaving questions about how the pledged capability-building will be financed and delivered.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-ukraine-starmer-merz-macron-zelenskyy-ce1713304c7578f039fcbdb8d655f6d7",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:02 AM MT",
+      "addedAtISO": "2026-06-08T03:02:24.800337-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Xi Jinping Arrives in Pyongyang for First North Korea Visit in Seven Years",
+      "summary": "Chinese President Xi Jinping arrived in Pyongyang on Monday for a rare state visit, his first trip to North Korea in seven years, aimed at reasserting Beijing's influence over an increasingly emboldened ally. North Korean leader Kim Jong Un is expected to hold talks with Xi as both nations seek to restore and deepen their traditional alliance at a moment when Pyongyang has developed a closer military partnership with Russia.\n\nThe visit comes as North Korea has expanded its nuclear arsenal and deepened ties with Moscow, reportedly supplying ammunition and military personnel in support of Russia's war in Ukraine — a dynamic that has complicated Beijing's regional calculations. Xi's arrival was marked by an elaborate official welcome. The timing, amid the ongoing U.S.-Israel-Iran war and a divided Western security focus, gives both leaders strategic room to reinforce bilateral ties.\n\nThe summit carries significant implications for the broader geopolitical landscape, touching on nuclear nonproliferation, the Russia-Ukraine conflict, and U.S. Indo-Pacific strategy. Washington and its allies will be watching closely for any formal security commitments or economic agreements that emerge from the talks.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-06-08/iran-war-latest-news-israel-trump-oil-prices-houthis-hormuz-updates",
+      "sourceCount": 26,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:02 AM MT",
+      "addedAtISO": "2026-06-08T03:02:24.800337-06:00",
+      "slot": 5
+    }
+  ]
+}
