@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, June 8, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: Tehran Launches Ballistic Missile Assault on Israel as Trump Demands Ceasefire",
+      "summary": "Iran broke a fragile ceasefire Sunday, launching a new wave of ballistic missiles at Israel, which responded with strikes in central Iran, according to the Israel Defense Forces. The exchanges mark a significant escalation in the conflict, which has now entered its 100th day. President Trump has publicly demanded that both Israel and Iran stand down and cease hostilities.\n\nThe renewed fighting has drawn widespread international alarm, with 23 news outlets tracking developments in what is shaping up to be one of the most dangerous flare-ups in the broader regional conflict. Iran's decision to shatter the ceasefire puts renewed pressure on U.S. diplomatic efforts to broker a lasting halt to hostilities. The situation remains fast-moving, with hour-to-hour developments expected.\n\nIsrael has framed its response as necessary self-defense following Iran's missile barrage, while Iranian officials have cited Israeli actions as the trigger for resuming strikes. Western governments have largely called for restraint from both sides, and the United Nations has warned of catastrophic consequences if the fighting continues to escalate. Pope Leo XIV, speaking before Spain's parliament Monday, specifically referenced the exchange of strikes and called for 'diplomatic courage.'\n\nThe collapse of the ceasefire raises immediate questions about the viability of ongoing indirect talks between Washington and Tehran. Energy markets and regional security arrangements — including the status of U.S. military assets near the Strait of Hormuz — remain under close watch as the situation develops.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/us-airstrikes-iran-israel-lebanon-war-june-7",
+      "sourceCount": 23,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-08T21:08:30.488193-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Formally Nominates Acting AG Todd Blanche for Permanent Attorney General Role",
+      "summary": "President Trump on Monday sent the formal nomination of Todd Blanche to the Senate to serve as Attorney General on a permanent basis. Blanche, who served as Trump's personal criminal defense attorney during his federal criminal trials, has been acting as the department's No. 2 official and has led the Justice Department for the past two months following the dismissal of former Attorney General Pam Bondi.\n\nThe nomination is a Tier 1 executive action — a presidential Cabinet nomination sent to the Senate — and represents a significant personnel move at the top of the nation's law enforcement apparatus. Blanche's confirmation fight is expected to be contentious; his prior role defending Trump in criminal proceedings has drawn sharp criticism from Democrats and some legal observers who question whether he can serve as an impartial head of the DOJ.\n\nSupporters argue Blanche has demonstrated loyalty and competence in managing the department during a turbulent period, and that the president is entitled to an Attorney General who shares his legal and policy vision. Critics contend his appointment blurs the line between the president's personal legal interests and the independent administration of justice, a concern they say is particularly acute given ongoing federal litigation involving Trump allies and adversaries.\n\nThe Senate confirmation process will serve as a high-profile test of whether Republican moderates will back a nominee with an unusually close personal relationship to the sitting president. No timeline for hearings has been announced.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5915314-trump-nominates-todd-blanche-attorney-general/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-08T21:08:30.488193-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Update: FISA Renewal in Jeopardy as Democrats Tie Reauthorization to Pulte's Removal as Acting DNI",
+      "summary": "Senate Majority Leader John Thune said Monday that talks are ongoing regarding President Trump's appointment of Bill Pulte as acting Director of National Intelligence, as he seeks to rally senators to extend Section 702 of the Foreign Intelligence Surveillance Act before a looming deadline. Section 702 grants the government authority to conduct warrantless surveillance of foreign targets, and its lapse would have significant consequences for U.S. intelligence operations.\n\nHouse Minority Leader Hakeem Jeffries announced he will not vote to renew the spy powers law as long as Pulte remains in the DNI role, calling reversal of the Pulte appointment 'a starting point, not an ending point.' Democratic Rep. Raja Krishnamoorthi echoed the position, warning that Democrats broadly will not back reauthorization with Pulte in place. Bipartisan concern about Pulte has also emerged on the Republican side, complicating Thune's path to passage.\n\nThe standoff places one of America's most critical national security legal authorities at risk of expiration due to a personnel dispute. Pulte, a real estate executive with no prior intelligence background, was appointed by Trump and has faced immediate skepticism from members of both parties about his qualifications and potential influence over sensitive surveillance programs.\n\nThe White House has defended Pulte's appointment and has not signaled willingness to withdraw the nomination. If Section 702 is not reauthorized by the deadline, intelligence agencies would lose legal authority for a surveillance program that officials from both parties have previously called indispensable to counterterrorism and counterintelligence operations.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/senate/5915347-thune-pulte-fisa-reforms/",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-08T21:08:30.488193-06:00",
+      "slot": 21
+    },
+    {
       "category": "business",
       "headline": "OpenAI Confidentially Files IPO Paperwork, Valued at $852 Billion",
       "summary": "OpenAI announced Monday that it has confidentially filed draft registration paperwork for an initial public offering, giving the artificial intelligence company the option to tap public markets. The company, currently valued at approximately $852 billion, did not disclose the size, terms, or timeline of any potential offering, saying its focus remains on building new AI products and infrastructure.\n\nThe move comes shortly after rival AI company Anthropic announced its own IPO plans, intensifying a race between the two leading AI developers to access large-scale public investment. Going public would allow OpenAI to raise tens of billions of dollars to fund operations and infrastructure as competition in the AI sector accelerates.\n\nOpenAI has been working to stabilize its finances and chart a clearer path to profitability ahead of a public listing. The company has undergone significant structural changes in recent years, including a transition away from its original nonprofit governance model toward a for-profit structure capable of attracting institutional investors.\n\nA successful IPO would represent one of the largest technology public offerings in recent history and could unlock substantial wealth for OpenAI's employees and early investors. The confidential filing status means the company is not yet committed to proceeding and retains flexibility on timing.",
