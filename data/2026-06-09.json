@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "House Passes $70 Billion Immigration Enforcement Bill, Sending Secure America Act to Trump",
+      "summary": "House Republicans passed the Secure America Act on Tuesday in a 214-212 vote, sending President Trump a $70 billion budget reconciliation package that funds Immigration and Customs Enforcement and Border Patrol through 2029. The bill cleared the Senate last Friday and now heads to the president's desk. Every Democrat voted against the measure, joined by Rep. Kevin Kiley (I-CA), who caucuses with Republicans.\n\nThe legislation ends a months-long legislative standoff that had at one point forced the Department of Homeland Security to temporarily shutter due to funding gaps. Republicans framed the bill as essential to sustaining Trump's immigration enforcement agenda for the remainder of his term, with Speaker Mike Johnson celebrating it as a major victory.\n\nDemocrats argued the bill represents Congress ceding its oversight role over immigration agencies and warned of unchecked enforcement powers. Critics noted the bill passed entirely along party lines with no bipartisan compromise on proposed reforms to the agencies. The near-party-line vote underscores the deep partisan divide over immigration that has defined the 119th Congress.\n\nThe passage is a significant legislative win for Trump ahead of his 80th birthday and comes at a politically charged moment as primaries in Maine, South Carolina, Nevada, and North Dakota unfold. The bill had been among the administration's top domestic legislative priorities since taking office.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/house/5916924-reconciliation-ice-border-patrol-funding/",
+      "sourceCount": 18,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:45 PM MT",
+      "addedAtISO": "2026-06-09T16:45:53.556982-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "UK and Four Allies Sanction Settler Violence Networks in West Bank; France Bars Israeli Minister Smotrich",
+      "summary": "The United Kingdom, Australia, Canada, France, and Norway imposed coordinated sanctions Tuesday on entities and individuals they described as financing and enabling violent attacks by Jewish settlers against Palestinian civilians in the Israeli-occupied West Bank. The UK specifically sanctioned six entities and one individual, including an association funding settler farms and outposts and a construction company accused of destroying Palestinian land and property.\n\nFrance additionally barred far-right Israeli Finance Minister Bezalel Smotrich from entering the country. Smotrich holds wide authority over settlement policy in the West Bank, which is illegal under international law. The joint statement from the five nations' foreign ministers said violent settlers had \"been able to act with near impunity\" and called on Israel to ensure accountability.\n\nIsrael rejected the measures as \"disgraceful\" and called them political acts \"camouflaged as measures against violence.\" The UN documented 1,835 settler attacks on Palestinians in 2025, resulting in seven deaths and 832 injuries — representing increases of 130 percent over the prior year. Israel has approved more than 100 new settlements across the West Bank since Prime Minister Netanyahu returned to power in 2022.\n\nThe coordinated Western action reflects growing friction between Israel and several of its traditional allies over settlement expansion and settler violence, even as the broader Israel-Iran conflict continues. The move is among the most significant multilateral sanctions actions targeting Israeli settler activity to date.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:45 PM MT",
+      "addedAtISO": "2026-06-09T16:45:53.556982-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Germany Cancels Joint Fighter Jet Programme With France, Fracturing European Defence Cooperation",
+      "summary": "Germany has withdrawn from the flagship Future Combat Air System fighter jet project it had jointly pursued with France since 2017, dealing a significant blow to European defence cooperation at a moment of heightened security concerns on the continent. The programme had been conceived as a symbol of Franco-German strategic partnership and was billed as an unprecedented joint military endeavour.\n\nDisagreements between industrial partners — France's Dassault Aviation and the Airbus-led German and Spanish consortium — proved insurmountable, with disputes over leadership roles, work distribution, and diverging military requirements. France wanted a lighter carrier-capable jet, while Germany sought a larger air superiority aircraft. Germany's dramatically increased domestic defence spending following Russia's full-scale invasion of Ukraine gave its industry less incentive to make concessions.\n\nGerman officials said \"core\" elements of the broader FCAS programme outside the fighter jet will continue, though analysts noted it is unclear what this means in practice. Defence experts said the collapse undermines efforts to demonstrate that Europe can act with strategic unity, particularly as the continent seeks to reduce reliance on the United States.\n\nThe cancellation comes as European nations accelerate their own rearmament programmes and debate the future architecture of continental defence. France has not publicly commented on the breakdown, and Dassault Aviation has yet to issue a statement.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckg02541ykpo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:45 PM MT",
+      "addedAtISO": "2026-06-09T16:45:53.556982-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
       "headline": "Update: Vance Refers Minnesota Gov. Walz and AG Ellison to DOJ for Criminal Investigation Over Alleged Social Services Fraud",
       "summary": "Vice President JD Vance on Tuesday formally referred Minnesota Gov. Tim Walz and state Attorney General Keith Ellison to the Department of Justice for criminal investigation, alleging the two Democratic officials failed to stop — and may have helped impede — widespread fraud in the state's social services programs. The referral follows a House Oversight Committee report that alleged the Walz administration ignored billions of dollars in fraud in programs including food assistance and childcare subsidies. A separate DOJ investigation into Walz over alleged interference with immigration enforcement was already underway.\n\nThe move marks a significant escalation in the Trump administration's targeting of Democratic state officials, coming just weeks before the 2026 midterm primary season heats up. Vance, who faced Walz as the Democratic vice-presidential nominee in 2024, called the alleged misconduct a betrayal of Minnesota taxpayers. Supporters of the administration say the referral reflects legitimate oversight of documented fraud.\n\nWalz and Ellison have denied wrongdoing, with allies framing the referral as politically motivated retaliation against a high-profile Democratic rival. Critics of the administration argue that using the DOJ to investigate political opponents sets a dangerous precedent and echoes the 'weaponization' concerns Democrats have raised throughout Trump's second term.\n\nThe story is covered by 12 outlets across the political spectrum and represents a concrete new development — an official criminal referral — on a story previously reported at the allegation stage.",
       "source": "Fox News Politics",
