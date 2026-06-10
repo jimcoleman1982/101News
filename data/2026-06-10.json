@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-10",
+  "dateFormatted": "Wednesday, June 10, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Iran-Israel War Escalates as Strikes Continue; Global Fuel Crisis Deepens",
+      "summary": "Iran and Israel have continued exchanging strikes as the conflict extending past its 100th day shows no sign of abating despite U.S. pressure for a ceasefire. The ongoing hostilities, which have already involved Iranian ballistic missile assaults on Israel and Israeli retaliatory strikes on Iran, are being closely monitored by world powers. Twenty-five outlets across the political spectrum are tracking this story, reflecting its position as the dominant international news event.\n\nThe conflict is sending shockwaves through global energy markets, with fuel shortages reported in Myanmar and other nations dependent on Middle Eastern oil supplies. China is reported to be positioning itself to benefit economically from the disruption through its rapid pivot to electric vehicles. The situation is compounding existing pressures on global supply chains and commodity prices.\n\nU.S. President Donald Trump has demanded a ceasefire but has not announced new enforcement mechanisms, and the diplomatic path remains unclear. The conflict has broad implications for regional stability, involving Iranian-backed proxy forces across Iraq, Lebanon, and Yemen, as well as for the U.S. military presence in the Gulf, where an Apache helicopter was recently downed near the Strait of Hormuz.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/world/middleeast/iran",
+      "sourceCount": 25,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-10T05:08:24.728285-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Sydney Bondi Beach Terror Attack Suspect Faces 19 Additional Charges",
+      "summary": "Naveed Akram, the 24-year-old man accused in the December 2025 Bondi Beach mass shooting that killed 15 people at a Jewish festival, has been charged with 19 additional offences in an Australian court. The new charges include 10 counts of shooting with intent to murder, six counts of discharging a firearm with intent to resist arrest, and three counts of causing grievous bodily harm with intent to murder. Akram already faced 59 charges, including 15 counts of murder and 40 counts of attempted murder.\n\nProsecutors told the court that investigators from the Joint Counter Terrorism Team are working through a substantial body of evidence, including 230,000 CCTV images and digital content from devices linked to individuals with alleged ties to Akram. Some of that material requires translation, contributing to the pace of the case. Akram is due back in court in August and has not yet entered a plea.\n\nThe attack, in which Akram's father was also an armed participant before being shot dead by police, was Australia's worst mass shooting in nearly three decades. It prompted sweeping gun law reforms, hate speech crackdowns, and a royal commission into antisemitism that began public hearings in February. Akram's lawyer said additional charges in a case of this magnitude were not a surprise.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckg0l7g7n9no",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-10T05:08:24.728285-06:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "Update: Anthropic Releases Claude Fable 5 Publicly Despite Earlier Safety Warnings",
+      "summary": "Anthropic has released Claude Fable 5, a version of its highly capable Claude Mythos AI model, to the general public, reversing earlier cautions that the system was too powerful for broad release. The company acknowledged that \"releasing a model this capable comes with risks\" but said Fable would be deployed with safeguards and user limitations in place. Fable's capabilities are described as exceeding any model Anthropic has previously made publicly available.\n\nThe underlying Mythos model caused significant concern among technology, finance, and government leaders when it was first previewed privately in April, due to its ability to exploit or hack computer systems. Canadian Finance Minister François-Philippe Champagne was among officials who warned that its capabilities represented dangerous \"unknown unknowns.\" Despite an ongoing lawsuit against the U.S. Department of Defense over government use of its AI tools, federal agencies have also been testing the system.\n\nSeparately, Anthropic is also expanding access to Claude Mythos 5 — an updated, less restricted version — to a small group of cyberdefense organizations and infrastructure providers, with broader rollout expected. Organizations that previewed the original Mythos model have collectively reported finding more than 10,000 critical security vulnerabilities in their systems. Anthropic co-founder Jack Clark recently said the industry currently has a \"gas pedal but no brake pedal\" when it comes to controlling the pace of AI development.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-10T05:08:24.728285-06:00",
+      "slot": 5
+    },
+    {
+      "category": "other",
+      "headline": "CIA Officer Arrested After FBI Seizes $40 Million in Gold Bars in Alleged Agency Fraud Scheme",
+      "summary": "David Rush, a 51-year-old CIA officer with roughly 17 years of service, was arrested in May after FBI agents raided his home in Ashburn, Virginia, seizing 303 gold bars worth approximately $40 million, 35 luxury watches, and $2 million in cash, all alleged to be government property. Prosecutors allege Rush engineered a fraudulent scheme by creating a fake \"continuity of government\" special access program and using it to request the gold bars as purported work-related expenses. Tim Weiner, author of a history of the CIA, described it as \"the most significant financial crime, measured in dollars, in the history of the CIA.\"\n\nSources say Rush also allegedly fabricated much of his professional background, including claims of being a Navy pilot and attendance at universities he never enrolled in, and that he maintained a high-level security clearance throughout. He is said to have briefed at least two other individuals on the fictitious program and allegedly persuaded one of them to transfer millions of dollars through a fake government contract. Rush has been denied bail and is being held as a flight risk.\n\nThe CIA and FBI issued a joint statement at the time of Rush's formal arrest announcement on May 27, confirming he had requested the gold bars for \"work-related expenses\" but declined to elaborate. Special access programs — the type Rush allegedly fabricated — are typically so sensitive that even other CIA personnel have limited knowledge of them, a structural feature prosecutors say Rush exploited. Rush has been described by prosecutors as a \"master manipulator.\"",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/10/us-news/how-cia-officer-david-rush-caught-with-40m-gold-bars-engineered-most-significant-financial-crime-in-agencys-history-sources/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-10T05:08:24.728285-06:00",
+      "slot": 5
+    }
+  ]
+}
