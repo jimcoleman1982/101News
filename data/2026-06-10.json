@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: U.S. Strikes Iranian Defense Systems in Retaliation for Downed Helicopter",
+      "summary": "The United States military carried out retaliatory strikes against Iranian radar installations and coastal military facilities near the Strait of Hormuz on Wednesday, following Iran's downing of an American Apache helicopter. The Pentagon described the targets as Iranian air defense systems along the coastline, and analysts characterized the action as carefully limited in scope rather than an escalation toward full-scale conflict.\n\nMiddle East analysts note that both Washington and Tehran appear to be managing the confrontation deliberately. Firas Maksad of the Eurasia Group told the BBC the strikes were 'carefully choreographed' and that neither side wants a return to the all-out hostilities seen the previous month. Trump has continued to signal that a diplomatic deal is close, while pursuing what analysts describe as a strategy of economic pressure through a naval blockade.\n\nIranian leaders, according to analysts, believe Trump has limited appealing military options and are playing for time, hoping American patience erodes and concessions follow. Trump, meanwhile, has insisted publicly that a deal is only days away, though no framework has been announced.\n\nThe strikes represent a new and concrete military development since this story was last covered, with the U.S. directly hitting Iranian soil in response to the helicopter incident. The situation remains volatile given the overlap with the ongoing Iran-Israel conflict, the World Cup fuel crisis, and global oil market disruptions tied to Strait of Hormuz tensions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/live/cx2vn75ew2qt",
+      "sourceCount": 24,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "10:03 AM MT",
+      "addedAtISO": "2026-06-10T10:03:51.416387-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Ukraine Fires Long-Range Flamingo Missiles at Military Plant Deep Inside Russia",
+      "summary": "Ukraine carried out a rare deep-strike missile attack on a military manufacturing plant in Cheboksary, in Russia's Chuvash Republic, more than 900 kilometers from the front line, President Volodymyr Zelensky announced Wednesday. The target was the VNIIR-Progress facility, which supplies components for Russian drones and missiles. Local Russian officials confirmed the city was struck and reported three injuries, though they did not confirm damage to the plant itself.\n\nThe strikes were carried out using Ukraine's FP-5 Flamingo cruise missiles, which carry a 1,150-kilogram warhead and have a reported range of 3,000 kilometers — putting Moscow within reach. Ukraine also struck the occupied port of Mariupol, a Russian oil refinery in Samara, and a 'shadow fleet' tanker in the Black Sea in the same overnight operation.\n\nThe attack marks a significant escalation in Ukraine's long-range strike campaign, which has intensified in recent months. Kyiv argues that energy and defense infrastructure inside Russia are legitimate military targets because they sustain Moscow's war effort. Russia's military said its air defenses intercepted 326 Ukrainian drones overnight; Ukraine's air force reported downing 181 of 207 Russian drones fired in return, with at least two Ukrainians killed and 26 injured.\n\nRussian President Vladimir Putin has rejected all negotiation proposals and last week declined a request from Zelensky for direct talks, insisting Russian forces were advancing along the front — a claim at odds with battlefield assessments showing the line largely static for months.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yzm2nzgr2o",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:03 AM MT",
+      "addedAtISO": "2026-06-10T10:03:51.416387-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Taiwan Fires U.S.-Supplied HIMARS Rockets into Taiwan Strait in First-Ever Live Drill",
+      "summary": "Taiwan's military conducted its first-ever live firing of the U.S.-supplied HIMARS mobile rocket system into the Taiwan Strait on Wednesday, simulating an attack on an invading Chinese naval force. The drill also demonstrated the system's 'shoot-and-scoot' capability — rapidly repositioning after firing to avoid counterstrikes — which has proven effective in Ukraine's conflict with Russia.\n\nThe exercise marks a significant symbolic and operational threshold, as it is the first time the American-made precision rocket artillery system has been used in a live exercise oriented directly toward China. Taiwan has been systematically integrating HIMARS into its asymmetric defense strategy, which emphasizes mobile, survivable systems capable of inflicting costs on a larger invading force.\n\nThe drill is likely to draw a sharp response from Beijing, which regards Taiwan as a breakaway province and has repeatedly condemned U.S. arms sales to the island. The timing comes amid heightened regional tensions, including Xi Jinping's recent visit to Pyongyang and ongoing friction over the Taiwan Strait between Washington and Beijing.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/10/g-s1-127253/taiwan-drills-with-us-rocket-system-firing-in-chinas-direction",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:03 AM MT",
+      "addedAtISO": "2026-06-10T10:03:51.416387-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "Update: U.S. and Iran Exchange Strikes After Apache Helicopter Shot Down; Trump Warns Iran Will 'Pay the Price'",
       "summary": "The United States launched multiple rounds of strikes against Iranian air defense systems, ground control stations, and radar sites near the Strait of Hormuz on Tuesday after Iran shot down a U.S. Army Apache helicopter patrolling the area. Iran retaliated by targeting U.S. military bases across the Middle East, including facilities in Bahrain, Kuwait, and Jordan, all of which host American troops. The two helicopter crew members were rescued in a first-of-its-kind operation by an uncrewed Navy drone vessel known as the Corsair.\n\nPresident Trump, who days earlier had brokered a ceasefire between Israel and Iran, declared Wednesday that Iran would 'have to pay the price' for stalling peace negotiations and for the attacks on U.S. allies. A U.S. official told Axios that the investigation determined an Iranian drone struck the helicopter, causing it to crash. U.S. Central Command described its strikes as a 'proportional response to unjustified Iranian aggression,' while Iran's joint military command said it had targeted 'several U.S. bases in the region.'\n\nThe exchange of fire has sharply escalated a conflict that was already past its 100th day and raised new questions about the viability of ongoing negotiations. U.S. inflation jumped to a three-year high of 4.2% annually in May, with analysts citing spiking energy prices linked to the closure of the Strait of Hormuz as a primary driver. Congressional Republicans expressed growing frustration about the war's cost — roughly $29 billion to date — and are demanding clearer objectives from the Pentagon before backing a new funding request.\n\nSupporters of the administration argue the strikes demonstrate resolve and are designed to pressure Iran back to the negotiating table, while critics warn that retaliatory cycles risk spiraling into a broader regional war. JD Vance said Wednesday he expects the conflict to end within a week — or possibly a few months — a vague assessment that did little to reassure allies or markets.",
       "source": "National Review",
