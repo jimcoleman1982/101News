@@ -3,6 +3,34 @@
   "dateFormatted": "Thursday, June 11, 2026",
   "stories": [
     {
+      "category": "other",
+      "headline": "'8647' Carved Into National Mall Lawn Near White House; Federal Investigation Under Way",
+      "summary": "A large etching of the numbers '8647' appeared on the west lawn of the Washington Monument on the National Mall, visible from aerial cameras atop the monument and located across Constitution Avenue from the White House. U.S. Park Police responded to a report of vandalism at approximately 11:30 a.m. and said grass samples had been collected for testing to determine the cause of the discoloration. The investigation is ongoing.\n\nThe phrase '8647' has become politically charged under the Trump administration. The term '86' — rooted in 1930s restaurant slang meaning to nix or get rid of something — combined with '47,' referencing Trump as the 47th president, has been interpreted by some as a call to remove or harm the president. The phrase gained national attention in May 2025 when former FBI Director James Comey posted an image of seashells forming '86 47' on a beach; Comey denied it was a call to violence, but the Department of Justice subsequently indicted him over the incident.\n\nThe Department of the Interior condemned the act in a statement, calling it 'deranged vandalism' and saying any threat against the president 'is taken very seriously.' The incident comes days before Trump's 80th birthday celebrations and ahead of major Fourth of July events planned for the National Mall as part of the nation's 250th anniversary festivities.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4605189/carving-number-8647-on-national-mall/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:43 PM MT",
+      "addedAtISO": "2026-06-11T13:43:53.014907-06:00",
+      "slot": 14
+    },
+    {
+      "category": "technology",
+      "headline": "Senate Holds AI Hearing as Anthropic Pledges $200 Million for Job Displacement Research",
+      "summary": "The Senate Banking, Housing and Urban Affairs Committee convened a hearing Thursday titled 'AI and the American Dream: Promoting Innovation, Affordability, and American Dominance,' as policymakers and industry leaders intensify scrutiny of artificial intelligence's economic effects. The hearing coincides with Anthropic announcing a $200 million Economic Futures Research Fund to study AI's impact on employment and the broader economy.\n\nAnthropic CEO Dario Amodei published an essay arguing that AI could produce labor market disruptions larger and longer-lasting than any previous technological wave. He proposed better government data collection on AI job displacement, pro-employment policy incentives, and potentially a universal basic income financed through taxes on AI companies or higher capital gains taxes. Amodei said his warnings were not intended to be alarmist but to prompt policymakers and business leaders to prepare.\n\nThe announcement follows rival OpenAI outlining goals for broadly sharing AI gains, with CEO Sam Altman recently meeting with Sen. Bernie Sanders to discuss a public wealth fund built on AI company equity. President Trump separately told reporters Wednesday that he will soon meet with leading AI executives to discuss 'giving back to the public,' saying 'the public will become very rich' if such arrangements are reached. The convergence of congressional hearings, major corporate pledges, and White House engagement marks a notable shift toward policy action on AI's economic consequences.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-senate-banking-committee-holds-hearing-on-artificial-intelligence",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:43 PM MT",
+      "addedAtISO": "2026-06-11T13:43:53.014907-06:00",
+      "slot": 14
+    },
+    {
       "category": "politics",
       "headline": "Update: FISA Spy Powers Near Lapse as Trump Refuses to Drop Pulte Nomination",
       "summary": "A lapse in Section 702 of the Foreign Intelligence Surveillance Act grew more likely Wednesday as President Trump resisted bipartisan pressure to replace acting Director of National Intelligence Bill Pulte, whose appointment Democrats have made a condition for renewing the surveillance law. The law, which allows the U.S. to collect intelligence on foreign targets abroad, expires at midnight Friday — a deadline that coincides with the opening of World Cup games in American cities and approaching celebrations for the nation's 250th anniversary.\n\nTrump asked Congress for a short-term extension to allow time to nominate a permanent DNI, but refused to withdraw Pulte's acting appointment, saying he would not let Democrats 'extort' the administration. Senate Republicans floated a stopgap extension, which Democrats immediately rejected. Speaker Mike Johnson announced a House vote Thursday on a measure to extend the program through July 2, though passage appeared uncertain.\n\nDemocrats, led by House Minority Leader Hakeem Jeffries, argue Pulte is a 'partisan political hack' unqualified for the intelligence post and that Trump must name a permanent replacement before they will vote for any extension. Senate Majority Leader John Thune said Republican leadership has communicated to the White House what is needed to pass the bill. Trump said he is interviewing five candidates for the permanent role, all with national security backgrounds.\n\nThe standoff represents a rare instance of intelligence-community tools being used as a political bargaining chip, with national security implications if the program lapses even briefly. Critics on both sides of the aisle have warned that allowing Section 702 authorities to go dark — even temporarily — could blind U.S. intelligence to foreign threats at a sensitive moment.",
