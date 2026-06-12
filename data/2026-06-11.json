@@ -3,6 +3,48 @@
   "dateFormatted": "Thursday, June 11, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "Update: SpaceX Raises $75 Billion in Largest U.S. IPO Ever",
+      "summary": "SpaceX priced its initial public offering Thursday night at $135 per share, selling 555.56 million shares to raise $75 billion and valuing Elon Musk's rocket company at approximately $1.77 trillion. The offering was heavily oversubscribed, with retail investors receiving an unusually large share allocation. The IPO automatically makes SpaceX one of the world's most valuable publicly traded companies.\n\nThe listing represents the largest IPO in U.S. history, surpassing previous records by a wide margin. Analysts note the valuation could be eclipsed later this year if Anthropic and OpenAI proceed with their own anticipated public offerings. SpaceX has grown from a startup into the dominant force in commercial launch services and operates the Starlink satellite internet constellation.\n\nThe IPO transforms the financial position of thousands of SpaceX employees whose equity stakes now have a clear public market value. Musk, who also leads Tesla and his artificial intelligence venture xAI, sees his overall net worth further elevated by the listing. The offering had been anticipated for months following confidential IPO filings reported earlier this year.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/11/spacex-ipo-prices-75-billion",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-11T21:08:18.272701-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Kennedy Center Board Appeals Court Order to Remove Trump's Name",
+      "summary": "The Kennedy Center's board of trustees voted Thursday to appeal a federal court ruling requiring President Trump's name to be removed from the performing arts center's exterior, filing the appeal just ahead of U.S. District Judge Christopher Cooper's Friday deadline. The board also sought a stay of Cooper's May 29 ruling, which found that Trump's name had been illegally added to the building. The move reverses course from a June 4 memo to staff directing that all internal materials revert to the institution's original name.\n\nJudge Cooper, an Obama appointee, had given the administration 14 days to remove Trump's name from signage, digital materials and branding. The board, composed of Trump-appointed trustees, argued the ruling should be paused while the appeal proceeds. The Kennedy Center controversy is one of several ongoing legal battles over the Trump administration's changes to federal cultural institutions.\n\nSupporters of the administration argue that the president has the authority to rename and reshape federally affiliated institutions, while critics contend the renaming violated the law and politicized a nonpartisan arts venue. The appeal ensures the dispute will extend through the summer at minimum, leaving the center's public identity in legal limbo during a period that includes major scheduled events on and near the National Mall.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/11/kennedy-center-trump-name-ruling-appeal",
+      "sourceCount": 9,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-11T21:08:18.272701-06:00",
+      "slot": 21
+    },
+    {
+      "category": "other",
+      "headline": "Knicks Record Largest Comeback in NBA Finals History, Lead Series 3-1",
+      "summary": "The New York Knicks erased a 29-point deficit to defeat the San Antonio Spurs 107-106 in Game 4 of the NBA Finals on Wednesday night, the largest comeback in Finals history. OG Anunoby scored the winning points with 1.2 seconds remaining, tapping in a missed three-point attempt after inbounding the ball himself. The Knicks now lead the best-of-seven series 3-1 and need one more win to claim their first championship since 1973.\n\nThe game drew a star-studded crowd at Madison Square Garden, including Taylor Swift, Timothée Chalamet and director Spike Lee. New York Mayor Zohran Mamdani posted on social media immediately after the final buzzer. The Knicks have not appeared in the Finals since 1999, when they lost to the same San Antonio franchise now standing in their way.\n\nGame 5 is scheduled for Saturday night in San Antonio. Despite the daunting series deficit, the Spurs can still force a Game 7 if they win the next three contests. The series has ignited street celebrations across New York City, with the city decorated in Knicks colors from the Empire State Building to the marble lions outside the New York Public Library.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-11T21:08:18.272701-06:00",
+      "slot": 21
+    },
+    {
       "category": "politics",
       "headline": "Trump Nominates Jay Clayton as Director of National Intelligence Amid FISA Fallout",
       "summary": "President Donald Trump announced Thursday he will nominate Jay Clayton — former Securities and Exchange Commission chairman and current U.S. Attorney for the Southern District of New York — to serve as the permanent Director of National Intelligence. The announcement comes after Trump's interim pick, housing regulator Bill Pulte, drew sharp bipartisan criticism as insufficiently experienced for the role, and after House Democrats' objections helped ensure a key national security surveillance tool, authorized under FISA, expired Friday without reauthorization.\n\nTulsi Gabbard resigned from the DNI post last month, leaving a leadership vacuum at the top of the U.S. intelligence community. Critics argued Pulte's appointment was a political choice that endangered national security, while Trump had defended him. Clayton's background as a prominent securities lawyer and former regulatory official is seen as a more credible choice by many lawmakers on both sides of the aisle.\n\nTrump praised Clayton on social media as \"very Highly Respected\" in the legal community. The nomination must still be confirmed by the Senate. Clayton's selection is widely seen as a course correction intended to restore confidence in ODNI leadership and potentially revive efforts to renew FISA surveillance authority that lapsed due to the political standoff over Pulte.\n\nThe episode highlights the political cost of Trump's earlier appointment strategy, which tied the fate of a major intelligence tool to a controversial personnel choice. Democrats framed the FISA lapse as a national security failure; Republicans aligned with the White House had argued Pulte deserved a fair confirmation process.",
