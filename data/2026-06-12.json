@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, June 12, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "Update: Elon Musk Becomes World's First Trillionaire as SpaceX Shares Soar in Market Debut",
+      "summary": "Elon Musk crossed the $1 trillion net worth threshold on Friday as SpaceX shares surged during the company's first day of public trading on the Nasdaq. Shares opened at $150, above the $135 offering price, and briefly reached $176.50 before closing at approximately $161, giving the company a market valuation of $2.2 trillion — the largest IPO in U.S. history. Musk's 42 percent ownership stake, combined with his Tesla holdings, put his total net worth at $1.11 trillion according to Bloomberg's wealth index.\n\nThe milestone marks a new threshold in concentrated private wealth. Musk's net worth now approximates the entire annual economic output of Poland or Switzerland. More than 4,400 current and former SpaceX employees are also expected to have become millionaires through equity compensation, though Musk himself is barred from selling his SpaceX shares for at least one year following the IPO.\n\nThe development immediately reignited political debate over wealth inequality. Democratic Senators Bernie Sanders and Elizabeth Warren condemned the milestone, with Warren calling it a 'wake up call' and renewing calls for a wealth tax. Supporters of Musk and SpaceX pointed to the company's commercial space dominance, satellite internet network, and AI ambitions as justifications for the valuation.\n\nSpaceX's listing caps a years-long buildup in which the company expanded its Starlink satellite internet service and secured major contracts with NASA and the U.S. military. Musk retains essentially unilateral control over the company despite its public listing, given his ownership stake.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 8,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:44 PM MT",
+      "addedAtISO": "2026-06-12T16:44:20.298712-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Update: Former Spanish PM Zapatero Faces New Criminal Investigation After €1.2 Million in Jewellery Found in Safe",
+      "summary": "Former Spanish Prime Minister José Luis Rodríguez Zapatero is now under formal criminal investigation for tax fraud and smuggling after authorities discovered approximately €1.2 million worth of luxury jewellery — including necklaces, bracelets, rings, and earrings made with gold, sapphires, and emeralds — during a raid on his office. Investigators say Zapatero has been unable to demonstrate that customs duties were paid on the items, which reportedly originated from Zambia and Thailand. Associates of the former prime minister have said the items were linked to a family inheritance.\n\nThe jewellery discovery emerged from a broader existing probe into alleged influence peddling related to Zapatero's role in the 2021 government bailout of Spanish airline Plus Ultra. In that case, Zapatero is accused of using his political influence to secure a €53 million state bailout of the airline and receiving a commission in return. He has consistently denied any wrongdoing in both matters and has said he will provide explanations to the judge.\n\nThis marks the first time in modern Spanish history that a former prime minister has been placed under formal criminal investigation. Zapatero governed Spain from 2004 to 2011 and remains a close ally and influential figure within the current ruling Socialist Party of Prime Minister Pedro Sánchez.\n\nThe case deepens a series of legal troubles surrounding Spain's Socialist Party. Police recently raided the party's Madrid headquarters and the homes of senior figures. Sánchez's wife and brother also face separate charges, all of which they deny. Zapatero has been summoned to testify in court later this month.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:44 PM MT",
+      "addedAtISO": "2026-06-12T16:44:20.298712-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Putin Vows to Expand Satellite Constellation to Intensify Strikes on Ukrainian Infrastructure",
+      "summary": "Russian President Vladimir Putin announced Friday that Russia is expanding a domestically produced satellite constellation, framing the effort as a means to step up military strikes on Ukrainian infrastructure. The announcement signals Moscow's intent to reduce its dependence on commercial satellite data while improving targeting capabilities for its ongoing campaign against Ukrainian energy grids, fuel depots, and logistical networks.\n\nUkraine has in recent months escalated its own long-range strike campaign inside Russia, targeting refineries, fuel storage facilities, and supply lines including in Crimea. The satellite expansion, if successful, could offset some of Ukraine's advantages in battlefield intelligence and targeting derived from Western commercial and military satellite support.\n\nThe development adds a new dimension to the conflict's technological competition. Ukraine's reliance on Western satellite infrastructure, including systems similar to Starlink, has been a significant operational asset throughout the war, and Russia has sought countermeasures including jamming and domestic alternatives.\n\nNo timeline or specific details about the satellite program's capacity were provided in Putin's remarks. The announcement comes as the broader war continues with no active ceasefire negotiations between Kyiv and Moscow.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-12/putin-vows-to-expand-starlink-rival-with-aim-to-step-up-attacks",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:44 PM MT",
+      "addedAtISO": "2026-06-12T16:44:20.298712-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Update: Indian Sailors Killed in U.S. Strike on Oil Tanker; India Lodges Formal Protest with Washington",
       "summary": "Three Indian sailors were killed when the U.S. military struck the MT Settebello, an oil tanker, in the Gulf of Oman on Wednesday as part of Washington's effort to enforce a blockade on Iran-linked shipping. The U.S. military said the vessel had ignored repeated warnings and was carrying Iranian oil, but the ship's managers dispute that account, saying it had no connection to Iran and received no warning before the strike. Twenty-one other crew members were rescued.\n\nThe deaths have prompted India to lodge a formal diplomatic protest with Washington, with the government summoning a senior U.S. diplomat and calling for an end to attacks on commercial vessels in the region. Shipping Minister Sarbananda Sonowal said efforts are under way to return the sailors' bodies to their families. The Indian government described the losses as a 'profound loss' to the country's maritime community.\n\nThe human toll of the strike is rippling through coastal communities in Andhra Pradesh and other states, where families of the dead sailors are mourning and seeking answers about the circumstances. One victim, Patnala Suresh, had spoken to his wife by video call days before the strike, promising he would return safely in time for their 15th wedding anniversary. His family received no news for two days before learning of his death.\n\nThe incident raises significant questions about the risk to neutral commercial shipping during the U.S.-Iran confrontation in the Gulf region. India's formal protest marks one of the more consequential diplomatic frictions the conflict has generated beyond the immediate belligerents, underscoring how the enforcement of maritime blockades can draw in third-party nations whose citizens work aboard commercial vessels.",
