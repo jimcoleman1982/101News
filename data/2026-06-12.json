@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, June 12, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: U.S. and Iran Said to Agree on Peace Text as Deal Could Be Signed Within Days",
+      "summary": "Pakistan's prime minister announced Friday that the United States and Iran have reached agreement on a final peace framework text, with a signing of a memorandum of understanding potentially coming as soon as Sunday or Monday. A senior U.S. administration official confirmed both sides had agreed on the language, saying the deal would extend the current ceasefire for 60 days, reopen the Strait of Hormuz immediately, and launch negotiations on Iran's nuclear program. Iran's foreign minister said a deal has \"never been closer\" and that details would be shared publicly \"in due course.\"\n\nKey terms of the emerging MOU, according to a diplomat from a mediating country and a U.S. official, include immediate reopening of the Strait of Hormuz without tolls and a step-by-step sanctions relief framework tied to Iranian compliance. The deal would not involve cash payments to Tehran, Vice President Vance stressed Friday, pushing back on details circulated by Iranian state media. President Trump separately threatened to seize Iran's main oil export hub, Kharg Island, if negotiations falter.\n\nSignificant uncertainty remained throughout Friday as Trump publicly dismissed some reported deal details as \"fake\" and said the agreement was roughly three-quarters finalized. Tehran had previously described reports of a \"final decision\" as speculative, and the pattern of conflicting signals has repeated itself multiple times over the course of the more than 100-day conflict.\n\nThe prospective deal is being closely watched by Israel, whose Prime Minister Netanyahu was informed by Trump on Thursday evening that the U.S. expected to sign an agreement — news that Netanyahu did not welcome, as he had hoped the war might produce regime change in Tehran. Iran hawks in Washington also raised alarms, with one former Treasury official warning that signing any version of the deal would eliminate U.S. leverage. The IAEA said verifying the full scope of Iran's nuclear capabilities would be its top priority as talks advance.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/international/5922005-pakistan-us-iran-peace-deal-text-agreement/",
+      "sourceCount": 21,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-12T21:08:43.738868-06:00",
+      "slot": 21
+    },
+    {
+      "category": "technology",
+      "headline": "Trump Administration Blocks Foreign Access to Anthropic's Most Powerful AI Models",
+      "summary": "The Trump administration has ordered Anthropic to suspend access to its two most advanced AI models for foreign governments, companies, and individuals, citing national security concerns, Axios reported Friday. The Commerce Department has placed the San Francisco-based AI company under a licensing regime that effectively bars international users from its most capable systems, marking a significant escalation in Washington's effort to treat frontier AI as a national security asset.\n\nThe move is notable for its dual nature: Anthropic simultaneously finds itself on a Pentagon blacklist deeming its most powerful models too dangerous for U.S. government use, while also being subject to export controls preventing those same systems from reaching foreign hands. The company said the federal government ordered the suspension Friday night.\n\nThe action reflects growing bipartisan consensus in Washington that leading AI capabilities must be kept from adversaries, particularly China, though the breadth of the restriction — covering all foreign entities, not just those from rival states — is broader than previous export control measures applied to AI. It also raises questions about the commercial impact on Anthropic, which competes globally with OpenAI and Google.\n\nThe restrictions come days after Anthropic publicly released its Claude Fable 5 model despite earlier internal safety warnings, adding to scrutiny of how the company manages the tension between commercial deployment and safety considerations. The administration has not publicly detailed what specific capabilities triggered the national security designation.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-12T21:08:43.738868-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "FBI Raids Ohio Voter Registration Group's Office Ahead of Contested Fall Elections",
+      "summary": "FBI agents searched the Cleveland office of the Ohio Organizing Collaborative on Thursday, seizing documents and computer files as part of an investigation into alleged voter registration fraud, according to a board member of the progressive grassroots organization. Agents also visited the homes of individuals associated with the group, seeking interviews and information. The Ohio Organizing Collaborative, founded in 2007, focuses on criminal justice reform, racial justice, and voting rights expansion.\n\nThe search comes ahead of hotly contested fall elections in Ohio, where both the governor's race and a U.S. Senate seat are in play. To obtain a search warrant, federal authorities must demonstrate probable cause of criminal activity to a judge, though the specific allegations have not been made public. The Justice Department and the FBI's Cleveland field office declined to comment.\n\nDemocrats, including both of the party's nominees for Ohio governor and U.S. Senate, condemned the raid. Democratic gubernatorial nominee Amy Acton called any federal effort to intimidate eligible Ohioans from registering to vote \"unacceptable,\" while Senate candidate Sherrod Brown demanded the FBI make public all activities related to the searches. Board member Prentiss Haney accused agents of \"intimidation tactics and harassment\" and said the investigation appeared designed to sow doubt ahead of elections.\n\nRepublicans have argued the administration is legitimately pursuing potential fraud violations, consistent with its broader focus on election integrity enforcement. The raid is the latest in a series of Justice Department actions related to voting and election operations in the states, and it arrives amid persistent Democratic concerns about a politicized FBI and DOJ under the Trump administration.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/fbi-searches-office-of-ohio-group-that-supports-voter-registration-efforts",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-12T21:08:43.738868-06:00",
+      "slot": 21
+    },
+    {
       "category": "business",
       "headline": "Update: Elon Musk Becomes World's First Trillionaire as SpaceX Shares Soar in Market Debut",
       "summary": "Elon Musk crossed the $1 trillion net worth threshold on Friday as SpaceX shares surged during the company's first day of public trading on the Nasdaq. Shares opened at $150, above the $135 offering price, and briefly reached $176.50 before closing at approximately $161, giving the company a market valuation of $2.2 trillion — the largest IPO in U.S. history. Musk's 42 percent ownership stake, combined with his Tesla holdings, put his total net worth at $1.11 trillion according to Bloomberg's wealth index.\n\nThe milestone marks a new threshold in concentrated private wealth. Musk's net worth now approximates the entire annual economic output of Poland or Switzerland. More than 4,400 current and former SpaceX employees are also expected to have become millionaires through equity compensation, though Musk himself is barred from selling his SpaceX shares for at least one year following the IPO.\n\nThe development immediately reignited political debate over wealth inequality. Democratic Senators Bernie Sanders and Elizabeth Warren condemned the milestone, with Warren calling it a 'wake up call' and renewing calls for a wealth tax. Supporters of Musk and SpaceX pointed to the company's commercial space dominance, satellite internet network, and AI ambitions as justifications for the valuation.\n\nSpaceX's listing caps a years-long buildup in which the company expanded its Starlink satellite internet service and secured major contracts with NASA and the U.S. military. Musk retains essentially unilateral control over the company despite its public listing, given his ownership stake.",
