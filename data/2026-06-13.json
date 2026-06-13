@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Thousands Rally in Belfast and Glasgow to Condemn Anti-Immigrant Rioting",
+      "summary": "Thousands of demonstrators gathered Saturday outside Belfast City Hall to denounce nights of violent anti-immigrant rioting that followed the arrest of a 30-year-old Sudanese man on attempted murder charges stemming from a stabbing that left another man partly blind. Masked groups had set fire to homes believed to house immigrants, torched a bus, and hurled bricks, bottles, and firebombs at police, injuring 12 officers and leaving more than two dozen people homeless.\n\nSaturday's peaceful counter-rallies marked a significant shift in the public mood. Demonstrators carried signs reading \"The problem is evil and violence not race\" and \"Your racism is not patriotism.\" One speaker told the crowd that a single violent act by a non-white person had been enough to \"rekindle the fire of racism\" — a warning about how quickly far-right networks were able to mobilize.\n\nIn Glasgow, an anti-racism group also rallied thousands in the city center, where earlier in the week disorder had targeted minorities and forced a mosque into lockdown. A smaller contingent of counter-protesters was observed making Nazi salutes and shouting anti-Muslim chants before being drowned out by chants of \"Nazi scum off our streets.\"\n\nBritish officials and the stabbing victim's own family had called for calm throughout the week. The episodes have reignited debate across the United Kingdom about immigration policy, far-right radicalization online, and the speed with which communal violence can erupt following high-profile crimes.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/thousands-rally-in-belfast-to-condemn-anti-immigrant-rioting-that-followed-stabbing",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:16 PM MT",
+      "addedAtISO": "2026-06-13T16:16:51.383064-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "U.S. Vaccine Policy at Crossroads as RFK Jr. Faces Political Backlash Over HHS Moves",
+      "summary": "A series of decisions expected over the coming months will reshape U.S. vaccine policy for years, with Health and Human Services Secretary Robert F. Kennedy Jr. at the center of a widening political battle. Kennedy came into office pledging to restore public trust in vaccines and to apply greater scrutiny to the pharmaceutical industry, but his most aggressive actions have drawn charges from public health experts and mainstream medical organizations that he is spreading misinformation and amplifying debunked theories.\n\nSupporters of Kennedy argue that independent review of vaccine safety data is long overdue and that public skepticism of health institutions — accelerated by the COVID-19 pandemic — demands a more transparent regulatory approach. Critics, including many former FDA and CDC officials, contend that Kennedy's moves risk undermining vaccination rates at a time when measles and other preventable diseases are resurging.\n\nThe decisions before HHS in the near term include potential changes to the childhood immunization schedule, the future of certain vaccine liability protections, and how the government communicates risk-benefit data to the public. Each carries significant implications for pharmaceutical manufacturers, state health departments, and millions of American families.\n\nThe political divide over Kennedy's tenure reflects broader tensions within the Republican coalition, where vaccine skepticism has grown while traditional public health conservatives push back against what they see as a dangerous departure from evidence-based policy.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/13/kennedy-vaccine-policy",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:16 PM MT",
+      "addedAtISO": "2026-06-13T16:16:51.383064-06:00",
+      "slot": 18
+    },
+    {
+      "category": "other",
+      "headline": "NBA Finals Star James Harden Arrested in Houston on Misdemeanor Weapons Charge",
+      "summary": "Cleveland Cavaliers guard James Harden was arrested in the early hours of Saturday morning in Houston, Texas, on a misdemeanor charge of unlawful carrying of a weapon, according to court records. Police stopped the vehicle Harden was driving through downtown Houston shortly before 4 a.m. and observed a handgun in the cup holder of his Mercedes. Harden was traveling with four other occupants at the time.\n\nHarden, an 11-time NBA All-Star, was released from the Harris County jail on a $100 bond. The charge is a misdemeanor under Texas law. No details were provided about whether any of the other occupants faced charges.\n\nThe arrest comes during the NBA Finals, in which the Cavaliers are competing. The timing and circumstances — a high-profile athlete stopped with a visible weapon in a vehicle in the early morning hours — drew immediate attention across sports media. It was not immediately clear whether the NBA or the Cavaliers organization planned to comment.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/sports-gaming/5923001-cavaliers-guard-james-harden-arrested-in-houston/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "4:16 PM MT",
+      "addedAtISO": "2026-06-13T16:16:51.383064-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
       "headline": "Update: Trump Calls Iranian Negotiators 'Very Dishonorable' as Nuclear Deal Talks Strain",
       "summary": "President Trump sharply criticized Iranian negotiators on Friday, calling them \"very dishonorable people\" and rejecting leaked deal terms, introducing new turbulence into ongoing U.S.-Iran nuclear negotiations. The remarks came as Iranian Foreign Minister Abbas Araghchi confirmed that discussions over what Iran describes as \"service fees\" in the Strait of Hormuz remain part of the talks, while asserting that international law does not permit transit tolls on ships passing through the strategic waterway.\n\nAraghchi said Iranian forces would continue to intervene in the Strait of Hormuz when necessary, complicating a key element of any potential agreement — the promised reopening of the waterway to normal commercial shipping. The Strait of Hormuz handles roughly 20 percent of global oil trade, and its status is a central concern for energy markets and U.S. allies in the region.\n\nThe exchange marks a significant deterioration in tone from earlier this week, when both sides signaled a deal could be signed within days. The breakdown in diplomatic language raises fresh questions about whether an agreement is achievable in the near term, with implications for U.S.-Israel tensions, ongoing Israeli strikes in Lebanon, and global oil prices.\n\nSupporters of a diplomatic resolution argue a deal is essential to avoiding a wider regional conflict, while critics, including many congressional Republicans and Israeli officials, have expressed skepticism that Iran will honor any agreement and warn against concessions on uranium enrichment or Hormuz transit arrangements.",
       "source": "Fox News",
