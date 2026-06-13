@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-13",
+  "dateFormatted": "Saturday, June 13, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: U.S.-Iran Deal Near Signing as Israel Strikes Lebanon, Hormuz Reopening Promised",
+      "summary": "Iran's foreign minister said Friday that a deal to end hostilities with the United States is close to finalization and would include reopening the Strait of Hormuz and lifting a U.S. blockade of Iran. Pakistani Prime Minister Shehbaz Sharif, who helped mediate the agreement, confirmed a Memorandum of Understanding had been agreed and awaited finalizing. However, Iran's foreign minister acknowledged that the Supreme National Security Council had not yet reached a collective decision, saying \"supporters and opponents\" exist within Iran's top security body.\n\nPresident Trump said Thursday he had cancelled scheduled strikes against Iran because negotiators had reached a \"great settlement,\" but then disputed details published by Iranian media, saying the leaked terms \"bear no relation to the truth.\" U.S. officials confirmed some elements of the deal, stating that economic benefits for Iran would be contingent on Tehran meeting its obligations. The agreement is also said to envision an end to the Israel-Hezbollah conflict in Lebanon, though Lebanon's inclusion has been disputed in earlier reports.\n\nIsrael carried out fresh airstrikes in southern Lebanon on Friday after ordering residents to evacuate roughly 20 locations, with at least one person killed in the Tyre district town of Marrakeh. The strikes came hours after Iran's foreign minister outlined deal terms, underscoring the fragility of the broader ceasefire framework. Iran has previously warned Israel it could resume hostilities if attacks on Hezbollah do not stop.\n\nThe ongoing conflict, which began with U.S. and Israeli strikes on Iran on February 28, has closed the Strait of Hormuz and trapped an estimated 20,000 seafarers in the war zone. BBC Verify analysis of satellite imagery found Iran has damaged 20 U.S. military sites since the war began, more than publicly acknowledged. The deal's nuclear components — long a central Western concern — are reportedly deferred to later negotiations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o",
+      "sourceCount": 21,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-13T05:08:29.422390-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "U.S. Military Kills Tren de Aragua Gang Leader Niño Guerrero in Airstrike",
+      "summary": "President Donald Trump announced Friday that U.S. Southern Command carried out a lethal airstrike killing Héctor Rusthenford Guerrero Flores, known as Niño Guerrero, the longtime leader of the Venezuelan gang Tren de Aragua. Trump posted footage of the strike on social media and said the operation was \"coordinated closely\" with Venezuelan authorities, who confirmed their participation in what they called a \"joint operation.\" The Trump administration had previously designated Tren de Aragua a foreign terrorist organization and accused it of engaging in \"irregular warfare\" against the United States.\n\nTren de Aragua originated as a prison gang in Venezuela that Guerrero transformed into a transnational criminal organization with operations in at least nine countries, including the United States. Under his leadership, the group expanded into Colombia, Ecuador, Peru, and Chile, diversifying from extorting migrants into sex trafficking, contract killing, and kidnapping. The U.S. State Department had offered millions of dollars for information leading to his arrest or capture.\n\nThe killing comes amid a significant reshaping of U.S.-Venezuela relations. In January, American forces seized then-Venezuelan President Nicolás Maduro in a raid; Guerrero Flores had been named as a co-conspirator in Maduro's U.S. indictment. Since Maduro's removal, the U.S. has worked to build ties with his successor, Delcy Rodríguez, including lifting sanctions and pursuing collaboration on Venezuela's vast oil reserves.\n\nGuerrero had a long history of escaping accountability, including bribing a guard to escape prison in 2012 and evading capture again in 2023 when Maduro sent 11,000 soldiers to retake the Tocorón Prison — which Guerrero had transformed into a compound complete with a zoo, nightclub, and swimming pool. His death marks the most significant targeted strike against a Latin American criminal organization's leadership under the Trump administration.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp36z37knlko",
+      "sourceCount": 10,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-13T05:08:29.422390-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: FISA Section 702 Expires as Congress Deadlocks Over Trump Intelligence Nominee",
+      "summary": "Section 702 of the Foreign Intelligence Surveillance Act, one of the U.S. government's most powerful foreign surveillance tools, lapsed this weekend after Congress failed to reauthorize it. Democrats blocked extension votes in both chambers in protest of President Trump's nomination of Housing Secretary Bill Pulte to temporarily oversee the nation's intelligence services. The standoff leaves the fate of ongoing intelligence collection in legal uncertainty, with the law's expiration coming days before the 2026 World Cup, which U.S. security officials have flagged as a heightened terrorism target.\n\nLawmakers and legal experts are divided on the practical consequences of the lapse. Sen. John Kennedy (R-La.) argued that thousands of existing FISA certifications remain valid and that the expiration does not immediately end U.S. surveillance of foreign terrorists. However, Sen. Mark Warner (D-Va.), the top Democrat on the Senate Intelligence Committee, warned the situation was \"a high-risk proposition,\" raising the possibility that telecom and tech companies such as Google could decline to cooperate with intelligence requests without explicit congressional authorization.\n\nSection 702 allows the government to collect communications of foreign nationals abroad using U.S. infrastructure, though it also incidentally captures communications of Americans in contact with foreign suspects — a provision that has long troubled privacy advocates in both parties. House Minority Leader Hakeem Jeffries (D-N.Y.) placed blame on the Trump administration, saying it had \"tossed a hand grenade into the middle of sensitive negotiations\" by installing Pulte. Republicans countered that Democrats were endangering national security for political reasons.\n\nThe program had previously been credited with disrupting domestic terror plots. A resolution is not expected soon, as Trump has shown no indication he will withdraw the Pulte nomination, and Democrats have not signaled any willingness to relent without a concession.",
+      "source": "Fox News Politics",
+      "url": "https://www.foxnews.com/politics/expiring-spy-law-sparks-warnings-fatal-consequences-ahead-world-cup",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-13T05:08:29.422390-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Switzerland Votes Sunday on Unprecedented Referendum to Cap Population at 10 Million",
+      "summary": "Swiss voters will go to the polls Sunday on a proposal backed by the right-wing Swiss People's Party to constitutionally cap the country's population at 10 million residents before 2050, with mandatory government action once the population reaches 9.5 million. Proposed measures to enforce the cap could include limiting asylum grants and ending family reunification for foreign residents. Switzerland's population has grown from 7.3 million in 2002 to 9.1 million today, with 27 percent of residents being foreign nationals.\n\nThe Swiss government, all major opposition parties, business groups, and trade unions have united against the measure, calling it a \"chaos initiative\" that would deprive hospitals and hotels of essential workers and damage Switzerland's carefully maintained bilateral relations with the European Union, of which it is not a member. Supporters argue unchecked immigration has driven a housing shortage, overcrowded trains, and rising healthcare costs. No other country has attempted a hard constitutional cap on population.\n\nPolling shows the vote is extremely close, with roughly 52 percent of respondents opposed and 45 percent in favor, while a significant share of voters remain undecided. The outcome could have significant implications for Switzerland's relationship with the EU, its labor market, and its reputation as a destination for international workers and talent.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx23kz7e76po",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-13T05:08:29.422390-06:00",
+      "slot": 5
+    }
+  ]
+}
