@@ -3,6 +3,48 @@
   "dateFormatted": "Sunday, June 14, 2026",
   "stories": [
     {
+      "category": "other",
+      "headline": "Skydiving Plane Crash Kills All 12 Aboard Near Butler, Missouri",
+      "summary": "A single-engine turboprop plane carrying a pilot and 11 passengers on a skydiving outing crashed shortly after takeoff from Butler Memorial Airport in Butler, Missouri, on Sunday morning, killing everyone aboard. The plane, a Pacific Aerospace 750XL operated by Skydive Kansas City, went down in a field around 11:30 a.m. and was engulfed in flames. Some of the victims' family members witnessed the crash, according to Bates County Sheriff Chad Anderson.\n\nActing airport manager Dennis Jacobs said the plane had just taken off and made a left turn before going down, and suggested the aircraft may have lost power and stalled while the pilot attempted an emergency landing on a nearby highway. Emergency responders extinguished the fire and searched the area beneath the flight path but found no one who may have attempted to jump before impact. Clergy and volunteers were dispatched to assist families at the scene.\n\nThe Federal Aviation Administration had personnel on scene Sunday afternoon, and a National Transportation Safety Board team was en route to investigate the cause. The Pacific Aerospace 750XL is a model widely used in skydiving operations as well as cargo, aerial survey, and medical evacuation flights. The crash is among the deadliest general aviation accidents in the United States in recent years.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/butler-missouri-plane-crash-dead-0f074de40ce690e76c19ffbe183d1875",
+      "sourceCount": 9,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "4:20 PM MT",
+      "addedAtISO": "2026-06-14T16:20:43.016529-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Sen. Mitch McConnell Hospitalized; Condition Not Disclosed",
+      "summary": "Former Senate Majority Leader Mitch McConnell, 84, was admitted to a hospital Sunday morning, according to a statement from his senior adviser David Popp. The statement said only that McConnell 'is receiving excellent care' and did not provide a reason for the hospitalization or identify the facility.\n\nMcConnell, the longest-serving Senate Republican leader in U.S. history, has experienced a series of health episodes in recent years, including a fall in February 2025 that preceded his announcement that he would retire from the Senate at the end of his current term. He has also previously suffered a concussion from a fall in 2023, during which he was seen freezing mid-speech at public events, sparking widespread concern about his health.\n\nMcConnell remains a sitting senator from Kentucky and has continued to play a role in Senate affairs despite his announced retirement. No further details on his condition or expected length of hospitalization were available as of Sunday.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/14/g-s1-128089/mitch-mcconnell-hospital",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:20 PM MT",
+      "addedAtISO": "2026-06-14T16:20:43.016529-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Conditions FISA Renewal on Passage of SAVE America Voting Bill",
+      "summary": "President Trump declared Sunday that he will not support renewing Section 702 of the Foreign Intelligence Surveillance Act unless Congress attaches his SAVE America Act, a sweeping voting overhaul measure, to the legislation. The announcement came via Truth Social posts as Section 702, one of the government's most powerful surveillance authorities, has already lapsed following a congressional deadlock.\n\nSection 702 permits U.S. intelligence agencies to collect communications of foreign targets overseas without a warrant, including when those communications involve Americans. It has long been opposed by civil liberties advocates on the left and libertarian-leaning conservatives on the right, while national security officials across administrations have called it indispensable. The SAVE America Act, by contrast, is a Republican-backed elections bill that Democrats have strongly opposed.\n\nSen. Shelley Moore Capito of West Virginia criticized Congress broadly for allowing the authority to lapse, noting the timing coincides with the World Cup and the nation's 250th anniversary celebrations. Sen. Mark Warner, the lead Democrat on the Senate Intelligence Committee, said intelligence community leaders have told him they are 'terrified' of the current intelligence leadership situation, as Trump's nomination of Jay Clayton as Director of National Intelligence remains unresolved. The linkage of FISA to unrelated voting legislation sets up a significant confrontation in Congress with national security implications.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/14/trump-fisa-renewal-save-america-act",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:20 PM MT",
+      "addedAtISO": "2026-06-14T16:20:43.016529-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Update: Israeli Strike on Beirut Threatens U.S.-Iran Peace Deal as Trump Urges Restraint",
       "summary": "Israel carried out an air strike on Dahieh, the southern suburbs of Beirut and a Hezbollah stronghold, killing at least three people and wounding 15 others. The Israeli military said the attack targeted a Hezbollah command center after the group launched aerial targets toward northern Israel. The strike came just as the United States announced an agreement with Iran was close to being signed, throwing the broader diplomatic effort into uncertainty.\n\nPresident Trump broke publicly with Israel over the timing, posting that the attack 'should not have happened particularly on a special day when we are so close to a Peace Deal with Iran,' while also insisting Israel has the right to defend itself. He said the Hezbollah provocation that triggered the strike was 'very small and meaningless' and called on all parties to halt attacks. Iran's chief nuclear negotiator accused the U.S. of failing to honor its commitments by not restraining Israel.\n\nIsraeli officials have expressed deep reservations about the emerging U.S.-Iran framework. An Israeli military official described the deal as 'very bad' and 'catastrophic,' while a defense official said none of Israel's stated war objectives were addressed in the agreement. Israel has maintained that military operations against Hezbollah must continue regardless of any U.S.-Iran arrangement, a position Tehran rejects, insisting any truce must include an end to the Lebanon conflict.\n\nThe strike opens the possibility of further escalation: Iran has vowed to respond to attacks on Beirut by striking Israel. Lebanon's government has separately sought to distance itself from Iran's influence and weaken Hezbollah domestically. The episode underscores the fragility of the U.S.-led diplomatic effort and the degree to which Israeli military operations could derail a deal the White House has described as imminent.",
