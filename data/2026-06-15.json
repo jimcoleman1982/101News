@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: U.S. and Iran Reach Interim Peace Deal; Strait of Hormuz to Reopen, Nuclear Issues Deferred",
+      "summary": "The United States and Iran have agreed to an interim peace deal to end 15 weeks of military conflict and reopen the Strait of Hormuz, President Donald Trump and Iranian officials confirmed Sunday. Pakistan, a key mediator, announced that a formal signing ceremony is scheduled for Friday, June 19, in Geneva. The agreement calls for an immediate and permanent halt to military operations 'on all fronts,' including Lebanon, and the lifting of both Iran's closure of the strait and the U.S. naval blockade of Iranian ports.\n\nThe deal leaves the thorniest issues — including verification mechanisms for Iran's nuclear program — to a 60-day follow-on negotiation period. Vice President JD Vance acknowledged on CNBC that 'a lot' of details remain unresolved, while Sen. Lindsey Graham said he is 'concerned' the two sides hold 'different' interpretations of what was agreed. Sen. James Lankford argued the deal should be ratified by Congress for a more lasting effect. Trump told Axios he was 'pissed off' at Israeli Prime Minister Benjamin Netanyahu for striking Beirut during final negotiations, saying the attack nearly derailed the deal.\n\nCrude oil prices fell more than 4 percent to their lowest levels in over three months following the announcement, reflecting market expectations of eased energy supply. Analysts cautioned that gasoline prices, which had soared to their highest levels since 2022, may remain elevated for months even after the strait fully reopens. European leaders said they stand ready to deploy military assets to help implement the agreement once it is signed.\n\nKey uncertainties remain. Israel has not committed to halting its Lebanon offensive, and Netanyahu has given no indication he will comply with the agreement's ceasefire provisions. Iranian state media and U.S. officials have offered conflicting accounts of what exactly was agreed on nuclear guarantees. The signing ceremony is still several days away, and analysts warn the path to Friday is far from assured.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-ukraine-war-drones-kyiv-kharkiv-80bf94ad017eb8aad6af1f4e96494431",
+      "sourceCount": 21,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-15T08:08:33.156979-06:00",
+      "slot": 8
+    },
+    {
+      "category": "business",
+      "headline": "Fox Corp. to Acquire Roku in $22 Billion Deal, Creating Third-Largest U.S. TV Entity",
+      "summary": "Fox Corporation announced Monday it will acquire Roku in a $22 billion cash-and-stock transaction, paying $160 per share. The combined company would rank as the third-largest player in U.S. television by share of viewing, according to Fox. The deal merges Fox's live programming portfolio — including Fox News and broadcast rights to NFL, MLB, and FIFA World Cup events — with Roku's streaming platform, which reaches approximately 100 million U.S. households.\n\nThe acquisition is the latest in a sweeping wave of media consolidation as legacy television companies compete for audiences migrating to streaming. Fox previously acquired the Tubi streaming platform in 2020. The deal follows the Justice Department's clearance last week of a $110 billion merger between Paramount Skydance and Warner Bros. Discovery. Upon close, expected in the first half of 2027, Fox shareholders will own roughly 73 percent of the combined entity and Roku shareholders approximately 27 percent.\n\nIndustry analysts have raised concerns that accelerating consolidation could reduce competition, suppress wages for media industry workers, and ultimately raise costs for consumers facing fewer platform choices. The transaction will require regulatory review before it can be completed.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/fox-roku-22-billion-acquisition/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-15T08:08:33.156979-06:00",
+      "slot": 8
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Georgia Special Session Opens Wednesday to Fix Looming Election Law Crisis Before July 1 Deadline",
+      "summary": "Georgia lawmakers convene in a special legislative session Wednesday to address a self-created election crisis: the state passed a law two years ago barring the use of QR codes for the official ballot count after July 1, 2026, but never put a replacement vote-counting system in place. With the deadline now days away and a special U.S. House election scheduled for July, conflicting guidance from the secretary of state's office and the State Election Board has left county officials uncertain about how to conduct and tally votes.\n\nGovernor Brian Kemp convened the session and directed lawmakers to 'address issues created' by the 2024 law. One likely option is extending the deadline to give the legislature more time to develop a compliant replacement system. Failure to act risks widespread confusion and litigation over elections held after July 1, including the special congressional contest.\n\nThe QR code system has been politically contentious since its statewide debut in the 2020 primary. Following President Trump's narrow loss to Joe Biden in Georgia that November, Trump allies claimed without evidence that the machines had switched or deleted votes. Election integrity advocates across the political spectrum also criticized the system, arguing voters cannot verify their choices because QR codes are not human-readable. Trump's first executive order on elections targeted such machines, though courts have blocked its enforcement.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/georgias-vote-counting-method-will-soon-be-banned-lawmakers-will-try-to-find-a-fix-this-week",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-15T08:08:33.156979-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
       "headline": "Russian Strikes Kill Nine, Set Historic Kyiv Cathedral Ablaze Ahead of G7",
       "summary": "Russian missile and drone strikes on Ukraine killed at least nine people Monday and set fire to the 11th-century Dormition Cathedral in Kyiv, a UNESCO World Heritage Site. Four people died in Kyiv as strikes targeted residential buildings and left more than 140,000 residents without electricity, according to Mayor Vitali Klitschko. Five rescue workers were killed battling a fire caused by a separate strike on Kharkiv in northeastern Ukraine.\n\nThe Dormition Cathedral is part of the Kyiv-Pechersk Lavra monastic complex. Ukrainian Foreign Minister Andrii Sybiha announced Ukraine would pursue remedies through UNESCO and other international mechanisms, calling the attack 'state barbarism.' Ukrainian Prime Minister Yulia Svyrydenko described the assault as brutal. In a retaliatory action, a Ukrainian drone strike on the Russian city of Tula killed three people and wounded three others, including a one-year-old child.\n\nThe strikes come as most of Ukraine was placed under air raid warnings and as Ukrainian President Volodymyr Zelensky said Sunday he had spoken with U.S. President Donald Trump about efforts to end the conflict. The timing is significant: G7 leaders are meeting in France this week, with the war in Ukraine on the summit agenda. The attack on a UNESCO-listed site is expected to intensify international pressure on Russia.",
       "source": "BBC News",
