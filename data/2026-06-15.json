@@ -1,0 +1,34 @@
+{
+  "date": "2026-06-15",
+  "dateFormatted": "Monday, June 15, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Russian Strikes Kill Nine, Set Historic Kyiv Cathedral Ablaze Ahead of G7",
+      "summary": "Russian missile and drone strikes on Ukraine killed at least nine people Monday and set fire to the 11th-century Dormition Cathedral in Kyiv, a UNESCO World Heritage Site. Four people died in Kyiv as strikes targeted residential buildings and left more than 140,000 residents without electricity, according to Mayor Vitali Klitschko. Five rescue workers were killed battling a fire caused by a separate strike on Kharkiv in northeastern Ukraine.\n\nThe Dormition Cathedral is part of the Kyiv-Pechersk Lavra monastic complex. Ukrainian Foreign Minister Andrii Sybiha announced Ukraine would pursue remedies through UNESCO and other international mechanisms, calling the attack 'state barbarism.' Ukrainian Prime Minister Yulia Svyrydenko described the assault as brutal. In a retaliatory action, a Ukrainian drone strike on the Russian city of Tula killed three people and wounded three others, including a one-year-old child.\n\nThe strikes come as most of Ukraine was placed under air raid warnings and as Ukrainian President Volodymyr Zelensky said Sunday he had spoken with U.S. President Donald Trump about efforts to end the conflict. The timing is significant: G7 leaders are meeting in France this week, with the war in Ukraine on the summit agenda. The attack on a UNESCO-listed site is expected to intensify international pressure on Russia.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "3:31 AM MT",
+      "addedAtISO": "2026-06-15T03:31:46.645086-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "China Raids Underground Church, Detains Two Leaders During Sunday Service",
+      "summary": "Armed police stormed an Early Rain Covenant church service in Jiangyou, southwestern China on Sunday, detaining at least two leaders and taking more than 30 congregants — including children — for questioning. At least 50 officers participated in the raid, which occurred at approximately 11:00 local time while the congregation was meeting in a hotel ballroom. Church leaders Yan Hong and Wu Wuqing remain in detention; the grounds for their arrest have not been disclosed by Chinese authorities.\n\nEarly Rain Covenant, founded in Chengdu in 2008, has long been targeted by Chinese authorities, who tightly regulate religious activity and pressure Christians to worship only in state-sanctioned churches. The church's founding pastor, Wang Yi, was detained in a similar raid in December 2018 and is currently serving a nine-year prison sentence. Most congregants taken for questioning were released by late Sunday evening after authorities reportedly attempted — unsuccessfully — to compel them to sign an undisclosed affidavit.\n\nThe raid is the latest in a pattern of increased enforcement against unregistered Protestant congregations in China. Bob Fu of the nonprofit ChinaAid said the action reflects the Chinese Communist Party's continued treatment of peaceful Christian worship as a threat to state control. Chinese authorities had not publicly commented on the raid as of Monday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:31 AM MT",
+      "addedAtISO": "2026-06-15T03:31:46.645086-06:00",
+      "slot": 5
+    }
+  ]
+}
