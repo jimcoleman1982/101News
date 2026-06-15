@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: DOJ Opens Investigation into California Governor Gavin Newsom",
+      "summary": "California Governor Gavin Newsom announced Monday that the U.S. Department of Justice has opened an investigation into him and his wife, Jennifer Siebel Newsom. Newsom said in a video statement that federal agents had knocked on the doors of family friends and former employees in recent days, demanding records and making use of grand jury processes. The White House declined to comment on the investigation.\n\nNewsom, who is widely expected to launch a 2028 presidential campaign, alleged the inquiry is politically motivated. 'Today, my wife and I joined Donald Trump's hit list,' he wrote on X, asserting that Trump is targeting him because he is considering a presidential run. Supporters characterized the probe as an abuse of executive power.\n\nCritics of the governor, including Republicans, noted that Newsom has been a prominent Trump adversary and a potential 2028 rival, but argued that federal law enforcement agencies have an obligation to investigate credible allegations regardless of the target's political profile. The episode adds to a broader debate over whether the Trump Justice Department has used its prosecutorial power against political opponents.\n\nThe investigation's scope and basis have not been disclosed publicly. The development comes as Newsom's term as governor nears its end and as Democratic primary jockeying for 2028 intensifies.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/2026/06/who-does-donald-trump-think-hes-fooling/",
+      "sourceCount": 22,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:07 PM MT",
+      "addedAtISO": "2026-06-15T13:07:28.863578-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Doctors Without Borders Staff Sexually Abused at Least 59 Sudanese Refugees in Chad",
+      "summary": "Medical charity Doctors Without Borders (MSF) has admitted that its staff members sexually abused at least 59 Sudanese refugees in eastern Chad, with some victims being young girls and exploitation often carried out through offers of food or employment in exchange for sex. The offenses date to 2024, approximately one year into Sudan's ongoing civil war, which has driven more than 11 million people from their homes and left 28 million facing acute hunger.\n\nMSF said it has dismissed 18 staff members found responsible but acknowledged it was unable to identify some additional alleged perpetrators. The organization's own internal report from July found patterns of exploitation that could amount to 'sexual trafficking.' Victims who attempted to report the abuse often received no response, and official complaints procedures were described as largely ineffective, with some victims staying silent out of fear that aid would be withheld in retaliation.\n\n'This misconduct represents a serious breach of MSF's values and responsibilities, and we deeply regret the harm caused,' MSF said in response to an investigation by the Associated Press, which first exposed the misconduct. The case is the latest in a series of sexual exploitation scandals to affect international humanitarian organizations operating in conflict zones.\n\nSudan's civil war, now in its third year, is widely recognized as the world's worst current humanitarian crisis. Estimates of the death toll range from at least 150,000 to as many as 400,000. Mass sexual violence has been extensively documented as a weapon of war in the conflict, making the exploitation of refugees by aid workers particularly grave.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c74ykjl8mx3o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:07 PM MT",
+      "addedAtISO": "2026-06-15T13:07:28.863578-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "G7 Leaders Gather in France as Trump's Fresh Tariff Threats Overshadow Iran Relief",
       "summary": "Leaders of the Group of Seven nations began arriving Monday at a French lakeside resort for their annual summit, with cautious relief over the U.S.-Iran preliminary peace agreement tempered by new anxiety over President Donald Trump's latest tariff threats. The gathering comes at a moment of acute geopolitical tension, with the Hormuz reopening and ceasefire framework still fragile and trade relations between the U.S. and its closest allies unsettled.\n\nTrump's tariff posture has become a central irritant heading into the summit, with European and other allied governments uncertain about Washington's intentions on trade even as they coordinate on the Iran file. French President Emmanuel Macron is hosting the summit and had planned a Versailles dinner as a backdrop for high-level diplomacy.\n\nThe G7 agenda is expected to cover the Iran deal's implementation, Ukraine aid, and global economic coordination, but Trump's bilateral demands on trade have complicated efforts to present a unified front. Allies have repeatedly pressed Washington for clarity on tariff exemptions that remain unresolved.\n\nThe summit represents one of the most consequential G7 gatherings in recent years, coinciding with an active Middle East ceasefire process, an ongoing war in Ukraine, and deep uncertainty about the direction of U.S. economic and foreign policy under the second Trump administration.",
       "source": "Reuters",
