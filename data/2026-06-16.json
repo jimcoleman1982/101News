@@ -1,0 +1,48 @@
+{
+  "date": "2026-06-16",
+  "dateFormatted": "Tuesday, June 16, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Update: Israeli Strike on Beirut Threatens U.S.-Iran Peace Deal as Signing Ceremony Approaches",
+      "summary": "The U.S.-Iran peace deal, brokered by Pakistan and set for a signing ceremony Friday in Switzerland, faces a serious test after Israel struck Hezbollah targets in Beirut, drawing warnings from Tehran that the attack could derail the agreement. The deal, described by Vice President Vance as \"about a page and a half\" and \"very general,\" would reopen the Strait of Hormuz and end the conflict that began with the U.S.-Israeli strike on Iran on February 28, but leaves Iran's nuclear program issues deferred for later negotiations.\n\nIran has seized two cargo ships in the Strait of Hormuz in the days since the deal was announced, and Iranian officials have stated that Tehran will continue to assert the right to control passage through the waterway. The framework's vagueness on core issues has prompted skepticism from analysts, who warn that the gap between the two sides on nuclear matters remains wide and that the Lebanon dimension adds further instability.\n\nEnergy markets, which saw sharp swings following the February outbreak of hostilities, rose on news of the agreement but remain volatile. Experts caution that the war's economic impact on global supply chains will persist for months regardless of whether the deal holds.\n\nThe Israeli strike is the most significant new development since the deal was announced, as it introduces a third-party variable that neither Washington nor Tehran fully controls. Trump has urged Israeli restraint, but has not publicly condemned the Beirut attack, leaving the deal's survival uncertain ahead of Friday's scheduled signing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+      "sourceCount": 12,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:34 AM MT",
+      "addedAtISO": "2026-06-16T03:34:43.125606-06:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "Wyoming Becomes First U.S. State to Issue Its Own Stablecoin Cryptocurrency",
+      "summary": "Wyoming has launched the first state-issued stablecoin in the United States, pegged at $1 and backed by state reserves, marking a significant experiment in government-issued digital currency at the sub-federal level. The move positions Wyoming — already a recognized hub for crypto-friendly regulation — as a potential model for other states considering their own digital currency programs.\n\nProponents argue that a state-backed stablecoin could streamline government payments, reduce transaction costs, and attract further financial technology investment to the state. Critics and financial regulators have raised questions about systemic risk, the adequacy of reserve backing, and how state-issued digital currencies would interact with federal monetary authority and any eventual federal stablecoin framework.\n\nThe development comes as Congress continues to debate national stablecoin legislation, and Wyoming's experiment could either accelerate that process by demonstrating viability or complicate it by introducing a fragmented state-by-state approach. Federal Reserve officials and Treasury Department watchers have been monitoring state-level cryptocurrency initiatives closely as the U.S. works to define its regulatory posture on digital assets.\n\nThe Wyoming stablecoin is being closely watched by other states weighing similar moves, as well as by international observers tracking the United States' evolving approach to government-backed digital currency.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/features/2026-06-16/wyoming-stablecoin-may-become-a-blueprint-or-cautionary-tale-for-other-states",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:34 AM MT",
+      "addedAtISO": "2026-06-16T03:34:43.125606-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "Global Trust in News Falls to Record Low, Reuters Institute Survey Finds",
+      "summary": "Public trust in news media has reached its lowest point since the Reuters Institute for the Study of Journalism began tracking it in 2015, with global trust falling three percentage points to 37 percent, according to a major annual survey of nearly 100,000 people across 48 markets published Tuesday. In the United States, trust stands at 25 percent overall and drops to just 15 percent among right-leaning Americans. The UK recorded a five-point decline to 30 percent — 20 points lower than a decade ago.\n\nThe report found that more than half of respondents now access news primarily through social media and video platforms, though confidence in those formats is even lower than in traditional news, at 22 percent. Trust in AI chatbots for news information stands at 20 percent globally, though weekly use of AI for news has grown from 7 to 10 percent overall and to 16 percent among adults under 35.\n\nAmong individual outlets, CBS News and Fox News each saw trust fall by 10 percentage points from 2025, while CNN dropped six points — suggesting the erosion is not confined to any single part of the political spectrum. The institute attributed the decline to audience anxiety, disengagement, and dissatisfaction with how outlets cover persistent issues including immigration, inflation, and international conflict.\n\nDespite the erosion of trust, the report noted that support for impartial journalism remains high and largely stable, and that audiences appear open to new formats — suggesting the problem may be with execution rather than the concept of news itself.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgq1py92eko",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:34 AM MT",
+      "addedAtISO": "2026-06-16T03:34:43.125606-06:00",
+      "slot": 5
+    }
+  ]
+}
