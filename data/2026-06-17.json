@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "UK Prime Minister Starmer Faces Cabinet Pressure to Step Down Days After By-Election Loss",
+      "summary": "Senior members of British Prime Minister Keir Starmer's cabinet are expected to tell him in the coming days to agree to a transfer of power, according to Bloomberg Politics, following a significant by-election defeat. Supporters of Greater Manchester Mayor Andy Burnham are among those anticipating the push, with the expectation that coordinated pressure from within Starmer's own government could make his position untenable.\n\nThe development represents a serious internal crisis for the Labour government, which came to power in 2024 after a landslide election victory. A loss in a key by-election has apparently accelerated dissatisfaction among senior party figures and cabinet members who had previously contained their concerns publicly.\n\nBurnham, a prominent Labour figure with a national profile built during his tenure overseeing Greater Manchester, is widely seen as a potential successor. The situation echoes past British political crises in which governing party leaders faced coordinated internal pressure to vacate office rather than endure a formal leadership challenge vote.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-17/starmer-faces-cabinet-showdown-in-days-after-crucial-by-election",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:58 AM MT",
+      "addedAtISO": "2026-06-17T10:58:18.837967-06:00",
+      "slot": 11
+    },
+    {
+      "category": "other",
+      "headline": "Gilgo Beach Serial Killer Rex Heuermann Sentenced to Multiple Life Terms for Murdering Eight Women",
+      "summary": "Rex Heuermann, the architect known as the Gilgo Beach serial killer, was sentenced Wednesday to multiple consecutive life terms in prison after admitting to the murders of eight women whose remains were found scattered along remote Long Island beaches. Judge Timothy Mazzei handed down the maximum sentence — three life terms for first-degree murder plus 25 years to life on four second-degree murder charges, all running consecutively — in a Riverhead, New York courtroom that erupted in cheers.\n\nThe victims, killed between 1993 and 2010, included women ranging in age from 20 to 34. Heuermann, 62, gave a brief statement before sentencing acknowledging responsibility but admitting his words carried \"no meaning.\" Victims' family members delivered raw and emotional statements; the sister of one victim, who said she was 15 when Heuermann called their family after killing her sister, told him directly: \"Save me a spot in hell because I'll see you there.\"\n\nHeuermann, a married father of two from the Long Island suburb of Massapequa Park, was arrested in 2023 after the case went unsolved for more than a decade. He had initially pleaded not guilty before ultimately confessing. Suffolk County District Attorney Ray Tierney, addressing the families after the sentence, said: \"I want them to get their revenge by going on to have wonderful lives — now it's time for them to heal.\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:58 AM MT",
+      "addedAtISO": "2026-06-17T10:58:18.837967-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "UN Secretary-General Guterres Visits Haiti as Gang Violence Displaces 1.5 Million",
+      "summary": "United Nations Secretary-General António Guterres traveled to Port-au-Prince on Tuesday for a one-day visit as newly released UN statistics revealed the depth of Haiti's crisis: 2,300 people killed and 100 kidnapped so far in 2026, with 1.5 million Haitians displaced from their homes. More than 300,000 people in Port-au-Prince alone have been driven out by gang violence, a record figure, with the powerful Viv Ansanm gang federation — designated a foreign terrorist organization by the United States — estimated to control 70 percent of the capital.\n\nGuterres's first stop was the headquarters of a new gang-suppression force approved by the UN Security Council in September, which replaces an underfunded Kenyan police-led mission. Jamaica, Chad, El Salvador, and Guatemala have so far deployed fewer than 1,000 troops combined; the force is expected to begin operations in the coming weeks alongside Haiti's national police and growing armed forces.\n\nThe visit came shortly after more than 30 people were killed, injured, or reported missing in a single weekend in the Cité Soleil slum. Guterres also met privately with Prime Minister Alix Didier Fils-Aimé, who faces mounting international pressure to organize elections in a country of nearly 12 million people that has had no functioning elected government. The IOM's Haiti chief described the displacement situation as \"entering an even more alarming phase.\"",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/haiti-un-secretary-general-guterres-gangs-d118ce2bd8bcb2bb86f3bc91d27825f6",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:58 AM MT",
+      "addedAtISO": "2026-06-17T10:58:18.837967-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "Update: G7 Issues Joint Declaration Backing Ukraine, Threatening Fresh Russia Sanctions",
       "summary": "G7 leaders, including President Trump, signed a joint declaration Wednesday pledging unwavering support for Ukraine and committing to strengthen sanctions against Russia, including on its oil and gas sectors. The declaration marks a significant convergence between Trump and European allies, who had been at odds over Ukraine policy for much of his second term. The statement credits the U.S.-Iran agreement with creating new space to increase economic pressure on Moscow.\n\nThe declaration commits leaders to increase delivery of air defense systems, interceptors, and long-range capabilities to Ukraine, and to consider licensing arrangements to boost Ukrainian domestic military production. Zelenskyy, who joined the G7 session, said all seven nations unanimously support Ukraine and that Patriot missile supply and production expansion were discussed. The talks lasted only 75 minutes.\n\nTrump separately told reporters that sanctions on Russian oil, partially suspended in March to ease prices during the Iran conflict, can now be reimposed as the Strait of Hormuz reopens. 'Soon we'll be able to do that because the oil is now flowing,' Trump said. The UK simultaneously announced new sanctions targeting Russia's shadow oil fleet and financial networks used to evade Western restrictions.\n\nThe joint declaration represents a notable shift in U.S. posture under Trump, who had previously been skeptical of deep involvement in the Ukraine conflict. European leaders, now the primary providers of military and financial aid to Kyiv, welcomed the alignment. Russia had conducted a major drone and missile barrage on Ukrainian cities hours before the summit opened Monday, killing 11 people.",
       "source": "PBS NewsHour",
