@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, June 17, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: G7 Issues Joint Declaration Backing Ukraine, Threatening Fresh Russia Sanctions",
+      "summary": "G7 leaders, including President Trump, signed a joint declaration Wednesday pledging unwavering support for Ukraine and committing to strengthen sanctions against Russia, including on its oil and gas sectors. The declaration marks a significant convergence between Trump and European allies, who had been at odds over Ukraine policy for much of his second term. The statement credits the U.S.-Iran agreement with creating new space to increase economic pressure on Moscow.\n\nThe declaration commits leaders to increase delivery of air defense systems, interceptors, and long-range capabilities to Ukraine, and to consider licensing arrangements to boost Ukrainian domestic military production. Zelenskyy, who joined the G7 session, said all seven nations unanimously support Ukraine and that Patriot missile supply and production expansion were discussed. The talks lasted only 75 minutes.\n\nTrump separately told reporters that sanctions on Russian oil, partially suspended in March to ease prices during the Iran conflict, can now be reimposed as the Strait of Hormuz reopens. 'Soon we'll be able to do that because the oil is now flowing,' Trump said. The UK simultaneously announced new sanctions targeting Russia's shadow oil fleet and financial networks used to evade Western restrictions.\n\nThe joint declaration represents a notable shift in U.S. posture under Trump, who had previously been skeptical of deep involvement in the Ukraine conflict. European leaders, now the primary providers of military and financial aid to Kyiv, welcomed the alignment. Russia had conducted a major drone and missile barrage on Ukrainian cities hours before the summit opened Monday, killing 11 people.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/trump-signals-he-may-reimpose-sanctions-on-russian-oil-as-g7-refocuses-on-ukraine",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-17T08:08:36.134148-06:00",
+      "slot": 8
+    },
+    {
+      "category": "business",
+      "headline": "Federal Reserve Issues First Rate Decision Under New Chairman Kevin Warsh",
+      "summary": "The Federal Reserve on Wednesday handed down its first interest rate decision under newly installed Chairman Kevin Warsh, a closely watched moment for markets and consumers as inflation continues to rise. Futures markets overwhelmingly anticipated the Fed would hold rates steady, though the announcement marks the beginning of a new era of leadership at the central bank following Warsh's confirmation.\n\nWarsh, a former Fed governor and Wall Street veteran nominated by President Trump, takes the helm at a sensitive juncture. Persistent inflation has complicated the case for rate cuts, while higher borrowing costs continue to weigh on housing affordability, consumer credit, and business investment for millions of Americans.\n\nThe decision carries broad implications for mortgage rates, auto loans, credit card interest, and savings yields. Any shift in tone or forward guidance from Warsh in his first press conference as chair will be scrutinized for signals about the Fed's path through the remainder of 2026.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/how-the-feds-next-interest-rate-decision-could-impact-you/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-17T08:08:36.134148-06:00",
+      "slot": 8
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: Armed Men Abduct Six-Year-Old Ebola Patient from DR Congo Hospital",
+      "summary": "Armed men stormed a hospital in Butembo, eastern Democratic Republic of Congo, and forcibly removed a six-year-old Ebola patient and her mother, local health official Dr. Lubambo Maboko Gaston said. The child was taken from Wanamahika Hospital by men described as 'very angry' and carrying knives. Authorities are now searching for the pair, with health officials warning that the child and mother risk worsening their condition and infecting others.\n\nThe incident is the latest in a series of attacks on Ebola treatment facilities during the current outbreak, which has now claimed nearly 200 lives and recorded approximately 840 confirmed cases. Last month police fired warning shots to disperse crowds attempting to reclaim bodies from a health facility, and isolation tents were set ablaze at another hospital. Misinformation has fueled widespread hostility toward treatment centers, with some residents believing Ebola is fabricated by outside organizations.\n\nThe outbreak is caused by the Bundibugyo strain of Ebola, for which no approved vaccine currently exists. The WHO has warned that active conflict in eastern Congo, where the M23 rebel group controls large portions of the affected provinces, is severely hampering containment efforts. Officials say it could be months before a vaccine candidate is ready.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgep4l397eo",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-17T08:08:36.134148-06:00",
+      "slot": 8
+    },
+    {
       "category": "politics",
       "headline": "Update: Trump Suffers Rare Endorsement Loss as Georgia Governor's Race Goes to Rick Jackson; Moore Wins Alabama Senate Runoff",
       "summary": "Georgia Republicans dealt a significant blow to President Trump on Tuesday, with healthcare executive and billionaire Rick Jackson defeating Trump-backed Lt. Gov. Burt Jones in the Republican gubernatorial runoff. The loss marks the second time a Trump endorsee has fallen in a major statewide Georgia race this cycle, underscoring the limits of presidential influence in the state even within the GOP.\n\nIn brighter news for Trump, Rep. Barry Moore won the Alabama Republican Senate runoff, defeating former Navy SEAL Jared Hudson 58.7% to 41.3%, securing the nomination for the seat being vacated by Tommy Tuberville. In Oklahoma, Rep. Kevin Hern won the Senate primary, while the governor's race is heading to a runoff between Attorney General Gentner Drummond and Trump-backed Mike Mazzei.\n\nIn Georgia's Senate race, Trump-endorsed Rep. Mike Collins defeated former football coach Derek Dooley and will now face Democratic incumbent Sen. Jon Ossoff in November — a race Republicans view as critical to maintaining Senate control. Ossoff is well-funded and has previously won statewide in Georgia, making the contest one of the most competitive of the cycle.\n\nThe results present a mixed picture for Trump's political standing heading into the November midterms. Supporters note his endorsed candidate Collins is positioned well for the Senate fight and Moore's Alabama win was decisive, while critics point to the Georgia governor's loss as evidence that Trump's endorsement alone cannot guarantee victory in competitive Republican primaries.",
