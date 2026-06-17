@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-17",
+  "dateFormatted": "Wednesday, June 17, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Update: Trump Suffers Rare Endorsement Loss as Georgia Governor's Race Goes to Rick Jackson; Moore Wins Alabama Senate Runoff",
+      "summary": "Georgia Republicans dealt a significant blow to President Trump on Tuesday, with healthcare executive and billionaire Rick Jackson defeating Trump-backed Lt. Gov. Burt Jones in the Republican gubernatorial runoff. The loss marks the second time a Trump endorsee has fallen in a major statewide Georgia race this cycle, underscoring the limits of presidential influence in the state even within the GOP.\n\nIn brighter news for Trump, Rep. Barry Moore won the Alabama Republican Senate runoff, defeating former Navy SEAL Jared Hudson 58.7% to 41.3%, securing the nomination for the seat being vacated by Tommy Tuberville. In Oklahoma, Rep. Kevin Hern won the Senate primary, while the governor's race is heading to a runoff between Attorney General Gentner Drummond and Trump-backed Mike Mazzei.\n\nIn Georgia's Senate race, Trump-endorsed Rep. Mike Collins defeated former football coach Derek Dooley and will now face Democratic incumbent Sen. Jon Ossoff in November — a race Republicans view as critical to maintaining Senate control. Ossoff is well-funded and has previously won statewide in Georgia, making the contest one of the most competitive of the cycle.\n\nThe results present a mixed picture for Trump's political standing heading into the November midterms. Supporters note his endorsed candidate Collins is positioned well for the Senate fight and Moore's Alabama win was decisive, while critics point to the Georgia governor's loss as evidence that Trump's endorsement alone cannot guarantee victory in competitive Republican primaries.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/5927330-trump-georgia-alabama-dc-oklahoma-elections-takeaways/",
+      "sourceCount": 10,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:09 AM MT",
+      "addedAtISO": "2026-06-17T03:09:20.129735-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Administration Moves Civil Rights and Special Education Oversight Out of Department of Education",
+      "summary": "The Trump administration announced Tuesday it is transferring two major functions from the Department of Education as part of its broader effort to dismantle the agency. The Justice Department will assume responsibility for civil rights enforcement in education, while the Department of Health and Human Services will take over oversight of special education programs.\n\nSecretary of Education Linda McMahon said the changes better align the needs of specific student populations with the agencies most relevant to their circumstances. The administration has framed the restructuring as improving efficiency and ensuring more targeted federal support.\n\nCritics, including disability rights advocates and civil liberties groups, warned the moves will undermine protections for minority students, students with disabilities, and other vulnerable populations. Opponents argue that consolidating these functions under agencies with broader mandates risks diluting the focused oversight that a dedicated education department provides.\n\nThe announcement is the latest step in the administration's stated goal of significantly shrinking or eliminating the Department of Education, a long-standing priority of conservatives who argue federal involvement in education should be reduced and decision-making returned to states and localities.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-civil-rights-special-education-oversight-shifted-from-department-of-education",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:09 AM MT",
+      "addedAtISO": "2026-06-17T03:09:20.129735-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Modi Warns of 'Trust Deficit' as He Meets Trump on Sidelines of G7 Summit",
+      "summary": "Indian Prime Minister Narendra Modi met with President Donald Trump at the G7 summit in France on Wednesday, their first bilateral meeting in over a year. Despite an outwardly cordial exchange of handshakes and mutual praise, Modi signaled concern about a growing trust deficit between the two nations, reflecting a series of setbacks in U.S.-India relations since their last meeting.\n\nThe relationship has faced friction over a range of issues including trade disputes, tariffs, and geopolitical alignment, particularly as the Trump administration has pursued a more transactional foreign policy posture. India has sought to balance its ties with the United States against its longstanding relationships with Russia and other powers.\n\nThe G7 meeting in France has been overshadowed by broader tensions involving Trump's tariff threats and the geopolitical fallout from the U.S.-Iran interim deal. Modi's public acknowledgment of a trust shortage is notable given the historically warm personal rapport the two leaders have cultivated and India's strategic importance as a counterweight to China in the Indo-Pacific.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-17/india-s-modi-warns-of-trust-deficit-ahead-of-meeting-with-trump",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:09 AM MT",
+      "addedAtISO": "2026-06-17T03:09:20.129735-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "Tropical System Along Gulf Coast Threatens Life-Threatening Flooding from Texas to Florida Panhandle",
+      "summary": "A cluster of storms along the Gulf Coast has a 70% chance of becoming the first named tropical storm of the 2026 Atlantic hurricane season, the National Hurricane Center warned Tuesday. The system was centered roughly 55 miles south-southwest of Corpus Christi, Texas, with maximum sustained winds near 30 mph — just below the 39 mph threshold for tropical storm designation.\n\nNational Hurricane Center Director Michael Brennan warned that the primary danger is severe flooding from heavy rainfall, with potentially life-threatening flash flooding forecast from the Texas coast eastward into central Mississippi through Thursday. Isolated rainfall totals could reach a foot in coastal areas, with tornadoes also possible across southern Louisiana, Mississippi, Alabama, and the Florida Panhandle.\n\nHouston, which is hosting a FIFA World Cup match between Portugal and the Democratic Republic of the Congo on Wednesday, has been under a flood warning since Monday. The stadium is enclosed and no plans have been announced to move or cancel the match. A tropical storm watch is already in effect from Sargent, Texas, to Morgan City, Louisiana.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/science/rain-along-gulf-coast-could-become-the-first-named-storm-of-atlantic-hurricane-season",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:09 AM MT",
+      "addedAtISO": "2026-06-17T03:09:20.129735-06:00",
+      "slot": 5
+    }
+  ]
+}
