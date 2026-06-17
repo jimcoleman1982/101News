@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Trump Says He Would 'Rather Not Have' USMCA as Trade Deal Renewal Deadline Approaches",
+      "summary": "President Trump on Wednesday said he would \"rather not have\" the U.S.-Mexico-Canada Agreement, the free-trade pact he signed during his first term, raising the prospect that the deal could collapse ahead of its July 1 renewal deadline. Trump made the remarks to reporters in Paris on the sidelines of the G7 summit, saying he was unsure whether a new deal could be reached.\n\nThe USMCA has underpinned North American trade since replacing NAFTA and is especially critical for Canada, which sends roughly 75 percent of its exports to the United States. Canadian Prime Minister Mark Carney left the G7 summit without a formal bilateral meeting with Trump, though Carney downplayed any suggestion of a diplomatic snub, saying he had held seven or eight discussions with the president over 36 hours covering trade, Ukraine, Iran, and other issues.\n\nCanadian trade minister Dominic LeBlanc said talks with U.S. Trade Ambassador Jamieson Greer at the summit produced progress, though uncertainty about the deal's future remains elevated. LeBlanc has previously suggested Washington might seek annual review provisions that would introduce ongoing uncertainty about the pact's permanence.\n\nSupporters of the agreement argue it integrates three tightly linked economies and that its collapse would raise costs for consumers and businesses across all three countries. Critics of the current terms, including some in the Trump administration, contend the deal contains imbalances that disadvantage American workers and manufacturers.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/17/trump-trade-canada-mexico",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:11 PM MT",
+      "addedAtISO": "2026-06-17T16:11:20.758029-06:00",
+      "slot": 18
+    },
+    {
+      "category": "science_health",
+      "headline": "RFK Jr. Announces $700 Million Federal Investment in Addiction and Behavioral Health Services",
+      "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. announced Wednesday a federal investment of more than $700 million in behavioral health programs aimed at combating addiction and mental illness, which administration officials linked to homelessness. The announcement included a $96 million funding opportunity for the Trump administration's STREETS program — an acronym for Safety Through Recovery, Engagement, and Evidence-based Treatment and Support.\n\nKennedy, who has publicly described his own recovery from heroin addiction, made the announcement at an Easterseals behavioral health clinic in Clinton Township, Michigan. He indicated a particular emphasis on directing funding toward faith-based recovery organizations, a priority that reflects the administration's broader approach to social services.\n\nSupporters of the initiative argue that faith-based organizations have a strong track record in addiction recovery and are often embedded in communities in ways that government agencies are not. Critics of faith-based funding models have raised concerns about the separation of church and state and whether secular recovery options remain adequately funded for those who prefer them.\n\nThe announcement comes as the administration has signaled a broader effort to reorient federal health and social spending under Kennedy's leadership at HHS.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/5928940-rfk-jr-addiction-aa/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:11 PM MT",
+      "addedAtISO": "2026-06-17T16:11:20.758029-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
       "headline": "Update: Trump Blocks Jay Clayton's DNI Confirmation Hearing, Linking Intelligence Post to Voting Bill",
       "summary": "President Trump abruptly directed his director of national intelligence nominee, Jay Clayton, not to appear before the Senate Intelligence Committee on Wednesday, effectively scuttling a confirmation hearing that Republican leaders had been trying to fast-track. Trump announced the delay in an early-morning Truth Social post, tying Clayton's confirmation process to Congress passing his voting legislation — a bill that has already failed once in the Senate.\n\nSenate Intelligence Committee Chairman Tom Cotton, who had initially vowed to proceed with the hearing regardless, was forced to announce its postponement after Trump's directive. The move also extended the lapse of powerful U.S. surveillance tools that require Senate-confirmed leadership to fully authorize. Senate Minority Leader Chuck Schumer accused Trump of 'holding our national security hostage' for legislative leverage.\n\nClayton's nomination had been seen as a way to ease tensions between the White House and Senate Republicans after Trump installed Bill Pulte as acting intelligence chief. Republicans have expressed frustration that the White House is conditioning a national security appointment on unrelated legislative demands. Democrats on the Senate Intelligence Committee scheduled a press conference to condemn the delay.\n\nThe standoff highlights a recurring tension in Trump's second term between the executive branch's desire to use confirmations as legislative leverage and the Senate's constitutional role in advising and consenting on nominations. Critics from both parties warned the move leaves a critical intelligence post in limbo at a sensitive moment in U.S. foreign policy.",
       "source": "The Hill",
