@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "science_health",
+      "headline": "Update: Tropical Storm Arthur Brings Life-Threatening Flash Flooding to Gulf Coast and Southeast",
+      "summary": "Tropical Storm Arthur, the first named storm of the 2026 Atlantic hurricane season, formed off the Texas coast Wednesday and has since weakened to a low-pressure system, but continues to pose a serious flooding threat across the Gulf Coast and southeastern United States. Forecasters warned of life-threatening flash flooding, with rainfall totals of five to ten inches expected across parts of Texas, Mississippi, and Louisiana, and isolated totals of up to twenty inches in some areas.\n\nThe National Hurricane Center said the highest flash flood potential over the coming days stretches from Lake Charles, Louisiana, to Montgomery, Alabama, with Mobile, Alabama, expected to see the heaviest rainfall. Brazoria County on the Texas Gulf Coast recorded winds of 55 mph Wednesday morning as the storm moved through.\n\nTexas Governor Greg Abbott had already issued a disaster declaration for 101 counties earlier this month due to severe storms. Atmospheric scientists noted that parts of the Southeast had endured prolonged drought conditions this spring, leaving soils now saturated and particularly vulnerable to rapid runoff and localized flooding.\n\nThe storm is also affecting the FIFA World Cup, which is hosting matches in Houston and Atlanta. Houston canceled its FIFA Fan Festival on Monday due to rain, though officials said the matches themselves were not expected to be significantly disrupted.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/weather/storms/tropical-storm-arthur-forecast-flooding-first-named-storm-season-rcna350594",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-18T21:08:30.678724-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "U.S. Military Strike on Alleged Drug Boat Kills Three in Eastern Pacific, Bringing Total Deaths to at Least 211",
+      "summary": "The U.S. military struck a boat in the eastern Pacific Ocean on Thursday that it described as operating along known narco-trafficking routes, killing three people. The strike is the latest in a campaign the Trump administration launched in early September, during which at least 211 people have been killed in military attacks on boats the Pentagon has labeled as belonging to designated terrorist organizations.\n\nU.S. Southern Command announced the strike via social media but did not provide evidence the vessel was carrying drugs, nor did it identify which specific cartel or organization was alleged to be operating it. Video posted publicly showed the vessel being struck and bursting into flames.\n\nPresident Trump has described the U.S. as being in \"armed conflict\" with cartels and justified the strikes as essential to stopping the flow of drugs and fatal overdoses into the United States. Critics, including Colombian President Gustavo Petro, have questioned both the legality and effectiveness of the strategy, noting that fentanyl — responsible for the majority of overdose deaths — is primarily trafficked over land from Mexico rather than by sea.\n\nSenators on Thursday formally demanded that the Pentagon release unedited video of the strikes. The Pentagon's inspector general announced in May it was reviewing whether the military followed proper targeting frameworks, with particular scrutiny on an early strike in which survivors clinging to wreckage were killed in a follow-up attack the White House described as self-defense.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/u-s-strike-alleged-drug-boat-kills-3-eastern-pacific/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-18T21:08:30.678724-06:00",
+      "slot": 21
+    },
+    {
+      "category": "other",
+      "headline": "New York Knicks Celebrated With Canyon of Heroes Parade, First Championship in 53 Years",
+      "summary": "Hundreds of thousands of fans flooded lower Manhattan on Thursday for a ticker-tape parade celebrating the New York Knicks' first NBA championship in 53 years. Finals MVP Jalen Brunson held the golden trophy aloft along the Canyon of Heroes as blue and orange confetti filled the air and crowds chanted \"Let's go, Knicks!\"\n\nAt a City Hall ceremony following the parade, New York Mayor Zohran Mamdani presented keys to the city to players, coaches, owners, and staff. Mamdani, who wore a team jersey under his suit, said fans had \"waited because we knew deep down in our sick, suffering hearts\" the Knicks would eventually win.\n\nFilmmaker Spike Lee, among the team's most iconic fans, rode a float with Brunson and said it was his first championship parade. Forward OG Anunoby, who scored the decisive basket in Game 4 with 1.2 seconds remaining, left his float to interact directly with fans on the parade route.\n\nThe title ends a drought that stretches back to the Knicks' 1973 championship. Owner James Dolan thanked fans for their patience, while coach Mike Brown urged the crowd to sustain its energy for future seasons.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/watch-live-nba-champions-ny-knicks-celebrated-in-parade",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-18T21:08:30.678724-06:00",
+      "slot": 21
+    },
+    {
+      "category": "science_health",
       "headline": "FDA Panel Unanimously Backs First mRNA Flu Vaccine for Older Americans",
       "summary": "A Food and Drug Administration advisory committee voted unanimously Thursday that Moderna's mRNA-based influenza vaccine, dubbed mFlusiva, shows benefits that outweigh its risks for Americans aged 50 and older. The panel's endorsement moves the shot — the first flu vaccine made with the mRNA technology that underpinned COVID-19 vaccines — a step closer to U.S. market approval ahead of the winter flu season. The FDA will consider the recommendation in making a final decision by early August.\n\nModerna is seeking full approval for use in people ages 50 to 64 and emergency authorization for those 65 and older while additional testing continues. In a study of 40,000 people, the mRNA vaccine reduced flu cases by roughly 27 percent compared with another routinely used vaccine. A separate study in those 65 and older showed a strong protective immune response relative to a high-dose flu vaccine already recommended for that group.\n\nExperts cited the technology's key advantage: mRNA vaccines can be manufactured far more quickly than conventional flu shots, a critical capability if a new flu strain emerges that requires an updated formulation on short notice. Tens of thousands of Americans die from influenza each year, with older adults among the most vulnerable. FDA advisers called the immune response data \"very compelling\" and said the vaccine \"looks very promising.\"\n\nThe approval process comes as the mRNA platform, already normalized through COVID-19, faces renewed scrutiny from vaccine-skeptical voices in the current political environment. Supporters argue the technology represents a generational leap in pandemic preparedness; critics have raised concerns about long-term data on mRNA products. The FDA's final ruling is expected before the start of the fall flu season.",
       "source": "PBS NewsHour",
