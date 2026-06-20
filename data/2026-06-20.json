@@ -3,6 +3,48 @@
   "dateFormatted": "Saturday, June 20, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump Unveils Qatar-Gifted Boeing Jet as New Air Force One at Joint Base Andrews",
+      "summary": "President Trump on Friday officially unveiled the new presidential aircraft at Joint Base Andrews in Maryland, a Boeing jumbo jet gifted by the government of Qatar and designated VC-25B Bridge. Trump praised the plane as \"the world's most luxurious\" and said it would fly \"further and faster\" than any previous Air Force One model. The jet, fitted in a red, white, dark blue, and gold livery, is intended as a temporary aircraft while the long-delayed permanent replacements remain under construction.\n\nTrump announced the jet will be used for a ceremonial flyover of Washington, D.C., on July 4 to mark the 250th anniversary of the United States. The unveiling came a day after White House officials bid farewell to one of the two Boeing 747s that had transported presidents for more than three decades.\n\nThe aircraft has been deeply controversial since it was first proposed. Under federal law, unsolicited gifts to the president cannot exceed a modest threshold, and the $400 million jet far exceeds that limit, prompting significant legal and ethical objections. Critics have argued accepting the plane from a foreign government creates conflicts of interest and sets a troubling precedent for foreign influence over the executive branch.\n\nSupporters of the arrangement contend the transfer was made to the U.S. government rather than to Trump personally and that the plane fills a genuine operational gap while the permanent replacements are delayed. The debate reflects broader tensions over the administration's relationships with Gulf states, including Qatar, which has played a role in several Trump-era diplomatic initiatives.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5932262-trump-air-force-one-qatar-boeing-jet/",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-20T08:08:25.873976-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Armenian Opposition Members Arrested as Party Seeks to Annul Election Results",
+      "summary": "Several members of Armenia's opposition were arrested Friday as the pro-Russia Strong Armenia party filed a petition with the country's Constitutional Court seeking to annul the results of the June 7 parliamentary election. The party alleges electoral violations, including the coercion of public sector workers to vote for Prime Minister Nikol Pashinyan's ruling Civil Contract party and widespread voter bribery. The court has two days to decide whether to hear the case.\n\nFinal results released by Armenia's Central Election Commission showed Pashinyan's party winning 49.7 percent of the vote, enough to form a government as it pursues closer ties with the West and distances itself from Moscow. The OSCE issued a mixed assessment, saying voters had a \"genuine choice\" but noting the campaign was \"highly confrontational\" and marked by criminal cases against opposition candidates that raised concerns about selective justice.\n\nStrong Armenia is led by Armenian-Russian billionaire Samvel Karapetyan, who has been under house arrest on charges of advocating the government's overthrow — charges he rejects as politically motivated. Several opposition members were placed in custody Friday on charges of bribing voters, including candidates and a former lawmaker. The opposition denounced the arrests as an \"attempt to completely destroy democracy.\"\n\nArmenian authorities denied any electoral violations and accused the opposition of being the party engaged in voter bribery. The political crisis carries regional significance: Armenia's pivot away from Russia and toward Western institutions has made it a flashpoint in the broader contest between Moscow and the West for influence in the South Caucasus.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/armenian-opposition-members-arrested-after-contesting-election",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-20T08:08:25.873976-06:00",
+      "slot": 8
+    },
+    {
+      "category": "science_health",
+      "headline": "Growing Research Suggests Weight-Loss Drugs Like Ozempic May Also Reduce Cancer Risk",
+      "summary": "A growing body of observational research presented at a recent conference of leading U.S. cancer physicians suggests that GLP-1 receptor agonist drugs — including Ozempic and Wegovy — may reduce the risk of developing or spreading certain cancers beyond what would be expected from weight loss alone. One analysis from the University of Pennsylvania found women aged 45 to 80 taking the drugs were approximately 30 percent less likely to develop breast cancer than those who were not. A separate study found GLP-1s significantly reduced the risk of cancer spread in four of seven early-stage cancer types examined, including lung, breast, colon, and liver cancers.\n\nResearchers caution that all current evidence comes from observational studies rather than rigorous clinical trials, meaning causation has not been established and many questions remain open. GLP-1 drugs are now taken by roughly one in eight American adults, making their potential secondary health effects a matter of broad public significance. Scientists believe the drugs may be fighting cancer through mechanisms beyond simply reducing obesity, though the precise biological pathways are still under investigation.\n\nObesity is already known to be associated with an increased risk of at least 13 and possibly 20 different cancers, making effective weight-loss interventions a long-standing area of oncology research. Experts say the new findings represent an \"exciting hypothesis\" that warrants urgent follow-up through randomized controlled trials. If confirmed, the implications for cancer prevention and treatment protocols could be substantial given how widely these drugs are already prescribed.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/research-shows-weight-loss-drugs-may-also-reduce-cancer-risk",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-20T08:08:25.873976-06:00",
+      "slot": 8
+    },
+    {
       "category": "world",
       "headline": "Update: Iran-U.S. Deal Signed, but Hormuz Tensions Persist as Israel Resumes Hezbollah Strikes",
       "summary": "The United States and Iran signed a 14-point agreement on Wednesday ending their military conflict, which began with U.S. and Israeli strikes on Iran on February 28. The deal includes a commitment to further talks within 60 days on a final agreement and a U.S.-led $300 billion reconstruction plan for Iran. However, Iran's Supreme Leader has publicly distanced himself from the accord, saying Trump signed it \"out of desperation,\" while BBC analysts note both sides are claiming victory.\n\nNew developments Friday complicate the post-deal environment: Israel has resumed strikes on Hezbollah in Lebanon, killing 18 people according to Lebanese officials, while Israel reported four of its own soldiers killed. Vice President JD Vance canceled a planned trip to Switzerland amid the renewed fighting. The U.S. has warned it will restart military action and reimpose a blockade of the Strait of Hormuz if Iran does not follow through on commitments to abandon nuclear ambitions.\n\nIran seized two cargo ships in the Strait of Hormuz in a move that rattled energy markets, which have seen sharp volatility since the February outbreak of hostilities. Iran's top negotiator signaled Tehran will assert control over passage rights through the strait, raising questions about whether the shipping lane — through which roughly 20% of global oil flows — will remain open under the terms of the new agreement.\n\nThe deal is being debated sharply in Washington. Supporters argue it averts a broader regional war and opens a path to Iranian denuclearization; critics, including some on the right, contend the Iranian regime has emerged strengthened from the conflict and that the $300 billion reconstruction commitment rewards aggression. The situation remains fluid, with the 60-day negotiating window and ongoing Israeli-Hezbollah fighting keeping the region on edge.",
