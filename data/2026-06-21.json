@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Rubio Sidelines Himself From Iran Deal as Vance, Witkoff Take Lead",
+      "summary": "Secretary of State Marco Rubio has conspicuously distanced himself from the recently concluded Iran nuclear agreement, raising questions among foreign policy analysts about internal divisions within the Trump administration. While Rubio had been the public face of Iran negotiations since February — briefing reporters on details and testifying before Congress with a hawkish tone — Vice President JD Vance, special envoy Steve Witkoff, and Jared Kushner became the deal's public champions in its final stages.\n\nAt the G7 summit this week, Trump joked that Vance should 'be careful' because he would be blamed if the deal 'doesn't work out,' prompting laughter from others on stage. Rubio, by contrast, stared ahead with a somber expression. Republican strategist Dennis Lennox said 'the only plausible explanations are either Rubio was sidelined by Trump, who went with Vance's approach, or Rubio isn't entirely comfortable defending the process and the ultimate deal that was struck.'\n\nAnalysts suggest the extended closure of the Strait of Hormuz and resulting energy price surges left the administration with little leverage short of ground troops, shifting momentum toward diplomacy despite Rubio's previously stated positions. Jonathan Schanzer of the Foundation for Defense of Democracies said that as military options narrowed, 'diplomacy needed to kick in.'\n\nThe apparent rift is significant because Rubio had publicly declared Iran militarily and economically crippled — describing the loss of its navy and missile launchers — and had positioned himself as an advocate for maximum pressure. The 14-point deal's mechanisms for rewarding Iranian good behavior with economic benefits appear at odds with that stance, and Rubio has offered no public defense of the agreement.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4615073/rubio-iran-deal-silent-treatment/",
+      "sourceCount": 11,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:22 PM MT",
+      "addedAtISO": "2026-06-21T16:22:22.717812-06:00",
+      "slot": 18
+    },
+    {
+      "category": "other",
+      "headline": "Wildfires Force Evacuations in Utah, Arizona as Western U.S. Faces Extreme Heat and Drought",
+      "summary": "Extreme heat, drought, and high winds sparked multiple wildfires across the western United States on Sunday, with an uncontained blaze in Utah's Juab County burning 34 square miles and forcing the evacuation of the town of Eureka — population approximately 1,000 — about 70 miles southwest of Salt Lake City. The Iron Fire, which investigators say was human-caused, was one of six active fires burning in Utah; the state's Governor Spencer Cox visited the town and warned residents that extreme fire danger had been anticipated.\n\nIn Arizona, a wildfire near Sedona burned roughly 300 acres of steep terrain near Oak Creek Canyon and remained uncontained Sunday afternoon, with evacuated residents still unable to return home. Much of the Western U.S. from the Rockies to the Pacific coast experienced above-average temperatures over the weekend, with even hotter conditions forecast for early next week. Severe to extreme drought conditions persist across much of Utah and parts of Arizona and Colorado.\n\nA brush fire in Miami-Dade County, Florida also spread across 2,000 acres on Saturday. Officials across multiple states warned that prolonged heat, low humidity, and dry vegetation significantly elevated fire danger. The Southwest was forecast to reach up to 108°F in some areas Sunday.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/heat-wind-and-drought-conditions-spark-wildfires-in-the-u-s-west",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:22 PM MT",
+      "addedAtISO": "2026-06-21T16:22:22.717812-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Says Lincoln Memorial Reflecting Pool Likely to Be Drained for Repairs After Vandalism, Arrests",
+      "summary": "President Trump announced Saturday night that the Lincoln Memorial Reflecting Pool will likely need to be drained to complete necessary repairs, following a series of vandalism incidents and ongoing problems with the pool's condition. Trump said he met with contractors and cited damage to surrounding grass and allegations that 'corrosive and destructive chemicals' were placed in the water, adding that 'many additional people have been arrested.'\n\nThe announcement came hours after U.S. Park Police arrested David Hearn, 67, a three-time Olympian and cyclist, on a misdemeanor charge of destruction of government property. Hearn denied wrongdoing in an interview with the Washington Post, saying he touched the pool's already-peeling liner but 'didn't destroy or break or peel anything,' and that he was detained for nearly five hours before being released. He is scheduled to appear in D.C. Superior Court on July 9.\n\nThe pool has been a focal point of the Trump administration's effort to restore and refurbish national monuments in Washington, D.C. The multimillion-dollar project included repainting the pool bottom 'American flag blue,' but the pool has since turned green from algae growth, and photographs have shown the paint peeling — problems that predated the recent vandalism allegations. The memorial was also the target of '86 47 graffiti' vandalism in late April.\n\nTrump said in his Truth Social post that the administration is 'very proud' of its work on the monument and pledged repairs would be completed 'quickly, to an equal level of beauty.' The story drew coverage from 18 outlets across the political spectrum, reflecting significant public interest in both the vandalism incidents and the broader controversy over the pool's condition.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4617790/trump-water-reflecting-pool-drained-necessary-repairs/",
+      "sourceCount": 18,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:22 PM MT",
+      "addedAtISO": "2026-06-21T16:22:22.717812-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
       "headline": "Ethiopia's Abiy Ahmed Wins Landslide Election Amid Growing Conflict Fears",
       "summary": "Ethiopian Prime Minister Abiy Ahmed's Prosperity Party won a decisive parliamentary majority, claiming 438 of 501 contested seats in Sunday's general election. Abiy is expected to be sworn in for another term in October, extending his hold on power in Africa's second most-populous nation.\n\nThe vote was shadowed by serious concerns about legitimacy and stability. The Tigray region, home to six million people and 38 constituencies, was entirely excluded from the election. Armed militias in the Amhara and Oromia regions caused 143 polling stations to fail to open on election day, and both the Fano militias and the Oromo Liberation Army rejected the results.\n\nSecurity analysts warn Ethiopia may be heading back to large-scale conflict. Relations between Addis Ababa and Eritrea have sharply deteriorated since the 2022 Tigray ceasefire, with Eritrea now allied with Tigrayan forces — a realignment that could fuel renewed fighting. Ethiopia has also been accused of backing the RSF faction in Sudan's civil war, which it denies.\n\nAbiy, who won the Nobel Peace Prize in 2019 for reconciliation with Eritrea, now faces a fractured internal security picture. His supporters argue he will continue economic gains, while critics say the election's narrow participation and ongoing insurgencies undermine any claim to a democratic mandate.",
       "source": "BBC News",
