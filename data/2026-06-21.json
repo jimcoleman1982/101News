@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "European Heat Wave Prompts State of Emergency Measures in France; Multiple Drownings Reported",
+      "summary": "A severe heat wave gripped parts of Europe on Sunday, with about a third of France placed under a \"red alert\" as temperatures reached 40 degrees Celsius (104 degrees Fahrenheit) in some areas. French authorities canceled trains, concerts, and outdoor sports events, and banned public drinking in red-alert zones, while the government mobilized emergency services and military forces for heightened wildfire readiness.\n\nFour children drowned in France on Saturday as people sought relief in rivers and lakes, and multiple additional drowning deaths were reported across the continent. France's annual Music Day celebration, which draws thousands of concerts across the country, was partially canceled, and the Eiffel Tower set up misting stations for crowds. Tourists in Rome sheltered in fountains while Spain's Basque Country also canceled sports and cultural events.\n\nThe World Health Organization's Europe office reported earlier this month that more than 200,000 people across Europe died from heat-related causes over the past four years, with most fatalities considered preventable. A rapid attribution study found that human-caused climate change was responsible for approximately 1,500 deaths in an unusually early European heat wave in May, and U.N. climate projections indicate the next five years are likely to break further heat records.\n\nFrench authorities expressed particular concern for elderly and homeless people, recalling the catastrophic 2003 heat wave that killed approximately 15,000 older people in France. The forecast for Monday was expected to be even hotter than Sunday, and nuclear plant water supply surveillance was tightened as a precaution.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/france-restricts-public-drinking-and-outdoor-sports-as-heat-wave-bakes-parts-of-europe",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:50 AM MT",
+      "addedAtISO": "2026-06-21T10:50:08.239228-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Xi Jinping Completes First North Korea Visit in Seven Years as China Reasserts Influence",
+      "summary": "Chinese President Xi Jinping wrapped up a two-day state visit to Pyongyang, his first official trip to North Korea since 2019, signaling Beijing's effort to reassert influence over a strategically vital but increasingly unpredictable partner. The visit comes amid heightened tensions on the Korean Peninsula and broader shifts in the global order driven by the U.S.-Iran conflict and evolving U.S.-China competition.\n\nBeijing views its relationship with Pyongyang as a key strategic buffer and has sought to manage North Korea's alignment as Pyongyang has deepened military cooperation with Russia during the Ukraine war. The visit represents an attempt by Xi to stabilize and reinforce that relationship at a moment when China faces pressure on multiple fronts, including trade tensions with the United States and scrutiny over its regional ambitions.\n\nDetails of specific agreements or outcomes from the summit were not immediately disclosed. The visit received a ceremonial welcome from North Korean officials and is expected to address economic ties, denuclearization posture, and bilateral security arrangements, though Pyongyang's nuclear program remains a persistent source of tension between its public positions and international demands.\n\nThe timing of the visit, concurrent with the U.S.-Iran nuclear talks in Switzerland, underscores the degree to which global powers are recalibrating relationships amid a period of significant geopolitical flux. Analysts note that China's renewed engagement with North Korea could complicate any broader U.S. diplomatic initiatives in Asia.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/asia/china",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:50 AM MT",
+      "addedAtISO": "2026-06-21T10:50:08.239228-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "Obama Says U.S. Is 'Worse Off' After Iran War as Trump Pushes Back",
       "summary": "Former President Barack Obama said in a Friday interview that the United States is in a worse position following its military conflict with Iran than it was before the war began. 'We've now fought a war, spent billions and billions of dollars, put enormous strain on our military. A lot of people have died. And it feels like we're back where we were before we started the war, except maybe a little bit worse off,' Obama told NBC's TODAY program. He expressed relief at the reported ceasefire between Israel and Hezbollah but argued the original rationale for military action — preventing Iran from obtaining nuclear weapons — had not been achieved.\n\nObama specifically pointed to the 2015 Joint Comprehensive Plan of Action, which his administration negotiated, as a framework that had constrained Iran's nuclear program before Trump withdrew from it during his first term in 2018. He argued that withdrawal caused Iran to expand its nuclear capacity, ultimately contributing to the conditions that led to the conflict. Obama's remarks come as the U.S.-Iran Memorandum of Understanding remains in a fragile state, with continued Israel-Hezbollah fighting threatening to unravel the agreement's 60-day negotiating window.\n\nPresident Trump responded Saturday on Truth Social, dismissing critics as 'Dumocrats' and arguing that Iran had been 'defeated militarily, with no Navy or Air Force.' The White House and Trump allies maintain that Operation Epic Fury significantly degraded Iran's military capabilities and brought Tehran to the negotiating table. However, Trump separately drew scrutiny this week after suggesting at the G7 that Iran retaining some ballistic missiles may be acceptable — a position that appears to contradict earlier administration statements that destroying Iran's missile arsenal was a central war objective.\n\nThe exchange underscores a deepening partisan divide over how to assess the conflict's outcome. Critics, including Obama, argue the war achieved little beyond destruction while leaving Iran's nuclear ambitions unresolved. Supporters contend military pressure forced concessions that diplomacy alone could not. The debate is expected to intensify ahead of November midterm elections, with Republicans defending the operation and Democrats framing it as a costly strategic miscalculation.",
       "source": "Washington Examiner",
