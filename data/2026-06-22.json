@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "UN: Myanmar Military Killed More Than 700 Civilians in Six Months, Including 153 Children",
+      "summary": "Myanmar's military was responsible for more than 700 verified civilian deaths in the six months between August 2025 and January 2026, according to a new report from the United Nations Human Rights Office. The toll includes 224 women and 153 children, with air strikes cited as the single largest cause of civilian deaths. The period coincides with the military's announcement of elections widely condemned as a sham, as major opposition parties were barred from participating.\n\nThe Sagaing region was identified as the most dangerous area for civilians, accounting for 191 deaths. Documented incidents include a military strike on civilians gathered in front of a school during a Buddhist Lent celebration in October, killing 23 people including four children, and a bombing of a tea shop where people had gathered to watch a football match in December, killing at least 19.\n\nUN Human Rights Chief Volker Türk warned that a reduction in international aid is compounding the crisis. \"As if the people of Myanmar have not suffered enough at the hands of the military, they have now seemingly been forgotten by those outside the country,\" Türk said, noting that cuts to localized protection funding have removed a key source of relief for affected communities.\n\nMyanmar's military seized power in a 2021 coup, triggering a civil war that has killed thousands and displaced millions. While rebel groups made sweeping territorial gains more than two years ago, the military has since regained momentum through forced conscription and increased drone capabilities. General Min Aung Hlaing, who launched the coup, formally became president in April.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "2:08 PM MT",
+      "addedAtISO": "2026-06-22T14:08:49.995637-06:00",
+      "slot": 14
+    },
+    {
+      "category": "technology",
+      "headline": "WhatsApp CEO Will Cathcart Steps Down; Indian Fintech Founder Kunal Shah Named Successor",
+      "summary": "Will Cathcart, who has led WhatsApp for nearly seven years and oversaw its growth to more than three billion users worldwide, announced Monday that he is stepping back from his role leading Meta's flagship messaging platform. Kunal Shah, founder of Indian fintech company Cred, will take over as head of WhatsApp. Cathcart will remain in a broader role within Meta's leadership.\n\nMeta CEO Mark Zuckerberg said Shah, who built Cred into one of India's most significant technology companies, brings a \"builder mentality and global perspective\" suited to running the world's largest messaging app. Shah said he will remain a shareholder in Cred, which has raised $900 million in investment, including a new stake from Meta that would give the company approximately a 20 percent ownership share. Shah specified that Meta would have no access to Cred member data.\n\nThe leadership change signals Meta's intent to deepen WhatsApp's commercial presence in India, which has roughly 853 million WhatsApp users — by far the app's largest single market. WhatsApp has faced scrutiny in India over privacy and data-sharing practices with Meta, and the company has been working to expand revenue through advertising, paid subscriptions, and AI-powered tools.\n\nThe appointment of an Indian entrepreneur to lead WhatsApp represents an unusual move for a major U.S. technology platform, and reflects both the strategic importance of the Indian market and Meta's broader push to internationalize its leadership pipeline.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "2:08 PM MT",
+      "addedAtISO": "2026-06-22T14:08:49.995637-06:00",
+      "slot": 14
+    },
+    {
+      "category": "other",
+      "headline": "Clive Davis, Legendary Music Executive Who Launched Whitney Houston and Bruce Springsteen, Dies at 94",
+      "summary": "Clive Davis, the music industry executive whose talent for identifying and developing artists reshaped American popular music across six decades, died Sunday at his home in Manhattan. He was 94 and had recently been hospitalized with respiratory problems. His family confirmed the death, describing him as \"the iconic music legend whose vision, instincts, and relentless pursuit of excellence shaped the soundtrack of countless lives.\"\n\nDavis rose from a background in law — he graduated from Harvard Law School — to become president of Columbia Records in the mid-1960s, where he signed Janis Joplin, Santana, Aerosmith, Pink Floyd, and Bruce Springsteen. He later founded Arista Records, where he guided the careers of Whitney Houston, Aretha Franklin, Billy Joel, Christina Aguilera, and Alicia Keys, among many others. His ability to hear commercial potential in unconventional artists was considered unrivaled in the industry.\n\nSome of his most celebrated decisions came in conflicts with artists. He persuaded Simon and Garfunkel to lead their 1970 album with \"Bridge Over Troubled Water\" rather than \"Cecilia,\" and invested deeply in Springsteen after seeing an early club performance, calling it immediately clear that he had witnessed something exceptional. Patti Smith, whom Davis championed, posted a tribute Monday citing \"a half century of your love and support.\"\n\nDavis leaves behind one of the most documented careers in music business history, including an autobiography and annual pre-Grammy galas that became fixtures of the music industry calendar. He is survived by his family.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "2:08 PM MT",
+      "addedAtISO": "2026-06-22T14:08:49.995637-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "At Least 13 Killed in Explosion at Qatar's Largest Gas Facility",
       "summary": "An explosion at Qatar's Barzan gas supply facility in the Ras Laffan industrial zone killed at least 13 people and injured 66 others on Sunday night. The blast, which turned the Doha skyline orange and rattled windows across central Doha, was felt more than 70 kilometers away. Qatar's Energy Minister Saad Sherida al-Kaabi said the incident was a technical accident and not sabotage, and that the government had launched an investigation into the cause.\n\nAll those killed were nationals of India and Pakistan, according to officials. The facility had only been restarted two days before the explosion after being shut down since December 2025 for urgent maintenance, and also after suffering extensive damage from Iranian retaliatory strikes during the US-Israel conflict with Iran earlier this year.\n\nRas Laffan is the world's largest LNG export facility, and Qatar supplies roughly a fifth of the world's LNG. Al-Kaabi stated the explosion would not affect Qatar's overall export commitments, though he acknowledged it would be difficult to determine when operations at the affected facility would resume. The incident raises fresh concerns about energy supply stability at a facility already strained by recent geopolitical conflict.\n\nQatarEnergy said emergency response teams were deployed immediately and the fire has been brought under control. The Indian Embassy in Doha said it was in close contact with Qatari authorities to assist affected families. An investigation into the cause of the blast is ongoing.",
       "source": "BBC News",
