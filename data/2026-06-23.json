@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "UN Commission Accuses Israel of Genocide Against Palestinian Children in New Gaza Report",
+      "summary": "A United Nations commission of inquiry released a report Tuesday concluding that Israel has deliberately targeted Palestinian children in Gaza, finding reasonable grounds to conclude that such acts constitute genocide, crimes against humanity, and war crimes. The report alleges Israeli authorities and security forces \"deliberately carried out acts inflicting death and severe bodily and mental harm on hundreds of thousands of Palestinian children\" and that killings continued even after October 2025's ceasefire.\n\nThe commission, established by the UN Human Rights Council in 2021, said the killings formed part of a \"deliberate strategy to destroy the future of the Palestinians in Gaza by targeting their children.\" Gaza's Hamas-run health ministry, whose figures the UN considers reliable, says at least 73,035 people have been killed in Israeli strikes since October 7, 2023, including more than 21,280 children.\n\nIsrael's foreign ministry rejected the report in full, calling it a \"libellous sham\" and \"a propaganda piece as outrageous as its previous ones.\" Israel has consistently rejected the commission's findings, noting the panel was created by the Human Rights Council — a body Israel and the United States have criticized as biased — and that the three-member expert panel does not officially represent the broader UN.\n\nThe commission previously accused Israel of genocide in a September 2025 report and has also concluded that Hamas and other Palestinian armed groups committed war crimes and other grave violations on October 7, 2023. The latest report comes as both Israel and Hamas continue to accuse each other of violating the October 2025 ceasefire, with Gaza's health ministry reporting more than 1,020 Palestinians killed since the truce took effect.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:47 AM MT",
+      "addedAtISO": "2026-06-23T07:47:28.549853-06:00",
+      "slot": 8
+    },
+    {
+      "category": "science_health",
+      "headline": "Federal Report Finds Surfside Condo Began Structurally Failing Three Weeks Before Deadly 2021 Collapse",
+      "summary": "A final federal report released Monday by the National Institute of Standards and Technology concludes that the Champlain Towers South condominium in Surfside, Florida, began failing three weeks before it collapsed in the middle of the night on June 24, 2021, killing 98 people. Investigators found that structural failures initiated when two connections between garage columns and the pool deck gave way — and that the building had been vulnerable from the start of its construction.\n\nThe NIST investigation, which took nearly five years to complete, is the most authoritative technical account of the deadliest U.S. building collapse in decades. The report is expected to inform building codes, inspection requirements, and condominium safety regulations across the country, particularly for aging concrete structures near coastlines.\n\nThe collapse, which occurred shortly after 1 a.m., destroyed 55 of the building's 136 units and prompted emergency legislation in Florida requiring more rigorous structural inspections and reserve funding for older condominium buildings. Hundreds of similar buildings along the Florida coast subsequently underwent accelerated safety reviews.\n\nThe Surfside disaster also renewed national debate about condominium association governance, deferred maintenance, and the adequacy of building inspection regimes. The release of the final NIST report marks a significant milestone for the families of victims who have long sought an authoritative explanation of exactly how and why the building fell.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/surfside-condo-started-failing-3-weeks-before-total-collapse-federal-report-says/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:47 AM MT",
+      "addedAtISO": "2026-06-23T07:47:28.549853-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
       "headline": "Update: Vance Says Iran Will Allow Nuclear Inspections as Hormuz Reopening Remains Partial",
       "summary": "Vice President JD Vance announced Monday that Iran has agreed in principle to allow nuclear inspections as part of post-war diplomatic talks held in Switzerland. The development marks a significant step in the 60-day framework agreed upon to reach a final deal, though Iran's lead negotiator Mohammad Bagher Qalibaf stressed that the Strait of Hormuz remains under Iranian management and will operate according to international law.\n\nEnergy Secretary Chris Wright said 67 ships transited the Strait of Hormuz in the past 24 hours, but that figure remains well below the pre-war average of 100 to 130 daily crossings, according to data from analytics firm Kpler. President Trump claimed oil was flowing at record levels, a statement contradicted by the data. Qalibaf met with Oman's foreign minister Monday night to discuss safe navigation in the strait and economic normalization, including the release of frozen Iranian assets and resumed oil sales.\n\nThe talks represent the most substantive direct U.S.-Iran diplomatic engagement in years, following a military conflict that left significant regional instability. Critics on the right, including commentator Tucker Carlson, have publicly broken with the Republican Party over the war, calling it driven by Israeli interests rather than American ones. Supporters of the administration argue the deal has halted active conflict and secured a commitment against Iranian nuclear weapons development.\n\nKey issues remain unresolved: the fate of Iran's nuclear program was explicitly deferred to the 60-day negotiating window, and the text of the existing memorandum of understanding falls short of Trump's public claim that Iran will never develop a nuclear weapon. Lebanon also saw continued Israeli strikes, with at least 20 people reported killed and four Israeli soldiers killed by Hezbollah fire, complicating the broader regional ceasefire.",
       "source": "Associated Press",
