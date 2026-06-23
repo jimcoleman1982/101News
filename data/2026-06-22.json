@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, June 22, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Senate Passes Sweeping Bipartisan Housing Affordability Bill, Sending It to the House",
+      "summary": "The U.S. Senate on Monday passed the 21st Century Road to Housing Act by an overwhelming bipartisan margin, sending the most significant federal housing legislation in a generation to the House for consideration. The bill aims to reduce housing costs by streamlining construction permitting, boosting housing supply, and limiting large investors' ability to outbid first-time homebuyers in the residential market.\n\nThe rare show of near-unanimous Senate support reflects the political urgency both parties feel around housing affordability heading into November's midterm elections, as rising home prices and rents have emerged as a top voter concern. The legislation was crafted with input from members of both chambers and both parties, though it still faces an uncertain path in the House.\n\nProponents argue the bill addresses the root cause of the affordability crisis — insufficient housing supply — while also curbing Wall Street's outsized role in the single-family home market. Critics on the left have argued the bill does not go far enough to address rental affordability or protect existing tenants, while some conservatives have raised concerns about federal intrusion into local zoning decisions.\n\nIf enacted, the bill would mark Washington's most consequential intervention in housing policy in decades, affecting millions of potential homebuyers and renters across the country.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/senate/5935003-housing-affordability-bill-senate/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-22T21:08:16.463188-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Montreal Shooting Kills Police Officer and Civilian in Jewish Neighborhood; Gunman Also Dead",
+      "summary": "A shooting in Montreal's Côte-des-Neiges neighborhood on Monday killed two people — a police officer and a civilian — before officers shot and killed the gunman. A second officer was seriously wounded. The attack occurred in an area known for its kosher restaurants and supermarkets and frequented by Montreal's large Jewish community, though authorities said they had not yet confirmed whether the shooting was motivated by antisemitism or targeted at the Jewish community.\n\nThe slain officer was identified as Mohamed Lamine Benredouane, 34, a five-year veteran of the Montreal Police Service. Montreal Police Chief Fady Dagher called him a \"great, great, great police officer\" and described the day as \"a nightmare.\" The death is the first line-of-duty fatality for the Montreal Police Service since 2002.\n\nAuthorities said there was no ongoing threat to the public and urged residents to avoid the immediate area while the investigation continued. Police said they were examining whether the gunman may have called 911 to lure officers into an ambush, though Chief Dagher said he did not believe police were the primary target.\n\nThe Centre for Israel and Jewish Affairs urged community members to exercise vigilance and said it was closely monitoring the situation. Quebec Premier Christine Frechette called the events \"tragic\" and urged the public to avoid speculation while investigators work to establish a motive.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/montreal-shooting-police-officer-killed/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-22T21:08:16.463188-06:00",
+      "slot": 21
+    },
+    {
+      "category": "technology",
+      "headline": "Trump Signs Executive Orders to Accelerate Quantum Computing Research and Harden Federal Cybersecurity",
+      "summary": "President Trump on Monday signed two executive orders directing federal agencies to accelerate research into quantum computing and begin preparing government systems for the cybersecurity threats posed by future quantum machines capable of breaking current encryption standards. The orders direct agencies to adopt post-quantum cryptographic standards and lay groundwork for the federal government to integrate quantum technologies into national security and defense applications.\n\nQuantum computing uses principles of quantum physics to perform certain calculations exponentially faster than classical computers. While the technology is still in early development, experts warn that sufficiently powerful quantum computers could eventually render current encryption methods obsolete, threatening financial systems, classified communications, and critical infrastructure.\n\nThe orders represent the administration's formal commitment to competing with China and other adversaries in the quantum race, a contest that U.S. intelligence officials have described as a national security priority. Federal agencies will be required to inventory their most cryptographically sensitive systems and develop transition plans to quantum-resistant alternatives.\n\nThe signing follows years of bipartisan concern in Congress and the intelligence community about foreign quantum research programs. Supporters say the orders provide needed urgency and coordination across the federal government, while some technology policy analysts have noted that actual implementation will depend heavily on funding allocations Congress has yet to approve.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/5934949-trump-signs-quantum-computing-orders/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-22T21:08:16.463188-06:00",
+      "slot": 21
+    },
+    {
       "category": "other",
       "headline": "Lionel Messi Breaks All-Time World Cup Scoring Record With 17th and 18th Goals in Argentina Win",
       "summary": "Lionel Messi became the all-time leading scorer in World Cup history Monday, netting his 17th and 18th goals to surpass Germany's Miroslav Klose as Argentina defeated Austria 2-0 in Arlington, Texas. The record-breaking 17th goal came in the 38th minute, two days before Messi's 39th birthday, when he caught goalkeeper Alexander Schlager leaning the wrong way from about 20 yards. Messi added his 18th in stoppage time, giving Argentina a perfect two-for-two record in Group J play.\n\nMessi had tied Klose's record of 16 goals with a hat trick against Algeria last week in Kansas City. He has now scored in six consecutive World Cup matches, joining Just Fontaine and Jairzinho as the only players to achieve that feat. All five of Argentina's goals in the tournament so far have come from Messi.\n\nThe achievement was particularly notable given that Messi, playing in his sixth World Cup at age 38, had missed a penalty kick in the ninth minute before going on to break the record. Klose, who scored his 16 goals across 24 matches over four tournaments, had publicly predicted Messi would surpass him. 'I'm a big fan of Messi, always have been. Messi is a genius,' Klose told a German newspaper earlier this month.\n\nThe record fell before a sold-out crowd of 70,649 at AT&T Stadium, home of the NFL's Dallas Cowboys, with the majority of fans cheering for Argentina. The defending champions now advance to the knockout round having won both group games.",
