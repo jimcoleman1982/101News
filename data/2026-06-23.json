@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-23",
+  "dateFormatted": "Tuesday, June 23, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Vance Says Iran Will Allow Nuclear Inspections as Hormuz Reopening Remains Partial",
+      "summary": "Vice President JD Vance announced Monday that Iran has agreed in principle to allow nuclear inspections as part of post-war diplomatic talks held in Switzerland. The development marks a significant step in the 60-day framework agreed upon to reach a final deal, though Iran's lead negotiator Mohammad Bagher Qalibaf stressed that the Strait of Hormuz remains under Iranian management and will operate according to international law.\n\nEnergy Secretary Chris Wright said 67 ships transited the Strait of Hormuz in the past 24 hours, but that figure remains well below the pre-war average of 100 to 130 daily crossings, according to data from analytics firm Kpler. President Trump claimed oil was flowing at record levels, a statement contradicted by the data. Qalibaf met with Oman's foreign minister Monday night to discuss safe navigation in the strait and economic normalization, including the release of frozen Iranian assets and resumed oil sales.\n\nThe talks represent the most substantive direct U.S.-Iran diplomatic engagement in years, following a military conflict that left significant regional instability. Critics on the right, including commentator Tucker Carlson, have publicly broken with the Republican Party over the war, calling it driven by Israeli interests rather than American ones. Supporters of the administration argue the deal has halted active conflict and secured a commitment against Iranian nuclear weapons development.\n\nKey issues remain unresolved: the fate of Iran's nuclear program was explicitly deferred to the 60-day negotiating window, and the text of the existing memorandum of understanding falls short of Trump's public claim that Iran will never develop a nuclear weapon. Lebanon also saw continued Israeli strikes, with at least 20 people reported killed and four Israeli soldiers killed by Hezbollah fire, complicating the broader regional ceasefire.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/live/trump-administration-iran-updates-06-22-2026",
+      "sourceCount": 13,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-23T05:08:35.035867-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Federal Judge Blocks Trump Administration's Use of SAVE Database to Purge Voter Rolls",
+      "summary": "A federal judge on Monday struck down the Trump administration's use of an upgraded version of the SAVE (Systematic Alien Verification for Entitlements) database, ruling that the system unlawfully aggregated Americans' personal data in a way that threatens voter rights. U.S. District Court Judge Sparkle L. Sooknanan found that Congress had expressly prohibited the centralization of Americans' personal identifying information and that the agencies involved knew the database violated those protections.\n\n\"All in all, the federal government has knowingly trampled on the privacy rights of American citizens in a manner that threatens the sacred right to vote,\" Judge Sooknanan wrote in her ruling. The decision is the latest in a series of court defeats for the administration's effort to nationalize election administration, following earlier blocks on documentary proof-of-citizenship requirements, post-Election Day mail ballot counting, and postal service ballot restrictions.\n\nThe Department of Homeland Security's general counsel James Percival dismissed the ruling on social media, saying: \"It's amazing how hard the Left will fight to stop us from solving problems they insist do not exist.\" The Department of Justice said it would \"continue to aggressively defend President Trump's immigration enforcement agenda and DHS's use of the SAVE system.\"\n\nThe administration has argued the SAVE upgrades were necessary to identify and remove noncitizens from state voter rolls, a practice it contends is widespread. Critics counter that voting by noncitizens is already a federal felony and exceedingly rare, and that the database's design posed a greater risk of wrongly disenfranchising eligible American citizens. The ruling leaves the future of the administration's broader election integrity executive order in doubt.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/trump-elections-noncitizens-voting-save-lawsuit-a9612cfffa40c938e67b99f265c9e817",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-23T05:08:35.035867-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Colombia Election Result Narrows as Trump-Backed Candidate Holds Razor-Thin Lead",
+      "summary": "Preliminary results from Colombia's presidential runoff show right-wing political outsider Abelardo de la Espriella, known as \"El Tigre,\" leading leftist rival Iván Cepeda by less than one percentage point — the narrowest margin in recent Colombian history. President Trump declared de la Espriella had \"won easily\" and predicted a \"much better relationship\" with Colombia, though Cepeda has not conceded and said he would await official cross-checking of the results, a process that typically takes several days.\n\nTrump had publicly endorsed de la Espriella ahead of the vote and referred to Cepeda as a \"radical Left Marxist.\" De la Espriella campaigned on cracking down on drug-trafficking cartels, cooperating closely with U.S. counter-narcotics operations, and potentially granting the U.S. military basing rights inside Colombia — a sharp reversal from outgoing leftist President Gustavo Petro, who had feuded bitterly with Trump.\n\nSupporters of de la Espriella argue his security platform is necessary in a country that remains the world's largest coca producer, ravaged by armed criminal organizations. Critics and Cepeda supporters expressed concern that his approach could revive human rights abuses, including the \"false positives\" scandal in which more than 6,400 civilians were killed by the military and falsely reported as guerrillas.\n\nThe result, if confirmed, would represent a significant geopolitical shift in Latin America, aligning Colombia more closely with Washington's regional security framework at a time when the U.S. is also managing Venezuela and pursuing counter-narcotics goals continent-wide.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-23T05:08:35.035867-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: European Heatwave Peaks: 40 Drown in France, Record Temperatures Across Continent",
+      "summary": "Forty people have drowned in heatwave-related incidents in France since last Thursday, Prime Minister Sébastien Lecornu announced Monday, as the country recorded its hottest June day ever and its hottest night on record, with a minimum overnight average of 21.6°C. More than half of France remains under red alert. Two additional heat deaths were confirmed after children aged two and four were found in a parked car in Carpentras in southern France.\n\nSpain, Italy, and Germany are also in the grip of the heat event. Temperatures in Andalusia, Spain reached 45°C Monday, with red alerts across multiple regions. Italy declared red heat alerts in 15 cities including Rome, Milan, Florence, and Venice — conditions dangerous even for healthy adults. Germany recorded six fatal swimming incidents over the weekend as people sought relief in unauthorized swimming areas.\n\nFrench sports minister Marina Ferrari warned that too many people were taking dangerous risks by swimming in unsupervised rivers and canals. Among the dead was a 13-year-old girl who entered the River Seine with her family despite not knowing how to swim. A young professional footballer remained in critical condition after being pulled from the River Rhône near Lyon.\n\nEuropean climate scientists note that June heatwaves are becoming significantly more frequent. Spain's state weather service recorded 10 such events between 2000 and 2025, compared to just two in the preceding 25 years, citing climate change as the primary driver. The current event is expected to persist through at least the end of the week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-23T05:08:35.035867-06:00",
+      "slot": 5
+    }
+  ]
+}
