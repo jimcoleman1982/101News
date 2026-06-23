@@ -3,6 +3,34 @@
   "dateFormatted": "Tuesday, June 23, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "DOJ Charges More Than 450 Defendants in $6.5 Billion Health Care Fraud Operation",
+      "summary": "The Department of Justice on Tuesday announced charges against more than 450 defendants in connection with alleged health care fraud totaling over $6.5 billion in false claims. Officials described it as the second-largest dollar amount ever charged in a single health care fraud enforcement operation.\n\nThe sweep is framed by the Trump administration as part of a heightened focus on eliminating fraud in federal health programs, including Medicare and Medicaid. Specific charges and the identities of defendants were not detailed in initial reports, but the operation spanned multiple jurisdictions.\n\nHealth care fraud enforcement actions of this scale typically involve schemes such as billing for services never rendered, kickbacks for unnecessary procedures, and fraudulent prescriptions for controlled substances. Large-scale DOJ operations have historically led to both criminal convictions and civil recovery of funds.\n\nThe announcement adds to a series of Trump administration enforcement actions targeting government program integrity, and comes as Congress continues debating the future funding levels of federal health entitlements.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/5936511-healthcare-fraud-justice-department-operation/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:17 PM MT",
+      "addedAtISO": "2026-06-23T13:17:41.708494-06:00",
+      "slot": 14
+    },
+    {
+      "category": "technology",
+      "headline": "Federal Regulators Open Formal Investigation Into Fatal Tesla Autopilot Crash in Texas",
+      "summary": "The National Highway Traffic Safety Administration opened a formal special crash investigation on Monday into a June 19 incident in Texas in which a Tesla Model 3 left the roadway at high speed and struck a residence, killing a 76-year-old woman inside. The driver told investigators the vehicle was operating with an automated driving assistance system at the time of the crash.\n\nPolice said the driver was not intoxicated and is cooperating with investigators. The vehicle 'failed to drive in a single lane, left the roadway, and struck the residence,' according to the police report. The woman, who lived with her daughter and grandchildren, died of her injuries at a hospital.\n\nA special crash investigation is NHTSA's most detailed form of inquiry and is separate from the local police investigation. While not designed to immediately penalize a manufacturer, such investigations can lead to safety recalls or other regulatory actions. Tesla did not respond to requests for comment.\n\nThe case adds to an ongoing scrutiny of Tesla's 'Full Self-Driving (Assisted)' technology. Earlier this year, NHTSA expanded a separate investigation into the system. Critics have long argued the branding overstates the technology's capabilities, while Tesla maintains the system requires active driver supervision.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:17 PM MT",
+      "addedAtISO": "2026-06-23T13:17:41.708494-06:00",
+      "slot": 14
+    },
+    {
       "category": "politics",
       "headline": "Supreme Court Issues Multiple Rulings as Major Decisions on Birthright Citizenship, Federal Reserve Remain Pending",
       "summary": "The Supreme Court issued several opinions Tuesday as it works to clear its docket before summer recess, with more than a dozen final decisions still to come over the next two weeks. High-profile pending cases include rulings on birthright citizenship, the Federal Reserve's independence, and transgender athletes — all of which touch directly on Trump administration priorities.\n\nAmong Tuesday's decisions, the court ruled 6-3 that a Rastafarian Louisiana prisoner, Damon Landor, cannot sue state prison officials for damages after guards forcibly shaved his dreadlocks in violation of his religious beliefs. The conservative majority held that a federal law protecting inmates' religious rights does not permit monetary damage claims. Justice Neil Gorsuch wrote the majority opinion; the ruling was seen as a rare setback for religious liberty advocates at the current court.\n\nThe court also ruled 6-3 that members of the Falun Gong spiritual movement cannot sue Cisco Systems under the Alien Tort Statute for allegedly helping China surveil and persecute them. The decision further limits corporate liability for human rights abuses committed abroad. Separately, the court declined to take up a Voting Rights Act enforcement case, leaving in place a ruling that struck down a key protection mechanism for voters with disabilities or literacy challenges in seven states.\n\nThe pending decisions on birthright citizenship and the Federal Reserve are considered among the most consequential of the term. Conservatives have argued the administration has authority to limit birthright citizenship by executive action and to assert more control over the Fed; liberals and legal scholars have warned both moves would represent major constitutional departures. Tensions between the justices and the White House have been running high ahead of the final rulings.",
