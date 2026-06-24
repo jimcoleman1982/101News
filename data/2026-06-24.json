@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-24",
+  "dateFormatted": "Wednesday, June 24, 2026",
+  "stories": [
+    {
+      "category": "science_health",
+      "headline": "Update: France Confirms First Ebola Case in Europe as Congo Outbreak Surpasses 1,000 Infections",
+      "summary": "France has confirmed its first case of Ebola, involving a doctor who returned from a humanitarian mission in the Democratic Republic of Congo. The physician was immediately admitted to a specialized medical facility and is reported to be in stable condition, according to the French health ministry. Authorities stressed the risk to the general public remains \"very low\" and are working to trace any contacts the doctor may have had.\n\nThe case marks the first confirmed Ebola infection on European soil, though an American doctor who tested positive in DRC was treated at a German hospital last month. The ongoing outbreak in DRC has now surpassed 1,000 infections and claimed more than 260 lives, with cases concentrated in the eastern provinces of Ituri, South Kivu, and North Kivu. Neighboring Uganda has also recorded 20 infections and two deaths.\n\nThe current outbreak is caused by the Bundibugyo species of the Ebola virus, for which no approved vaccine currently exists, complicating containment efforts. The World Health Organization has warned that active conflict in eastern DRC, where the M23 rebel group controls large areas, is significantly hampering the public health response. Africa CDC and U.S. public health authorities have described the outbreak as having the potential to become one of the largest ever recorded.\n\nFrance has established a dedicated monitoring system for aid workers returning from DRC and confirmed it is conducting contact tracing. The confirmation of a European case is likely to intensify pressure on international health bodies to accelerate response funding and logistics, particularly as previous U.S. foreign aid cuts — including USAID reductions — have been cited as hampering on-the-ground containment work in DRC.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-24T05:08:32.398993-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: European Heatwave Intensifies as France Records Hottest June Day Ever, 40 Dead",
+      "summary": "France recorded its hottest average June day since records began on Tuesday, with a mean temperature of 29.8°C and peaks of 44.3°C in the Landes region. Red heat alerts have been extended to 58 of France's regions, with 31 additional regions under orange alert. The extreme heat has caused the country's first major heat-related power outage, leaving around 68,000 homes in Brittany without electricity, with full restoration not expected until end of day Wednesday.\n\nAt least 40 people have drowned in heatwave-related incidents in France since last Thursday, according to the French prime minister. Temperatures of 39–43°C are forecast across much of western France, from Paris to Brittany, through the weekend. The Louvre museum in Paris announced it would close two hours early each day through Saturday due to the heat in its historic building.\n\nThe heatwave is spreading across western Europe, with orange danger alerts issued for the Netherlands, while Germany is forecast to see temperatures reach 40°C over the weekend. Severe heat warnings have been extended to Poland, Croatia, and Hungary for later in the week. A major wildfire in the Maine-et-Loire region required more than 150 firefighters before being brought under control overnight.\n\nThe new material developments — France's record temperatures, the 40 drowning deaths, the mass power outage, and the heatwave's spread into northern and eastern Europe — represent a significant escalation from prior coverage. French labor minister Jean-Pierre Farandou said the country is \"in the process of finding out we've become a hot country.\" Some relief is forecast from Friday, accompanied by risks of flash flooding and large hail from thunderstorms.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-24T05:08:32.398993-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Ukraine Drone Strike Blacks Out Sevastopol as Crimea Faces Fuel Shortages",
+      "summary": "Ukrainian drones struck the main power substation of Sevastopol overnight, knocking out electricity across Russia's largest occupied city in Crimea. Moscow-installed governor Mikhail Razvozhayev warned some areas would remain without power until Wednesday evening and placed all emergency services on full alert. Ukraine's Unmanned Systems Forces commander confirmed the attack was part of a broader overnight operation targeting 48 military sites.\n\nThe attack comes as Crimea is already under severe strain from a Ukrainian campaign to isolate the peninsula. All petrol sales have been suspended by Russian-installed authorities and reserved largely for government services, while panic-buying of basic goods has been reported in local shops. Kyiv has also targeted key bridges and road links connecting Crimea to mainland Russian-occupied Ukraine.\n\nRussia's defense ministry said it destroyed more than 300 Ukrainian drones overnight, while Ukraine's air force reported intercepting 95 of 101 Russian drones launched against Ukrainian territory. The intensified Ukrainian campaign against Crimean infrastructure is part of Kyiv's broader strategy of damaging Russian energy revenues and compelling Moscow to engage in negotiations. Sevastopol is a strategically vital port city and serves as a key logistical hub for Russian forces in the region.\n\nExplosions were also reported in Bakhchisarai, Kerch, and near Mount Ai-Petri, where a Russian Aerospace Forces communications battalion is based. The strikes mark an escalation in Ukraine's pressure on occupied Crimea and come as fighting continues on multiple fronts in eastern Ukraine, where Russian troops have infiltrated the strategic city of Kostyantynivka.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-24T05:08:32.398993-06:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "Alibaba Sues Pentagon to Fight Military Blacklist That Would Sever U.S. Legal and Business Ties",
+      "summary": "Chinese tech and e-commerce giant Alibaba has filed a lawsuit in a California federal court challenging its placement on the Pentagon's \"1260H\" blacklist, which designates companies deemed to be linked to China's military. The U.S. Department of Defense placed Alibaba on the list on the grounds that its compliance with Chinese technology regulators makes it effectively an arm of the Chinese military-civil fusion apparatus. Alibaba called the designation \"arbitrary and capricious\" and said it has \"no basis in fact or law.\"\n\nThe practical stakes are acute: starting June 30, the Pentagon is legally barred from doing business with blacklisted firms, and — critically — the restriction extends to any U.S. contractor that shares a lobbyist or law firm with a blacklisted entity. Alibaba argues this effectively forces its American legal and political advisers to sever ties in order to protect their own defense contracts, stripping the company of representation in Washington at the precise moment it needs to fight back. The company says it previously sought a meeting with the DoD to present evidence of its U.S. economic contributions but received no response and no hearing before being designated.\n\nAlibaba pushed back on the military affiliation claim, noting that all multinationals operating in China — including American companies — must comply with local regulations, and that none of its independent board members has any military ties. The company's platforms, it said, are built for retail and cloud computing, not defense or intelligence purposes. The DoD declined to comment on the litigation.\n\nThe case is part of a broader U.S. government effort to restrict Chinese technology firms: Baidu, BYD, and Nio are among other major companies recently added to the expanded blacklist. The outcome could set an important legal precedent for how U.S. regulators may designate foreign companies under national security statutes and how those companies may challenge such designations in court.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-24T05:08:32.398993-06:00",
+      "slot": 5
+    }
+  ]
+}
