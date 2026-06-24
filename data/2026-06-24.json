@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, June 24, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Eight Antifa Members Sentenced to Collective 450 Years for Anti-ICE Riot in Which Officer Was Shot",
+      "summary": "A federal judge sentenced eight people with alleged ties to Antifa to a combined 450 years in prison Tuesday for their roles in a July 4, 2025, riot outside an immigration detention center in Prairieland, Texas. Benjamin Hanil Song, described by prosecutors as the group's leader and convicted of attempted murder of a law enforcement officer, received 100 years; sentences for the remaining seven ranged from 30 to 70 years. The defendants were convicted on charges including rioting, use of weapons and explosives, providing material support to terrorists, and obstruction.\n\nActing Attorney General Todd Blanche said in a statement that the sentences demonstrated violent attackers of law enforcement and federal facilities would face \"swift and uncompromising justice.\" The presiding judge called the July 4 assault \"an assault on democracy.\" A ninth defendant is scheduled for sentencing on July 1, along with seven others who pleaded guilty before trial.\n\nDefendants' families and supporters condemned the sentences as disproportionate. Song wrote in a statement that he fired his weapon because he believed an officer was about to shoot a protester; his mother disputed that he shot anyone and said he did not intend to harm anyone, according to the Associated Press. Advocacy groups for the defendants characterized the punishments as unduly harsh.\n\nThe case carries broad political significance. President Trump designated Antifa a domestic terrorist organization in 2025, and the Justice Department framed the convictions as part of a broader effort against what it described as a network seeking to overthrow the government and law enforcement. Critics on the left argued the sentences reflect an aggressive use of terrorism statutes against political protesters.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:28 AM MT",
+      "addedAtISO": "2026-06-24T07:28:09.395853-06:00",
+      "slot": 8
+    },
+    {
+      "category": "business",
+      "headline": "New Fed Chair Warsh Retreats From Decades of Transparency, Risking Higher Rates and Market Volatility",
+      "summary": "Federal Reserve Chair Kevin Warsh, who took over the central bank earlier this year, is sharply curtailing the Fed's communications with financial markets, reversing a decades-long trend toward greater transparency. At his first press conference last week, Warsh stripped the central bank's post-meeting statement of forward guidance — signals about future interest-rate moves — that markets had relied upon to anticipate Fed policy. His approach echoes that of former Chair Alan Greenspan, who died Monday at 100 and was the only predecessor Warsh praised at his swearing-in.\n\nAnalysts warn the shift carries tangible economic risks. Without clear Fed signals, bond and stock markets may swing more sharply, and borrowing costs for consumers and businesses could rise modestly — perhaps a quarter-point on mortgage rates, according to George Pearkes, global macro strategist at Bespoke Investment Group. Pearkes said forward guidance has historically \"suppressed volatility and anchored market expectations,\" leading to lower borrowing costs.\n\nWarsh has argued that markets have become too dependent on Fed direction and that such guidance is better reserved for financial crises or severe downturns. His philosophy represents a philosophical break from the approach of recent chairs, who moved toward greater openness in part at Congress's urging. The practical test will come at future Fed meetings as investors are left to interpret rate decisions without the roadmaps they have grown accustomed to.\n\nThe transition comes at a consequential moment, with inflation and the tariff-driven economic outlook already creating uncertainty. The Fed's independence has also been a source of tension with the Trump administration. How markets absorb Warsh's more opaque style in the coming months will be closely watched as a signal for whether reduced transparency measurably raises the cost of credit for households and businesses.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/warsh-federal-reserve-greenspan-inflation-economy-448828f7cc01932cc234ff47dd80be27",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:28 AM MT",
+      "addedAtISO": "2026-06-24T07:28:09.395853-06:00",
+      "slot": 8
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Trump Claims Vandalism at Reflecting Pool, Says 13 Arrested or Cited — AP Finds Evidence Contradicts Account",
+      "summary": "President Trump escalated his claims Tuesday that vandals deliberately damaged the Lincoln Memorial Reflecting Pool, asserting on social media that six people had been arrested and seven cited for causing a \"350-foot gash\" in the freshly painted liner — though he provided no supporting evidence and said images would be released to prove his account. The $14-million rehabilitation project drained the century-old pool, painted its bottom a color Trump called \"American flag blue,\" and became a focal point of preparations for the nation's 250th anniversary celebration next week.\n\nThe Associated Press, which verified events at the site, found that one man was arrested after briefly touching paint that was already peeling — he said he wanted to examine the new coating and released a still-attached chunk shortly after a park worker told him to stop. The U.S. Park Police and Interior Department did not respond to requests for comment on Trump's specific arrest claims. National Guard members and Park Police have been deployed around the pool's deck after Trump began blaming vandals over the weekend.\n\nThe pool has been beset by problems since its restoration, including persistent algae blooms and visible peeling of the new liner coating. Scientists and critics have pointed to the paint formula and application as contributing factors. Trump has consistently attributed the deterioration to deliberate sabotage, saying \"somebody had to work very hard, probably in the dark of night, to create such a condition.\"\n\nThe episode has become politically charged ahead of July 4 celebrations. Supporters of the renovation defend it as a patriotic upgrade to a national landmark, while critics argue the project was rushed, poorly executed, and that unsubstantiated vandalism claims are being used to deflect accountability for a flawed renovation funded by taxpayers.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/reflecting-pool-trump-algae-coating-park-police-d2ebb174e98913435d2108d60fb8de44",
+      "sourceCount": 7,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:28 AM MT",
+      "addedAtISO": "2026-06-24T07:28:09.395853-06:00",
+      "slot": 8
+    },
+    {
       "category": "science_health",
       "headline": "Update: France Confirms First Ebola Case in Europe as Congo Outbreak Surpasses 1,000 Infections",
       "summary": "France has confirmed its first case of Ebola, involving a doctor who returned from a humanitarian mission in the Democratic Republic of Congo. The physician was immediately admitted to a specialized medical facility and is reported to be in stable condition, according to the French health ministry. Authorities stressed the risk to the general public remains \"very low\" and are working to trace any contacts the doctor may have had.\n\nThe case marks the first confirmed Ebola infection on European soil, though an American doctor who tested positive in DRC was treated at a German hospital last month. The ongoing outbreak in DRC has now surpassed 1,000 infections and claimed more than 260 lives, with cases concentrated in the eastern provinces of Ituri, South Kivu, and North Kivu. Neighboring Uganda has also recorded 20 infections and two deaths.\n\nThe current outbreak is caused by the Bundibugyo species of the Ebola virus, for which no approved vaccine currently exists, complicating containment efforts. The World Health Organization has warned that active conflict in eastern DRC, where the M23 rebel group controls large areas, is significantly hampering the public health response. Africa CDC and U.S. public health authorities have described the outbreak as having the potential to become one of the largest ever recorded.\n\nFrance has established a dedicated monitoring system for aid workers returning from DRC and confirmed it is conducting contact tracing. The confirmation of a European case is likely to intensify pressure on international health bodies to accelerate response funding and logistics, particularly as previous U.S. foreign aid cuts — including USAID reductions — have been cited as hampering on-the-ground containment work in DRC.",
