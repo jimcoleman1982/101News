@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Ukraine Drone Strike Blacks Out Sevastopol as Crimea Faces Fuel Shortages",
+      "summary": "A large-scale Ukrainian drone assault struck Sevastopol's main power substation overnight, knocking out electricity across the largest city in Russian-occupied Crimea. Moscow-installed governor Mikhail Razvozhayev warned residents some areas would remain without power through Wednesday evening and urged people to conserve mobile phone battery and check on elderly neighbors. Ukraine's Unmanned Systems Forces commander said drones targeted 48 military sites during the operation, with explosions also reported in Bakhchisarai, Kerch, and near a Russian Aerospace Forces installation at Mount Ai-Petri.\n\nThe strike is part of an intensifying Ukrainian campaign to isolate and degrade Russian-held Crimea. Fuel shortages have already gripped the peninsula after Kyiv targeted supply lines; Russian-installed leader Sergei Aksyonov suspended all retail petrol sales on Sunday, reserving remaining supplies for government services. Panic-buying has broken out in some shops, with sugar reported in especially short supply.\n\nKyiv has separately struck a 200-drone attack on an oil refinery in the Moscow region, with residents reporting black oil specks raining onto streets. Russia's defense ministry claimed it destroyed more than 300 Ukrainian drones overnight, while Ukraine said it intercepted 95 of 101 Russian drones launched against its territory.\n\nThe new development today is the confirmed Sevastopol power blackout from the overnight strike, extending a pattern of Ukrainian infrastructure attacks designed to pressure President Putin toward negotiations. Crimea, annexed by Russia in 2014 and internationally recognized as Ukrainian territory, has become an increasingly direct target as the war grinds on.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:30 AM MT",
+      "addedAtISO": "2026-06-25T10:30:38.478388-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "House GOP Freezes Floor Action as Intraparty Dispute Over Elections Bill Stalls Legislation",
+      "summary": "House Republican leaders halted scheduled floor proceedings Thursday amid an internal dispute over elections legislation, placing a pending procedural vote on ice as Speaker Mike Johnson worked to determine next steps. The freeze reflects ongoing tensions within the House GOP caucus over the scope and timing of voting-related measures, coming days after President Trump canceled a housing bill signing and demanded voter ID legislation be attached as a condition.\n\nThe standoff adds to a pattern of Republican legislative gridlock in the House, where the party's narrow majority has made it difficult to advance key agenda items. Details of the specific dispute were not fully disclosed, but the halt signals that leadership lacks sufficient votes to move forward without further negotiations among factions.\n\nThe elections bill dispute intersects with the broader fight over the SAVE Act, a measure that would require proof of citizenship to register to vote, which Senate Republicans attempted to advance earlier this week before being blocked. A federal judge also recently blocked the Trump administration's use of a voter registration database to purge voter rolls.\n\nFor Democrats, the stalled legislation represents a continuation of what they characterize as Republican overreach on voting rights. Republicans argue the measures are necessary to ensure election integrity. The procedural freeze leaves the House schedule in uncertainty heading into the July 4th recess.",
+      "source": "Politico",
+      "url": "https://www.politico.com/congress-news-updates-analysis",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:30 AM MT",
+      "addedAtISO": "2026-06-25T10:30:38.478388-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Kenya Marks Two Years Since Deadly Anti-Government Protests With Arrests, Clashes, and Muted Demonstrations",
+      "summary": "Families of those killed during Kenya's 2024 anti-government protests gathered Thursday outside parliament in Nairobi to mark the two-year anniversary, laying flowers on barbed wire barricades erected by security forces. Police blocked key roads, arrested several demonstrators, and prevented families from placing wreaths at the parliament building itself. Turnout was significantly lower than during the original 2024 protests and the first anniversary demonstrations, though clashes broke out in parts of Nairobi, with security forces deploying tear gas and officers on horseback dispersing crowds.\n\nThe 2024 protests were sparked by youth-led opposition to controversial tax proposals and culminated in the storming of parliament and the eventual withdrawal of the finance bill. More than 80 people were killed and dozens injured during the demonstrations; a BBC investigation subsequently found that police had deliberately targeted protesters. No security officers have been held accountable for the deaths.\n\nIn Mombasa, hundreds of protesters marched through streets dressed in black and draped in Kenyan flags, carrying banners calling for justice and an end to extrajudicial killings. In Nairobi, central areas were largely deserted as security forces blocked access, stranding commuters, while many businesses and schools remained closed. Opposition leaders including Kalonzo Musyoka and Martha Karua joined families and activists at the parliament march.\n\n'All I want is for the government to bring the officers responsible for killing our children before us and let them apologise,' said Jacinta Anyango, whose 12-year-old son was killed during the 2024 clashes. President William Ruto's government has faced sustained pressure over accountability, with one mother saying the heavy police presence left her unable to 'express myself freely.'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:30 AM MT",
+      "addedAtISO": "2026-06-25T10:30:38.478388-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "Update: IAEA Chief Confirms Iran Nuclear Inspections Will Proceed Under Peace Deal",
       "summary": "International Atomic Energy Agency Director General Rafael Grossi confirmed Wednesday that nuclear inspections of Iranian sites will take place under the preliminary U.S.-Iran peace agreement, telling reporters in Japan: \"The inspections will indeed take place. We will be working on the modalities — dates, procedures, places — very soon.\" The announcement comes after days of contradictory signals, with U.S. Vice President JD Vance saying Iran had agreed to invite IAEA inspectors back, followed by an Iranian foreign ministry spokesman saying no such agreement had been reached.\n\nIran's deputy foreign minister complicated the picture further Wednesday, saying access to damaged nuclear facilities would only be addressed within the framework of a final deal — not the current preliminary agreement. Grossi acknowledged the dispute, saying \"there's a war of words here,\" but insisted the signed memorandum of understanding between both presidents explicitly calls for IAEA supervision of Iran's highly enriched uranium dilution.\n\nMeanwhile, U.S. Secretary of State Marco Rubio traveled to Kuwait and Bahrain to consult Gulf allies, pledging the U.S. would not agree to anything that undermined regional security. Rubio also stated the U.S. would not tolerate Iranian tolls on Strait of Hormuz shipping, and said negotiators were likely to meet again in Switzerland before the end of the month. Brent crude fell below $75 per barrel Wednesday for the first time since the U.S.-Israeli war on Iran began, reflecting cautious market optimism about the partial reopening of the strait.",
       "source": "BBC News",
