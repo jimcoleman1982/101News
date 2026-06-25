@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: IAEA Chief Confirms Iran Nuclear Inspections Will Proceed Under Peace Deal",
+      "summary": "International Atomic Energy Agency Director General Rafael Grossi confirmed Wednesday that nuclear inspections of Iranian sites will take place under the preliminary U.S.-Iran peace agreement, telling reporters in Japan: \"The inspections will indeed take place. We will be working on the modalities — dates, procedures, places — very soon.\" The announcement comes after days of contradictory signals, with U.S. Vice President JD Vance saying Iran had agreed to invite IAEA inspectors back, followed by an Iranian foreign ministry spokesman saying no such agreement had been reached.\n\nIran's deputy foreign minister complicated the picture further Wednesday, saying access to damaged nuclear facilities would only be addressed within the framework of a final deal — not the current preliminary agreement. Grossi acknowledged the dispute, saying \"there's a war of words here,\" but insisted the signed memorandum of understanding between both presidents explicitly calls for IAEA supervision of Iran's highly enriched uranium dilution.\n\nMeanwhile, U.S. Secretary of State Marco Rubio traveled to Kuwait and Bahrain to consult Gulf allies, pledging the U.S. would not agree to anything that undermined regional security. Rubio also stated the U.S. would not tolerate Iranian tolls on Strait of Hormuz shipping, and said negotiators were likely to meet again in Switzerland before the end of the month. Brent crude fell below $75 per barrel Wednesday for the first time since the U.S.-Israeli war on Iran began, reflecting cautious market optimism about the partial reopening of the strait.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 10,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:25 AM MT",
+      "addedAtISO": "2026-06-25T07:25:26.573190-06:00",
+      "slot": 8
+    },
+    {
+      "category": "politics",
+      "headline": "DSA-Backed Candidates Sweep New York Primaries, Including Candidate Who Called for Abolishing Police and Israel",
+      "summary": "Democratic Socialists of America-endorsed candidates won key New York City congressional primaries Tuesday, including Harlem community organizer Darializa Avila Chevalier, who defeated incumbent Rep. Adriano Espaillat — chairman of the Congressional Hispanic Caucus — in New York's 13th district. A second DSA-backed candidate, Claire Valdez, also won her primary. Given the heavily Democratic makeup of both districts, both candidates are widely expected to win their general election contests in November.\n\nAvila Chevalier's social media history, much of it since deleted, drew scrutiny during the campaign. Posts included calls to \"seize the means of production,\" abolish police \"full stop,\" eliminate borders and prisons, and statements suggesting \"Israel doesn't exist.\" CNN reported last month that her now-deleted account contained thousands of such posts. Her victory was boosted by an endorsement from New York City Mayor Zohran Mamdani.\n\nSupporters of the candidates argue their wins reflect genuine grassroots demand for transformative progressive representation in heavily working-class, majority-minority districts, and that Espaillat had grown out of touch with his constituents. Critics, including many centrist Democrats and Republicans, argue the results signal a continued leftward drift in the party that could pose broader electoral risks and raise serious questions about foreign policy and public safety positions heading into the general election cycle.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/news/n-y-socialist-called-for-eliminating-police-prisons-and-israel-now-shes-likely-headed-to-congress/amp/",
+      "sourceCount": 19,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:25 AM MT",
+      "addedAtISO": "2026-06-25T07:25:26.573190-06:00",
+      "slot": 8
+    },
+    {
+      "category": "technology",
+      "headline": "IBM Unveils Sub-1-Nanometer Chip Architecture Capable of Packing 100 Billion Transistors on a Fingernail-Sized Chip",
+      "summary": "IBM announced Wednesday a new chip architecture called NanoStack that the company says could enable 100 billion transistors to be packed onto a silicon chip the size of a fingernail — equivalent to approximately 0.7 nanometers, potentially the world's first known chip technology below the 1nm threshold. In prototype testing, IBM says the new chip performed 50 percent better and was 70 percent more energy efficient than its own current 2nm chip.\n\nThe breakthrough relies on a three-dimensional stacking approach, layering sheets of transistors on top of one another rather than continuing to miniaturize them horizontally — a strategy IBM compares to building skyscrapers instead of houses. Jay Gambetta, director of IBM Research, called it a \"landmark moment,\" saying the company is \"reinventing how chips are built.\" An independent computer scientist at Surrey University said IBM's approach puts it significantly ahead of closest rivals Samsung and Intel in 3D chip development.\n\nThe technology is not expected to reach commercial production for several years, and significant engineering challenges remain, including managing heat generated by stacked transistor layers. The advance is nonetheless significant for the computing and artificial intelligence industries, as the pace of transistor miniaturization — the basis of Moore's Law — has been widely expected to slow. More powerful, energy-efficient chips could accelerate AI data center capabilities and reduce energy consumption at scale.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:25 AM MT",
+      "addedAtISO": "2026-06-25T07:25:26.573190-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
       "headline": "Update: Venezuela Earthquake Death Toll Tops 160 as Rescue Efforts Continue",
       "summary": "Two back-to-back earthquakes measuring 7.2 and 7.5 in magnitude struck near Caracas on Wednesday evening, killing more than 160 people and injuring hundreds more. Authorities have warned the death toll is likely to rise significantly as rescuers have not yet reached some of the hardest-hit areas, with power and internet outages compounding the chaos.\n\nDebris is strewn across Caracas streets as rescue teams dig through collapsed buildings in search of survivors. Residents described the quakes as the most intense they had ever experienced, far worse than a 1967 tremor that killed more than 200 people. Some survivors, rendered functionally homeless, spent the night in the streets waiting for news of loved ones.\n\nThe earthquakes struck around 6 p.m. local time, seconds apart, catching many residents at home observing a national holiday. Eyewitness accounts describe buildings crumbling, loud crashes, and people heard calling for help beneath rubble. The full scale of destruction across affected regions outside Caracas remains unknown.",
       "source": "BBC News",
