@@ -3,6 +3,48 @@
   "dateFormatted": "Thursday, June 25, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: Supreme Court Hands Trump Major Immigration Wins, Allows Border Turnbacks and TPS Terminations",
+      "summary": "The Supreme Court ruled 6-3 along ideological lines Thursday in two sweeping immigration decisions that significantly expand the Trump administration's enforcement powers. In the first case, the court held that asylum seekers who have not physically set foot on U.S. soil cannot invoke the right to apply for asylum, effectively reviving the administration's so-called metering or turn-back policy at the southern border. In the second, the court ruled that federal judges cannot review presidential decisions to terminate Temporary Protected Status, clearing the way for the administration to strip protections from hundreds of thousands of Haitian and Syrian immigrants.\n\nThe TPS ruling directly affects more than 356,000 individuals from Haiti and Syria who have lived and worked legally in the United States, many for years or decades. Combined with other TPS designations, as many as 1.3 million people from 17 countries could eventually face deportation. Justice Samuel Alito wrote the majority opinion in both cases; liberal justices dissented sharply, with one writing that the rulings \"circumvent\" federal law.\n\nThe White House praised the decisions as major victories for border security and the rule of law. Congressional Republicans also cheered the rulings, though Rep. Mike Lawler (R-N.Y.) broke with his party to warn that ending Haitian TPS would \"create a crisis\" given conditions in Haiti. Democrats and immigration advocates called the decisions \"disastrous\" and \"cruel,\" arguing they leave millions vulnerable and undermine the U.S. asylum system.\n\nThe rulings come as the court nears the end of its term, with major decisions on birthright citizenship and the president's authority to fire Federal Reserve governors still pending. The immigration decisions are among the most consequential of the term and will immediately reshape enforcement operations at the southern border and inside the country.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/news/n-y-socialist-called-for-eliminating-police-prisons-and-israel-now-shes-likely-headed-to-congress/",
+      "sourceCount": 22,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:42 PM MT",
+      "addedAtISO": "2026-06-25T16:42:25.552848-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Supreme Court Also Strikes Down Hawaii Gun Law, Expanding Concealed Carry Rights on Private Property",
+      "summary": "In a third major 6-3 ruling Thursday, the Supreme Court struck down a Hawaii law that barred people from carrying firearms in stores, gas stations, and other privately owned public spaces unless the property owner gave explicit prior permission. The decision, written by Justice Samuel Alito, found that requiring advance permission from property owners constitutes an undue burden on the constitutional right to bear arms. Gun rights advocates hailed it as a landmark expansion of the Second Amendment.\n\nHawaii had crafted its statute specifically to survive the Supreme Court's 2022 Bruen test, which requires modern gun laws to be grounded in the nation's historical tradition of firearm regulation. The state argued the \"spirit of aloha\" and community-centered culture supported its restrictions. Alito's majority opinion took pointed aim at that argument. The ruling effectively means that in all 50 states, permit holders can carry firearms into privately owned businesses and public spaces unless owners post explicit bans.\n\nGun control advocates called the ruling \"deeply dangerous,\" warning it would make everyday public spaces less safe and make it nearly impossible for states to regulate where firearms may be carried. Supporters argued the decision correctly applies the Constitution's text and history, and that private property owners retain the right to ban guns by posting notices. The decision is expected to prompt legal challenges to similar laws in other blue states.\n\nThe trio of 6-3 rulings Thursday — on asylum, TPS, and guns — all fell along ideological lines, with the six conservative justices in the majority and the three liberal justices in dissent. The decisions collectively represent one of the most consequential single days of Supreme Court action in the current term.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/trump-america-250-rally-75e2bb4f4d2b3f7ab8cdddb86879bec7",
+      "sourceCount": 22,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:42 PM MT",
+      "addedAtISO": "2026-06-25T16:42:25.552848-06:00",
+      "slot": 18
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: European Heatwave Spreads East as France Raises Health Alert to Highest Level, Paris Hospitals Near Saturation",
+      "summary": "France raised its national health alert to its highest level Thursday as the deadly European heatwave intensified, with Prime Minister Sébastien Lecornu ordering boosted hospital staffing and expanded protections for vulnerable populations. Health Minister Stéphanie Rist warned that young and healthy people were also at serious risk, citing a fourfold spike in cardiac arrests handled by Paris ambulance services over a 24-hour period. Paris Mayor Emmanuel Grégoire said the city's mortality rate was rising and that Paris police chief Patrice Faure warned hospitals were \"reaching a saturation point.\"\n\nFrench authorities announced that alcohol consumption in public spaces in Paris would be restricted from noon Friday through Saturday morning in an effort to reduce hospital admissions. Three young children have been found dead in cars in the Paris region and southern France in recent days amid the extreme heat. MétéoFrance reported that Nantes reached 27.2 degrees Celsius overnight, with average minimum temperatures across France hitting 22 degrees — a figure that makes recovery during nighttime hours difficult.\n\nThe heat system is now shifting eastward. German meteorologists warned temperatures could hit 40 degrees Celsius in western and southwestern Germany on Thursday, extending across the country on Friday. An extreme weather warning is in place across much of the Czech Republic. United Nations climate change chief Simon Stiell said the heatwave bears \"the fingerprints of the climate crisis\" and called for faster adoption of renewable energy.\n\nThe new development Thursday — France's elevation to its highest health alert tier and the explicit warnings about young people's risk — marks a material escalation from prior reporting on the event. The heatwave has now killed at least 40 people across Europe, with the full toll expected to rise as heat-related deaths are often confirmed with a lag.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:42 PM MT",
+      "addedAtISO": "2026-06-25T16:42:25.552848-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Update: UN Pauses Hormuz Sailor Evacuations After Ship Attacked in Strait",
       "summary": "The United Nations International Maritime Organization has paused its effort to evacuate more than 11,000 stranded sailors from the Strait of Hormuz after Iran objected to the plan and a cargo ship was reportedly struck near Oman. The IMO had announced the evacuation operation only the day before, making the sudden halt a significant setback for efforts to restore normal shipping through one of the world's most critical maritime chokepoints.\n\nThe apparent attack on the vessel and Iran's objections underscore how fragile conditions remain in the strait even following the U.S.-Iran truce. Tens of thousands of sailors and billions of dollars in global trade have been affected by disruptions to Hormuz traffic, and any resumption of hostilities or interference with shipping could have cascading effects on global energy and commodity markets.\n\nThe development represents a concrete new escalation beyond previous coverage, which focused on the evacuation plan being announced and Rubio's warnings against tolls. The situation is fluid, with the IMO awaiting clarification before resuming operations.",
