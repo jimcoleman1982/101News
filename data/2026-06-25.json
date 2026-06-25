@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-25",
+  "dateFormatted": "Thursday, June 25, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Venezuela Earthquake Death Toll Tops 160 as Rescue Efforts Continue",
+      "summary": "Two back-to-back earthquakes measuring 7.2 and 7.5 in magnitude struck near Caracas on Wednesday evening, killing more than 160 people and injuring hundreds more. Authorities have warned the death toll is likely to rise significantly as rescuers have not yet reached some of the hardest-hit areas, with power and internet outages compounding the chaos.\n\nDebris is strewn across Caracas streets as rescue teams dig through collapsed buildings in search of survivors. Residents described the quakes as the most intense they had ever experienced, far worse than a 1967 tremor that killed more than 200 people. Some survivors, rendered functionally homeless, spent the night in the streets waiting for news of loved ones.\n\nThe earthquakes struck around 6 p.m. local time, seconds apart, catching many residents at home observing a national holiday. Eyewitness accounts describe buildings crumbling, loud crashes, and people heard calling for help beneath rubble. The full scale of destruction across affected regions outside Caracas remains unknown.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-25T05:08:20.720813-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Cancels Housing Bill Signing, Demands Voter ID Legislation First",
+      "summary": "President Trump abruptly cancelled a planned signing ceremony for the 21st Century ROAD to Housing Act on Wednesday, just hours before he was scheduled to formalize the bipartisan legislation into law. Trump posted on social media that he would withhold his signature until Congress passes the SAVE America Act, which contains stringent voter ID requirements. The housing bill had passed both chambers of Congress with rare bipartisan support.\n\nExperts had described the legislation as the most comprehensive congressional action on housing policy in the 21st century, containing more than 40 provisions targeting housing costs and supply. Some Republican lawmakers showed up to the signing ceremony only to learn from reporters it had been cancelled. Senate Majority Leader John Thune said he hoped Trump would eventually sign the bill, while Democratic co-sponsor Sen. Elizabeth Warren called the decision inexplicable given the cost pressures facing American families.\n\nUnder constitutional procedure, the bill could still become law without Trump's signature if he neither signs nor vetoes it within ten days and Congress remains in session. Trump, speaking at the White House, also argued that lowering interest rates — not new housing legislation — was the primary solution to housing affordability, a position at odds with most economists who warn rate cuts carry inflation risks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4dwz5vz5lo",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-25T05:08:20.720813-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Calls Republican Senator a 'Lunatic' in Heated Closed-Door Confrontation Over Iran War",
+      "summary": "President Trump clashed sharply with Sen. Bill Cassidy (R-La.) during a private Senate Republican lunch on Wednesday, calling the senator a 'lunatic' and repeatedly telling him to sit down after Cassidy challenged the administration's handling of the ongoing military conflict with Iran. Cassidy, one of four Republicans who backed a war powers resolution the previous day seeking to limit further U.S. military action against Iran, told Trump directly that the American public had not been adequately informed about a conflict now in its fourth month without its original objectives being met.\n\nThe confrontation was resolved within hours when Cassidy was invited to the White House for a classified briefing with Vice President JD Vance and Trump envoy Steve Witkoff. Following the briefing, Cassidy reversed course and voted against a similar war powers resolution that evening, which Republicans blocked. He thanked Vance and Witkoff for the 'thorough briefing' in a post on X.\n\nThe episode nonetheless highlighted growing unease among some congressional Republicans over transparency regarding U.S. involvement in Iran, and marked a rare instance of public dissent from a sitting GOP senator toward a president of his own party. Cassidy acknowledged he lost his temper during the exchange but said the confrontation reflected legitimate concerns that the American people deserve more information about the scope and goals of the Iran conflict.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/bill-cassidy-trump-senate-republican-lunch-703c5fa45438ecae75d53062eea3aa87",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-25T05:08:20.720813-06:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "Anthropic Accuses Alibaba of Running Largest-Ever AI Capability Extraction Campaign",
+      "summary": "U.S. artificial intelligence company Anthropic has accused Chinese tech giant Alibaba of conducting the largest known campaign to illicitly extract capabilities from an American AI model, according to a letter sent to U.S. senators. Anthropic said operators linked to Alibaba carried out nearly 29 million exchanges with its Claude AI system using thousands of fraudulent accounts in so-called 'distillation attacks,' which extract outputs from a more powerful AI model to train a weaker one at far lower cost.\n\nThe letter, dated June 10 and addressed to Sens. Tim Scott and Elizabeth Warren, accused Alibaba of targeting Claude's most valuable capabilities, including its ability to handle complex, long-horizon tasks and its decision-making approach. Anthropic said such attacks are conducted on an 'industrial scale' and amount to a massive subsidy for U.S. geopolitical competitors, effectively transferring hundreds of billions of dollars in American research and development investment. The letter also cited alleged attacks posing direct threats to U.S. military capabilities.\n\nAlibaba has not responded to requests for comment on the specific accusations. The development comes as Alibaba separately filed suit against the U.S. Pentagon this week seeking removal from a military blacklist — a designation the company has also denied. Anthropic's accusations add a new dimension to escalating U.S.-China tensions over AI technology, with OpenAI having previously accused Chinese groups of similar distillation practices.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-25T05:08:20.720813-06:00",
+      "slot": 5
+    }
+  ]
+}
