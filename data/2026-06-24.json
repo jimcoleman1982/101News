@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Double Earthquakes Strike Venezuela Near Caracas, Buildings Collapse with Mass Casualty Risk",
+      "summary": "Two powerful earthquakes struck Venezuela in rapid succession on Wednesday afternoon, with a 7.2-magnitude quake followed just 39 seconds later by a stronger 7.5-magnitude tremor. The U.S. Geological Survey warned that \"high casualties and extensive damage are probable and the disaster is likely widespread,\" estimating a 44% chance of more than 10,000 fatalities and a 30% chance of more than 100,000 deaths.\n\nVenezuelan Interior Minister Diosdado Cabello confirmed on state television that buildings had collapsed in Caracas, with the neighborhoods of Los Palos Grandes and Altamira among the worst affected. The quakes were felt hundreds of kilometers away in neighboring Colombia, including the capital Bogotá, where some buildings were evacuated as a precaution. A tsunami warning was issued for Venezuela's coast and the islands of Aruba and Bonaire but was later cancelled.\n\nThe disaster struck on a national holiday in Venezuela commemorating the 1821 Battle of Carabobo, meaning more residents than usual were at home when the quakes hit. The USGS noted significant risks of secondary hazards including landslides and soil liquefaction. Multiple Venezuelan states were reported affected, including Trujillo, Yaracuy, Carabobo, Aragua, Miranda and the capital district.\n\nVenezuela's infrastructure, already severely degraded after years of economic crisis, faces a formidable recovery challenge. Emergency services were placed on full alert as authorities began assessing the scope of damage across the affected regions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjegdqw5d3yo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-24T21:08:32.544808-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Postmaster General Confirms USPS Will Withhold Mail Ballots in States Refusing to Share Voter Data",
+      "summary": "Postmaster General David Steiner told a Senate Homeland Security and Governmental Affairs Committee on Wednesday that the U.S. Postal Service will no longer deliver mail-in ballots in states that refuse to provide sensitive voter data to the federal government, in line with a proposed Trump administration rule. Steiner confirmed the policy would withhold absentee and mail ballot lists from states declining to comply with federal data-sharing demands.\n\nThe announcement came on the same day a federal appeals court ruled that Michigan is not obligated to hand over unredacted voter data to the Trump administration. A divided three-judge panel for the 6th Circuit Court of Appeals held that Title III of the 1960 Civil Rights Act does not authorize the Justice Department to compel the state to provide such information, setting up a potential legal conflict with the new postal policy.\n\nSupporters of the administration's approach argue that voter data sharing is necessary to ensure election integrity and that states refusing federal oversight may be concealing irregularities. Critics and voting rights advocates contend the policy is an unconstitutional coercion of states and would disenfranchise millions of voters who rely on mail ballots, particularly the elderly, disabled, and military personnel overseas.\n\nThe policy carries significant implications for November's midterm elections, as mail voting has expanded substantially in recent election cycles. Several states are expected to challenge the rule in court if it is formally adopted, adding to a growing body of election-administration litigation heading into the fall campaign season.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5939636-trump-postal-service-voter-data/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-24T21:08:32.544808-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "General Chris Donahue, Last U.S. Soldier Out of Kabul, to Retire Early in Latest Senior Military Departure Under Hegseth",
+      "summary": "The U.S. Army confirmed Wednesday that General Chris Donahue, one of its most prominent senior officers, will retire early and leave his post as the top Army commander in Europe ahead of schedule. Donahue is historically notable as the last American soldier to depart Afghanistan in 2021 and previously led the Army's elite forces during deployments to Iraq and Afghanistan. He is the sixth Army three- or four-star officer to announce early retirement in roughly the past year and a half.\n\nThe departures follow a broader pattern under Defense Secretary Pete Hegseth, in which senior officers have been asked to resign, fired, or reassigned to lower-ranking commands. Jim McPherson, who served as Under Secretary of the Army during Trump's first term, described the situation as \"a very distressing pattern,\" noting that officers are being removed without public explanation or formal cause, departing from longstanding military tradition.\n\nSupporters of the administration's approach argue that civilian leadership has both the legal authority and the responsibility to shape military leadership to align with policy priorities, and that the secretary of defense has wide discretion over officer promotions and assignments. Critics, including McPherson, warn that the absence of transparent justification fuels speculation that removals are politically motivated, which they argue undermines military morale, institutional trust, and readiness.\n\nThe loss of experienced commanders like Donahue — whose career spanned two decades of combat leadership — raises questions about continuity in key commands, particularly the Army's European posture amid the ongoing war in Ukraine and continued NATO commitments.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/another-top-military-commander-resigns-following-clash-with-hegseth",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-24T21:08:32.544808-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
       "headline": "Update: Colombia Election Confirmed — Far-Right De la Espriella Declared Official Winner",
       "summary": "Colombian electoral authorities completed the legally binding vote verification Wednesday and confirmed Abelardo de la Espriella as the country's president-elect. The result ends days of uncertainty following a razor-thin initial count reported in earlier coverage. De la Espriella, a far-right candidate backed by former President Donald Trump, defeated his rival to succeed outgoing leftist President Gustavo Petro.\n\nDe la Espriella has pledged to reverse Petro's foreign policy, including rebuilding diplomatic and economic ties with the United States and Israel, which deteriorated sharply under Petro's administration. The election represents a significant rightward shift for one of South America's largest and most strategically important nations.\n\nThe outcome is expected to have regional implications, potentially realigning Colombia's posture on trade, security cooperation, and Venezuela policy. The United States under the Trump administration had closely monitored the vote, with Trump's public backing of de la Espriella making Colombia a high-profile test case for U.S. influence in Latin American electoral politics.",
       "source": "Bloomberg Politics",
