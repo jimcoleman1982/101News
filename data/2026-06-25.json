@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: UN Pauses Hormuz Sailor Evacuations After Ship Attacked in Strait",
+      "summary": "The United Nations International Maritime Organization has paused its effort to evacuate more than 11,000 stranded sailors from the Strait of Hormuz after Iran objected to the plan and a cargo ship was reportedly struck near Oman. The IMO had announced the evacuation operation only the day before, making the sudden halt a significant setback for efforts to restore normal shipping through one of the world's most critical maritime chokepoints.\n\nThe apparent attack on the vessel and Iran's objections underscore how fragile conditions remain in the strait even following the U.S.-Iran truce. Tens of thousands of sailors and billions of dollars in global trade have been affected by disruptions to Hormuz traffic, and any resumption of hostilities or interference with shipping could have cascading effects on global energy and commodity markets.\n\nThe development represents a concrete new escalation beyond previous coverage, which focused on the evacuation plan being announced and Rubio's warnings against tolls. The situation is fluid, with the IMO awaiting clarification before resuming operations.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/25/iran-ship-attacked-strait-hormuz-un-sailors-evacuation-paused",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "1:14 PM MT",
+      "addedAtISO": "2026-06-25T13:14:10.758862-06:00",
+      "slot": 14
+    },
+    {
+      "category": "business",
+      "headline": "Apple Raises Prices on Macs and iPads, Citing Soaring Memory and Storage Chip Costs",
+      "summary": "Apple has raised prices on multiple Mac and iPad product lines, citing sharply rising costs for memory and storage chips amid surging demand driven by the artificial intelligence boom. The price increases exceed $200 on some devices; the MacBook Neo, for example, rose from $599 to $699. Apple said it had 'never seen a component price increase this much, this quickly.'\n\nThe move signals that AI-driven demand for advanced semiconductors is beginning to push consumer electronics prices higher in a tangible way, affecting tens of millions of Apple customers. The increases come as Apple and other major tech companies race to integrate AI capabilities into their hardware, intensifying competition for high-bandwidth memory and NAND flash storage.\n\nThe price hikes are likely to draw scrutiny from consumers and policymakers already concerned about elevated inflation, and may pressure competitors to follow suit or absorb margin compression. The development also adds to a broader picture of AI infrastructure costs flowing through the supply chain to end users.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:14 PM MT",
+      "addedAtISO": "2026-06-25T13:14:10.758862-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Update: Ukraine Drone Strike Blacks Out Sevastopol as Crimea Faces Fuel Shortages",
       "summary": "A large-scale Ukrainian drone assault struck Sevastopol's main power substation overnight, knocking out electricity across the largest city in Russian-occupied Crimea. Moscow-installed governor Mikhail Razvozhayev warned residents some areas would remain without power through Wednesday evening and urged people to conserve mobile phone battery and check on elderly neighbors. Ukraine's Unmanned Systems Forces commander said drones targeted 48 military sites during the operation, with explosions also reported in Bakhchisarai, Kerch, and near a Russian Aerospace Forces installation at Mount Ai-Petri.\n\nThe strike is part of an intensifying Ukrainian campaign to isolate and degrade Russian-held Crimea. Fuel shortages have already gripped the peninsula after Kyiv targeted supply lines; Russian-installed leader Sergei Aksyonov suspended all retail petrol sales on Sunday, reserving remaining supplies for government services. Panic-buying has broken out in some shops, with sugar reported in especially short supply.\n\nKyiv has separately struck a 200-drone attack on an oil refinery in the Moscow region, with residents reporting black oil specks raining onto streets. Russia's defense ministry claimed it destroyed more than 300 Ukrainian drones overnight, while Ukraine said it intercepted 95 of 101 Russian drones launched against its territory.\n\nThe new development today is the confirmed Sevastopol power blackout from the overnight strike, extending a pattern of Ukrainian infrastructure attacks designed to pressure President Putin toward negotiations. Crimea, annexed by Russia in 2014 and internationally recognized as Ukrainian territory, has become an increasingly direct target as the war grinds on.",
       "source": "BBC News",
