@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Ukraine Launches One of Its Largest Ever Drone Assaults on Russia, Targeting Crimea and a Dozen Regions",
+      "summary": "Ukraine launched a massive overnight drone attack on Russia Friday, with Russian air defenses claiming to have intercepted 660 Ukrainian drones — the largest single Ukrainian drone assault on record, surpassing a previous high of 556 on May 17. Targets spanned a dozen Russian regions, Russian-held Crimea, and surrounding seas, according to Russia's Defense Ministry. Ukrainian President Volodymyr Zelensky had announced a '40-day influence operation,' believed to refer to a sustained long-range campaign.\n\nUkraine's Security Service said drones struck Russian naval vessels and air defense radars in the port city of Kerch in Crimea, targeting two reconnaissance and minelaying ships and a cargo-passenger ferry. Russian independent outlet Astra reported fires at a chemical plant and a hydroelectric plant in Novomoskovsk, though the AP could not independently verify the claims. Moscow Mayor Sergei Sobyanin said 47 drones were intercepted approaching the capital, reporting no casualties.\n\nThe escalating long-range drone campaign is part of Ukraine's strategy to choke Russian fuel supplies and military logistics, which Western officials and analysts say has stalled Moscow's battlefield efforts and increased pressure on President Vladimir Putin. The strike represents a significant escalation in the scale of Ukrainian offensive operations as the war enters its fifth year.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-ukraine-war-biggest-drone-attack-a356e2a119f3cb9422ede6acbedf56f3",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:01 PM MT",
+      "addedAtISO": "2026-06-26T13:01:14.318600-06:00",
+      "slot": 14
+    },
+    {
+      "category": "other",
+      "headline": "Mistrial Declared in Arson Case Over 2025 Palisades Fire That Killed 12 and Destroyed Thousands of Homes",
+      "summary": "A federal judge declared a mistrial Friday in the arson case against Jonathan Rinderknecht, 29, the man accused of sparking the deadly 2025 Palisades Fire in Los Angeles after the jury deadlocked 10-2 in favor of acquittal after 13 hours of deliberations. Prosecutors say they intend to retry the case before a new jury, with assistant U.S. attorney Bill Essayli stating the evidence is 'strong' that Rinderknecht ignited the fire on January 1, 2025.\n\nThe Palisades Fire ultimately killed 12 people and destroyed thousands of homes across Pacific Palisades and Malibu, making it one of the most destructive wildfires in California history. Prosecutors argued Rinderknecht, who was driving for Uber that night, started a fire at the Hidden Buddha clearing — a hiking spot near where he dropped off his last passenger — using security camera footage and geolocation data from his phone showing he was at the location around midnight.\n\nJuror No. 4, who voted not guilty, said there was 'just not enough proof,' and questioned whether firefighters bore some responsibility given that witnesses reported seeing smoldering in the area. Defense attorney Steve Haney called the 10-2 split a 'pretty resounding indication' of innocence. Rebuilding in Pacific Palisades has moved slowly, with only 17 homes certified for occupancy since the fire.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/mistrial-declared-after-jury-deadlocks-in-arson-trial-over-deadly-2025-palisades-fire-in-los-angeles",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:01 PM MT",
+      "addedAtISO": "2026-06-26T13:01:14.318600-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Update: Venezuela Earthquake Death Toll Climbs to 589 as Families Search Rubble Without Government Aid",
       "summary": "The death toll from Wednesday's back-to-back earthquakes in Venezuela has risen sharply to at least 589, up from earlier reports of 164, with thousands more injured and many still trapped beneath collapsed buildings across northern Venezuela. The 7.2 and 7.5 magnitude quakes struck late Wednesday, causing widespread destruction in the capital Caracas and the coastal state of La Guaira.\n\nTwo days after the disaster, desperate families in La Guaira are conducting their own searches through rubble, telling reporters they have not seen state rescue teams despite government claims of a robust response. Residents have been cutting through concrete slabs with power tools in search of trapped relatives, with scenes of grief playing out across flattened neighborhoods.\n\nActing President Delcy Rodríguez has declared a state of emergency, closed the Caracas airport, and suspended schools and nonessential services. President Trump pledged U.S. support and said he instructed all government agencies to prepare to move quickly; Secretary of State Marco Rubio announced the immediate deployment of search and rescue teams, medical resources, and humanitarian assistance.\n\nThe earthquakes rank among the strongest to strike Venezuela in more than a century. The gap between official accounts of the government response and what affected residents are reporting on the ground has drawn attention as a major developing dimension of the crisis.",
       "source": "Associated Press",
