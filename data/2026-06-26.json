@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-26",
+  "dateFormatted": "Friday, June 26, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Update: Trump Confronts GOP Sen. Cassidy Over Iran War Powers Vote, Then Grants Briefing",
+      "summary": "President Trump clashed openly with Sen. Bill Cassidy (R-LA) during a closed-door Republican Senate lunch Wednesday, calling the senator a \"lunatic\" after Cassidy stood to challenge Trump on the lack of congressional briefings about the ongoing Iran military operation. Cassidy, one of four Republicans who backed a war powers resolution the previous day seeking to limit further U.S. action against Iran, told Trump the operation had lasted four months rather than the promised four weeks and that original objectives had not been achieved. Trump repeatedly told Cassidy to sit down; Cassidy acknowledged losing his temper but said he matched Trump's tone.\n\nWithin hours of the confrontation, Cassidy received an invitation to the White House for a classified briefing with Vice President JD Vance and special envoy Steve Witkoff. After the briefing, Cassidy reversed course, casting a late-night vote against a similar war powers resolution — this time helping Republicans successfully block the measure.\n\nThe episode is a notable departure from the pattern of most congressional Republicans, who have largely avoided public confrontations with Trump during his second term. Cassidy's initial stand reflected growing unease among some GOP members about the scope and duration of military action against Iran without formal congressional authorization or robust public disclosure.\n\nThe exchange is a new development on previously covered tensions between Trump and Senate Republicans over Iran, with the Cassidy confrontation, subsequent White House briefing, and reversed vote all occurring Wednesday — materially changing the situation from prior coverage.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/bill-cassidy-trump-senate-republican-lunch-703c5fa45438ecaa75d53062eea3aa87",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-26T05:08:19.352221-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Ukraine Strikes Russian Natural Gas Plant and Satellite Centers in Escalating Long-Range Campaign",
+      "summary": "Ukrainian forces struck a major natural gas processing plant and two satellite communications centers inside Russia overnight, Ukraine's General Staff announced Wednesday. The strikes are part of an intensifying aerial campaign targeting Russian energy infrastructure and military industries as Kyiv deploys longer-range weapons of its own manufacture. Ukrainian President Volodymyr Zelenskyy said Russia has responded by redeploying some air defense systems from Russian regions to Moscow and to the Kerch Bridge in Crimea, a critical supply link for Russian forces.\n\nZelenskyy also warned that Russian President Vladimir Putin has been stepping up efforts to draw Belarus more deeply into the war, with Ukrainian officials ordering a mandatory evacuation of communities in the Chernihiv region bordering Belarus starting July 1. Zelenskyy has accepted an unconditional ceasefire proposed by President Trump; Putin has refused.\n\nThe strikes represent a continued escalation in Ukraine's strategy of hitting Russian territory to pressure Moscow's war economy, even as diplomatic efforts remain stalled. The redeployment of Russian air defenses to protect the Kerch Bridge suggests Kyiv's long-range strikes are achieving strategic effects on Russian logistics.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-ukraine-war-crimea-attacks-6076b6666c3312bbf9b4b8d875a52513",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-26T05:08:19.352221-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Judge Orders DOJ to Release Unredacted Epstein Files or Explain Why It Cannot by July 2",
+      "summary": "A federal judge in Washington, D.C., ordered the Justice Department on Thursday to release additional unredacted Jeffrey Epstein records or provide a legal explanation by July 2 for why they must remain sealed. U.S. District Judge Emmet Sullivan issued the preliminary injunction in a lawsuit filed by attorney and independent journalist Katie Phang, who alleges the DOJ failed to comply with records release obligations. The order targets specific high-interest documents, including at least eight email exchanges referenced in the Epstein files.\n\nThe ruling could force the public disclosure of previously withheld details from the Epstein investigation, or compel the government to publicly justify continued secrecy over specific materials. The Epstein files have been a subject of intense public interest, with Congress and various advocacy groups pressing for full transparency about the late financier's network and any potential co-conspirators.\n\nThe DOJ now faces a one-week deadline to act. If it cannot comply, it must present the court with a legally sufficient explanation — a process that would itself put the government's justifications for secrecy on the public record.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-26T05:08:19.352221-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Reflecting Pool Liner Was Cut With Sharp Knife, National Park Service Court Filing Says",
+      "summary": "A National Park Service official stated in a court filing Thursday that the liner of the Lincoln Memorial Reflecting Pool was damaged by a cut from a sharp knife or razor, providing the first official public account of how the pool was damaged. Deputy Director of Operations Frank Lands said a U.S. Park Police report documented the cut through caulk over foam sealant, as well as approximately 70 fence post tops thrown into the pool. Five people have been arrested and five others cited for vandalism in connection with the incident.\n\nPresident Trump had earlier this week claimed vandals caused \"a 300-foot-long gash\" and alleged fertilizer was put in the water, vowing to provide evidence in court. A previous AP review found that evidence contradicted elements of Trump's account. The NPS filing confirms physical damage occurred but does not specify when it happened or identify suspects.\n\nThe pool was drained and refitted with a tinted polyurea liner as part of a multi-million dollar renovation Trump ordered ahead of the nation's 250th anniversary. After being refilled, the pool experienced an algae bloom and discoloration issues. The NPS plans to drain it again after July 4th celebrations to conduct repairs and assess the full extent of damage to the liner.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-26T05:08:19.352221-06:00",
+      "slot": 5
+    }
+  ]
+}
