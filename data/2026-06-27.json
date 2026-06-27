@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: U.S. Strikes Iran Again After Ceasefire Violation; Iran Attacks Bahrain as Strait of Hormuz Crisis Deepens",
+      "summary": "The United States military conducted retaliatory strikes against Iranian missile and drone storage sites and coastal radar locations on Friday, hours after Iran attacked a Singapore-flagged cargo ship in the Strait of Hormuz on Thursday. President Trump called the drone strike a \"foolish violation\" of the memorandum of understanding signed last week declaring an end to the U.S.-Iran war. U.S. Central Command said the strikes concluded after approximately 90 minutes.\n\nIran responded by launching a drone attack against Bahrain early Saturday, targeting the Gulf state that hosts the U.S. Navy's Fifth Fleet. Bahrain condemned the strikes as a \"blatant violation\" of its sovereignty. Iran said its retaliatory actions were conducted under Article 51 of the UN Charter, citing the right to self-defense, and accused the U.S. of violating the ceasefire deal first.\n\nThe escalating exchanges have cast serious doubt over the durability of the peace agreement, which was signed just one week ago. Analysts say the deal is at risk of collapse, with the core dispute centering on differing interpretations of the MOU's provisions governing ship passage through the Strait of Hormuz. Vice President Vance said Friday that Iran \"signed a ceasefire agreement\" and that if Tehran had disagreements about how the MOU was being applied, it should \"pick up the phone.\"\n\nSeparately on Friday, the U.S., Israel, and Lebanon announced a trilateral framework agreement aimed at eventually ending Israel's occupation of southern Lebanon and reducing Iranian influence in the country through its support of Hezbollah. However, Hezbollah chief Hassan Nasrallah called the deal \"null and void,\" raising significant questions about whether the agreement can lead to lasting peace.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/tag/white-house",
+      "sourceCount": 27,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "10:11 AM MT",
+      "addedAtISO": "2026-06-27T10:11:37.451869-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Burkina Faso Severs Diplomatic Ties with France, Accusing Paris of Neo-Colonial Ambitions",
+      "summary": "Burkina Faso's military junta formally severed diplomatic ties with France on Friday, with communications minister Pingdwendé Gilbert Ouédraogo accusing Paris of \"ceaseless activism\" against the country and \"neo-colonial ambitions.\" The French foreign ministry called the decision \"hostile and unfounded\" and urged French nationals in the country to exercise \"heightened vigilance.\"\n\nRelations between the two countries have deteriorated sharply since Captain Ibrahim Traoré seized power in a coup in 2022 and pursued anti-Western policies, including expelling French troops that had been fighting alongside Burkinabe forces against an Islamist insurgency. The junta has since pivoted toward China and Russia.\n\nThe break marks the latest rupture between France and its former colonies in the Sahel region. Burkina Faso's neighbors Mali and Niger have followed similar trajectories, and in January 2025 the three countries formally broke away from the West African regional bloc ECOWAS to form the Alliance of Sahel States. France has had no ambassador in Burkina Faso since January 2023, and Ouagadougou expelled three French diplomats in 2024 on charges of subversive activities that Paris denied.\n\nThe junta's statement specified that the severance applied to the \"institutional framework of relations\" and did not affect historical, cultural, and social ties between the two peoples. The decision nonetheless represents a significant reshaping of West Africa's post-colonial security and diplomatic architecture, with broad implications for France's remaining influence across the continent.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:11 AM MT",
+      "addedAtISO": "2026-06-27T10:11:37.451869-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Andy Burnham Poised to Become UK Prime Minister, Faces Economic Constraints Despite Popular Mandate",
+      "summary": "Andy Burnham, the former mayor of Greater Manchester, was sworn into Parliament on Friday and is on course to become Britain's next prime minister after Keir Starmer's resignation Monday. Burnham is currently the sole contestant for the Labour Party leadership and is expected to take office on July 17 if no other candidates enter the race. His ascension would make him the seventh prime minister in a decade.\n\nBurnham is widely regarded as sitting to the left of Starmer within the Labour Party and has built a reputation for popular, hands-on governance during a decade leading Greater Manchester, a region that experienced significant economic revival under his tenure. However, political analysts warn he will be constrained by the platform Labour was elected on in 2024 and has pledged to revive the economy without exceeding current government spending and borrowing plans — a commitment aimed at reassuring markets still nervous following the 2022 Liz Truss fiscal crisis.\n\nHis main challenges will be overcoming Starmer's failure to deliver promised economic growth, repairing public services, and addressing the cost of living. He is expected to lay out his economic vision in a speech next week.\n\n\"At the moment, Andy Burnham is being almost hailed and held up as a folk hero that will save British politics,\" said Matthew Flinders, politics professor at the University of Sheffield. \"The tide is changing and the big issue for Andy Burnham is that when the world suddenly moves against him and he becomes a folk devil, will he sustain the pressure?\"",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/andy-burnham-distanced-himself-from-uk-prime-minister-starmer-but-may-be-stuck-with-his-policies",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:11 AM MT",
+      "addedAtISO": "2026-06-27T10:11:37.451869-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "DR Congo Files ICJ Case Against Rwanda Over Decades of Cross-Border Conflict",
       "summary": "The Democratic Republic of Congo filed a case against Rwanda at the International Court of Justice on Friday, accusing its neighbor of violating multiple international treaties by dispatching forces and backing armed groups to carry out unlawful military operations on Congolese territory. Congolese Justice Minister Guillaume Andali said his country is seeking accountability for alleged breaches of conventions covering genocide prevention, racial discrimination, women's rights, and torture.\n\nRwanda has not yet responded to the filing but has long dismissed evidence that it supports the M23 rebel group, which captured large parts of the mineral-rich eastern DRC, including the regional capital Goma, in January. UN experts and Western governments have stated that Rwanda backs M23. The fighting has continued despite a U.S.-brokered peace deal signed in December.\n\nThe roots of the conflict trace back to the 1994 Rwandan genocide, after which an estimated one million Hutus fled into what is now DR Congo, stoking ethnic tensions that have fueled successive armed conflicts and foreign interventions for over three decades. This is DR Congo's third attempt to bring Rwanda before the ICJ; previous cases were dropped or dismissed on jurisdictional grounds. The ICJ will now examine the claims and consider Congo's request that Rwanda cease alleged crimes and pay reparations.",
       "source": "BBC News",
