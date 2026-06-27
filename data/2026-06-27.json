@@ -3,6 +3,48 @@
   "dateFormatted": "Saturday, June 27, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "Millions Dropped ACA Coverage After Enhanced Subsidies Expired",
+      "summary": "Approximately four million Americans dropped Affordable Care Act health insurance plans this year after enhanced subsidies expired, according to new data released Friday by the Centers for Medicare and Medicaid Services. The figures represent the most comprehensive accounting to date of the enrollment fallout following Congress's failure to extend the enhanced subsidies, which had been in place since the COVID-19 pandemic era.\n\nWith the subsidies gone, many enrollees faced double- or even triple-digit percentage increases in their monthly premium payments, pricing them out of coverage. The CMS data release comes as congressional Republicans and the White House continue to debate the future of ACA funding and Medicaid in broader budget negotiations.\n\nSupporters of the ACA argue the enrollment collapse demonstrates the critical role federal subsidies play in making insurance accessible to lower- and middle-income Americans, and are calling for their restoration. Critics on the right contend the subsidy structure was an unsustainable expansion of federal spending and that market-based alternatives can better serve consumers over the long term.\n\nThe loss of coverage for four million people raises significant public health concerns, as uninsured individuals are less likely to seek preventive care and more likely to rely on emergency services. Health policy analysts say the figures will likely intensify debate over subsidy renewal ahead of the midterm elections.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/5943956-aca-enrollment-drop-subsidies/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:41 PM MT",
+      "addedAtISO": "2026-06-27T13:41:40.216488-06:00",
+      "slot": 14
+    },
+    {
+      "category": "other",
+      "headline": "Utah's Cottonwood Fire Grows to 144 Square Miles, Largest Active Blaze in U.S., Forcing New Evacuations",
+      "summary": "A fast-moving wildfire in southern Utah, the Cottonwood Fire, expanded overnight to more than 144 square miles, making it the largest active wildfire currently burning in the United States. Driven by gusts reaching 45 miles per hour and humidity levels in the single digits, the blaze forced additional evacuations across multiple communities and grounded air tankers and helicopters that crews depend on for aerial suppression.\n\nThe fire severely damaged the Eagle Point ski resort in Beaver County and forced closures of campgrounds in Fishlake National Forest. In the town of Marysvale, ash rained from skies darkened by smoke, and officials issued air quality warnings across a wide area. Two other fires in the region — the Iron and Cherry fires — merged overnight, together covering roughly 91 square miles and standing at 38 percent containment.\n\nA state meteorologist warned residents at a community meeting that Utah faces a full 48 hours of critical fire weather not seen in the state in five years. Utah state officials noted that Salt Lake City recorded its warmest winter on record earlier this year, with temperatures nearly 8 degrees above normal, contributing to the exceptionally dry conditions fueling the fires.\n\nNo fatalities or injuries have been reported so far. Smoke from the Cottonwood Fire was visible as far away as Colorado, though air quality at major tourist destinations such as Zion and Bryce Canyon national parks remained largely unaffected beyond some haze.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/fast-moving-fire-in-utah-the-largest-in-the-u-s-spreads-overnight-leading-to-more-evacuations",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:41 PM MT",
+      "addedAtISO": "2026-06-27T13:41:40.216488-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "California Reaches $351.7 Billion Budget Deal Including New Software Sales Tax",
+      "summary": "California Governor Gavin Newsom and top Democratic legislative leaders have reached agreement on a $351.7 billion state budget that includes a newly proposed tax on digital software sales. The deal represents one of the largest state budgets in U.S. history and comes as California works to close a significant fiscal gap.\n\nThe budget agreement arrives amid a broader political moment for Newsom, who separately called this week for a national \"billionaires' tax\" on the ultra-wealthy — a proposal that drew attention partly because it came just as a state-level wealth tax measure he opposes qualified for California's November ballot. Critics, including from the right, characterized the national proposal as political opportunism ahead of a widely expected 2028 presidential run.\n\nThe software sales tax component of the budget is a novel approach to broadening California's revenue base as the state's economy becomes increasingly digital. Business groups have raised concerns that taxing software transactions could harm the technology sector, a cornerstone of California's economy, while budget supporters argue it ensures digital commerce pays into public services at rates comparable to physical goods.\n\nThe budget deal is seen as a significant legislative milestone given the scale of California's fiscal challenges, though it will face scrutiny over whether the new revenue measures are sufficient to sustain long-term spending commitments. The state's decisions often signal broader policy trends that other states and the federal government eventually follow.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/california-leaders-agree-to-351-billion-budget-software-tax",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:41 PM MT",
+      "addedAtISO": "2026-06-27T13:41:40.216488-06:00",
+      "slot": 14
+    },
+    {
       "category": "world",
       "headline": "Update: U.S. Strikes Iran Again After Ceasefire Violation; Iran Attacks Bahrain as Strait of Hormuz Crisis Deepens",
       "summary": "The United States military conducted retaliatory strikes against Iranian missile and drone storage sites and coastal radar locations on Friday, hours after Iran attacked a Singapore-flagged cargo ship in the Strait of Hormuz on Thursday. President Trump called the drone strike a \"foolish violation\" of the memorandum of understanding signed last week declaring an end to the U.S.-Iran war. U.S. Central Command said the strikes concluded after approximately 90 minutes.\n\nIran responded by launching a drone attack against Bahrain early Saturday, targeting the Gulf state that hosts the U.S. Navy's Fifth Fleet. Bahrain condemned the strikes as a \"blatant violation\" of its sovereignty. Iran said its retaliatory actions were conducted under Article 51 of the UN Charter, citing the right to self-defense, and accused the U.S. of violating the ceasefire deal first.\n\nThe escalating exchanges have cast serious doubt over the durability of the peace agreement, which was signed just one week ago. Analysts say the deal is at risk of collapse, with the core dispute centering on differing interpretations of the MOU's provisions governing ship passage through the Strait of Hormuz. Vice President Vance said Friday that Iran \"signed a ceasefire agreement\" and that if Tehran had disagreements about how the MOU was being applied, it should \"pick up the phone.\"\n\nSeparately on Friday, the U.S., Israel, and Lebanon announced a trilateral framework agreement aimed at eventually ending Israel's occupation of southern Lebanon and reducing Iranian influence in the country through its support of Hezbollah. However, Hezbollah chief Hassan Nasrallah called the deal \"null and void,\" raising significant questions about whether the agreement can lead to lasting peace.",
