@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-27",
+  "dateFormatted": "Saturday, June 27, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Venezuela Earthquake Death Toll Reaches 920 as Families Search Rubble Without Government Aid",
+      "summary": "The death toll from Venezuela's back-to-back 7.2 and 7.5 magnitude earthquakes has climbed to at least 920, with more than 51,000 people reported missing nearly two days after the disaster struck. Citizens in the hardest-hit areas, particularly La Guaira just north of Caracas, have taken search and rescue operations into their own hands, reporting a near-absence of government rescue teams despite official statements projecting a robust state response.\n\nFamilies used hammers and power tools to cut through collapsed concrete slabs in search of buried relatives, as aid agencies warned that the critical 48-to-72-hour window for finding survivors alive was closing. Venezuelan authorities announced Friday night they would block access to La Guaira without official permits, citing chaos and traffic hampering search efforts — a move that drew alarm from residents already frustrated by inadequate help.\n\nActing President Delcy Rodríguez, who assumed leadership after the disaster, said the government was mounting a full response and welcomed international aid. Dozens of rescue teams from around the world have arrived or are en route. The disaster presents an enormous governance challenge for Venezuela, which was already facing a severe humanitarian and political crisis before the quakes struck.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/venezuela-caracas-guaira-earthquakes-dead-injured-missing-b07aff1cb886cfe616a0e89b3687b8b8",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-27T05:08:17.466858-06:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "U.S. Government Lifts Export Restrictions on Anthropic's Most Advanced AI Model",
+      "summary": "The U.S. government has lifted its export ban on Anthropic's Claude Mythos 5, its most powerful artificial intelligence model, allowing the company to share it with more than 100 select companies and partners. Commerce Secretary Howard Lutnick confirmed the decision in a letter to Anthropic, with the company stating the restrictions had been resolved after the Trump administration reviewed concerns about the technology's potential national security implications.\n\nSeparately, OpenAI announced Friday it will preview its newest GPT-5.6 model series — including variants named Sol, Terra, and Luna — with a select group of partners before a broader public rollout, also at the behest of the U.S. government. The coordinated approach signals a new framework in which Washington is actively managing the release cadence of frontier AI systems before they reach the wider market.\n\nThe moves represent a significant shift in federal AI policy, with the government playing a gatekeeper role for the most capable commercial AI models. The decisions follow months of tension between AI developers and regulators over dual-use risks, and come as the U.S. seeks to maintain competitive dominance over China in advanced AI development.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/5943549-anthropic-mythos-5-access/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-27T05:08:17.466858-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Religious Liberty Commission Report Calls for 'Building Bridges' Between Church and State",
+      "summary": "A draft final report from President Trump's Religious Liberty Commission, released Friday, calls for \"building bridges between church and state\" — language that represents a direct departure from the longstanding American legal doctrine of church-state separation rooted in the First Amendment's Establishment Clause. The report states that \"Americans must know their rights and stand with courage when those rights are challenged.\"\n\nThe commission's framing signals a continued push by the Trump administration to expand the role of religion in public life and government, building on prior executive actions including support for faith-based organizations receiving federal funding and the promotion of religious exemptions from federal regulations. Supporters argue the shift corrects what they see as decades of government hostility toward religious expression in the public square.\n\nCritics, including civil liberties groups and many constitutional scholars, contend that replacing separation with a \"bridges\" framework risks eroding protections against government establishment of religion and could disadvantage non-Christian or non-religious Americans. The report's recommendations are expected to inform future executive actions and potential legislative proposals on religious liberty.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5943239-building-bridges-church-state/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-27T05:08:17.466858-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Newsom Calls for National 'Billionaires' Tax' While Opposing Similar Measure in California",
+      "summary": "California Gov. Gavin Newsom, widely seen as a prospective 2028 presidential candidate, published a sweeping economic agenda Friday calling for a national minimum tax on individuals with a net worth above $100 million, new restrictions on borrowing against stock portfolios to avoid taxes, revised inheritance tax rules, and a restoration of corporate tax rates to pre-Trump levels. He also proposed a national public equity fund that would give every American a stake in artificial intelligence companies, arguing that AI-driven wealth concentration threatens democracy.\n\nThe announcement came one day after a major California health care union pledged to advance a state ballot measure imposing a one-time 5% tax on the assets of California-based billionaires — a measure Newsom opposes. He argues that taxing wealth at the state level is ineffective because billionaires can relocate to lower-tax states, and that the problem requires a federal solution. California, home to more billionaires than any other state, has seen repeated debates over whether high taxes drive out wealthy residents.\n\nNewsom's proposals align him with the Democratic Party's populist left and mark a clear positioning ahead of a potential presidential run. Conservatives have pointed to the contradiction of Newsom championing higher taxes nationally while blocking them in his own state, arguing it reflects political opportunism rather than coherent policy. Supporters counter that his logic — that only federal action can prevent billionaires from tax-shopping between states — is economically sound.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/newsom-urges-a-national-billionaires-tax-while-fighting-one-in-california",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-27T05:08:17.466858-06:00",
+      "slot": 5
+    }
+  ]
+}
