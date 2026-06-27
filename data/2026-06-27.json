@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "DR Congo Files ICJ Case Against Rwanda Over Decades of Cross-Border Conflict",
+      "summary": "The Democratic Republic of Congo filed a case against Rwanda at the International Court of Justice on Friday, accusing its neighbor of violating multiple international treaties by dispatching forces and backing armed groups to carry out unlawful military operations on Congolese territory. Congolese Justice Minister Guillaume Andali said his country is seeking accountability for alleged breaches of conventions covering genocide prevention, racial discrimination, women's rights, and torture.\n\nRwanda has not yet responded to the filing but has long dismissed evidence that it supports the M23 rebel group, which captured large parts of the mineral-rich eastern DRC, including the regional capital Goma, in January. UN experts and Western governments have stated that Rwanda backs M23. The fighting has continued despite a U.S.-brokered peace deal signed in December.\n\nThe roots of the conflict trace back to the 1994 Rwandan genocide, after which an estimated one million Hutus fled into what is now DR Congo, stoking ethnic tensions that have fueled successive armed conflicts and foreign interventions for over three decades. This is DR Congo's third attempt to bring Rwanda before the ICJ; previous cases were dropped or dismissed on jurisdictional grounds. The ICJ will now examine the claims and consider Congo's request that Rwanda cease alleged crimes and pay reparations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:04 AM MT",
+      "addedAtISO": "2026-06-27T08:04:13.776927-06:00",
+      "slot": 8
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Republican Ohio Governor Calls Supreme Court TPS Ruling 'A Mistake' as State Faces Haitian Migrant Uncertainty",
+      "summary": "Ohio Governor Mike DeWine, a Republican, publicly criticized the Supreme Court's Thursday ruling in Mullin v. Doe, which cleared the way for the Trump administration to end Temporary Protected Status for Haitians and Syrians residing in the United States. DeWine, whose state is home to more than 10,000 Haitian migrants — many in the Dayton and Columbus areas — called the decision a policy mistake, even while acknowledging it as a legal ruling.\n\nThe governor's dissent from his own party's position illustrates the practical tensions the ruling creates for Republican-led states that have absorbed large immigrant communities over recent years. DeWine has previously argued that Haitian immigrants have contributed economically and culturally to Ohio communities that were facing population decline.\n\nThe ruling represents one of the Trump administration's most significant immigration victories, with the Supreme Court also separately allowing border turnback policies. Supporters of the TPS terminations argue the protections were meant to be temporary and that their extension has become indefinite, incentivizing illegal immigration. Critics, including immigrant advocacy groups and some local officials, warn the decision could separate families and destabilize communities that have come to depend on these workers.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/5943042-ohio-gov-dewine-opposes-tps-ruling/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:04 AM MT",
+      "addedAtISO": "2026-06-27T08:04:13.776927-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Trump-Meloni Alliance Fractures Further After Trump Claims Italian PM 'Begged' for Photo",
+      "summary": "The once-celebrated political alliance between U.S. President Donald Trump and Italian Prime Minister Giorgia Meloni has deteriorated sharply following a series of public confrontations over the past several months. What began as one of the most closely watched partnerships in Western politics — Meloni held a front-row seat at Trump's January 2025 inauguration and later served as a key EU interlocutor during tariff negotiations — has fractured over Italy's refusal to allow U.S. military aircraft to use a NATO airbase in Sicily and Meloni's public rebuke of Trump's attack on Pope Leo XIV.\n\nThe latest rupture came after the G7 summit in Évian-les-Bains in France, where officials from both sides described a productive meeting and reduced tensions. Within days, Trump told an Italian broadcaster that Meloni had \"begged\" him for a photograph at the summit, saying he \"felt sorry for her\" — comments that were aired in Italy but never released in English. Meloni responded publicly and sharply.\n\nThe falling-out carries significant diplomatic weight. Meloni had positioned her closeness to Trump as evidence of her credibility on the international stage and as leverage in managing EU-U.S. relations on tariffs and other issues. Analysts note that Trump's unpredictability has repeatedly undermined European leaders who sought to cultivate personal ties with him. Italy is a NATO member and a major economy, and the relationship's deterioration complicates transatlantic coordination at a sensitive moment.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:04 AM MT",
+      "addedAtISO": "2026-06-27T08:04:13.776927-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
       "headline": "Update: Venezuela Earthquake Death Toll Reaches 920 as Families Search Rubble Without Government Aid",
       "summary": "The death toll from Venezuela's back-to-back 7.2 and 7.5 magnitude earthquakes has climbed to at least 920, with more than 51,000 people reported missing nearly two days after the disaster struck. Citizens in the hardest-hit areas, particularly La Guaira just north of Caracas, have taken search and rescue operations into their own hands, reporting a near-absence of government rescue teams despite official statements projecting a robust state response.\n\nFamilies used hammers and power tools to cut through collapsed concrete slabs in search of buried relatives, as aid agencies warned that the critical 48-to-72-hour window for finding survivors alive was closing. Venezuelan authorities announced Friday night they would block access to La Guaira without official permits, citing chaos and traffic hampering search efforts — a move that drew alarm from residents already frustrated by inadequate help.\n\nActing President Delcy Rodríguez, who assumed leadership after the disaster, said the government was mounting a full response and welcomed international aid. Dozens of rescue teams from around the world have arrived or are en route. The disaster presents an enormous governance challenge for Venezuela, which was already facing a severe humanitarian and political crisis before the quakes struck.",
       "source": "Associated Press",
