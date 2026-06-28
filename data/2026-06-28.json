@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Australian Man Charged With Murder After 17-Year-Old Girl's Body Found in Suitcase in Thailand",
+      "summary": "Thai police arrested Australian national Simon Peter Carman at Bangkok's Suvarnabhumi Airport in the early hours of Saturday after CCTV footage allegedly showed him entering a Pattaya condominium with 17-year-old Tunchanok Donhomla and later emerging alone carrying a large suitcase. The teenager's body was found stuffed in the bag near a railway track approximately 15 minutes after his airport arrest. Police said he was apprehended as he was allegedly preparing to flee the country.\n\nCarman was charged with murder along with additional charges related to moving or concealing a body and taking a minor for sexual purposes. He denied all charges and claimed to have acted in self-defense. In a video recorded while in custody, he told the victim's family, \"I feel bad for what happened to your daughter. It was out of my control,\" and added an admonishment for young women to \"be careful.\"\n\nThe victim's father described himself as \"deeply saddened\" by his daughter's death, while her stepmother said she wanted Carman to \"face the full consequences.\" Thai police in Pattaya said the girl had been reported missing Friday afternoon before the CCTV review led investigators to Carman.\n\nThe case has drawn significant international attention given the involvement of a foreign national, the victim's age, and the nature of the alleged crime in a major Thai tourist destination. Australian authorities have not yet issued a formal statement on the case.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:42 PM MT",
+      "addedAtISO": "2026-06-28T13:42:36.218625-06:00",
+      "slot": 14
+    },
+    {
+      "category": "business",
+      "headline": "More Than 50 House Members Warn South Korea's Proposed Platform Law Could Cost U.S. Economy $525 Billion",
+      "summary": "More than 50 House lawmakers, led by Rep. Darrell Issa, R-Calif., are pressing the Trump administration to confront South Korea over its proposed Online Platform Fairness Act, which the lawmakers say discriminates against American technology companies and tilts competitive advantages toward China-linked rivals. A model by the Competere Foundation estimates the legislation, if enacted, could result in $525 billion in lost U.S. economic activity over the next decade, including $123 billion in California, $48.7 billion in Texas, $33.9 billion in New York, and $27.4 billion in Washington state.\n\nThe bill, still pending in South Korea's National Assembly, would expand the powers of the Korea Fair Trade Commission to regulate transactions involving some American platform companies. It is backed by South Korean President Lee Jae-myung, whose Democratic Party holds a substantial National Assembly majority following the 2024 impeachment and removal of conservative President Yoon Suk-yeol. Issa said South Korea's trade commission now \"resembles the worst\" of the Biden-era Federal Trade Commission under Lina Khan.\n\nSome lawmakers have raised broader geopolitical concerns, with Issa warning that the current South Korean government's posture is \"closely aligned with China\" — an assertion that reflects growing unease in Washington over Seoul's orientation following the political transition. South Korea's government has not publicly responded to the congressional letter, and the legislation remains in an early stage.\n\nSupporters of platform regulation argue that dominant U.S. tech firms have engaged in anticompetitive behavior that harms local businesses and consumers, a rationale similar to regulatory efforts underway in the European Union and other jurisdictions. Critics counter that singling out American companies amounts to economic nationalism that could damage a key alliance and benefit Chinese competitors who face fewer regulatory constraints.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/south-koreas-proposed-platform-law-could-cost-us-states-525b-next-decade-model-estimates",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:42 PM MT",
+      "addedAtISO": "2026-06-28T13:42:36.218625-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Democratic Socialists Expand Footprint as Sen. Murphy Calls for Big-Tent Party; Mamdani Rejects Constitutional Change for Presidential Eligibility",
+      "summary": "Sen. Chris Murphy, D-Conn., argued Sunday that the Democratic Party should embrace democratic socialists as part of a broad coalition, saying \"capitalism isn't working\" for many Americans and that the party must confront concentrated corporate power. His comments came days after Democratic Socialists of America-backed candidates won a series of New York City primary races and as DSA-aligned figures set their sights on state and congressional contests in Colorado, Wisconsin, and elsewhere.\n\nNew York City Mayor Zohran Mamdani, the DSA-aligned democratic socialist who won the mayoral race last year, said Sunday he does not support amending the Constitution's requirement that presidents be natural-born U.S. citizens, even as his national profile has grown substantially. The 34-year-old, born in Uganda, told ABC News's \"This Week\" that the question of his own presidential eligibility under the current Constitution is moot as far as he is concerned.\n\nHouse Minority Leader Hakeem Jeffries congratulated DSA-backed nominees following the New York primaries, a move that drew criticism from the Republican Jewish Coalition and prompted pushback from some New York City union leaders who said the party is moving too far left and out of touch with working-class voters. The intraparty tension signals a significant ideological debate within the Democratic Party ahead of the 2026 midterms.\n\nRepublicans have sought to use the DSA's rise as a political liability for mainstream Democrats, arguing that embracing democratic socialism will alienate moderate voters in competitive districts. Progressives counter that bold economic populism is precisely what a party in opposition needs to mobilize a disaffected base and draw contrast with Republican governance.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/5944516-chris-murphy-corporate-power/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:42 PM MT",
+      "addedAtISO": "2026-06-28T13:42:36.218625-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Three Firefighters Killed Battling Wildfire on Colorado-Utah Border",
       "summary": "Three firefighters were killed and at least two others injured Saturday while battling an out-of-control wildfire on the Colorado-Utah border, authorities confirmed. The firefighters, described as smokejumpers, died responding to a series of blazes that originated in eastern Utah's Grand County before spreading into Colorado, where multiple fires merged.\n\nThe deaths add to a severe Western fire season driven by a warm winter that produced below-normal snowpack across the region. The Cottonwood Fire in Utah had already been listed as the largest active wildfire in the United States, and multiple blazes continued to burn across the arid border region as of Saturday.\n\nFirefighter fatalities in the line of duty are relatively rare and constitute a Tier 1 news event. The incident is being investigated by fire authorities to determine the precise circumstances of the deaths. No information on the victims' identities had been immediately released pending family notification.",
       "source": "NPR",
