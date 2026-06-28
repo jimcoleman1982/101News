@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-28",
+  "dateFormatted": "Sunday, June 28, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Trump-Backed Candidates Sweep Alabama Runoffs; D.C. Mayor Race Too Close to Call",
+      "summary": "President Trump's endorsement again proved decisive in Alabama Tuesday as Barry Moore won the Republican Senate primary runoff by nearly 14 points over Jared Hudson, defying pre-election polls that showed Hudson leading by wide margins. Moore attributed his victory directly to Trump's influence, saying older Alabama voters told him: \"If the president endorsed you, we're with you.\" The Associated Press called the race before the state's most populous county, Jefferson, had reported most of its results.\n\nDown-ballot, Trump-backed John Wahl won the Republican lieutenant governor primary, while Katherine Robertson secured the GOP attorney general nomination. Notably, Jay Mitchell — the state Supreme Court justice who authored a 2024 opinion declaring frozen embryos could be considered children, rattling the IVF industry — lost his Republican runoff for attorney general. Everett Wess, a former judge, won the Democratic Senate primary runoff but faces long odds in deep-red Alabama.\n\nIn Washington, D.C., the Democratic mayoral primary between democratic socialist Janeese Lewis George and moderate former councilman Kenyan R. McDuffie remained unresolved due to ranked-choice voting rules; a winner may not be declared for days or weeks. The D.C. race is among the most closely watched local contests of the cycle, testing whether progressive or moderate politics holds sway in the capital.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-washington-dc-primary.html",
+      "sourceCount": 23,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-28T05:08:25.199819-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: European Heatwave Sets All-Time Records Across Central and Eastern Europe as Infrastructure Buckles",
+      "summary": "The record-breaking heat wave that struck western Europe this week pushed into central and eastern Europe on Saturday, with Switzerland recording 38.8 degrees Celsius (101.8 F) in Basel and the Czech Republic logging its hottest day ever at 40.8 C (105.4 F) in the northern town of Doksany. Denmark's Meteorological Institute reported 37 C (98.6 F) north of Aarhus — the warmest temperature since records began in 1874. A new study released Saturday concluded the extreme heat would not have been possible without climate change.\n\nGermany bore significant infrastructure damage: sections of the Autobahn burst from the heat and had to be closed, rail operator Deutsche Bahn advised against all nonessential train travel, and dozens of nursing home residents in Dormagen were evacuated after interior temperatures reached 35 C (95 F). One resident died overnight, though authorities had not confirmed heat as the cause. France banned alcohol sales in Paris as multiple eastern towns recorded their highest-ever temperatures.\n\nThis update reflects materially new record-setting temperatures and infrastructure failures documented Saturday, extending a crisis that has strained health systems across the continent. England set a new record for its hottest June day for the third consecutive day, with a provisional 37.3 C in Santon Downham, and more than 1,400 schools across England and Wales closed fully or partially due to the heat.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/europe-heat-germany-france-uk-69b2d990486f4b645c9ad6ea4252888c",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-28T05:08:25.199819-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Uganda's Army Chief Orders Military Shutdown of Nation's Leading Independent Media Outlets",
+      "summary": "Gen. Muhoozi Kainerugaba, Uganda's army chief and son of President Yoweri Museveni, ordered the closure of the country's leading independent media outlets in the early hours of Sunday, deploying armed soldiers to surround the headquarters of the Nation Media Group in Kampala. Television stations NTV and Spark TV were taken off air, and the Daily Monitor newspaper reported staff were barred from entering or leaving the compound. The Nation Media Group is one of the most influential media organizations in East Africa.\n\nKainerugaba posted on X that he does not \"believe in a free press\" and that his father had given him \"the power to shut down any media house I want to.\" He declared that NTV and the Daily Monitor \"will not re-open without my permission\" and warned that \"ALL media in Uganda will follow the rules.\" The general has a history of inflammatory statements and is widely seen as being groomed to eventually succeed his 81-year-old father, who won a disputed seventh term in January.\n\nOpposition and human rights groups condemned the crackdown as emblematic of a repressive regime. Supporters of Museveni's government maintain that his administration has brought stability and economic growth to Uganda. The closure marks one of the most direct acts of military press suppression in the country's recent history, echoing a 2013 raid on the Daily Monitor and a 2007 forced shutdown of NTV.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-28T05:08:25.199819-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Alaska Judge Rules 'Copycat' Dan Sullivan Can Appear on Senate Primary Ballot Against Incumbent",
+      "summary": "A Superior Court judge in Alaska ruled Friday that a retired teacher named Dan J. Sullivan — sharing the same name and party affiliation as incumbent Republican U.S. Sen. Dan Sullivan — is eligible to appear on the August primary ballot. Judge Thomas Matthews overturned a June 15 decision by the Division of Elections that had disqualified the challenger, finding that the exclusion was based on an unstated \"good faith\" criterion not grounded in the state constitution, Alaska law, or the division's own regulations. State attorneys are appealing the ruling, with Tuesday as the deadline for a final decision so ballots can be printed for the Aug. 18 primary.\n\nThe incumbent senator and the National Republican Senatorial Committee have sharply condemned the challenger's candidacy, arguing it is designed to confuse voters and benefit Democratic former Rep. Mary Peltola, whom Sen. Sullivan faces as his main general-election opponent. The senator has accused the challenger of coordinating with Democrats and the Peltola campaign, allegations all parties have denied. Under Alaska's election system, the top four primary finishers advance to a ranked-choice November general election regardless of party.\n\nThe Alaska Senate race is considered one of roughly a half-dozen highly competitive Senate contests in 2026, with Democrats targeting the seat in their bid to recapture the majority. The presence of a same-name candidate in the primary raises questions about voter confusion and ballot integrity that could reverberate through the campaign season.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/alaska-senate-dan-sullivan-primary-ballot-01906fdc5d1eadf2e9b69c98baf1ec9a",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-06-28T05:08:25.199819-06:00",
+      "slot": 5
+    }
+  ]
+}
