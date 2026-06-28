@@ -3,6 +3,48 @@
   "dateFormatted": "Sunday, June 28, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Eleven Killed After Plane Carrying Skydivers Crashes Near Residential Area in Eastern France",
+      "summary": "A civilian aircraft carrying skydivers crashed in Tomblaine, a town in the Meurthe-et-Moselle department of eastern France, killing all 11 people aboard, local authorities confirmed Saturday. The dead included the pilot, five parachute students, and five instructors. The plane had taken off from the nearby Nancy-Essey airfield when it went down.\n\nThe aircraft fell almost vertically near a housing estate on the edge of the airfield, according to Yves Seguy, the prefecture's top official, who told French broadcaster BFM that it was fortunate no bystanders were killed. The crash site is close to a shopping centre, and police urged the public to avoid the area.\n\nFrench Transport Minister Philippe Tabarot called the incident a 'terrible tragedy' and said he and Interior Minister Laurent Nunez were travelling to the scene. Local officials noted that approximately half of the victims were nurses, according to Thierry Pechey, president of the regional branch of the Order of Independent Nurses. Relatives of the victims were present at the airfield when the crash occurred.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-28T08:08:23.478717-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Update: Venezuela Earthquake Survivors Describe Government Failure as Anger Grows in Caracas",
+      "summary": "Weeks after dual earthquakes struck Venezuela, survivors in Caracas and the coastal town of La Guaira are expressing deepening frustration at what they describe as an inadequate government response. Displaced residents report sleeping outdoors, with no contact from authorities. 'If I was 30 and not 50, then maybe. But I don't know where to begin. And so far, no-one in authority has contacted us,' said former police officer Jan Carlos Roa Garcia, whose building was rendered uninhabitable.\n\nIn the hardest-hit areas, described by one BBC correspondent as 'apocalyptic,' more than 100 buildings have been flattened and rescue crews continue working around the clock hoping to find survivors. Interim President Delcy Rodriguez's tour of the Chacao neighborhood was met with public anger, with residents shouting that the government was 'campaigning in the middle of a tragedy.' Residents say it is ordinary Venezuelans — not the state — providing mutual aid.\n\nInternational and Venezuelan rescue teams have continued to pull survivors from rubble, but hopes are fading and anger is growing, particularly in La Guaira. 'There are still people in there, we need machinery,' said one affected resident. The disaster is widely described by locals as the worst they have experienced in their lifetimes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-28T08:08:23.478717-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Budapest Holds First Pride March Since End of Orbán's 16-Year Rule",
+      "summary": "Thousands of people marched through Budapest on Saturday for the Hungarian capital's first Pride celebration since the fall of Viktor Orbán's government, which had governed for 16 consecutive years. The march carries particular symbolic weight because Orbán's administration had passed both legislation and a constitutional amendment banning the event, drawing widespread condemnation from human rights organizations and European Union officials.\n\nOrbán's nationalist-populist government fell more than a year ago, and the march represents one of the most visible public demonstrations of the shift in Hungary's political climate. The event drew participants from across the country and abroad, reflecting pent-up demand after years during which the event was legally prohibited.\n\nThe return of Budapest Pride is being closely watched across Central Europe as a signal of how quickly social and political norms can shift following the collapse of a long-entrenched government, and as EU institutions assess Hungary's trajectory after years of tension with Brussels over rule-of-law concerns.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-28T08:08:23.478717-06:00",
+      "slot": 8
+    },
+    {
       "category": "politics",
       "headline": "Trump-Backed Candidates Sweep Alabama Runoffs; D.C. Mayor Race Too Close to Call",
       "summary": "President Trump's endorsement again proved decisive in Alabama Tuesday as Barry Moore won the Republican Senate primary runoff by nearly 14 points over Jared Hudson, defying pre-election polls that showed Hudson leading by wide margins. Moore attributed his victory directly to Trump's influence, saying older Alabama voters told him: \"If the president endorsed you, we're with you.\" The Associated Press called the race before the state's most populous county, Jefferson, had reported most of its results.\n\nDown-ballot, Trump-backed John Wahl won the Republican lieutenant governor primary, while Katherine Robertson secured the GOP attorney general nomination. Notably, Jay Mitchell — the state Supreme Court justice who authored a 2024 opinion declaring frozen embryos could be considered children, rattling the IVF industry — lost his Republican runoff for attorney general. Everett Wess, a former judge, won the Democratic Senate primary runoff but faces long odds in deep-red Alabama.\n\nIn Washington, D.C., the Democratic mayoral primary between democratic socialist Janeese Lewis George and moderate former councilman Kenyan R. McDuffie remained unresolved due to ranked-choice voting rules; a winner may not be declared for days or weeks. The D.C. race is among the most closely watched local contests of the cycle, testing whether progressive or moderate politics holds sway in the capital.",
