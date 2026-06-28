@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Three Firefighters Killed Battling Wildfire on Colorado-Utah Border",
+      "summary": "Three firefighters were killed and at least two others injured Saturday while battling an out-of-control wildfire on the Colorado-Utah border, authorities confirmed. The firefighters, described as smokejumpers, died responding to a series of blazes that originated in eastern Utah's Grand County before spreading into Colorado, where multiple fires merged.\n\nThe deaths add to a severe Western fire season driven by a warm winter that produced below-normal snowpack across the region. The Cottonwood Fire in Utah had already been listed as the largest active wildfire in the United States, and multiple blazes continued to burn across the arid border region as of Saturday.\n\nFirefighter fatalities in the line of duty are relatively rare and constitute a Tier 1 news event. The incident is being investigated by fire authorities to determine the precise circumstances of the deaths. No information on the victims' identities had been immediately released pending family notification.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/28/g-s1-130737/wildfires-utah-colorado-firefighter-deaths-snyder",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "10:18 AM MT",
+      "addedAtISO": "2026-06-28T10:18:15.218669-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Israel Cabinet Votes to Recognize Armenian Genocide, Straining Turkey Ties Further",
+      "summary": "Israel's Cabinet voted unanimously on Sunday to designate the mass killing of Armenians by the Ottoman Empire during World War I as genocide, a historic policy shift that still requires approval by the Knesset to take full effect. Israeli Foreign Minister Gideon Saar, who brought the measure to the government, called it a \"moral and historical duty,\" noting that Prime Minister Benjamin Netanyahu and other Israeli leaders had previously described the events as genocide in personal statements but that no formal legislative recognition had ever occurred.\n\nHistorians estimate that up to 1.5 million Armenians were killed by Ottoman Turks around 1915 in what is widely regarded by scholars as the first genocide of the 20th century. Turkey fiercely contests the genocide designation, arguing the death toll has been inflated and that victims died in the context of broader wartime civil conflict. Turkey did not immediately respond to Sunday's vote.\n\nThe move reflects a sharp deterioration in Israeli-Turkish relations that has accelerated during the conflicts in Gaza, Lebanon, and Iran. The two countries were once close strategic allies, but ties soured over the rise of President Recep Tayyip Erdogan and have collapsed further in recent years. Israel now joins 32 other countries, including the United States, in formally recognizing the Armenian Genocide.\n\nThe timing carries additional diplomatic weight: Israel itself has faced repeated accusations from the United Nations and Turkey that its military campaign in Gaza constitutes genocide, charges Israel rejects. Critics may note the irony of the timing, while supporters argue formal historical recognition has long been overdue regardless of current political circumstances.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/israel-armenia-genocide-world-war-one/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:18 AM MT",
+      "addedAtISO": "2026-06-28T10:18:15.218669-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "Eleven Killed After Plane Carrying Skydivers Crashes Near Residential Area in Eastern France",
       "summary": "A civilian aircraft carrying skydivers crashed in Tomblaine, a town in the Meurthe-et-Moselle department of eastern France, killing all 11 people aboard, local authorities confirmed Saturday. The dead included the pilot, five parachute students, and five instructors. The plane had taken off from the nearby Nancy-Essey airfield when it went down.\n\nThe aircraft fell almost vertically near a housing estate on the edge of the airfield, according to Yves Seguy, the prefecture's top official, who told French broadcaster BFM that it was fortunate no bystanders were killed. The crash site is close to a shopping centre, and police urged the public to avoid the area.\n\nFrench Transport Minister Philippe Tabarot called the incident a 'terrible tragedy' and said he and Interior Minister Laurent Nunez were travelling to the scene. Local officials noted that approximately half of the victims were nurses, according to Thierry Pechey, president of the regional branch of the Order of Independent Nurses. Relatives of the victims were present at the airfield when the crash occurred.",
       "source": "BBC News",
