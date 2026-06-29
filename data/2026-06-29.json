@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, June 29, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "Comcast to Spin Off NBCUniversal in Major Media Restructuring",
+      "summary": "Comcast announced Monday it will spin off its NBCUniversal assets into a separate publicly traded company, one of the largest restructurings in American media in years. The spinoff would separate Comcast's broadband, wireless, and cable entertainment operations from NBCUniversal's broadcast and film properties, including NBC, Telemundo, Universal Pictures, Peacock, and Bravo.\n\nUnder the plan, existing Comcast shareholders would receive shares in both the new NBCUniversal entity and the restructured Comcast company. The move follows a broader trend of media conglomerates separating legacy broadcast and content assets from more stable and profitable infrastructure businesses such as internet and wireless services.\n\nThe decision reflects mounting pressure on traditional media companies as streaming competition intensifies, advertising revenue from linear television declines, and broadband infrastructure becomes the more reliable growth engine. NBCUniversal has faced particular challenges scaling Peacock against dominant rivals such as Netflix and Disney+.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/media/5945551-comcast-spins-off-nbc/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:06 AM MT",
+      "addedAtISO": "2026-06-29T10:06:48.994447-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Update: Paris Mortuaries Overwhelmed as France's Heat Wave Death Toll Mounts",
+      "summary": "France's ongoing record-breaking heat wave has overwhelmed funeral homes and morgues in Paris and surrounding regions, with mortuary directors reporting cold storage facilities completely full and hundreds of unanswered calls from grieving families seeking space for the dead. Public Health France confirmed that deaths surged to more than 1,200 on the heat wave's peak day last Wednesday, rising to more than 1,400 on each of the two following days — roughly 50 percent above France's typical daily death rate of 900 to 1,000.\n\nThe national public health agency's preliminary estimate of at least 1,000 additional deaths during the three-day peak is expected to rise significantly as more death certificates are registered in coming weeks. The toll falls disproportionately on elderly people living alone at home, particularly in the Paris region. A rapid study by the World Weather Attribution scientific consortium found the heat would have been virtually impossible five decades ago and is now 200 times more likely than it was 20 years ago due to climate change.\n\nAs France begins tallying its human cost, the heat wave has moved eastward. Germany, Poland, and the Czech Republic all set all-time temperature records over the weekend, with the Czech Republic reaching 41.9 degrees Celsius (107.4 Fahrenheit). The World Health Organization warned that Europe is now the fastest-warming continent and called for stronger measures to protect citizens from extreme heat.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/france-europe-heat-wave-weather-climate-change-a9095af72d14cfdd9ca43637490083e9",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:06 AM MT",
+      "addedAtISO": "2026-06-29T10:06:48.994447-06:00",
+      "slot": 11
+    },
+    {
+      "category": "other",
+      "headline": "NBA Player Malik Beasley Indicted on Federal Charges for Allegedly Fixing His Own Performances",
+      "summary": "Former NBA guard Malik Beasley has been indicted on federal charges by a grand jury in the Eastern District of New York, accused of intentionally altering his on-court performance to benefit sports bettors in an alleged scheme that prosecutors say ran from December 2023 through April 2024. Beasley played for the Milwaukee Bucks during the period covered by the indictment.\n\nAlso charged are former NBA player Ed Davis, current player agent Paolo Zamorano, and three other men. The indictment includes counts of conspiracy to commit wire fraud, sports bribery, honest services wire fraud conspiracy, and money laundering conspiracy. Prosecutors allege Beasley communicated his intended underperformance to co-conspirators, who then placed wagers on his statistical prop bet lines in specific games, including matchups against Cleveland, Charlotte, and the Los Angeles Clippers.\n\nU.S. Attorney Joseph Nocella Jr. said the scheme \"erodes the integrity of American sports and victimizes the sports-watching public.\" Four defendants were arrested Monday morning and are set for arraignment in Brooklyn. Beasley and Zamorano were not in custody as of Monday; Beasley's attorney said his client would arrange a voluntary surrender this week.",
+      "source": "Fox News Latest",
+      "url": "https://www.foxnews.com/sports/malik-beasley-indicted-federal-charges-allegedly-fixing-nba-performances-bettors",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:06 AM MT",
+      "addedAtISO": "2026-06-29T10:06:48.994447-06:00",
+      "slot": 11
+    },
+    {
       "category": "politics",
       "headline": "Update: U.S.-Iran Peace Talks Resume Tuesday in Qatar as Both Sides Halt Weekend Strikes",
       "summary": "President Trump announced Monday that the United States and Iran will hold a new round of peace talks Tuesday in Doha, Qatar, after both sides agreed to halt a series of tit-for-tat attacks over the weekend that had threatened to collapse the fragile 60-day ceasefire framework. Trump said on Truth Social that Iran had requested the meeting, though Iranian officials had not publicly confirmed participation as of Monday. The weekend exchanges included fresh U.S. strikes and Iranian attacks on targets in Bahrain and Kuwait.\n\nIranian President Masoud Pezeshkian separately announced that Qatar will release $6 billion of the roughly $12 billion in frozen Iranian assets held there, a development that could serve as a confidence-building measure ahead of Tuesday's negotiations. Iran also resumed scheduled commercial flights to Dubai for the first time since the conflict began in late February, a signal that both sides are seeking to dial back hostilities.\n\nThe renewed talks come days after Vice President JD Vance had announced that the two countries had reached a foundation for a lasting peace deal. The Strait of Hormuz remains at the center of tensions, with Iran viewing its ability to threaten the waterway as critical leverage. Senator Bill Cassidy (R-La.) separately criticized Trump's handling of the Iran conflict, accusing the president of treating Congress as \"merely an appendage\" in his conduct of the war.\n\nAnalysts note that ending the now five-month-old conflict remains deeply complicated. Iran's nuclear program and missile arsenal were left intact under the April ceasefire, and reconstruction funding unlocked by that agreement has drawn criticism from hawkish voices on both sides of the aisle who warn that a partial resolution could leave a wounded but still dangerous adversary.",
