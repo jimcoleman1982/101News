@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, June 29, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: U.S.-Iran Peace Talks Resume Tuesday in Qatar as Both Sides Halt Weekend Strikes",
+      "summary": "President Trump announced Monday that the United States and Iran will hold a new round of peace talks Tuesday in Doha, Qatar, after both sides agreed to halt a series of tit-for-tat attacks over the weekend that had threatened to collapse the fragile 60-day ceasefire framework. Trump said on Truth Social that Iran had requested the meeting, though Iranian officials had not publicly confirmed participation as of Monday. The weekend exchanges included fresh U.S. strikes and Iranian attacks on targets in Bahrain and Kuwait.\n\nIranian President Masoud Pezeshkian separately announced that Qatar will release $6 billion of the roughly $12 billion in frozen Iranian assets held there, a development that could serve as a confidence-building measure ahead of Tuesday's negotiations. Iran also resumed scheduled commercial flights to Dubai for the first time since the conflict began in late February, a signal that both sides are seeking to dial back hostilities.\n\nThe renewed talks come days after Vice President JD Vance had announced that the two countries had reached a foundation for a lasting peace deal. The Strait of Hormuz remains at the center of tensions, with Iran viewing its ability to threaten the waterway as critical leverage. Senator Bill Cassidy (R-La.) separately criticized Trump's handling of the Iran conflict, accusing the president of treating Congress as \"merely an appendage\" in his conduct of the war.\n\nAnalysts note that ending the now five-month-old conflict remains deeply complicated. Iran's nuclear program and missile arsenal were left intact under the April ceasefire, and reconstruction funding unlocked by that agreement has drawn criticism from hawkish voices on both sides of the aisle who warn that a partial resolution could leave a wounded but still dangerous adversary.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5944338-iran-us-meeting-qatar-assets/",
+      "sourceCount": 18,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-29T08:08:18.693198-06:00",
+      "slot": 8
+    },
+    {
+      "category": "politics",
+      "headline": "Supreme Court Rejects Trump Bid to Overturn $5 Million E. Jean Carroll Verdict",
+      "summary": "The Supreme Court on Monday declined to hear President Trump's appeal of the jury verdict finding him liable for sexually abusing and defaming writer E. Jean Carroll, leaving intact the $5 million civil award. The court issued a brief, unexplained order denying the petition, which is standard practice when the justices decline to take up a case. The ruling means Carroll is in line to collect the full award.\n\nA unanimous federal jury had found that a preponderance of the evidence supported Carroll's claim that Trump sexually abused her in a Manhattan department store dressing room in the mid-1990s and later defamed her. Trump has consistently denied the allegations, calling them false and politically motivated. He had sought to have the verdict thrown out after years of legal challenges.\n\nThe decision is a significant legal setback for the sitting president, closing off a final avenue for overturning the jury's findings through the nation's highest court. Trump's legal team had argued the case should be revisited on procedural and substantive grounds. Carroll's attorneys argued the jury's verdict was well-supported by the evidence and should stand.\n\nThe ruling comes as the Supreme Court also prepares to issue opinions this week on birthright citizenship and the president's authority to dismiss the head of the Federal Reserve — two cases with far broader policy implications for the Trump administration.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/29/trump-carroll-supreme-court",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-29T08:08:18.693198-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Five Killed in Shooting at Youth Welfare Centre in Northern Germany",
+      "summary": "Five people were killed and several others injured in a shooting at a youth welfare center in Stade, a city of roughly 50,000 people located about 30 kilometers west of Hamburg, German police said Monday. Two people were arrested in connection with the attack, one of whom is considered a suspect. Authorities said there was no further threat to the public.\n\nPolice described the incident as involving \"homicides with multiple victims\" at a youth welfare facility, without providing details on the ages of the victims or a possible motive. Large numbers of emergency personnel were deployed to the scene, and the public was urged to avoid the area while the investigation continued.\n\nThe attack is the latest mass shooting incident in Germany, a country that has faced a series of high-profile public violence events in recent years, including the 2024 Magdeburg Christmas market attack that killed six. German authorities have faced ongoing debate over security measures at public facilities and the handling of individuals with mental health histories.\n\nFurther details on the identities of the victims, the suspect's background, and the circumstances of the attack were not immediately available. Investigators were expected to provide an update later Monday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-06-29T08:08:18.693198-06:00",
+      "slot": 8
+    },
+    {
       "category": "world",
       "headline": "Update: European Heatwave Kills 1,000 Additional in France as Records Fall Across Central Europe",
       "summary": "France's national public health agency reported Sunday that the country experienced at least 1,000 additional deaths during just three days at the peak of its record-breaking heatwave last week. Daily death totals surpassed 1,200 on Wednesday and exceeded 1,400 on each of the two following days, compared to a baseline of roughly 900 to 1,000 deaths per day in the weeks prior. The surge was especially acute in private homes in the Paris region.\n\nThe heatwave has now moved eastward, setting all-time national temperature records in multiple countries over the weekend. Germany recorded 41.7°C (107°F) for a third consecutive day, Poland hit a new national high of 40.5°C (104.9°F), and the Czech Republic reached 41.9°C (107.4°F), surpassing its previous record set just the day before. Wildfires broke out in Germany, and Berlin police used water cannons to cool crowds.\n\nThe World Health Organization's director-general warned Sunday that Europe is now the fastest-warming continent and must do more to protect its citizens. A rapid attribution study published Friday by the World Weather Attribution consortium concluded the heatwave would have been virtually impossible without climate change and is approximately 200 times more likely today than it was 20 years ago.",
