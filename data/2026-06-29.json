@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-29",
+  "dateFormatted": "Monday, June 29, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: European Heatwave Kills 1,000 Additional in France as Records Fall Across Central Europe",
+      "summary": "France's national public health agency reported Sunday that the country experienced at least 1,000 additional deaths during just three days at the peak of its record-breaking heatwave last week. Daily death totals surpassed 1,200 on Wednesday and exceeded 1,400 on each of the two following days, compared to a baseline of roughly 900 to 1,000 deaths per day in the weeks prior. The surge was especially acute in private homes in the Paris region.\n\nThe heatwave has now moved eastward, setting all-time national temperature records in multiple countries over the weekend. Germany recorded 41.7°C (107°F) for a third consecutive day, Poland hit a new national high of 40.5°C (104.9°F), and the Czech Republic reached 41.9°C (107.4°F), surpassing its previous record set just the day before. Wildfires broke out in Germany, and Berlin police used water cannons to cool crowds.\n\nThe World Health Organization's director-general warned Sunday that Europe is now the fastest-warming continent and must do more to protect its citizens. A rapid attribution study published Friday by the World Weather Attribution consortium concluded the heatwave would have been virtually impossible without climate change and is approximately 200 times more likely today than it was 20 years ago.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/europe-heat-temperature-records-france-deaths-germany-61f444317600cf1bd9af5af84cb582bd",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:05 AM MT",
+      "addedAtISO": "2026-06-29T03:05:55.433268-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Ukraine Strikes Russian Oil Refinery as Putin Admits Fuel Shortages for First Time",
+      "summary": "Ukraine continued its intensified long-range drone campaign against Russian energy infrastructure on Sunday, setting fire to a major oil refinery in Slavyansk-na-Kubani in Russia's Krasnodar region. Regional authorities confirmed falling debris killed one person and wounded another. Ukrainian President Volodymyr Zelenskyy said the strikes hit two oil refineries over the weekend, calling them \"long-range sanctions\" that reduce resources fueling the Russian war machine.\n\nIn a notably candid admission, President Vladimir Putin acknowledged for the first time that Russia faces a \"certain deficit\" of fuel as a result of Ukrainian strikes. The attacks have caused widespread shortages, long lines at gas stations, and fuel rationing across multiple Russian regions. Western analysts say the campaign has also slowed Russian battlefield advances and increased pressure on Moscow to negotiate.\n\nPutin rejected Ukrainian proposals that were disclosed publicly for the first time Sunday, including an offer to halt deep strikes and to limit fighting to the four regions Russia annexed but never fully captured. He argued the proposals would allow Ukraine to redeploy forces and create negotiating conditions favorable to Kyiv. Putin insisted the strikes have \"absolutely no effect\" on front-line operations, a claim that his own admission of fuel shortages appeared to undercut.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/ukraines-drone-set-another-russian-oil-refinery-ablaze-as-putin-admits-fuel-shortages",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:05 AM MT",
+      "addedAtISO": "2026-06-29T03:05:55.433268-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "South Africa Senior Police Intelligence Official Shot in Johannesburg Days Before Corruption Inquiry Appearance",
+      "summary": "Maj-Gen Feroz Khan, deputy head of South Africa's crime intelligence division, was shot Sunday evening while driving home in Johannesburg and rushed to hospital for emergency surgery. The shooting occurred just days before Khan was scheduled to appear before the Madlanga Commission, a public inquiry established to investigate alleged infiltration of the police service by organized crime.\n\nKhan was already facing serious legal jeopardy before the shooting. He and two other individuals were arrested last month on charges of illegal dealing in and unlawful possession of precious metals, stemming from a 2021 incident at OR Tambo International Airport. Prosecutors allege Khan instructed officers to release a businessman caught with unwrought gold, and that no legitimate undercover operation existed at the time.\n\nSouth African police spokesperson Brig Athlenda Mathe said in a statement that an investigation is underway but cautioned against speculation about motive, calling it \"premature and irresponsible\" to link the shooting to Khan's upcoming commission appearance. The Madlanga Commission was created after a senior officer alleged last year that organized crime had penetrated the government at senior levels.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:05 AM MT",
+      "addedAtISO": "2026-06-29T03:05:55.433268-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Mother and Newborn Rescued from Venezuela Earthquake Rubble Speak to Media",
+      "summary": "Dayana Patino, the Venezuelan mother pulled from the rubble of her collapsed apartment building with her 18-day-old son Juan David, gave her first detailed account of the ordeal Sunday from a clinic in Caracas. She described being thrown through the air when the earthquakes struck, landing in a pit with her left leg trapped under concrete and her temple pressed against a rock, while holding her infant throughout. She said she rationed her energy and screamed only when she heard voices nearby.\n\nPatino said her baby kept her focused on survival. \"As long as he was alive, I was going to be alive,\" she told the BBC, recounting that she repeatedly touched her son's nose in the darkness to confirm he was breathing. Her brother eventually heard her cries and organized a delicate rescue operation that brought both mother and child out of the rubble on Thursday night. Juan David sustained only minor injuries; Patino suffered injuries to both legs.\n\nThe rescue became widely shared internationally and the infant has become a symbol of hope amid Venezuela's ongoing disaster response. The country's twin earthquakes have killed at least 1,450 people, with tens of thousands still missing. Authorities have described it as the most severe natural catastrophe in Venezuela's history, and search teams have warned that hopes of finding additional survivors are diminishing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:05 AM MT",
+      "addedAtISO": "2026-06-29T03:05:55.433268-06:00",
+      "slot": 5
+    }
+  ]
+}
