@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Fourteen Killed in Aramco Helicopter Crash at Major Saudi Oil Refinery",
+      "summary": "A helicopter belonging to Saudi state oil giant Aramco crashed Sunday morning in Ras Tanura, a major oil hub on Saudi Arabia's eastern coast, killing all 14 people on board. The Saudi Press Agency reported the crash occurred at approximately 6:00 a.m. local time and that all victims were Saudi citizens. Investigations are underway to determine the cause of the crash.\n\nRas Tanura is home to one of the largest oil refineries in the Middle East. The crash comes days after Reuters reported that Aramco had resumed crude oil loading at the site on Friday following a nearly four-month pause tied to regional instability stemming from the conflict in the Middle East. Aramco did not immediately comment, while the Saudi energy ministry offered condolences to victims' families.\n\nThe timing of the crash at a strategically critical facility — just days after operations resumed — will draw scrutiny, though Saudi authorities have not indicated any non-accidental cause. The loss of 14 lives in a single incident at a key energy installation is significant both humanly and in terms of regional energy infrastructure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-28T21:08:15.469177-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "AOC Calls for Breaking Up Big Tech Companies Amid Rising Prices",
+      "summary": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) said Sunday that large technology companies should be broken up, arguing they seek \"totally unchecked power\" and behave as though they are governments. Speaking in an interview with Fox News, she said rising tech prices linked to AI chip supply chain strain are a symptom of inadequate antitrust enforcement and called on Congress to act.\n\nOcasio-Cortez specifically cited companies like Apple as candidates for structural breakup. Her comments place her among a growing bipartisan constituency critical of big tech consolidation, though her framing — emphasizing corporate power and consumer prices — reflects a progressive approach distinct from conservative critiques focused more on content moderation and perceived political bias.\n\nThe remarks are notable for their venue — a Fox News interview — and come amid broader national debate over AI-driven cost increases and market concentration in the technology sector. Antitrust action against major tech firms has drawn interest across the political spectrum, though proposed remedies and rationales differ sharply between left and right.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/5944920-ocasio-cortez-tech-companies-split/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-28T21:08:15.469177-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
       "headline": "Update: U.S. and Iran Agree to Halt Strikes, Resume Talks in Qatar This Week",
       "summary": "The United States and Iran have agreed to stop attacking each other and will meet Tuesday in Doha, Qatar, to resolve their dispute over the Strait of Hormuz, a senior U.S. official confirmed Sunday. The agreement comes after days of renewed tit-for-tat strikes that severely tested the fragile ceasefire reached roughly 11 days ago. Iran launched missiles and drones at U.S. bases in Bahrain and Kuwait after U.S. strikes on Iranian coastal radar and missile storage facilities, with each side accusing the other of violating the memorandum of understanding signed to end the conflict.\n\nThe renewed fighting stemmed largely from competing interpretations of the MOU, particularly over Iran's insistence on maintaining direct oversight of Strait of Hormuz navigation routes. Iran views that control as critical leverage in final peace negotiations, while U.S. efforts to reopen the strait without Iranian supervision triggered the latest escalation. Shipping company Hapag-Lloyd warned of a \"new normal\" in the strait as conflicting routing directives from Iran and the U.S. created operational chaos for commercial vessels.\n\nPresident Trump had threatened on Truth Social to resume the war and \"complete the job\" before the new halt was announced, raising alarm among allies and markets. The ceasefire is considered extremely fragile, with both sides still accusing each other of bad faith. Tuesday's Doha talks represent the first direct high-level engagement since the initial MOU and are seen as the last realistic near-term opportunity to prevent a full resumption of hostilities.\n\nRepublican Sen. Bill Cassidy, an outgoing critic of the administration's handling of the conflict, accused Trump of treating Congress as \"merely an appendage\" in the Iran war. GOP Rep. Mark Harris said additional Pentagon funding may need to flow through budget reconciliation to avoid a Senate filibuster. The 24-outlet coverage of this story reflects its status as the dominant international crisis of the moment.",
       "source": "Axios",
