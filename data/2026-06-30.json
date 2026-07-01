@@ -3,6 +3,34 @@
   "dateFormatted": "Tuesday, June 30, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump Disclosed Over $1 Billion in Crypto Earnings in 2025 Financial Report",
+      "summary": "President Donald Trump reported more than $1 billion in income from cryptocurrency ventures in his mandatory financial disclosure for 2025, according to the 927-page document released Tuesday. The filing shows $635 million in royalties from a Trump-branded meme coin launched days before his January 2025 inauguration, plus more than $500 million from World Liberty Financial, a crypto firm co-founded by his sons and the children of special envoy Steve Witkoff. The figures far exceed his 2024 disclosure, in which Trump reported over $600 million in total income.\n\nThe White House denied any conflict of interest, with deputy press secretary Anna Kelly saying the president had made the United States \"the crypto capital of the world\" and that all actions were taken in the best interest of the American people. The administration has repeatedly noted that Trump's businesses are held in a trust managed by his sons, and that the president is not subject to federal conflict of interest laws.\n\nCritics and ethics watchdogs have raised concerns that Trump's personal financial stake in cryptocurrency creates direct conflicts with his administration's crypto-friendly regulatory posture. Congressional Democrats have pointed to the overlap between World Liberty Financial's investors and parties seeking favorable treatment from the administration.\n\nBeyond crypto, Trump reported approximately $77 million from Mar-a-Lago, $122 million from his Doral golf club, and millions more from branded merchandise including watches, Bibles, and fragrances. Melania Trump separately disclosed $10.7 million from a documentary license agreement and $6 million from NFT sales.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 11,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-30T21:08:31.667580-06:00",
+      "slot": 21
+    },
+    {
+      "category": "business",
+      "headline": "S&P 500 Posts Best Quarter Since 2020 as Semiconductor Rally Drives Gains",
+      "summary": "The S&P 500 closed out its best quarter since 2020 on Tuesday, rising nearly 15 percent over the three months through June, fueled largely by a sharp rally in semiconductor stocks tied to continued investment in artificial intelligence infrastructure. The gains mark a significant reversal from the turbulence earlier in the year triggered by tariff uncertainty and inflation concerns.\n\nChipmakers led the advance as investor confidence in AI-driven corporate earnings growth remained strong. Analysts attributed much of the momentum to expectations that major technology companies will sustain high levels of capital expenditure on data centers and AI hardware through the remainder of 2026.\n\nSome strategists urged caution heading into the third quarter. Dan Suzuki, global investment strategist at iCapital, said market tailwinds are \"in the rearview\" and that while he expects inflation to approach its peak and begin declining, the easy gains from the post-tariff-shock rebound may be largely exhausted.\n\nThe quarter's performance provides a notable backdrop to ongoing Federal Reserve deliberations over interest rate policy, with strong equity markets potentially reducing pressure for near-term rate cuts even as inflation data remains a central concern for policymakers and consumers alike.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-30/bloomberg-businessweek-daily-6-30-2026-video",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-06-30T21:08:31.667580-06:00",
+      "slot": 21
+    },
+    {
       "category": "world",
       "headline": "Update: Three-Year-Old Pulled Alive from Venezuela Earthquake Rubble Six Days After Disaster",
       "summary": "A three-year-old boy named Klieber Morán was rescued alive from debris in La Guaira state on Tuesday, six days after Venezuela was struck by earthquakes measuring 7.2 and 7.5 in magnitude — well past the critical three-day survival window experts typically cite for trapped victims. A Jordanian civil defence team pulled the child from the wreckage as rescuers cheered; he was transported to a hospital in Caracas and his vital signs were reported as stable.\n\nThe death toll from the twin earthquakes has now risen to 1,943, with more than 10,000 injured and tens of thousands still unaccounted for. NASA satellite data estimates approximately 58,870 buildings were damaged or destroyed. The UN refugee agency warned Tuesday that food shortages are widespread, basic services have broken down, and communications in La Guaira remain largely severed, with community tensions rising over scarce aid distribution.\n\nThe World Health Organization said health services are under \"extreme pressure\" and warned of an increased risk of outbreaks of vaccine-preventable diseases including measles and diphtheria due to low vaccination coverage in the region. The UNHCR said it needs an initial $15 million to scale up shelter, relief, and protection for 30,000 affected people over six months. A 47-tonne UN humanitarian supply shipment arrived in Venezuela on Tuesday.\n\nThe child's rescue provided a rare moment of hope amid widespread anger directed at the Venezuelan government over its disaster response. Residents in La Guaira described food distribution descending into near-violent scrambles, and international rescue teams from the United States, Mexico, and dozens of other countries continued searching through rubble.",
