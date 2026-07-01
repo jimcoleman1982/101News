@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Nigeria Demands Compensation as South Africa Anti-Migrant Crisis Escalates After Deadline",
+      "summary": "Nigeria announced it will seek compensation from South Africa for property and businesses abandoned by Nigerian citizens who fled anti-migrant violence, marking a significant diplomatic escalation. Nigeria's acting High Commissioner to South Africa said the government has begun documenting assets left behind, while more than 600 Nigerians have already been repatriated and hundreds more await evacuation flights.\n\nThe development follows the expiration of a June 30 deadline set by anti-migrant groups demanding undocumented foreigners leave South Africa. Marches on Tuesday were largely peaceful but included isolated violence against foreigners; South African police reported approximately 900 arrests, mostly for immigration-related offenses and looting. About 25,000 nationals from other African countries have left South Africa in recent weeks.\n\nNigeria's Foreign Ministry spokesperson said all compensation claims would be verified before any formal request is made and that diplomatic ties have not been severed. South Africa's government has not yet responded to the compensation demand. The dispute reflects broader regional tensions over migration policy and the safety of African nationals living across the continent.\n\nOne Nigerian trader awaiting repatriation told the BBC he had lived in South Africa for nearly a decade, abandoned his clothing business in Centurion, and estimated goods left behind were worth more than 16,000 rand. He expressed doubt he would ever receive compensation, saying: \"If South Africa government can compensate it, it will be nice, but I know they won't.\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:25 PM MT",
+      "addedAtISO": "2026-07-01T16:25:47.508588-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Syria Names Final 70 Lawmakers to New Post-Assad Parliament Ahead of First Session",
+      "summary": "Syrian Interim President Ahmed al-Sharaa has appointed the final 70 members of the country's new 210-seat People's Assembly, completing the legislature's formation ahead of its inaugural session next week. Fifteen of the new appointees are women and 13 were imprisoned under the rule of ousted President Bashar al-Assad, who was overthrown in 2024.\n\nTwo-thirds of the assembly were selected last October through regional electoral colleges, but that process drew criticism after only six seats went to women and ten to minority candidates. Officials said Sharaa would use his presidential appointments to address the imbalance. The final slate includes relatives of those killed in the civil war, survivors of detention and chemical attacks, academics, and community leaders drawn from all 14 Syrian provinces.\n\nThe assembly formation has faced significant controversy. More than 20 Kurdish parties rejected lawmakers selected in northern provinces, citing \"exclusion and marginalisation,\" and fourteen Syrian civil society groups criticized the electoral system as structurally flawed, warning that the president's broad powers over committee membership and appointments could allow him to dominate a body meant to be independent. Elections have not yet been held in the predominantly Druze province of Suweida due to ongoing instability.\n\nThe UN deputy special envoy last week told the Security Council that Syria's transition is \"at a critical phase, with opportunity,\" underscoring the international community's close watch on whether the new parliament can serve as a genuine check on executive power in the fragile post-war state.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:25 PM MT",
+      "addedAtISO": "2026-07-01T16:25:47.508588-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Trial Opens for Maltese Businessman Accused in 2017 Car Bomb Murder of Journalist Daphne Caruana Galizia",
+      "summary": "Maltese businessman Yorgen Fenech, 44, went on trial in Valletta on Wednesday on charges of complicity in the 2017 car bomb assassination of prominent investigative journalist Daphne Caruana Galizia. A jury was sworn in for the high-profile case, which is expected to last several weeks. Fenech has denied all charges.\n\nCaruana Galizia was a prominent critic of Malta's government who had exposed corruption networks in Malta and abroad before her killing. Brothers George and Alfred Degiorgio were jailed for 40 years in 2022 for carrying out the murder, and two other men received life sentences in 2025 for supplying the bomb. A fifth man secured a pardon in exchange for testimony.\n\nFenech faces charges of complicity in voluntary homicide and criminal association with intent to commit murder. Members of Caruana Galizia's family, including her three sons, were present in the courtroom to witness the start of proceedings. Her assassination shocked Malta and prompted widespread protests over press freedom and government accountability.\n\nThe case carries significance beyond Malta's borders as a test of whether powerful business figures can be held accountable for attacks on journalists. Fenech's trial is the culmination of one of the most complex and politically sensitive criminal investigations in the country's history.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1ey95gl5j5o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:25 PM MT",
+      "addedAtISO": "2026-07-01T16:25:47.508588-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
       "headline": "German Prosecutors Charge Ukrainian National Over 2022 Nord Stream Pipeline Bombings",
       "summary": "German federal prosecutors have filed formal charges against a Ukrainian national identified as Serhii K. over the September 2022 sabotage of the Nord Stream gas pipelines beneath the Baltic Sea. The suspect is accused of leading and coordinating a seven-person team that destroyed three of the four pipelines, which transported Russian natural gas to Germany. He was arrested in Italy in 2024, extradited to Germany in November, and has denied involvement. A second Ukrainian suspect was detained near Warsaw on a separate German arrest warrant.\n\nThe charges include leading a criminal attack on civil energy infrastructure, causing explosions, and destroying infrastructure. The blasts released record amounts of methane into the Baltic Sea and rendered the multi-billion-dollar pipeline network inoperable. No government or group has claimed responsibility for the attack, and Ukraine has officially denied involvement.\n\nThe prosecution carries significant diplomatic weight. Germany is Ukraine's largest European military aid provider, and many Ukrainians view the Nord Stream destruction as a patriotic act that cut off a key Russian revenue source, complicating public and political acceptance of the prosecution in both countries. Russia, the United States, and United Kingdom have all been named in various theories, but no state link has been established by investigators.\n\nThe case represents the first formal criminal prosecution connected to one of the most consequential acts of infrastructure sabotage in modern European history. The outcome could affect Germany-Ukraine relations and reopen international debate over accountability for the attack.",
       "source": "BBC News",
