@@ -1,0 +1,48 @@
+{
+  "date": "2026-07-02",
+  "dateFormatted": "Thursday, July 2, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: U.S.-Iran Peace Talks Continue in Qatar as Hormuz Tensions Persist",
+      "summary": "U.S. and Iranian negotiators met separately Wednesday with Qatari and Pakistani mediators in Doha, with Qatar announcing \"positive progress\" and agreement to continue discussions. The next round of talks will be scheduled after the funeral of Iran's former Supreme Leader Ayatollah Ali Khamenei, set for Saturday in Tehran. U.S. Mideast envoy Steve Witkoff and Jared Kushner represented Washington; Iran's top negotiator Kazem Gharibabadi attended on Tehran's side.\n\nThe talks aim to convert an initial ceasefire and interim Strait of Hormuz agreement, reached Monday, into a permanent settlement ending the war that began February 28 when the U.S. and Israel struck Iran. Key sticking points include Iran's insistence on controlling shipping routes through the strait and levying passage fees — a position the U.S. and Gulf Arab states firmly reject — as well as the status of Hezbollah in Lebanon.\n\nThe stakes are enormous for global energy markets. A fifth of the world's oil and natural gas transited the strait in peacetime, and markets have swung sharply since the war began. Oil prices have been declining on signs that Hormuz traffic is gradually resuming, though a foreign container ship ran aground Wednesday on an Iran-unapproved route, which Tehran used to reassert its claimed authority over the waterway.\n\nThis is a material update on the previously covered U.S.-Iran Doha talks: negotiators met in person Wednesday, Qatar confirmed progress, and a timetable tied to Khamenei's funeral has been set for the next session — new concrete developments since the last report.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-us-war-strait-of-hormuz-july-1-2026-de0729197bc7b9d3ee9e543d94c18fbe",
+      "sourceCount": 19,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-02T05:08:25.126771-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Boy, 11, Crashes Truck Into Monks on Pilgrimage in Thailand, Killing Eight",
+      "summary": "An 11-year-old boy lost control of a pickup truck he had taken without his parents' permission and crashed into a column of 35 Buddhist monks walking in single file on a road in northeastern Thailand on Thursday, killing eight and hospitalizing 14 others, four of them critically. Five monks died at the scene in Mukdahan province, roughly 600 kilometers northeast of Bangkok; three more died at hospital. The group had set out on a 260-kilometer pilgrimage walk just 30 minutes before the crash.\n\nSecurity camera footage shared by a local rescue organization shows the monks proceeding in a line along the road's edge before the truck swerves and plows into them at full speed. Police said the vehicle was taken without permission and that the cause of the accident remains under investigation, though witnesses reported the truck appeared to be swerving before impact. The boy is in custody and will be questioned when child protection officers arrive.\n\nBuddhist monks hold a revered place in Thai society, and public processions are common throughout the country. Thailand has one of the world's worst road safety records, with speeding, drunk driving and weak enforcement cited as chronic problems. The provincial governor said the incident \"should be a lesson not just for our province, but for the public in general.\"",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/boy-driving-crashes-monks-deaths-injuries-thailand/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-02T05:08:25.126771-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Gaza Patients Dying While Waiting for Medical Evacuations Approved Under Ceasefire",
+      "summary": "At least 300 Palestinians have died waiting for medical evacuations from Gaza since a U.S.-brokered ceasefire between Israel and Hamas began last October, according to Gaza's Hamas-run health ministry and figures used by the World Health Organization. An estimated 15,000 patients currently await treatment abroad, including people with war injuries and conditions such as cancer, and at the current pace of transfers — 1,977 people evacuated since the ceasefire — the backlog could take years to clear.\n\nThe process requires patients to pass security clearances from Israel, any transit countries, and the receiving nation, and to be accepted by a host country willing to treat their specific condition. The BBC documented the case of Amina Abu al-Kas, who received medical board approval to leave Gaza for treatment of an aggressive necrotising infection that had spread to her skull. Her son said she died on May 29 still waiting for clearance; two weeks after her death, the hospital called to say her paperwork had been approved.\n\nThe WHO's representative for the occupied Palestinian territory told the BBC that recipient countries are often highly selective about the patients they will accept, adding complexity to an already bureaucratic process. The situation highlights ongoing humanitarian conditions in Gaza despite the ceasefire framework, with medical access remaining sharply constrained more than eight months after the truce began.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-02T05:08:25.126771-06:00",
+      "slot": 5
+    }
+  ]
+}
