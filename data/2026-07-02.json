@@ -3,6 +3,48 @@
   "dateFormatted": "Thursday, July 2, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "U.S. Employers Added Only 57,000 Jobs in June, Less Than Half of May's Total",
+      "summary": "The Labor Department reported Thursday that U.S. employers added just 57,000 jobs in June, sharply below the prior month's revised figure of 129,000 and well under economists' expectations. The unemployment rate ticked down to 4.2% from 4.3%, but the decline was driven largely by discouraged workers leaving the labor force rather than new employment. The report signals that businesses remain broadly cautious about the economic outlook amid elevated inflation and weakening consumer confidence.\n\nThe hospitality sector was a significant drag, with restaurants, bars, and hotels cutting 61,000 positions — a surprising result given expectations that the ongoing FIFA World Cup in U.S. host cities would generate temporary job gains. Retailers shed an additional 7,500 jobs. Offsetting gains came from healthcare, which added nearly 47,000 positions, and professional and business services, which added 36,000 jobs. Hiring figures for April and May were also revised downward substantially.\n\nFederal Reserve Chair Kevin Warsh, speaking in Portugal Wednesday, reiterated the central bank's intent to hold rates firm until inflation is clearly under control. The Fed's benchmark rate sits at approximately 3.6%. Economists note that the weak jobs number, combined with three-year-high inflation and post-pandemic lows in consumer confidence, points to an economy in a prolonged \"low-hire, low-fire\" equilibrium where existing workers have some security but job-seekers face long searches.\n\nThe report complicates the outlook heading into the second half of 2026. The economy expanded at a 2.1% annual rate in the first quarter, but forecasters increasingly expect a slowdown in the April-June quarter. The divergence between upper-income households — which continue to spend — and middle- and lower-income households pulling back is sharpening, with the restaurant industry citing this \"K-shaped\" pattern as a key driver of job cuts.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/economy/u-s-employers-pulled-back-on-hiring-in-june",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:08 AM MT",
+      "addedAtISO": "2026-07-02T10:08:28.378502-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "Update: McConnell Suffered Apparent Cardiac Arrest at Home Before Hospitalization, EMS Dispatch Audio Reveals",
+      "summary": "Audio from an emergency medical services dispatch call dated June 14 reveals that paramedics were sent to Sen. Mitch McConnell's Washington, D.C., home in response to a report of an unconscious person who appeared to have suffered a \"cardiac arrest.\" The 84-year-old Republican senator from Kentucky was subsequently hospitalized, and his condition and timeline for returning to the Senate remain publicly unknown. The new detail is materially more serious than earlier reports, which described only that McConnell had been found unconscious.\n\nMcConnell, the longest-serving Senate party leader in U.S. history, has faced multiple health episodes in recent years, including a series of freeze episodes in 2023 during which he appeared to lose awareness mid-sentence at public events. He announced his retirement from the Senate leadership position in 2024 but remained in his seat. His absence has not been formally acknowledged by Senate leadership, and his office has provided minimal public comment.\n\nThe disclosure raises fresh questions about Senate continuity and the health transparency standards applied to senior lawmakers. McConnell's seat and potential incapacity could carry procedural significance depending on the legislative calendar and any close votes. No timeline for his return or public health update has been provided by his office or Senate Republican leadership.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/senate/5951357-mitch-mcconnell-health-hospitalization/",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:08 AM MT",
+      "addedAtISO": "2026-07-02T10:08:28.378502-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "Sen. Tillis Declares Trump's SAVE America Act 'Dead,' Citing Midterm Timing",
+      "summary": "Sen. Thom Tillis (R-N.C.) declared Wednesday that the SAVE America Act — President Trump's stated top legislative priority — is effectively \"dead\" in the Senate because there is insufficient time to enact new federal election rules before the 2026 midterm elections. Tillis said that even if Republicans could secure the 60 votes needed to overcome a filibuster, which he indicated is unlikely, the implementation window has closed. The bill, which would establish a proof-of-citizenship requirement to register to vote in federal elections, has been a central demand of Trump and many House Republicans.\n\nThe announcement marks a significant setback for a White House that has treated election integrity legislation as a cornerstone of its second-term agenda. Supporters of the bill argue that proof-of-citizenship requirements are necessary to ensure only eligible citizens cast ballots in federal races. Opponents, including all Senate Democrats and some voting rights advocates, contend the requirement is redundant — non-citizens are already barred from voting — and would disenfranchise millions of eligible voters who lack ready access to documentary proof of citizenship.\n\nTillis's public break with the White House on this issue is notable given his past alignment with Republican leadership. His statement signals that Senate procedural realities and the midterm calendar have effectively rendered the bill moot for this election cycle, even as the House passed a version of the measure earlier this year.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/senate/5951419-thom-tillis-senate-gop-save-america-act-fate/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:08 AM MT",
+      "addedAtISO": "2026-07-02T10:08:28.378502-06:00",
+      "slot": 11
+    },
+    {
       "category": "politics",
       "headline": "Update: Trump Financial Disclosure Shows $2.2 Billion in 2025 Earnings, Over $1 Billion from Cryptocurrency",
       "summary": "President Trump's mandatory financial disclosure report, made public this week, shows he earned at least $2.2 billion in 2025 — his first year back in office — a sum presidential historians describe as unprecedented and far exceeding any previous president's White House-era earnings. Trump reported $1.4 billion from cryptocurrency alone, including $635 million in royalties from Celebration Coins, the entity linked to his $TRUMP meme coin launched just before his second term began, and more than $500 million from World Liberty Financial, a crypto firm co-founded by his sons and associates of his Middle East envoy Steve Witkoff.\n\nThe disclosure has reignited debate over presidential conflicts of interest. Critics, including Democratic lawmakers and government ethics advocates, argue the figures illustrate an unprecedented blurring of official policymaking and private financial gain, given that the Trump administration has simultaneously shaped federal cryptocurrency regulation. The White House rejected those characterizations, with deputy press secretary Anna Kelly stating that \"neither the President nor his family has ever engaged — or will ever engage — in conflicts of interest\" and that all actions are taken \"in the best interest of the American people.\"\n\nTrump's 2025 earnings were nearly four times his reported 2024 income of $622 million. Historians note that past presidents from both parties took extensive steps to separate their finances from their official duties, citing examples ranging from Harry Truman's modest Army pension to George W. Bush's blind trust. Supporters of Trump argue his business success predates and is independent of his presidency, and that financial disclosure laws are functioning as intended by making the information public.",
