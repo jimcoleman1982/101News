@@ -3,6 +3,48 @@
   "dateFormatted": "Thursday, July 2, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Bomb Blast at Damascus Cafe Kills Six, Deadliest Attack in Syrian Capital in Over a Year",
+      "summary": "A bomb planted inside a crowded cafe in central Damascus killed at least six people and injured 22 others on Thursday, Syrian state media reported. The cafe is located roughly 100 meters from the Palace of Justice, a major government building in the capital's Hejaz district. No group immediately claimed responsibility.\n\nThe attack is the deadliest bombing in Damascus since a suicide attack on a church in June 2025 killed 25 people. Damascus Governor Maher Marwan Idlibi visited the scene and vowed that those responsible would be punished, saying 'each time the country sees a period of stability, malicious parties try to destabilise it.'\n\nThe bombing underscores the fragile security situation in Syria under Interim President Ahmed al-Sharaa, who came to power after Islamist-led rebel forces overthrew Bashar al-Assad in December 2024. There have been several attacks in Damascus since then, along with bouts of deadly sectarian fighting between government forces and members of Syria's Alawite and Druze minorities. Three monks remain in critical condition and at least five others were seriously hurt.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:17 PM MT",
+      "addedAtISO": "2026-07-02T16:17:25.403528-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Planned Parenthood Set to Regain Federal Medicaid Funding Saturday as GOP Ban Expires",
+      "summary": "Planned Parenthood is set to regain access to federal Medicaid funding on Saturday, one year after Republicans used the One Big Beautiful Bill to cut the organization's clinics off from the program. The defunding provision, a longstanding Republican policy goal, is expiring under the terms and procedural rules that governed its original passage.\n\nThe restoration of funding is a significant reversal for abortion-rights opponents who had celebrated the original cut as a landmark achievement. Supporters of Planned Parenthood say the funding restoration will restore access to contraception, cancer screenings, and other reproductive health services for millions of low-income patients who rely on Medicaid. Opponents argue that federal dollars should not flow to an organization that performs abortions.\n\nThe development comes amid broader ongoing fights over reproductive health policy, including federal court battles over abortion access in multiple states. The funding restoration takes effect automatically on Saturday barring new legislative or judicial action.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/5952223-planned-parenthood-regains-funding/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:17 PM MT",
+      "addedAtISO": "2026-07-02T16:17:25.403528-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Protests Over Kushner-Linked Coastal Development Turn Violent in Albanian Capital",
+      "summary": "Albanian police deployed water cannons and tear gas in Tirana on Thursday to disperse protesters demonstrating against coastal development projects linked to Jared Kushner, marking one of the most violent confrontations since the rallies began approximately one month ago. The clashes represent a significant escalation in demonstrations that have drawn sustained public opposition inside the country.\n\nThe projects at the center of the protests involve development along Albania's Adriatic coastline, where Kushner's investment firm has pursued real estate and infrastructure initiatives. Critics in Albania have accused the government of prioritizing foreign investment deals over the concerns of local communities and environmental protections. The protests have intermittently brought large crowds into the streets of Tirana.\n\nThe unrest adds an international political dimension to scrutiny of Kushner's foreign business dealings during his father-in-law's presidency. The Albanian government has not publicly reversed course on the projects. The violence on Thursday signals that the demonstrations retain significant momentum and public support.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/protests-over-kushner-linked-project-turn-violent-in-albania",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:17 PM MT",
+      "addedAtISO": "2026-07-02T16:17:25.403528-06:00",
+      "slot": 18
+    },
+    {
       "category": "business",
       "headline": "U.S. Blocks Long-Term Renewal of North American Trade Deal, Starting 10-Year Clock to Expiration",
       "summary": "The United States has declined to renew the US-Mexico-Canada Agreement (USMCA) in its current form, a senior US official confirmed Thursday, meaning the trilateral trade pact will miss an automatic 16-year extension. The decision sets a 10-year countdown toward the deal's potential expiration as early as 2036 and forces annual renegotiation sessions rather than a long-term commitment. The agreement currently underpins roughly $2 trillion in annual trade across North America.\n\nThe administration cited unresolved disputes over automobile rules of origin, dairy market access, and concerns that third-party countries — particularly China — are exploiting the regional framework. Officials said they chose not to \"rubber stamp\" renewal without addressing those issues. Business groups including the U.S. Chamber of Commerce had warned that manufacturing and agriculture sectors depend heavily on cross-border certainty, while domestic steel and iron groups welcomed the shift, arguing annual reviews would give U.S. negotiators stronger leverage.\n\nThe USMCA entered into force in 2020, replacing the 1994 North American Free Trade Agreement. The failure to extend it long-term injects significant economic uncertainty into supply chains across the continent, particularly in the auto sector, where investment decisions often require multi-decade planning horizons. Canada and Mexico have not yet publicly responded to the U.S. announcement.",
