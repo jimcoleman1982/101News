@@ -3,6 +3,48 @@
   "dateFormatted": "Thursday, July 2, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: Trump Financial Disclosure Shows $2.2 Billion in 2025 Earnings, Over $1 Billion from Cryptocurrency",
+      "summary": "President Trump's mandatory financial disclosure report, made public this week, shows he earned at least $2.2 billion in 2025 — his first year back in office — a sum presidential historians describe as unprecedented and far exceeding any previous president's White House-era earnings. Trump reported $1.4 billion from cryptocurrency alone, including $635 million in royalties from Celebration Coins, the entity linked to his $TRUMP meme coin launched just before his second term began, and more than $500 million from World Liberty Financial, a crypto firm co-founded by his sons and associates of his Middle East envoy Steve Witkoff.\n\nThe disclosure has reignited debate over presidential conflicts of interest. Critics, including Democratic lawmakers and government ethics advocates, argue the figures illustrate an unprecedented blurring of official policymaking and private financial gain, given that the Trump administration has simultaneously shaped federal cryptocurrency regulation. The White House rejected those characterizations, with deputy press secretary Anna Kelly stating that \"neither the President nor his family has ever engaged — or will ever engage — in conflicts of interest\" and that all actions are taken \"in the best interest of the American people.\"\n\nTrump's 2025 earnings were nearly four times his reported 2024 income of $622 million. Historians note that past presidents from both parties took extensive steps to separate their finances from their official duties, citing examples ranging from Harry Truman's modest Army pension to George W. Bush's blind trust. Supporters of Trump argue his business success predates and is independent of his presidency, and that financial disclosure laws are functioning as intended by making the information public.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:05 AM MT",
+      "addedAtISO": "2026-07-02T07:05:21.461435-06:00",
+      "slot": 8
+    },
+    {
+      "category": "science_health",
+      "headline": "Dangerous Heat Dome Engulfs U.S. Northeast Ahead of Fourth of July, Temperatures Could Top 100°F",
+      "summary": "Multiday extreme heat warnings were issued Wednesday for New York, Boston, Philadelphia and surrounding areas as a heat dome — a high-pressure system that traps heat and humidity — pushed east across the U.S. just days before the nation's 250th anniversary celebrations. The National Weather Service forecast temperatures in the high 90s Fahrenheit for the Northeast, with Philadelphia and Boston potentially reaching 100°F or higher by Thursday; humidity will push the heat index even higher.\n\nNew York Mayor Zohran Mamdani urged residents to seek air-conditioned spaces and warned that triple-digit heat over multiple days poses serious risks, particularly for those unacclimatized to such conditions. In Orange County, New York, air conditioning failed on a bus carrying Junior ROTC cadets, resulting in multiple heat-related illnesses and hospitalizations. Medical experts warned that the combination of high temperatures and humidity can cause heat exhaustion and heat stroke at lower thresholds than in drier climates.\n\nThe heat wave arrives as millions of Americans are expected to gather outdoors for Fourth of July parades, concerts, and public events across the region, raising public health concerns. Organizers of major events in Boston — including the traditional public reading of the Declaration of Independence — are monitoring conditions. The heat dome has already been affecting the Midwest and Mid-Atlantic states over recent days.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/extreme-heat-northeast-july-fourth-816a02dd3b522cbd3092b467b2cc57aa",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:05 AM MT",
+      "addedAtISO": "2026-07-02T07:05:21.461435-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Update: Vatican Excommunicates Society of St. Pius X Bishops and Priests, Declares Group in Schism",
+      "summary": "Pope Leo XIV formally declared the traditionalist Society of St. Pius X in schism Thursday and excommunicated its bishops and priests after the group consecrated four new bishops without papal authorization. The Vatican emphasized that only the pope may approve bishop consecrations, which maintain the apostolic succession linking the Church to Jesus's original disciples; unauthorized consecrations sever that connection and constitute a fundamental break with Rome.\n\nThe Society of St. Pius X was founded in 1970 by Archbishop Marcel Lefebvre in rejection of the Second Vatican Council's reforms. Its bishops were previously excommunicated in 1988 after Lefebvre performed unauthorized consecrations; those excommunications were lifted by Pope Benedict XVI in 2009 as part of an effort at reconciliation. Thursday's declaration marks a definitive rupture, with the Vatican stating the group has placed itself outside full communion with the Catholic Church.\n\nThe move affects tens of millions of traditional Catholics worldwide who have attended SSPX chapels and received sacraments from its priests. The excommunications raise immediate pastoral questions about the validity of marriages, confessions and other sacraments administered by SSPX clergy going forward. The Vatican's action underscores Pope Leo XIV's resolve to enforce doctrinal discipline even at the cost of further fracturing a conservative wing of the global Church.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:05 AM MT",
+      "addedAtISO": "2026-07-02T07:05:21.461435-06:00",
+      "slot": 8
+    },
+    {
       "category": "world",
       "headline": "Update: U.S.-Iran Peace Talks Continue in Qatar as Hormuz Tensions Persist",
       "summary": "U.S. and Iranian negotiators met separately Wednesday with Qatari and Pakistani mediators in Doha, with Qatar announcing \"positive progress\" and agreement to continue discussions. The next round of talks will be scheduled after the funeral of Iran's former Supreme Leader Ayatollah Ali Khamenei, set for Saturday in Tehran. U.S. Mideast envoy Steve Witkoff and Jared Kushner represented Washington; Iran's top negotiator Kazem Gharibabadi attended on Tehran's side.\n\nThe talks aim to convert an initial ceasefire and interim Strait of Hormuz agreement, reached Monday, into a permanent settlement ending the war that began February 28 when the U.S. and Israel struck Iran. Key sticking points include Iran's insistence on controlling shipping routes through the strait and levying passage fees — a position the U.S. and Gulf Arab states firmly reject — as well as the status of Hezbollah in Lebanon.\n\nThe stakes are enormous for global energy markets. A fifth of the world's oil and natural gas transited the strait in peacetime, and markets have swung sharply since the war began. Oil prices have been declining on signs that Hormuz traffic is gradually resuming, though a foreign container ship ran aground Wednesday on an Iran-unapproved route, which Tehran used to reassert its claimed authority over the waterway.\n\nThis is a material update on the previously covered U.S.-Iran Doha talks: negotiators met in person Wednesday, Qatar confirmed progress, and a timetable tied to Khamenei's funeral has been set for the next session — new concrete developments since the last report.",
