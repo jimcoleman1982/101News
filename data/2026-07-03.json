@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-03",
+  "dateFormatted": "Friday, July 3, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Russian Strikes Kill at Least 21 in Kyiv in 11-Hour Drone and Missile Attack",
+      "summary": "Russia launched a massive 11-hour overnight bombardment of Kyiv, killing at least 21 civilians and injuring more than 90 others in what Moscow described as retaliation for Ukrainian strikes on Russian oil facilities. More than 50,000 residents sheltered in subway stations as explosions shook the capital, and emergency crews spent the day digging through the rubble of collapsed and charred apartment buildings. More than 30 locations across the city were damaged, including roughly 20 residential buildings.\n\nUkraine has been waging a 40-day campaign of long-range strikes targeting Russian oil refineries and supply routes, which officials say has caused significant fuel shortages and put pressure on President Vladimir Putin. Ukrainian officials say the strikes are intended to force Putin to the negotiating table, but Moscow has responded with intensified bombardment rather than negotiations. Ukraine's advances in drone engineering have in recent months slowed Russian battlefield momentum, analysts say.\n\nDiplomatic efforts to end the war, including by the Trump administration, have so far produced no results. President Trump and Ukrainian President Zelensky are expected to attend the NATO summit in Turkey next week, where the conflict is likely to dominate discussions. Foreign Minister Andrii Sybiha described the overnight assault as a 'night of horror' for the capital.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/heavy-russian-strikes-kill-at-least-21-in-kyiv-after-ukrainian-strikes-disrupt-moscows-oil-sector",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-03T05:08:30.947427-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "White House Launches 'Trump Accounts' Children's Investment Program on July 4",
+      "summary": "The Trump administration formally launched 'Trump Accounts' on July 4, a new federally backed investment program for children under 18 that is intended to build long-term financial assets for millions of American minors. The accounts include limited-edition Social Security cards issued only to infants born between July 2 and December 31. Treasury Secretary Scott Bessent has discussed the program publicly, including the mechanism of stock donations to fund the accounts.\n\nSupporters of the program frame it as a meaningful wealth-building initiative that gives American children a financial stake in the economy from birth. Critics, including former White House ethics lawyer Richard Painter, have raised conflict-of-interest concerns in the context of Trump's broader financial disclosures showing $2.2 billion in 2025 earnings, much of it from cryptocurrency. The launch comes amid broader Republican efforts to pass a digital assets bill that has required negotiation with Senate Democrats.\n\nThe rollout is timed to coincide with the nation's 250th anniversary celebrations, with the administration leaning into patriotic framing. The program is one of several financial initiatives the administration has advanced alongside crypto-friendly legislation. The simultaneous disclosure of Trump's personal earnings has complicated the political messaging around the accounts, with opponents arguing the president's financial interests are intertwined with the policies he promotes.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5952182-white-house-to-launch-trump-accounts-on-july-4/",
+      "sourceCount": 21,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-03T05:08:30.947427-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Former Olympian Indicted on Felony Charge Over Damage to Lincoln Memorial Reflecting Pool",
+      "summary": "Federal prosecutors on Thursday indicted David 'Davey' Hearn, 67, a three-time Olympic canoeist, on a felony charge of destruction of property for allegedly vandalizing the Lincoln Memorial Reflecting Pool in Washington, D.C. U.S. Attorney Jeanine Pirro said Hearn ripped a piece of recently installed sealant from the bottom of the pool on June 19, causing an estimated $1,000 in damage. Five people have been arrested in connection with the pool's condition and five others issued federal citations.\n\nHearn denied wrongdoing, saying through attorneys that he was merely curious about the state of the pool and touched material that was already damaged. His legal team called the charges 'outrageous' and said the indictment 'reflects the administration's effort to shift blame for their own failures.' The $14 million renovation project has been beset by problems, including algae growth and large sections of the newly applied sealant peeling from the bottom.\n\nPresident Trump had publicly blamed vandals for the peeling coating on June 20, posting on social media that workers would begin repairs immediately and expressing outrage at what he called deliberate sabotage. The case has drawn scrutiny because the pool's deterioration preceded any alleged vandalism, and critics argue the felony charge against a decorated athlete for a minor incident reflects prosecutorial overreach. The pool, built in the 1920s, has a long history of structural and maintenance problems.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-03T05:08:30.947427-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "At Least 32 Dead After Overcrowded Bus Plunges Into Ravine in Pakistan",
+      "summary": "At least 32 people were killed and 16 others injured on Friday after an overcrowded passenger bus plunged approximately 70 to 80 feet into a ravine in southwestern Pakistan. The bus, traveling from Quetta to Peshawar, crashed in the Dana Sar mountain range on the border between Balochistan and Khyber Pakhtunkhwa provinces. The 48 passengers on board included women and children; the bus had taken on additional riders from a separate vehicle that had broken down.\n\nPreliminary reports suggest a steering fault caused the driver to lose control before the vehicle skidded off the mountain road. Rescue operations were hampered by the difficult terrain, though dozens of emergency responders and ambulances were deployed. The injured were transported to District Headquarters Hospital in Zhob, roughly 68 kilometers from the crash site.\n\nBalochistan's Chief Minister Sarfraz Bugti ordered an inquiry into the crash and extended condolences to the victims' families. Fatal road accidents are common in Pakistan, frequently attributed to reckless driving, poorly maintained vehicles, and deteriorating road conditions. Pakistan's President and Prime Minister both expressed sorrow over the deaths.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czrxezg60x1o",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-03T05:08:30.947427-06:00",
+      "slot": 5
+    }
+  ]
+}
