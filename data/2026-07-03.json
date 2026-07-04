@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, July 3, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump Issues Pardons for Emissions Violators, Weighs Clemency for Diddy and Other Celebrities",
+      "summary": "President Trump on Friday pardoned 11 people convicted in federal vehicle emissions cases, declaring that many had been \"persecuted by the Biden Administration\" for \"fixing their car.\" The pardons covered individuals found guilty of tampering with pollution-control systems on their vehicles, a category of federal offense Trump has repeatedly signaled sympathy toward.\n\nSeparately, sources familiar with the matter told The Hill and the Washington Examiner that Trump has privately discussed pardoning rapper Sean \"Diddy\" Combs, who faces federal sex-trafficking charges, along with other high-profile figures seeking clemency. No decision on Combs or other celebrities has been made, according to those sources.\n\nSupporters of the emissions pardons argue the prosecutions were regulatory overreach against ordinary Americans making personal modifications to their own vehicles. Critics contend the pardons undermine environmental enforcement and that extending clemency consideration to Combs — who has pleaded not guilty to serious federal charges — would represent an unprecedented use of executive power.\n\nThe announcements came as Trump prepared to address the nation on the Fourth of July, adding a politically charged dimension to the Independence Day weekend.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5953040-trump-may-weigh-pardon-for-diddy-while-granting-clemency-to-pollution-violators/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-03T21:08:21.956063-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Ukraine Intensifies Deep Strikes Inside Russia, Targeting Fuel Supplies and Air Defenses",
+      "summary": "Ukrainian forces have escalated a campaign of deep strikes inside Russian territory, repeatedly hitting oil refineries, weapons factories, military convoys, and bomber aircraft at their bases, according to reporting by Axios and PBS NewsHour. The strikes have contributed to fuel shortages inside Russia, and at least one refinery attack sent Moscow residents scrambling amid explosions and what witnesses described as \"black rain\" of burning debris.\n\nUkrainian President Volodymyr Zelensky has claimed Russia has been forced to reposition the bulk of its air defense systems to protect key facilities from Ukrainian drone and missile attacks, leaving other areas more exposed. By some estimates cited in the reporting, Russia has sustained approximately 1.5 million total casualties since the war began, including roughly 500,000 killed, and is increasingly turning to foreign mercenaries as its domestic recruitment pool shrinks.\n\nThe strikes mark a significant shift in the war's geography, with analysts noting that fewer locations inside Russia now feel beyond Ukraine's reach. The campaign is seen as an attempt by Kyiv to degrade Russia's capacity to sustain offensive operations, particularly its ability to fuel aircraft and armored units.\n\nThe development comes ahead of the NATO summit in Ankara next week, where Ukraine's path to alliance membership and ongoing weapons support are expected to be central agenda items.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/03/ukraine-russia-drone-flamingo-strikes",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-03T21:08:21.956063-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "U.S. Withdraws Most Troops from Nigeria After Joint Operation Kills Islamic State Leader",
+      "summary": "The United States has withdrawn the majority of the roughly 200 troops it deployed to Nigeria earlier this year as part of a joint counter-insurgency operation in the Lake Chad Basin, the Pentagon announced Thursday. General Dagvin Anderson, Commander of U.S. Air Forces in Africa, said the mission had successfully \"significantly degraded\" Islamic State's leadership structure in Nigeria, including the killing of senior IS commander Abu-Bilal al-Minuki.\n\nThe joint operation, which began with strikes on Christmas Day and concluded after several months, disrupted both IS Nigeria's local command structure and its broader global communications network, according to U.S. officials. Nigeria's military said the American withdrawal would \"not affect our momentum,\" and both governments confirmed that intelligence-sharing arrangements would continue.\n\nThe closure of the mission is notable given the scale of the IS threat in sub-Saharan Africa: analysts estimate roughly 90 percent of all IS attacks globally now occur in the region, with Nigeria's branch the most active. Despite the operation's successes, jihadist groups continue to conduct attacks in northeastern Nigeria.\n\nU.S.-Nigeria military cooperation had increased after Washington accused Nigerian authorities of insufficient protection of vulnerable groups against Islamist militants and alleged a \"Christian genocide\" — a characterization Nigeria firmly rejected, noting that violence affects all communities and that most victims in the jihadist-affected north are Muslim.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-03T21:08:21.956063-06:00",
+      "slot": 21
+    },
+    {
       "category": "world",
       "headline": "Update: Venezuela Earthquake Death Toll Surpasses 2,600 as Makeshift Morgues Overwhelmed",
       "summary": "The death toll from Venezuela's twin earthquakes of June 24 has surpassed 2,600, with thousands still missing and forensic officials warning that mass graves will be necessary as the scale of the disaster overwhelms local infrastructure. At a port storage facility in La Guaira converted into a makeshift morgue, families wait hours to identify loved ones, with more than 1,000 body images cycling across television screens as decomposition accelerates in the summer heat.\n\nForensic technicians estimate they will spend up to three months collecting bodies from the debris. Private companies have donated large cooling containers to help preserve remains, but officials say the recovery operation is far from keeping pace with the scale of collapse. In many cases, families are identifying victims only by tattoos, scars, or familiar clothing, as bodies have become difficult to recognize.\n\nThe Venezuelan government has been widely criticized by independent experts for an ineffective response. Many families cannot afford private funeral services, and the mayor's office has been offering free cemetery plots, though access is limited and time-sensitive. The disaster represents one of the deadliest earthquake events in the Western Hemisphere in recent decades, with the humanitarian situation continuing to deteriorate.",
