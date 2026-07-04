@@ -3,6 +3,48 @@
   "dateFormatted": "Saturday, July 4, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "AfD Reelects Leaders at Convention as Tens of Thousands Protest in Erfurt",
+      "summary": "Germany's far-right Alternative for Germany party held its national convention Saturday in Erfurt, overwhelmingly reelecting co-leaders Alice Weidel and Tino Chrupalla to two-year terms. Weidel received 81% of the delegate vote and Chrupalla 70%, both running unopposed, as the party sought to project unity ahead of what Weidel called a \"year of destiny.\"\n\nTens of thousands of protesters surrounded the convention hall, with police reporting roughly 31,000 participants in Saturday's rallies. The demonstrations were largely peaceful, though some protesters clashed with police. Critics also noted the convention coincided with the 100th anniversary of a nearby Nazi Party gathering that consolidated Adolf Hitler's power — symbolism the AfD dismissed as irrelevant.\n\nThe AfD has risen from second place in February 2025's national election, where it won 20.8% of the vote — the best far-right result since World War II — to first place in current polls. Mainstream German parties maintain a stated \"firewall\" policy of refusing coalition partnerships with the AfD, though calls from some quarters to ban the party outright have not cleared Germany's high constitutional bar for party prohibition.\n\nThe convention reflects a broader tension inside Germany over how to respond to a party that is simultaneously the country's most popular and its most controversial political force. Supporters argue the AfD represents legitimate grievances over immigration and economic policy; opponents say its rhetoric and leadership echo dangerous historical precedents.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/far-right-alternative-for-germany-party-reelects-leaders-as-protesters-and-police-clash",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:26 PM MT",
+      "addedAtISO": "2026-07-04T13:26:34.774520-06:00",
+      "slot": 14
+    },
+    {
+      "category": "science_health",
+      "headline": "University of Minnesota Scientists Build Most Life-Like Synthetic Cell Yet, Capable of Growth and Division",
+      "summary": "Researchers at the University of Minnesota have created what they describe as the most life-like synthetic cell ever assembled from nonliving components, a system they call \"SpudCell.\" Unlike prior efforts that began with living organisms, SpudCell was built from chemically defined, nonliving parts and carries a 90,000-base-pair genome that enables it to produce proteins, replicate DNA, grow, and divide into daughter cells under controlled laboratory conditions.\n\nThe researchers also demonstrated a rudimentary form of natural selection: after introducing a genetic mutation that allowed some cells to grow faster than others, the faster-growing variants produced more offspring and became increasingly prevalent over successive generations. The team said the work represents \"key milestones towards construction of synthetic life\" and could eventually underpin biotechnology applications involving fully artificial organisms.\n\nSignificant limitations remain. SpudCell cannot survive outside carefully maintained laboratory environments, requires externally supplied nutrients and specialized components, and depends on ribosomes purified from E. coli bacteria. After five generations, only about 30% of daughter cells inherited the complete synthetic genome. The findings were published Thursday as a preprint on bioRxiv and have not yet undergone peer review.\n\nThe work raises both scientific excitement and ethical questions about the boundary between chemistry and life. The researchers acknowledged their system remains far less capable than even the simplest naturally occurring living cells, but said the demonstration of a complete synthetic cell cycle — growth, DNA replication, and division linked to heritable traits — is a milestone the field has been pursuing for decades.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/science/milestone-scientists-claim-build-synthetic-cell-raising-concerns-step-toward-artificial-life",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:26 PM MT",
+      "addedAtISO": "2026-07-04T13:26:34.774520-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Putin Faces Rare Domestic Criticism Over Ukraine War Costs, Fuel Shortages, and Mounting Casualties",
+      "summary": "Russian President Vladimir Putin is confronting an unusual level of public criticism at home as the cumulative toll of more than four years of war in Ukraine strains the country's economy and social fabric. Prominent figures inside Russia are increasingly attributing fuel shortages, rising inflation, and mounting battlefield casualties to the conduct of the war — a significant shift in a country where open criticism of the conflict has carried severe legal risk.\n\nUkraine's intensified deep-strike campaign against Russian energy infrastructure has contributed to the domestic pressure, with high-profile attacks on fuel depots and oil terminals drawing attention inside Russia to the war's material costs. Putin publicly dismissed Ukraine's recent military gains as \"imaginary achievements,\" calling its leaders \"play actors,\" in remarks that analysts read as an attempt to push back against a growing sense that the war is not proceeding as Moscow had promised.\n\nThe criticism remains constrained compared to what would be seen in open societies, and there is no sign of organized political opposition capable of challenging Putin's hold on power. Nevertheless, observers note that the willingness of prominent Russian voices to assign blame to Kremlin decision-making represents a meaningful departure from the enforced consensus that has characterized public discourse since the invasion began in February 2022.\n\nThe development comes as Ukraine continues long-range strikes on Russian territory and as Western support for Kyiv remains a contested issue ahead of ongoing NATO discussions. The domestic pressure on Putin could influence Russian negotiating posture, though analysts caution that authoritarian systems can absorb significant internal strain before it translates into policy change.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/international/5953000-putin-russia-ukraine-war-pressure/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:26 PM MT",
+      "addedAtISO": "2026-07-04T13:26:34.774520-06:00",
+      "slot": 14
+    },
+    {
       "category": "world",
       "headline": "'Flamingo Revolution' Protests Intensify in Albania, Thousands Demand PM's Resignation",
       "summary": "Tens of thousands of Albanians have taken to the streets in nightly rallies demanding the resignation of Prime Minister Edi Rama, with protests that began over an environmental dispute now expanding into a broader movement against governance, corruption, and inequality. The demonstrations were initially sparked by plans for a luxury resort development near Narta Lagoon — a protected wetland habitat — in which investors including Jared Kushner, son-in-law of U.S. President Donald Trump, hold an interest. The government has granted the development \"special investor\" status despite no planning permission having been issued.\n\nThe protests escalated sharply after video spread online showing private security guards beating a demonstrator at the development site, an incident confirmed by Rama himself. Crowds have since broadened their grievances to include schools, hospitals, infrastructure, and what critics describe as a governing style beholden to oligarchs and organized crime.\n\nRama, whose Socialist Party has held power for 13 years, has characterized the protests as a sign of healthy democracy and defended his record, pointing to Albania's significant economic growth, tourism boom, and progress toward EU membership. Prominent dissident intellectual Fatos Lubonja, who spent 17 years in a communist-era labor camp, countered that the current government is propped up by \"oligarchs, organised crime, the media and corrupt internationals.\"\n\nThe protests represent a significant political challenge for Rama at a sensitive moment, as Albania is on course to complete EU accession negotiations by the end of next year — one of the fastest trajectories among Western Balkan nations.",
