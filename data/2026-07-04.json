@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-04",
+  "dateFormatted": "Saturday, July 4, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Trump Delivers Politically Charged Independence Day Speech at Mount Rushmore",
+      "summary": "President Donald Trump marked America's 250th anniversary with a speech at Mount Rushmore on Friday that began with themes of American exceptionalism before pivoting to sharp partisan warnings, declaring communism a greater threat to the United States than World War I, World War II, Pearl Harbor, or 9/11. The speech drew immediate comparisons to the Red Scare of the 1950s, departing sharply from the traditionally apolitical, unifying tone of Independence Day addresses delivered by past presidents at major national commemorations.\n\nThe address came amid a brutal heat wave that forced the temporary closure of the Great American State Fair on the National Mall, canceled Philadelphia's Salute to Independence parade, and disrupted festivities across the eastern United States. Officials urged celebrants to stay hydrated and seek air-conditioned spaces throughout the holiday weekend.\n\nSupporters of the president praised his willingness to name what they see as genuine ideological threats to American freedom, while critics argued the speech exploited a unifying national anniversary for partisan purposes. New York Mayor Zohran Mamdani, a democratic socialist, delivered a counter-address framing America as a nation of contradictions striving toward its founding ideals.\n\nTrump has also drawn attention for his expressed desire to have his likeness added to Mount Rushmore alongside Washington, Jefferson, Roosevelt, and Lincoln — a proposal that has generated both enthusiastic support among his backers and sharp opposition from historians and Native American tribes who consider the monument itself contested.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/america-250-celebrations-heatwave-trump-9d84acb8bd36837b2f21fab9e1808fc0",
+      "sourceCount": 11,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-04T05:08:31.787215-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Polish PM Warns of 'Critical' Months Ahead After U.S. Intelligence Reports Russian Plot to Attack Poland",
+      "summary": "Polish Prime Minister Donald Tusk issued a public warning Friday that the coming months could be \"critical\" for Poland and NATO allies in the Baltic region, citing U.S. intelligence reports indicating Russia may be planning an armed provocation on Polish soil. Tusk said Poland was preparing for \"various scenarios\" and urged citizens not to panic while acknowledging the threats were serious enough to warrant attention.\n\nPolish news outlet Onet reported that sources close to President Karol Nawrocki said Washington had issued multiple specific warnings to Warsaw about a plot targeting Polish infrastructure with missiles, drones, or troops. The purported Russian plan, also reported by Britain's Daily Telegraph, would aim to pressure Ukraine's Western allies into suspending military aid to Kyiv. The White House and State Department did not respond to requests for comment.\n\nThe warnings come ahead of a NATO summit in Turkey next week, where Secretary General Mark Rutte is expected to highlight European allies' increased defense spending in response to U.S. pressure. Lithuanian and Latvian intelligence services have separately warned in recent weeks about Russian military provocations in the Baltic region, though analysts note Moscow is more likely to employ hybrid tactics such as drone incursions than a conventional attack.\n\nTusk told the Financial Times in April that a Russian attack on a NATO member could come within months, and his Deputy Prime Minister Radek Sikorski said in June he could not rule out a Russian \"false flag\" operation within two years. NATO's Article 5 mutual defense clause means any confirmed armed attack on Poland would obligate all 32 alliance members to respond.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-04T05:08:31.787215-06:00",
+      "slot": 5
+    },
+    {
+      "category": "other",
+      "headline": "Taylor Swift and Travis Kelce Marry at Madison Square Garden",
+      "summary": "Pop superstar Taylor Swift and NFL tight end Travis Kelce were married Friday at New York's Madison Square Garden, culminating months of intense public speculation about the closely guarded event. The 20,000-seat arena was transformed for the ceremony, though many details — including Swift's Dior wedding gown and the full guest list — remained under wraps as of Friday evening.\n\nThe wedding is among the most high-profile celebrity events in recent memory, drawing wall-to-wall media coverage and crowds of fans to the streets surrounding the venue in midtown Manhattan. The couple, who began dating in 2023, have been one of the most scrutinized pairs in American popular culture, with their relationship frequently intersecting with both the NFL season and Swift's record-breaking Eras Tour.\n\nThe event drew coverage from virtually every major national outlet. No further details about the ceremony or reception were immediately available as the couple and guests continued private celebrations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/live/cvgl8e210wvt",
+      "sourceCount": 12,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-04T05:08:31.787215-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Ukrainian Suspect Sought After Parcel Bomb Injures Sanctioned Billionaire and Family in Monaco",
+      "summary": "Monaco authorities are hunting a Ukrainian woman identified as the prime suspect in a parcel bombing Monday evening that left a sanctioned Ukrainian multi-millionaire, his partner, and his 13-year-old son seriously injured. Anastasiia Berezovska, 39, is believed to have left an explosive package in the entrance of an apartment building before fleeing on foot and then driving through Italy to Germany, according to Monaco's deputy prosecutor.\n\nAn Interpol Red Notice has been issued for Berezovska, who speaks German and is wanted for attempted murder, placing an explosive device on a public road, and criminal conspiracy. German special forces searched her rented apartment in the Main-Taunus district of Hesse on Thursday, seizing a vehicle she had used, but she remained at large as of Friday.\n\nThe reported target, real estate developer Vadym Yermolaiev, 58, has been living in Monaco and is subject to sanctions. Investigators said Berezovska had spent several days surveilling the residence before the attack and was caught on CCTV wearing a dark bucket hat. Authorities are also investigating possible accomplices.\n\nPrince Albert II of Monaco called the incident a \"heinous crime.\" The bombing adds to a pattern of targeted violence connected to Ukrainian and Russian oligarchic networks operating in Western Europe, raising questions about the reach of wartime intelligence and criminal operations into neutral third countries.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gy603z2qlo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-04T05:08:31.787215-06:00",
+      "slot": 5
+    }
+  ]
+}
