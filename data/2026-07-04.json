@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "'Flamingo Revolution' Protests Intensify in Albania, Thousands Demand PM's Resignation",
+      "summary": "Tens of thousands of Albanians have taken to the streets in nightly rallies demanding the resignation of Prime Minister Edi Rama, with protests that began over an environmental dispute now expanding into a broader movement against governance, corruption, and inequality. The demonstrations were initially sparked by plans for a luxury resort development near Narta Lagoon — a protected wetland habitat — in which investors including Jared Kushner, son-in-law of U.S. President Donald Trump, hold an interest. The government has granted the development \"special investor\" status despite no planning permission having been issued.\n\nThe protests escalated sharply after video spread online showing private security guards beating a demonstrator at the development site, an incident confirmed by Rama himself. Crowds have since broadened their grievances to include schools, hospitals, infrastructure, and what critics describe as a governing style beholden to oligarchs and organized crime.\n\nRama, whose Socialist Party has held power for 13 years, has characterized the protests as a sign of healthy democracy and defended his record, pointing to Albania's significant economic growth, tourism boom, and progress toward EU membership. Prominent dissident intellectual Fatos Lubonja, who spent 17 years in a communist-era labor camp, countered that the current government is propped up by \"oligarchs, organised crime, the media and corrupt internationals.\"\n\nThe protests represent a significant political challenge for Rama at a sensitive moment, as Albania is on course to complete EU accession negotiations by the end of next year — one of the fastest trajectories among Western Balkan nations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8925jnl0z3o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:09 AM MT",
+      "addedAtISO": "2026-07-04T10:09:12.123702-06:00",
+      "slot": 11
+    },
+    {
+      "category": "other",
+      "headline": "Three Children Die After Boat Capsizes on Geneva Lake in Wisconsin During Severe Storm",
+      "summary": "Three children were killed on Friday after a recreational boat carrying six adults and four children capsized on Geneva Lake in Wisconsin during a sudden and severe storm. The Geneva Lake Law Enforcement Agency said the vessel was overwhelmed by high winds and waves as it attempted to navigate to safety, ultimately taking on water, capsizing, and sinking. All six adults and one child were rescued; the three remaining children were found after an intensive search but could not be revived despite lifesaving efforts at the scene and by EMTs.\n\nOfficials said all four children on board were wearing life jackets at the time of the capsizing. The victims, believed to all be under the age of 13, have not been formally identified pending family notification. The Wisconsin Department of Natural Resources and the Geneva Lake Law Enforcement Agency have opened an investigation into the circumstances of the sinking.\n\nAuthorities used the incident to issue a public safety warning ahead of the July 4th holiday weekend, urging boaters to closely monitor weather forecasts and seek harbor immediately when threatening conditions develop.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/3-die-geneva-lake-wisconsin-boat-capsizes-storm/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:09 AM MT",
+      "addedAtISO": "2026-07-04T10:09:12.123702-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "India's West Bengal Drops Eggs From School Lunches in Favor of Vegetarian Meals, Sparking Nutrition Debate",
+      "summary": "India's West Bengal state government has announced it will replace eggs in some government school lunch programs with vegetarian alternatives, handing meal preparation to the Annamrita Foundation — the food service arm of the International Society for Krishna Consciousness (ISKCON), better known as the Hare Krishna movement. The move by the newly elected Bharatiya Janata Party (BJP) government has ignited a nationwide debate over the intersection of religion, nutrition policy, and the rights of India's poorest children.\n\nFor millions of underprivileged students, the midday meal program is the most nutritious — and sometimes only — meal they receive each day. Nutrition campaigners argue that eggs are among the cheapest and most effective protein sources available, costing roughly eight rupees (about eight U.S. cents) each, and that any replacement risks harming child development. The opposition All India Trinamool Congress, which governed West Bengal until May, has accused the BJP of trying to \"impose vegetarianism\" on schoolchildren for ideological reasons rooted in Hindu nationalist politics.\n\nDefenders of the change, including Chief Minister Suvendu Adhikari, say the program aims to provide children with \"good and pure food\" and deny that the decision is religiously motivated. ISKCON has pushed back on criticism, noting it runs one of the world's largest school meal operations through the Akshaya Patra Foundation. The organization says carefully planned vegetarian alternatives such as soybeans and kidney beans can match the nutritional value of eggs.\n\nThe project has not yet formally begun, and ISKCON told the BBC that discussions are still ongoing. However, the episode has reignited a recurring controversy in India, where several BJP-governed states have previously attempted to reduce or remove eggs from school menus, drawing repeated protests from health advocates and opposition politicians.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c33yldyd62po",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:09 AM MT",
+      "addedAtISO": "2026-07-04T10:09:12.123702-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "Ukraine Strikes Major Oil Terminal and Naval Base Near St. Petersburg",
       "summary": "Ukraine launched a large-scale drone assault on Russia's second-largest city overnight, striking a major oil terminal in St. Petersburg and a key Russian Baltic Fleet naval base at Kronstadt, President Volodymyr Zelensky announced Saturday. St. Petersburg Governor Aleksandr Beglov confirmed the oil terminal was hit, saying 72 Ukrainian drones were shot down over the city and surrounding Leningrad region, and urged residents to stay indoors. No casualties were reported.\n\nThe terminal is described by Ukraine's military as one of Russia's largest, capable of producing 12.5 million tonnes of petroleum products annually. Kyiv says the strikes were aimed at infrastructure generating revenue for Russia's war effort. Ukraine has claimed it has disabled nearly 43 percent of Russia's oil refining capacity through recent strikes — a figure that has not been independently verified.\n\nThe attack came as Russia's President Vladimir Putin faces rare domestic criticism over fuel shortages, rising inflation, and mounting military casualties tied to the prolonged conflict. In a separate development Saturday, Ukraine's military denied Russian claims that the key eastern town of Kostyantynivka had fallen to Russian forces, with a military spokesman saying Ukrainian forces retained control though acknowledging small Russian infantry groups had infiltrated combat positions.\n\nThe strikes mark a significant escalation in Ukraine's long-range campaign against Russian energy infrastructure, with targets now reaching approximately 850 kilometers from Ukraine's border. Russia had not publicly commented on the Kronstadt naval base claim as of Saturday morning.",
       "source": "BBC News",
