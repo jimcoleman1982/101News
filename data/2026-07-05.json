@@ -3,6 +3,48 @@
   "dateFormatted": "Sunday, July 5, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: McMorrow Drops Out of Michigan Senate Race, Setting Up Two-Way Democratic Primary",
+      "summary": "Michigan state Sen. Mallory McMorrow announced Sunday that she is suspending her campaign for the U.S. Senate seat, a significant shakeup to one of the country's most closely watched Democratic primaries. McMorrow, who had sought to carve out a centrist lane, announced her withdrawal via a video posted to social media platform X, citing gratitude to supporters but not offering a specific reason for her exit.\n\nHer departure narrows the race to a two-candidate contest between moderate Rep. Haley Stevens and progressive Dr. Abdul El-Sayed, who has been endorsed by Rep. Alexandria Ocasio-Cortez and is tied to a pro-Hamas Arab-American political action committee — a fact that has drawn scrutiny from party leaders and opponents alike. The primary is scheduled for August 4.\n\nMichigan is a Trump-won swing state that Democrats regard as critical to retaking the Senate majority. McMorrow had gained national prominence for a viral 2022 Senate floor speech but struggled to translate that attention into polling momentum in the race. Her exit forces Democratic voters and donors to consolidate around either the establishment-aligned Stevens or the insurgent El-Sayed ahead of a vote that could help define the ideological direction of the party heading into the midterms.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/05/mallory-mcmorrow-michigan-senate-stevens-el-sayed",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:38 PM MT",
+      "addedAtISO": "2026-07-05T13:38:25.109799-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Update: FIFA Suspends Balogun Red Card, Clearing U.S. Star to Face Belgium; Belgium Protests Decision",
+      "summary": "FIFA announced Sunday that it has suspended the one-game ban attached to U.S. forward Folarin Balogun's red card from the round-of-32 match against Bosnia and Herzegovina, clearing him to play in Monday's World Cup round-of-16 game against Belgium in Seattle. FIFA cited Article 27 of its Disciplinary Code, placing the suspension on a one-year probationary period — meaning if Balogun commits a similar infringement, the original ban will be reinstated alongside any new penalty.\n\nThe decision drew immediate backlash from the Royal Belgian Football Association, which called it \"astonishing\" and said it was \"investigating all potential options,\" arguing the ruling is in \"direct contradiction\" of competition regulations explicitly reaffirmed to all participating nations in May. Belgium noted that every other red card issued at this World Cup had resulted in an automatic suspension, raising questions about consistency and the influence of political pressure on FIFA's administration of the tournament.\n\nU.S. President Donald Trump publicly thanked FIFA on Truth Social, writing that the governing body had reversed \"a great injustice.\" Secretary of State Marco Rubio had also called publicly for the decision to be reviewed. U.S. forward Christian Pulisic said the team learned of the reversal on a bus to training Sunday and that Balogun was \"super happy.\" Balogun leads the Americans with three goals as the U.S. pursues its first World Cup quarterfinal berth since 2002.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:38 PM MT",
+      "addedAtISO": "2026-07-05T13:38:25.109799-06:00",
+      "slot": 14
+    },
+    {
+      "category": "other",
+      "headline": "Delta Plane Struck by Firework While Landing at Chicago's Midway Airport",
+      "summary": "A Delta Air Lines Airbus A319 carrying 52 passengers and six crew members was struck by a firework during its descent into Chicago's Midway International Airport on Saturday night, amid the nation's 250th anniversary celebrations. The pilot reported the strike to air traffic control at approximately 200 feet of altitude, describing \"a big bang.\" The aircraft landed safely and no injuries were reported among those on board.\n\nAir traffic controllers had warned the crew before landing that multiple homes near the approach end of the runway were shooting off fireworks, and noted that the city had been informed but that it was unclear what action police would take. The Chicago Police Department told the BBC the plane was struck by \"an unknown object\" causing \"minor paint damage.\" A post-landing inspection by Delta found no structural damage to the aircraft.\n\nThe Federal Aviation Administration confirmed the incident occurred around 20:30 local time and said an investigation has been opened. The incident highlights an ongoing safety tension between unregulated residential fireworks and airport approach corridors, particularly during major holiday celebrations. The FAA noted air traffic control was not providing direct services to the aircraft at the moment of the strike.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "1:38 PM MT",
+      "addedAtISO": "2026-07-05T13:38:25.109799-06:00",
+      "slot": 14
+    },
+    {
       "category": "world",
       "headline": "Update: Putin and Zelenskyy Hold Separate Calls With Trump as Ukraine Strikes Crimea",
       "summary": "Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy each held separate phone calls with U.S. President Donald Trump on Saturday, discussing prospects for ending the war in Ukraine now in its fifth year. Zelenskyy said the two leaders agreed to continue talks in person at the upcoming NATO summit in Ankara, describing a \"real prospect of ending this war\" contingent on American determination. The Kremlin described Putin's call — lasting nearly 90 minutes and their fourth this year — as \"constructive,\" with Trump reaffirming readiness to help achieve a quick cessation of hostilities and envoys Steve Witkoff and Jared Kushner prepared to visit Moscow.\n\nMeanwhile, a Ukrainian strike on Russian-occupied Crimea killed one person and injured two others, according to Moscow-installed regional governor Sergei Aksyonov. Ukraine has intensified attacks on Crimean infrastructure in recent weeks as Kyiv seeks to isolate the peninsula and increase pressure on Moscow, whose battlefield advances have largely stalled.\n\nThe Kremlin accused Ukraine and European allies of \"betting on prolonging, and even escalating the conflict,\" while Zelenskyy framed continued American engagement as decisive. The dual diplomatic contacts with Trump mark a notable moment in the peace process, though no formal negotiations or ceasefires have been announced and core disagreements over territory and security guarantees remain unresolved.",
