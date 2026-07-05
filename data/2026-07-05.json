@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Putin and Zelenskyy Hold Separate Calls With Trump as Ukraine Strikes Crimea",
+      "summary": "Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy each held separate phone calls with U.S. President Donald Trump on Saturday, discussing prospects for ending the war in Ukraine now in its fifth year. Zelenskyy said the two leaders agreed to continue talks in person at the upcoming NATO summit in Ankara, describing a \"real prospect of ending this war\" contingent on American determination. The Kremlin described Putin's call — lasting nearly 90 minutes and their fourth this year — as \"constructive,\" with Trump reaffirming readiness to help achieve a quick cessation of hostilities and envoys Steve Witkoff and Jared Kushner prepared to visit Moscow.\n\nMeanwhile, a Ukrainian strike on Russian-occupied Crimea killed one person and injured two others, according to Moscow-installed regional governor Sergei Aksyonov. Ukraine has intensified attacks on Crimean infrastructure in recent weeks as Kyiv seeks to isolate the peninsula and increase pressure on Moscow, whose battlefield advances have largely stalled.\n\nThe Kremlin accused Ukraine and European allies of \"betting on prolonging, and even escalating the conflict,\" while Zelenskyy framed continued American engagement as decisive. The dual diplomatic contacts with Trump mark a notable moment in the peace process, though no formal negotiations or ceasefires have been announced and core disagreements over territory and security guarantees remain unresolved.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-ukraine-crimea-trump-zelenskyy-putin-7d85005373e69a417a9a74899c053d5c",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:15 AM MT",
+      "addedAtISO": "2026-07-05T10:15:33.606856-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Mysterious Space Debris Spheres Wash Ashore on Australian Beach, Hazmat Teams Respond",
+      "summary": "Six large solid spheres of apparent space debris washed up on Forrest Beach in northern Queensland, Australia, this weekend, prompting the Australian Space Agency to investigate their origin. Crews in protective suits were seen placing the objects into hazmat barrels under police guard amid concerns the spheres may contain hazardous substances, and authorities have established a 50-meter exclusion zone around the area.\n\nQueensland's fire department urged any member of the public who encounters similar objects not to touch them, and to immediately contact emergency services. Online speculation suggests the spheres may be propellant tanks from spacecraft that could contain residual amounts of highly flammable or reactive substances such as hydrazine.\n\nAustralia has experienced similar incidents before — in 2023, India confirmed that a large metal dome found on a Western Australian beach was debris from one of its Polar Satellite Launch Vehicles. A comparable sphere was also discovered in remote Namibia in 2011, also believed to be a spacecraft fuel tank. The origin of the latest objects has not yet been confirmed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:15 AM MT",
+      "addedAtISO": "2026-07-05T10:15:33.606856-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "Border Patrol Tops 21,000 Agents for First Time as Military and Law Enforcement Push Unconventional Recruitment",
+      "summary": "U.S. Border Patrol has surpassed 21,000 agents for the first time in its history since its founding in 1924, the agency announced this week, as President Trump's administration pushes an intensified recruitment drive backed by billions in new funding. Trump signed legislation last summer mandating 3,000 new Border Patrol hires, and this month signed a broader $70 billion border security bill — including $26 billion specifically for Border Patrol — with much of the money designated for recruiting and retention.\n\nThe military and Border Patrol are deploying unconventional methods to attract new recruits, including co-sponsoring rodeo events like the Professional Bull Riders Space Cowboys event in Colorado Springs, where Space Force and Border Patrol recruiters set up booths alongside bull-riding competitions held to mark America's 250th anniversary. Event organizers say the overlap between rodeo culture — emphasizing hard work, integrity, and selflessness — and the values of military and law enforcement service makes these venues a natural fit.\n\nSupporters of the expanded recruitment argue it reflects a necessary commitment to securing U.S. borders and fulfilling Trump's core campaign promises. Critics have raised concerns about the aggressive expansion of enforcement capacity and the normalization of Border Patrol's presence in civilian cultural spaces at a time when the agency's practices remain a subject of intense legal and political scrutiny. The new funding and staffing levels represent one of the most significant expansions of border enforcement infrastructure in the agency's history.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:15 AM MT",
+      "addedAtISO": "2026-07-05T10:15:33.606856-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "Update: Iran's New Leadership Takes Shape as Regime Undergoes Profound Transformation",
       "summary": "As Iran bids farewell to Supreme Leader Ayatollah Ali Khamenei — killed in joint U.S.-Israeli airstrikes earlier this year — the country is undergoing its most significant political transformation since the 1979 Islamic Revolution. A fragile ceasefire with the U.S. and Israel more or less holds, but analysts warn the underlying conflicts remain entirely unresolved, and Iran's new leadership may prove more formidable than those it replaced.\n\nThe U.S.-Iran memorandum of understanding, signed last month at the Palace of Versailles, has been compared by some analysts to the Treaty of Versailles in its ambition and potential long-term consequences. Iran's nuclear program was significantly damaged but not destroyed, and the whereabouts of uranium stockpiles sufficient for roughly ten atomic weapons remain uncertain, with much believed buried beneath rubble near the Isfahan nuclear complex.\n\nIran's 'Axis of Resistance' proxy network suffered major setbacks during the war, yet the country has not collapsed as Trump and Israeli Prime Minister Benjamin Netanyahu predicted in January. Experts warn that the new faces leading Iran may take a more hardline or strategically sophisticated approach than their predecessors.\n\nJohns Hopkins professor Vali Nasr told the BBC that the conflict is 'much more consequential and larger than we have given it credit for,' adding that major wars of this magnitude 'ultimately reorder the chess board' — and this one will do so for the entire Middle East.",
       "source": "BBC News",
