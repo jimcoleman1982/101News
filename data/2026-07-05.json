@@ -3,6 +3,48 @@
   "dateFormatted": "Sunday, July 5, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "New Ebola Treatment Trial Begins in Eastern Congo as Outbreak Surpasses 1,400 Cases",
+      "summary": "Researchers began enrolling patients in a highly anticipated clinical trial in Bunia, eastern Congo, to test two potential treatments for the Bundibugyo strain of Ebola, which has infected more than 1,400 people and killed at least 438 since the current outbreak began. The World Health Organization announced Thursday that the first participant had been enrolled in the study, which is evaluating the antiviral remdesivir, an experimental antibody treatment called MBP134, and a combination of both. Unlike more common Ebola strains, the Bundibugyo virus has no approved specific treatment or vaccine.\n\nThe trial is being conducted at Bunia's Evangelical Medical Center in Ituri province and is a collaboration between Congo's national biomedical research institute, Oxford University, Antwerp's Institute of Tropical Medicine, and other international health groups, with WHO support. Survival will be tracked over 28 days following treatment. A second phase of the trial will expand to cover healthcare workers and high-risk contacts.\n\nHealth workers said the launch was marked by urgency rather than ceremony, as ambulances continued arriving at the treatment center during enrollment. Researchers estimate the trial could run three to six months depending on how the outbreak evolves. The loss of USAID funding has complicated international response efforts, according to public health officials.\n\nFor residents of Bunia, who have endured weeks of mounting fear and loss, the trial represents a rare source of hope. \"I hope everything moves very quickly so that we can find relief,\" said one resident. Ebola survivor Gladys Munguro, recently discharged from a treatment center, said she witnessed fellow patients die while she recovered and urged swift progress in the research.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/residents-in-eastern-congo-cling-to-hope-as-a-new-ebola-treatment-trial-begins",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-05T21:08:34.713324-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Trump Intervened Directly with FIFA's Infantino Before Balogun Suspension Was Lifted",
+      "summary": "President Trump personally called FIFA President Gianni Infantino to discuss U.S. striker Folarin Balogun's controversial red card and resulting suspension before the governing body reversed its decision on Sunday, a U.S. official told Axios. The reversal clears Balogun to play in Monday's knockout round match against Belgium, which would send the United States to its first World Cup quarterfinal since 2002 if the Americans win. FIFA's announcement of the suspension lift drew an immediate protest from Belgium, whose officials said they were \"astonished\" by the decision.\n\nDirect presidential intervention in a FIFA disciplinary proceeding is highly unusual and raises questions about the influence of host-nation political pressure on tournament officiating. The episode illustrates the degree to which Trump has publicly aligned himself with the U.S. men's national team's World Cup run, which the U.S. is co-hosting. Critics argue that the reversal undermines confidence in FIFA's independence; supporters contend the original red card was wrong on the merits and the reversal was justified.\n\nBalogun has been the breakout scorer of the Americans' strongest World Cup campaign in a generation. His absence would have significantly weakened the U.S. attack in the round of 16. Belgium's protest of the reinstatement decision is ongoing, and FIFA has not publicly detailed the basis for overturning the suspension.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/05/trump-official-balogun-red-card-fifa-world-cup",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-05T21:08:34.713324-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "White House Report Labels Smithsonian's American History Museum Leaders as Ideological 'Extremists'",
+      "summary": "The White House Domestic Policy Council released a 162-page report on Independence Day accusing leaders of the Smithsonian Institution's National Museum of American History of being \"extreme\" activists who are imposing their own ideology on the presentation of U.S. history. The report alleges the museum downplays the role of the nation's founders while emphasizing social justice themes, and charges that it \"fails in the basic task of illuminating\" American history for the public.\n\nThe report is part of the Trump administration's broader campaign to overhaul federally funded cultural and historic institutions in Washington. It follows earlier executive actions targeting Smithsonian programming and comes amid the administration's wider effort to reshape how American history is taught and commemorated on the 250th anniversary of the nation's founding.\n\nSupporters of the administration's effort argue that taxpayer-funded institutions should present a more traditional, founder-centered account of American history rather than what they describe as politically motivated reinterpretations. Critics counter that the report represents political interference in scholarly and curatorial independence, and that museums' inclusion of social history reflects legitimate and well-established historical practice. The Smithsonian had not publicly responded to the report as of Sunday.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5954414-smithsonian-white-house-report-american-history/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-05T21:08:34.713324-06:00",
+      "slot": 21
+    },
+    {
       "category": "world",
       "headline": "Update: Israel's Cabinet Votes to Defy Supreme Court in Unprecedented Constitutional Rupture",
       "summary": "Israel's cabinet voted unanimously on Sunday to openly defy a ruling by the country's Supreme Court, marking the first time in the nation's history that an Israeli government has formally committed to defying its highest judicial authority. The move dramatically escalates a long-running constitutional crisis over the power of the judiciary that has run in parallel with Israel's regional military conflicts.\n\nPrime Minister Benjamin Netanyahu's government has been locked in a bitter struggle with the Supreme Court over judicial oversight of government decisions, a fight that has divided Israeli society and drawn massive street protests. Previous confrontations had stopped short of outright defiance; Sunday's cabinet decision crosses that line explicitly.\n\nThe ruling sets a precedent with potentially sweeping consequences for Israeli democracy, as it removes a key check on executive power at a moment when the government is simultaneously managing a post-war environment in Gaza, ongoing tensions with Iran, and domestic political pressures. Legal experts in Israel warned the move could unravel foundational norms of the country's constitutional order.\n\nNetanyahu, appearing on Fox News on Sunday, also pushed back against growing anti-Israel voices on the American right and addressed remarks by Vice President JD Vance, framing the United States and Israel as indispensable allies. He separately confirmed plans to meet with President Trump in Washington in the near future.",
