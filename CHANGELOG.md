@@ -1,5 +1,37 @@
 # Changelog
 
+## v2026.7.6
+
+Live-site verification after every run, with automatic Pages rebuilds.
+
+**What was happening:** On 2026-07-06 the 5:07 AM MDT run generated and
+pushed the morning edition, but GitHub's Pages deploy failed server-side
+("Deployment failed, try again later") and the site silently served the
+previous edition until the 8:07 AM run's push triggered a successful
+deploy. The same deploy failure also hit on 2026-07-05 at 22:11 UTC, and
+denver-digest on 2026-07-04. Nothing in the pipeline checked that the
+live site actually updated after a push, and the failure notification
+step could never fire (see below).
+
+**Changes:**
+
+- **New "Verify live site matches repo" step.** After the push, fetches
+  origin and compares the SHA-256 of `data/<today>.json` on the live site
+  (cache-busted) against the repo's copy. Content comparison (not
+  existence) because this site publishes up to 6 editions per day into
+  the same date file. On mismatch, requests a fresh Pages build via the
+  API and re-polls -- up to 3 attempts before failing the run. Runs on
+  no-op triggers too, so every schedule fire doubles as a deploy health
+  check.
+- **Fixed silent alerting bug.** The workflow's permissions block only
+  granted `contents: write`, so the "Notify on failure" step never had
+  permission to create issues -- past failures could not alert anyone.
+  Added `issues: write` and `pages: write`.
+- **Failure issues dedupe to one per day** to avoid a pile-up when
+  multiple daily runs hit the same incident.
+- **Job timeout raised 35 -> 50 minutes** to accommodate verification
+  polling on top of the existing 15-minute generation retry.
+
 ## v2026.5.26
 
 Slot catch-up logic so missed pulls can be recovered later in the same day.

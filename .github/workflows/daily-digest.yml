@@ -23,11 +23,13 @@ on:
 
 permissions:
   contents: write  # Needed to commit and push JSON data files
+  pages: write     # Needed to request Pages rebuilds when a deploy fails
+  issues: write    # Needed by the failure-notification step
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 35
+    timeout-minutes: 50
 
     steps:
       - name: Checkout repo
@@ -88,15 +90,70 @@ jobs:
           echo "the repo. Investigate GitHub status or manual conflict."
           exit 1
 
+      - name: Verify live site matches repo (rebuild Pages if not)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # A successful push does not mean the site updated: GitHub's Pages
+          # deploy can fail server-side afterward ("Deployment failed, try
+          # again later" -- hit this repo 2026-07-05 and 2026-07-06, and
+          # denver-digest 2026-07-04) and the site silently serves the
+          # previous edition. Since this site publishes multiple editions
+          # per day into the same date file, compare the live file's CONTENT
+          # against the repo's copy; if they differ, request a fresh Pages
+          # build and check again. Runs on no-op triggers too, so every
+          # schedule fire doubles as a deploy health check.
+          TODAY=$(TZ=America/Denver date +%F)
+          URL="https://101news.org/data/${TODAY}.json"
+          for attempt in 1 2 3; do
+            for i in $(seq 1 16); do
+              # Re-fetch each pass so a concurrent run pushing a newer
+              # edition mid-verify doesn't cause a false mismatch.
+              git fetch -q origin main
+              if ! git cat-file -e "FETCH_HEAD:data/${TODAY}.json" 2>/dev/null; then
+                echo "No data file for ${TODAY} on origin yet -- skipping."
+                exit 0
+              fi
+              EXPECTED=$(git show "FETCH_HEAD:data/${TODAY}.json" | sha256sum | cut -d' ' -f1)
+              # Cache-bust so the Pages CDN can't serve a stale cached copy.
+              LIVE=$(curl -sf "${URL}?cb=$(date +%s)" | sha256sum | cut -d' ' -f1 || echo "fetch-failed")
+              if [ "$LIVE" = "$EXPECTED" ]; then
+                echo "Live site matches repo (attempt $attempt)."
+                exit 0
+              fi
+              sleep 15
+            done
+            echo "Attempt $attempt: live file still does not match the repo."
+            if [ $attempt -lt 3 ]; then
+              echo "Requesting a fresh Pages build..."
+              gh api "repos/${GITHUB_REPOSITORY}/pages/builds" -X POST || true
+            fi
+          done
+          echo "ERROR: Live site is still serving stale data after repeated"
+          echo "Pages rebuild requests. GitHub Pages may be having an incident."
+          exit 1
+
       - name: Notify on failure
         if: failure()
         uses: actions/github-script@v7
         with:
           script: |
+            const today = new Date().toISOString().slice(0, 10);
+            const title = `101News digest failure - ${today}`;
+            const { data: open } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'bug'
+            });
+            if (open.some(i => i.title === title)) {
+              console.log('Issue already open for today -- not filing a duplicate.');
+              return;
+            }
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: `101News digest failed - ${new Date().toISOString().slice(0,10)}`,
-              body: `The digest workflow failed after retry.\n\n[View run](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})`,
+              title,
+              body: `A step in the digest run failed -- generation, the data push, or the live-site verification. See the run log.\n\n[View run](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})`,
               labels: ['bug']
             });
