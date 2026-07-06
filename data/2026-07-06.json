@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Sara Duterte Impeachment Trial Opens in Philippines Senate",
+      "summary": "The Philippine Senate's impeachment court convened Monday for the first day of Vice President Sara Duterte's historic trial, adjourning after initial proceedings. Duterte, daughter of former President Rodrigo Duterte, faces charges that have made the trial one of the most consequential political events in the country's recent history.\n\nThe impeachment stems from accusations related to misuse of confidential funds and alleged threats against President Ferdinand Marcos Jr. and his family, reflecting a dramatic rupture between the Marcos and Duterte political dynasties that had previously allied. The trial is being closely watched as a potential turning point in Philippine politics ahead of future elections.\n\nIf convicted by the Senate, Duterte would be removed from office and barred from holding public positions, effectively ending her political career and eliminating a leading opposition figure. Supporters argue the trial is politically motivated, while proponents say it is a necessary accountability measure for a constitutional officeholder.\n\nThe case has broad implications for Philippine democracy and the balance of power between the executive and legislature. With ten or more outlets covering the proceedings, the trial draws significant international attention to the stability of governance in a key U.S. ally in Southeast Asia.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/live/c1lyy82571lt",
+      "sourceCount": 10,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-07-06T08:08:35.944489-06:00",
+      "slot": 8
+    },
+    {
+      "category": "politics",
+      "headline": "Eight Shot Including Four Children at Coney Island on July 4; National Guard Kills Man in Memphis",
+      "summary": "At least eight people were shot in Brooklyn's Coney Island during Fourth of July celebrations Saturday night, including four children. A 6-year-old boy was shot in the stomach, a 7-year-old was struck in both legs, and a 21-year-old woman remained in critical condition after being shot in the chest, according to the New York Police Department.\n\nSeparately, two Tennessee National Guard soldiers fatally shot a 20-year-old man in Memphis early Sunday morning after he allegedly turned and pointed a gun at them during a foot pursuit. The soldiers were responding with local police to reports of gunshots around 4 a.m. when the confrontation occurred.\n\nThe Memphis shooting is drawing particular scrutiny because National Guard troops have been deployed in the city at the instigation of the Trump administration as part of a broader push to use military personnel in domestic law enforcement roles — a policy that critics argue raises serious constitutional concerns about the use of armed forces against civilians.\n\nThe holiday weekend violence, occurring across multiple cities, adds fresh intensity to ongoing national debates about public safety, the role of the military in policing, and gun violence. July 4 and 5 are statistically among the most violent days of the year in the United States, and at least five people died and more than 40 were injured in shootings across the country over the holiday weekend.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/5953870-coney-island-july-4th-shooting/",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-07-06T08:08:35.944489-06:00",
+      "slot": 8
+    },
+    {
+      "category": "science_health",
+      "headline": "Former CDC Chief Medical Officer Says RFK Jr. Has Caused 'Irreparable Harm' to Agency",
+      "summary": "Dr. Debra Houry, former chief medical officer at the Centers for Disease Control and Prevention, publicly condemned the direction of the agency under HHS Secretary Robert F. Kennedy Jr., saying he has caused \"irreparable harm.\" Houry made the remarks in an appearance on CBS News' \"Face the Nation,\" marking a significant public rebuke from a former senior CDC official.\n\nKennedy has overseen sweeping changes at HHS and its agencies since taking office, including staff reductions, restructuring of vaccine advisory committees, and shifts in public health messaging on vaccines and other issues. Critics from the public health establishment have argued these changes have undermined institutional credibility and public trust in health agencies at a time when robust health infrastructure is essential.\n\nSupporters of Kennedy's agenda contend that he is dismantling what they view as entrenched bureaucratic capture by pharmaceutical interests and restoring independent scientific scrutiny to federal health policy. They argue the overhaul is long overdue and that the backlash reflects resistance from officials who presided over failures in transparency during the COVID-19 pandemic.\n\nThe exchange highlights an ongoing and deepening conflict between the Trump administration's public health leadership and the professional public health community, with implications for vaccination rates, disease surveillance, and the federal government's capacity to respond to emerging health threats.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/5954352-cdc-robert-f-kennedy-debra-houry-hhs/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-07-06T08:08:35.944489-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
       "headline": "Update: Iran Seizes Cargo Ships in Strait of Hormuz as U.S. Blockade and Tensions Escalate",
       "summary": "Iran has seized two cargo ships in the Strait of Hormuz, including a vessel identified as the Epaminondas, as the conflict between the United States, Israel, and Iran continues to reverberate through global shipping lanes. President Trump has declared that the U.S. is blockading the Strait, a move with sweeping implications for roughly 20 percent of the world's oil supply that passes through the waterway. Dozens of vessels remain anchored in the Strait while Iran's top negotiator has asserted that Iran \"will decide the right of passage\" through the route.\n\nThe escalation comes as Iran mourns Supreme Leader Ayatollah Ali Khamenei, killed at the outset of the U.S.-Israel military campaign that began February 28. Funeral ceremonies have drawn an estimated 20 million people across Iran and Iraq, and Khamenei's son Mojtaba has not been seen publicly since his father's death, leaving questions about the country's political succession unresolved.\n\nQatar's foreign ministry has stated that no high-level meetings or direct talks between Washington and Tehran are currently scheduled, dimming near-term prospects for a diplomatic resolution. Energy markets have experienced sharp volatility since the conflict began, though fuel prices have begun to fall in some markets amid cautious optimism that a lasting peace could be negotiated.\n\nThe seizure of commercial vessels marks a significant escalation in Iran's response to the blockade and raises fresh alarms for global trade. Analysts note that a prolonged closure or disruption of the Strait of Hormuz could trigger an acute energy crisis across Europe and Asia, compounding economic pressures already felt from months of conflict.",
       "source": "BBC News",
