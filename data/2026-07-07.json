@@ -3,6 +3,48 @@
   "dateFormatted": "Tuesday, July 7, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: U.S. Launches New Strikes on Iran as Hormuz Shipping Attacks Threaten Ceasefire",
+      "summary": "The U.S. military launched fresh strikes against Iranian targets early Wednesday after three merchant ships were struck by projectiles in the Strait of Hormuz, the latest exchange threatening an interim ceasefire deal between the two countries. U.S. Central Command said the strikes were intended to \"impose heavy costs\" for targeting commercial shipping and called Iran's actions \"a clear violation of the ceasefire.\" Iranian state media reported explosions in Qeshm and Bandar Abbas.\n\nThe renewed hostilities are the most significant development since the interim deal was reached, with U.S. officials revoking a previously issued license in the hours after the tanker attacks. The strikes came while President Trump was in Ankara, Turkey, attending the NATO summit, adding diplomatic complexity to an already volatile situation. Negotiations aimed at fully reopening the strait, curbing Iran's nuclear program, and reaching a permanent end to the war launched February 28 remain ongoing but increasingly fragile.\n\nA similar cycle of Iranian shipping attacks and U.S. retaliation occurred late last month, but this round is seen as more serious given the scale and timing. The Strait of Hormuz is a critical chokepoint for global oil flows, and continued instability there carries broad economic consequences. Iran's new leadership, still consolidating power following Ayatollah Khamenei's death, has not issued a formal public response.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-us-israel-war-oil-4732228810c9839a1258309ad43b8289",
+      "sourceCount": 20,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "4:20 PM MT",
+      "addedAtISO": "2026-07-07T16:20:48.738094-06:00",
+      "slot": 18
+    },
+    {
+      "category": "other",
+      "headline": "Manhattan High-Rise Near Grand Central Remains Unstable After Columns Buckle During Renovation",
+      "summary": "A 37-story Manhattan office building being converted into luxury apartments buckled on two columns on its 21st and 22nd floors Tuesday morning, causing floors between the 21st and 26th stories to sag and prompting evacuations of the building and surrounding structures near Grand Central Terminal. New York City Mayor Zohran Mamdani and Fire Chief John Esposito said the building remained unstable and was being monitored by drones to avoid sending personnel inside. A nearby school with approximately 400 students was among the evacuated buildings; officials reported no injuries.\n\nThe structure is the former global headquarters of pharmaceutical giant Pfizer and is undergoing what its architectural firm, Gensler, has called the largest office-to-residential conversion in New York City history, with more than 1,600 planned apartment units. City officials said engineers would need to install emergency beams and columns to stabilize the compromised sections before workers could safely enter. Fire officials assessed the risk as a potential \"localized collapse\" rather than a total structural failure.\n\nThe incident drew attention to the broader wave of office-to-residential conversion projects underway in major U.S. cities. Streets in the immediate vicinity of the Chrysler Building and Grand Central remained closed to pedestrians and vehicles as of Tuesday morning, with officials describing the situation as a \"minute-by-minute assessment.\"",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/watch-live-nyc-officials-offer-update-as-manhattan-buildings-evacuated-over-high-rise-collapse-risk",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:20 PM MT",
+      "addedAtISO": "2026-07-07T16:20:48.738094-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Federal Judge Quashes DOJ Subpoena Seeking Names of Fulton County 2020 Election Workers",
+      "summary": "A federal judge in Georgia on Tuesday quashed a grand jury subpoena through which the Department of Justice had sought the names and personal contact information of election workers who administered the 2020 presidential vote in Fulton County. U.S. District Judge William Ray, a Trump appointee, found that the subpoena was improper and that it was too late to bring criminal charges, casting serious doubt on the DOJ's effort to reinvestigate Trump's unsubstantiated claims of widespread fraud in that race.\n\nThe ruling represents a significant setback for the Trump administration's DOJ, which had revived scrutiny of the 2020 Georgia results. Critics of the probe, including Democratic officials and election law advocates, had warned that compelling election workers to hand over personal information could expose them to harassment or intimidation. Supporters of the investigation argued it was a legitimate effort to audit the integrity of voter rolls and election administration.\n\nThe case adds to a pattern of judicial pushback against DOJ election-related subpoenas; a separate federal judge recently dismissed a DOJ lawsuit seeking detailed voter data from Maryland. Fulton County officials welcomed the ruling, with one attorney noting it \"protects the privacy of vulnerable individuals.\" The DOJ has not publicly commented on whether it will appeal.",
+      "source": "The Hill",
+      "url": "https://thehill.com/regulation/court-battles/5957739-judge-denies-doj-election-fraud/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:20 PM MT",
+      "addedAtISO": "2026-07-07T16:20:48.738094-06:00",
+      "slot": 18
+    },
+    {
       "category": "science_health",
       "headline": "Cyclospora Parasite Outbreak Surges Across Multiple U.S. States, CDC Investigating",
       "summary": "A sharp rise in cyclosporiasis infections has prompted federal and state health officials to launch investigations across more than a dozen states. As of July 7, Michigan alone has reported more than 708 confirmed cases — compared to roughly 170 just days earlier and a typical annual total of about 50. Ohio has logged at least 170 cases since late June, with Indiana, New York, and North Carolina each reporting more than 100 additional infections in recent weeks.\n\nCyclosporiasis is caused by a microscopic parasite, Cyclospora cayetanensis, that spreads through contaminated food and water, typically fresh produce. The illness causes prolonged, watery diarrhea and can require hospitalization. Nationwide, at least 20 people have been hospitalized across 17 states since May 1, though no deaths have been reported. The infected range in age from 5 to 86.\n\nThe CDC, working alongside the FDA and local health departments, said there is currently no evidence of a single multi-state outbreak linking all cases to one source, and no specific food, grower, or supplier has been identified. All known cases appear to be domestically acquired, with no international travel reported among those infected.\n\nHealth officials in Michigan described the spike as \"sudden and large\" and are urging residents who experience symptoms to seek medical care. Cyclosporiasis is a seasonal illness that typically peaks between May and August, but the scale of this year's surge has raised concern among public health authorities.",
