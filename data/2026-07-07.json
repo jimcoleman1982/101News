@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: LNG Tanker Struck and Ablaze in Strait of Hormuz as U.S.-Iran Talks Remain on Hold",
+      "summary": "A liquefied natural gas tanker was struck by a projectile and caught fire early Tuesday in the Strait of Hormuz off the coast of Oman, according to the British military. Iranian state television acknowledged the attack, saying the vessel had ignored warnings, without directly claiming responsibility. Tehran has repeatedly declared that only its approved shipping route through the strait is safe, and has been suspected in similar attacks on vessels using an alternate route near the Omani shore.\n\nThe attack comes as U.S.-Iran negotiations aimed at fully reopening the strait, rolling back Iran's nuclear program, and ending the ongoing conflict remain stalled. American officials said talks appeared to be on hold pending the burial of Supreme Leader Ayatollah Ali Khamenei, who was killed at the outset of the war that began February 28. Tens of thousands of mourners gathered in Qom, Iran, for funeral services Tuesday.\n\nPrevious attacks in the Strait of Hormuz have triggered retaliatory U.S. strikes on Iran, which in turn led to Iranian attacks on Gulf Arab states, raising the risk of further escalation. In peacetime, roughly a fifth of all globally traded oil and natural gas passed through the narrow channel, making its security a matter of acute concern for world energy markets.\n\nThe incident underscores the fragility of any interim arrangements in the region and complicates diplomatic efforts to stabilize the Persian Gulf. No immediate claim of responsibility was issued, and the fate of the tanker's crew was not immediately reported.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-us-israel-war-oil-4732228810c9839a1258309ad43b8289",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "7:25 AM MT",
+      "addedAtISO": "2026-07-07T07:25:57.593187-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Wildfire in Southern France Forces Evacuation of 10,000 as European Heatwave Intensifies",
+      "summary": "A rapidly spreading wildfire in the foothills of the French Pyrenees near Perpignan has forced the evacuation of more than 10,000 residents from over a dozen towns and villages, French authorities said Tuesday. The blaze, centered near Trévillach, has burned at least 4,600 hectares as of Tuesday morning, with Interior Minister Laurent Nunez warning that deteriorating conditions and strong winds could drive the fire further. Residents described the fire advancing to within 300 meters of homes at terrifying speed.\n\nThe European Commission announced it would dispatch four firefighting aircraft from Cyprus and Sweden to assist French emergency services. The fires have also affected northeastern Spain, where more than 2,200 hectares of the Les Gavarres nature reserve have been destroyed and 500 people were evacuated from the Sierra de Espadan national park in Castellon province.\n\nThe wildfires are unfolding amid a severe early-summer heatwave that has already proved deadly across Europe. Temperatures exceeded 40 degrees Celsius in parts of Portugal and Spain, and forecasters warned the heat could persist into next week with little rainfall expected. A record-breaking heatwave in June was linked to at least 2,025 excess deaths in France, 1,222 in Belgium, and roughly 480 in the Netherlands.\n\nThe Tour de France was also affected, with race organizers urging spectators to avoid the final 40 kilometers of the third stage and reducing the convoy of team vehicles to allow emergency access. Climate scientists have linked the increasing frequency and severity of European heatwaves and associated wildfires to long-term climate change.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:25 AM MT",
+      "addedAtISO": "2026-07-07T07:25:57.593187-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Monaco Bombing Suspect Found Dead in Ukraine; Military Intelligence Officer Confesses to Murder",
+      "summary": "Anastasiia Berezovska, the Ukrainian woman suspected of carrying out a parcel bombing in Monaco that seriously injured a sanctioned Ukrainian businessman and his family on June 29, has been found dead in Ukraine with gunshot wounds to the head, the Security Service of Ukraine (SBU) announced Tuesday. Two suspects have been detained in connection with her killing: a former law enforcement officer and a serving officer in Ukraine's Ministry of Defence military intelligence directorate, the latter of whom confessed to the murder.\n\nBerezovska had returned to Ukraine two days after the Monaco attack, where investigators say she was in contact with both men, who had allegedly transferred funds to her crypto and bank accounts prior to the bombing. During a search of the former law enforcement officer's residence, police said they discovered a basement room described as resembling a torture chamber.\n\nThe Monaco attack targeted Vadym Yermolaiev, identified by local media as a real estate developer ranked among Ukraine's wealthiest individuals, his partner, and his 13-year-old son. All three were injured, two seriously, when a package exploded in the entrance of an apartment building. Monaco authorities had issued an Interpol red notice for Berezovska, and European police conducted searches in Germany before her body was found.\n\nThe case has drawn intense scrutiny in Ukraine given the involvement of an active military intelligence officer. The SBU said its investigation was proceeding with the direct involvement of intelligence directorate chief Oleg Ivashchenko, and that authorities were working to identify additional suspects.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:25 AM MT",
+      "addedAtISO": "2026-07-07T07:25:57.593187-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
       "headline": "Update: Marine Le Pen Appeal Verdict Due Tuesday; French Presidential Race Hangs in Balance",
       "summary": "A Paris appeals court is set to deliver its verdict Tuesday at 13:30 local time on whether to uphold Marine Le Pen's embezzlement conviction, a ruling that will determine whether France's leading presidential contender can stand in the 2027 election. Le Pen was originally convicted in March 2025 of embezzling €1.4 million in European Parliament funds to pay National Rally party employees, and was sentenced to five years barred from public office along with a four-year prison term.\n\nIf the appeals court upholds the conviction, Le Pen — who currently leads presidential polls — would be barred from the race. Her 29-year-old lieutenant Jordan Bardella would likely stand in her place. If the court overturns or reduces the sentence sufficiently, she would be free to run, effectively firing the starting gun on the presidential campaign with the first round scheduled for April 18, 2027.\n\nLe Pen has portrayed herself as a victim of politically motivated justice, arguing she received unequal treatment compared to other politicians found guilty of fraud. Prosecutors, however, have maintained that she was at the heart of a systematic fake-jobs scheme and are seeking the original five-year ban to stand. The verdict is among the most consequential judicial decisions in recent French political history.",
       "source": "BBC News",
