@@ -3,6 +3,48 @@
   "dateFormatted": "Tuesday, July 7, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Nigel Farage Resigns as MP, Triggers By-Election Amid Financial Scandal",
+      "summary": "British populist leader Nigel Farage resigned Tuesday as a Member of Parliament for Clacton, triggering a special by-election in what he framed as a direct appeal to voters amid a parliamentary investigation into undisclosed financial gifts. Farage said he would stand in the by-election himself, calling it \"a people versus the establishment\" contest. His resignation suspends two ongoing parliamentary inquiries into donations he received, including from a convicted criminal.\n\nFarage has been accused of violating British parliamentary disclosure rules by failing to report financial gifts. Outgoing Prime Minister Keir Starmer dismissed the move as a \"desperate stunt,\" saying Farage was \"up to his neck in sleaze.\" Farage denied any wrongdoing, saying the voters of Clacton — not a parliamentary standards committee — should judge him.\n\nThe stakes are substantial for British politics. Farage's Reform UK party has topped national opinion polls for over a year and performed strongly in recent local elections, contributing to pressure that led to Starmer's own resignation. If Farage wins his seat back, he could emerge as the leading opposition figure to incoming Labour leader Andy Burnham. If he loses, he would be barred from becoming prime minister.\n\nThe gamble reflects the high-wire nature of Farage's political brand, built on anti-establishment populism and Brexit. Supporters see the move as bold and principled; critics view it as an attempt to escape accountability by bypassing the formal parliamentary oversight process.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/nigel-farage-uk-far-right-leader-trump-ally-resigns-finance-scandal/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:36 AM MT",
+      "addedAtISO": "2026-07-07T10:36:00.244722-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "Lawsuit Alleges Trump Administration Shared Iranian Asylum Seekers' Files With Tehran",
+      "summary": "The Iranian American Legal Defense Fund filed a federal lawsuit Tuesday alleging the Trump administration has been sharing confidential immigration files of Iranian asylum seekers — including their asylum applications — directly with the Iranian government. The complaint, filed in Washington, D.C., claims ICE held monthly meetings with Iranian government officials and shared document packages containing case details, despite federal regulations prohibiting disclosure of asylum application information to the country from which a person fled.\n\nThe suit says more than 100 Iranians have been deported during the Trump administration, and that many of those in ICE custody are pro-democracy activists, religious minorities, or LGBTQ individuals who face persecution, torture, or death if identified by the Iranian government. According to the complaint, Iranian officials also met with detainees at ICE facilities without their consent, and those officials demonstrated knowledge of the detainees' specific asylum cases. The nonprofit Public Citizen is representing the plaintiffs.\n\nThe Department of Homeland Security and the State Department did not immediately respond to requests for comment. A DHS statement on a related matter denied any attempt to suppress free speech, though it did not address the asylum-sharing allegations specifically. The complaint also alleges the information-sharing continued even after the outbreak of direct U.S.-Iran hostilities on February 28.\n\nThe case raises significant legal and human rights questions about the limits of immigration enforcement coordination with adversarial governments during wartime. Civil liberties advocates say the alleged conduct could expose deportees to life-threatening consequences upon return to Iran, while the administration has broadly argued that deportation coordination with receiving governments is a necessary logistical requirement.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/US/administration-sharing-info-asylum-seekers-iranian-government-lawsuit/story?id=134547340",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:36 AM MT",
+      "addedAtISO": "2026-07-07T10:36:00.244722-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Tornadoes and Severe Storms Kill at Least 11 in China's Hubei Province",
+      "summary": "At least 11 people were killed and more than 300 injured after severe thunderstorms and rare tornadoes struck multiple cities in China's Hubei province on Tuesday, according to state media. The storms caused widespread damage to thousands of buildings across the neighboring cities of Ezhou and Huanggang, with videos of the twisters circulating widely online. Local authorities have launched rescue and relief operations.\n\nA student in Huanggang told the BBC the event initially appeared to be an ordinary thunderstorm before objects began flying through the air and glass shattered dormitory windows. \"It wasn't until everything had finally stopped that I realized I had just lived through a disaster,\" the student said. Tornadoes are rare in the region; state media reported the last recorded occurrence was in 2021.\n\nThe death toll and scale of structural damage place this event in the category of a significant natural disaster for a densely populated region of central China. Rescue operations are ongoing and casualty figures may rise as authorities assess the full extent of damage across the affected cities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cq61d22ved2o",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:36 AM MT",
+      "addedAtISO": "2026-07-07T10:36:00.244722-06:00",
+      "slot": 11
+    },
+    {
       "category": "world",
       "headline": "Update: LNG Tanker Struck and Ablaze in Strait of Hormuz as U.S.-Iran Talks Remain on Hold",
       "summary": "A liquefied natural gas tanker was struck by a projectile and caught fire early Tuesday in the Strait of Hormuz off the coast of Oman, according to the British military. Iranian state television acknowledged the attack, saying the vessel had ignored warnings, without directly claiming responsibility. Tehran has repeatedly declared that only its approved shipping route through the strait is safe, and has been suspected in similar attacks on vessels using an alternate route near the Omani shore.\n\nThe attack comes as U.S.-Iran negotiations aimed at fully reopening the strait, rolling back Iran's nuclear program, and ending the ongoing conflict remain stalled. American officials said talks appeared to be on hold pending the burial of Supreme Leader Ayatollah Ali Khamenei, who was killed at the outset of the war that began February 28. Tens of thousands of mourners gathered in Qom, Iran, for funeral services Tuesday.\n\nPrevious attacks in the Strait of Hormuz have triggered retaliatory U.S. strikes on Iran, which in turn led to Iranian attacks on Gulf Arab states, raising the risk of further escalation. In peacetime, roughly a fifth of all globally traded oil and natural gas passed through the narrow channel, making its security a matter of acute concern for world energy markets.\n\nThe incident underscores the fragility of any interim arrangements in the region and complicates diplomatic efforts to stabilize the Persian Gulf. No immediate claim of responsibility was issued, and the fate of the tanker's crew was not immediately reported.",
