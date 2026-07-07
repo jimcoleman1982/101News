@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-07",
+  "dateFormatted": "Tuesday, July 7, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Marine Le Pen Appeal Verdict Due Tuesday; French Presidential Race Hangs in Balance",
+      "summary": "A Paris appeals court is set to deliver its verdict Tuesday at 13:30 local time on whether to uphold Marine Le Pen's embezzlement conviction, a ruling that will determine whether France's leading presidential contender can stand in the 2027 election. Le Pen was originally convicted in March 2025 of embezzling €1.4 million in European Parliament funds to pay National Rally party employees, and was sentenced to five years barred from public office along with a four-year prison term.\n\nIf the appeals court upholds the conviction, Le Pen — who currently leads presidential polls — would be barred from the race. Her 29-year-old lieutenant Jordan Bardella would likely stand in her place. If the court overturns or reduces the sentence sufficiently, she would be free to run, effectively firing the starting gun on the presidential campaign with the first round scheduled for April 18, 2027.\n\nLe Pen has portrayed herself as a victim of politically motivated justice, arguing she received unequal treatment compared to other politicians found guilty of fraud. Prosecutors, however, have maintained that she was at the heart of a systematic fake-jobs scheme and are seeking the original five-year ban to stand. The verdict is among the most consequential judicial decisions in recent French political history.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-07T05:08:34.028480-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Explosions Injure 18 in Damascus During French President Macron's Visit",
+      "summary": "Two explosive devices detonated in central Damascus on Tuesday, injuring 18 people including four police officers, Syrian state media reported. The blasts occurred approximately 125 meters from the Four Seasons hotel where French President Emmanuel Macron had been staying during a landmark diplomatic visit — the first by a European Union leader since Ahmed al-Sharaa came to power following the fall of the Assad regime in December 2024.\n\nSyrian state news agency SANA said security forces had detected the devices and that they detonated while specialised units were attempting to defuse them. One device was concealed in a parked vehicle, the other in a rubbish bin. Macron's office confirmed he was safe and had not heard the explosions; he continued his visit, writing on social media that \"nothing can smother the aspiration of Syrian women and men to live in a fully sovereign, safe, pluralistic, and united Syria.\"\n\nThe attack underscores the severe security challenges facing Syria's new government as it seeks international legitimacy and reconstruction investment. The Islamic State group has claimed a series of attacks on government targets in recent months, including a bomb blast at a Damascus café on July 1 that killed nine people. Macron was in Damascus for talks focused on Syria's political transition and economic reconstruction before heading to the NATO summit in Ankara.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-07T05:08:34.028480-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Trump Arrives at NATO Summit in Ankara Angered Over Allies' Refusal to Back Iran War",
+      "summary": "President Trump arrived in Ankara on Tuesday for the annual NATO summit carrying unresolved anger toward allies who declined to grant overflight rights or open military bases during U.S. operations against Iran, according to reporting from Axios and The Hill. The grievance has deepened longstanding Trump skepticism about the alliance's value, and officials say he intends allies to be aware of his displeasure during the summit.\n\nThe summit's agenda is dominated by defense spending targets, with NATO Secretary-General Mark Rutte pressing members for \"clear, concrete and credible\" plans to meet 2030 goals. Allies have unveiled $12 billion in defense procurement deals — including next-generation drones and surveillance aircraft — in part to demonstrate responsiveness to Trump's demands. Several European nations are also advancing a joint defense financing initiative.\n\nAdding complexity, Israeli Prime Minister Netanyahu called Trump ahead of the summit to complain about Turkish President Erdoğan's anti-Israel rhetoric and to urge Trump not to sell weapons systems that would modernize Turkey's air force. Turkey's re-entry into the F-35 program has emerged as a flashpoint, with Republican critics and Israel opposing restoring access while Ankara retains Russian air defense systems. Ukraine's President Zelensky is also attending, seeking continued support amid an ongoing interceptor shortage following Russia's massive missile strike on Kyiv.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/07/trump-nato-iran-war-grudge",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-07T05:08:34.028480-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Khamenei Funeral Procession Draws Thousands in Tehran; Red Flags Signal Vengeance",
+      "summary": "Hundreds of thousands of mourners lined the streets of Tehran on Tuesday for the funeral procession of Iran's late Supreme Leader Ayatollah Ali Khamenei, who was killed along with several family members in U.S. strikes earlier this year. The coffins were carried along a 10-kilometer route through the capital in a carefully choreographed event that Iran's state broadcaster said would last 10 to 12 hours.\n\nThe procession was suffused with political symbolism: red flags representing a pledge of vengeance were prominent throughout the crowds, and mourners were seen throwing rocks at a poster bearing President Trump's image. Anti-Trump and anti-American messages were visible throughout the procession route, reflecting the state-directed tone of the weeklong funeral.\n\nThe mass public ceremony marks one of the most significant moments of political transition in Iran in decades. With Khamenei dead and a new leadership structure taking shape, the funeral serves as both a mourning ritual and a political statement about the Islamic Republic's intentions and continuity. The event is being watched closely by U.S. and allied intelligence services for signals about Iran's posture ahead of ongoing negotiations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/live/ckg09eldgzrt",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-07T05:08:34.028480-06:00",
+      "slot": 5
+    }
+  ]
+}
