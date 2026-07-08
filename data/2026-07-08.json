@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, July 8, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "IMF Cuts Global Growth Forecast to 3% for 2026, Citing Iran War Energy Shock",
+      "summary": "The International Monetary Fund on Wednesday downgraded its outlook for world economic growth to 3% in 2026, down from 3.5% last year and from its April forecast of 3.1%, citing the energy shock triggered by the U.S.-Iran conflict. The IMF projects oil prices will rise nearly 32% this year and global consumer inflation will reach 4.7%, reversing two years of progress against price pressures. The fund expects a partial rebound to 3.4% growth in 2027, contingent on the Strait of Hormuz reopening later this month — an assumption complicated by President Trump's declaration Wednesday that a ceasefire with Iran is over.\n\nThe United States is forecast to grow 2.3% in 2026, buoyed by the 2025 tax cuts, AI-driven productivity gains, and a strong stock market. Eurozone nations, hammered by higher energy prices, are collectively expected to grow just 0.9%, down from 1.4% in 2025. China is projected to expand 4.6%, slightly above April's forecast, supported by public works spending and high-tech manufacturing despite property market headwinds.\n\nIMF Deputy Research Director Petya Koeva Brooks told reporters that 'the world economy has weathered the shock from the war better than feared,' crediting existing oil stockpiles and increased production by non-Persian Gulf exporters for limiting the damage. The fund's forecasts carry significant uncertainty given the fluid state of U.S.-Iran hostilities and the unresolved status of Hormuz shipping lanes, through which roughly one-fifth of global oil and natural gas trade passes.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/economy/world-economy-expected-to-grow-sluggish-3-this-year-imf-says",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:04 AM MT",
+      "addedAtISO": "2026-07-08T10:04:47.776338-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Lawyer Says Detained Gaza Doctor Was Severely Beaten in Israeli Prison, Fears for His Life",
+      "summary": "The attorney for Dr. Hussam Abu Safiya, director of Kamal Adwan Hospital in northern Gaza who has been held by Israeli authorities without charge for more than 18 months, told the BBC on Wednesday that his client had been so severely beaten during a prison visit last week that he could barely be recognized. Lawyer Nasser Odeh said bruises covered Abu Safiya's face, neck, and ears, and that the doctor told him he feared he would not survive. 'I think someone has decided to kill me,' Odeh quoted his client as saying.\n\nThe Israel Prison Service rejected the account as false. Israeli authorities maintain Abu Safiya was detained on suspicion of involvement in terrorist activities and for holding a colonel-level rank in Hamas's health ministry, which provided medical care to security personnel. International aid groups and medical staff who worked with him deny that he cooperated with Hamas in a military capacity.\n\nIsrael's Supreme Court has ordered the government to respond by Tuesday to a petition seeking the release of Abu Safiya and 13 other Palestinian doctors held without charge. Abu Safiya was detained in December 2024 when Israeli forces evacuated Kamal Adwan Hospital, which the military described as a Hamas stronghold. The World Health Organization had at the time called for an end to attacks on medical facilities in Gaza.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:04 AM MT",
+      "addedAtISO": "2026-07-08T10:04:47.776338-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Two Girls Seriously Injured in Knife Attack at German School; Teen Suspect Arrested",
+      "summary": "Two 13-year-old girls were seriously injured Wednesday at the Welfen-Gymnasium secondary school in Schongau, a small town in Upper Bavaria, Germany, after an attack by a 16-year-old suspect who was subsequently arrested. Police said the suspect was found carrying both a knife and a firearm and was believed to have acted alone. Neither victim's injuries were described as life-threatening, though Bavaria's interior minister said he believed the girls had been stabbed.\n\nAuthorities launched a major operation at the school and described the incident as a 'rampage.' The suspect's identity was not released, and it remained unclear whether the individual had a direct connection to the school. Interior Minister Joachim Herrmann said the suspect had previously received psychiatric treatment and that there were unconfirmed indications the attacker was a former student.\n\nA family and parent contact point was established at a local fire station. The attack is the latest in a series of school violence incidents across Europe and is likely to intensify debates in Germany over school security and mental health intervention policies.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:04 AM MT",
+      "addedAtISO": "2026-07-08T10:04:47.776338-06:00",
+      "slot": 11
+    },
+    {
       "category": "technology",
       "headline": "Trump Administration Clears OpenAI's GPT-5.6 for Public Release",
       "summary": "The Trump administration has approved a broad public launch of OpenAI's advanced GPT-5.6 model series, ending a government-requested delay. OpenAI announced late Tuesday that its flagship model \"Sol,\" along with lower-tier models \"Terra\" and \"Luna,\" will be released publicly on Thursday. CEO Sam Altman posted \"happy building\" on social media following the announcement.\n\nThe clearance marks a notable moment in the evolving relationship between the federal government and leading artificial intelligence companies, with access to powerful AI models now being negotiated on a case-by-case basis in real time. The administration had previously asked OpenAI to hold off on the rollout, though the specific reasons for the delay were not disclosed publicly.\n\nThe episode underscores the degree to which Washington is now directly involved in decisions about when and how frontier AI systems reach the public. GPT-5.6 represents OpenAI's most capable model to date, and its release is expected to intensify competition across the AI industry.",
