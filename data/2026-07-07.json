@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: U.S. Strikes Over 80 Iran Targets, Reimposed Sanctions as Iran Threatens 'Crushing Response'",
+      "summary": "U.S. Central Command announced it completed a new round of offensive strikes against Iran on Tuesday, hitting more than 80 targets including oil infrastructure on Kharg Island, port facilities at Bandar Abbas and Sirik, and Qeshm Island. The strikes came in retaliation for Iranian attacks on commercial vessels transiting the Strait of Hormuz. Simultaneously, the Trump administration revoked a sanctions waiver for Iranian oil sales, reimposing economic pressure it had eased as part of last month's interim ceasefire agreement.\n\nIran's top military command, Khatam al-Anbiya Central Headquarters, responded in the early hours of Wednesday warning it would deliver a 'crushing response to the US aggression.' Iran's chief nuclear negotiator Mohammad Bagher Ghalibaf accused Washington of violating their memorandum of understanding, declaring 'the era of bullying and extortion is over.' Air raid sirens sounded in Bahrain — home to the U.S. Navy's Fifth Fleet — as Iran's warning spread, with the Bahraini government urging citizens to seek shelter.\n\nThe escalation has put the fragile ceasefire under severe strain. Regional sources told CNN that some Gulf allies were urgently sending messages to both Washington and Tehran urging restraint. The strikes and sanctions move came as Iran was in the midst of state funeral ceremonies for Supreme Leader Khamenei, adding a charged symbolic dimension to the military exchange.\n\nThe clashes form a backdrop to the NATO summit in Ankara, Turkey, where President Trump and allied leaders gathered Tuesday. European allies, many of whom declined to provide bases or forces for U.S. operations against Iran, face renewed friction with Washington over the conflict even as they sought to address Trump's longstanding defense-spending complaints.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/07/world/live-news/nato-summit-trump",
+      "sourceCount": 15,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-07T21:08:42.626017-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "China Tests Submarine-Launched ICBM in Pacific; U.S. Condemns Launch",
+      "summary": "The Trump administration on Tuesday condemned China's test launch of an unarmed intercontinental ballistic missile fired from a submarine in the Pacific Ocean, calling the event 'of great concern.' A State Department statement declared: 'At a time when the United States is working harder than ever to prevent nuclear proliferation, China is doing the opposite.' The test occurred Monday and drew a swift public rebuke from Washington.\n\nAnalysts said the submarine-launched ICBM test may signal the beginning of more regular Pacific launches as China works to modernize and expand its nuclear arsenal. The ability to fire ICBMs from submarines adds a survivable second-strike capability that significantly complicates U.S. and allied defense planning in the Indo-Pacific region. Governments already wary of China's military buildup, including Japan, Australia, and South Korea, are expected to view the test as further evidence of accelerating Chinese nuclear ambitions.\n\nThe test comes at a particularly fraught moment in U.S.-China relations, with Washington simultaneously engaged in military operations against Iran, managing tensions at the NATO summit, and navigating ongoing trade and technology disputes with Beijing. Arms control experts noted that the U.S. and China have no bilateral nuclear risk-reduction framework comparable to the agreements Washington maintained with Moscow during the Cold War, leaving fewer formal channels to manage escalation risks.\n\nThe condemnation was covered by Bloomberg and The Hill, with limited but substantive sourcing given the inherent significance of a submarine-launched ICBM test by a major nuclear power. The Pentagon has not detailed whether it tracked the launch in real time or whether it triggered any immediate military response.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/5957727-china-icbm-missile-test/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-07T21:08:42.626017-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
       "headline": "Update: U.S. Launches New Strikes on Iran as Hormuz Shipping Attacks Threaten Ceasefire",
       "summary": "The U.S. military launched fresh strikes against Iranian targets early Wednesday after three merchant ships were struck by projectiles in the Strait of Hormuz, the latest exchange threatening an interim ceasefire deal between the two countries. U.S. Central Command said the strikes were intended to \"impose heavy costs\" for targeting commercial shipping and called Iran's actions \"a clear violation of the ceasefire.\" Iranian state media reported explosions in Qeshm and Bandar Abbas.\n\nThe renewed hostilities are the most significant development since the interim deal was reached, with U.S. officials revoking a previously issued license in the hours after the tanker attacks. The strikes came while President Trump was in Ankara, Turkey, attending the NATO summit, adding diplomatic complexity to an already volatile situation. Negotiations aimed at fully reopening the strait, curbing Iran's nuclear program, and reaching a permanent end to the war launched February 28 remain ongoing but increasingly fragile.\n\nA similar cycle of Iranian shipping attacks and U.S. retaliation occurred late last month, but this round is seen as more serious given the scale and timing. The Strait of Hormuz is a critical chokepoint for global oil flows, and continued instability there carries broad economic consequences. Iran's new leadership, still consolidating power following Ayatollah Khamenei's death, has not issued a formal public response.",
       "source": "Associated Press",
