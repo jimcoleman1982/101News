@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Fatal ICE Shooting in Texas Sparks Calls for Independent Investigation",
+      "summary": "The family of Lorenzo Salgado Araujo, a Mexican immigrant fatally shot by a federal Immigration and Customs Enforcement agent in Texas on Tuesday, held a press conference Wednesday demanding an independent investigation into his death. His son Ronaldo Salgado said his father had worked for 35 years to put three American citizen sons through college and had been in the process of pursuing legal status when he was killed by an ICE officer while on his way to work. The family said they learned of his death from news reports.\n\nHouston-area officials and advocates have drawn comparisons to other high-profile fatal ICE shootings, including those of Renee Good and Alex Pretti in Minneapolis. Community groups and legal advocates expressed deep skepticism of federal officials' account of the incident, with Ronaldo Salgado stating plainly, \"We do not believe them,\" and calling for transparency and independent oversight.\n\nThe shooting adds to a pattern of scrutiny over the use of force during immigration enforcement operations that has intensified since the Trump administration dramatically expanded deportation activities. Critics argue the incidents reveal a lack of accountability in ICE operations, while administration supporters contend that agents face dangerous and unpredictable situations in the field and must be permitted to protect themselves.\n\nThe case is being covered by multiple national outlets and reflects a broader national debate over immigration enforcement tactics, use of force standards, and the rights of immigrants — both documented and undocumented — in the current enforcement environment.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/5959687-family-advocates-fatal-ice-shooting/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:15 PM MT",
+      "addedAtISO": "2026-07-08T16:15:38.405987-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Major Telstra Outage Disrupts Trains, Emergency Calls Across Australia",
+      "summary": "A nationwide outage at Telstra, Australia's largest telecommunications company, cancelled regional train services across Victoria and parts of New South Wales, knocked out mobile coverage for thousands of customers, and disrupted emergency call connections for a period of approximately 12 hours on Wednesday. The outage began at 4:30 a.m. local time and was traced to a software defect in time-keeping servers at data centres in Sydney and Melbourne — not a cyberattack, according to Telstra's chief financial officer Michael Ackland.\n\nAustralian Prime Minister Anthony Albanese described the outage as \"deeply concerning.\" Telstra said six people who attempted to call emergency services during the outage required immediate assistance, and the company conducted welfare checks on those individuals. Back-up systems that route emergency calls through other carriers largely functioned as designed, Ackland said, but the failures prompted the country's telecommunications regulator, the Australian Communications and Media Authority, to launch a formal investigation.\n\nThe disruption also affected payment systems, with approximately 80,000 businesses using the Tyro payments app unable to process transactions. Services were fully restored roughly 12 hours after the outage began. The incident drew comparisons to a 2023 Optus outage that left thousands unable to reach emergency services and a 2024 Optus system failure linked to three deaths.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:15 PM MT",
+      "addedAtISO": "2026-07-08T16:15:38.405987-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
       "headline": "Update: Khamenei Coffin Carried Through Iraq's Holiest Shrines as Burial Set for Thursday",
       "summary": "The remains of Iran's late Supreme Leader Ayatollah Ali Khamenei were carried through two of Shia Islam's holiest shrines in Iraq on Wednesday — the mausoleums of Imam Ali in Najaf and Imam Hussein in Karbala — as funeral ceremonies entered their fifth day. Tens of thousands of mourners filled the streets, with chants of 'Death to America' and 'Death to Israel' audible as the coffin passed. Khamenei is set to be buried Thursday in Mashhad, northeastern Iran.\n\nIranian President Masoud Pezeshkian attended the Iraq ceremonies alongside senior Iranian officials, welcomed by Iraqi Prime Minister al-Zaidi, whose government declared Wednesday a public holiday. Pezeshkian reportedly flew home early after fresh U.S.-Iran strikes were exchanged following tanker attacks in the Strait of Hormuz — a significant new escalation in the conflict.\n\nNotably absent again was Iran's new Supreme Leader Mojtaba Khamenei, who has not appeared publicly since he was reportedly seriously wounded in the same Israeli airstrike on February 28 that killed his father. His continued absence fuels uncertainty about the stability of Iran's leadership succession at a critical moment.\n\nThe ceremonies carry symbolic weight beyond mourning: Iran has deliberately staged a grand, multi-country farewell for Khamenei to project defiance and signal to its regional allies and adversaries alike that the Islamic Republic's resistance posture remains intact despite the military losses it has sustained.",
       "source": "BBC News",
