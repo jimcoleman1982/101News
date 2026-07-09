@@ -3,6 +3,34 @@
   "dateFormatted": "Thursday, July 9, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "Fed Minutes Reveal Deep Split on Inflation Path; Warsh Announces Policy Review",
+      "summary": "Minutes from the Federal Reserve's June 16-17 meeting, released Wednesday, reveal that policymakers are sharply divided over the future path of interest rates, with roughly half of the 18 officials who submitted projections favoring a rate increase by year-end and the other half supporting holding steady or cutting. The Fed kept its benchmark rate unchanged at 3.5%-3.75% at that meeting, a unanimous decision, though a few officials had argued for an immediate hike.\n\nNew Fed Chair Kevin Warsh, appointed by President Trump to replace Jerome Powell earlier this year, simultaneously announced a wide-ranging review of central bank policymaking, signaling that near-term changes to the Fed's large bond holdings are unlikely. Warsh did not submit his own rate forecast, saying doing so can lock policymakers into positions that are harder to reverse. His post-meeting comments have been widely interpreted as signaling a possible rate hike later in 2026.\n\nA central concern dividing officials is the inflationary impact of the artificial intelligence buildout. The minutes noted that strong demand for AI infrastructure is sustaining upward pressure on prices for semiconductors, electricity, and technology goods — Apple recently raised laptop and iPad prices citing more expensive memory chips. Many officials expect inflation to cool as gas prices ease and tariff effects fade, but others fear the AI-driven price surge will persist.\n\nInflation has worsened since U.S. and Israeli strikes on Iran began in late February, reaching a three-year high of 4.2% in May — well above the Fed's 2% target, which it has missed for more than five years. The split within the committee underscores the difficulty of monetary policy during an active military conflict that is simultaneously disrupting energy markets and supply chains.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/federal-reserve-warsh-inflation-3ec0b0c2fe05e3833e324fa522a1882a",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:53 AM MT",
+      "addedAtISO": "2026-07-09T07:53:50.577742-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Nigeria's President Orders Corruption Probe After Fake Government Agency Found Operating in His Own Office",
+      "summary": "Nigerian President Bola Tinubu on Tuesday ordered the Independent Corrupt Practices and Other Related Offences Commission to investigate allegations that a fictitious government agency was created within his own office and given a budget allocation of 1.3 billion naira — approximately $950,000 — in the 2026 national budget. The agency, called the Presidential Foreign Intervention Promotion Council, operated with a staff of three, secured office space in Abuja's Federal Secretariat, and opened bank accounts with the Central Bank of Nigeria.\n\nThe presidency says the appointment letter bearing the signature of Tinubu's chief of staff, Femi Gbajabiamila, was forged, and police forensic analysis has confirmed the forgery. Authorities have launched a manhunt for Adeniyi Adeyemi Matthew, who presented himself as the agency's director general. Matthew, before going into hiding, told local media he was innocent, claimed the body was lawfully established, and accused senior government officials of demanding bribes during his appointment and later attempting to seize the council's funds — allegations the presidency denies.\n\nThe accountant general's office says the fictitious agency never received any public funds or salaries despite its appearance in official budget documents. The case has highlighted vulnerabilities in Nigeria's government accountability systems, given that the fake body managed to acquire office space, appear in the national appropriations act, and gain the appearance of legitimacy before detection.\n\nTinubu ordered investigators to examine forged documents, the use of false claims to seek diplomatic support and visa facilitation, the opening of multiple bank accounts using fraudulent paperwork, and the role of any public officials or financial institutions that may have facilitated the scheme. The ICPC has 30 days to submit a comprehensive report.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:53 AM MT",
+      "addedAtISO": "2026-07-09T07:53:50.577742-06:00",
+      "slot": 8
+    },
+    {
       "category": "world",
       "headline": "Update: Trump Says Iran Ceasefire Is 'Over,' U.S. Strikes 170 Iranian Targets in 48 Hours",
       "summary": "President Trump declared the U.S.-Iran memorandum of understanding finished, telling NATO leaders assembled in Ankara that the U.S. would 'probably' strike Iran again but that 'anything that happens will be over quickly.' U.S. Central Command reports striking roughly 90 targets on a second day of operations, bringing the 48-hour total to approximately 170 targets, including ballistic missile infrastructure, nuclear sites, naval bases, and command centers.\n\nIran's Islamic Revolutionary Guard Corps said it struck U.S. military bases in Kuwait, Bahrain, and Qatar in response. Oil markets reacted sharply, with Brent crude jumping more than 5% to above $80 a barrel. The Federal Reserve separately flagged that the conflict and resulting energy price shock could warrant higher interest rates.\n\nTrump, speaking to reporters aboard Air Force One after departing the NATO summit, said he was uncertain whether Iran was 'worthy of making a deal,' casting doubt on the prospects for renewed negotiations. The ceasefire that had briefly halted hostilities collapsed after Iran attacked oil tankers in the Strait of Hormuz, prompting the new U.S. strike campaign.\n\nThe conflict is reshaping the NATO summit's agenda and global energy markets simultaneously. Allies at Ankara moved quietly toward accepting greater European responsibility for collective defense even as Trump pressured Spain on defense spending and threatened a trade embargo. The BBC reports its journalists have reached Bandar Abbas on the Iranian side of the strait for the first time, documenting conditions as the strategic waterway remains contested.",
