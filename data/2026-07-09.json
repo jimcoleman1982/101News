@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-09",
+  "dateFormatted": "Thursday, July 9, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Trump Says Iran Ceasefire Is 'Over,' U.S. Strikes 170 Iranian Targets in 48 Hours",
+      "summary": "President Trump declared the U.S.-Iran memorandum of understanding finished, telling NATO leaders assembled in Ankara that the U.S. would 'probably' strike Iran again but that 'anything that happens will be over quickly.' U.S. Central Command reports striking roughly 90 targets on a second day of operations, bringing the 48-hour total to approximately 170 targets, including ballistic missile infrastructure, nuclear sites, naval bases, and command centers.\n\nIran's Islamic Revolutionary Guard Corps said it struck U.S. military bases in Kuwait, Bahrain, and Qatar in response. Oil markets reacted sharply, with Brent crude jumping more than 5% to above $80 a barrel. The Federal Reserve separately flagged that the conflict and resulting energy price shock could warrant higher interest rates.\n\nTrump, speaking to reporters aboard Air Force One after departing the NATO summit, said he was uncertain whether Iran was 'worthy of making a deal,' casting doubt on the prospects for renewed negotiations. The ceasefire that had briefly halted hostilities collapsed after Iran attacked oil tankers in the Strait of Hormuz, prompting the new U.S. strike campaign.\n\nThe conflict is reshaping the NATO summit's agenda and global energy markets simultaneously. Allies at Ankara moved quietly toward accepting greater European responsibility for collective defense even as Trump pressured Spain on defense spending and threatened a trade embargo. The BBC reports its journalists have reached Bandar Abbas on the Iranian side of the strait for the first time, documenting conditions as the strategic waterway remains contested.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "sourceCount": 26,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-09T05:08:28.223858-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "Bangladesh Measles Outbreak Reaches 120,000 Cases, Nearly 750 Dead After Vaccine Delays",
+      "summary": "Bangladesh is experiencing one of the largest measles outbreaks in its modern history, with more than 120,000 suspected and confirmed cases and nearly 750 deaths — mostly children — since the surge began in mid-March, according to government figures. UNICEF says the true toll is likely higher due to overwhelmed health facilities and gaps in data collection. Hospital wards are operating at more than double capacity, with families sleeping on hallway floors.\n\nThe outbreak reverses years of progress. Bangladesh had maintained vaccination rates above 90% and was on track toward measles elimination, according to the World Health Organization. UNICEF attributes the collapse to a 'perfect storm' that includes alleged delays in vaccine procurement under the interim government of Muhammad Yunus, which opted to restructure purchasing arrangements and consider new vendors — a process UNICEF warned at the time could create dangerous gaps.\n\nThe new government under Tarique Rahman says it inherited a vaccine shortage upon taking office. Yunus declined a BBC interview request. The procurement dispute has become politically charged as the country attempts to manage an accelerating public health crisis with limited resources.\n\nMeasles, which spreads through the air and can cause fatal pneumonia and other complications in young children, is entirely preventable with existing vaccines. The Bangladesh outbreak is being closely watched by global health authorities as an example of how political transitions and procurement disruptions can rapidly undo decades of immunization gains.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gel72mlgo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-09T05:08:28.223858-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: McConnell Pressed to Disclose Health Status as Senate Return Looms",
+      "summary": "Kentucky Gov. Andy Beshear formally asked Sen. Mitch McConnell to publicly disclose his health condition and ability to serve, nearly four weeks after the 84-year-old was hospitalized in Washington on June 14 for undisclosed reasons. In a letter released Wednesday, Beshear wrote that 'Kentuckians have grown increasingly concerned about the current state of your health and well-being, and ability to hold office.'\n\nMcConnell's office has offered no specific information about his condition, saying only that he 'continues to improve' and is working with staff. Senate Majority Leader John Thune and Sen. John Barrasso said Tuesday they had spoken with McConnell and found him alert. President Trump, speaking aboard Air Force One, said he had not spoken with McConnell and had 'no idea how he's doing.'\n\nThe situation carries procedural and political stakes. McConnell is retiring at the end of his term in January, and Kentucky Republicans have twice changed the state's Senate succession law during Beshear's tenure to limit the Democratic governor's role. Under current law, Beshear would call a special election if the seat became vacant, with unresolved questions about timing and whether the seat could remain empty until January.\n\nBeshear is widely considered a potential 2028 Democratic presidential candidate, lending an additional political dimension to his public pressure campaign. A vacancy in the seat could affect the Senate's working majority depending on the timing of any special election.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/mcconnell-health-beshear-kentucky-hospital-letter-condition-efbfc2179c8d43f6b43d9024b8d73506",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-09T05:08:28.223858-06:00",
+      "slot": 5
+    },
+    {
+      "category": "other",
+      "headline": "Bonnie Tyler, Welsh Pop Star Behind 'Total Eclipse of the Heart,' Dies at 75",
+      "summary": "Bonnie Tyler, the Welsh singer whose powerful, raspy voice propelled 'Total Eclipse of the Heart' and 'Holding Out for a Hero' to the top of international charts in the 1980s, died unexpectedly at a hospital in Portugal, her family announced Thursday. She was 75. No cause of death was immediately specified; her family said she had been receiving treatment for an illness.\n\nTyler rose to global fame in 1983 when 'Total Eclipse of the Heart,' written and produced by Jim Steinman, became a number-one hit in multiple countries and has remained one of the best-selling singles of that decade. Her distinctive voice, roughened by an operation to remove nodules from her vocal cords, became one of the most recognizable sounds of the era.\n\nShe represented the United Kingdom in the Eurovision Song Contest in 2013 and continued performing and recording into her seventies. Tributes from the music industry began circulating Thursday morning.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/09/nx-s1-5887107/bonnie-tyler-obit",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-09T05:08:28.223858-06:00",
+      "slot": 5
+    }
+  ]
+}
