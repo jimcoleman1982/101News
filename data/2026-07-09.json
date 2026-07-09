@@ -3,6 +3,48 @@
   "dateFormatted": "Thursday, July 9, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Palestinian Aid Coordinator Who Organized Gaza World Cup Screenings Killed in Israeli Strike",
+      "summary": "Mohammed al-Wahidi, a senior official with the Egyptian Relief Committee in Gaza and widely recognized humanitarian figure, was killed Tuesday when an Israeli missile struck the taxi he was traveling in through the Sabra neighborhood of Gaza City. Three others died in the strike, including two brothers aged eight and ten who were passing by. Al-Wahidi, 65, had spent more than two and a half years coordinating food aid, establishing displacement camps, and working directly with affected families across the territory.\n\nIn recent weeks, al-Wahidi had gained broader recognition for organizing public screenings of FIFA World Cup matches in Gaza City and southern Gaza, offering families — particularly children — a brief respite from the war. The screenings drew large crowds and spread widely on social media. He was killed hours before Egypt's scheduled round-of-16 match against Argentina, deepening the sense of loss among Palestinians who had gathered for the events.\n\nThe Israeli military said it had struck a Hamas operative and acknowledged awareness of claims that uninvolved individuals were killed in the strike. Israel has consistently stated it targets militants while taking precautions to limit civilian casualties, though critics and human rights groups have challenged that characterization throughout the conflict. The Egyptian Relief Committee, which backed al-Wahidi's work, is an Egypt-sponsored organization that has played a central role in humanitarian operations in Gaza.\n\nThe story drew coverage from ten major outlets across the political spectrum, reflecting its broad international significance. It underscores ongoing tensions over civilian casualties in the Gaza conflict, with pro-Israeli voices emphasizing Hamas's use of civilian infrastructure and critics of Israeli military conduct pointing to the deaths of aid workers and children as evidence of indiscriminate targeting.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o",
+      "sourceCount": 10,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:41 PM MT",
+      "addedAtISO": "2026-07-09T16:41:54.849224-06:00",
+      "slot": 18
+    },
+    {
+      "category": "other",
+      "headline": "Wally Funk, Pioneer Aviator and Oldest Woman to Travel to Space, Dies",
+      "summary": "Wally Funk, the pioneering aviator who became the oldest woman to travel to space when she flew aboard Jeff Bezos's Blue Origin New Shepard rocket in 2021, has died. Funk was one of 13 female pilots — known as the Mercury 13 — who underwent the same rigorous testing as NASA's all-male astronaut corps in the early 1960s but were barred from the space program on the basis of sex. She spent decades advocating for women in aviation and spaceflight.\n\nFunk finally realized her dream of reaching space at age 82, joining Bezos on Blue Origin's first crewed flight. The mission made her the oldest person to fly to space at that time. Her life and career became a symbol of persistence in the face of institutional discrimination, and her 2021 flight was widely celebrated as a belated recognition of the contributions of the Mercury 13.\n\nHer death closes a chapter in the history of American spaceflight that stretches from the early Cold War era to the commercial space age. No cause of death or specific date was immediately provided in reports.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/space/5961729-wally-funk-nasa/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "4:41 PM MT",
+      "addedAtISO": "2026-07-09T16:41:54.849224-06:00",
+      "slot": 18
+    },
+    {
+      "category": "business",
+      "headline": "U.S. Declines to Immediately Impose Tariffs on Commercial Aircraft and Jet Parts",
+      "summary": "The Trump administration announced it will not immediately levy tariffs on commercial aircraft, jet engines, and related parts following a formal trade investigation. Instead, President Trump directed the administration to pursue negotiations with trading partners aimed at adjusting import volumes of those products, leaving the door open to future action if talks fail.\n\nThe decision spares a sector that is critical to U.S. manufacturing exports — Boeing is among the country's largest exporters — while maintaining leverage in ongoing trade disputes. Aircraft and jet components represent tens of billions of dollars in annual international trade, and tariffs in this category could have triggered significant retaliatory measures from major partners including the European Union.\n\nThe announcement follows a broader pattern in the Trump administration's tariff strategy of using the threat of duties as a negotiating tool rather than immediately implementing them across all investigated sectors. The outcome provides temporary relief to airlines and aerospace manufacturers that had been monitoring the investigation closely.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/us-declines-to-immediately-put-tariffs-on-aircraft-jet-parts",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:41 PM MT",
+      "addedAtISO": "2026-07-09T16:41:54.849224-06:00",
+      "slot": 18
+    },
+    {
       "category": "politics",
       "headline": "EPA Proposes Rolling Back Biden-Era Pollution Controls on Heavy-Duty Trucks",
       "summary": "The Trump administration's Environmental Protection Agency on Thursday proposed loosening emissions requirements for heavy-duty trucks, describing Biden-era rules as \"unworkable\" and saying the changes would give trucking companies greater regulatory flexibility. The proposal would scale back pollution controls that were designed to cut tailpipe emissions from diesel trucks, a major source of nitrogen oxides and particulate matter linked to respiratory illness.\n\nTrucking industry groups welcomed the announcement, arguing the Biden rules imposed costly technology mandates on an accelerated timeline that manufacturers could not realistically meet. Environmental advocates and public health groups condemned the move, warning that it would increase air pollution in communities near highways and freight corridors and undermine the U.S.'s commitments to reducing greenhouse gas emissions.\n\nThe rollback is part of a broader pattern of the Trump EPA revisiting and rescinding Obama- and Biden-era environmental regulations. Critics note that heavy-duty trucks account for a disproportionate share of vehicle emissions relative to their numbers, making the sector a key target of clean air policy. The proposal will be subject to a public comment period before any rule is finalized.",
