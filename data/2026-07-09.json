@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "EPA Proposes Rolling Back Biden-Era Pollution Controls on Heavy-Duty Trucks",
+      "summary": "The Trump administration's Environmental Protection Agency on Thursday proposed loosening emissions requirements for heavy-duty trucks, describing Biden-era rules as \"unworkable\" and saying the changes would give trucking companies greater regulatory flexibility. The proposal would scale back pollution controls that were designed to cut tailpipe emissions from diesel trucks, a major source of nitrogen oxides and particulate matter linked to respiratory illness.\n\nTrucking industry groups welcomed the announcement, arguing the Biden rules imposed costly technology mandates on an accelerated timeline that manufacturers could not realistically meet. Environmental advocates and public health groups condemned the move, warning that it would increase air pollution in communities near highways and freight corridors and undermine the U.S.'s commitments to reducing greenhouse gas emissions.\n\nThe rollback is part of a broader pattern of the Trump EPA revisiting and rescinding Obama- and Biden-era environmental regulations. Critics note that heavy-duty trucks account for a disproportionate share of vehicle emissions relative to their numbers, making the sector a key target of clean air policy. The proposal will be subject to a public comment period before any rule is finalized.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/energy-environment/5961282-epa-truck-pollution-regs/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:58 PM MT",
+      "addedAtISO": "2026-07-09T13:58:23.595831-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Mexico Threatens Criminal Complaints in U.S. Courts Over Deaths of Nationals in ICE Custody",
+      "summary": "Mexico's Foreign Minister Roberto Velasco Álvarez announced Thursday that Mexico plans to file criminal complaints in United States courts over the deaths of Mexican nationals held in Immigration and Customs Enforcement custody. The announcement marks a significant escalation beyond prior diplomatic protests and signals that the Mexican government is prepared to pursue legal action directly within the American judicial system.\n\nThe move follows mounting scrutiny of conditions and fatalities in ICE detention facilities, which have drawn criticism from human rights organizations and foreign governments. Mexico's President Claudia Sheinbaum described the step as the country's strongest response yet to deaths occurring both in ICE custody and during immigration enforcement operations.\n\nThe threat of formal legal action raises the diplomatic stakes between Washington and Mexico City at a time when immigration enforcement has been a central and contentious policy priority for the Trump administration. The U.S. government has not yet responded publicly to Thursday's announcement. Legal experts note that the practical path for foreign governments to bring criminal complaints in U.S. courts is complex and largely untested.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/09/mexico-trump-us-prosecutors-ice-deaths",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:58 PM MT",
+      "addedAtISO": "2026-07-09T13:58:23.595831-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Ex-Olympian Pleads Not Guilty to Felony Charges Over Lincoln Memorial Reflecting Pool Incident",
+      "summary": "David \"Davey\" Hearn, a 67-year-old three-time Olympic canoeist, appeared in a Washington, D.C., court Thursday and pleaded not guilty to a felony charge of destruction of property related to the Lincoln Memorial Reflecting Pool. Prosecutors allege Hearn deliberately \"ripped\" a piece of recently installed sealant from the pool on June 19, causing approximately $1,000 in damage. U.S. Attorney Jeanine Pirro announced the charge last week.\n\nHearn's attorneys disputed the account, saying their client touched the pool's water but did not destroy, tear, or remove any material. Attorney Norm Eisen said outside the courthouse that the charge set a dangerous precedent: \"If Mr. Hearn can be charged with a felony for touching the Reflecting Pool, every American is at risk.\" The defense has alleged the Trump administration is using the prosecution to deflect blame for a troubled $13 million renovation project that saw newly applied blue sealant peel off within days of installation.\n\nFive people in total have been arrested in connection with the Reflecting Pool, and five others issued federal citations. The pool has been drained for the second time in three months; Interior Secretary Doug Burgum said crews would repair the lining and refill the pool. Hearn's next court date is set for August 5. The case has attracted attention from eight major news outlets and has become a flashpoint in debates over the administration's use of federal charges in politically charged contexts.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78y013ny3eo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:58 PM MT",
+      "addedAtISO": "2026-07-09T13:58:23.595831-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
       "headline": "Update: Graham Platner Suspends Maine Senate Campaign After Sexual Assault Allegation; Democrats Scramble for Replacement",
       "summary": "Democrat Graham Platner announced Wednesday he is suspending his Maine Senate campaign after a former girlfriend alleged he sexually assaulted her — an accusation he categorically denies. The withdrawal came after a cascade of lost endorsements from prominent Democrats including Reps. Ro Khanna and Ruben Gallego, and mounting pressure from Senate Minority Leader Chuck Schumer. Platner's announcement, delivered in an 11-minute video in which he denied wrongdoing and refused to take responsibility, drew sharp criticism from Democrats including David Axelrod, who compared his exit to \"Trump's tawdry playbook.\"\n\nMaine is one of the most critical Senate battlegrounds of the 2026 midterm cycle, where Democrats need a net gain of seats to retake the majority. Platner had secured the Democratic nomination despite a prior public record that included a Nazi tattoo, offensive social media posts, and rumors of infidelity — vulnerabilities party insiders privately acknowledged but rationalized. The state Democratic Party must now select a replacement nominee through a nominating convention before a July 27 filing deadline; Platner must formally withdraw by July 13 to allow the process to proceed.\n\nSeveral potential successors have moved quickly. Former Maine Senate President Troy Jackson filed candidacy paperwork Wednesday, and Maine Beer Company co-founder Dan Kleban announced his interest. A new poll tested five possible Democratic replacements in head-to-head matchups against Republican incumbent Sen. Susan Collins. Actor Patrick Dempsey, briefly mentioned as a possible candidate, said he would not run.\n\nRepublicans, including President Trump, argued Democrats would struggle to find a competitive replacement in time. Conservative commentators framed Platner's rise as evidence of a party that prioritized ideology over vetting. Democrats countered that the party acted decisively once credible allegations became public, and that the race remains highly competitive given Collins's vulnerabilities on healthcare and other issues.",
       "source": "Associated Press",
