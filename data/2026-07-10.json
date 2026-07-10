@@ -3,6 +3,34 @@
   "dateFormatted": "Friday, July 10, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: U.S.-Iran Conflict Continues as Strikes Expand Across Region; Ceasefire in Doubt",
+      "summary": "The United States launched fresh airstrikes against Iran, hitting approximately 90 targets including airport runways and missile launchers, while Iran responded by targeting U.S.-allied Gulf states including Bahrain, Kuwait and Qatar. Sirens sounded multiple times in Bahrain, home to the U.S. Navy's 5th Fleet headquarters, marking a significant escalation in the geographic scope of the conflict. The exchange threatens an interim ceasefire agreement that was already under severe strain.\n\nPresident Trump declared the ceasefire \"over\" via Truth Social while simultaneously agreeing to allow diplomatic talks to continue, a contradictory posture that has left the status of negotiations unclear. Iranian officials have not formally called off the interim peace agreement, and American officials confirmed back-channel discussions remain active. Neither side appears ready to return to formal talks, and Iran has not committed to restoring free passage through the Strait of Hormuz.\n\nThe conflict's expansion into Gulf states marks a new threshold, drawing in U.S. regional allies who host major American military installations and represent critical nodes in global oil infrastructure. The IMF has already cut its global growth forecast citing the energy shock from the war. Diplomatic efforts by regional mediators are continuing, but analysts warn that back-to-back days of strikes have pushed the situation toward potential full-scale military conflict.\n\nUnidentified airstrikes also hit Iran after the U.S. declared its own strikes complete, raising questions about whether Israel or another party may be conducting parallel operations. The Strait of Hormuz, through which a significant share of global oil passes, remains a flashpoint. Trump's public and private messaging continues to diverge, complicating efforts to read U.S. intentions in the region.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-us-israel-war-oil-july-9-2026-0472764b119d7aa204de4f7f5e44a9bf",
+      "sourceCount": 21,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "1:46 PM MT",
+      "addedAtISO": "2026-07-10T13:46:02.836442-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Democratic Operatives Placed Copycat Candidate on Alaska Senate Ballot to Confuse Voters, Elections Officials Find",
+      "summary": "Alaska's Division of Elections has found that a candidate named Dan Sullivan entered the state's Senate race with the apparent intent to confuse voters who intended to cast ballots for Republican incumbent Sen. Dan Sullivan of the same name. The finding implicates Democratic operatives in a deliberate ballot-spoiling scheme targeting one of the most closely watched Senate races of the 2026 midterm cycle. The story has drawn coverage from 21 outlets across the political spectrum.\n\nThe tactic, known as a \"copycat\" or \"sham\" candidacy, is designed to siphon votes from a target candidate by exploiting name recognition on the ballot. Republicans have characterized the move as election manipulation and a threat to electoral integrity, calling for accountability for those behind the effort. Democrats have not publicly claimed responsibility for organizing the candidate's filing.\n\nThe revelation comes amid an already turbulent midterm election environment, with the Trump administration separately firing the three remaining members of the Election Assistance Commission — the sole federal agency dedicated to election administration — just months before November voting. Critics including former Obama strategist David Axelrod warned that the EAC dismissals, combined with the Alaska ballot scheme, represent compounding threats to election fairness from different directions.\n\nThe Alaska case is distinct from the EAC firings but together they illustrate the degree to which election administration and electoral integrity have become active battlegrounds ahead of the midterms. The Alaska Division of Elections has not yet announced what, if any, remedies are available given filing deadlines. Legal challenges are expected.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/news/how-democratic-operatives-got-a-copycat-candidate-on-the-alaska-senate-ballot-to-confuse-voters/",
+      "sourceCount": 21,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:46 PM MT",
+      "addedAtISO": "2026-07-10T13:46:02.836442-06:00",
+      "slot": 14
+    },
+    {
       "category": "politics",
       "headline": "Trump Fires All Three Election Assistance Commission Members Ahead of Midterms",
       "summary": "President Trump ousted all three remaining members of the bipartisan U.S. Election Assistance Commission on Thursday, leaving the agency without leadership less than four months before the November midterm elections. Democratic commissioners Thomas Hicks and Benjamin Hovland were terminated by email, while Republican commissioner Christy McCormick received a phone call and was asked to resign. A White House official confirmed all three are gone and said replacements are forthcoming, though presidential appointments to the EAC require Senate confirmation — a process that could take months.\n\nThe EAC is a federally mandated bipartisan body that helps state and local officials administer elections, certifies voting equipment, and has distributed more than $1 billion in election security grants since 2018. Critics say gutting the commission on the eve of midterms will leave election administrators without a key federal resource. Former commissioner Hovland warned of a \"death-by-1,000-cuts\" scenario in which understaffed election offices become more prone to errors.\n\nAdministration critics, including Arizona Democratic Secretary of State Adrian Fontes, called the move \"irresponsible and dangerous\" and said it undermines nonpartisan election administration. Democrats framed the firings as part of a broader effort to weaken election oversight infrastructure. The White House has not publicly stated its rationale beyond confirming the dismissals and promising replacements. The EAC had already been operating with three members instead of its normal four after a Republican commissioner resigned earlier this year.",
