@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-10",
+  "dateFormatted": "Friday, July 10, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: U.S. Strikes 90 More Iranian Targets as Conflict Escalates; Khamenei Buried in Mashhad",
+      "summary": "U.S. Central Command conducted strikes on 90 Iranian targets in the latest round of attacks, with Iran's health ministry reporting 14 people killed since Tuesday. The strikes represent the most intense exchange between the two countries since the ceasefire was declared over by President Trump, and officials describe this week as the worst period of hostilities since that breakdown.\n\nAyatollah Ali Khamenei, who died in earlier U.S. and Israeli airstrikes, was buried Friday in his hometown of Mashhad following days of public mourning and large funeral processions across Iran. Khamenei ruled Iran for nearly 37 years and is only the second ruler of the nation to be interred in Mashhad. Crowds carried Iranian flags and signs calling for the deaths of Trump and Israeli Prime Minister Netanyahu.\n\nPresident Trump also spoke with Netanyahu about U.S. 'moves' in the Persian Gulf, according to the Associated Press, as financial markets remained on edge over the conflict's trajectory. Oil prices eased somewhat Thursday as markets paused to assess the situation, though the IMF has already cut global growth forecasts citing the Iran war's energy shock.\n\nSupporters of Khamenei view him as a martyr who defied Western pressure, while large sectors of Iranian society remain deeply disillusioned after decades of crackdowns, economic stagnation, and the January crackdown that killed thousands. The ongoing conflict has complicated a U.S.-brokered Lebanon-Israel deal and raised fears of renewed Hezbollah fighting.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/live/trump-administration-iran-updates-07-09-2026",
+      "sourceCount": 23,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-10T05:08:20.186818-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Typhoon Bavi Kills 15 in Philippines Landslides, Threatens Taiwan and China",
+      "summary": "Typhoon Bavi, described as one of the strongest storms in decades and spanning roughly 1,000 kilometers at its widest point, has killed at least 15 people through landslides on the Philippine island of Mindanao, with rescuers still searching for the missing. The storm is now sweeping across the Pacific toward Taiwan, where authorities have warned of up to one meter of rainfall and placed 29,000 soldiers on standby.\n\nTaiwanese officials say Bavi could be the largest storm by size to hit the island since 1987. Dozens of flights have been cancelled across the region, supermarket shelves have been cleared by residents stocking up on supplies, and farmers rushed to protect crops before the storm's arrival. Japan Airlines and All Nippon Airways have collectively cancelled more than 260 flights, disrupting roughly 40,000 passengers.\n\nAfter Taiwan, the typhoon is expected to make landfall in southeastern China's Fujian province, with forecasts suggesting it could strike China twice as it moves northward. Northern Chinese provinces, which have less experience with major typhoons than the south, have been urged to strengthen preparations. Parts of southern China are already recovering from the devastation of Typhoon Maysak, which struck earlier.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-10T05:08:20.186818-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "Suspected Ebola Patients Quarantined in Same Hotel as U.S. Deportees in Equatorial Guinea",
+      "summary": "Migrants deported from the United States and held in a hotel in Equatorial Guinea say authorities have used the same facility to quarantine at least two suspected Ebola patients, according to deportees and their lawyers. Medical personnel in hazmat suits were seen transporting the patients to the hotel, which houses 17 deportees from countries including Angola, Mauritania, and Ethiopia under a third-country deportation deal with the Trump administration.\n\nThe hotel, located on a tropical island off Equatorial Guinea's coast and owned by President Teodoro Obiang Nguema Mbasogo, also served as an isolation center during the Covid-19 pandemic. Deportees said they were informed by a doctor that the individuals were suspected Ebola cases and told to be careful, but were provided no masks, disinfectants, or other protective supplies, and received no formal briefing on risk-reduction measures.\n\nEquatorial Guinea shares no border with the Democratic Republic of Congo, where a rare Ebola strain has killed over 600 people since May, and no confirmed cases have been reported in Equatorial Guinea. However, a coalition of international lawyers called the situation alarming and said they had received reports from multiple detained individuals corroborating the account. One detainee described deteriorating conditions, saying hygiene was 'unimaginable' and that no one was communicating with them about their status or safety.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/suspected-ebola-patient-put-in-equatorial-guinea-hotel-with-deportees-from-u-s-lawyers-say",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-10T05:08:20.186818-06:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "China Successfully Lands Reusable Rocket for First Time, Challenging U.S. Space Dominance",
+      "summary": "China successfully recovered a reusable rocket booster for the first time Friday, when the Long March 10B lifted off from Hainan province and its booster returned to Earth vertically approximately six minutes after stage separation, landing on a floating platform at sea. The achievement marks a significant milestone for China's space program and signals a potential challenge to the reusable rocket dominance held by SpaceX's Falcon 9 and Blue Origin's New Glenn.\n\nThe Long March 10B, capable of carrying at least 16 metric tons to low-Earth orbit, is comparable in capacity to SpaceX's Falcon 9. Unlike the Falcon 9, which lands autonomously on ground pads or drone ships, the Chinese rocket uses 'landing hooks' that catch a net attached to a floating platform. China had made a first attempt at recovery in February with the Long March 10A, which completed a controlled descent but splashed down next to rather than on the recovery platform.\n\nReusable rockets significantly reduce the cost of satellite launches and space exploration by allowing the most expensive component — the booster — to be recovered and reflown. SpaceX's Falcon 9 now launches roughly 150 times per year using boosters capable of dozens of reuses. Shares in Chinese space companies rose 10 percent, the daily limit permitted under Chinese financial market rules, following Friday's announcement.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-10T05:08:20.186818-06:00",
+      "slot": 5
+    }
+  ]
+}
