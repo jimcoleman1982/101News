@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, July 10, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump Fires All Three Election Assistance Commission Members Ahead of Midterms",
+      "summary": "President Trump ousted all three remaining members of the bipartisan U.S. Election Assistance Commission on Thursday, leaving the agency without leadership less than four months before the November midterm elections. Democratic commissioners Thomas Hicks and Benjamin Hovland were terminated by email, while Republican commissioner Christy McCormick received a phone call and was asked to resign. A White House official confirmed all three are gone and said replacements are forthcoming, though presidential appointments to the EAC require Senate confirmation — a process that could take months.\n\nThe EAC is a federally mandated bipartisan body that helps state and local officials administer elections, certifies voting equipment, and has distributed more than $1 billion in election security grants since 2018. Critics say gutting the commission on the eve of midterms will leave election administrators without a key federal resource. Former commissioner Hovland warned of a \"death-by-1,000-cuts\" scenario in which understaffed election offices become more prone to errors.\n\nAdministration critics, including Arizona Democratic Secretary of State Adrian Fontes, called the move \"irresponsible and dangerous\" and said it undermines nonpartisan election administration. Democrats framed the firings as part of a broader effort to weaken election oversight infrastructure. The White House has not publicly stated its rationale beyond confirming the dismissals and promising replacements. The EAC had already been operating with three members instead of its normal four after a Republican commissioner resigned earlier this year.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/2026-election/trump-fires-election-assistance-commission-members-ahead-midterms-rcna353781",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:28 AM MT",
+      "addedAtISO": "2026-07-10T10:28:29.152300-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Spain Wildfire Kills at Least 12, More Than 20 Still Missing in Andalusia",
+      "summary": "A wildfire in southern Spain's Andalusia region has killed at least 12 people and left more than 20 others missing, making it one of the deadliest blazes on record in the country. Spanish authorities said many of the victims were foreign tourists. The cause of the fire has not been determined.\n\nThe blaze struck amid an intense heat wave that has pushed temperatures in southern Spain to nearly 106 degrees Fahrenheit. Spain is among several European nations battered by extreme heat this summer, conditions that dramatically increase wildfire risk and spread. Emergency crews were still working the scene Friday.\n\nThe death toll and number of missing persons make this a significant life-safety event with regional and tourism implications across one of Europe's most-visited areas. Authorities have not yet announced evacuation figures or estimated the total area burned.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "10:28 AM MT",
+      "addedAtISO": "2026-07-10T10:28:29.152300-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Refuses to Sign Bipartisan Housing Bill in Protest Over Senate's Failure to Pass Voter ID Legislation",
+      "summary": "President Trump announced Friday he will not sign the 21st Century ROAD to Housing Act, a landmark bipartisan housing bill that cleared Congress, as a symbolic protest against the Senate's failure to pass the Safeguard American Voter Eligibility (SAVE) Act, which would tighten voter identification requirements. Trump posted that the SAVE Act's non-passage was \"CRAZY\" and a threat to any politician who voted against it. Despite his refusal to sign, the White House confirmed Trump does not intend to veto the bill either.\n\nBecause the president has 10 days to act on legislation and he is not exercising a veto, the housing bill is set to become law automatically at midnight Friday. The episode is therefore largely symbolic — the housing legislation will take effect regardless — but it underscores the ongoing tension between Trump and Senate Republicans over voting-restriction priorities.\n\nSupporters of the housing bill, which had broad bipartisan backing, expressed frustration that the legislation's passage was being overshadowed by intra-Republican friction over voter ID. Critics of the SAVE Act, primarily Democrats, argue existing laws already prohibit noncitizens from voting and that the bill is designed to suppress legitimate voters. Proponents say it closes a gap in federal verification requirements. The episode illustrates continuing divisions within the Republican coalition even as Trump seeks to exercise leverage over his own party's legislators.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/10/trump-housing-bill-senate-save-act",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:28 AM MT",
+      "addedAtISO": "2026-07-10T10:28:29.152300-06:00",
+      "slot": 11
+    },
+    {
       "category": "world",
       "headline": "Andy Burnham Secures Near-Certain Path to UK Prime Minister After Labour MPs Back Him Overwhelmingly",
       "summary": "Andy Burnham has emerged as the near-certain next leader of the UK Labour Party and prime minister after 322 of 403 Labour Members of Parliament nominated him on the first day of the party's leadership contest to replace Keir Starmer. The lopsided vote effectively settles the contest before it formally concludes, putting Burnham — the current Mayor of Greater Manchester — on track to lead Britain's government.\n\nBurnham said he was 'deeply grateful' for the support from his parliamentary colleagues, describing it as reflecting 'a shared belief that Britain needs' a new direction. The leadership race was triggered by Starmer's departure, though details of that exit were not specified in the coverage.\n\nThe outcome carries significant implications for British domestic and foreign policy, including the UK's relationships with the European Union, NATO allies, and the United States at a moment of heightened geopolitical tension over the Iran conflict and the ongoing war in Ukraine. Burnham is broadly associated with the left-leaning wing of the Labour Party and has emphasized northern English economic renewal as a signature theme.",
