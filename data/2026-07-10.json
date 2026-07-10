@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, July 10, 2026",
   "stories": [
     {
+      "category": "technology",
+      "headline": "Apple Sues OpenAI for Trade Secret Theft",
+      "summary": "Apple filed a civil lawsuit Friday in federal court in the Northern District of California accusing OpenAI and two former Apple employees of systematically stealing the company's trade secrets. The complaint alleges OpenAI exploited job interview processes to extract confidential information about Apple's tools, unreleased products, and internal processes, with the iPhone maker accusing the AI firm of attempting to \"free-ride off Apple's decades of innovation.\"\n\nThe lawsuit names OpenAI and two individuals accused of taking Apple's confidential information and transferring it to the competitor. The legal action comes amid a broader talent exodus from Apple to OpenAI, as the frontier AI lab prepares to launch its first hardware device. Apple and OpenAI had struck a partnership in 2024 to integrate AI services into Apple devices, but relations between the companies have since deteriorated.\n\nThe case is among the highest-profile corporate intellectual property disputes in the AI industry to date, pitting two of the most valuable technology companies against each other. It also raises broader questions about the competitive dynamics of the AI race, where rapid talent movement between firms has made trade secret protection increasingly difficult to enforce.\n\nThe lawsuit was covered by five outlets spanning center and right-leaning publications, reflecting its significance across the technology and business landscape. OpenAI has not yet issued a formal public response to the complaint.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:14 PM MT",
+      "addedAtISO": "2026-07-10T16:14:10.380193-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Ryanair Passenger Nearly Sucked Out of Plane Window Over Greece After Mid-Air Decompression",
+      "summary": "A Ryanair flight from Thessaloniki, Greece, to Memmingen, Germany, made an emergency return Friday after a cabin window dislodged mid-air approximately ten minutes after takeoff, causing rapid decompression. Passengers reported that a 61-year-old Serbian man was pulled head and shoulders out of the opening before fellow passengers and his wife held onto his legs for roughly five minutes to prevent him from being ejected from the aircraft.\n\nThe plane descended approximately 9,000 feet before landing safely back in Thessaloniki. Oxygen masks deployed, and passengers described hearing what sounded like an explosion and being unable to breathe during the incident. The injured man, treated at a Greek hospital for friction burns, was described as conscious but in shock. Ryanair confirmed the window dislodged and said the aircraft landed normally, with a replacement plane later ferrying passengers to their destination.\n\nPassengers told local media that shards from the jet's engine may have struck and broken the window, though Ryanair has not confirmed that account. The aircraft involved was an 18-year-old plane operated by Ryanair's subsidiary Malta Air. Greek aviation authorities and the Hellenic Air and Rail Safety Investigation Authority have opened an investigation.\n\nThe incident raises immediate questions about aircraft maintenance standards, particularly for aging planes in budget airline fleets. The Irish Aviation Authority said it was monitoring the situation and would assist investigators as needed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:14 PM MT",
+      "addedAtISO": "2026-07-10T16:14:10.380193-06:00",
+      "slot": 18
+    },
+    {
+      "category": "science_health",
+      "headline": "Cyclospora Parasite Outbreak Surges; Michigan Reports Over 1,500 Cases, Dozens of States Investigating",
+      "summary": "A foodborne parasitic outbreak caused by cyclospora cayetanensis has expanded significantly, with Michigan now reporting more than 1,500 confirmed cases as of July 10 and neighboring Ohio logging hundreds more. Health officials say active investigations are underway in more than two dozen other states, though no specific food source has been identified as the origin of the outbreak.\n\nCyclosporiasis is an intestinal illness transmitted through food or water contaminated with fecal matter. While not fatal, the infection can cause severe and prolonged gastrointestinal symptoms, including explosive diarrhea lasting from days to more than a month, along with nausea, fatigue, and bloating. The illness can be treated with antibiotics, though many recover without medical intervention over a longer period.\n\nInvestigators face an unusually difficult task in tracing the source because the parasite cannot be reproduced in a laboratory setting, and many standard food poisoning tests do not detect it. The investigation is further complicated by a 2025 CDC decision to make state reporting of cyclospora optional after scaling back its Foodborne Diseases Active Surveillance Network, limiting the agency's visibility into case trends nationwide.\n\nHealth officials are urging residents and restaurants in outbreak hotspots to follow strict food safety protocols, including cooking vegetables to at least 158 degrees Fahrenheit — the temperature at which cyclospora is destroyed. Officials note that direct person-to-person transmission is unlikely, and that careful food handling remains the primary preventive measure until a source is identified.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/health/what-you-need-to-know-about-the-cyclosporiasis-outbreak",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:14 PM MT",
+      "addedAtISO": "2026-07-10T16:14:10.380193-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Update: U.S.-Iran Conflict Continues as Strikes Expand Across Region; Ceasefire in Doubt",
       "summary": "The United States launched fresh airstrikes against Iran, hitting approximately 90 targets including airport runways and missile launchers, while Iran responded by targeting U.S.-allied Gulf states including Bahrain, Kuwait and Qatar. Sirens sounded multiple times in Bahrain, home to the U.S. Navy's 5th Fleet headquarters, marking a significant escalation in the geographic scope of the conflict. The exchange threatens an interim ceasefire agreement that was already under severe strain.\n\nPresident Trump declared the ceasefire \"over\" via Truth Social while simultaneously agreeing to allow diplomatic talks to continue, a contradictory posture that has left the status of negotiations unclear. Iranian officials have not formally called off the interim peace agreement, and American officials confirmed back-channel discussions remain active. Neither side appears ready to return to formal talks, and Iran has not committed to restoring free passage through the Strait of Hormuz.\n\nThe conflict's expansion into Gulf states marks a new threshold, drawing in U.S. regional allies who host major American military installations and represent critical nodes in global oil infrastructure. The IMF has already cut its global growth forecast citing the energy shock from the war. Diplomatic efforts by regional mediators are continuing, but analysts warn that back-to-back days of strikes have pushed the situation toward potential full-scale military conflict.\n\nUnidentified airstrikes also hit Iran after the U.S. declared its own strikes complete, raising questions about whether Israel or another party may be conducting parallel operations. The Strait of Hormuz, through which a significant share of global oil passes, remains a flashpoint. Trump's public and private messaging continues to diverge, complicating efforts to read U.S. intentions in the region.",
