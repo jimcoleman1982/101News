@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, July 10, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: Judge Vacates Proud Boys Seditious Conspiracy Convictions, Dismisses Jan. 6 Case With Prejudice",
+      "summary": "A federal judge on Friday granted the Justice Department's motion to permanently dismiss the seditious conspiracy case against four Proud Boys members — Ethan Nordean, Joseph Biggs, Zachary Rehl, and Dominic Pezzola — who had been convicted in connection with the January 6, 2021, Capitol riot. U.S. District Judge Timothy Kelly, a Trump appointee, ruled that the executive branch holds broad constitutional authority over charging decisions and that precedent required granting the government's unopposed motion. The dismissal with prejudice permanently bars the federal government from bringing the same charges against the four men again.\n\nThe ruling follows President Trump's earlier commutation of the four men's sentences and a full pardon of former Proud Boys chairman Enrique Tarrio. In April, the Justice Department asked the D.C. Circuit Court of Appeals to vacate the convictions; the appeals court granted that request in May, setting the stage for Friday's final dismissal.\n\nJudge Kelly was careful to note that granting the motion did not constitute the court's endorsement of the administration's approach to January 6 prosecutions. In his seven-page opinion, he wrote that 'no one should mistake the Court's granting the Government's motion for its agreement with those decisions,' and devoted a final section to describing January 6 as an attack on the constitutional process of peaceful transfer of power.\n\nCritics, including many Democrats and some legal scholars, have condemned the administration's systematic unwinding of January 6 prosecutions as an abuse of executive power and a threat to the rule of law. Supporters of the administration argue that the prosecutions were politically motivated overreach and that the president acted within his constitutional pardon authority.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/justice/4644857/judge-dismisses-proud-boys-j6-case/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-10T21:08:25.995974-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Graham Platner Formally Withdraws from Maine Senate Race; Democrats Scramble to Replace Him",
+      "summary": "Democratic Maine Senate candidate Graham Platner officially filed paperwork Friday with the state's Secretary of State withdrawing his candidacy, confirming his exit from the race following sexual assault allegations he denies. The filing — submitted ahead of a Monday deadline — triggers a process in which the Maine Democratic Party must select a replacement candidate by July 27, with a nominating convention planned in Bangor. At least eight Democrats have already entered the field to replace Platner on the November ballot.\n\nThe Maine race is considered critical to Democrats' effort to recapture a Senate majority, and Platner's collapse — after a campaign already shadowed by the revelation of a Nazi tattoo — has left the party in disarray with fewer than four months until the midterms. Independent political analysts, including Larry Sabato of the University of Virginia, noted that Maine was expected to be an easy Democratic pickup but is now 'turning out to be tough,' while races in Ohio, Iowa, and Alaska have grown more competitive.\n\nThe new development today is Platner's formal, legal withdrawal filing — moving beyond his Wednesday public announcement and officially opening the door for the party to seat a new nominee. Candidates who have entered the race include figures backed by progressive and moderate wings of the party, with divisions already apparent; Senator Tammy Duckworth has publicly opposed one contender, Nirav Shah, over his handling of a deadly Legionnaires' disease outbreak in Illinois.\n\nThe scramble reflects broader tensions within the Democratic Party between its progressive and working-class wings. Some Platner backers, particularly women in Maine, have expressed grief over the loss of his candidacy despite the allegations, while national party leaders are pressing for a candidate capable of appealing to rural and independent voters in the state.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/corner/the-smithsonians-leadership-must-go/",
+      "sourceCount": 17,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-10T21:08:25.995974-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Murder Arrest Made After Body of Former British Minister Ann Widdecombe Found at Devon Home",
+      "summary": "British police arrested a 26-year-old man Friday on suspicion of murdering Ann Widdecombe, a former Conservative cabinet minister and prominent Reform UK politician, whose body was discovered Thursday morning at her home in Haytor, Devon, with a head injury. The suspect was detained at an address in Newton Abbot, near the scene of the death. Widdecombe was a longtime fixture of British political life, having served as a minister under John Major and later becoming a high-profile Brexit campaigner and Reform UK figure.\n\nAuthorities have not disclosed a motive, and the investigation remains in its early stages. The arrest marks a concrete new development following Thursday's discovery of her body. Widdecombe was widely known for her outspoken conservative views on immigration, capital punishment, and social policy, and her death drew immediate reactions from across the British political spectrum.\n\nThe case has drawn significant attention in the United Kingdom given Widdecombe's public profile and the violent circumstances of her death. Further details about the suspect's identity or any connection to the victim have not been released by police.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/uk-police-arrest-man-on-suspicion-of-murdering-former-minister",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-10T21:08:25.995974-06:00",
+      "slot": 21
+    },
+    {
       "category": "technology",
       "headline": "Apple Sues OpenAI for Trade Secret Theft",
       "summary": "Apple filed a civil lawsuit Friday in federal court in the Northern District of California accusing OpenAI and two former Apple employees of systematically stealing the company's trade secrets. The complaint alleges OpenAI exploited job interview processes to extract confidential information about Apple's tools, unreleased products, and internal processes, with the iPhone maker accusing the AI firm of attempting to \"free-ride off Apple's decades of innovation.\"\n\nThe lawsuit names OpenAI and two individuals accused of taking Apple's confidential information and transferring it to the competitor. The legal action comes amid a broader talent exodus from Apple to OpenAI, as the frontier AI lab prepares to launch its first hardware device. Apple and OpenAI had struck a partnership in 2024 to integrate AI services into Apple devices, but relations between the companies have since deteriorated.\n\nThe case is among the highest-profile corporate intellectual property disputes in the AI industry to date, pitting two of the most valuable technology companies against each other. It also raises broader questions about the competitive dynamics of the AI race, where rapid talent movement between firms has made trade secret protection increasingly difficult to enforce.\n\nThe lawsuit was covered by five outlets spanning center and right-leaning publications, reflecting its significance across the technology and business landscape. OpenAI has not yet issued a formal public response to the complaint.",
