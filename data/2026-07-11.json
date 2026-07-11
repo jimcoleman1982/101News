@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-11",
+  "dateFormatted": "Saturday, July 11, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: U.S. and Iran Exchange Intensifying Fire as Ceasefire Frays; Tehran Strikes U.S.-Allied Gulf States",
+      "summary": "The United States launched new airstrikes against Iran early Thursday, hitting approximately 90 targets including airport runways and missile launchers, according to U.S. Central Command. Iran retaliated by striking U.S.-allied Gulf states — Bahrain, Kuwait, and Qatar — with air raid sirens sounding at least three times in Bahrain, home to the U.S. Navy's 5th Fleet headquarters. The escalating exchange threatened an interim ceasefire deal that had been intended to wind down the broader regional conflict.\n\nThe new development marks a significant expansion of the conflict beyond Iranian territory, with Tehran now targeting third-country soil hosting American military assets. The strikes occurred simultaneously with the final day of funeral ceremonies for Supreme Leader Ayatollah Ali Khamenei, who was buried Thursday at the Imam Reza shrine in Mashhad as thousands of mourners dressed in black filled the city.\n\nThe attacks on Bahrain, Kuwait, and Qatar — all of which host U.S. military installations — raise the stakes considerably for American force protection and for Gulf Arab governments that have sought to stay out of direct confrontation. The IMF has already cut its 2026 global growth forecast to 3 percent, citing the energy shock from the ongoing conflict.\n\nThis is the latest in a rapidly escalating series of exchanges; earlier coverage noted the U.S. had struck more than 170 Iranian targets in the preceding 48 hours and that President Trump declared the ceasefire \"over.\" The new material development today is Iran's direct strikes on Bahrain, Kuwait, and Qatar, broadening the geographic scope of the war.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-us-israel-war-oil-july-9-2026-0472764b119d7aa204de4f7f5e44a9bf",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-11T05:08:28.176043-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Spain Wildfire Death Toll Reaches 12 in Almeria; Dozens Missing as Blaze Continues",
+      "summary": "A fast-moving wildfire that erupted late Thursday in Spain's southern Almeria province has killed at least 12 people, making it one of the deadliest wildfires in the country's recorded history. Eight people were injured and 23 remained missing as of Friday morning, with Andalusia's regional leader Juan Manuel Moreno confirming the figures. The fire broke out near the Sierra de Los Filabres mountains and swept through a semi-arid area popular with foreign expatriates.\n\nSeveral of the victims were found inside burned-out vehicles, apparently killed while attempting to flee. Emergency services chief Antonio Sanz said most of the dead had ignored shelter-in-place instructions and that some tried to escape through a dry riverbed that \"turned into a death trap.\" At least four of the dead were believed to be British nationals, identified because their vehicle had a right-hand steering wheel.\n\nThe fire was still burning as of Friday, and soaring temperatures linked to a broader European heat wave were hampering containment efforts. Researchers noted that extreme fire events of this scale are becoming a \"new reality\" driven by climate change, and Almeria province — a popular holiday destination — faced additional difficulty given its large population of foreign residents unfamiliar with local emergency protocols.\n\nThis story was previously noted in earlier coverage; the new development today is the confirmed final death toll of 12 and the ongoing search for 23 missing persons as the fire remained uncontained.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/spain-wildfire-almeria-760ecfff1316d56837888de4ab9efa21",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-11T05:08:28.176043-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Marine Le Pen Announces 2027 Presidential Bid After Court Lifts Ban; Bardella Sidelined",
+      "summary": "Marine Le Pen announced Tuesday she will stand as the National Rally's candidate in France's 2027 presidential election after a Paris appeals court lifted her ban from public office, ending months of uncertainty about the far-right party's electoral strategy. Le Pen had been convicted in a fake jobs scandal and barred from running, but the court ruled she should instead serve a year wearing an electronic tag. The decision came just as her protégé Jordan Bardella had been growing into the role of presumptive candidate.\n\nLe Pen declared that she and Bardella would run together as \"a winning ticket,\" with her as presidential candidate and him as a prospective prime minister — though France's constitutional system does not guarantee that arrangement, as parliamentary elections are not due until 2029. Bardella, 30, had publicly said he would only stand if Le Pen remained legally barred, but observers noted his body language at subsequent campaign events suggested disappointment at being passed over.\n\nThe announcement has boosted Le Pen's poll numbers, with National Rally holding a substantial lead ahead of the election. Supporters of the party argue Le Pen's three previous presidential campaigns and name recognition make her a stronger candidate than the relatively inexperienced Bardella. Critics on the left contend that lifting the ban allows a convicted fraudster to seek the nation's highest office.\n\nThe outcome has significant implications for Europe: a Le Pen presidency would mark the first hard-right head of state in modern French history and could reshape France's relationships with NATO, the European Union, and Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-11T05:08:28.176043-06:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "Meta Pulls AI Image Feature After Backlash Over Unauthorized Use of Users' Likenesses",
+      "summary": "Meta abruptly removed a newly launched feature of its Muse Image AI tool that had allowed users to generate images based on other people's public Instagram content without their knowledge or consent. The feature, which rolled out Tuesday as part of Meta's first foray into AI image generation, automatically opted in all public-facing Instagram accounts, meaning anyone's photos and likeness could be used as source material without permission. Within days, widespread criticism from privacy advocates, creative industry unions, and ordinary users forced the company to pull it.\n\nHollywood union SAG-AFTRA called the reversal a \"win\" and said it had urged its members and all Instagram users to act to protect their likenesses, describing the rollout as an \"utter miscalculation of public sentiment.\" London-based human rights charity Privacy International said the episode was \"the latest sign AI companies see people's images and data as raw material to be exploited.\" Meta acknowledged it had \"missed the mark\" and said the feature was \"no longer available.\"\n\nMeta said its intent had been to provide a creative tool while giving users control over whether their content could be referenced, but critics noted the opt-in-by-default design undermined that stated goal. The company said further AI features are still planned for WhatsApp, Facebook, and Messenger, and an AI video tool is in development.\n\nThe episode illustrates the accelerating tension between AI companies seeking to train and power generative tools using publicly available data and individuals who object to their images and likenesses being used without explicit consent — a debate that is intensifying across the industry as AI-generated imagery becomes more accessible.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-11T05:08:28.176043-06:00",
+      "slot": 5
+    }
+  ]
+}
