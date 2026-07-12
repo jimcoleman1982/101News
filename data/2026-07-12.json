@@ -3,6 +3,48 @@
   "dateFormatted": "Sunday, July 12, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Sen. Lindsey Graham Dies Suddenly at 71",
+      "summary": "U.S. Senator Lindsey Graham (R-S.C.) died Saturday evening following what his office described as a \"brief and sudden illness,\" ending 23 years of Senate service. Graham, 71, was a former Air Force lawyer first elected to the Senate in 2003 and had recently returned from a trip to Ukraine and Ankara, Turkey. No further details about the cause of death were provided, and his family requested privacy.\n\nGraham was one of the most prominent voices on national security and foreign policy in Congress, and a close political ally of President Trump. He was a consistent advocate for U.S. military engagement abroad and a staunch supporter of Ukraine and Israel. President Trump paid tribute to Graham, calling him a \"true American patriot\" who would be \"greatly missed.\"\n\nGraham's death creates a significant vacancy in the Senate and removes a key Republican voice on foreign policy at a critical moment, with ongoing U.S.-Iran tensions and continued support for Ukraine in question. Under South Carolina law, the governor will appoint a replacement to serve until a special election is held. Tributes poured in from across the political spectrum, reflecting Graham's decades-long influence on Capitol Hill.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/12/lindsey-graham-dies-suddenly-71",
+      "sourceCount": 13,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "7:50 AM MT",
+      "addedAtISO": "2026-07-12T07:50:59.051247-06:00",
+      "slot": 8
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Administration Subpoenas New York Times Journalists Over Air Force One Reporting",
+      "summary": "Federal agents delivered subpoenas to the homes of several New York Times journalists, demanding they appear before a federal grand jury in Manhattan on Wednesday in connection with reporting on security vulnerabilities in President Trump's new Air Force One aircraft. The Times had published stories alleging that the Qatari-gifted plane lacked advanced security features, including antimissile capabilities, and that the Secret Service advised Trump to depart a NATO summit in Turkey on an older aircraft.\n\nThe Justice Department confirmed it is investigating illegal leaks of classified information, but stressed that reporters are not the targets of the investigation. \"We value and appreciate the important role that the press plays in this country, but DoJ also plays an important role to make sure that the people entrusted with our nation's secrets do what they're supposed to do,\" a DOJ spokesperson told the BBC. Other outlets, including CBS News and the BBC, published similar reports citing former government officials.\n\nThe Times condemned the subpoenas, with top newsroom lawyer David McCraw calling them a \"brazen act\" and \"nothing more than an attempt to prevent the public from knowing what is happening in their country by intimidating journalists from doing their jobs.\" Press freedom advocates warn the move could have a chilling effect on national security reporting. The case raises unresolved constitutional tensions between the First Amendment's press protections and laws prohibiting the unauthorized disclosure of classified information.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:50 AM MT",
+      "addedAtISO": "2026-07-12T07:50:59.051247-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Russian Glide Bombs Kill Five in Ukraine's Sumy, Including 13-Year-Old Girl",
+      "summary": "Russian glide bombs struck the northeastern Ukrainian city of Sumy on Saturday, killing five people, including a 13-year-old girl, and injuring at least 30 others, according to Sumy Mayor Artem Kobzar. CCTV footage from a nearby coffee shop captured patrons taking cover as explosions occurred, with people fleeing indoors when the blasts subsided.\n\nSumy, located close to the Russian border, has been a repeated target of Russian strikes throughout the war. Glide bombs — unpowered munitions released from aircraft at high altitude — have become a favored Russian weapon due to their range and ability to evade shorter-range air defenses. The attack underscores the continued toll on Ukrainian civilian populations amid ongoing hostilities.\n\nThe strike comes as the death of Sen. Lindsey Graham, one of Ukraine's most vocal supporters in the U.S. Congress, raises questions about the future of American legislative backing for Kyiv. Graham had most recently visited Ukraine before his death was announced Saturday night.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c8r27drk1nxo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:50 AM MT",
+      "addedAtISO": "2026-07-12T07:50:59.051247-06:00",
+      "slot": 8
+    },
+    {
       "category": "world",
       "headline": "Update: Spain Wildfire — Badly Burned British Couple Rescued from Ravine as Death Toll Holds at 12",
       "summary": "A British couple hiking in Spain's Almeria province were found severely burned and semi-conscious in a ravine after being caught in the wildfire that has killed at least 12 people, including four Britons. Civil Guard officers located the pair near the village of Bedar in the early hours of Friday after hearing distant cries for help; the couple had burns covering approximately 40 percent of their bodies and were evacuated to hospital in intensive care.\n\nHundreds of firefighters, military personnel, and 30 aircraft have been battling the blaze, which has burned through 6,600 hectares. Authorities said Saturday that calmer winds and higher humidity were helping crews gain the upper hand, and roughly 600 of the nearly 1,500 evacuated residents were told they could return home. The wildfire is already among the deadliest in Spanish history.\n\nForensic scientists in Madrid are using DNA samples to identify victims, a process complicated by the need to collect samples from relatives traveling from other countries. A sustained heatwave with temperatures around 40°C has driven wildfires across southern Europe this summer, with France, Portugal, and Spain all affected. Local officials described the destruction as unprecedented, with one mayor saying 'it feels like a bomb has fallen' on the area.",
