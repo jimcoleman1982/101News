@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Iran's New Supreme Leader Vows Revenge Is 'Certain' as Conflict with U.S. Escalates",
+      "summary": "Iranian Supreme Leader Mojtaba Khamenei issued a formal statement Saturday declaring that revenge for his father's assassination \"will most certainly be carried out,\" marking his first major public pronouncement since taking power. The statement was released following the burial ceremony for former Supreme Leader Ali Khamenei, who was killed by U.S. and Israeli air strikes earlier in the conflict. Massive public calls for the death of President Trump were reported throughout the weeklong funeral procession.\n\nKhamenei did not explicitly name Trump in his revenge statement, but Iranian state media and context made the target unambiguous. He had not been seen publicly during the funeral ceremonies, having reportedly been severely injured when the war began. His emergence with a formal vow of retaliation significantly raises the stakes of the ongoing U.S.-Iran conflict.\n\nThe statement coincided with Iran's declaration that the Strait of Hormuz is closed and the IRGC's strike on a commercial vessel, suggesting coordinated escalation across military, political, and naval fronts. U.S. Central Command has responded with new strikes, and the region remains on high alert with no ceasefire currently in force.\n\nAnalysts note that the new supreme leader faces significant domestic pressure to demonstrate strength following his father's death, limiting the political space for diplomatic resolution. Western governments and Gulf states are closely monitoring the situation, with multiple U.S.-allied nations in the region having already been struck by Iranian forces in recent days.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/11/iran-trump-revenge-assassination",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-11T21:08:18.228148-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Two Killed, Four Wounded in Shooting at Toronto Salsa Festival",
+      "summary": "At least two people were killed and four others wounded when a shooter opened fire at the annual Salsa on St. Clair Latin festival in Toronto on Friday evening. Police responded to reports of an active shooter on St. Clair Avenue at approximately 8:12 p.m. local time and found six victims with gunshot wounds; two were pronounced dead at the scene. The festival, in its 22nd year, was being held along a stretch of midtown Toronto lined with shops and restaurants.\n\nPolice secured the scene but urged the public to avoid the area as a large police presence remained. As of initial reports, no suspect had been apprehended. Ontario Premier Doug Ford condemned the \"senseless violence\" in a statement, saying the person responsible \"must be caught, brought to justice and spend the rest of their life behind bars.\"\n\nThe shooting is one of the deadliest mass casualty events at a public festival in Canada in recent years and drew immediate political attention at the provincial level. Authorities have not publicly identified suspects or established a motive.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go",
+      "sourceCount": 11,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-11T21:08:18.228148-06:00",
+      "slot": 21
+    },
+    {
+      "category": "other",
+      "headline": "Argentina Forced to Extra Time by 10-Man Switzerland in World Cup Quarter-Final",
+      "summary": "Defending World Cup champions Argentina were taken to extra time by Switzerland in a quarter-final match held in Kansas City, with the score level after 90 minutes. Argentina took an early lead through Alexis Mac Allister's header off a Lionel Messi corner, but Switzerland equalized through Dan Ndoye, who finished from a tight angle to draw level. Switzerland were then reduced to 10 men after Breel Embolo received a second yellow card for simulation following a VAR review that reversed the referee's initial call.\n\nThe match is one of the most high-profile fixtures of the 2026 World Cup, with Messi leading the reigning champions against a Switzerland side that has consistently outperformed expectations at international tournaments, having eliminated France at Euro 2020 and Italy at Euro 2024. Switzerland entered the match without midfielder Johan Manzambi, who had scored three goals in the tournament before being ruled out with a knee injury.\n\nThe result set up a dramatic extra-time period with Argentina holding a numerical advantage but Switzerland still in contention. The outcome of this match will determine who advances to the semi-finals of the 2026 World Cup, co-hosted by the United States, Canada, and Mexico.",
+      "source": "New York Times",
+      "url": "https://nytimes.com/athletic/live-blogs/argentina-vs-switzerland-live-updates-world-cup-2026-score-result-messi/HROF42ljYNsP/jo39L0yF7cLs",
+      "sourceCount": 19,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-11T21:08:18.228148-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
       "headline": "Bahamas Plane Crash Kills All 10 on Board on Nation's Independence Day",
       "summary": "A Cessna 402 operated by Flamingo Air crashed into bushes near San Andros Airport in the Bahamas on Friday, killing all 10 people aboard — nine passengers and the pilot. The aircraft had departed Lynden Pindling International Airport near the capital Nassau on a short domestic flight when it reportedly encountered difficulties before landing. Bahamian authorities initially reported one survivor, but Prime Minister Philip Davis later confirmed that person had also died from injuries.\n\nThe crash occurred on the Bahamas' 53rd independence anniversary, casting a shadow over national celebrations. Davis told a media conference: 'Today is a day of celebration but it has become a day of mourning.' The country's Aircraft Accident Investigation Authority has launched an inquiry into the cause.\n\nThe Ministry of Aviation announced it was temporarily suspending Flamingo Air's air operator certificate as a precautionary safety measure, though officials clarified the suspension should not be interpreted as a finding of wrongdoing by the airline. The ministry also noted a separate safety incident earlier the same day in which another Flamingo Air flight returned to Nassau after the pilot reported a mechanical issue, and a fire subsequently broke out on board after passengers had disembarked.\n\nThe identities and nationalities of those aboard the fatal flight have not yet been released. Flamingo Air said it was gathering details and cooperating with authorities.",
       "source": "BBC News",
