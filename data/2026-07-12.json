@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-12",
+  "dateFormatted": "Sunday, July 12, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Spain Wildfire — Badly Burned British Couple Rescued from Ravine as Death Toll Holds at 12",
+      "summary": "A British couple hiking in Spain's Almeria province were found severely burned and semi-conscious in a ravine after being caught in the wildfire that has killed at least 12 people, including four Britons. Civil Guard officers located the pair near the village of Bedar in the early hours of Friday after hearing distant cries for help; the couple had burns covering approximately 40 percent of their bodies and were evacuated to hospital in intensive care.\n\nHundreds of firefighters, military personnel, and 30 aircraft have been battling the blaze, which has burned through 6,600 hectares. Authorities said Saturday that calmer winds and higher humidity were helping crews gain the upper hand, and roughly 600 of the nearly 1,500 evacuated residents were told they could return home. The wildfire is already among the deadliest in Spanish history.\n\nForensic scientists in Madrid are using DNA samples to identify victims, a process complicated by the need to collect samples from relatives traveling from other countries. A sustained heatwave with temperatures around 40°C has driven wildfires across southern Europe this summer, with France, Portugal, and Spain all affected. Local officials described the destruction as unprecedented, with one mayor saying 'it feels like a bomb has fallen' on the area.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-12T05:08:15.707664-06:00",
+      "slot": 5
+    },
+    {
+      "category": "other",
+      "headline": "Wimbledon 2026 Men's Final: Sinner Faces Zverev for Championship",
+      "summary": "The 2026 Wimbledon Championships conclude Sunday with world No. 1 Jannik Sinner of Italy facing No. 2 Alexander Zverev of Germany in the men's singles final. A Sinner victory would be his fifth Grand Slam title; a Zverev win would give him the rare French Open–Wimbledon double in the same year, a feat last achieved by Carlos Alcaraz.\n\nZverev enters the final with momentum after claiming his first Grand Slam title at Roland Garros last month, defeating Flavio Cobolli in five sets to end a 0-3 record in Slam finals. Sinner, the reigning Wimbledon champion, has won on the All England Club grass before and would move to within two Slams of a group of legends including Andre Agassi, Ken Rosewall, and Jimmy Connors.\n\nThe final is one of the most-watched sporting events of the weekend, with 25 outlets tracking the match. Wheelchair singles finals — featuring Japan's Tokito Oda against Britain's Alfie Hewett in the men's draw — are also being decided Sunday on the grounds.",
+      "source": "New York Times",
+      "url": "https://nytimes.com/athletic/live-blogs/wimbledon-2026-live-updates-mens-final-score-result-latest/kfcwmFsiSS2U",
+      "sourceCount": 25,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-12T05:08:15.707664-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Muslim Judge in India Receives Death Threats After Convicting 'Cow Vigilantes' in Lynching Case",
+      "summary": "An Indian district judge, Tabassum Khan, has been subjected to a wave of online death threats, rape threats, and communal abuse following her June 12 verdict sentencing 14 men to life imprisonment for the 2022 lynching of Nazir Ahmad, a 50-year-old Muslim man who was transporting cattle in Madhya Pradesh state. The men, described as self-styled 'gau rakshaks' (cow protectors), intercepted Ahmad at night and beat him and two companions with sticks and rods; Ahmad later died of his injuries.\n\nVideos of Hindu right-wing influencers issuing threats and communal slurs against Khan spread rapidly on social media, attracting thousands of likes and shares with the speakers' faces and handles clearly visible. A right-wing television anchor expressed solidarity with the convicted men's families, and cow-protection organizations staged mass protests against the verdict in multiple states. Khan has been given police protection, and leading judicial bodies have publicly rallied in her defense.\n\nThe case highlights tensions over cow vigilantism in India, where killing cows is illegal in many states and cows are considered sacred by Hindus. Critics argue that vigilante groups operate with impunity and that the threats against Khan reflect broader patterns of religious intimidation of the judiciary, while supporters of the convicted men contend they were acting to enforce laws against cattle smuggling.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-12T05:08:15.707664-06:00",
+      "slot": 5
+    },
+    {
+      "category": "other",
+      "headline": "Conor McGregor's UFC Return Ends in Seconds After Apparent Knee Injury Against Max Holloway",
+      "summary": "Conor McGregor's long-awaited return to the UFC Octagon at UFC 329 in Las Vegas Saturday night lasted only seconds before being stopped by a TKO, as the Irish fighter appeared to suffer a knee injury on his right leg while attempting a kick against Max Holloway. The official waved off the bout after McGregor hit the canvas, with UFC CEO Dana White pointing to a replay showing the apparent moment of injury during the broadcast.\n\nMcGregor had not fought in the UFC since January 2020, when he defeated Donald 'Cowboy' Cerrone. His absence followed a leg break suffered in a 2021 fight against Dustin Poirier — an injury to a different leg than Saturday's apparent setback. The loss extends McGregor's winless drought and raises fresh questions about whether the 37-year-old can compete at the sport's highest level.\n\nThe fight had been one of the most anticipated MMA events in years given McGregor's star power and prolonged absence. In pre-fight media, McGregor acknowledged that commercial ventures, including his Irish whiskey brand, had diverted his focus during his peak years. The nature and severity of his injury were not immediately confirmed by medical staff following the stoppage.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/sports/conor-mcgregor-long-awaited-octagon-return-cut-short-apparent-knee-injury-seconds-ufc-329",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-12T05:08:15.707664-06:00",
+      "slot": 5
+    }
+  ]
+}
