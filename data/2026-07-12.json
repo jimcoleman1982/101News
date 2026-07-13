@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Typhoon Bavi Makes Landfall in China After Killing 17 in Philippines",
+      "summary": "Typhoon Bavi struck China's coast after cutting a destructive path through the Philippines, where it killed at least 17 people. At its peak, the storm spanned roughly the width of France, making it one of the larger typhoons to affect the region this season. Chinese authorities had previously evacuated nearly two million people ahead of the landfall.\n\nThe storm skirted Japan and made a glancing blow at Taiwan before making its primary landfall on the Chinese mainland. Authorities in affected coastal provinces had mobilized emergency response teams and issued evacuation orders for low-lying and flood-prone areas ahead of the storm's arrival.\n\nThe typhoon represents the latest major weather event in an active Pacific storm season. With nearly two million people displaced by precautionary evacuations and a confirmed death toll from the Philippines, the storm's full impact on China is still being assessed as emergency teams survey affected areas.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/topic/destination/china",
+      "sourceCount": 18,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-12T21:08:17.389067-06:00",
+      "slot": 21
+    },
+    {
+      "category": "science_health",
+      "headline": "58 Million Under Heat Alerts as Extreme Heat Dome Peaks Across Western U.S.",
+      "summary": "Roughly 58 million Americans were under severe heat alerts on Sunday as a heat dome centered over the western United States reached its peak intensity. Billings, Montana, hit an all-time record high of 110 degrees Fahrenheit, while Salt Lake City broke its previous record with 109 degrees — surpassing a mark that had stood since 1960. Forecasters described the heat as \"exceptionally rare\" for some locations even by midsummer standards.\n\nThe dangerous heat stretched across the Great Basin, the Rocky Mountains, and the desert Southwest, with temperatures forecast between 105 and 115 degrees across broad areas. Extreme heat warnings were issued across most of Utah, large swaths of North and South Dakota, and parts of Southern California. The National Weather Service warned that the prolonged warmth, with limited overnight cooling, would significantly increase risks of heat stroke and other heat-related illnesses.\n\nThe heat dome also elevated wildfire danger across the region. In California's Antelope Valley north of Los Angeles, the Summit Fire burned nearly 3,000 acres and temporarily forced evacuations before crews reached 31 percent containment by Sunday evening. Additional wildfires ignited in Colorado's high country. Forecasters said the heat was expected to gradually shift eastward into the northern Plains early this week while lingering in the central region through the coming weekend.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/40-million-under-alerts-heat-dome-peaks-western-us/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-12T21:08:17.389067-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Gibraltar Set to Remove 118-Year-Old Border Controls with Spain on July 15",
+      "summary": "Gibraltar is scheduled on July 15 to eliminate border controls with Spain that have been in place since 1908, marking a historic shift in the relationship between the British Overseas Territory and its Iberian neighbor. The change is the result of a carefully negotiated post-Brexit agreement between the United Kingdom and the European Union, which sought to resolve the unique challenge posed by Gibraltar's land border with an EU member state after Britain's departure from the bloc.\n\nThe removal of controls is expected to ease significant daily friction for the roughly 15,000 Spanish workers who cross the frontier into Gibraltar each day, often enduring lengthy queues during morning and afternoon rush hours. The economic stakes are particularly high for La Línea de la Concepción, the impoverished Spanish town immediately adjacent to Gibraltar, where unemployment runs near 30 percent and local businesses derive an estimated one-third of their income from Gibraltarian clients.\n\nGibraltar itself has one of the highest per capita incomes in the world, and the territory voted 96 percent in favor of remaining in the EU during the 2016 Brexit referendum. Mayor Juan Franco of La Línea called the development \"historic\" and said the post-Brexit solution would ultimately benefit both sides. The agreement preserves British sovereignty over Gibraltar while integrating the territory into the Schengen area's border framework for travelers crossing from Spain.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-12T21:08:17.389067-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
       "headline": "At Least 27 Killed in Bangkok Bar Fire",
       "summary": "A fire tore through a bar in Bangkok's Chatuchak district just before midnight Sunday, killing at least 27 people and injuring more than 60 others. Thai Prime Minister Anutin Charnvirakul confirmed the death toll at the scene, saying 27 bodies had been recovered. Footage posted on social media showed flames engulfing the front entrance of the venue, Rong Beer Na Lat Phrao, as patrons fled in panic, some appearing to be on fire.\n\nFirst responders arrived shortly after midnight and brought the blaze under control within roughly half an hour, but the damage was already catastrophic. According to the prime minister, a musician performing at the time said the fire started at an electrical cut-off switch and spread with extreme speed. Many victims were found in restrooms at the back of the building, where they had attempted to shelter from smoke and flames.\n\nThe dead included nine men and 18 women. An unknown number of patrons remain missing. The cause of the fire is still under investigation, and Thai authorities have not yet announced any arrests or formal findings. The incident ranks among the deadliest fire disasters in Thailand in recent years.",
       "source": "BBC News",
