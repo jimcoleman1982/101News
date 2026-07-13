@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "EU Sanctions Sudan's Gold Trade as Civil War Enters Fourth Year",
+      "summary": "The European Union approved new trade prohibitions targeting Sudan's gold sector on Monday, intensifying economic pressure on the country as its civil war between the Sudanese Armed Forces and the paramilitary Rapid Support Forces enters its fourth year. The sanctions aim to cut off a key revenue stream that has helped fund the conflict, which has produced one of the world's worst humanitarian crises, displacing millions and causing widespread civilian casualties.\n\nEU foreign ministers approved the measures at a meeting Monday, responding to escalating pressure from member states who have grown increasingly alarmed at the scale of the violence. Sudan's gold trade has been a significant source of income for both warring factions, and Western governments have argued that restricting it could constrain the combatants' ability to sustain military operations.\n\nThe move signals a broader toughening of the EU's posture toward conflict-affected economies, coming months after the bloc imposed separate sanctions on Israel over West Bank settlement activity. Critics of the Sudan sanctions have previously warned that such measures risk further destabilizing civilian populations who depend on mining for their livelihoods, though proponents argue the humanitarian cost of inaction is far greater.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/eu-to-sanction-sudan-s-gold-trade-as-civil-war-rages",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:38 AM MT",
+      "addedAtISO": "2026-07-13T10:38:53.273072-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "Pentagon and DOJ Launch Joint Task Force to Identify and Prosecute National Security Leakers",
+      "summary": "Defense Secretary Pete Hegseth announced Monday that the Pentagon and the Justice Department have established a joint task force dedicated to identifying and prosecuting individuals who leak sensitive national security information to the press or public. The Defense Department's Office of General Counsel will be empowered to formally request DOJ action against suspected leakers, marking a significant escalation in the administration's crackdown on unauthorized disclosures.\n\nThe announcement represents a formalization of aggressive anti-leak efforts that have characterized the Trump administration's second term, following earlier moves including subpoenas issued to journalists. Supporters of the initiative argue it is essential to protecting military operations and intelligence sources; critics contend that such task forces have historically been used to intimidate whistleblowers and chill press freedom, raising First Amendment concerns.\n\nThe timing of the announcement is notable given the active U.S.-Iran military conflict, during which operational security has been cited by administration officials as a paramount concern. Civil liberties organizations and press freedom advocates are expected to scrutinize the task force's scope closely, particularly regarding its potential reach into journalistic sources.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/5965945-hegeseth-crackdown-media-leaks/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:38 AM MT",
+      "addedAtISO": "2026-07-13T10:38:53.273072-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "The Chinese Graduate Accused of Being Mexico's 'Fentanyl King'",
+      "summary": "A BBC investigation profiles Zhang Zhidong, a 39-year-old Chinese national and Peking University graduate whom U.S. prosecutors have called one of \"the world's most dangerous traffickers\" for allegedly building the chemical supply chain that links Chinese precursor manufacturers to Mexican cartel fentanyl laboratories. Zhang, known in criminal circles as \"Brother Wang\" or the \"king of fentanyl,\" was arrested in Mexico in 2024, escaped custody, was recaptured, and extradited to the United States in 2025; he has pleaded not guilty and is awaiting trial in New York.\n\nCartel members and former colleagues speaking to the BBC describe how Zhang — who arrived in Mexico in 2011 to work for a Chinese mining company — allegedly leveraged his language skills, business contacts, and adaptability to embed himself with the Sinaloa cartel, eventually coordinating the shipment of chemical precursors from China to Mexican drug labs. The fentanyl produced through such supply chains is 50 times more potent than heroin and is responsible for tens of thousands of American deaths each year.\n\nThe case has become politically significant in Washington: President Trump has cited the fentanyl trade as justification for tariffs on China, Mexico, and Canada, and has classified fentanyl and its components as weapons of mass destruction. The investigation provides rare firsthand testimony illuminating how a transnational criminal network allegedly operated at the intersection of Chinese chemical manufacturing and Mexican cartel distribution.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:38 AM MT",
+      "addedAtISO": "2026-07-13T10:38:53.273072-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "EU, UK and France Sanction Russia Over Sabotage and Espionage Cyber Campaign Across Europe",
       "summary": "France, the European Union, and the United Kingdom announced coordinated sanctions Monday against Russian individuals and entities accused of orchestrating a broad campaign of cyberattacks and physical sabotage across more than a dozen European countries. French Foreign Minister Jean-Noël Barrot said Russia's ambassador in Paris would be summoned and announced sanctions on nine individuals and four entities linked to the FSB, Russia's primary intelligence service. The EU sanctioned the same number of individuals and entities, while the UK went further, targeting 24 individuals and entities for what it described as cyber and hybrid operations.\n\nThe attacks allegedly targeted government ministries, private companies, and critical infrastructure operators across France, Germany, Poland, Cyprus, the Netherlands, Austria, Slovakia, Romania, and Finland, causing disruptions and financial losses. The EU accused the FSB of controlling a 'cyber ecosystem' spanning intelligence officers, cybercriminal groups, self-proclaimed hacktivists, and private companies. Among the incidents cited was the alleged FSB-linked bombing of a Polish railway line in November 2025, which Warsaw called 'an act of state terror.'\n\nThe announcements came as France hosted a summit of the 'Coalition of the Willing,' a group of Ukraine's allies convening in Paris on Monday. Kremlin spokesman Dmitry Peskov dismissed the coalition as 'warmongers' and said Russia would be 'watching very closely.' The coordinated Western response marks one of the most sweeping collective sanctions actions against Russian intelligence operations since the full-scale invasion of Ukraine.\n\nThe action reflects growing European alarm over what officials describe as an escalating hybrid warfare campaign by Moscow. Sweden revealed earlier this year that it had foiled a Russian cyberattack on a thermal power plant, and Poland, Norway, Denmark, and Latvia have all issued warnings in recent months about Russian targeting of critical infrastructure.",
       "source": "CBS News",
