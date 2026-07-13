@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, July 13, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "ICE Agent Fatally Shoots Man During Removal Operation in Biddeford, Maine",
+      "summary": "An Immigration and Customs Enforcement agent shot and killed a man in his 20s Monday morning during an enforcement operation in Biddeford, Maine. Maine Gov. Janet Mills confirmed the death before noon, and Sen. Angus King said the Department of Homeland Security told him the individual had a final order of removal and 'weaponized the vehicle' by driving it toward an officer.\n\nThe Maine Immigrant Rights Coalition identified the victim as a 26-year-old Colombian national, saying he was authorized to work in the U.S. and held a valid Social Security number. Federal officials had not confirmed those details as of Monday afternoon. The Colombian Embassy said its consular officials were working to confirm the man's identity and nationality.\n\nThe Maine Attorney General's Office confirmed it is investigating the use of deadly force. An initial statement from the office said the officer was conducting an enforcement removal operation related to a final order of removal when the subject attempted to flee in a vehicle toward the officer, resulting in the fatal shooting.\n\nThe incident is drawing significant attention as it touches on the intensely contested national debate over immigration enforcement. Immigrant advocates contend the victim was a lawful worker and question the circumstances of the confrontation; federal officials maintain the agent acted in response to a threat. The Maine State Police, FBI, and the Attorney General's Office are all present at the scene.",
+      "source": "wmtw.com",
+      "url": "https://www.wmtw.com/article/significant-police-presence-pool-street-biddeford-maine/71917201",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:41 PM MT",
+      "addedAtISO": "2026-07-13T13:41:14.125750-06:00",
+      "slot": 14
+    },
+    {
+      "category": "business",
+      "headline": "Dozen State Attorneys General Sue to Block Paramount-Warner Bros. Discovery Merger",
+      "summary": "A coalition of 12 state attorneys general, led by California's Rob Bonta, filed a joint antitrust lawsuit Monday seeking to block the $110 billion merger between Paramount Skydance and Warner Bros. Discovery. The suit argues the deal would harm competition in the entertainment industry, damage movie theaters, and consolidate too much power over American film and television production.\n\nThe multistate action comes one month after the Department of Justice approved the merger, concluding it would increase competition in Hollywood. The two federal decisions are now in direct conflict, setting up a potentially protracted legal battle over one of the largest media consolidations in U.S. history. Warner Bros. Discovery owns major studios, HBO, and CNN, while Paramount controls additional studios and the CBS broadcast network.\n\nFCC Chairman Brendan Carr publicly dismissed the state lawsuit, saying it was 'hard to see' a legitimate antitrust basis for the action given the DOJ's prior approval. Proponents of the merger argue consolidation is necessary for traditional media companies to compete against streaming giants such as Netflix and Amazon.\n\nOpponents counter that combining two of the nation's largest studio and content operations would reduce competition for filmmakers, actors, and theater owners, ultimately harming consumers. The lawsuit represents a significant state-level challenge to a federally approved deal and will test the boundaries of state antitrust authority over major interstate media transactions.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/5966111-paramount-warner-merger/",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:41 PM MT",
+      "addedAtISO": "2026-07-13T13:41:14.125750-06:00",
+      "slot": 14
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: Cyclospora Outbreak Surges Past 2,800 Cases Across Multiple States",
+      "summary": "Health officials in Michigan and Ohio are reporting a rapidly expanding outbreak of cyclosporiasis, a parasitic intestinal infection that causes watery diarrhea, loss of appetite, and weight loss. Michigan alone has confirmed more than 2,000 cases, with the total multistate count exceeding 2,800. The source of the outbreak has not yet been identified.\n\nCyclosporiasis is caused by the Cyclospora cayetanensis parasite, typically transmitted through consumption of contaminated food or water. Past U.S. outbreaks have been linked to fresh produce. Dozens of states are now investigating cases, suggesting a potentially widespread common food source.\n\nThe outbreak is drawing additional political attention because it comes roughly a year after the Trump administration cut funding to state and local health departments, which critics say has hampered the investigation and response capacity. The administration has not publicly commented on that characterization.\n\nHealth officials are urging anyone experiencing prolonged diarrhea, fatigue, or loss of appetite to contact a healthcare provider, as the infection requires specific antibiotic treatment and does not resolve on its own as quickly as more common gastrointestinal illnesses.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/5966065-map-cases-of-explosive-diarrhea-illness-continue-to-climb/",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:41 PM MT",
+      "addedAtISO": "2026-07-13T13:41:14.125750-06:00",
+      "slot": 14
+    },
+    {
       "category": "world",
       "headline": "EU Sanctions Sudan's Gold Trade as Civil War Enters Fourth Year",
       "summary": "The European Union approved new trade prohibitions targeting Sudan's gold sector on Monday, intensifying economic pressure on the country as its civil war between the Sudanese Armed Forces and the paramilitary Rapid Support Forces enters its fourth year. The sanctions aim to cut off a key revenue stream that has helped fund the conflict, which has produced one of the world's worst humanitarian crises, displacing millions and causing widespread civilian casualties.\n\nEU foreign ministers approved the measures at a meeting Monday, responding to escalating pressure from member states who have grown increasingly alarmed at the scale of the violence. Sudan's gold trade has been a significant source of income for both warring factions, and Western governments have argued that restricting it could constrain the combatants' ability to sustain military operations.\n\nThe move signals a broader toughening of the EU's posture toward conflict-affected economies, coming months after the bloc imposed separate sanctions on Israel over West Bank settlement activity. Critics of the Sudan sanctions have previously warned that such measures risk further destabilizing civilian populations who depend on mining for their livelihoods, though proponents argue the humanitarian cost of inaction is far greater.",
