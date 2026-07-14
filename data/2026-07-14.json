@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-14",
+  "dateFormatted": "Tuesday, July 14, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Update: Fed Chair Warsh Testifies on Monetary Policy as Rate-Setting Committee Remains Split",
+      "summary": "New Federal Reserve Chair Kevin Warsh appeared before the House Financial Services Committee on Tuesday for the agency's semi-annual monetary policy report, his first major congressional testimony since taking the role. The hearing comes amid elevated inflation driven in part by the ongoing U.S.-Iran conflict, with Brent crude approaching $85 a barrel following the resumption of hostilities in the Strait of Hormuz.\n\nMinutes released last week revealed the Fed's rate-setting committee is divided over the inflation outlook. Many officials projected the benchmark rate — currently at 3.6% — would remain unchanged or fall slightly by year-end, while half of the 18 policymakers who submitted projections supported a rate increase. Warsh declined to submit his own forecast, saying doing so can lock policymakers into positions that become difficult to reverse if conditions shift.\n\nThe economic backdrop is challenging: U.S. home prices hit an all-time high median of $440,600 in June even as existing home sales slipped 2.4%, and the IMF last week downgraded global growth to 3% for 2026, citing the energy shock from the Iran war. Warsh has publicly emphasized the Fed's political independence and a focus on taming inflation, themes expected to dominate the congressional hearing.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-fed-chair-kevin-warsh-testifies-on-monetary-policy-in-house-hearing",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-14T05:08:21.499025-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: GOP Challenger Announces Bid for Graham's South Carolina Senate Seat as Succession Process Begins",
+      "summary": "Mark Lynch, who lost to Sen. Lindsey Graham in last month's Republican primary, announced Monday he will seek the GOP nomination in the special election to fill Graham's seat. Lynch made the announcement on social platform X, saying he was responding to requests from supporters. The move sets up an early contest for a seat that is central to the Senate's Republican majority.\n\nSouth Carolina Gov. Henry McMaster was expected to announce Monday an interim appointment to fill Graham's seat. President Trump and Sen. Tim Scott had pushed McMaster to appoint Graham's sister, Darline Graham Nordone, as a caretaker. Nordone, who has no prior elected experience, was subsequently appointed. The seat will be contested in a special election whose timing has not yet been set.\n\nGraham's death on Saturday has triggered a succession process with significant implications for Senate dynamics. Graham chaired or held senior roles on key committees and was regarded by Senate Majority Leader John Thune as the \"glue\" of the Republican caucus. Thune delivered a tearful tribute on the Senate floor Monday as a black veil covered Graham's desk.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/5966540-mark-lynch-gop-senate-primary/",
+      "sourceCount": 18,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-14T05:08:21.499025-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Ukraine Fears Loss of Key White House Link After Graham's Death",
+      "summary": "Ukrainian officials and lawmakers expressed alarm Monday over the death of Sen. Lindsey Graham, describing him as an irreplaceable intermediary between Kyiv and the Trump White House. Graham had visited Ukraine just two days before his death, standing in Kyiv's St. Michael's Square and promising to advance sweeping new economic sanctions against Russia upon his return to Washington.\n\nOleksandr Merezhko, a lawmaker with President Volodymyr Zelenskyy's party, said Graham was \"truly indispensable\" and \"the closest link between Ukraine, our president and Trump.\" Zelenskyy, who noted Graham had visited Ukraine 10 times since Russia's full-scale invasion, said he was \"deeply saddened\" by the senator's sudden death. Ukrainian officials fear the loss will weaken their ability to influence the White House across a range of issues, including the Russia sanctions legislation Graham had championed alongside Democratic Sen. Richard Blumenthal.\n\nGraham had played a particularly sensitive role given Trump's historically strained relationship with Zelenskyy. With Graham gone, Ukrainian officials said they do not know who in Trump's orbit could fill that role. The fate of the bipartisan Russia sanctions bill, which Graham described as within reach during his final Kyiv visit, is now uncertain.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/lindsey-graham-death-ukraine-russia-trump-zelenskyy-3a61ea0c1cf28b15660efa9338adcfee",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-14T05:08:21.499025-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Bangkok Bar Fire Death Toll Rises to 30 as Investigation Reveals Locked Doors, Flammable Decor",
+      "summary": "Thai authorities investigating Sunday's deadly fire at a Bangkok bar confirmed Monday that the death toll has climbed to at least 30, with more than 70 injured and 24 in critical condition. Investigators found that doors near the restrooms were locked, exits were poorly marked, and the stage was decorated with highly flammable plastic flowers while the ceiling was coated in combustible foam — conditions that caused the fire to spread within seconds of igniting.\n\nPreliminary findings point to a short circuit in an air conditioner as the likely ignition source. Survivors reported running toward the back of the venue away from the flames, only to find themselves trapped when the rear door could not be opened. Fire safety experts said many victims likely died from inhaling carbon monoxide and hydrogen cyanide produced by the burning synthetic materials before flames reached them.\n\nThe bar, Rong Beer Na Lat Phrao, was registered as a \"restaurant with live music\" rather than an entertainment venue, exempting it from requirements to use fire-retardant materials. Bangkok's Metropolitan Administration said it is reviewing regulations governing construction and decoration materials in both categories. The Thai indie band Thotsakan, which was performing when the fire broke out, lost two members in the blaze.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-14T05:08:21.499025-06:00",
+      "slot": 5
+    }
+  ]
+}
