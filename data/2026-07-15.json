@@ -3,6 +3,34 @@
   "dateFormatted": "Wednesday, July 15, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "South Africa Opens Special Probe Into Killing of Anti-Migrant Leader as Xenophobia Violence Spreads",
+      "summary": "South African police have launched a special multidisciplinary investigation into the killing of Andile Mvuyelwa Somgxada, the Gauteng province leader of the anti-migrant movement March and March, who was shot outside his home east of Johannesburg earlier this month and died days later in hospital. The group's spokesperson described the killing as a targeted \"hitman-type\" retaliation against March and March's campaign to expel undocumented migrants from the country, and said other leaders have received death threats.\n\nThe investigation comes as South Africa's immigration crisis has escalated into widespread social unrest, with anti-migrant protesters staging weekly demonstrations and setting an unofficial June 30 deadline for undocumented foreigners to leave the country. The South African government says it has deported or repatriated more than 53,000 foreign nationals in five weeks as part of a \"migration management\" campaign. Separately, five people were arrested in Limpopo province for impersonating immigration officers and forcing a legally resident Nigerian national to close his business.\n\nActing police chief Lt. Gen. Puleng Dimpane, while announcing the special probe, issued a stern warning against vigilante enforcement, stating that no individual or group has legal authority to conduct immigration inspections or remove people from communities. March and March has publicly rejected violence, but rights groups and police say incidents of intimidation, looting, and attacks on foreign nationals have accompanied the protest movement.\n\nImmigration has become one of the most contentious political issues in South Africa, Africa's wealthiest nation, which has long attracted economic migrants from across the continent. Analysts warn the combination of organized anti-migrant activism and the killing of a movement leader risks further inflaming tensions and increasing the potential for large-scale xenophobic violence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:28 AM MT",
+      "addedAtISO": "2026-07-15T10:28:24.254284-06:00",
+      "slot": 11
+    },
+    {
+      "category": "science_health",
+      "headline": "Severe Flooding Strikes South Texas for Second Consecutive Day; Tornado Hits San Antonio",
+      "summary": "Slow-moving storms continued to drench a large swath of South Texas on Wednesday, spawning a tornado in the northwestern part of San Antonio near Interstate 10 with no immediate reports of injuries. Flash flood warnings were posted across several counties near the Mexican border as forecasters warned that 10 to 20 inches of total rainfall was possible before the storm system moves out by Thursday evening.\n\nThe hardest-hit area has been Uvalde County, which recorded up to 16 inches of rain in some locations. Authorities reported at least two dozen water rescues in the city of Uvalde and activated local emergency shelters. The Texas Game Warden Search and Rescue Team and local game wardens combined to rescue at least nine people from floodwaters on Tuesday.\n\nTexas Governor Greg Abbott issued disaster declarations for dozens of counties. Of particular concern are areas including parts of Kerr County — site of catastrophic Guadalupe River flooding last year that killed more than 100 people — where officials have been in direct contact with summer camps and retreat centers at risk of river flooding. There have been no reports of deaths or injuries from the current flooding.\n\nMeteorologists described the pattern as a mid-summer tropical weather event that affects Texas roughly once every five years, driven by a stagnant low-pressure center drawing tropical moisture from the Gulf of Mexico and the Pacific Ocean. The storm system is expected to persist through Thursday before moving on.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/heavy-rains-keep-drenching-south-texas-sparking-a-tornado-in-san-antonio",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:28 AM MT",
+      "addedAtISO": "2026-07-15T10:28:24.254284-06:00",
+      "slot": 11
+    },
+    {
       "category": "business",
       "headline": "China's Economic Growth Slows to 4.3% in Q2, Missing Beijing's Target",
       "summary": "China's economy grew at an annual rate of 4.3% in the second quarter of 2026, down sharply from 5% in the first quarter and below Beijing's target range of 4.5% to 5%, according to official GDP figures released Wednesday. It is the country's weakest quarterly expansion since late 2022, when China was still emerging from strict Covid-19 lockdowns.\n\nOfficials at China's National Bureau of Statistics cited rising external instability and an imbalance between strong supply and weak domestic demand. Separate data released alongside the GDP figures showed new home prices fell again in June, though at a slightly slower pace, while retail sales rose just 1% after contracting the previous month. Analysts note that the ongoing Iran war has driven up energy and raw materials costs, squeezing Chinese businesses that cannot pass those costs on to consumers.\n\nSome economists caution against reading the figures as a sudden deterioration. Julian Evans-Pritchard of Capital Economics argued the slowdown may reflect Beijing's greater willingness to acknowledge pre-existing weakness following the March revision of its growth target — the lowest since 1991 — rather than a sharp new decline. June data offered some reassurance, with China's exports jumping 27% year-on-year, buoyed by surging semiconductor demand for AI infrastructure and record monthly electric vehicle exports topping one million units.",
