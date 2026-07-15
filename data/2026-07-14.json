@@ -3,6 +3,48 @@
   "dateFormatted": "Tuesday, July 14, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Senate Democrats Block Defense Bill Over Iran War; ICE Ordered to Suspend Vehicle Stops After Two Deadly Shootings",
+      "summary": "Senate Democrats on Tuesday blocked the National Defense Authorization Act — a bill that typically passes with strong bipartisan support — on a 50-46 procedural vote, citing the Trump administration's ongoing military operations against Iran without explicit congressional authorization. Minority Leader Chuck Schumer said Republicans were \"ignoring the nation's most urgent national security crisis\" by pressing forward with defense spending while the Iran conflict dragged on without a clear endgame. Republicans countered that blocking the NDAA undermined military readiness and endangered troops already deployed in the Middle East.\n\nSeparately, U.S. Immigration and Customs Enforcement issued a nationwide order suspending most vehicle traffic stops following two fatal shootings of immigrants in vehicles within a week — one in Houston, Texas, and one in Biddeford, Maine. The Maine victim was identified as Johan Sebastián Durán Guerrero, a 26-year-old Colombian national; neither he nor the Texas victim were the intended targets of enforcement operations, according to the Department of Homeland Security. The Harris County District Attorney said ICE's tactics \"in no way resemble\" standard law enforcement practice and said his office was seeking visas for witnesses to prevent their deportation during the investigation.\n\nRepublican Rep. Andrew Garbarino, chair of the House Homeland Security Committee, requested a bipartisan briefing from DHS on ICE's use-of-force policies and body camera deployment. The Trump administration had pledged five months ago to rapidly equip all ICE agents with body cameras; roughly half still do not have them, according to reporting. ICE defenders argue agents faced life-threatening situations in both incidents, with the agency saying the Maine suspect used his vehicle as a weapon.\n\nThe twin controversies — the stalled NDAA and the ICE shootings — reflect deepening tensions between Congress and the White House over executive authority in matters of war and domestic law enforcement. The NDAA blockade is the latest sign that Democratic opposition to the Iran conflict is moving from rhetoric to legislative action, while the ICE pause marks a rare policy reversal by an administration that has made aggressive immigration enforcement a centerpiece of its agenda.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/live/trump-administration-barrett-kagan-iran-updates-07-14-2026",
+      "sourceCount": 11,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-14T21:08:36.710260-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Supreme Court Justices Barrett and Kagan Testify Before Congress on Security Threats and Court Ethics",
+      "summary": "Supreme Court Justices Amy Coney Barrett and Elena Kagan made rare appearances before House and Senate panels Tuesday — the first sitting justices to testify on Capitol Hill since 2019 — to request increased security funding and answer questions about the court's ethics and operations. Barrett told lawmakers that a sharp rise in threats against justices is increasingly affecting her personal and family life, saying her children \"have seen things no child should.\" She noted that when Kagan joined the court in 2010, the security environment was so different that she drove herself to work.\n\nThe bipartisan hearings covered a range of topics beyond the security budget request, including the court's emergency docket, its code of ethics, and the 2022 leak of the Dobbs decision that dramatically intensified threats against the justices. Kagan recalled a notable exchange with the late Sen. Lindsey Graham during her 2010 confirmation hearing. Neither justice offered opinions on pending cases or made overtly partisan statements, and the tone of the hearings was described as collegial.\n\nThe testimony comes at a moment of heightened public and political scrutiny of the Supreme Court, with ongoing debates over its ethics rules and the scope of its rulings on immigration, executive power and other contested issues. The court's request for additional security funding is expected to face little opposition in Congress given the documented increase in threats, though questions about accountability and transparency drew pointed questioning from some lawmakers.\n\nThe appearance of two justices from opposite ends of the ideological spectrum — Barrett, appointed by President Trump, and Kagan, appointed by President Obama — was itself notable, underscoring that concerns about judicial security cut across partisan lines. The last time sitting justices testified before Congress was in 2019.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/live/trump-administration-barrett-kagan-iran-updates-07-14-2026",
+      "sourceCount": 11,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-14T21:08:36.710260-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Update: Seven of 13 Spain Wildfire Victims Confirmed as British Nationals",
+      "summary": "Spanish authorities confirmed Tuesday that seven of the 13 people killed in last week's wildfires in the Almería province were British nationals, after post-mortem examinations were completed. Twelve of the 13 victims were foreign nationals; three were from Belgium, one from France and one from the United States. The only Spanish victim was also confirmed. The fires, which tore through the region on Thursday, have become one of Spain's deadliest wildfire events in recent memory.\n\nAmong the British dead were Pete and Fran Gillam, a couple who lived in the village of Bédar, which bore the brunt of the blaze. Their daughter, Danielle Gillam-Kirton of Sheffield, confirmed their deaths in a Facebook post, saying the family was \"heartbroken.\" British survivor Malcolm Timbrell, 70, described taking refuge inside abandoned cars as four of the six vehicles around him caught fire, surviving in the last car with a cat as the paint blistered around him.\n\nThe fire has now been contained after burning approximately 7,000 hectares (17,300 acres). Nearly 1,500 people were evacuated from the province during the emergency. Spain has experienced increasingly frequent and severe heatwaves in recent years, with temperatures regularly exceeding 40°C, and investigators have been examining the cause and spread of the blaze.\n\nThe high proportion of British victims reflects the large number of British expatriates and property owners in the Almería region. The UK's Foreign, Commonwealth and Development Office said it was supporting affected British nationals and their families and remained in close contact with Spanish authorities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-14T21:08:36.710260-06:00",
+      "slot": 21
+    },
+    {
       "category": "business",
       "headline": "De Beers Suspends Production at South Africa's Largest Diamond Mine for Two Years",
       "summary": "Diamond giant De Beers is halting production at its Venetia mine in South Africa for two years, citing a depressed global diamond market and the need to cut costs. The Venetia mine accounts for more than 40% of South Africa's diamond output and employs over 4,000 workers, making the suspension a significant blow to the country's mining sector, which employs nearly half a million people and contributes more than 4% of national GDP.\n\nThe decision reflects broader structural pressures facing the natural diamond industry: consumer demand has fallen sharply, particularly in China, while competition from lab-grown diamonds — which can be produced at a fraction of the cost — has caused rough diamond prices to nearly halve since 2022. De Beers says it will use the two-year pause to upgrade infrastructure and improve efficiency at the mine before resuming operations when market conditions improve.\n\nDe Beers is majority-owned by Anglo American, which has been reported to be seeking a sale of the diamond business as it pivots toward copper, a metal in high demand due to the global AI and clean-energy boom. Workers' unions have previously raised alarm over potential job losses in the sector. The closure underscores a historic shift in consumer attitudes toward luxury goods and the growing challenge synthetic gems pose to one of the world's oldest mining industries.",
