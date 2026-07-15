@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "France Legalises Assisted Dying After Years of Parliamentary Deadlock",
+      "summary": "France's National Assembly voted 291 to 241 on Wednesday to approve a law permitting assisted dying under strict conditions, marking a landmark shift in French law after years of contentious debate. The legislation allows French adults with a serious, incurable, life-threatening illness in an advanced or terminal stage, causing unbearable and untreatable suffering, to request a lethal substance from a physician. The patient must administer the substance themselves; a doctor or nurse may assist only if the patient is physically unable to do so.\n\nThe bill had been rejected three times by France's Senate, which is dominated by right-wing parties, and had faced opposition from the Catholic Church and parts of the French medical profession. Despite the National Assembly's repeated backing, Prime Minister Sébastien Lecornu announced he would refer portions of the bill to France's Constitutional Council for review before it can become law, introducing potential further delays. Opinion polls indicate a large majority of French citizens support giving terminally ill people the choice between palliative care and assisted dying.\n\nWednesday's vote places France alongside Belgium, the Netherlands and several other European nations that have decriminalised assisted dying in some form. Switzerland has long permitted assisted suicide provided the assisting party acts unselfishly. A similar debate is unfolding in the United Kingdom, where a bill to legalise assisted dying in England and Wales stalled earlier this year and is set to return to Parliament in September.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:25 PM MT",
+      "addedAtISO": "2026-07-15T13:25:46.313845-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Hong Kong Police Raid Independent Bookshops, Arrest Five on National Security Grounds",
+      "summary": "Hong Kong police raided two independent bookshops on Wednesday and arrested five people — two men and three women — on suspicion of violating national security legislation by displaying and selling books deemed to incite \"hatred\" against the territory's government, judiciary, and law enforcement agencies. Officers seized publications from both shops. If convicted, the suspects face up to seven years in prison under the territory's national security law.\n\nOne of the raided shops, Have A Nice Stay in the densely populated Mong Kok district, was founded in 2022 by former journalists and stocks literature on democracy, authoritarianism and media literacy. The raid came just one day after the bookshop announced it would close in August, citing financial pressures and what it described as an \"elusive 'red line'\" over which material is considered problematic by authorities. The nearby Greenfield Book Store was also reportedly targeted.\n\nWednesday's arrests are the third such raid on Hong Kong bookshops in 2026, following earlier arrests at the Hunter store in June and Book Punch in March. Amnesty International said the raids illustrated \"the chilling reality of what the city has become,\" warning that uncertainty over undefined red lines has driven booksellers and writers toward self-censorship. The crackdown reflects the continued tightening of civil liberties in Hong Kong since the national security law was enacted in 2020.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:25 PM MT",
+      "addedAtISO": "2026-07-15T13:25:46.313845-06:00",
+      "slot": 14
+    },
+    {
+      "category": "science_health",
+      "headline": "Hegseth Orders Annual Testosterone Screenings for U.S. Troops, Offers Hormone Therapy",
+      "summary": "Defense Secretary Pete Hegseth announced Wednesday that the Department of Defense will begin annual testosterone deficiency screenings for all service members aged 30 and older, and will offer testosterone replacement therapy to those whose levels fall below optimal ranges. The program will be added to the standard periodic health assessment that troops already undergo. Hegseth framed the initiative as a means of keeping troops on the \"leading edge of lethality\" and ensuring service members perform at peak physical condition.\n\nThe announcement, made via a video posted to the social media platform X, has drawn both support from those who argue hormone optimization can enhance military readiness and skepticism from critics who question whether the program reflects sound medical policy or represents ideological priorities being imposed on the armed forces. The Guardian characterized the initiative as part of a broader aestheticization of military culture under Hegseth.\n\nThe Pentagon did not immediately specify the estimated cost of the program or how it would be implemented across the services. The move is the latest in a series of cultural and policy directives from Hegseth since taking office, including earlier changes to diversity and inclusion programs within the military.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/5969935-hegseth-testosterone-testing-dod/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:25 PM MT",
+      "addedAtISO": "2026-07-15T13:25:46.313845-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "South Africa Opens Special Probe Into Killing of Anti-Migrant Leader as Xenophobia Violence Spreads",
       "summary": "South African police have launched a special multidisciplinary investigation into the killing of Andile Mvuyelwa Somgxada, the Gauteng province leader of the anti-migrant movement March and March, who was shot outside his home east of Johannesburg earlier this month and died days later in hospital. The group's spokesperson described the killing as a targeted \"hitman-type\" retaliation against March and March's campaign to expel undocumented migrants from the country, and said other leaders have received death threats.\n\nThe investigation comes as South Africa's immigration crisis has escalated into widespread social unrest, with anti-migrant protesters staging weekly demonstrations and setting an unofficial June 30 deadline for undocumented foreigners to leave the country. The South African government says it has deported or repatriated more than 53,000 foreign nationals in five weeks as part of a \"migration management\" campaign. Separately, five people were arrested in Limpopo province for impersonating immigration officers and forcing a legally resident Nigerian national to close his business.\n\nActing police chief Lt. Gen. Puleng Dimpane, while announcing the special probe, issued a stern warning against vigilante enforcement, stating that no individual or group has legal authority to conduct immigration inspections or remove people from communities. March and March has publicly rejected violence, but rights groups and police say incidents of intimidation, looting, and attacks on foreign nationals have accompanied the protest movement.\n\nImmigration has become one of the most contentious political issues in South Africa, Africa's wealthiest nation, which has long attracted economic migrants from across the continent. Analysts warn the combination of organized anti-migrant activism and the killing of a movement leader risks further inflaming tensions and increasing the potential for large-scale xenophobic violence.",
       "source": "BBC News",
