@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, July 15, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump to Deliver Primetime Address on Election Security; China Meddling Claims Expected",
+      "summary": "President Trump is scheduled to deliver a primetime national address Thursday evening focused on election security, ahead of November's midterm elections. The speech comes as Trump has escalated calls for Congress to pass tighter federal voting rules and follows his endorsement of MyPillow founder Mike Lindell — a prominent election-denial advocate — for Minnesota governor.\n\nPart of the address is expected to include previously unreported allegations of Chinese interference in U.S. elections, according to sources familiar with the content. The specific nature of those allegations has not been disclosed ahead of the speech. The address represents Trump's most direct attempt yet to shape the national debate over election rules before the midterms.\n\nSupporters of stricter federal voting requirements argue that tightened rules are necessary to protect election integrity and prevent foreign influence. Critics, including many Democrats, contend that such efforts are part of a broader push to restrict ballot access and that election-denial claims have repeatedly been rejected by courts. The China meddling allegations, if substantiated, could significantly shift the political landscape around election security legislation.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5894580/trump-elections-primetime-address",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-15T21:08:38.821299-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Update: FBI Says ICE Shooting Victim in Houston Had Methamphetamine in Vehicle",
+      "summary": "The FBI has disclosed that Lorenzo Salgado Araujo, a 52-year-old Mexican immigrant fatally shot by an Immigration and Customs Enforcement agent in Houston last week, had a \"white crystal-like substance\" consistent with methamphetamine in his work van at the time of the encounter. The revelation adds a new dimension to a case that had drawn widespread attention after Salgado Araujo's son described learning of his father's death through a video posted online showing him screaming for help.\n\nThe shooting was one of two fatal ICE vehicle-stop encounters within a week — the other occurring in Biddeford, Maine — that prompted the Department of Homeland Security to issue a directive suspending most vehicle stops by ICE agents until further notice. President Trump subsequently contradicted the policy on Truth Social, writing that ICE \"CANNOT give up one of I.C.E.'s most important and effective Crime Fighting tools, THE TRAFFIC STOP.\"\n\nThe drug finding is likely to be cited by supporters of the ICE enforcement operation as evidence that the stop was warranted, while critics argue it does not justify the use of deadly force and that the broader suspension of vehicle stops reflects legitimate concerns about officer conduct. The episode has reignited a national debate over ICE enforcement tactics, use-of-force protocols, and the administration's immigration strategy ahead of the midterm elections.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/news/houston-man-killed-by-ice-hailed-as-father-chasing-american-dream-had-meth-in-his-car-fbi-says/",
+      "sourceCount": 11,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-15T21:08:38.821299-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Verdict Expected in Trial Over 2018 Genoa Bridge Collapse That Killed 43",
+      "summary": "A Genoa court is set to deliver a first-instance verdict Thursday in the trial stemming from the August 2018 collapse of the Morandi Bridge, which killed 43 people and ranks among Italy's worst infrastructure disasters in decades. Fifty-seven defendants — including former executives of toll road operator Autostrade per l'Italia, engineers from maintenance firm Spea, and former transport ministry officials — have faced charges ranging from multiple manslaughter to falsifying documents over the course of nearly four years and 284 hearings.\n\nProsecutors argue that maintenance on the aging viaduct was repeatedly delayed even as warning signs were ignored, while profits continued to flow to the private operators who controlled the road. Defense lawyers counter that the collapse was caused by a fundamental design flaw in the specific cable that failed, encased in concrete in a way that made it undetectable and unmaintainable, and that no routine maintenance could have prevented it.\n\nThe verdict is being watched closely by victims' families and by Italy more broadly as a test of the country's ability to hold corporations and public officials accountable for infrastructure failures. The case also prompted an ongoing national debate about the condition of Italy's aging road and bridge network. Appeals and a final Supreme Court ruling could extend the legal process by another two and a half years, according to a former deputy chief prosecutor on the case.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20y00712ezo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-15T21:08:38.821299-06:00",
+      "slot": 21
+    },
+    {
       "category": "world",
       "headline": "Pew Study Finds More Countries Now View China More Favorably Than the U.S.",
       "summary": "A new Pew Research Center survey of more than 42,000 people across 36 countries found that in 25 of those nations, more respondents held favorable views of China than of the United States — the first time in Pew's 24-year tracking history that such a result has been recorded across so many countries. The poll, conducted between February and May 2026, found that favorable views of China have reached record highs in several nations, including Italy, Spain, Colombia, Mexico, Indonesia, Malaysia, Nigeria, and Turkey, while perceptions of the U.S. have broadly worsened.\n\nOnly six countries still favored the U.S. over China: Poland, the Philippines, South Korea, India, Japan, and Israel — all close U.S. allies. Confidence in both President Trump and Chinese leader Xi Jinping was generally low, though Xi scored higher than Trump across the 36 countries surveyed. The U.S. retained an edge on perceptions of respecting personal freedoms, while China was seen as interfering less in other countries' affairs.\n\nPew researchers noted previous dips in U.S. favorability — at the end of the George W. Bush administration in 2008 and at the start of Trump's first term in 2017 — but said that even in those periods, China's ratings were roughly on par with or below the U.S. The current divergence is historically unprecedented in the dataset. Middle-income countries tended to favor China most strongly, with the notable exception of Singapore.\n\nThe findings carry significant implications for U.S. foreign policy and soft power at a moment when Washington is navigating military tensions in the Middle East, trade disputes, and shifting alliances. Critics of the current administration argue the data reflects the costs of a more unilateral U.S. posture, while supporters contend that popular opinion abroad does not necessarily reflect the strategic interests that underpin formal alliances.",
