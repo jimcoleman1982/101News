@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Update: ICE to Equip All Field Offices with Body Cameras Within 60 Days",
+      "summary": "The Department of Homeland Security announced Wednesday that half of all U.S. Immigration and Customs Enforcement field offices now have body cameras for agents, with the remaining offices expected to receive them within 60 days. The announcement marks a significant acceleration of a years-long effort to outfit ICE agents with cameras and comes amid intense scrutiny of the agency's use-of-force practices.\n\nPressure for expanded camera use has mounted sharply in recent days following fatal shootings of two immigrant fathers by federal immigration agents. In neither incident were the officers involved wearing body cameras, the agency confirmed. The shootings have fueled calls from civil liberties advocates, Democratic lawmakers, and some Republicans for greater accountability and transparency in immigration enforcement operations.\n\nThe Trump administration has defended its enforcement posture as necessary to carrying out the president's immigration agenda, while critics argue the lack of cameras in earlier incidents reflects a systemic accountability gap. The new 60-day timeline represents a concrete policy response to those concerns, though advocates say implementation and footage-access policies will determine whether the cameras produce meaningful oversight.\n\nThe body camera rollout follows a series of high-profile use-of-force incidents that have drawn congressional attention and public protests. How footage will be reviewed, retained, and made available to the public or legal proceedings remains an open question as the agency moves toward full deployment.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/16/ice-agents-body-cameras",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:25 PM MT",
+      "addedAtISO": "2026-07-16T13:25:08.161068-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Announces Veterans Will Automatically Qualify for CDLs to Replace Deported Immigrant Truckers",
+      "summary": "President Trump announced Wednesday at the Pennsylvania Defense and Innovation Summit that military veterans who have driven heavy trucks in service will be automatically eligible for a commercial driver's license, positioning them as replacements for undocumented truck drivers the administration is moving to deport. Trump said his administration would soon take \"historic action\" to remove illegal immigrant truck drivers from American roads, citing safety concerns including drivers who \"can't read signs\" or are impaired.\n\nTrump's remarks were delivered in the context of the death of Pennsylvania State Trooper Michael Pahira Jr., killed this month in a crash involving Haitian national Michael Bon, who held a CDL renewed in early 2025 while his humanitarian parole was still technically active. The Trump administration says Bon's parole was terminated in June 2025; Bon's defense attorney says his client held a valid work permit at the time of the license renewal and suffered from an untreated medical condition that may have caused the crash.\n\nThe broader policy push builds on a February directive by Transportation Secretary Sean Duffy requiring all commercial truck driving license tests to be conducted in English only, following an audit finding some states were issuing CDLs to holders of expired work permits. Industry analysts warn that a rapid removal of immigrant truck drivers could exacerbate existing driver shortages in an already strained freight sector.\n\nSupporters of the president's approach argue that immigration enforcement must extend to industries with public safety implications, and that veterans represent an underutilized workforce pipeline. Critics, including transportation industry groups and immigration advocates, contend that mass deportation of CDL holders would disrupt supply chains and that the policy conflates immigration status with road safety in ways not supported by broader accident data.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4650629/trump-veterans-replace-illegal-immigrant-truck-drivers/",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:25 PM MT",
+      "addedAtISO": "2026-07-16T13:25:08.161068-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
       "headline": "Update: Trump Directs ICE to Resume Traffic Stops Despite Two Recent Fatal Shootings",
       "summary": "President Trump publicly stated Wednesday that Immigration and Customs Enforcement should continue conducting vehicle traffic stops, pushing back against a suspension of the practice that followed two fatal shootings of individuals who were not the original targets of ICE operations — one in Houston, Texas, and one in Biddeford, Maine. Trump's statement puts him at odds with the temporary suspension order, and DHS Acting Deputy Secretary Brian Mullin posted on X that he and the president want ICE officers to \"have all options available,\" without directly confirming whether traffic stops would resume.\n\nThe Houston shooting on July 7 killed Lorenzo Salgado Araujo, whose family and attorneys dispute DHS's account that he attempted to ram officers with his vehicle. The Maine shooting killed Johan Sebastián Durán Guerrero; ICE said he attempted to flee a traffic stop. Texas Governor Greg Abbott, a Trump ally, called for a Texas Rangers investigation while saying immigration enforcement can be achieved \"without shooting people.\" Democrats and local officials in both states have demanded independent investigations.\n\nThe DHS green card rule is a separate but related immigration development filed Thursday: USCIS announced a new rule, set to take effect in 60 days, that will again weigh applicants' use of Medicaid, food stamps, and housing assistance when determining green card eligibility — restoring Trump's first-term \"public charge\" standard that the Biden administration narrowed. USCIS Director Joseph Edlow said the rule reaffirms \"the requirement of self-reliance\" and is expected to affect hundreds of thousands of applicants.\n\nSupporters of the administration frame both moves — resuming traffic stops and tightening the public charge rule — as necessary enforcement of existing immigration law and protection of public resources. Critics, including Democratic lawmakers and immigration advocacy groups, argue the traffic stop deaths demonstrate dangerous overreach and that the welfare rule will deny legal status to working families who use benefits to which they are legally entitled.",
       "source": "Associated Press",
