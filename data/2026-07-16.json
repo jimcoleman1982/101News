@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-16",
+  "dateFormatted": "Thursday, July 16, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Protests Erupt in Ukraine After Zelensky Fires Popular Defence Minister Fedorov",
+      "summary": "Crowds gathered in Kyiv and other Ukrainian cities Thursday after President Volodymyr Zelensky abruptly dismissed Defence Minister Mykhailo Fedorov, a 35-year-old tech-focused reformer appointed only in January. Demonstrators held signs reading \"Hands off Fedorov\" and \"Stop sabotaging victory!\" as Zelensky offered no public explanation for the decision. Ukrainian lawmakers were scheduled to vote Thursday on confirming Interior Minister Ihor Klymenko as Fedorov's replacement.\n\nFedorov had been credited with modernising Ukraine's war effort, driving anti-corruption reforms, expanding drone warfare programmes, and using data analytics to improve battlefield performance. His dismissal drew sharp criticism from soldiers and civil society. \"This is the worst mistake Zelensky has made during his entire presidency,\" one Ukrainian soldier told the BBC. Some analysts linked the firing to tensions between Fedorov and Commander-in-Chief Oleksandr Syrskyi; others cited perceived delays in overhauling military mobilisation.\n\nThe ouster is significant because Fedorov had become a symbol of Ukraine's high-tech asymmetric warfare strategy at a critical juncture in the conflict with Russia. His ministry played a key role in recent drone strikes on Russian-occupied Crimea, and he had pressed Elon Musk to block Russian use of Starlink — a move that disrupted frontline Russian operations. His removal raises questions about the direction of Ukraine's defence policy as the war continues.\n\nIn a Facebook post following his dismissal, Fedorov listed his ministry's achievements and vowed to \"continue to defeat the enemy through asymmetry, speed of innovation.\" The episode reflects mounting internal tensions within Ukraine's wartime leadership at a moment when Western support and battlefield momentum remain in flux.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-16T05:08:35.088345-06:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "TSMC Pledges Additional $100 Billion for U.S. Chip Production, Raising Total Commitment to $265 Billion",
+      "summary": "Taiwan Semiconductor Manufacturing Company announced Thursday it will invest an additional $100 billion in Arizona, bringing its total U.S. commitment to $265 billion and potentially adding four new fabrication plants to the eight already planned or under construction in the state. The announcement, welcomed by the Commerce Department as a major job-creation milestone, came alongside TSMC's disclosure of a 77 percent jump in second-quarter net profit to $22 billion, driven by soaring demand for advanced chips powering artificial intelligence data centres.\n\nTSMC chief executive CC Wei said the timeline for the new plants would depend on market conditions. Commerce Secretary Howard Lutnick credited President Trump's trade and tariff pressure with spurring the investment, noting a deal struck in January that cut U.S. tariffs on Taiwanese goods to 15 percent in exchange for large-scale investment commitments. TSMC produces the most advanced chips used by companies including Nvidia and Apple, making its U.S. expansion a central element of the administration's semiconductor supply-chain strategy.\n\nThe announcement underscores the broader U.S. push to reduce dependence on Asian chip manufacturing exposed during Covid-era supply shortages. TSMC is now Asia's most valuable company, with a market capitalisation of approximately $2 trillion and a share price up more than 55 percent this year. The scale of the investment represents one of the largest foreign corporate commitments to American manufacturing in recent history.\n\nThe expansion is expected to generate tens of thousands of American jobs, according to the Commerce Department, though specific employment figures and construction timelines were not provided. Wei acknowledged the investment will reinforce the U.S. semiconductor ecosystem and strengthen supply chains critical to both consumer technology and national security.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-16T05:08:35.088345-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Genoa Bridge Collapse Trial Reaches Verdict After Nearly Eight Years",
+      "summary": "A Genoa court delivered a first-instance verdict Thursday in the trial over the August 2018 collapse of the Morandi bridge, which killed 43 people and triggered one of Italy's worst infrastructure disasters in decades. Fifty-seven defendants — including former executives of toll road operator Autostrade per l'Italia, engineers from maintenance firm Spea, and former transport ministry officials — faced charges ranging from multiple manslaughter to falsifying documents. All defendants had denied wrongdoing throughout the nearly four-year trial spanning 284 hearings.\n\nProsecutors argued that maintenance was repeatedly delayed and warning signs ignored while profits continued to flow, while defence lawyers contended the real cause was a design flaw in the specific cable that failed and that no maintenance programme could have prevented the collapse since the cable was encased in concrete. Some lesser charges, including document forgery, had already lapsed under Italy's statute of limitations before Thursday's ruling.\n\nFamily members of the 43 victims gathered in the courtroom to hear the verdict, describing years of anguish and anxiety awaiting accountability. \"After so many years, so many hearings, we may be able to see some light,\" said Egle Possetti, whose sister, brother-in-law and two nephews were among those killed. Former deputy chief prosecutor Francesco Pinto cautioned that appeals and a final Supreme Court ruling could extend proceedings by another two and a half years.\n\nThe case has fuelled a broader national debate in Italy about the condition of ageing public infrastructure and accountability within the private concession system that managed the country's motorways. One defendant, former Atlantia chief executive Giovanni Castellucci, was already serving a separate six-year sentence for a fatal viaduct collapse in southern Italy in 2013.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20y00712ezo",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-16T05:08:35.088345-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Pakistan Refuses to Accept Deportation of Rochdale Grooming Gang Leader Released from UK Prison",
+      "summary": "Pakistan's government has publicly rejected British pressure to accept the deportation of Shabir Ahmed, a ringleader of the Rochdale grooming gang who was released from prison this month after serving a 22-year sentence for multiple counts of rape and sexual offences against girls as young as 13. Pakistani Foreign Ministry spokesman Tahir Andrabi told the BBC that Ahmed — stripped of his British citizenship following his 2012 conviction — is \"entirely an internal matter of the United Kingdom\" and that Pakistan \"has no connection whatsoever with this matter.\"\n\nAhmed arrived in Britain in the late 1960s and was one of nine men convicted of exploiting girls at two Rochdale takeaway restaurants. Under the Immigration Act 1971, Commonwealth citizens who arrived before 1973 and had lived in the UK for five years cannot be deported, a legal barrier that has blocked Ahmed's removal. The UK government has proposed amending the law so that serious foreign criminals would no longer benefit from those protections, but any deportation still requires Pakistan to formally accept him.\n\nHome Secretary Shabana Mahmood acknowledged this week that Ahmed's removal depends on Pakistani cooperation, saying the 1971 Act \"should not be used as a bar against removal in cases like that of Shabir Ahmed.\" Following his release, Ahmed was placed in 24-hour staffed accommodation and fitted with a GPS monitoring tag, with authorities warning he would be returned to prison if he breached strict licence conditions. Victims said they were \"frightened\" and felt \"unsafe\" following his release.\n\nPakistan's response creates a significant diplomatic obstacle for the British government, which has faced intense public and political pressure to remove Ahmed from the country. The standoff highlights the legal and diplomatic complexities surrounding the deportation of dual nationals convicted of serious crimes, and comes amid heightened national debate in the UK over grooming gang prosecutions and immigration enforcement.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyxnvjy706o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-16T05:08:35.088345-06:00",
+      "slot": 5
+    }
+  ]
+}
