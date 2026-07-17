@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, July 17, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: Ukraine Fights Under Interim Defense Chief as Protests Erupt Over Fedorov Dismissal",
+      "summary": "Ukraine entered Friday operating without a confirmed defense minister after President Volodymyr Zelenskyy's surprise dismissal of Mykhailo Fedorov triggered public protests and exposed a deep generational rift within the country's military establishment. Zelenskyy designated Maj. Gen. Yevhen Khmara, acting head of the state security service and a decorated special operations officer, to serve in an acting capacity, and said he would formally nominate Khmara to parliament — though confirmation faces procedural hurdles, including a legal requirement that the defense minister be a civilian and a parliamentary recess that runs through mid-August.\n\nFedorov, 35, had served six months as defense minister and was widely credited with accelerating Ukraine's drone warfare capabilities and reducing military procurement corruption. Zelenskyy said the dismissal stemmed from an irreparable breakdown between Fedorov and Gen. Oleksandr Syrskyi, the 60-year-old commander of Ukraine's armed forces, framing the conflict as one between old-guard military thinking and younger technological innovators. Thousands of demonstrators took to streets in multiple Ukrainian cities Thursday and Friday, with signs reading 'Don't ruin something that works.'\n\nThe shake-up comes at a sensitive moment: Ukraine has in recent months gained battlefield traction, and the leadership vacuum — however temporary — raises questions about continuity in procurement and drone strategy. Fedorov defended his record Friday, writing on social media that Ukraine had been 'transformed into a global tech leader and a defense powerhouse' during his tenure.\n\nThe reshuffle also included the appointment of a new prime minister, compounding the scale of the government overhaul. Analysts noted the timing is particularly fraught given ongoing uncertainty about U.S. support levels and the recent death of Senator Lindsey Graham, whom Ukraine had considered a key American advocate.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/ukraine-fights-under-an-interim-defense-chief-after-zelenskyys-contested-government-shake-up",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:20 AM MT",
+      "addedAtISO": "2026-07-17T10:20:37.455591-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "ICE Officer in Maine Shooting Had Documented History of Mental Health Issues, Family Says",
+      "summary": "The Immigration and Customs Enforcement officer who fatally shot a Colombian man in Maine this week is an Army veteran whose close relatives told the Associated Press he has struggled with serious mental health issues since early childhood and should never have been given a badge and gun. The AP obtained records corroborating family accounts of violent behavior, in what the outlet is describing as exclusive reporting on the officer's background. Lawmakers from both parties have called for answers following the incident.\n\nThe Maine shooting is one of several recent high-profile incidents involving ICE agents that have drawn national scrutiny, including a fatal shooting in Houston and footage of agents tackling a man at the Las Vegas airport. President Trump had directed ICE to resume traffic stops despite the two recent deadly shootings, a decision that Democrats have criticized as reckless and that immigration enforcement advocates have defended as necessary to carry out the administration's deportation mandate.\n\nThe AP report adds new pressure on the administration to address vetting and mental health screening standards within ICE, an agency that has significantly expanded its operations and personnel under Trump. Republican defenders of ICE argue isolated incidents should not be used to undermine the broader enforcement mission, while Democratic critics contend a pattern of incidents points to systemic failures in hiring and oversight.\n\nThe story is drawing coverage from six outlets and comes as Congress continues to press the administration on ICE conduct. A vigil was planned for the Houston victim, and Fedorov's family was expected to speak publicly about the Maine case.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/newsletter/morning-wire/july-17-2026",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:20 AM MT",
+      "addedAtISO": "2026-07-17T10:20:37.455591-06:00",
+      "slot": 11
+    },
+    {
+      "category": "business",
+      "headline": "Trump Media to Sell High-Speed 'Truth API' Feed of Posts to Wall Street Firms",
+      "summary": "Trump Media & Technology Group, the company behind Truth Social, announced it will launch a paid commercial data service beginning August 1 that delivers posts from the platform's highest-ranking accounts to institutional financial clients in milliseconds. The service, called Truth API, is designed to give banks and trading firms faster access to posts that can move markets — most notably those from President Trump, who currently holds the largest follower count on the platform and whose posts frequently cause sudden swings in global equities and commodity prices, particularly on trade and tariff matters.\n\nActing CEO Kevin McGurn said the service would create a steady revenue stream for the currently loss-making company. Trump Media did not disclose pricing. The company also warned it would soon block firms that have been copying its data without permission, effectively compelling them to purchase the official feed. Because Trump's family remains the majority shareholder in Trump Media, the president stands to benefit financially from selling expedited access to his own public statements — a conflict-of-interest concern that ethics observers flagged immediately.\n\nLegal experts told Reuters that while the arrangement may be ethically unusual, it does not appear to violate federal securities laws, as platforms are generally permitted to tier the distribution of their data. Investment analyst Mark Spiegel of Stanphyl Capital noted that Trump's posts represent only a fraction of market-moving information, but acknowledged firms could be 'at a disadvantage' if they declined to subscribe. The White House declined to comment on whether Trump's own posts would be included in the paid feed.\n\nThe announcement highlights the unusual overlap between the president's private financial interests and his public communications. Critics argue selling expedited access to presidential statements to select paying customers creates an uneven informational playing field and raises novel questions about market integrity that regulators have not previously confronted.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:20 AM MT",
+      "addedAtISO": "2026-07-17T10:20:37.455591-06:00",
+      "slot": 11
+    },
+    {
       "category": "politics",
       "headline": "Update: Epstein Survivors Call Meeting with AG Nominee Blanche 'Demoralizing' as Confirmation Hangs in Balance",
       "summary": "Multiple survivors of Jeffrey Epstein's abuse said a meeting with attorney general nominee Todd Blanche on Thursday felt perfunctory and unsatisfying, describing it as a box-checking exercise rather than a substantive engagement. The meeting was convened after retiring Sen. Thom Tillis (R-N.C.) announced he would withhold his vote on the Senate Judiciary Committee until Blanche met with survivors — a threat that held significant weight, as a single Republican \"no\" vote would have been enough to block Blanche's nomination from advancing to the full Senate.\n\nSurvivors told reporters the conversation moved quickly and left them without confidence that the Justice Department under Blanche would aggressively pursue accountability in the Epstein case. However, at least one participant — Jennifer Bos — said Blanche's remarks gave her reason to believe he understood the concerns of victims' families, suggesting the meeting produced mixed reactions among those who attended.\n\nBlanche's confirmation to lead the Justice Department remains consequential given the scope of ongoing federal investigations and the politically charged nature of the Epstein files. Supporters argue Blanche, who previously served as Trump's personal defense attorney, brings legal experience to the role and has pledged cooperation with survivors. Critics, including Senate Democrats, have questioned whether he can act as an independent law enforcement officer given his prior representation of the president.",
