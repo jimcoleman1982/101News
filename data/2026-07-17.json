@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, July 17, 2026",
   "stories": [
     {
+      "category": "technology",
+      "headline": "China's Moonshot AI Releases Kimi K3, Closing Gap With Top U.S. Models",
+      "summary": "Beijing-based Moonshot AI unveiled Kimi K3 on Thursday, a massive open-source artificial intelligence model that developers say matches or rivals cutting-edge offerings from leading American firms such as Anthropic, at substantially lower cost. The release immediately drew comparisons to the DeepSeek disruption earlier in the AI race, jolting Silicon Valley and prompting fresh debate about whether the United States retains a commanding lead in frontier AI development.\n\nKimi K3 vaulted into the top tier of global AI benchmarks upon release and is freely available, a move that analysts say could undercut the pricing power of U.S. commercial AI providers. The development comes as Washington has imposed sweeping chip export controls intended to slow China's AI progress, raising questions about the effectiveness of those restrictions.\n\nThe release renews a central policy debate: whether America's AI advantage — built on massive private investment, top research talent, and access to the most advanced semiconductors — can be sustained as Chinese firms demonstrate the ability to achieve competitive results through alternative architectural approaches and efficiency gains. Proponents of the export controls argue they remain necessary to slow military AI applications; critics contend the controls have failed to prevent frontier-level civilian AI development in China.\n\nThe announcement is expected to intensify congressional and White House scrutiny of U.S. AI competitiveness strategy and may accelerate calls for increased federal investment in domestic AI research and infrastructure.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:03 PM MT",
+      "addedAtISO": "2026-07-17T16:03:35.267913-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Federal Appeals Court Strikes Down New Jersey's AR-15 and High-Capacity Magazine Bans",
+      "summary": "The Third U.S. Circuit Court of Appeals ruled Friday, by a 10-5 vote, that New Jersey's bans on assault-style firearms and high-capacity magazines violate the Second Amendment. The decision represents one of the most significant legal victories for gun rights advocates since the Supreme Court's 2022 Bruen ruling, which established a historical-tradition test for evaluating firearms regulations.\n\nThe ruling invalidates restrictions that New Jersey Democrats had defended as essential public safety measures backed by evidence linking high-capacity weapons to mass casualty events. Gun rights advocates hailed the decision as a proper application of constitutional precedent, arguing that commonly owned semi-automatic rifles and standard-capacity magazines are protected arms under the Second Amendment.\n\nOpponents of the ruling, including gun control organizations and New Jersey state officials, condemned the decision and indicated they would pursue further legal challenges, potentially seeking Supreme Court review. They argue that assault weapon bans reflect a legitimate government interest in limiting the lethality of mass shootings and that courts are ignoring the public health consequences of unrestricted access to military-style weapons.\n\nThe ruling adds to a growing body of post-Bruen circuit court decisions striking down state-level gun restrictions, increasing pressure on the Supreme Court to provide clearer guidance on the permissible scope of such regulations. Similar bans in other states, including California and Maryland, remain under legal challenge.",
+      "source": "The Hill",
+      "url": "https://thehill.com/regulation/court-battles/5975022-3rd-circuit-new-jersey-assault-weapons-magazine-ban/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:03 PM MT",
+      "addedAtISO": "2026-07-17T16:03:35.267913-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Wisconsin Lt. Gov. Sara Rodriguez Drops Out of Governor's Race Over Financial Reporting Errors",
+      "summary": "Wisconsin Lt. Gov. Sara Rodriguez announced Friday she is suspending her Democratic gubernatorial campaign after her campaign disclosed major inaccuracies in its financial reporting. Rodriguez had been considered a leading contender in the Democratic primary to succeed retiring Gov. Tony Evers in a state widely viewed as a critical battleground in national politics.\n\nThe withdrawal shakes up a primary in which Rodriguez represented the moderate, establishment wing of the Democratic Party. Party strategists expressed concern that her exit could strengthen the position of Francesca Hong, a democratic socialist, in a purple state where Democrats have historically relied on centrist positioning to win statewide races.\n\nThe nature of the financial reporting errors was not fully specified, but Rodriguez indicated the irregularities would have created ongoing complications for the campaign. The disclosure follows increased scrutiny of campaign finance compliance at all levels of American politics.\n\nWisconsin's 2026 governor's race is considered a significant contest for both parties as Democrats seek to defend a foothold in the Midwest and Republicans aim to flip the statehouse. The primary outcome will be closely watched as a signal of which direction Wisconsin Democrats choose to move heading into the general election.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/5975154-wisconsin-governor-primary/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:03 PM MT",
+      "addedAtISO": "2026-07-17T16:03:35.267913-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Andy Burnham Officially Declared UK Labour Leader, Set to Become Prime Minister Next Week",
       "summary": "Andy Burnham was formally declared leader of Britain's governing Labour Party on Friday, clearing the final procedural hurdle before he takes office as prime minister next week. The former Greater Manchester mayor was the sole contender in the leadership contest to replace Keir Starmer, who resigned last month after a party rebellion driven by plummeting poll numbers and a string of political missteps. Burnham secured nominations from 379 of the 403 Labour members of Parliament.\n\nIn his first speech as party leader, Burnham pledged to restore hope to communities \"who have been waiting too long for politics to let them hope again\" and promised to decentralize power from Westminster to local governments across England. He called for an end to Labour's internal factionalism, warning the party it \"won't beat Britain's new right if we are consumed by infighting.\"\n\nBurnham inherits a party trailing badly behind the anti-immigration Reform UK in opinion polls, following catastrophic results in May's local elections. He faces immediate challenges including a sluggish economy, a cost-of-living crisis, and overstretched public services — the same structural problems that ultimately felled Starmer. His pledges of a less divisive, more communicative leadership style echo Starmer's own promises upon taking office, raising questions among commentators about whether a change in personality can drive a change in political fortunes.\n\nBurnham is largely unknown to voters outside Manchester, having spent recent years as a regional mayor rather than in national government. His arrival at 10 Downing Street next week will mark the second Labour prime minister in two years and the first major leadership transition in a governing party since the current political cycle began.",
