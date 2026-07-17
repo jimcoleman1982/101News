@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-17",
+  "dateFormatted": "Friday, July 17, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: U.S. Expands Iran Strikes to Infrastructure as Ceasefire Collapses",
+      "summary": "The United States escalated its military campaign against Iran overnight into Friday, striking bridges in Iran's southern Hormozgan province and hitting targets further north, including on Greater Tunb Island. The strikes mark a significant shift in American targeting strategy, with President Trump having threatened to attack civilian infrastructure to pressure Tehran into easing its chokehold on the Strait of Hormuz. Iranian state television reported at least seven people killed in the bridge strikes, while U.S. Central Command said it also fired on a ship attempting to break the U.S. naval blockade reimposed Wednesday.\n\nIran retaliated with missile and drone fire targeting U.S.-allied nations including Bahrain, Kuwait, and Qatar — a key mediator in the conflict. Iran's parliament speaker Mohammad Bagher Qalibaf warned Tehran was prepared for full military confrontation if Washington did not honor the terms of the now-collapsed interim deal. Iranian officials say U.S. strikes since the latest round of violence began have killed more than 35 people and wounded over 300.\n\nThe interim ceasefire, agreed to last month, has fully unraveled, returning the region to a state of active war. The Strait of Hormuz remains effectively closed to commercial shipping, with U.S. forces redirecting or disabling vessels attempting to breach the blockade. The closure has sent global oil prices soaring, with ripple effects on the cost of fuel, food, and consumer goods worldwide.\n\nIn a primetime address to the American public, Trump insisted the war was progressing favorably, saying 'We are likewise winning big in Iran, and you will see the fruits of that labor very, very shortly.' Critics, including Senate Democrats who have moved to block defense legislation, argue the administration lacks a clear exit strategy and that rising energy prices pose a mounting political liability ahead of November's midterm elections.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-16-2026-f98ff56554de2336f0e85bb5fdcae769",
+      "sourceCount": 8,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-17T05:08:22.293439-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "At Least 20 Children Killed in Uganda School Bus Crash",
+      "summary": "At least 20 students and one adult were killed Thursday evening when a bus carrying pupils on a study trip crashed in the Kapchorwa district of eastern Uganda. Preliminary investigations indicate the bus suffered a mechanical fault before the driver lost control on Chekwatit Hill, a stretch of road that has been the site of several prior serious accidents. The adult killed was identified as Tadeo Ssekade, the founder and director of King David Junior School in Ndejje, whose students were on board.\n\nDecades of injury were also reported among students and staff. The bus was returning from a visit to Sipi Falls, a tourist destination, when it veered off the road, struck a large stone, and overturned. Ugandan authorities suspended all school educational trips pending a full investigation into the crash.\n\nEducation Minister John Chrysostom Muyingo called for immediate action on child transport safety following the disaster. Uganda records thousands of road deaths annually, with speeding, poorly maintained vehicles, and dangerous road conditions cited as leading causes. Officials noted the crash comes amid renewed concern over school transport safety after several serious bus accidents in the country in recent weeks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-17T05:08:22.293439-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Canadian Wildfire Smoke Triggers Hazardous Air Quality Alerts Across U.S. Northeast and Midwest",
+      "summary": "More than 858 wildfires burning across Canada, including 30 that ignited Thursday, have pushed a thick blanket of smoke across major U.S. cities, triggering hazardous air quality alerts from Chicago and Detroit to New York and across New England. Cities including Pittsburgh, Toledo, Grand Rapids, and Chicago registered dangerous readings on the U.S. Air Quality Index, prompting officials to cancel outdoor events, close beaches, and urge residents to remain indoors.\n\nNew York Governor Kathy Hochul declared the situation 'a very serious health situation,' noting that smoke was blanketing the state and making outdoor activity 'very unhealthy' in many areas. New York City activated air quality emergency protocols and opened hundreds of cooling centers while distributing KN95 masks. Iconic city landmarks including the Empire State Building and the Statue of Liberty were obscured by haze.\n\nIn Canada, at least one First Nations community in northern Ontario was evacuated after fire burned through the area, with a local chief describing her community as 'burnt to ashes.' Forecasters warned that northwesterly winds would continue driving smoke into northern U.S. states through the weekend, raising concerns it could affect conditions around New Jersey, where Sunday's World Cup final is scheduled to take place.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-17T05:08:22.293439-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Japan Passes Historic Imperial Succession Reform, Female Emperors Still Barred",
+      "summary": "Japan's parliament passed landmark legislation Friday allowing the imperial family to adopt distant male relatives over the age of 15 and permitting female members to retain their royal status after marrying outside the family. The bill, which cleared the upper house Friday after passing the lower house last week, represents the most significant overhaul of Japan's Imperial House Law since 1949 and comes amid mounting concern over the dwindling number of eligible successors to the Chrysanthemum Throne.\n\nDespite the reforms, the bill does not permit women to ascend to the throne, leaving Princess Aiko — the only child of reigning Emperor Naruhito — ineligible to succeed her father. Currently, the line of succession runs through Emperor Naruhito's younger brother Fumihito, his 19-year-old son Prince Hisahito, and the Emperor's 90-year-old uncle, who is the last eligible candidate under existing rules. Without a male heir from Prince Hisahito, the succession line would otherwise end.\n\nOpinion polls show broad public support for allowing a female emperor, with surveys by Mainichi Shimbun and Kyodo News finding between 70% and 83% of respondents in favor. Conservative political leaders, including Prime Minister Sanae Takaichi, have argued male-only succession is essential to imperial legitimacy. The new law will allow male descendants of 11 imperial branches dissolved after World War Two to be adopted back into the family, expanding the pool of eligible future heirs.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-17T05:08:22.293439-06:00",
+      "slot": 5
+    }
+  ]
+}
