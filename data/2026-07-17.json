@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, July 17, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: Epstein Survivors Call Meeting with AG Nominee Blanche 'Demoralizing' as Confirmation Hangs in Balance",
+      "summary": "Multiple survivors of Jeffrey Epstein's abuse said a meeting with attorney general nominee Todd Blanche on Thursday felt perfunctory and unsatisfying, describing it as a box-checking exercise rather than a substantive engagement. The meeting was convened after retiring Sen. Thom Tillis (R-N.C.) announced he would withhold his vote on the Senate Judiciary Committee until Blanche met with survivors — a threat that held significant weight, as a single Republican \"no\" vote would have been enough to block Blanche's nomination from advancing to the full Senate.\n\nSurvivors told reporters the conversation moved quickly and left them without confidence that the Justice Department under Blanche would aggressively pursue accountability in the Epstein case. However, at least one participant — Jennifer Bos — said Blanche's remarks gave her reason to believe he understood the concerns of victims' families, suggesting the meeting produced mixed reactions among those who attended.\n\nBlanche's confirmation to lead the Justice Department remains consequential given the scope of ongoing federal investigations and the politically charged nature of the Epstein files. Supporters argue Blanche, who previously served as Trump's personal defense attorney, brings legal experience to the role and has pledged cooperation with survivors. Critics, including Senate Democrats, have questioned whether he can act as an independent law enforcement officer given his prior representation of the president.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/17/epstein-survivors-blanche-meeting-reaction",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:59 AM MT",
+      "addedAtISO": "2026-07-17T07:59:55.001193-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "More Than 500 Rohingya Feared Dead After Two Boats Vanish at Sea",
+      "summary": "Two boats carrying an estimated 530 Rohingya asylum seekers departed Myanmar's Rakhine State on June 29 and have not been heard from since, with humanitarian researchers now concluding it is very likely both vessels capsized with few or no survivors. The boats left Sin Tet Maw, an area controlled by the Arakan Army insurgent group, during the monsoon season when seas are particularly dangerous. A single body has been recovered by Bangladeshi authorities, and fishermen found several more floating in waters between the Irrawaddy delta and the coast of Mon State roughly nine days after the boats' departure.\n\nThe Arakan Project, a Rohingya advocacy organization, said its director Chris Lewa pieced together the timeline through intermediary contacts after direct communications with Rakhine were severed by Myanmar's military. The boats were overcrowded converted fishing trawlers with unreliable engines, heading south toward Thailand and ultimately Malaysia, where roughly 200,000 Rohingyas already reside. Families expected to hear from passengers within 10 days; nearly three weeks have passed in silence.\n\nRakhine State has been engulfed in conflict between Myanmar's military junta and the Arakan Army, which has driven government forces from most of the region. Rohingyas face forced conscription by the military and documented human rights abuses by the Arakan Army, while more than one million others remain in overcrowded camps in southern Bangladesh with diminishing humanitarian aid. The potential loss of 530 people would represent one of the deadliest Rohingya maritime disasters on record.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:59 AM MT",
+      "addedAtISO": "2026-07-17T07:59:55.001193-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Philippines Condemns Chinese State Media Video Depicting Country as Monkey in South China Sea Dispute",
+      "summary": "The Philippines has formally condemned an AI-generated video published by China Daily that depicted the Philippines as a frightened monkey wearing a Filipino shirt, being manhandled by figures representing the United States and Japan in a South China Sea context. The video, posted on July 10, shows the monkey-figure being thrown into the sea and blasted by a water cannon after attempting to present a South China Sea arbitration award — a direct reference to the 2016 Permanent Court of Arbitration ruling that found China's expansive maritime claims had no basis in international law. China has ignored that ruling.\n\nManila's foreign ministry called the imagery \"dehumanising and racist\" and demanded the video be removed, stating that disagreements over legal and political issues do not justify \"disturbing imagery\" in public discourse. Philippine Defence Secretary Gilbert Teodoro called the clip \"contemptible propaganda\" that exposed the \"moral and intellectual bankruptcy of China's propaganda machine.\" As of the time of reporting, the video remained on China Daily's Facebook page.\n\nThe video's publication coincides with the tenth anniversary of the arbitration ruling, a milestone Beijing has used to restate its position that the tribunal lacked jurisdiction. Tensions between Manila and Beijing have escalated sharply in recent years, with confrontations at sea involving water cannons, physical altercations, and in June, China barring the Philippine defence secretary and his family from entering Chinese territory. The episode adds a new dimension of information warfare to the ongoing territorial dispute.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj632307934o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:59 AM MT",
+      "addedAtISO": "2026-07-17T07:59:55.001193-06:00",
+      "slot": 8
+    },
+    {
       "category": "world",
       "headline": "Update: U.S. Expands Iran Strikes to Infrastructure as Ceasefire Collapses",
       "summary": "The United States escalated its military campaign against Iran overnight into Friday, striking bridges in Iran's southern Hormozgan province and hitting targets further north, including on Greater Tunb Island. The strikes mark a significant shift in American targeting strategy, with President Trump having threatened to attack civilian infrastructure to pressure Tehran into easing its chokehold on the Strait of Hormuz. Iranian state television reported at least seven people killed in the bridge strikes, while U.S. Central Command said it also fired on a ship attempting to break the U.S. naval blockade reimposed Wednesday.\n\nIran retaliated with missile and drone fire targeting U.S.-allied nations including Bahrain, Kuwait, and Qatar — a key mediator in the conflict. Iran's parliament speaker Mohammad Bagher Qalibaf warned Tehran was prepared for full military confrontation if Washington did not honor the terms of the now-collapsed interim deal. Iranian officials say U.S. strikes since the latest round of violence began have killed more than 35 people and wounded over 300.\n\nThe interim ceasefire, agreed to last month, has fully unraveled, returning the region to a state of active war. The Strait of Hormuz remains effectively closed to commercial shipping, with U.S. forces redirecting or disabling vessels attempting to breach the blockade. The closure has sent global oil prices soaring, with ripple effects on the cost of fuel, food, and consumer goods worldwide.\n\nIn a primetime address to the American public, Trump insisted the war was progressing favorably, saying 'We are likewise winning big in Iran, and you will see the fruits of that labor very, very shortly.' Critics, including Senate Democrats who have moved to block defense legislation, argue the administration lacks a clear exit strategy and that rising energy prices pose a mounting political liability ahead of November's midterm elections.",
