@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-18",
+  "dateFormatted": "Saturday, July 18, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Iran Seizes Ships in Strait of Hormuz as U.S. Blockade Intensifies, Ceasefire Collapses",
+      "summary": "The U.S.-Iran conflict escalated sharply this week as Iranian forces seized two cargo ships in the Strait of Hormuz, including the Epaminondas, and declared the waterway closed. President Trump responded by reinstating a naval blockade of Iranian ports and announcing a 20% charge on all cargo transiting the strait, marking a significant expansion of economic and military pressure on Tehran.\n\nU.S. strikes continued for a seventh consecutive night, targeting an Iranian submarine and ship maintenance facility. Iran retaliated by striking U.S. military assets and allies across the region, with Kuwait reporting that a power and water plant was hit by an Iranian drone. Attacks were also reported against U.S. positions in Jordan, Bahrain, and Oman.\n\nTrump told reporters he had not yet decided whether to 'finish off' Iran, leaving open the question of whether the conflict could escalate to a broader ground or air campaign. Ceasefire negotiations have collapsed, and global energy markets have seen sharp swings, with UK fuel prices rising in the aftermath of the failed peace talks.\n\nThe Strait of Hormuz is one of the world's most critical oil shipping chokepoints, with roughly 20% of global petroleum passing through it. Iran's top negotiator asserted that Tehran 'will decide the right of passage,' directly challenging the U.S. blockade and raising fears of prolonged disruption to global energy supplies.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+      "sourceCount": 19,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-18T05:08:21.407018-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Russia Detains Ex-Putin Supporter Blogger, Bars Anti-War Politician from Election",
+      "summary": "Russian authorities moved on Friday to further suppress domestic dissent, remanding blogger Ilya Remeslo in pre-trial detention for two months and barring opposition politician Boris Nadezhdin from collecting parliamentary election signatures. Remeslo, once a prominent pro-Kremlin voice, is accused of spreading false information about the military after a March 2026 blog post titled 'Five Reasons Why I Stopped Supporting Vladimir Putin,' in which he called the president a 'war criminal and thief.'\n\nNadezhdin, 63, a former MP who previously attempted an anti-war presidential run, was convicted of 'displaying extremist symbols' after reposting a video in 2023 that briefly showed an image of Alexei Navalny. The conviction bars him from gathering the signatures needed to register as a parliamentary candidate ahead of September elections. He was also declared a 'foreign agent' last week and barred from leaving the country.\n\nNadezhdin denied the charges in court, saying they were designed to silence him and prevent his candidacy. He noted all his accounts had been frozen, making it impossible to pay even the nominal fine of 1,000 roubles. He briefly collapsed during his court appearance, reportedly due to high blood pressure and diabetes.\n\nThe twin actions underscore the narrowing space for political opposition in Russia. Most genuine opposition figures have gone into exile, and Navalny, the country's most prominent opposition leader, died in an Arctic penal colony in February 2024 under circumstances that the UK and four European nations have attributed to poisoning.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-18T05:08:21.407018-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: Taylor Farms Pulls Iceberg Lettuce Products Amid Growing Cyclosporiasis Outbreak",
+      "summary": "California-based vegetable producer Taylor Farms announced Friday it will voluntarily remove all iceberg lettuce sourced from central Mexico after the FDA provided information linking the supply to a growing cyclosporiasis outbreak across the United States. The parasite Cyclospora cayetanensis, which causes intestinal illness, has been tied to multiple cases in recent weeks.\n\nTaylor Farms stated that none of its branded salad kits contain the specific iceberg lettuce associated with the outbreak, but the precautionary removal applies to products sourced from its Taylor Farms de Mexico operation. The FDA has been investigating the supplier chain as part of its probe into the outbreak's source.\n\nThe development is a concrete new step in an ongoing food-safety investigation that has already prompted Taco Bell to remove lettuce from some of its locations. Cyclosporiasis infections typically cause prolonged diarrhea and gastrointestinal distress, with symptoms sometimes lasting weeks if untreated.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/5975363-taylor-farms-iceberg-lettuce-cyclosporiasis/",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-18T05:08:21.407018-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Paul Pelosi Charged with Misdemeanor Hit-and-Run in Napa County",
+      "summary": "Paul Pelosi, 86, the husband of former House Speaker Nancy Pelosi, was charged Friday with a misdemeanor hit-and-run after allegedly striking a parked, unoccupied car in Napa County and leaving the scene in early July. The Napa County District Attorney's office announced the charge under California law requiring drivers involved in property-damage collisions to stop and provide their information. The struck vehicle sustained what authorities described as 'major' damage.\n\nThe charge comes four years after Pelosi pleaded guilty to a DUI charge stemming from a 2022 car crash in which another driver was injured. Public records show Pelosi has a history of traffic infractions in California stretching back to at least 2011. Nancy Pelosi declined to answer reporters' questions about the case before a staffer ended the exchange.\n\nThe charge is a misdemeanor and carries no immediate national policy consequences, but the incident drew significant media attention given the family's political prominence and Paul Pelosi's prior criminal record involving driving offenses.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/5975823-paul-pelosi-hit-and-run-charge/",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-18T05:08:21.407018-06:00",
+      "slot": 5
+    }
+  ]
+}
