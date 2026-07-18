@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Two U.S. Troops Killed in Jordan as Iran Strikes American Base",
+      "summary": "Two U.S. service members were killed in action in Jordan on July 17 when Iranian ballistic missiles and drones struck a U.S. base there, U.S. Central Command announced Saturday. One additional service member remains missing, while four others were medically evacuated to Jordanian hospitals and have since been discharged. It is the first confirmed American combat deaths in the ongoing U.S.-Iran conflict.\n\nCENTCOM said it and partner forces defended against the attack but did not specify the base's location or the branch of service of the fallen. Identities are being withheld for 24 hours pending next-of-kin notification. The United States has conducted multiple waves of strikes against Iran in recent weeks, and Iran has retaliated against American and allied positions across the region.\n\nThe deaths mark a significant escalation in a conflict that has until now involved strikes on infrastructure and military facilities without confirmed U.S. fatalities. Supporters of the administration's Iran policy argue the strikes are necessary to degrade Tehran's nuclear and military capabilities, while critics warn the engagement risks drawing the United States into a broader regional war without a clear congressional authorization. The fate of the missing service member remains unknown.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/iran-war-trump-israel-hormuz-oil-july-18-2026",
+      "sourceCount": 26,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "1:16 PM MT",
+      "addedAtISO": "2026-07-18T13:16:48.999006-06:00",
+      "slot": 14
+    },
+    {
+      "category": "science_health",
+      "headline": "Rare Growth Disorder May Hold Key to Cancer Prevention, Researchers Say",
+      "summary": "Scientists studying Laron syndrome — a rare genetic condition that prevents the body from responding to growth hormone, limiting height to roughly 1.2 meters — have found that those affected have significantly lower rates of cancer and diabetes compared to the general population. The condition is unusually concentrated in remote Andean communities in southern Ecuador, where generations of intermarriage have produced the world's highest known cluster of cases.\n\nEndocrinologist Dr. Jaime Guevara, who has studied the population for 40 years, says the goal is to replicate through a drug or dietary intervention what happens biologically in Laron patients — effectively extending their apparent cancer resistance to people without the syndrome. A new research paper documenting all known cases of the mutation identified between 1966 and 2025 is set for publication later in July by Prof. Zvi Laron of Tel Aviv University, who first identified the condition 60 years ago.\n\nGlobally, only 840 people are known to have Laron syndrome. Researchers believe its concentration in Ecuador traces back thousands of years to migrations from Indonesia along merchant routes, with Sephardic Jewish carriers eventually settling in isolated Andean communities. Scientists caution that translating the biological mechanism into a broadly applicable treatment remains speculative, but the study of this small population could yield insights into cancer prevention of wide global significance.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnlmek8reo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:16 PM MT",
+      "addedAtISO": "2026-07-18T13:16:48.999006-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "German CDU Parliamentary Leader Jens Spahn Resigns Over Surrogacy Controversy",
       "summary": "Jens Spahn, one of Germany's most powerful politicians and parliamentary group leader of the ruling Christian Democratic Union coalition, resigned Saturday after being accused of hypocrisy for using a surrogate mother in the United States to have a child with his husband. Surrogacy is illegal in Germany and punishable by up to three years in prison, and Spahn himself had previously opposed relaxing the ban, writing in 2015 that as a gay man and a Christian he found it \"very hard to warm to the idea of a rented womb.\"\n\nSpahn wrote in his resignation statement that \"the balancing act between my personal decision to have a child through surrogacy and the understandable expectations placed on me as Chairman of our parliamentary group has become greater than I anticipated.\" Chancellor Friedrich Merz called Spahn's resignation \"right\" and \"inevitable,\" writing that \"credibility is the highest asset in politics.\" Alexander Hoffmann of the Christian Social Union will assume Spahn's duties until a successor is chosen.\n\nThe resignation comes at a politically sensitive moment for the CDU, with Merz already struggling in opinion polls and key regional elections approaching in autumn. In the state of Saxony-Anhalt, the far-right AfD party could potentially win an outright majority, which would mark the first time a far-right party has held power in a German state since World War Two.\n\nThe episode has reignited debate across Germany and Europe about surrogacy law, with some politicians calling for the prohibition to be reconsidered and others defending it. Raising a child born abroad to a surrogate is not itself illegal in Germany, a legal distinction that has drawn scrutiny in the wake of Spahn's disclosure.",
       "source": "BBC News",
