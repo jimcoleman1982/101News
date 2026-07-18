@@ -3,6 +3,34 @@
   "dateFormatted": "Saturday, July 18, 2026",
   "stories": [
     {
+      "category": "other",
+      "headline": "Josh Kerr Breaks 27-Year-Old Mile World Record in London",
+      "summary": "British runner Josh Kerr shattered the world record in the mile on Saturday at the London Diamond League, clocking 3 minutes, 42.66 seconds — breaking Moroccan legend Hicham El Guerrouj's record of 3:43.13, which had stood since 1999. Kerr, who won Olympic silver in the 1500 meters at the Paris Games, had publicly announced his intention to target the record months in advance and executed the plan on home soil.\n\nThe margin of improvement — 0.47 seconds — is significant in elite middle-distance running, where records in the mile have historically proved among the most durable in track and field. El Guerrouj's 1999 mark had survived repeated assaults by a generation of runners, making Kerr's performance one of the most anticipated and celebrated in the event's modern history.\n\nThe achievement carries particular resonance in Britain, where the mile has historic cultural weight dating to Roger Bannister's 1954 sub-four-minute barrier. Kerr's record represents the first time a British runner has held the world mile record in the modern era.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "4:03 PM MT",
+      "addedAtISO": "2026-07-18T16:03:31.299578-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Brazil Supreme Court Justice Bars Argentina's Milei From Visiting Jailed Bolsonaro",
+      "summary": "Brazilian Supreme Court Justice Alexandre de Moraes on Saturday denied a request from Argentine President Javier Milei to visit former Brazilian President Jair Bolsonaro, who is currently under house arrest. Moraes cited a 30-day suspension of all non-essential visits imposed earlier this week as the reason for the denial.\n\nThe decision is politically charged: Milei and Bolsonaro are close ideological allies, and the visit would have been a high-profile show of solidarity between two of Latin America's most prominent right-wing leaders. Bolsonaro has been under house arrest as part of ongoing legal proceedings related to his alleged role in the January 8, 2023 riots in Brasília, in which his supporters stormed government buildings following his 2022 election defeat.\n\nThe ruling underscores the continuing judicial scrutiny of Bolsonaro and the sensitivity of his case to Brazil's institutions, as well as the diplomatic complexities of Milei's regional relationships. Justice Moraes has been a central figure in proceedings against Bolsonaro and has at times been a flashpoint for criticism from the Brazilian right.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-18/brazil-s-justice-moraes-bars-milei-from-visiting-jair-bolsonaro",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:03 PM MT",
+      "addedAtISO": "2026-07-18T16:03:31.299578-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Update: Two U.S. Troops Killed in Jordan as Iran Strikes American Base",
       "summary": "Two U.S. service members were killed in action in Jordan on July 17 when Iranian ballistic missiles and drones struck a U.S. base there, U.S. Central Command announced Saturday. One additional service member remains missing, while four others were medically evacuated to Jordanian hospitals and have since been discharged. It is the first confirmed American combat deaths in the ongoing U.S.-Iran conflict.\n\nCENTCOM said it and partner forces defended against the attack but did not specify the base's location or the branch of service of the fallen. Identities are being withheld for 24 hours pending next-of-kin notification. The United States has conducted multiple waves of strikes against Iran in recent weeks, and Iran has retaliated against American and allied positions across the region.\n\nThe deaths mark a significant escalation in a conflict that has until now involved strikes on infrastructure and military facilities without confirmed U.S. fatalities. Supporters of the administration's Iran policy argue the strikes are necessary to degrade Tehran's nuclear and military capabilities, while critics warn the engagement risks drawing the United States into a broader regional war without a clear congressional authorization. The fate of the missing service member remains unknown.",
