@@ -3,6 +3,48 @@
   "dateFormatted": "Sunday, July 19, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "DOJ Files First-Ever Petition to Dormant Alien Terrorist Removal Court, Seeking Secret Deportation",
+      "summary": "The Justice Department has filed the first-ever petition to the Alien Terrorist Removal Court (ATRC), a secretive federal tribunal established in 1996 that had never received a case until this past Wednesday. The court was designed to allow the government to deport noncitizens linked to terrorism while keeping much of its evidence classified, shielding it from the target of removal and the public.\n\nThe case involves an unnamed noncitizen whom the DOJ is seeking to remove. The administration's use of this previously dormant mechanism signals a new front in President Trump's broader deportation agenda, potentially allowing removal proceedings to proceed on the basis of secret intelligence that defendants cannot fully contest.\n\nSupporters of the move argue it is a necessary tool for national security cases where exposing evidence could compromise intelligence sources. Critics, including civil liberties advocates, warn that the process denies respondents meaningful due process and that the court's 30-year dormancy reflects serious legal and constitutional concerns about whether the government can meet the law's evidentiary standards while keeping evidence secret.\n\nA government victory would establish a new precedent enabling removals based on classified evidence; a loss could effectively confirm the court's limits and close off this avenue. Legal observers note the outcome may hinge on whether judges demand more transparency than the administration is willing to provide.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/19/trump-alien-terrorist-removal-court-first-case",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:04 PM MT",
+      "addedAtISO": "2026-07-19T16:04:52.274730-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Maine Senate Race Narrows as Secretary of State Bellows Drops Out, Jackson Consolidates Support",
+      "summary": "Maine Secretary of State Shenna Bellows ended her bid for the Democratic Senate nomination on Sunday, clearing the field further for state Senate President Troy Jackson as Democratic delegates gathered to select county convention delegates ahead of next week's state nominating convention. Bellows cited her duty to focus on her role as Secretary of State amid what she called accelerating threats to democracy.\n\nJackson's delegate slates swept nearly all county delegate slots at Saturday's meetings, giving him significant organizational momentum. He told reporters that several remaining candidates had effectively signaled they would exit before the convention, though he declined to name them. The race is to select a nominee to face incumbent Republican Sen. Susan Collins after primary winner Graham Platner withdrew last week following a sexual assault allegation he denied.\n\nPhysician Nirav Shah, a former Maine public health official, remains in the race and has argued he is the stronger general-election candidate against Collins, citing Jackson's third-place primary finish. The outcome will shape one of the more competitive Senate contests of the 2026 cycle, with Collins long viewed as a vulnerable but resilient incumbent.",
+      "source": "NBC Politics",
+      "url": "https://www.nbcnews.com/politics/2026-election/shenna-bellows-drops-maines-senate-race-troy-jackson-builds-democratic-rcna588242",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:04 PM MT",
+      "addedAtISO": "2026-07-19T16:04:52.274730-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Mount Olympus Formally Nominated for UNESCO World Heritage Status as Nolan's 'Odyssey' Hits Theaters",
+      "summary": "Greece has submitted Mount Olympus, the mythological home of Zeus and the twelve Olympian gods, for inclusion on UNESCO's World Heritage List as a mixed cultural and natural site. The nomination is being considered at the World Heritage Committee's meeting in Busan, South Korea, running through July 29.\n\nRising to 2,918 meters almost directly from sea level, the mountain combines ancient religious significance — including an excavated Hellenistic-era sanctuary believed to be mentioned by Plutarch — with exceptional biodiversity and endemic species. Orthodox Christian heritage also figures into the nomination, with a chapel at 2,803 meters said to be the highest-altitude Orthodox chapel in the world.\n\nLocal officials and residents in the mountain's main town of Litochoro have championed the bid for years, arguing that the site's unique blend of mythology, history, and ecology warrants the designation. The nomination is receiving additional public attention this week with the theatrical release of Christopher Nolan's film adaptation of \"The Odyssey,\" in which Olympus features as the seat of the gods who shape Odysseus's journey.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/mount-olympus-home-of-the-ancient-greek-gods-vies-for-world-heritage-status",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "4:04 PM MT",
+      "addedAtISO": "2026-07-19T16:04:52.274730-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Update: Andy Burnham Set to Become UK Prime Minister Monday as Cabinet Questions Remain",
       "summary": "Andy Burnham is poised to be sworn in as Britain's seventh prime minister in just over a decade on Monday, following his formal declaration as Labour leader. Key questions about the composition of his cabinet and the policy direction of his government remain unanswered as he prepares to enter Downing Street.\n\nBurnham, the longtime Mayor of Greater Manchester, rose rapidly through Labour ranks after former Prime Minister Keir Starmer's government lost support. His ascent has been described as unusually swift even by British political standards, and he has vowed to unite a party fractured by internal debate over economic and social policy.\n\nThe transition represents a significant moment for the United Kingdom, which has cycled through prime ministers at an accelerated pace since David Cameron's resignation in 2016 following the Brexit referendum. Burnham's specific policy priorities, particularly on issues such as public services, housing, and relations with the European Union, are expected to come into sharper focus once cabinet appointments are announced.\n\nThis story was previously covered when Burnham was declared Labour leader; today's concrete new development is his imminent swearing-in as Prime Minister on Monday and continued uncertainty over his cabinet composition.",
