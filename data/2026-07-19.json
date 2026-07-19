@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-19",
+  "dateFormatted": "Sunday, July 19, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Hungary's President Steps Down After Parliament Forces Removal",
+      "summary": "Hungarian President Tamás Sulyok signed a constitutional amendment ending his presidency at midnight Sunday, capitulating after parliament passed the law with an overwhelming majority earlier in the week. The move was driven by Prime Minister Péter Magyar's Tisza party, which swept to a landslide victory in April and viewed Sulyok as a loyalist placeholder for former strongman Viktor Orbán, who ruled for 16 years.\n\nThe 17th amendment removes Sulyok on grounds of 'serious loss of confidence,' simultaneously ousting the head of the Constitutional Court and barring MPs who have served three terms from standing again — a provision that disqualifies more than half of Orbán's Fidesz party's current deputies. Sulyok signed the amendment under deadline pressure but accused Magyar's government of violating the rule of law and said core values of a free society had been 'trampled underfoot for the sake of political power.'\n\nOrbán, who has barely been seen in public since his April defeat, called the amendment an act of tyranny and called for protests. The EU, by contrast, praised Hungary's 'wind of change' and has moved to unlock €16.4 billion in previously frozen funds for the new government. The dramatic ouster marks the most consequential step yet in Tisza's effort to dismantle what critics describe as a sophisticated authoritarian institutional architecture built by Fidesz over 16 years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-19T05:08:09.914217-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Ferry Carrying 116 Passengers Sinks Off Guyana Coast; Rescue Underway",
+      "summary": "The MV Barima, a ferry carrying 116 passengers, capsized late Friday off the coast of Guyana near Iron Punt while traveling from Georgetown to Port Kaituma. A distress call was received just after 11 p.m. local time, prompting an urgent rescue operation involving both state and private vessels. As of the latest reports, 53 people had been rescued and the fate of the remaining passengers was unknown.\n\nPublic Works Minister Juan Edghill confirmed the vessel was equipped with 250 life jackets, two rigid life crafts, and six inflatable life crafts. The MV Barima was built in 1939 and is 40 meters long. Prime Minister Mark Phillips was said to be leading the government's emergency response.\n\nThe full scale of casualties remains unclear as search operations continue. The incident represents a potentially significant loss of life in the South American nation, and authorities have not indicated whether they expect to recover additional survivors from among the more than 60 passengers still unaccounted for.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-19T05:08:09.914217-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Cuban Dissident Luis Manuel Otero Alcántara Arrives in U.S. Exile After Five Years in Prison",
+      "summary": "Luis Manuel Otero Alcántara, leader of Cuba's San Isidro Movement and one of the country's most prominent dissidents, arrived in Miami on Saturday after completing a five-year prison sentence and receiving U.S. parole approval. He was greeted by supporters singing the Cuban national anthem and told journalists he believes 'the dictatorship has to end, and the Castro dynasty has to end.' His whereabouts had been unclear for days as Cuban authorities held him in an undisclosed location while U.S. officials processed his parole request.\n\nOtero Alcántara, 38, was arrested in 2021 during Cuba's largest anti-government protests in decades and served his sentence at the maximum-security Guanajay prison near Havana. The San Isidro Movement, a coalition of artists, journalists and intellectuals, has campaigned for freedom of speech and democracy. Cuban authorities allege the group is funded by Washington and used to subvert the state — claims the movement denies.\n\nU.S. Secretary of State Marco Rubio welcomed the development, calling the Cuban government's crackdown 'yet another reminder of the unique misery and evil that is innate to the communist system.' His release comes amid sharply escalating U.S.-Cuba tensions: the Trump administration has imposed an oil blockade, new sanctions, and an unprecedented murder indictment against former Cuban leader Raúl Castro, while the Pentagon has been briefed on potential military options. Cuba is facing extended blackouts and food shortages, and tourism has fallen nearly 60% in the first five months of 2026.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-19T05:08:09.914217-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "First Death Reported in Legionnaires' Disease Outbreak on Manhattan's Upper East Side",
+      "summary": "New York City health officials reported Friday the first fatality linked to a Legionnaires' disease outbreak centered on Manhattan's Upper East Side, which has infected at least 67 people and hospitalized dozens since investigators began tracking it on July 2. Officials did not release details about the victim's identity or age. Legionella bacteria — the micro-organisms that cause the disease, a severe form of pneumonia — has been detected in cooling towers atop more than 75 buildings in the area, including prominent museums, private schools, and luxury apartment buildings.\n\nInvestigators have not yet identified the specific source of the outbreak and are continuing to examine the air conditioning systems of large buildings, which can release water vapor carrying the bacteria. All affected buildings were ordered to clean, drain, and disinfect their cooling towers. Legionnaires' disease kills approximately 10% of patients but does not spread person-to-person.\n\nThe outbreak follows a similar episode last year in Harlem in which more than 100 people were sickened and seven died. The disease is contracted by inhaling tiny droplets of contaminated water from sources including cooling towers, hot tubs, and showerheads. City officials said the investigation is ongoing as the source remains unconfirmed.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/health/first-death-reported-in-legionnaires-disease-outbreak-in-new-york-city",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-19T05:08:09.914217-06:00",
+      "slot": 5
+    }
+  ]
+}
