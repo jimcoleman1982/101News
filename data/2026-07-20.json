@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, July 20, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "Iran War Hammers Ryanair Profits 34% as Fuel Costs Surge and Passengers Hesitate",
+      "summary": "Ryanair reported a 34% drop in pre-tax profits to €593 million for the April-to-June quarter, directly attributing the decline to the ongoing U.S.-Iran conflict's effect on jet fuel prices and consumer travel demand. The Irish airline was forced to cut fares to stimulate bookings even as revenue ticked up just 1% to €4.4 billion, with passenger numbers rising 6% but average fares falling 6%. The company warned its full-year results will be \"highly sensitive\" to conflict escalation and the price of unhedged fuel.\n\nCrude oil prices hit $90 a barrel Monday for the first time in a month before easing slightly, driven by the weekend's intense military exchanges between the U.S. and Iran and the near-complete halt to traffic through the Strait of Hormuz. Ryanair said it had hedged a portion of its fuel costs but that unhedged arrangements had more than doubled in price since U.S. and Israeli strikes against Iran began in February. Ryanair shares fell 5% Monday.\n\nThe airline said summer fares between July and September are on track to be \"modestly\" lower than last year, with many passengers booking closer to their departure date than normal — a pattern the company attributed to \"consumer hesitancy\" around Middle East tensions. Its finance chief noted that flights on popular Mediterranean routes remain full, suggesting demand exists but travelers are delaying commitment.\n\nThe Ryanair results serve as a tangible measure of the Iran conflict's spillover into the global economy, illustrating how the war is affecting industries far beyond the Middle East. Analysts at AJ Bell cautioned that \"without a lasting resolution, challenging times for the airline and travel space look set to continue.\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo",
+      "sourceCount": 18,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:36 AM MT",
+      "addedAtISO": "2026-07-20T10:36:35.436409-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "El Mayo Zambada Sentenced to Life in Prison as Case Strains U.S.-Mexico Relations",
+      "summary": "Ismael \"El Mayo\" Zambada Garcia, co-founder of the Sinaloa cartel alongside the late Joaquín \"El Chapo\" Guzmán, was sentenced Monday to life in federal prison for narcotics trafficking. Prosecutors said Zambada orchestrated torture, plotted murders, and helped build the Sinaloa cartel into the world's largest drug trafficking organization over several decades. The sentencing marks the end of a high-profile federal prosecution that brought one of Mexico's most powerful criminal figures to justice in a U.S. courtroom.\n\nThe case has significantly complicated the diplomatic relationship between the United States and Mexico. The circumstances under which Zambada was brought to the United States have been a source of ongoing friction, with Mexican officials raising objections to the manner of his transfer. The dispute has added to existing tensions between the two governments over security cooperation, migration, and trade policy.\n\nZambada's sentencing closes a chapter on one of the most consequential drug cartel prosecutions in U.S. history. The Sinaloa cartel has been held responsible for a substantial portion of the fentanyl and other narcotics flowing into the United States, making the outcome of the case significant for U.S. drug enforcement policy.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-20/el-mayo-gets-life-in-prison-as-case-roils-us-mexico-relations",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:36 AM MT",
+      "addedAtISO": "2026-07-20T10:36:35.436409-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Indian Police Block 'Cockroach' Protesters Marching on Parliament in Delhi, Tear Gas Deployed",
+      "summary": "Indian police used tear gas and baton charges Monday to block tens of thousands of supporters of the Cockroach Janta Party, a youth-led protest movement, from marching on parliament in New Delhi. The protest, which authorities had banned, drew students, parents, teachers, and professionals who gathered at the historic Jantar Mantar site despite heavy rain. Police suspended mobile internet services in parts of central Delhi as demonstrators attempted to reach parliament through multiple routes. Multiple protesters were reported injured in clashes, and authorities ultimately dismantled the protest site by late evening.\n\nThe movement takes its name from a remark by India's chief justice, who drew criticism after comparing sections of unemployed young people to \"cockroaches\" in a court hearing. Demonstrators are calling for the resignation of India's education minister over alleged exam paper leaks and a broader crisis in the country's education and employment systems. Activist Sonam Wangchuk, who was forcibly moved to a hospital on the 21st day of a hunger strike in support of the movement, appealed from his hospital bed to be discharged to join the march but was not permitted to leave.\n\nInside parliament, the opening day of the monsoon session was repeatedly adjourned as opposition MPs protested over the alleged paper leaks and other issues, underscoring the political pressure the movement is placing on Prime Minister Narendra Modi's government. Organizers repeatedly urged supporters not to confront police, though some stone-throwing was reported. The CJP has become one of the most prominent expressions of public dissent against Modi in recent years.\n\nThe demonstration reflects broader anxieties in India about youth unemployment and the integrity of public examinations used for government hiring and higher education admissions — issues that have galvanized a cross-section of Indian society in recent weeks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:36 AM MT",
+      "addedAtISO": "2026-07-20T10:36:35.436409-06:00",
+      "slot": 11
+    },
+    {
       "category": "world",
       "headline": "Update: U.S. Launches Ninth Consecutive Night of Strikes Against Iran as Three Service Members Killed",
       "summary": "U.S. Central Command launched a ninth consecutive night of strikes against Iran on Sunday, extending the military campaign that has continued daily since it began. CENTCOM stated the strikes are aimed at degrading Iranian military capabilities used to attack commercial vessels and civilian mariners transiting the Strait of Hormuz. The operation marks one of the most sustained U.S. military campaigns against Iran in history.\n\nThree U.S. service members were killed in Jordan and Iraq in connection with the ongoing conflict, with President Trump responding publicly to the losses. The deaths represent a significant escalation in American casualties in the broader confrontation with Iran and Iranian-backed forces in the region. CENTCOM has not specified the exact targets struck in the latest wave.\n\nThe conflict has drawn widespread international attention, with the Strait of Hormuz — through which a significant portion of global oil exports flow — remaining a critical flashpoint. Supporters of the military action argue it is necessary to protect freedom of navigation and deter Iranian aggression; critics warn of the risks of an expanding conflict without a clear endgame. The story is covered by 28 outlets, making it the most widely reported news of the day.",
