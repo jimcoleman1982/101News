@@ -3,6 +3,48 @@
   "dateFormatted": "Sunday, July 19, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: U.S. Launches Ninth Consecutive Night of Strikes Against Iran; Three American Service Members Killed in Jordan",
+      "summary": "U.S. Central Command announced it began a new wave of strikes against Iran at 7 p.m. ET Sunday, marking the ninth consecutive night of military operations. CENTCOM stated the strikes are aimed at degrading Iranian military capabilities used to attack commercial vessels and civilian mariners transiting the Strait of Hormuz. President Trump responded publicly to the escalating campaign.\n\nSeparately, CENTCOM confirmed the deaths of three U.S. service members in Jordan and Iraq, the latest American casualties in the ongoing conflict. The State Department also issued a worldwide travel warning to Americans abroad, citing heightened tensions in the Middle East and the potential for unforeseen escalation at U.S. diplomatic facilities.\n\nThe sustained U.S. military campaign against Iran represents one of the most significant direct confrontations between the two countries in decades. Supporters of the operation argue it is necessary to protect freedom of navigation and deter further Iranian aggression; critics have raised concerns about the risk of broader regional escalation and the lack of a clear congressional authorization for sustained hostilities.\n\nThe conflict has drawn widespread international attention, with allies and adversaries alike monitoring whether Iran will escalate further or seek a diplomatic off-ramp. The deaths of three service members bring renewed scrutiny to the human cost of the campaign and the administration's military strategy.",
+      "source": "Fox News",
+      "url": "https://foxnews.com/live-news/us-iran-war-irgc-soldiers-death-retaliatory-strikes-jordan-july-19",
+      "sourceCount": 15,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-19T21:08:19.742964-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Usha Vance Gives Birth to Baby Boy, First Child Born to a Sitting Vice President in Over 150 Years",
+      "summary": "Second Lady Usha Vance gave birth Sunday morning to a boy named Alec Neel Vance, Vice President JD Vance announced on social media. Both mother and child are reported to be healthy. The new arrival joins three older siblings: Ewan, 9; Vivek, 6; and Mirabel, 4.\n\nThe birth marks the first time a sitting vice president's family has welcomed a child while in office in more than 150 years, a historical milestone that drew widespread coverage. Vance said in his statement that Usha and the baby are \"happy and healthy.\"\n\nThe announcement is personally significant for the vice president, who has been an outspoken advocate for higher birth rates in the United States and has made family formation a recurring theme of his public remarks. The birth was met with congratulations from across the political spectrum.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5977294-usha-vance-baby-boy-born/",
+      "sourceCount": 10,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-19T21:08:19.742964-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Norway Unveils New Memorial for 77 Victims of 2011 Breivik Massacre, Days Before 15th Anniversary",
+      "summary": "Norway on Sunday inaugurated a new permanent memorial in Oslo for the 77 people killed by neo-Nazi Anders Breivik on July 22, 2011, in the country's deadliest peacetime terror attack. Survivors, relatives of the victims, Crown Prince Haakon, and government officials gathered for the unveiling of a large public artwork featuring a 12-metre high stone mosaic of a bird native to Utøya island, where 69 people — mostly teenagers — were shot dead at a Labour Party youth camp.\n\nThe memorial, titled \"Upholding\" and created by artist Matias Faldbakken, is located in Oslo's renovated government district near the site of the car bomb that killed eight people and set off the day's events. The names of all 77 victims are engraved on the work. Faldbakken described its dual purpose as both commemorating the victims and engaging the public in democratic resilience against far-right ideology.\n\nNorway also opened the 22 July Centre, a national memorial and education facility dedicated to the attacks, on the same day. The ceremony comes as the country prepares to mark the 15th anniversary of the massacre this Wednesday. Breivik, sentenced to 21 years in prison in 2012, remains incarcerated and has repeatedly failed in legal challenges to his sentence and conditions of detention.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-19T21:08:19.742964-06:00",
+      "slot": 21
+    },
+    {
       "category": "politics",
       "headline": "DOJ Files First-Ever Petition to Dormant Alien Terrorist Removal Court, Seeking Secret Deportation",
       "summary": "The Justice Department has filed the first-ever petition to the Alien Terrorist Removal Court (ATRC), a secretive federal tribunal established in 1996 that had never received a case until this past Wednesday. The court was designed to allow the government to deport noncitizens linked to terrorism while keeping much of its evidence classified, shielding it from the target of removal and the public.\n\nThe case involves an unnamed noncitizen whom the DOJ is seeking to remove. The administration's use of this previously dormant mechanism signals a new front in President Trump's broader deportation agenda, potentially allowing removal proceedings to proceed on the basis of secret intelligence that defendants cannot fully contest.\n\nSupporters of the move argue it is a necessary tool for national security cases where exposing evidence could compromise intelligence sources. Critics, including civil liberties advocates, warn that the process denies respondents meaningful due process and that the court's 30-year dormancy reflects serious legal and constitutional concerns about whether the government can meet the law's evidentiary standards while keeping evidence secret.\n\nA government victory would establish a new precedent enabling removals based on classified evidence; a loss could effectively confirm the court's limits and close off this avenue. Legal observers note the outcome may hinge on whether judges demand more transparency than the administration is willing to provide.",
