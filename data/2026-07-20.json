@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-20",
+  "dateFormatted": "Monday, July 20, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Iran Seizes Ships, Strikes U.S. Allies as Hormuz Ceasefire Collapses",
+      "summary": "The U.S.-Iran conflict has intensified sharply, with Iran seizing two cargo ships in the Strait of Hormuz and striking U.S. allies across the Gulf region, including a power and water plant in Kuwait. The United States has resumed a naval blockade of Iranian ports and imposed a 20% charge on all cargo transiting the Strait of Hormuz, a critical chokepoint through which a significant share of the world's oil supply flows. Brent crude has surpassed $90 per barrel as energy markets swing wildly.\n\nPresident Trump has stated he has not yet decided whether to 'finish off' Iran, while U.S. military strikes — now in their ninth consecutive night — are described as intended to 'further degrade Iranian military capabilities.' Iran's top negotiator signaled Tehran will assert control over the right of passage through Hormuz, and the collapse of ceasefire talks has left diplomatic resolution uncertain. Three American service members have been killed in Jordan during the conflict.\n\nThe Strait of Hormuz is one of the world's busiest oil shipping lanes, and a sustained disruption would have broad consequences for global energy prices and supply chains. The conflict has ripple effects beyond the Gulf: UK fuel prices are rising, and an Irish airline cited increased oil costs. The situation is being tracked by 27 news outlets, reflecting its status as the dominant international story of the day.\n\nSupporters of a harder U.S. line argue the blockade and strikes are necessary to degrade Iran's military capacity and deter regional aggression. Critics caution that escalating the blockade and striking Iranian assets risks a broader regional war, with Iran's attacks on U.S. allies in Kuwait and Syria underscoring the expanding theater of conflict.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+      "sourceCount": 27,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-20T05:08:21.228353-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Philippines Accuses China Coast Guard of Injuring Sailor With Baton in South China Sea",
+      "summary": "The Philippines on Monday accused Chinese Coast Guard personnel of aggressively striking and wounding a Philippine Navy serviceman with a wooden baton during an encounter in the South China Sea. The incident was disclosed ahead of a scheduled meeting between the two countries' top diplomats this week, adding a new flashpoint to an already fraught bilateral relationship over contested maritime territory.\n\nTensions between Manila and Beijing over the South China Sea have been a persistent source of regional instability, with repeated confrontations over resupply missions and disputed reefs. The Philippines, a U.S. treaty ally, has increasingly publicized such incidents in recent years, a shift from earlier administrations that sought to manage disputes quietly.\n\nThe timing of the allegation — just before high-level diplomatic talks — raises questions about whether the incident will derail efforts at de-escalation or become a point of direct negotiation. China has not yet publicly responded to the specific accusation. The incident adds to a pattern of physical confrontations that have included water cannon use and vessel collisions in prior months.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-20/philippine-navy-personnel-injured-after-china-coast-guard-row",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-20T05:08:21.228353-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: FDA Says Taylor Farms Cyclospora Test Was False Positive, Source of U.S. Outbreak Still Unknown",
+      "summary": "The U.S. Food and Drug Administration has reversed course on a key finding in its investigation into a national cyclosporiasis outbreak, announcing Sunday that a Taylor Farms iceberg lettuce sample that tested positive for the cyclospora parasite on Saturday was in fact a false positive. The agency said laboratory experts re-reviewed the result and concluded it 'does not represent true amplification,' meaning the source of the ongoing outbreak remains officially unidentified.\n\nThe outbreak, first detected on May 13, has resulted in at least 94 hospitalizations across multiple states, with thousands infected. Taylor Farms had already voluntarily removed all iceberg lettuce sourced from central Mexico from the U.S. market, and the CDC continues to advise against eating shredded iceberg lettuce at Taco Bell locations in Indiana, Kentucky, Michigan, Ohio, and West Virginia. The recalled lettuce also includes Marketside-branded products sold at Walmart in 15 states.\n\nThe false positive announcement complicates the public health response, as regulators must now continue searching for the contamination source while a broad voluntary removal is already underway. No deaths have been reported. The FDA said it continues working with Taylor Farms to ensure implicated products have been removed from the market.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-20T05:08:21.228353-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Ukraine's Conscription Crisis Turns Violent as Attacks on Recruiters Surpass 600",
+      "summary": "Ukraine's military recruitment effort has descended into widespread violence, with police recording more than 600 assaults on mobilization officers to date and warning that aggression is becoming 'increasingly threatening.' The country's military ombudswoman has called the attacks 'regular' and 'a major problem' as Ukraine enters the fifth year of Russia's full-scale invasion facing an acute manpower shortage on the front lines.\n\nIncidents have ranged from individual beatings — including a case where a veteran recruiter was hospitalized for six weeks after being struck with a crowbar — to a mass riot in Lviv this month in which some 200 protesters surrounded officers and overturned their vehicle. President Zelensky condemned the violence, but his decision to dismiss Defense Minister Mykhailo Fedorov shortly afterward has stalled institutional efforts to address the crisis. Ukraine is fighting under an interim defense chief.\n\nOpposition lawmakers and military analysts say the backlash reflects widespread fear of frontline death, disillusionment after years of grinding conflict with no clear end, and resentment over aggressive street detentions — known colloquially as 'busification' — in which men are taken into military service by mobile patrols. Analysts warn the violence is likely to worsen as manpower needs intensify.\n\nThe crisis presents a significant strategic problem for Kyiv: sustaining front-line strength requires a steady flow of recruits, but coercive methods are generating civilian resistance that undermines public support for the war effort. The issue has received limited coverage outside Ukraine, partly because officials are wary of feeding Russian propaganda narratives.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-20T05:08:21.228353-06:00",
+      "slot": 5
+    }
+  ]
+}
