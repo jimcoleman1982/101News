@@ -3,6 +3,48 @@
   "dateFormatted": "Tuesday, July 21, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump Administration Freezes Over $1 Billion in Medicaid Funds to California and Minnesota",
+      "summary": "The Trump administration announced Tuesday it is halting more than $1 billion in federal Medicaid payments to California and Minnesota, citing what officials describe as inadequate state efforts to investigate fraudulent claims. Health and Human Services Secretary Robert F. Kennedy Jr. said his agency is pausing $867.5 million in payments to California and $199 million to Minnesota until the states take additional steps to address questionable billing.\n\nThe action continues a pattern of targeted funding freezes directed at Democratic-led states as part of the administration's broader anti-fraud initiative. Minnesota had previously drawn federal scrutiny over its handling of Medicaid fraud, and officials cited that history as part of the justification for the latest pause.\n\nSupporters of the move argue it is a necessary corrective measure to protect taxpayer funds from waste and abuse within a program serving tens of millions of low-income Americans. Critics, including state officials and Democratic lawmakers, contend the freezes are a politically motivated effort to pressure blue states and threaten coverage for vulnerable populations who rely on Medicaid for health care.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/21/trump-medicaid-freeze-california-minnesota",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:27 AM MT",
+      "addedAtISO": "2026-07-21T10:27:09.514694-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "Federal Appeals Court Overturns Release Order for Palestinian Columbia Student Arrested at Naturalization Interview",
+      "summary": "A federal appeals court ruled Tuesday that a district judge erred in ordering the release of Mohsen Mahdawi, a Palestinian green card holder and Columbia University student whose arrest at his own naturalization interview became a prominent flashpoint in the Trump administration's crackdown on foreign student activists. The three-judge appellate panel reversed the lower court's finding that the government was likely targeting Mahdawi for his political activities.\n\nMahdawi had been detained by immigration authorities as part of a wider campaign to remove foreign students who participated in pro-Palestinian campus protests. The district court had ordered his release, concluding the government's actions raised serious First Amendment concerns. Tuesday's appellate reversal is the latest in a string of court victories for the administration on immigration enforcement.\n\nSupporters of the administration argue the ruling affirms the government's broad authority to enforce immigration law and remove non-citizens whose presence is deemed contrary to national interests. Civil liberties advocates and supporters of Mahdawi contend the case represents unlawful retaliation against protected political speech, and they are expected to pursue further legal challenges.",
+      "source": "The Hill",
+      "url": "https://thehill.com/regulation/court-battles/5980728-appeals-court-mohsen-mahdawi-release-reversed/",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:27 AM MT",
+      "addedAtISO": "2026-07-21T10:27:09.514694-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "ICE Shootings Prompt Scrutiny of Agency Training and Tactics After Two Fatal Incidents This Month",
+      "summary": "Two fatal shootings involving Immigration and Customs Enforcement officers during vehicle stops this month — one in Houston, Texas, and one in Biddeford, Maine — have intensified scrutiny of the agency's recruitment, training, and operational tactics. In both incidents, the men killed were not the intended targets of the enforcement operations, and none of the ICE agents involved were wearing body cameras. Federal authorities said both victims attempted to flee and used their vehicles as weapons.\n\nJohn Sandweg, who served as acting ICE director under President Obama, told PBS NewsHour that the pattern — at least 17 shootings involving ICE agents this year, five of them fatal — signals a systemic problem rooted in the administration's expanded use of traffic stops as an enforcement tool. Sandweg noted that vehicle stops have historically not been a central part of ICE operations and that agents have not received the same level of traffic-stop training as other law enforcement agencies.\n\nDHS Secretary Kristi Noem had reportedly recommended a temporary pause in certain operations following the shootings, but President Trump intervened to prevent it. Supporters of aggressive ICE enforcement argue officers are operating in dangerous conditions against individuals who resist lawful detention. Critics contend the incidents reflect inadequate preparation and oversight as the administration rapidly expands the agency's activities and recruitment.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/deadly-shootings-by-ice-officers-renew-scrutiny-of-recruitment-and-training",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:27 AM MT",
+      "addedAtISO": "2026-07-21T10:27:09.514694-06:00",
+      "slot": 11
+    },
+    {
       "category": "world",
       "headline": "Update: Trump Vows Iran Will 'Pay' for Killing U.S. Troops as Military Options Expand",
       "summary": "Three additional U.S. service members were killed over the weekend in Iranian attacks — First Lt. Tyler James Feehan of Hawaii and Pvt. Isabella Gonzales of Texas at Jordan's Muwaffaq Salit Air Base, and a third service member in Iraq — bringing total American combat deaths in the conflict to 17. President Trump responded Monday with a warning on Truth Social that Iran would \"pay many times over\" for each American killed, and said he had directed Defense Secretary Pete Hegseth and military leadership accordingly. The U.S. has now conducted strikes against Iranian targets for nine consecutive days.\n\nThe administration appears to be steadily intensifying its pressure campaign short of a full ground invasion. U.S. Central Command announced Monday it had redirected seven commercial vessels and seized an additional ship to enforce a blockade of Iranian ports. The Pentagon is reportedly reinforcing the region with F-16s from Germany, F-35s from the UK, and aerial refueling aircraft, and Trump has reportedly reviewed options including seizing Kharg Island, Iran's primary oil export terminal.\n\nFormer Trump administration officials quoted by the Washington Examiner suggested the president believes Iran fears him and that the conflict has moved past a trial-and-error phase. However, skeptics within and outside the administration warn that continued escalation does not guarantee a better outcome and risks broadening the conflict further.\n\nSupporters of the administration's approach argue that sustained military pressure is the only language Tehran understands and point to the degradation of Iranian nuclear facilities via Operation Midnight Hammer. Critics contend that the killing of U.S. troops and the absence of a diplomatic off-ramp risk dragging the United States into a protracted and unpredictable war.",
