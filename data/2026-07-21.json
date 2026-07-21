@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "New Jersey Governor Discloses 6,600 Noncitizens Were Registered to Vote Due to DMV Software Glitch",
+      "summary": "New Jersey Gov. Mikie Sherrill (D) announced Tuesday that a software error in the state's Motor Vehicle Commission system erroneously registered approximately 6,600 noncitizens to vote between June 2023 and June 2024. Sherrill, who took office this year, attributed the error to a glitch that occurred under her predecessor's administration and said a preliminary analysis found that fewer than 400 of those individuals actually cast ballots in elections during that period.\n\nThe disclosure has immediate national political salience. Republicans have long argued that insufficient safeguards enable noncitizen voting, and the New Jersey case — confirmed by a Democratic governor — is expected to fuel those arguments. Sherrill's office framed the disclosure as a demonstration of transparency and a commitment to fixing the error, noting that the affected individuals have been identified and the problem has been corrected.\n\nThe revelation drew swift attention across the political spectrum. Seven major outlets, including Fox News, NBC, CBS, and the New York Times, covered the story. Democrats have generally maintained that noncitizen voting is exceedingly rare and that existing safeguards work; Republicans have used such incidents to press for stricter voter verification requirements, including proof-of-citizenship laws currently being debated at the federal and state levels.\n\nThe scope of the error — occurring in a single state's DMV system over a 12-month window — underscores broader concerns about the integration of motor voter registration systems with citizenship verification databases. The number who actually voted, while under 400, is large enough to have potentially affected close local races in the state.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/5981200-sherrill-investigates-nj-voter-rolls/",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:44 PM MT",
+      "addedAtISO": "2026-07-21T13:44:51.039783-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Lebanese Army Deploys to Pilot Zone as Israeli Troops Withdraw; Trump Hosts Lebanese President at White House",
+      "summary": "Lebanese army engineering units entered the village of Zawtar al-Gharbiyeh in southern Lebanon on Tuesday as part of a \"pilot zone\" framework under a US-brokered trilateral agreement reached in late June. The deployment marks the first tangible step toward Lebanese Armed Forces taking control of territory previously held by Hezbollah during Israel's military campaign, and is intended to pave the way for broader Israeli withdrawal and Hezbollah disarmament.\n\nThe deployment was not without incident. Israeli forces fired warning shots after Lebanese troops were deemed to have crossed into Israel's declared \"security zone\" — a 10-kilometer-deep strip of occupied Lebanese territory the IDF says it will maintain indefinitely to protect northern Israeli communities. The Israeli military confirmed the shots and said it retains the right to self-defense and to \"remove threats\" within the zone.\n\nThe timing coincided with a White House meeting between President Trump and Lebanese President Joseph Aoun. Aoun told reporters he asked Trump for two things — political support and backing for the Lebanese Armed Forces — and Trump pledged US assistance, saying Lebanon had been \"hit hard\" for decades and deserved to be \"treated with respect.\" The State Department had announced the pilot zone operations on Monday as a milestone of the trilateral framework.\n\nThe pilot zone plan is a carefully sequenced confidence-building measure: Israeli forces are to pull back from small parcels of occupied territory as the Lebanese army moves in and Hezbollah disarms in those areas. Its success or failure will determine whether the broader ceasefire framework holds and whether Israeli forces withdraw from the rest of southern Lebanon.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:44 PM MT",
+      "addedAtISO": "2026-07-21T13:44:51.039783-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "France Wildfires Kill Two Firefighters Near Bordeaux Airport as Country Records Worst Fire Season Since WWII",
+      "summary": "Two French firefighters died Tuesday while battling a large blaze that broke out near a parking lot at Bordeaux-Mérignac airport in southwest France. The fire, which originated as a brush fire before spreading to a building, forced flight delays and prompted the deployment of approximately 100 firefighters and specialist aircraft. Interior Minister Laurent Nuñez, speaking during parliamentary questions, said he would travel to the Gironde department to oversee response efforts.\n\nThe deaths occurred amid an unprecedented French wildfire season. President Emmanuel Macron stated last week that France has not seen this many fires since World War Two. Satellite data from the European Forest Fire Information System shows more than 42,000 hectares burned in France between January and mid-July — surpassing the previous record set in 2022. Separately on Tuesday, a fire in the southeastern Var department's Pontevès commune was described as \"out of control,\" with 600 firefighters deployed and 150 people evacuated.\n\nScientists attribute the intensifying fire seasons across Europe to climate change, with Europe warming at twice the global average rate according to the Copernicus Climate Change Service. This summer's record-breaking heat has driven major wildfires across the continent, most severely in Spain, where at least 13 people have been killed and approximately 29,000 hectares destroyed by a single fire north of Madrid.\n\nThe loss of firefighters at a major international airport underscores the escalating human cost of the crisis. France has registered nearly 11,000 fires since the start of 2025, and officials have warned that firefighting resources are being stretched to their limits.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:44 PM MT",
+      "addedAtISO": "2026-07-21T13:44:51.039783-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
       "headline": "Trump Administration Freezes Over $1 Billion in Medicaid Funds to California and Minnesota",
       "summary": "The Trump administration announced Tuesday it is halting more than $1 billion in federal Medicaid payments to California and Minnesota, citing what officials describe as inadequate state efforts to investigate fraudulent claims. Health and Human Services Secretary Robert F. Kennedy Jr. said his agency is pausing $867.5 million in payments to California and $199 million to Minnesota until the states take additional steps to address questionable billing.\n\nThe action continues a pattern of targeted funding freezes directed at Democratic-led states as part of the administration's broader anti-fraud initiative. Minnesota had previously drawn federal scrutiny over its handling of Medicaid fraud, and officials cited that history as part of the justification for the latest pause.\n\nSupporters of the move argue it is a necessary corrective measure to protect taxpayer funds from waste and abuse within a program serving tens of millions of low-income Americans. Critics, including state officials and Democratic lawmakers, contend the freezes are a politically motivated effort to pressure blue states and threaten coverage for vulnerable populations who rely on Medicaid for health care.",
       "source": "Axios",
