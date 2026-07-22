@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-22",
+  "dateFormatted": "Wednesday, July 22, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Update: House Passes War Powers Resolution to Halt Trump's Iran War in Bipartisan Rebuke",
+      "summary": "The U.S. House of Representatives voted 215-208 Wednesday to adopt a war powers resolution requiring President Trump to withdraw U.S. forces from Iran or seek formal congressional authorization for the conflict. Four Republicans — Thomas Massie, Brian Fitzpatrick, Tom Barrett, and Warren Davidson — broke with their party to join a united Democratic front, marking the first time a majority of the House has voted to rein in the Iran war, which began in February.\n\nThe measure is a concurrent resolution, meaning that if the Senate also passes it, it would not require the president's signature. However, its legal force remains uncertain. The White House dismissed the resolution as unconstitutional, arguing it improperly restricts presidential war powers. The Senate advanced a similar measure in May but has not yet held a full floor vote.\n\nDemocrats framed the vote as a significant turning point. Rep. Gregory Meeks, the leading Democrat on the House Foreign Affairs Committee, called it \"a significant bipartisan rebuke of President Trump's illegal and costly war\" and said it signals growing Republican sensitivity to constituent opposition. The vote is the fourth House attempt to limit Trump's war powers and comes amid rising fuel prices, with oil above $90 a barrel, and increasing public skepticism about the conflict's goals.\n\nRepublican supporters of the resolution emphasized constitutional principle. Rep. Tom Barrett of Michigan said, \"Congress alone declares war — that's something certainly we need to be protective of,\" adding he was prepared to accept political consequences from Trump for his vote. The vote also comes days after a separate Republican revolt forced the administration to abandon a $1.8 billion fund for political allies, underscoring growing intraparty friction over the Iran campaign.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj6pldg39deo",
+      "sourceCount": 23,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-22T05:08:30.558542-06:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "Nvidia CEO Jensen Huang Defends Chinese Open-Source AI, Warns Ban Would Harm U.S.",
+      "summary": "Nvidia CEO Jensen Huang argued Tuesday that American companies should be free to use Chinese open-source AI models, pushing back against a growing campaign in Washington to restrict or ban them. \"These Chinese models are excellent,\" Huang told Axios in an exclusive interview. \"Open-source models that are excellent should be used.\" His comments come as the Trump administration weighs a potential ban on Chinese AI models and as the Chinese model Kimi K3 has drawn fresh attention to Beijing's rapid AI progress.\n\nHuang's stance places the world's leading AI chipmaker in direct tension with policymakers who see Chinese AI as a national security risk. The Trump administration's director of the federal AI testing office resigned recently amid broader tensions over AI policy. Huang contended that restricting access to Chinese models would ultimately disadvantage American companies and innovation rather than protect them.\n\nThe intervention is significant given Nvidia's central role in supplying the chips that power AI development globally. The company has previously navigated U.S. export controls limiting sales of advanced chips to China, making Huang's public defense of Chinese AI models a notable departure from the cautious posture many technology executives have adopted on U.S.-China tech competition.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-22T05:08:30.558542-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "France Becomes First European Country to Ban Under-15s from Social Media",
+      "summary": "France's parliament approved a law Tuesday banning children under 15 from social media platforms, making France the first European country to enact such a restriction. Both the Senate and National Assembly adopted the measure, which will require all users in France to verify their age to access social media. President Emmanuel Macron, who championed the legislation, welcomed the vote as a signature policy of his final term in office.\n\nThe ban will be implemented in two stages: from September, under-15s will be barred from opening new accounts and age verification will be required for all new users; by January 2027, the rules will apply to existing accounts, meaning every person in France must prove they are 15 or older to use social media. Platforms will be required to use age-verification tools approved by France's privacy regulator.\n\nCritics have raised concerns about privacy risks from mandatory age verification, the ease with which young people may circumvent the ban, and the speed of implementation. Australia enacted a similar ban on under-16s in December, but research by Australia's eSafety Commission found that seven in ten affected children still had some access to the platforms afterward. Experts say France's universal verification requirement may improve compliance but will also heighten privacy exposure.\n\nThe law arrives as the UK and European Union develop their own restrictions on minors' access to social media, reflecting a broad Western policy shift driven by growing evidence of harm to children's mental health. France's approach will serve as a closely watched test case for whether age-gating at scale is technically feasible and effective.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-22T05:08:30.558542-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: India's Modi Government Faces Mounting Pressure as 'Cockroach' Youth Protests Intensify in Delhi",
+      "summary": "Pressure on Prime Minister Narendra Modi's government intensified Wednesday as thousands of youth protesters affiliated with the Cockroach Janta Party (CJP) maintained a round-the-clock sit-in in central Delhi, demanding education reforms and the resignation of Education Minister Dharmendra Pradhan. The movement gained significant momentum when opposition Congress party leaders, including Rahul Gandhi, staged a surprise march to Modi's residence, demanding resignations of Pradhan, Home Minister Amit Shah, and Modi himself.\n\nThe protests escalated after Monday's police crackdown, in which officers used batons and tear gas against tens of thousands of demonstrators who had marched toward parliament as its monsoon session opened. At least 60 people were injured, and Congress shared videos of Gandhi and other MPs being detained and taken to detention centers before being released. Senior opposition figures including former Delhi Chief Minister Arvind Kejriwal and veteran politician Sharad Pawar visited protesters at their base near Jantar Mantar.\n\nThe government defended its response. Education Minister Pradhan, in his first comments since the violence, accused Congress of \"shamelessly exploiting students as political tools\" and said the government had offered a comprehensive discussion but that Congress \"chose political spectacle over democratic debate.\" A federal minister said Gandhi had been informed of the government's willingness to hold talks but alleged he added demands for ministerial resignations, effectively changing the terms.\n\nThe protests, driven largely by engineering and civil service exam aspirants frustrated with irregularities and reforms in India's high-stakes national examinations, represent one of the largest sustained youth-led demonstrations India has seen in years. The involvement of major opposition parties has transformed what began as a student movement into a broader political confrontation with the Modi government.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-22T05:08:30.558542-06:00",
+      "slot": 5
+    }
+  ]
+}
