@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "science_health",
+      "headline": "19 Million Eggs Recalled Across Several States Over Possible Salmonella Contamination",
+      "summary": "Midwest Poultry Services, L.P., a large-scale egg producer based in North Manchester, Indiana, has voluntarily recalled approximately 19 million eggs — 1,589,577 dozen white-shell and brown cage-free shell eggs — after possible Salmonella Enteritidis contamination was detected at two of its Texas farms. The FDA posted the recall notice on July 22, with affected cartons carrying sell-by dates between July 20 and August 17, 2026.\n\nThe recalled eggs were distributed to Texas, Oklahoma, Louisiana, Arkansas, New Mexico, and Mississippi, sold at Kroger and Brookshire Grocery stores as well as smaller retailers. Affected cartons carry identifying codes P-1950 or 0840962 with a Julian Date between 157 and 184 printed on the side. The company said it is not aware of any confirmed illnesses linked to its products at this time.\n\nSalmonella Enteritidis can cause fever, diarrhea, nausea, vomiting, and abdominal cramps, and can be fatal for young children, the elderly, and immunocompromised individuals. The CDC notes symptoms typically appear six hours to six days after exposure; most healthy adults recover within a week without treatment, but vulnerable populations may require medical intervention. Consumers who purchased affected eggs are urged to avoid consuming them and can obtain a full refund from the place of purchase.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/23/lifestyle/19-million-eggs-recalled-at-several-supermarkets-over-possible-salmonella-contamination/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:40 AM MT",
+      "addedAtISO": "2026-07-23T10:40:52.949314-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Nicaragua's Legislature Debates Barring All Opposition Parties from Future Elections",
+      "summary": "Nicaragua's government-controlled National Assembly is debating legislation that would formally bar opposition parties from participating in elections, with a vote expected in the first week of August. The move follows a declaration by President Daniel Ortega that \"there will be no more elections\" for the opposition to contest power — remarks made in a speech marking the 47th anniversary of the 1979 Sandinista revolution.\n\nOrtega, 80, who has governed since 2007, accused the opposition of being financed by the United States and \"conspiring\" to seize power. The head of the National Assembly, Gustavo Porras, confirmed legislators are working to ensure there will not be \"even a crack\" for the opposition to establish a foothold. The move follows a series of prior crackdowns in which opposition candidates were jailed, exiled, or stripped of citizenship before the 2021 presidential election, which Ortega won in a one-sided contest.\n\nU.S. Secretary of State Marco Rubio condemned Ortega's remarks as revealing the \"true authoritarian nature\" of his rule, saying Ortega and his wife and co-president, Rosario Murillo, had \"abandoned even the pretense of popular consent.\" UN High Commissioner for Human Rights Volker Türk also condemned the proposal, stating that \"people of all political viewpoints must be allowed to vote and run for office.\"\n\nThe proposed legislation would effectively formalize what critics say has long been Nicaragua's de facto reality. Ortega extended presidential terms to six years via constitutional reform passed unanimously by the National Assembly in November 2025 and named Murillo as co-president, positioning her to assume the presidency should he be declared permanently absent amid reports of declining health.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:40 AM MT",
+      "addedAtISO": "2026-07-23T10:40:52.949314-06:00",
+      "slot": 11
+    },
+    {
+      "category": "other",
+      "headline": "Chinese Woman Wins Fields Medal in Historic First",
+      "summary": "A Chinese woman has won the Fields Medal, mathematics' most prestigious award, in what marks the first time a Chinese woman has received the honor. The Fields Medal is awarded only once every four years to mathematicians under the age of 40, and is widely considered the discipline's equivalent of a Nobel Prize.\n\nThe award comes amid broader debate over academic brain drain between China and the United States. While concerns have persisted that top Chinese scholars have been leaving for American institutions, the recognition arrives at a moment when several high-profile Chinese academics have in fact returned to China, with some citing an increasingly hostile environment for foreign-born researchers in the United States.\n\nThe milestone is seen as significant both for its representation of women in elite mathematics — a field long dominated by men — and as a marker of China's growing prominence in fundamental scientific research on the world stage.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:40 AM MT",
+      "addedAtISO": "2026-07-23T10:40:52.949314-06:00",
+      "slot": 11
+    },
+    {
+      "category": "science_health",
       "headline": "FDA Convenes Hearings on Seven Popular Peptides for Weight Loss, Healing, and Longevity",
       "summary": "The Food and Drug Administration's Pharmacy Compounding Advisory Committee opened two days of hearings Wednesday at its Silver Spring, Maryland campus to consider whether seven unapproved peptide substances should be added to the 503A Bulks List, which would permit their use in compounded prescription drugs. The peptides under review include BPC-157, TB-500, and five others proposed for uses ranging from ulcerative colitis and wound healing to opioid withdrawal, obesity, and cerebral ischemia. Though not FDA-approved, these substances are already widely available through wellness clinics, compounding operations, and gray-market online sellers.\n\nThe hearings reflect a growing tension within federal health policy: HHS Secretary Robert F. Kennedy Jr. has publicly voiced support for expanding access to peptide therapies, while FDA reviewers have raised concerns about limited evidence supporting the safety and effectiveness of the substances under consideration. Proponents argue that years of patient use suggest a promising safety profile and that the compounds address unmet medical needs.\n\nThe outcome of the advisory committee's recommendations will shape whether millions of Americans can legally access these therapies through regulated compounding pharmacies. Consumer demand is expected to remain strong regardless of the committee's findings, given the surge in public interest in peptides for weight loss, muscle building, and chronic disease management.",
       "source": "Fox News Latest",
