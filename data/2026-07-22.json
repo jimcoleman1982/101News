@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Tropical Storm Bertha Makes Landfall in Louisiana",
+      "summary": "Tropical Storm Bertha made landfall Wednesday afternoon in St. Bernard Parish, approximately 40 miles east of New Orleans, with maximum sustained winds of around 45 mph. The National Hurricane Center said the storm was expected to maintain that intensity as it tracked toward the upper Texas coast by Thursday. Tropical storm warnings stretched from Alabama through Louisiana, including New Orleans, where extreme heat compounded the threat.\n\nThe storm's principal dangers were wind and storm surge rather than heavy inland flooding, as the heaviest rainfall remained offshore. Parks, piers, and low-lying roads were closed across the Gulf Coast from the Florida Panhandle to Louisiana. A wind gust of 44 mph was recorded at New Orleans Lakefront Airport, and tropical-storm-force winds extended up to 160 miles from the storm's center.\n\nBeaches were closed from the Florida Panhandle through Mississippi as residents across the region prepared for flooding. The EU's naval force in the region issued a separate advisory Wednesday urging merchant vessels with Israeli, U.S., or Saudi interests to avoid the Red Sea — underscoring how multiple crises are simultaneously stressing global shipping. Bertha is the second named Atlantic storm of the 2026 hurricane season.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/tropical-storm-bertha-gulf-florida-alabama-louisiana-6052f6812cf03558fcbd08c4444a72a1",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-22T21:08:39.884405-06:00",
+      "slot": 21
+    },
+    {
+      "category": "science_health",
+      "headline": "Scientists Discover First-Ever Transmissible Cancer Among Fish in Vermont-Quebec Border Lake",
+      "summary": "Researchers have identified what appears to be the first documented case of a transmissible cancer spreading among fish, found in brown bullhead catfish in a lake straddling the Vermont and Quebec border. The cancer, a form of melanoma, has been observed spreading between individual fish over more than a decade of study, representing a previously unknown phenomenon in vertebrate wildlife. Until now, transmissible tumors had been documented in only a handful of animal species, including Tasmanian devils and certain shellfish, but never in fish.\n\nScientists say the discovery may offer new insights into how tumors metastasize, a process that remains one of the central unsolved problems in cancer research. The finding raises questions — though researchers emphasize it is not a current cause for alarm — about whether analogous mechanisms could theoretically exist in other vertebrates, including humans. The research was reported Wednesday by NPR and the New York Times.\n\nTransmissible cancers are considered rare because the immune system typically rejects foreign cells. Understanding how the catfish cancer evades immune defenses could illuminate pathways relevant to human oncology. Scientists are continuing to study the lake population to determine how widely the cancer has spread and whether environmental factors are contributing to its transmission.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5901135/transmissible-cancer-catfish-melanoma-tumors",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-22T21:08:39.884405-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
       "headline": "Fire Kills 10 Members of Same Family in Lima, Peru",
       "summary": "A fire killed 10 members of the same family, including five children aged three to 15, at a home in the La Victoria district of Lima, Peru, early Wednesday morning. Seven of the 17 family members present escaped the blaze, and two others were injured. The victims' bodies were burned beyond recognition, according to police Gen. Oscar Arriola.\n\nAuthorities are investigating the fire as a possible arson attack. Local media report the family, who manufactured mattresses and stored electric motorcycles on the premises, had received extortion threats prior to the fire. Witnesses told police that unknown individuals set fire to motorcycles parked outside the building, with flames spreading rapidly through flammable mattress-making materials.\n\nThe National Police of Peru issued a statement saying the country was in mourning. The incident highlights ongoing extortion violence affecting small business owners in Peru's capital, where criminal groups have increasingly targeted family enterprises with threats and attacks.",
       "source": "BBC News",
