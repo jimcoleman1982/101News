@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Romania Shoots Down Drone Over Its Airspace in First-Ever NATO Interception",
+      "summary": "A Romanian F-16 fighter jet shot down an unidentified drone that entered the country's airspace on Friday, marking the first time the NATO member state has conducted such an interception over its own territory. The drone was detected via radar surveillance approximately 20 kilometers east of Sulina, a town on the Black Sea coast that borders both Russia and Ukraine.\n\nThe drone was of a design consistent with Iranian-manufactured unmanned aerial vehicles, according to reports. The incident raises significant concerns given Romania's proximity to the active war zone in Ukraine and its status as a NATO ally, making any airspace violation a matter of potential Article 5 relevance.\n\nRomania has been a key logistical hub and transit route for Western military support to Ukraine since Russia's 2022 invasion. Previous drone incidents in the Black Sea region have prompted NATO consultations over the alliance's eastern flank security posture.\n\nThe Romanian military is investigating the origin and purpose of the drone. The incident underscores the expanding geographic footprint of the Ukraine conflict and the risk of escalation incidents involving NATO territory.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/international/5988592-romanian-army-investigates-iran-design-drone/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:47 AM MT",
+      "addedAtISO": "2026-07-24T10:47:15.861724-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Bangladesh President Shahabuddin Resigns Citing Health, Two Years Before Term Ends",
+      "summary": "Bangladesh President Mohammed Shahabuddin, 76, resigned on Friday citing health reasons, his spokesman announced, departing two years before his five-year term was set to expire. Shahabuddin had been a longtime ally of ousted Prime Minister Sheikh Hasina, who was forced from power in a popular uprising in August 2024.\n\nThe resignation comes during a period of significant political transition in Bangladesh. An interim government led by Nobel laureate Muhammad Yunus has been overseeing the country following Hasina's ouster, and tensions between the old political establishment and new governing forces have remained high.\n\nShahabuddin's association with Hasina's Awami League had made his continuation in office a point of contention. While he cited health grounds, his departure removes a symbolic figurehead of the previous political order at a delicate moment in the country's democratic transition.\n\nBangladesh's parliament was dissolved following the uprising, and the country of approximately 170 million people is navigating a complex path toward new elections. The presidency is largely a ceremonial role, but the choice of a successor will be closely watched as a signal of the direction of Bangladesh's political reconstruction.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/bangladesh-president-shahabuddin-to-resign-citing-health-reason",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:47 AM MT",
+      "addedAtISO": "2026-07-24T10:47:15.861724-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Tanzania Charges Arrested University Lecturer with Terrorism Over Protest Ties",
+      "summary": "A Tanzanian political science lecturer, Melkisedek Kaijage of the University of Dodoma, has been charged with terrorism after spending 15 days in police custody on lesser incitement charges. The escalated charge, brought at a Thursday court hearing where he sought bail, means he will remain imprisoned until trial, as terrorism offenses in Tanzania are generally not bailable.\n\nKaijage was among more than 130 people arrested in connection with planned July 7 anti-government protests calling for democratic reforms and accountability for those killed in post-election violence. Those protests were banned and did not take place, but authorities deployed security forces across major cities in anticipation. Prosecutors now accuse Kaijage specifically of threatening to burn public buildings as part of alleged intimidation tactics.\n\nThe arrests and charges are part of a broader crackdown by President Samia Suluhu Hassan's government on opposition figures and civil society. An official commission of inquiry has acknowledged that 518 people died from \"unnatural causes\" following the disputed October 2025 election, in which Samia was declared the winner with 98% of the vote — a result the opposition dismissed as fraudulent after its main candidates were excluded from the ballot.\n\nColleagues have described Kaijage as a respected academic whose prominence stems from teaching rather than political activism. Human rights observers have raised alarm over Tanzania's use of terrorism statutes, which carry sentences ranging from 10 years to life, against academics and critics of the government.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:47 AM MT",
+      "addedAtISO": "2026-07-24T10:47:15.861724-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "Update: U.S.-Iran War Escalates as Iran Strikes U.S. Bases Across Region, Oil Hits $100",
       "summary": "Iran launched drone strikes on U.S. military facilities in Kuwait, Bahrain, and Jordan in retaliation for what Tehran described as the 13th consecutive night of American attacks on Iranian territory. Explosions were reported along Iran's Gulf coast and in western, northern, and central areas; Iranian state media reported four killed and five wounded in one southwestern strike. Flights were suspended at a major Iraqi airport after a reported drone crash, and air sirens sounded in Bahrain and Jordan.\n\nThe escalation marks a sharp new phase in the conflict. President Trump on Thursday vowed 'major military punishment' against Iran over Houthi attacks on Red Sea shipping, and later told Axios he was considering restarting major combat operations and launching strikes 'bigger than ever before.' Trump also announced that frozen Iranian assets held by the U.S. would be used to compensate ship owners for damages in the Strait of Hormuz — a move Iranian Foreign Minister Abbas Araghchi called 'an incendiary precedent,' warning that 'ensuing chaos will not be pretty or peaceful.'\n\nThe renewed fighting has sent oil prices surging past $100 per barrel — the highest level since May — as markets price in renewed threats to Persian Gulf and Red Sea shipping routes. Average U.S. gasoline prices have crossed $4 per gallon, raising inflation concerns for central banks in the U.S. and Europe. Analysts warn that sustained elevated energy prices could force the Federal Reserve and the Bank of England to hold or raise interest rates longer than planned.\n\nThe original June ceasefire memorandum between Washington and Tehran had committed the U.S. to releasing frozen Iranian assets and called for a 60-day negotiation to end the war, but Trump declared the deal 'over' after Iranian attacks resumed in the strait. There is no indication of renewed diplomatic contact, and U.S. Central Command said Thursday's strikes targeted Iranian military command centers, drone storage facilities, and coastal surveillance infrastructure.",
       "source": "BBC News",
