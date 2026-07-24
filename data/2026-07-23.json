@@ -3,6 +3,48 @@
   "dateFormatted": "Thursday, July 23, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "Trump Administration Announces New Round of Tariffs Up to 12.5% on 60 Trading Partners",
+      "summary": "The Trump administration announced Thursday a new round of tariffs ranging from 10% to 12.5% on 60 trading partners, set to take effect at 12:01 a.m. Friday — precisely as a temporary tariff program expires. The move prevents a lapse in import taxes and signals the White House's determination to sustain its tariff agenda through new trade legal authorities after earlier measures faced court challenges.\n\nThe new duties closely resemble a proposal issued in June and represent the administration's effort to rebuild its trade regime following significant legal setbacks earlier this year. The timing was deliberate, ensuring no gap in tariff coverage as one authority ends and another begins.\n\nThe announcement affects trade relationships with dozens of countries and will have direct implications for U.S. importers and consumers. Supporters argue the tariffs protect American industries and workers; critics contend they raise costs for businesses and households and risk retaliation from trading partners. The policy continues to be one of the most consequential and contested elements of the Trump economic agenda.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/23/trump-tariffs-trade-labor",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-23T21:08:17.300869-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Alaska Flags Over 3,000 Voters for Citizenship Verification Ahead of August Primaries",
+      "summary": "Alaska's Division of Elections has mailed citizenship verification letters to 3,048 registered voters ahead of the state's August 18 primary elections — roughly 15 times the approximately 200 voters typically flagged during routine voter roll maintenance. Officials said the spike may stem from outdated records in the state's Division of Motor Vehicles database, though they are still investigating the cause.\n\nVoters who receive the letters are moved to inactive status but remain on rolls; those who do not respond can still cast provisional ballots by affirming eligibility under oath, with no supporting documentation required. Some Democratic lawmakers reported that constituents who are U.S. citizens, including naturalized Americans, have received the letters, raising concerns about incorrect flagging due to mismatched records across state agencies.\n\nThe development comes days after New Jersey disclosed that a DMV software error led to approximately 6,600 noncitizens being mistakenly registered to vote. The Trump administration cited the New Jersey situation in pressing states to verify voter citizenship more aggressively. Homeland Security Secretary Markwayne Mullin has urged states to cross-reference voter rolls with federal immigration records, while several states have pushed back, saying the administration has not provided sufficient evidence of widespread noncitizen registration. Alaska is among states cooperating with federal data-sharing requests, though officials said this review was based solely on state DMV data.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/policy/immigration/4661864/alaska-voters-verify-citizenship-midterm-elections/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-23T21:08:17.300869-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Federal Judges Allow Tennessee Congressional Map Splitting Majority-Black Memphis District",
+      "summary": "A three-judge federal panel on Thursday declined to block Tennessee's new congressional map that divides a majority-Black district in Memphis, clearing the way for the state to use the map in its August primary elections. The court rejected an emergency injunction sought by challengers who argued the redistricting plan dilutes Black voting power.\n\nThe ruling allows the reconfigured district boundaries to take effect for the upcoming primary cycle while legal challenges proceed. Critics of the map, including civil rights advocates, argue that splitting Memphis's majority-Black community across multiple districts diminishes the ability of Black voters to elect their preferred representatives — a concern the challengers framed under federal voting rights law.\n\nSupporters of the map contend it reflects legitimate redistricting considerations and complies with applicable law. The decision is the latest in a series of redistricting battles playing out in federal courts ahead of the 2026 midterm elections, with voting rights and racial composition of congressional districts at issue in multiple states.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/5987641-memphis-district-split-federal-judges/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-23T21:08:17.300869-06:00",
+      "slot": 21
+    },
+    {
       "category": "politics",
       "headline": "House Passes FY2027 Defense Bill with U.S.-Israel Military Cooperation Provision, Sparking Democratic Dispute",
       "summary": "The House passed its version of the FY2027 National Defense Authorization Act on Wednesday in a 219-206 vote, leaving intact Section 219, a provision calling for expanded U.S.-Israel defense cooperation in areas including military technology, supply chains, artificial intelligence, cybersecurity, and joint exercises. The bill now moves to the Senate, where its fate remains uncertain.\n\nThe provision sparked sharp controversy before the vote. Representative Alexandria Ocasio-Cortez claimed on X that the NDAA \"includes a provision to merge parts of our military with the IDF,\" calling it \"an existential threat to American sovereignty and democracy.\" House Minority Leader Hakeem Jeffries warned separately that an amendment to cut off aid to Israel could empower Hamas and Hezbollah and undermine U.S. national security.\n\nRepublican lawmakers and Trump administration officials forcefully disputed Ocasio-Cortez's characterization. EPA Administrator Lee Zeldin called the claim \"FALSE.\" Representative Mike Lawler, R-N.Y., said the provision simply expands the type of defense cooperation the U.S. already maintains with close allies, including intelligence sharing and collaborative weapons development, and accused Ocasio-Cortez of \"stoking Jew hatred.\" Representative Thomas Massie, R-Ky., had introduced an amendment to cut off aid to Israel, which also generated significant debate.\n\nThe episode highlights both a sharp intra-party divide within the Democratic Party over U.S. policy toward Israel and a broader dispute over what the defense bill's language actually does. Critics on the left argue expanded integration with the IDF raises sovereignty concerns; supporters on the right and among some Democrats contend the provision is a routine defense cooperation measure consistent with longstanding U.S. alliances.",
