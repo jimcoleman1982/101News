@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Houthi Attacks on Saudi Shipping Cut Last Oil Export Route, Pushing Oil to $100",
+      "summary": "Oil prices hit $100 a barrel for the first time since May as Houthi fighters in Yemen launched missile attacks on Saudi vessels in the Red Sea and warned tankers away from Saudi ports, severing what had been Saudi Arabia's last viable oil export corridor. Brent crude rose more than 6% in a single day, with U.S. gasoline prices surpassing $4 a gallon. The Houthis claim to have struck two Saudi ships and turned back at least 10 others by threatening the Bab El Mandeb strait, the narrow chokepoint linking the Red Sea to the Indian Ocean.\n\nThe disruption is compounded by Iran's effective closure of the Strait of Hormuz amid the ongoing U.S.-Iran conflict, now in its 13th consecutive night of American airstrikes on Iranian military targets. Saudi Arabia had been partially offsetting Hormuz disruptions by routing oil through its East-West pipeline to the Red Sea port of Yanbu, but that workaround is now itself under threat. U.S. President Donald Trump has vowed to 'take care of the Houthis,' though previous military campaigns against the group have yielded limited results.\n\nEconomists and energy analysts warn that sustained prices at or above $100 per barrel risk reigniting inflation in major economies. The Bank of England and U.S. Federal Reserve face renewed pressure to reconsider interest rate paths, with analysts at Capital Economics noting that rate cuts expected next year could be pushed back. Gas prices in the UK have risen roughly 53% since late June.\n\nThe confluence of a closed Strait of Hormuz, active Houthi attacks on Red Sea shipping, and collapsed U.S.-Iran ceasefire talks represents what analysts describe as the most serious simultaneous disruption to global energy supply routes in decades. U.S. Secretary of State Marco Rubio said this week that Iranian leadership is 'not ready to make a deal,' leaving no near-term diplomatic off-ramp in sight.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "1:41 PM MT",
+      "addedAtISO": "2026-07-24T13:41:49.346578-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "DNC Rules Panel Votes to Make South Carolina First 2028 Democratic Presidential Primary State",
+      "summary": "The Democratic National Committee's Rules and Bylaws Committee voted Friday to recommend South Carolina as the site of the first 2028 Democratic presidential primary contest, edging out Nevada after a contentious and racially charged debate among party leaders. The committee's recommendation now goes to the full DNC, which will take up the matter at a meeting in Austin, Texas. The decision represents a potentially significant reshaping of the Democratic nominating calendar.\n\nBlack Democratic leaders pushed strongly for South Carolina, arguing that African American voters — who form the backbone of the party's electoral coalition and represent a large share of South Carolina's Democratic primary electorate — deserve an early and decisive voice in choosing the presidential nominee. Supporters argued that placing South Carolina first would force candidates to engage seriously with Black voters from the outset rather than treating them as a later-primary constituency. Nevada advocates countered that their state's greater demographic diversity and union presence made it a more representative early battleground.\n\nThe move marks a major shift from Democratic primary tradition, in which Iowa and New Hampshire long held early-state status. The party has been restructuring its calendar since 2022, when President Biden successfully moved South Carolina ahead of New Hampshire for the 2024 cycle over significant resistance. Friday's vote suggests the party intends to cement that order going forward.\n\nThe 2028 Democratic race is expected to be wide open, with no incumbent president seeking the nomination. The choice of a first-primary state carries significant practical weight — early states shape candidate strategy, fundraising, and media coverage for the contests that follow — making Friday's committee vote a meaningful early marker for a nomination fight still more than two years away.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/24/democrats-2028-first-primary-south-carolina-nevada",
+      "sourceCount": 9,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:41 PM MT",
+      "addedAtISO": "2026-07-24T13:41:49.346578-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "11 Indicted in Smuggling Deaths of 7 Migrants, Including a 14-Year-Old, in Sealed Texas Rail Car",
+      "summary": "A federal grand jury unsealed an indictment Friday against 11 people in connection with the deaths of seven migrants — including a 14-year-old Honduran boy — who suffocated in a sealed, unventilated Union Pacific rail cargo container in Texas in May. Six bodies were found at a Laredo rail yard; a seventh migrant had been left for dead near the tracks in San Antonio after smugglers opened the container door briefly and then abandoned the group when one person fell out.\n\nAccording to the U.S. Attorney for the Western District of Texas, the migrants had paid between $1,500 and $10,000 each to be transported into the interior of the United States. The container, stacked atop another container, could not be opened from the inside and had no ventilation or cooling system. Temperatures that day ranged from 88 to 92 degrees Fahrenheit. The Webb County medical examiner attributed the deaths to hyperthermia. One of the victims contacted family members by phone as they were dying.\n\nOf the 11 defendants, four are U.S. citizens, two are lawful permanent residents, and five were in the country without legal status. Nine have been arrested in Texas; two remain at large. Each faces charges of conspiracy to transport aliens resulting in death and aiding and abetting transportation of aliens resulting in death — offenses punishable by up to life in prison.\n\nThe case draws renewed attention to the dangers of rail-based human smuggling along the U.S.-Mexico border, a method authorities have flagged as particularly lethal because trains moving through Mexico slow or stop near border crossings, creating opportunities for smugglers to conceal people or contraband. A 2023 incident near Knippa, Texas, also resulted in deaths under similar circumstances.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/11-people-indicted-in-smuggling-deaths-of-7-migrants-in-rail-cargo-container-in-texas",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:41 PM MT",
+      "addedAtISO": "2026-07-24T13:41:49.346578-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Romania Shoots Down Drone Over Its Airspace in First-Ever NATO Interception",
       "summary": "A Romanian F-16 fighter jet shot down an unidentified drone that entered the country's airspace on Friday, marking the first time the NATO member state has conducted such an interception over its own territory. The drone was detected via radar surveillance approximately 20 kilometers east of Sulina, a town on the Black Sea coast that borders both Russia and Ukraine.\n\nThe drone was of a design consistent with Iranian-manufactured unmanned aerial vehicles, according to reports. The incident raises significant concerns given Romania's proximity to the active war zone in Ukraine and its status as a NATO ally, making any airspace violation a matter of potential Article 5 relevance.\n\nRomania has been a key logistical hub and transit route for Western military support to Ukraine since Russia's 2022 invasion. Previous drone incidents in the Black Sea region have prompted NATO consultations over the alliance's eastern flank security posture.\n\nThe Romanian military is investigating the origin and purpose of the drone. The incident underscores the expanding geographic footprint of the Ukraine conflict and the risk of escalation incidents involving NATO territory.",
       "source": "The Hill",
