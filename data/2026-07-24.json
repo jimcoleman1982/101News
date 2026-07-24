@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, July 24, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "Update: U.S. Formally Imposes New Tariff Wave on 60 Trading Partners as Legal Justification Shifts",
+      "summary": "The United States has enacted a new round of tariffs ranging from 10% to 12.5% on 60 major trading partners — covering 99.4% of all US imports — after the previous tariff regime expired Friday. The White House framed the levies as a response to inadequate action on forced labor, with US Trade Representative Jamieson Greer saying the move would 'correct what is both a human rights abuse and distortive trade practice.' The new tariff structure effectively replaces the emergency-powers tariffs that the Supreme Court struck down earlier this year as illegally enacted.\n\nTrade economists have challenged the forced labor rationale. Caroline Freund, dean of the UC San Diego School of Global Policy and Strategy, told the BBC the administration is 'looking for a legal reason to put the tariffs in,' noting that Trump and Greer have been explicit that the actual goals are reducing the trade deficit and boosting US manufacturing. The Asia Society Policy Institute's Wendy Cutler warned the tariffs would raise costs for businesses and consumers, though exempted goods may soften some impact.\n\nThe United Kingdom faces a particular disadvantage under the new structure: the EU negotiated an all-inclusive 10% rate on its goods, while the UK faces 10% universal tariffs on top of any existing sector-specific duties. The head of the British Chambers of Commerce said the UK has lost its comparative trade advantage over the EU. David Henig of the European Centre for International Political Economy cautioned that further changes from the Trump administration remain possible at any time.\n\nTrading partners are widely expected to respond by deepening trade ties with non-US partners rather than retaliating directly, Cutler said. The tariffs represent a significant escalation in the administration's trade agenda and, combined with the ongoing US-Iran war's impact on energy prices, add pressure to an already strained global economic outlook.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgj61j6l08o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:15 PM MT",
+      "addedAtISO": "2026-07-24T16:15:55.741679-06:00",
+      "slot": 18
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: U.S. Measles Cases in 2026 Surpass Full-Year 2025 Total, Worst Outbreak in 35 Years",
+      "summary": "The Centers for Disease Control and Prevention has confirmed 2,318 measles cases in the United States as of July 23, 2026, surpassing the 2,289 total cases recorded for all of 2025. The milestone makes 2026 the worst year for measles in the United States since 1991, with major ongoing outbreaks centered in South Carolina, Utah, and Arizona, along with smaller clusters across much of the country.\n\nPublic health officials and scientists attribute the surge primarily to declining vaccination rates, which have left young children and other vulnerable groups increasingly exposed. The acceleration from last year's already elevated totals — which themselves marked a decades-long high — signals that the trend is worsening rather than stabilizing mid-year, with five months remaining in 2026.\n\nMeasles was declared eliminated in the United States in 2000, meaning sustained transmission had stopped. Sustained outbreaks of this scale indicate that community immunity in certain regions has dropped below the roughly 95% vaccination threshold needed to prevent spread of the highly contagious virus. Experts warn that without a reversal in vaccination trends, the elimination status itself could be at risk.\n\nThe outbreak has reignited debate over vaccine policy and the role of public health messaging. Critics of the current administration point to reduced federal public health infrastructure and skepticism toward vaccine mandates as contributing factors; supporters of the administration argue that parental choice in medical decisions is a legitimate policy value and that state-level responses should take precedence over federal intervention.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/5988933-us-measles-worst-three-decades/",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:15 PM MT",
+      "addedAtISO": "2026-07-24T16:15:55.741679-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Nigeria Approves Largest Military Expansion in Recent History to Counter Islamist Militants and Banditry",
+      "summary": "Nigerian President Bola Tinubu has approved the recruitment of 28,000 additional soldiers and the creation of four new army divisions, bringing the total to 12, in what officials describe as the country's largest military expansion in recent times. The move comes under intense pressure to address escalating violence from Islamist militants, separatist groups, and kidnapping gangs operating across multiple regions of Africa's most populous nation.\n\nThe announcement follows a particularly violent stretch: an armed gang killed at least 20 villagers in the north-western state of Zamfara last week, and 46 students were abducted from a school in Borno state in the northeast before being rescued by the army hours later. The government said new divisions and three additional army headquarters in the north-east and central Nigeria will improve coordination, intelligence sharing, and response times in areas where existing divisions have been overstretched.\n\nSecurity experts told the BBC that recruiting tens of thousands of new soldiers may prove difficult given the number of military personnel killed in recent months, a factor that could deter enlistment. The expansion accompanies earlier commitments, including more than 50,000 new police officers and a record 5.41 trillion naira ($4 billion) allocated to defence and security in the annual budget. The United States and Nigeria also conducted joint military operations against jihadist groups, including Christmas Day strikes on the Lakurawa group, as part of a broader counter-terrorism partnership.\n\nIS attacks have shifted dramatically toward sub-Saharan Africa in recent years, with analysts estimating roughly 90% of the group's global attacks now occur in the region. Nigeria's IS-affiliated branch is considered the most active globally. The military expansion signals Abuja's recognition that existing force structures are inadequate for the scale and geographic spread of the security threat.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:15 PM MT",
+      "addedAtISO": "2026-07-24T16:15:55.741679-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Update: Houthi Attacks on Saudi Shipping Cut Last Oil Export Route, Pushing Oil to $100",
       "summary": "Oil prices hit $100 a barrel for the first time since May as Houthi fighters in Yemen launched missile attacks on Saudi vessels in the Red Sea and warned tankers away from Saudi ports, severing what had been Saudi Arabia's last viable oil export corridor. Brent crude rose more than 6% in a single day, with U.S. gasoline prices surpassing $4 a gallon. The Houthis claim to have struck two Saudi ships and turned back at least 10 others by threatening the Bab El Mandeb strait, the narrow chokepoint linking the Red Sea to the Indian Ocean.\n\nThe disruption is compounded by Iran's effective closure of the Strait of Hormuz amid the ongoing U.S.-Iran conflict, now in its 13th consecutive night of American airstrikes on Iranian military targets. Saudi Arabia had been partially offsetting Hormuz disruptions by routing oil through its East-West pipeline to the Red Sea port of Yanbu, but that workaround is now itself under threat. U.S. President Donald Trump has vowed to 'take care of the Houthis,' though previous military campaigns against the group have yielded limited results.\n\nEconomists and energy analysts warn that sustained prices at or above $100 per barrel risk reigniting inflation in major economies. The Bank of England and U.S. Federal Reserve face renewed pressure to reconsider interest rate paths, with analysts at Capital Economics noting that rate cuts expected next year could be pushed back. Gas prices in the UK have risen roughly 53% since late June.\n\nThe confluence of a closed Strait of Hormuz, active Houthi attacks on Red Sea shipping, and collapsed U.S.-Iran ceasefire talks represents what analysts describe as the most serious simultaneous disruption to global energy supply routes in decades. U.S. Secretary of State Marco Rubio said this week that Iranian leadership is 'not ready to make a deal,' leaving no near-term diplomatic off-ramp in sight.",
