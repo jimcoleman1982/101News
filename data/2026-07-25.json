@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "New York Man Charged with Hate Crime After Stabbing Asian Man and Jewish Man Outside Synagogue",
+      "summary": "Raul Morales, 51, has been charged with two counts of attempted second-degree murder as a hate crime and multiple assault charges after allegedly stabbing two men in broad daylight on Manhattan's Upper West Side on Thursday. The first victim, a 57-year-old Asian man, was stabbed near Central Park West; the second, a 50-year-old Jewish man, was attacked with a screwdriver just outside a synagogue on West 86th Street.\n\nWitnesses and victims told police that Morales shouted 'Allahu Akbar' during both attacks, according to NYPD Commissioner Jessica Tisch. There was no known connection between Morales and either victim, or between the two victims. Both men were hospitalized in stable condition and are expected to survive.\n\nNYPD's initial investigation indicated mental health may have been a factor, though Morales has no known mental health history with the department. New York City Mayor Zohran Mamdani called the attacks 'horrifying' and said the city 'will always stand against bigotry' and do everything in its power to root out antisemitism, racism, and hateful acts of all kinds.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/US/2-stabbed-broad-daylight-new-yorks-upper-west/story?id=135028936",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:09 AM MT",
+      "addedAtISO": "2026-07-25T10:09:02.296348-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "Wisconsin Opens Homicide Investigation into Police Killing of Corey Ruiz",
+      "summary": "Wisconsin state authorities have opened a homicide investigation into the fatal shooting of Corey Ruiz, 38, by a Madison police officer on Wednesday. Police say Ruiz pulled a knife during a struggle with four officers after being tracked down on a bicycle following a call about someone trying to enter parked vehicles. An officer deployed a Taser that failed, and then fired three shots; Ruiz later died at a hospital. None of the four officers involved were wearing body cameras.\n\nMadison Police Chief John Patterson announced Friday that the state Justice Department's Criminal Investigation Division would lead the investigation, and pledged full cooperation. 'We will not hide from any aspect of this investigation,' he said, while cautioning that bystander footage circulating on social media shows 'one perspective' and that 'not all perspectives are online right now.' All officers have been placed on administrative leave.\n\nCivil rights attorney Ben Crump, representing the Ruiz family, called the shooting 'unnecessary, unjustified and unconstitutional' and noted the importance of video evidence. Mayor Satya Rhodes-Conway said the incident 'will be rigorously investigated,' adding that no one should lose their life in a law enforcement encounter regardless of their past. Public records show Ruiz had prior misdemeanor and felony convictions. The case has drawn additional attention because a white officer fatally shot Tony Robinson, a biracial man, on the same street in 2015.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78ge6z459xo",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:09 AM MT",
+      "addedAtISO": "2026-07-25T10:09:02.296348-06:00",
+      "slot": 11
+    },
+    {
+      "category": "business",
+      "headline": "USDA Announces Phased Reopening of Southern Cattle Ports After New World Screwworm Closure",
+      "summary": "The U.S. Department of Agriculture announced Friday it will initiate a phased reopening of southern cattle import ports beginning August 24, starting with the livestock port in Douglas, Arizona. The ports had been closed since May following the detection of New World Screwworm, a flesh-eating parasite, in cattle crossing from Mexico. Additional ports in Texas and New Mexico are expected to follow in subsequent weeks.\n\nNew World Screwworm, which had been eradicated from the United States decades ago, can infect and kill livestock and poses a significant agricultural threat. The closure of the border ports disrupted the U.S. cattle supply chain at a time when beef prices were already elevated, affecting ranchers, meatpackers, and consumers across the country.\n\nThe USDA said the phased reopening reflects improved containment of the outbreak south of the border, though officials have not declared the threat fully resolved. The announcement is expected to ease some pressure on domestic cattle supplies and prices.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/5990193-us-reopens-southern-cattle-ports-screwworm/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:09 AM MT",
+      "addedAtISO": "2026-07-25T10:09:02.296348-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "Update: Houthi Attacks on Saudi Shipping Cut Red Sea Route as Middle East Crisis Deepens",
       "summary": "Yemen's Houthi fighters have struck two Saudi vessels in the Red Sea this week and warned ships away from Saudi ports, effectively threatening the Bab El Mandeb Strait — the critical maritime link between the Red Sea and the Indian Ocean. The move cuts off Saudi Arabia's last viable oil export route after Iran's closure of the Strait of Hormuz, compounding disruptions to global energy and trade supplies.\n\nThe Houthi offensive follows 13 consecutive nights of U.S. airstrikes on Iranian military targets — including command centers, drone facilities, and coastal surveillance sites — with no ceasefire in sight. Gulf Arab states including Bahrain, Kuwait, and Jordan have absorbed Iranian drone and missile attacks throughout the month, while Saudi Arabia had largely been spared until now.\n\nSaudi Arabia had been rerouting oil exports via its overland East-West Pipeline to the Red Sea terminal at Yanbu Al-Bahr as a workaround to the Hormuz closure, but Houthi interdiction now threatens that alternative as well. Analysts warn the dual chokepoint crisis — Hormuz and now Bab El Mandeb — will rapidly cascade into broader global economic disruption, hitting energy prices, fertilizer supplies, and Asian-bound shipping lanes.\n\nPresident Trump has vowed to \"take care of the Houthis,\" but previous U.S. military pressure on the group has not produced a lasting halt to their operations. No diplomatic breakthrough has been announced, and the situation remains fluid with no resolution on the U.S.-Iran conflict that has driven the broader regional escalation.",
       "source": "BBC News",
