@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Houthi Attacks on Saudi Shipping Cut Red Sea Route as Middle East Crisis Deepens",
+      "summary": "Yemen's Houthi fighters have struck two Saudi vessels in the Red Sea this week and warned ships away from Saudi ports, effectively threatening the Bab El Mandeb Strait — the critical maritime link between the Red Sea and the Indian Ocean. The move cuts off Saudi Arabia's last viable oil export route after Iran's closure of the Strait of Hormuz, compounding disruptions to global energy and trade supplies.\n\nThe Houthi offensive follows 13 consecutive nights of U.S. airstrikes on Iranian military targets — including command centers, drone facilities, and coastal surveillance sites — with no ceasefire in sight. Gulf Arab states including Bahrain, Kuwait, and Jordan have absorbed Iranian drone and missile attacks throughout the month, while Saudi Arabia had largely been spared until now.\n\nSaudi Arabia had been rerouting oil exports via its overland East-West Pipeline to the Red Sea terminal at Yanbu Al-Bahr as a workaround to the Hormuz closure, but Houthi interdiction now threatens that alternative as well. Analysts warn the dual chokepoint crisis — Hormuz and now Bab El Mandeb — will rapidly cascade into broader global economic disruption, hitting energy prices, fertilizer supplies, and Asian-bound shipping lanes.\n\nPresident Trump has vowed to \"take care of the Houthis,\" but previous U.S. military pressure on the group has not produced a lasting halt to their operations. No diplomatic breakthrough has been announced, and the situation remains fluid with no resolution on the U.S.-Iran conflict that has driven the broader regional escalation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:58 AM MT",
+      "addedAtISO": "2026-07-25T07:58:25.094139-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "NATO Intern Arrested in Belgium on Espionage Charges",
+      "summary": "Belgian police arrested a NATO intern on Friday on suspicion of espionage on behalf of a third country and membership in a criminal organization. The intern, reported to be Canadian, was taken into custody in a case that raises immediate concerns about insider access to one of the world's most sensitive military alliances.\n\nNATO headquarters is based in Brussels, Belgium, and interns are granted varying levels of access to alliance operations, policy discussions, and personnel. Belgian federal authorities are leading the investigation; NATO has not publicly commented on the scope of any potential breach or the identity of the suspected third-country beneficiary.\n\nThe arrest comes at a particularly sensitive moment, with NATO allies deeply engaged in coordinating responses to the ongoing U.S.-Iran conflict and monitoring Russian activity following missile strikes on Ukraine. Any compromise of alliance information could have significant implications for operational security among member states.\n\nDetails of the charges remain limited, and no trial date has been set. The case is likely to prompt a review of vetting procedures for intern and contractor access at NATO facilities.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/canadian-intern-at-nato-arrested-on-espionage-charges-in-belgium",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:58 AM MT",
+      "addedAtISO": "2026-07-25T07:58:25.094139-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Update: India's Education Minister Resigns Following Mass Youth Protests Over Exam Scandals",
+      "summary": "Indian Education Minister Dharmendra Pradhan resigned Friday following sustained mass protests by tens of thousands of young people in New Delhi who demanded accountability for widespread exam paper leaks and testing irregularities in national competitive examinations. The resignation marks a significant political concession by the Modi government to a youth-led movement that had been growing for weeks.\n\nThe protests were organized largely under the banner of the Cockroach Janta Party (CJP), a national movement that emerged from a satirical political campaign rather than a formal party structure. Demonstrators had faced heavy police crackdowns before Pradhan's resignation prompted organizers to call off further protests.\n\nThe exam irregularities at the center of the controversy involved national-level tests that determine university admissions and government employment for millions of young Indians — a high-stakes process where fraud allegations have deep economic and social consequences for a generation facing intense competition for limited opportunities.\n\nThe Modi government had earlier attempted to defuse tensions by reaching out to protest leaders, but demonstrators had held firm on the ministerial resignation demand. Pradhan's departure represents the most concrete outcome yet of what has become one of India's most significant youth-driven political movements in recent years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cly949k3g1do",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:58 AM MT",
+      "addedAtISO": "2026-07-25T07:58:25.094139-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
       "headline": "Update: Russian Missile Strike on Kyiv Drone Exhibition Kills at Least 10, Wounds 100",
       "summary": "Russian ballistic missiles struck a drone technology exhibition near Kyiv on Friday, killing at least 10 people and wounding approximately 100 others, including prominent figures from Ukraine's defense sector. Ukrainian President Volodymyr Zelensky confirmed the attack and said the incident was under investigation, while Ukraine's prosecutor-general announced efforts to determine who authorized the public event and what safety measures had been in place.\n\nThe Ukrainian air force said three ballistic missiles were used in the strike, with only one intercepted. Russia's Defense Ministry confirmed the attack, claiming the site was used to demonstrate drones targeting civilian areas inside Russia and that personnel directly involved in planning strikes on Russian territory were present. The attack reignited debate inside Ukraine over why a defense-related exhibition was widely advertised and held without adequate security.\n\nSeparately, five people were killed by Russian glide bombs in the eastern city of Sloviansk, and two more died in Sumy early Saturday. On the Ukrainian side, strikes hit a factory in the Russian city of Kirov — which Zelensky described as a key supplier of aircraft and missile components — killing six people and wounding 26. Ukrainian drones also struck Wildberries warehouses in the St. Petersburg area for the latest in a series of attacks on Russian logistics infrastructure.\n\nZelensky warned Friday evening that Russian intelligence indicated another massive missile strike could come within 48 hours. The Kyiv exhibition attack is at least the third time since Russia's full-scale 2022 invasion that a Ukrainian defense industry gathering has been targeted, raising urgent questions about operational security.",
       "source": "BBC News",
