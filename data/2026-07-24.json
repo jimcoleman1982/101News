@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, July 24, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: Trump Weighs 'Massive Attack' on Iran as 13th Night of U.S. Strikes Concludes and GOP Hawks Push for Escalation",
+      "summary": "President Donald Trump said Friday the United States was \"locked and loaded\" for major new strikes on Iran but had not yet made a final decision, even as U.S. Central Command completed a 13th consecutive night of airstrikes targeting Iranian military command centers, drone facilities, and maritime capabilities. Iran responded with waves of attacks on U.S. bases across the region, with explosions reported near a U.S. facility in Iraq and Iranian strikes claimed against Bahrain, Jordan, and Kuwait. The five-month-old conflict, which Trump's team initially predicted would last weeks, shows no sign of resolution, with senior Arab diplomats telling NBC News the situation is \"only getting crazier.\"\n\nRepublican defense hawks are urging the president to authorize a significantly larger military campaign, while the U.S. and U.K. are planning a high-level meeting in London next week to discuss forming an international coalition to protect maritime shipping in the Strait of Hormuz — a key element of any U.S. exit strategy. Former Defense Secretary Leon Panetta warned in a CNN interview that the U.S. is in \"deep trouble,\" comparing the conflict to Vietnam. The Pentagon also came under scrutiny after its public casualty database lowered the reported number of U.S. troops killed in the war from 18 to 14, a discrepancy that prompted press challenges.\n\nOn the diplomatic front, Israeli Prime Minister Benjamin Netanyahu is expected to meet Trump at the White House on Tuesday, and Ukrainian President Volodymyr Zelenskyy is also scheduled for an early-week visit. Senate Democrats signaled readiness to vote as early as next week on a bipartisan Russia sanctions package that Trump has asked to include Iran measures. The House previously passed a nonbinding War Powers Resolution directing Trump to withdraw forces, but it lacks force of law.\n\nSupporters of the campaign argue continued military pressure is necessary to reopen the Strait of Hormuz and neutralize Iran's nuclear and maritime threat. Critics, including many Democrats and some Republicans, contend the war has grown open-ended, costly — Defense Secretary Pete Hegseth put the price at $37.5 billion — and dangerously close to broader regional conflagration, with U.S. spy agencies now assessing that Iran's new supreme leader may be more interested in building a nuclear weapon than his predecessor.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/5987536-trump-iran-republican-hawks-combat-operations/",
+      "sourceCount": 24,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-24T21:08:46.453205-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Update: European Wildfire Crisis Deepens as Over 220,000 Evacuated in France and Spain",
+      "summary": "French authorities on Friday ordered the evacuation of nearly 60,000 additional residents near Bordeaux, bringing the total number of people forced to flee wildfires across France and Spain to more than 220,000. In France, approximately 200,000 people have been displaced in the Gironde and Landes regions, and President Emmanuel Macron has mobilized the military to assist the response. French authorities had already previously evacuated tens of thousands; the new figure represents a significant escalation of the crisis.\n\nIn Spain, a wildfire near Madrid has grown beyond the capacity of firefighters to contain after three separate fires west of the capital merged into a single massive blaze. Spain's government declared a national emergency, with more than 30,000 people evacuated in the Madrid region alone and an additional 20,000 placed under lockdown. Madrid's regional president Isabel Díaz Ayuso called it \"the worst fire in the history of the region,\" citing a \"perfect storm\" of extreme heat, relentless wind, and converging fire fronts. At least 15,000 hectares have burned across the Madrid and Ávila areas.\n\nSpain's interior minister warned that authorities were doing \"everything possible\" to prevent the Madrid blaze from merging with a separate fire in neighboring Ávila province, which would dramatically expand the affected area. Emergency officials said embers were traveling miles ahead of the fire front, causing spot ignitions across a wide area. France's Military Emergency Unit has been deployed to protect communities near El Escorial.\n\nThe dual national emergencies represent one of the worst wildfire crises in modern European history, occurring amid a sustained heat wave. The scale of displacement — more than 220,000 people across two countries — marks a significant new threshold in an ongoing catastrophe that has been intensifying over the past week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-24T21:08:46.453205-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Venezuela Earthquake Death Toll Surpasses 5,300 One Month On, with Up to 50,000 Still Missing",
+      "summary": "One month after twin earthquakes struck Venezuela on June 24, government officials have confirmed a death toll surpassing 5,300, while estimates of those still missing could reach as high as 50,000. The coastal region of La Guaira, the hardest-hit area, remains lined with flattened apartment buildings as families continue to search through rubble for the remains of loved ones. The scale of the disaster has made it one of the deadliest seismic events in the Western Hemisphere in recent decades.\n\nThe BBC's Latin America correspondent, who had reported from La Guaira immediately after the quakes struck, returned to the region Friday to find recovery efforts still in early stages and families operating largely without institutional support. The vast discrepancy between the confirmed death toll and missing persons estimates suggests the final number of fatalities could be dramatically higher than official figures currently reflect. Venezuela's government, led by Nicolás Maduro, has faced longstanding international criticism over its capacity and willingness to facilitate transparent disaster response and international humanitarian aid.\n\nThe humanitarian situation in La Guaira is compounded by Venezuela's pre-existing economic crisis, which has left emergency services, hospitals, and housing stock severely under-resourced. Families described struggling to access food and basic assistance a full month after the disaster. The earthquake received significant initial coverage but the ongoing human toll — particularly the tens of thousands still unaccounted for — has drawn renewed international attention.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-24T21:08:46.453205-06:00",
+      "slot": 21
+    },
+    {
       "category": "business",
       "headline": "Update: U.S. Formally Imposes New Tariff Wave on 60 Trading Partners as Legal Justification Shifts",
       "summary": "The United States has enacted a new round of tariffs ranging from 10% to 12.5% on 60 major trading partners — covering 99.4% of all US imports — after the previous tariff regime expired Friday. The White House framed the levies as a response to inadequate action on forced labor, with US Trade Representative Jamieson Greer saying the move would 'correct what is both a human rights abuse and distortive trade practice.' The new tariff structure effectively replaces the emergency-powers tariffs that the Supreme Court struck down earlier this year as illegally enacted.\n\nTrade economists have challenged the forced labor rationale. Caroline Freund, dean of the UC San Diego School of Global Policy and Strategy, told the BBC the administration is 'looking for a legal reason to put the tariffs in,' noting that Trump and Greer have been explicit that the actual goals are reducing the trade deficit and boosting US manufacturing. The Asia Society Policy Institute's Wendy Cutler warned the tariffs would raise costs for businesses and consumers, though exempted goods may soften some impact.\n\nThe United Kingdom faces a particular disadvantage under the new structure: the EU negotiated an all-inclusive 10% rate on its goods, while the UK faces 10% universal tariffs on top of any existing sector-specific duties. The head of the British Chambers of Commerce said the UK has lost its comparative trade advantage over the EU. David Henig of the European Centre for International Political Economy cautioned that further changes from the Trump administration remain possible at any time.\n\nTrading partners are widely expected to respond by deepening trade ties with non-US partners rather than retaliating directly, Cutler said. The tariffs represent a significant escalation in the administration's trade agenda and, combined with the ongoing US-Iran war's impact on energy prices, add pressure to an already strained global economic outlook.",
