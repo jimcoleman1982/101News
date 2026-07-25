@@ -3,6 +3,48 @@
   "dateFormatted": "Saturday, July 25, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Vehicle Drives Into Crowd at Berlin Pride Event, Injuring Several",
+      "summary": "A vehicle drove into a crowd at Berlin's annual Christopher Street Day pride event on Saturday evening near Tiergarten park, injuring several people, according to Berlin police. An intensive manhunt was launched as authorities urged the public to avoid the area. Emergency services, including fire department rescue units and police, were deployed to the scene.\n\nThe annual pride parade had drawn large crowds through the city earlier in the day, with participants gathering at Tiergarten park for evening events when the incident occurred. Police confirmed the vehicle entered the park area and struck multiple people; the exact number of injured had not been released. The full Christopher Street Day event was cancelled following the attack.\n\nThe incident follows a pattern of vehicle-ramming attacks at public gatherings across Europe in recent years. Authorities had not publicly identified a suspect or confirmed a motive as of initial reports, with the investigation described as active and ongoing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "4:05 PM MT",
+      "addedAtISO": "2026-07-25T16:05:30.788198-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Democrats Select Troy Jackson to Challenge Susan Collins in Maine Senate Race",
+      "summary": "Maine Democrats selected former state Senate President Troy Jackson as their nominee to challenge Republican Sen. Susan Collins this November, following the abrupt exit of previous candidate Graham Platner. Jackson won the nomination decisively at a special convention in Bangor on Saturday, receiving 566 votes. The race is considered one of the most consequential Senate contests of the cycle, with Democrats needing a Collins defeat as a key step toward recapturing the chamber.\n\nJackson's selection represents a victory for the progressive wing of the Democratic Party, which backed the former labor-aligned state lawmaker over more moderate alternatives. Democrats now have roughly 100 days to build a campaign infrastructure and fundraising base largely from scratch following Platner's departure. Collins is a veteran incumbent known for her moderate positioning, making Maine a competitive but difficult pickup for Democrats.\n\nThe decision to go with a progressive candidate in a swing state reflects ongoing tension within the Democratic Party over whether to contest competitive seats with centrist or left-leaning nominees. Republicans are likely to frame Jackson's record as too far left for Maine voters, while Democrats argue his working-class appeal and name recognition from his years in the state Senate give him a genuine path to victory.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/25/maine-troy-jackson-susan-collins-platner",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:05 PM MT",
+      "addedAtISO": "2026-07-25T16:05:30.788198-06:00",
+      "slot": 18
+    },
+    {
+      "category": "science_health",
+      "headline": "Fourth Firefighter Dies from Burns Sustained in Colorado's Knowles Wildfire",
+      "summary": "Nathan Matthews, 43, of Lincoln, Nebraska, died Friday from burn injuries he sustained battling Colorado's Knowles wildfire, the U.S. Department of the Interior confirmed. Matthews becomes the fourth firefighter to die from the blaze, which ignited near Knowles Canyon in Mesa County before merging with the Utah-originating Snyder Fire and burning more than 28,000 acres along the Colorado-Utah border.\n\nThree other firefighters — Emily Barker, 38, Nick Hutcherson, 27, and Sydney Watson, 27 — died at the scene during a burnover event in late June, when fast-moving flames and gusty winds cut off their escape routes. Matthews had been receiving medical care for his burns in the weeks since. A fifth firefighter who was also caught in the burnover has not been publicly identified.\n\n\"We mourn the loss of Nate while continuing to grieve the deaths of Emily, Nick and Sydney,\" said U.S. Wildland Fire Service Chief Brian Fennessy. The deaths underscore the dangers faced by wildland firefighters as large, fast-moving fires continue to challenge containment efforts across the American West.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/nathan-matthews-dies-knowles-wildfire-colorado/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:05 PM MT",
+      "addedAtISO": "2026-07-25T16:05:30.788198-06:00",
+      "slot": 18
+    },
+    {
       "category": "technology",
       "headline": "Trump's Crypto Windfall Becomes Major Obstacle to Digital Asset Legislation",
       "summary": "President Donald Trump's roughly $1.4 billion in personal cryptocurrency holdings have emerged as the central obstacle to passing his administration's sweeping digital-asset regulatory bill, according to Bloomberg. Democrats are demanding significantly stronger anti-corruption language to prevent the president from personally profiting from an industry his own administration is tasked with overseeing, creating a standoff that threatens to stall the legislation.\n\nThe conflict highlights a fundamental tension in the administration's crypto agenda: Trump has been among the most crypto-friendly presidents in U.S. history, removing regulatory barriers and promoting digital assets, while simultaneously holding a personal financial stake of unprecedented scale in the very sector being regulated. Critics across the aisle argue the arrangement represents a direct conflict of interest that undermines the credibility of any framework his administration produces.\n\nSupporters of the legislation argue that clearer rules for digital assets are long overdue and that blocking the bill over the president's personal finances would deprive the industry — and consumers — of badly needed regulatory certainty. The standoff reflects broader Democratic strategy of tying legislative progress to ethics and conflict-of-interest provisions.\n\nThe outcome of the impasse will have significant implications for the roughly 50 million Americans who hold cryptocurrency as well as for the global competitive positioning of U.S. digital asset markets. Congressional negotiators are under pressure to find compromise language before the legislative calendar tightens ahead of the November midterm elections.",
