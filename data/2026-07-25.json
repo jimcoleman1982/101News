@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "ICC Votes to Remove Chief Prosecutor Karim Khan Over Sexual Misconduct",
+      "summary": "The 125 member states of the International Criminal Court voted Saturday to dismiss chief prosecutor Karim Khan, with 82 votes in favor of removal, following findings that he committed a \"serious breach of duty\" by engaging in an improper sexual relationship with a junior staff member and attempting to suppress her complaint. Khan, a prominent British lawyer elected ICC prosecutor in 2021, has been on voluntary leave since May 2025 and has repeatedly denied all allegations. His lawyer said he would challenge the dismissal \"through all available legal mechanisms.\"\n\nThe removal follows a prolonged and contentious process that exposed deep divisions within the world's only permanent war-crimes tribunal. A first investigation was closed after the alleged victim declined to participate, drawing criticism that the case was mishandled. A second referral led to a broader United Nations inquiry, ultimately resulting in today's historic vote held at UN headquarters in New York — a venue necessitated by the fact that Khan is barred from entering the United States under Trump administration sanctions tied to the ICC's investigation of alleged Israeli war crimes in Gaza.\n\nSupport ers of the ICC fear the institution will emerge from the controversy weakened at a moment when it already faces an unprecedented campaign to undermine it. Critics of the removal process contend it was itself politicized. Khan's ouster leaves a leadership vacuum at a court tasked with prosecuting the gravest international crimes, and the assembly of member states will now need to select a replacement prosecutor.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-25T21:08:22.839392-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Orders Warning Signs Posted at Smithsonian Over 'Inaccurate' U.S. History Exhibits",
+      "summary": "President Trump signed an executive order Friday directing the Department of Interior to post warning signs outside the Smithsonian National Museum of American History, cautioning visitors about exhibits his administration views as historically inaccurate and politically biased. Titled \"Restoring Trust in the Smithsonian Institution,\" the order accuses museum leadership of failing to adequately celebrate America's founders during the nation's 250th anniversary and of treating American history as a tool to advance \"social justice and the radical transformation of our society.\" An accompanying White House statement accused the museum of embracing ideology \"rooted in Marxism.\"\n\nThe order follows congressional hearings last week in which Republican lawmakers accused the Smithsonian of being \"infected by a woke ideology\" reflected in its public displays and educational materials. The White House Domestic Policy Council also released a report earlier this month claiming the museum \"erases our heritage.\" The Smithsonian, funded largely by the federal government and visited by 15 to 30 million people annually across its 21 museums, did not immediately respond to requests for comment.\n\nDemocrats swiftly condemned the order. Rep. Melanie Stansbury, ranking member of the House Administration Committee, called it \"a clear political overreach, driven by an ideological agenda to rewrite American history,\" arguing the Smithsonian belongs to the American people, not the president. The action is the second executive order Trump has issued against the Smithsonian; in March he directed the institution to \"eliminate improper, divisive, or anti-American ideology\" from its operations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1w10gwnj74o",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-25T21:08:22.839392-06:00",
+      "slot": 21
+    },
+    {
+      "category": "business",
+      "headline": "Trump Threatens New Tariffs on EU Over Fines Against U.S. Tech Giants",
+      "summary": "President Trump on Saturday threatened a fresh round of tariffs against the European Union and announced the U.S. would launch a Section 301 trade investigation into European regulators' practices of fining major American technology companies. The announcement came days after the European Commission fined Google €890 million ($1 billion) for anti-competitive practices. Trump demanded that fines against Google, Apple, Meta, and Amazon be \"entirely reversed\" and warned the EU would pay \"a very big price.\"\n\nThe threat escalates an already tense transatlantic trade relationship. Trump had announced new tariffs of 10 to 12.5 percent on 60 trading partners including the EU just one day earlier, and last month threatened a 100 percent tariff on any European country that introduces a digital services tax on American tech firms. A Section 301 investigation gives the U.S. Trade Representative broad authority to respond to foreign trade practices deemed unfair, a mechanism the Trump administration has used repeatedly since taking office.\n\nGoogle said it had \"worked hard to comply\" with Europe's Digital Markets Act but expressed concerns about recent EU decisions, adding that it appreciated engagement from the U.S. government. The European Commission and representatives of Meta, Apple, and Amazon did not immediately comment. Critics note that major tech companies donated millions to funds connected to Trump's campaign and presidency, raising questions about the administration's motivations, while supporters argue the EU has systematically targeted profitable American firms for regulatory revenue.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-25T21:08:22.839392-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
       "headline": "Vehicle Drives Into Crowd at Berlin Pride Event, Injuring Several",
       "summary": "A vehicle drove into a crowd at Berlin's annual Christopher Street Day pride event on Saturday evening near Tiergarten park, injuring several people, according to Berlin police. An intensive manhunt was launched as authorities urged the public to avoid the area. Emergency services, including fire department rescue units and police, were deployed to the scene.\n\nThe annual pride parade had drawn large crowds through the city earlier in the day, with participants gathering at Tiergarten park for evening events when the incident occurred. Police confirmed the vehicle entered the park area and struck multiple people; the exact number of injured had not been released. The full Christopher Street Day event was cancelled following the attack.\n\nThe incident follows a pattern of vehicle-ramming attacks at public gatherings across Europe in recent years. Authorities had not publicly identified a suspect or confirmed a motive as of initial reports, with the investigation described as active and ongoing.",
       "source": "BBC News",
