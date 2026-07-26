@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "UK's Burnham Shares 'Stone Cloak' Drone-Jamming Technology With Ukraine in First Meeting With Zelensky",
+      "summary": "New UK Prime Minister Andy Burnham pledged continued \"unwavering\" support for Ukraine on Sunday during his first meeting with President Volodymyr Zelensky, who became Burnham's first international visitor since he took office one week ago. The two leaders visited a naval base where Burnham announced that the UK would share the intellectual property behind its \"Stone Cloak\" electronic warfare system, enabling Ukraine to manufacture the technology at scale.\n\nThe Stone Cloak devices are tablet-sized electronic jammers designed to prevent drones from being detected. Thousands have already been provided to Ukrainian forces; the shared IP will allow Ukraine to produce them domestically. Downing Street said the technology will also be integrated into the UK's next generation of long-range weapons, including Project Brakestop, a program to develop low-cost cruise missiles.\n\nThe two leaders also met with more than 200 Ukrainian military personnel completing a three-week maritime exercise in the UK focused on warfighting capabilities and Black Sea counter-mine measures. The UK has committed £25 billion in total support to Ukraine since Russia's invasion four years ago. Burnham's predecessor Keir Starmer had visited Kyiv on his final day as prime minister and announced an additional £255 million in funding.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:09 PM MT",
+      "addedAtISO": "2026-07-26T16:09:22.529048-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Rand Paul Releases Fauci's Personal COVID Diaries Ahead of Senate Testimony",
+      "summary": "Senate Homeland Security Committee Chairman Rand Paul released personal diary entries kept by former White House COVID adviser Dr. Anthony Fauci, making them public as part of the committee's ongoing oversight investigation. The release comes days before Fauci is scheduled to testify before the committee after being subpoenaed by Paul, who has long been one of Fauci's most prominent critics over the federal pandemic response and the origins of COVID-19.\n\nThe diaries, chronicling Fauci's day-to-day role during the pandemic, reveal a recurring focus on his own public profile. On May 21, 2020, after recording nearly 98,000 global deaths and more than 27,000 U.S. deaths, Fauci wrote that his \"national and international fame is explosive and really unimaginable\" and that it was \"not hyperbole\" to say he was \"the most famous and talked about person in the country.\" He also wrote that President Trump \"seems to be enamored of me even though I am taking the spotlight away from him.\"\n\nSupporters of Paul's investigation argue the diaries raise legitimate questions about Fauci's priorities and judgment during a crisis that claimed more than 1.2 million American lives. Fauci's defenders have previously characterized congressional investigations into his conduct as politically motivated, and Fauci has consistently denied wrongdoing regarding pandemic-era decisions, including those related to gain-of-function research funding. The upcoming Senate testimony is expected to be a high-profile confrontation.",
+      "source": "Fox News Politics",
+      "url": "https://www.foxnews.com/politics/fauci-newly-released-covid-diaries-reveal-bizarre-fixation-fame-pandemic-deaths-mounted",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:09 PM MT",
+      "addedAtISO": "2026-07-26T16:09:22.529048-06:00",
+      "slot": 18
+    },
+    {
+      "category": "technology",
+      "headline": "China Launches Multi-Trillion-Dollar 'Six Networks' AI Infrastructure Program",
+      "summary": "China is embarking on a sweeping, multi-trillion-dollar infrastructure initiative known as the Six Networks program, aimed at building the foundational systems needed to dominate artificial intelligence in the decades ahead. The effort comes as competition with the United States for technological supremacy intensifies across semiconductor manufacturing, large language models, and AI-driven industrial applications.\n\nThe program reflects Beijing's strategic view that long-term AI leadership depends on infrastructure — including data networks, computing capacity, and connectivity systems — rather than model development alone. Chinese officials and planners expect the global economy to be fundamentally reshaped by AI, and the Six Networks initiative is designed to position China as the primary infrastructure provider for that transition.\n\nThe scale of the investment underscores the degree to which AI has become a central front in U.S.-China rivalry, with both governments treating technological leadership as a matter of national security. Washington has moved to restrict China's access to advanced semiconductors, while Beijing has responded by accelerating domestic alternatives and now this broad infrastructure buildout.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/how-china-plans-to-supercharge-its-ai-ambitions-with-six-networks-program",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:09 PM MT",
+      "addedAtISO": "2026-07-26T16:09:22.529048-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
       "headline": "Update: CENTCOM Commander Advised Halting Hormuz Bombing as U.S. Pauses Iran Strikes",
       "summary": "The top U.S. military commander in the Middle East, Adm. Brad Cooper of CENTCOM, recommended stopping the bombing campaign around the Strait of Hormuz, advising that it had reached the limit of its effectiveness, according to two sources with direct knowledge of his position. His recommendation, along with input from other advisers, was a significant factor in President Trump's decision Friday to pause U.S. airstrikes against Iran. Four U.S. soldiers were killed in the region last week as the conflict escalated, and Trump and Defense Secretary Pete Hegseth attended a dignified transfer ceremony Wednesday.\n\nThe new reporting provides the clearest inside account yet of the military deliberations behind the pause in strikes, adding a concrete new development to a fast-moving situation. The U.S. military separately reported firing on a merchant vessel attempting to breach its blockade of Iranian ports — the second commercial ship disabled since the blockade was reimposed in the Strait of Hormuz.\n\nMeanwhile, Yemen's Iran-backed Houthi rebels said they fired missiles and drones at Saudi Arabia in response to Saudi airstrikes on the Red Sea port city of Hodeida, targeting Aramco facilities in Yanbu and Jizan. Saudi Arabia's civil defense confirmed alerts sounded in both cities but offered no further comment. The Houthis have threatened to close the Bab el-Mandeb Strait to Saudi-linked shipping entirely unless the blockade on Yemen is lifted.\n\nThe Bab el-Mandeb, at the southern tip of the Arabian Peninsula, handles roughly 12 percent of global trade and a quarter of container traffic. Iran's foreign minister called for diplomacy, while President Trump said the U.S. remains \"locked and loaded\" even as he described ongoing negotiations as \"serious.\"",
       "source": "Axios",
