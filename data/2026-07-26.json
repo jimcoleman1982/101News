@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-26",
+  "dateFormatted": "Sunday, July 26, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Berlin Pride Attacker Identified as Islamist-Linked Suspect; Manhunt Underway After One Killed, 16 Injured",
+      "summary": "A vehicle was driven into crowds attending Berlin's Christopher Street Day Pride event late Saturday night, killing one woman and injuring 16 others. The attack occurred at approximately 10 p.m. local time in Tiergarten park, near the Brandenburg Gate, where hundreds of thousands had gathered for the annual celebration. Several victims were also stabbed during the incident, and the Pride event was cancelled immediately afterward.\n\nBerlin police identified the suspect as 21-year-old Abdul B., whose surname is withheld under German law. By early Sunday morning, authorities had located the vehicle used in the attack — found crashed into a tree — and identified the suspect as having connections to Islamist circles. A city-wide manhunt involving thousands of officers, including reinforcements from surrounding German states, is ongoing. Police warned the public not to approach the suspect, who is believed to be armed and dangerous.\n\nAuthorities said one or more additional individuals may have fled the vehicle, raising the possibility of multiple suspects. Police released an image of Abdul B. and called on the public for information. The attack is the latest in a series of vehicle-ramming incidents at public gatherings in Europe and is likely to intensify political debates in Germany over Islamist radicalization and security at large public events.\n\nThis is a developing story. A previous item covered earlier reports of injuries at the Berlin Pride event; the new developments include the confirmed fatality, the suspect's identification, the Islamist link, and the active manhunt.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-26T05:08:25.484357-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Federal Appeals Court Blocks Trump Mail-In Voting Order Ahead of Midterms",
+      "summary": "The U.S. Court of Appeals for the First Circuit on Saturday declined to lift a lower-court injunction blocking key provisions of President Trump's executive order on mail-in voting, leaving the restrictions unenforceable in 23 states ahead of November's midterm elections. The ruling upholds a June decision by a Boston federal judge who found parts of the order unlawful. The Justice Department had signaled it may seek emergency relief from the Supreme Court if it did not prevail at the appellate level.\n\nThe executive order had sought to impose stricter requirements on mail-in ballots, a change the administration framed as necessary to safeguard election integrity ahead of midterms in which control of both chambers of Congress is at stake. Critics, including the Democratic-led states that secured the original injunction, argued the order exceeded presidential authority and would disenfranchise millions of voters who rely on mail-in balloting.\n\nThe ruling sets up a potential Supreme Court showdown with the midterms approaching. Supporters of the order, primarily Republicans, argue that tightening mail-in rules reduces fraud and restores public confidence in elections. Opponents, largely Democrats, contend the restrictions are a form of voter suppression with no documented fraud problem to justify them.\n\nThe case is one of several legal battles shaping the electoral landscape heading into November, with both parties watching closely for any Supreme Court intervention that could alter voting procedures across the country.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us-appeals-court-rules-trump-cannot-implement-mail-in-voting-order-2026-07-25/",
+      "sourceCount": 18,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-26T05:08:25.484357-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Hawaii Lt. Governor Sylvia Luke Indicted on 12-Count Bribery Charge",
+      "summary": "Hawaii Lieutenant Governor Sylvia Luke, a Democrat, was indicted Friday on 12 counts of bribery following a monthslong state investigation into a campaign finance scandal. A Hawaii grand jury alleged that Luke accepted campaign contributions in 2022, while she was still a state lawmaker, in exchange for securing government funding for COVID-19 testing sites. The alleged bribe totaled approximately $35,000 tied to a COVID-19 testing contract.\n\nGovernor Josh Green publicly called for Luke's resignation following the indictment. The charges represent a significant legal and political crisis for Hawaii's Democratic-led state government. Luke has not yet entered a public plea in response to the indictment.\n\nThe case adds to a broader national pattern of public corruption investigations at the state level and is notable given Luke's prominence as a top elected official in Hawaii. It may also create political complications for the state Democratic Party ahead of the November elections.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/5990691-hawaii-sylvia-luke-indicted-bribery/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-26T05:08:25.484357-06:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "Markets Post Second Straight Losing Week as Iran War, Tariffs, and Inflation Weigh on Investors",
+      "summary": "U.S. stock markets finished mixed Friday but logged a second consecutive losing week — the first back-to-back weekly decline since March — as the escalating U.S.-Iran war, fresh tariffs on 60 trading partners, and persistent inflation dampened investor confidence. The S&P 500 barely moved on Friday, while the Nasdaq fell 0.6%, dragged down by losses in large technology stocks including Micron Technology, which dropped 7%, and Broadcom, which fell 2.7%.\n\nOil prices fell for the first time in a week, with Brent crude dropping 3.9% to $96.78 per barrel after briefly surpassing $100 on Thursday. Before the Iran war began in late February, Brent was trading around $72. Heavy fighting in the Middle East has repeatedly threatened global oil flows, and analysts warn that energy markets now have less resilience than earlier in the year, with U.S. strategic reserves already drawn down.\n\nThe Federal Reserve is set to meet next week amid rising concern that new tariffs and elevated energy prices could reignite inflation, complicating the central bank's path on interest rates. Wall Street had hoped for a rate cut this year; expectations have since shifted toward a potential rate increase. The combination of geopolitical uncertainty, trade policy disruption, and inflationary pressure is creating a challenging environment for markets and the broader economy heading into the second half of 2026.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/stocks-markets-tariffs-oil-trump-ai-0b9c3b2aa5ca83eb391c1388efe03c97",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-26T05:08:25.484357-06:00",
+      "slot": 5
+    }
+  ]
+}
