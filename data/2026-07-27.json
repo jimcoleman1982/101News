@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, July 27, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: Pentagon Removes Four Recently Killed U.S. Troops From Iran War Death Toll, Raises Accountability Questions",
+      "summary": "The Pentagon's official Defense Casualty Analysis System quietly removed four U.S. soldiers killed in recent weeks from its Iran war death toll, placing them instead in a new category called \"Overseas Operations.\" The change was noticed after the soldiers were honored at a dignified transfer ceremony at Dover Air Force Base on July 22, attended by President Trump and Defense Secretary Pete Hegseth. As recently as Tuesday, the official tally listed 18 killed and 482 wounded in the Iran conflict; the new category lists the four deaths by name alongside 207 wounded, though it is unclear whether all wounded listed were injured in Iran.\n\nPentagon press secretary Joel Valdez disputed that the reclassification was an attempt to minimize the human cost of the war, attributing the shift to \"anomalies\" and \"temporary data disruptions\" that would be resolved \"imminently.\" Critics and members of Congress have questioned whether the accounting change obscures the true toll of U.S. casualties as the Trump administration escalates strikes aimed at reopening the Strait of Hormuz. The four deaths include three soldiers killed July 17 at a base in Jordan struck by Iranian ballistic missiles and drones, and one killed July 18 in Iraq during a controlled detonation of an Iranian drone.\n\nThe episode has added to broader concerns about transparency in a conflict that polls show is unpopular with many Americans. The Pentagon's announcement of two of the Jordan deaths described the soldiers as supporting the U.S. counter-ISIS mission rather than the Iran campaign, further muddying the official record. U.S. Central Command referred questions to the Pentagon, which did not immediately respond to requests for comment.\n\nThe story is being followed by 21 major outlets across the political spectrum and represents a concrete new development — the reclassification itself and the Pentagon's public response — on the ongoing Iran war coverage.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-war-casualty-count-pentagon-us-troops-4c578fc74746052627b1c87845fdc0d5",
+      "sourceCount": 21,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:15 PM MT",
+      "addedAtISO": "2026-07-27T16:15:44.309438-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Second Shooting at U.S. Consulate in Toronto This Year Renews National Security Concerns",
+      "summary": "A gunshot was fired at the U.S. consulate in Toronto early Monday morning, marking the second such attack on the facility in 2026. An officer stationed outside the building heard the shot at approximately 4:45 a.m. local time and observed a white car with no license plate fleeing the scene. Police briefly pursued the vehicle in a high-speed chase before calling it off over public safety concerns. No injuries were reported and one shell casing was recovered at the scene, along with damage to the building's facade.\n\nThe attack follows a March 2026 shooting at the same location that Toronto police described as a \"national security incident.\" Three people were arrested in connection with that earlier attack, which investigators linked to a broader gun-for-hire network also suspected in shootings at Jewish-owned businesses in the city. A Toronto police officer, Const. Marc Pinizzotto, was killed during related enforcement raids in June. In May, U.S. authorities separately arrested an Iraqi national charged with plotting attacks on Jewish institutions and U.S. interests in North America and Europe, including the Toronto consulate.\n\nRoyal Canadian Mounted Police Superintendent Jonathan Ko called Monday's incident \"another troubling incident,\" while Toronto Mayor Olivia Chow described it as \"brazen.\" Police said there is currently no confirmed link between this shooting and the recent attacks on Jewish-owned bakeries in the city, though they did not rule one out. Toronto Deputy Chief Frank Barredo said the consulate building is \"very heavily fortified\" and that at least two people inside likely did not hear the shot.\n\nThe incident comes amid already-strained U.S.-Canada relations and raises fresh questions about coordinated threats to American diplomatic facilities in Canada. Investigators from the RCMP and international law enforcement partners are assisting in the probe.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:15 PM MT",
+      "addedAtISO": "2026-07-27T16:15:44.309438-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "ICE Extends $776 Million No-Bid Contract for Texas Detention Facility Amid Documented Abuse Allegations",
+      "summary": "U.S. Immigration and Customs Enforcement has announced plans to extend the no-bid contract for Camp East Montana, a large immigration detention facility at Fort Bliss near El Paso, Texas, through September 2027 at an additional potential cost of $776 million. The facility is operated by Amentum Services Inc., which took over in March under a $452 million initial contract after the previous contractor was removed for poor performance. ICE justified bypassing competitive bidding by arguing that relocating more than 2,000 detained individuals would be \"impracticable\" and that a contractor transition would create duplicative costs and security gaps.\n\nThe contract extension comes despite an earlier-this-month report by Human Rights Watch and the American Civil Liberties Union alleging that staff at Camp East Montana routinely beat detainees, denied medical care, and provided inedible food under filthy conditions. At least three detainees have died at the facility since it opened in August 2025. Federal agency reviews have also cited unsafe detention conditions and found that the Army and ICE wasted millions on unnecessary services.\n\nDemocratic members of Congress and advocacy groups have called for the facility's closure for months. Human Rights Watch fellow Angélica César called the contract extension \"reckless\" and said it demonstrated \"the Trump administration's full-scale assault on human rights.\" ICE and the Department of Homeland Security did not immediately respond to requests for comment; Amentum also declined to comment and referred questions to the agencies.\n\nThe Trump administration has defended its immigration detention expansion as necessary to enforce immigration law. Supporters argue that detaining individuals who entered the country illegally or committed crimes is required under statutes including the Laken Riley Act, signed in January 2025. Critics contend that the no-bid process, the scale of spending, and documented abuse allegations demand congressional oversight and accountability.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/ice-extends-no-bid-contract-for-major-detention-center-in-texas-rejecting-calls-for-closure",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:15 PM MT",
+      "addedAtISO": "2026-07-27T16:15:44.309438-06:00",
+      "slot": 18
+    },
+    {
       "category": "other",
       "headline": "Bryan Kohberger Declares Intent to Withdraw Guilty Plea in Idaho College Murders",
       "summary": "Bryan Kohberger, who pleaded guilty last July to murdering four University of Idaho students in November 2022, has declared his intention to withdraw that plea and seek a new trial. In a message shared with the New York Times, Kohberger claimed he was misled into accepting a \"broken\" plea deal built on \"false promises and blatant disinformation\" and insisted on his innocence. As part of his original plea, he received four consecutive life sentences and avoided the death penalty.\n\nKohberger's move is a significant legal development: if a court allows the plea withdrawal, prosecutors could choose to pursue the death penalty, which was explicitly waived under the original agreement. Under Idaho law, Kohberger has until early September to file for post-conviction relief. He waived his right to a direct appeal as part of the plea deal, so the legal path forward is complex.\n\nThe case drew intense national attention after the November 2022 stabbing deaths of Kaylee Goncalves, Madison Mogen, Xana Kernodle, and Ethan Chapin at an off-campus house in Moscow, Idaho. Kohberger, a criminology graduate student, was arrested about six weeks after the killings. His guilty plea last year was seen as closing a case that never went to full trial.\n\nThe reversal is a remarkable turn that could reopen one of the most high-profile murder cases in recent American history. Legal observers note that courts generally set a high bar for withdrawing guilty pleas, particularly when the defendant admitted guilt multiple times on the record during the plea hearing, as Kohberger did.",
