@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-27",
+  "dateFormatted": "Monday, July 27, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: European Wildfire Crisis Deepens as 220,000 Evacuated Near Bordeaux",
+      "summary": "A catastrophic wildfire in France's Gironde region forced an additional 55,000 people from their homes overnight Sunday, bringing the regional evacuation total to 220,000 as flames advanced toward the city of Bordeaux. The blaze has consumed approximately 42,000 hectares — an area four times the size of Paris — since igniting midweek, with authorities describing the fire as generating its own winds and behaving unpredictably.\n\nFrench Interior Minister Laurent Nunez described another \"difficult night\" for crews battling the blaze, noting it had become \"extremely virulent\" before calming by dawn. Some 2,500 firefighters, 18 aircraft, soldiers, and resources from other European nations are deployed. At least 75 firefighters have been treated for injuries, and hundreds of homes have been destroyed.\n\nNeighboring Spain is also managing wildfire evacuations along its eastern coast. Pope Leo XIV referenced the disasters at his Sunday Angelus prayer, expressing solidarity with those affected. The fires are fueled by successive heat waves that have left forests and scrubland tinder-dry across the region.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/firefighters-race-to-control-massive-blazes-approaching-major-cities-in-france-and-spain",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-27T05:08:07.754500-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Argentina-Brazil Diplomatic Crisis Erupts After Milei Calls Lula 'Thief' and 'Convict' at Rally",
+      "summary": "Brazil recalled its ambassador to Argentina on Sunday after Argentine President Javier Milei appeared at a campaign rally in São Paulo and publicly referred to Brazilian President Luiz Inácio Lula da Silva as \"the thief\" and \"the convict,\" alluding to Lula's imprisonment before his corruption convictions were annulled. Milei was in Brazil to support Flávio Bolsonaro, son of jailed former president Jair Bolsonaro, who is running against Lula in October's presidential election.\n\nMilei also called Brazilian Supreme Court Justice Alexandre de Moraes — who presided over Jair Bolsonaro's trial — \"bald trash,\" without naming him directly. Brazilian diplomats condemned the remarks, with one source telling AFP that Milei had \"insulted two branches of government, the Brazilian people and Brazilian democracy.\" President Lula, without naming Milei directly, told supporters that \"in Brazil, we do not accept anyone sticking their nose where it doesn't belong.\"\n\nThe dispute marks a serious deterioration in relations between the two countries, which are each other's largest trading partners. Milei is a close political ally of the Bolsonaro family and has a track record of confrontational rhetoric toward left-wing governments in Latin America. Brazil's October presidential election is expected to be highly competitive, with Lula leading polls but over 10 percent of voters still undecided.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx91vdedno",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-27T05:08:07.754500-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Typhoon Noul Makes Landfall in Southern China, Cancels Hundreds of Hong Kong Flights",
+      "summary": "Typhoon Noul, described by Chinese state media as the strongest typhoon to make landfall in China so far in 2026, struck southern China on Sunday morning, bringing powerful winds and heavy rain across the region. Hong Kong's airport cancelled approximately 360 passenger flights as the storm passed, and police responded to numerous calls after multi-storey scaffolding collapsed along a major road in the Cheung Sha Wan district. No injuries from the scaffolding collapse were immediately reported.\n\nThe storm's landfall disrupted transport and infrastructure across the region. Typhoon Noul is the most significant storm system to hit the Chinese mainland this year, according to official Chinese media, underscoring the intensity of the 2026 typhoon season as it enters its peak months.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-27T05:08:07.754500-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Australian Court Upholds Racial Discrimination Ruling Against Senator Pauline Hanson",
+      "summary": "Australia's Federal Court has upheld a 2024 ruling that One Nation party leader Pauline Hanson racially discriminated against Greens Senator Mehreen Faruqi in a 2022 social media post in which she told the Muslim senator to \"go back\" to Pakistan. Justice Melissa Perry dismissed Hanson's appeal on Monday, rejecting her argument that the post constituted protected political communication. The original ruling found the post was \"a variant of the slogan 'go back to where you came from,'\" a phrase deemed a racist trope targeting Muslims.\n\nFaruqi, who brought the case under Australia's Racial Discrimination Act, said outside court that \"today's win is for every single person who has been made to feel that their belonging in this country is conditional.\" The original judgment ordered Hanson to delete the tweet and pay Faruqi's legal costs. Hanson said she was \"disappointed\" and would review the decision with her legal team \"with a view to commencing an appeal in the High Court of Australia.\"\n\nThe case has drawn significant attention given Hanson's long history of controversial statements about Muslim immigration, including past advocacy for a \"Muslim ban.\" The ruling tests the boundaries between political speech and racial vilification under Australian law, a question with broad implications for public discourse in the country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k5v9202wo",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-27T05:08:07.754500-06:00",
+      "slot": 5
+    }
+  ]
+}
