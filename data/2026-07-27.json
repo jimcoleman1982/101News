@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, July 27, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: France Says Bordeaux-Area Wildfire Has Stopped Growing as Heat Wave Looms",
+      "summary": "French Interior Minister Laurent Nunez announced Monday that the massive wildfire in the Gironde region around Bordeaux has stopped spreading overnight, offering the first sign of hope after days of uncontrolled burning. The blaze, which has scorched an area four times the size of Paris and forced 220,000 people to evacuate, remains active and uncontained, but officials described the overnight situation as \"globally stable.\"\n\nFrench President Emmanuel Macron held a crisis meeting Monday focused on the Gironde fire and other blazes burning across southwestern France. Thousands of firefighters and water-dropping aircraft are racing to establish containment lines before an expected heat wave pushes temperatures above 35°C (95°F) on Tuesday and likely higher on Wednesday, conditions that could reignite progress.\n\nAuthorities continued to urge tourists and visitors to stay away from the region, banning holiday camps and blocking access to popular Atlantic beaches and forests. No new evacuations were ordered overnight, but officials cautioned the battle is far from over. \"As long as the fire isn't contained, the situation remains unfavorable,\" Nunez said.\n\nThe new development today is the first official confirmation that the fire's perimeter has stabilized — a material change from previous days when the blaze was actively advancing toward Bordeaux's outskirts. The coming heat wave represents the critical variable that could reverse that progress within 48 hours.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/france-says-enormous-wildfire-that-forced-220000-people-to-flee-has-stopped-growing",
+      "sourceCount": 7,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:26 AM MT",
+      "addedAtISO": "2026-07-27T10:26:17.750411-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Update: Berlin Pride Attacker Had Tried to Join ISIS in 2025, Was Released on Probation Months Before Attack",
+      "summary": "New details emerging Monday reveal that Abdul Ballout, the 21-year-old German citizen of Lebanese descent who killed one person and wounded 29 others by ramming a van into a Berlin LGBT pride event, had a documented history of Islamist radicalization. German and Lebanese authorities had arrested him in 2025 after he traveled to Lebanon attempting to cross into Syria to join ISIS, and he was sentenced by a German juvenile court to one year and ten months in prison — a sentence that resulted in his release on probation just months before Sunday's attack.\n\nBallout had posted ISIS propaganda on social media as early as 2024. A Berlin juvenile court sentenced him in May 2026, crediting nine months of pretrial detention and accepting arguments that he had distanced himself from the group — even as the court simultaneously noted he continued showing interest in ISIS publications after his release from a Lebanese prison. Police shot and killed Ballout on Sunday after tracking him down following the attack.\n\nThe Berlin Criminal Court spokeswoman defended the sentencing as appropriate, but revelations about his prior record have triggered widespread public criticism and reopened debate in Germany about juvenile sentencing laws, which allow defendants aged 18 to nearly 21 to be tried as juveniles based on developmental assessments. Critics argue the system enabled a known terrorism risk to remain free.\n\nThe case has intensified political debate across Europe about the handling of radicalized individuals within the justice system. Authorities had classified Ballout as a known threat, yet he remained at liberty long enough to carry out a mass casualty attack at a high-profile public event.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/world/4664034/berlin-attacker-previously-released-probation-trying-join-isis-2025/",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:26 AM MT",
+      "addedAtISO": "2026-07-27T10:26:17.750411-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "Comey Files Motion to Dismiss 'Seashell' Threat Case, Citing First Amendment",
+      "summary": "Former FBI Director James Comey filed a motion Monday in the Eastern District of North Carolina asking a federal court to dismiss criminal charges stemming from an Instagram post in which he photographed seashells arranged to spell \"86 47\" — a phrase interpreted by prosecutors as a threat against President Trump's life. Comey's attorneys argue the post does not constitute a \"true threat\" as defined by First Amendment law and that it is protected speech.\n\nComey was indicted after posting the image, which critics of the prosecution argued was an ambiguous arrangement of beach objects that most reasonable observers would not interpret as a genuine call for violence. Prosecutors charged him under federal statutes prohibiting threats against the president. The case has drawn significant attention as an example of the Trump administration using federal law enforcement against a prominent political adversary.\n\nThe motion argues that the government cannot meet the legal standard established by the Supreme Court for prosecuting threatening speech, which requires proof that the speaker subjectively intended the statement as a threat. Comey's legal team contends the post lacked any such intent and that criminalizing it would chill constitutionally protected political expression.\n\nSupporters of Comey, including many civil liberties advocates, have called the prosecution politically motivated. The Trump administration and its supporters counter that public figures cannot hide behind ambiguity when posting content widely understood as referencing violence against the president. The court has not yet ruled on the dismissal motion.",
+      "source": "The Hill",
+      "url": "https://thehill.com/regulation/court-battles/5992177-comey-trump-seashell-case-threat/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:26 AM MT",
+      "addedAtISO": "2026-07-27T10:26:17.750411-06:00",
+      "slot": 11
+    },
+    {
       "category": "other",
       "headline": "Three Dead, Including 2-Year-Old Among Injured, in Mass Shooting at Seattle Center Festival",
       "summary": "A mass shooting erupted Sunday evening at Seattle Center during the Bite of Seattle food festival, leaving three people dead and at least five others injured, including a 2-year-old boy. Police and emergency crews responded shortly after 6 p.m. local time; the venue was packed with festival-goers when gunfire broke out, sending crowds running and climbing over one another to escape.\n\nWitnesses described scenes of chaos inside and around the Seattle Center Armory. Kayla Carris, 22, said people began screaming and rushing inside for cover, while Todd Behrends, 59, reported hearing multiple rounds of gunfire and seeing a woman on the ground and a man on a stretcher as he fled. Seattle Police urged the public to avoid the area as the investigation unfolded.\n\nAs of the initial reports, police had not confirmed whether any suspects were taken into custody. The shooting drew immediate attention given its occurrence at a major public outdoor event in a densely crowded urban setting. The incident is among the deadliest mass shootings in Seattle's recent history.",
