@@ -3,6 +3,34 @@
   "dateFormatted": "Tuesday, July 28, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "Consumer Confidence Falls Again as Iran Conflict Pushes Gas Prices to $4.10 a Gallon",
+      "summary": "The Conference Board reported Tuesday that its consumer confidence index fell to 90.8 in July from 92.2 in June, extending a prolonged period of economic pessimism. The index has remained in a tepid range throughout 2026, well below readings above 100 recorded in late 2024 and early 2025. The decline comes as gas prices have climbed back to $4.10 per gallon nationally after briefly retreating to approximately $3.70 in June.\n\nThe renewed rise in energy costs is directly linked to the escalating U.S.-Iran conflict and the closure of the Strait of Hormuz, through which roughly one-fifth of the world's oil travels. Iran shut the strait following U.S. and Israeli strikes in late February, causing an initial price spike. A brief period of reduced fighting had allowed some relief at the pump before hostilities intensified again.\n\nInflation has risen to 3.5% since Trump's inauguration in January 2025, up from 3% at that time, and accelerated further after the Iran war began in February when it stood at 2.4%. Food prices have been a particular source of strain, with groceries 33% more expensive than at the start of 2019 and ground beef averaging $6.82 per pound in June — 79% higher than in early 2019. Survey respondents' mentions of food and grocery prices increased this month.\n\nThe persistently sour economic mood carries political implications with midterm elections fewer than 100 days away. President Trump has continued to attribute inflation to his predecessor, former President Biden, while Democrats point to price increases that have occurred during Trump's current term. The employment picture showed mixed signals, with only 57,000 jobs added last month — less than half the prior month's total — though the unemployment rate edged down to 4.2%.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/economy/americans-confidence-in-u-s-economy-falls-again-as-iran-conflict-sends-gas-prices-higher",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:15 PM MT",
+      "addedAtISO": "2026-07-28T16:15:02.355791-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Florida Carries Out Two Executions in a Single Day for First Time in Nearly a Decade",
+      "summary": "Florida executed former police officer James Aren Duckett, 68, on Tuesday afternoon for the 1987 rape and murder of 11-year-old Teresa McAbee, making him the 11th inmate put to death in the state this year. Duckett was convicted of raping and drowning the girl while on duty as a police officer in central Florida. He declined to make a final statement before his death at 1:19 p.m. at Florida State Prison near Starke.\n\nLater Tuesday evening, 80-year-old Dominick Anthony Occhicone was scheduled to be executed for the 1986 murders of his ex-girlfriend's parents, which would make him the oldest prisoner executed in Florida's modern history. The two executions in a single day mark the first time any U.S. state has carried out back-to-back executions since Arkansas did so in 2017.\n\nGov. Ron DeSantis has dramatically accelerated Florida's use of capital punishment over the past 18 months, at a pace not seen in the state since the U.S. reinstated the death penalty in 1976. Florida has accounted for nearly half of all state executions nationwide since the beginning of 2025. Both men had sought last-minute intervention from the U.S. Supreme Court and the Florida Supreme Court, and both were denied.\n\nDuckett's attorneys claimed innocence and argued the state's handling of DNA evidence produced inconclusive results. Occhicone's attorneys contended that his age-related health conditions — including kidney and prostate problems — could make lethal injection unusually painful, constituting cruel and unusual punishment. Supporters of capital punishment argue the executions deliver long-overdue justice; opponents contend the pace and the age and health of those executed raise serious constitutional and humanitarian concerns.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/florida-executes-ex-police-officer-convicted-of-murder-first-of-2-lethal-injections-set-for-single-day",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:15 PM MT",
+      "addedAtISO": "2026-07-28T16:15:02.355791-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Uganda Declares Itself Ebola-Free as Congo Outbreak Becomes Fastest on Record",
       "summary": "Ugandan authorities declared the country free of Ebola on Tuesday after the last patient was discharged in mid-June and a mandatory 42-day monitoring period passed without evidence of further community transmission. Uganda's Ministry of Health confirmed that all identified contacts completed 21-day institutional quarantine and that enhanced surveillance detected no unexplained spread.\n\nUganda's outbreak was directly linked to a larger epidemic in neighboring Democratic Republic of Congo, where the first confirmed Ugandan cases were Congolese nationals who crossed the border seeking treatment. Congo declared its outbreak on May 15; confirmed cases there have now reached 3,262 with 1,437 deaths, making it the fastest Ebola outbreak on record — and likely to surpass Congo's previous highest toll within days.\n\nThe Bundibugyo strain of Ebola responsible for this outbreak has no approved vaccine or treatment. The outbreak has been declared a global health emergency, and responders face mounting safety challenges in affected Congolese provinces, where rebel activity and community resistance have hampered tracing and isolation efforts deemed critical to halting spread.\n\nUganda's success was attributed to swift containment measures including suspension of public transportation and flights to Congo, mandatory quarantine protocols, and a presidential directive urging citizens to stop physical greetings. Public health officials cautioned that the risk of cross-border reintroduction remains as long as the Congo outbreak continues.",
