@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Uganda Declares Itself Ebola-Free as Congo Outbreak Becomes Fastest on Record",
+      "summary": "Ugandan authorities declared the country free of Ebola on Tuesday after the last patient was discharged in mid-June and a mandatory 42-day monitoring period passed without evidence of further community transmission. Uganda's Ministry of Health confirmed that all identified contacts completed 21-day institutional quarantine and that enhanced surveillance detected no unexplained spread.\n\nUganda's outbreak was directly linked to a larger epidemic in neighboring Democratic Republic of Congo, where the first confirmed Ugandan cases were Congolese nationals who crossed the border seeking treatment. Congo declared its outbreak on May 15; confirmed cases there have now reached 3,262 with 1,437 deaths, making it the fastest Ebola outbreak on record — and likely to surpass Congo's previous highest toll within days.\n\nThe Bundibugyo strain of Ebola responsible for this outbreak has no approved vaccine or treatment. The outbreak has been declared a global health emergency, and responders face mounting safety challenges in affected Congolese provinces, where rebel activity and community resistance have hampered tracing and isolation efforts deemed critical to halting spread.\n\nUganda's success was attributed to swift containment measures including suspension of public transportation and flights to Congo, mandatory quarantine protocols, and a presidential directive urging citizens to stop physical greetings. Public health officials cautioned that the risk of cross-border reintroduction remains as long as the Congo outbreak continues.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/28/world-news/uganda-declares-its-ebola-free-after-last-patient-discharged-in-june/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:45 PM MT",
+      "addedAtISO": "2026-07-28T13:45:29.070291-06:00",
+      "slot": 14
+    },
+    {
+      "category": "business",
+      "headline": "Update: Trump's New Tariffs on 80-Plus Countries Take Effect, Replacing Court-Struck Levies",
+      "summary": "President Trump's new round of tariffs targeting more than 80 countries took effect Friday, imposing duties of either 10% or 12.5% on targeted nations based on their records on alleged forced labor violations. The move came on the same day a prior 10% global tariff — struck down by the Supreme Court earlier this year — was set to expire, placing major tariff coverage on new legal footing.\n\nThe average U.S. tariff rate was 11.4% before the shift and fell slightly to 11.1% after the new levies replaced the temporary across-the-board tariff, according to the Yale Budget Lab. However, additional proposed tariffs are expected to push the average rate to 11.8% by the end of 2026. Trading partners affected by the new round account for approximately 99% of all U.S. imports, though product exemptions for some food, fuel, fertilizers, and USMCA-compliant goods will significantly reduce the practical impact.\n\nEconomists and analysts are divided on the consequences. Deutsche Bank strategist Jim Reid argued the announcement is 'less about raising tariff rates and more about preserving them,' noting little net economic change. The Committee for a Responsible Federal Budget estimated the tariffs could generate up to $900 billion in additional federal revenue over 10 years, helping incrementally reduce the national debt, though that figure is less than 60% of what the struck-down levies would have raised.\n\nCritics warn the tariffs risk pushing up prices for household goods at a time when inflation is already elevated partly due to the ongoing Iran conflict. Supporters argue the policy restores American leverage in trade negotiations and puts tariff revenue on firm constitutional footing following the Supreme Court's earlier ruling.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/Business/trumps-sweeping-new-tariffs-wallet/story?id=135050974",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:45 PM MT",
+      "addedAtISO": "2026-07-28T13:45:29.070291-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Update: Trump and Netanyahu Meet at White House as U.S.-Iran Diplomacy Hangs in Dispute",
       "summary": "Israeli Prime Minister Benjamin Netanyahu arrived at the White House Tuesday morning for high-stakes talks with President Donald Trump focused on the Iran conflict, Lebanon negotiations, and potential expansion of the Abraham Accords. The meeting comes amid growing friction between the two leaders, with Trump having publicly criticized Israel for continuing strikes in Lebanon and ignoring a ceasefire.\n\nThe diplomatic status of U.S.-Iran negotiations remains sharply contested. Trump told reporters that Iran had asked the U.S. to pause strikes and resume talks, saying Tehran 'asked us very nicely, please stop, let's meet.' Iran's Foreign Ministry spokesman flatly contradicted that account, stating 'we have no negotiations with the United States at present,' while a deputy foreign minister denied any 'begging' by the Iranian side. Iran has separately engaged Oman in talks described as 'constructive' but 'unrelated' to U.S. negotiations.\n\nTrump also met Tuesday with Ukrainian President Volodymyr Zelensky, who described the session as a 'good meeting' covering Patriot missile interceptor licenses and renewed diplomatic efforts to end the Russia-Ukraine war. Zelensky offered condolences on the day of the late Sen. Lindsey Graham's funeral and called for reinvigorating the diplomatic process. Iran has separately ramped up threats toward Kyiv following Ukraine's weekend strike on an Iranian vessel in the Caspian Sea.\n\nOil markets continued to reflect the easing of immediate conflict fears, with Brent crude falling 2.9% Tuesday after dropping 11.3% Monday. Trump renewed threats to destroy Iranian bridges and power plants if no deal is reached, while the Pentagon faces questions about munitions stockpiles after Defense Secretary Pete Hegseth told a Senate committee the department needs an additional $87 billion to address 'critical shortfalls.'",
       "source": "CNN",
