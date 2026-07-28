@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, July 27, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: Wildfire Nine Miles from Bordeaux as Pyrocumulonimbus Storm Spawns New Blazes",
+      "summary": "A catastrophic wildfire in France's Gironde region has advanced to within nine miles (15 km) of the city of Bordeaux, prompting Mayor Thomas Cazenave to warn he is preparing for \"all eventualities\" including large-scale additional evacuations. President Emmanuel Macron visited the fire zone Monday and called it the country's \"toughest\" wildfire crisis \"since World War Two,\" while a smaller blaze in the neighboring Landes region was reported contained.\n\nThe fire has grown so intense it generated a pyrocumulonimbus — a fire-created thunderstorm cloud — a phenomenon French officials described as unprecedented in France. The storm produced lightning that ignited new fires beyond the main blaze's perimeter, further complicating containment. More than 42,000 hectares have burned in Gironde alone, destroying at least 240 homes and forcing more than 200,000 evacuations in France. Combined with Spain, where fires west of Madrid have entered a fifth day of national emergency, over 300,000 people have been displaced across Europe.\n\nApproximately 2,500 firefighters, 1,500 military personnel, and 1,200 police and gendarmes are deployed in Gironde, but local officials say the force is insufficient. A renewed heatwave forecast for Tuesday threatens to reverse any gains made by crews during Monday's cooler conditions. The fires have also raised alarm over proximity to sensitive military and industrial installations, including facilities involved in French ballistic missile components and hazardous chemical processing.\n\nFrench Prime Minister Sébastien Lecornu said nine out of ten fires this season are human-caused, mostly through carelessness, though he noted some are deliberate arson — authorities have made 162 fire-related arrests since July 6. France has recorded 116,085 hectares burned and more than 13,500 fire starts since January, its worst fire season in two decades.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo",
+      "sourceCount": 7,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-27T21:08:29.850165-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Biden Ghostwriter Audio Released After FOIA Battle; Recordings Show Halting Speech, Uncertainty on COVID Origins",
+      "summary": "More than 70 hours of audio recordings from former President Joe Biden's 2016 and 2017 interviews with his memoir ghostwriter Mark Zwonitzer have been released publicly, following a two-year legal fight under the Freedom of Information Act. Biden's attorneys abandoned their lawsuit to block the release on Friday, and a judge accepted the dismissal Monday, allowing the conservative Oversight Project to publish the materials.\n\nThe recordings, obtained during Special Counsel Robert Hur's classified documents investigation, show Biden frequently pausing, speaking haltingly, and struggling to recall events — consistent with Hur's 2024 report characterizing Biden as an \"elderly man with a poor memory.\" Hur ultimately declined to recommend charges, concluding prosecutors could not prove Biden willfully retained or disclosed classified material. Critics, including Oversight Project Vice President Jeff Clark, called for Hur's decision to be \"reexamined from top to bottom\" in light of the tapes.\n\nThe release also surfaces diary entries by Fauci — released separately by Sen. Rand Paul — that have reignited debate over COVID-19's origins. Biden's defenders argue the recordings are being selectively framed to damage his legacy and that Hur himself chose not to prosecute. Democrats have pointed out that Hur's report acknowledged Biden was cooperative and that the classified document situation was materially different from the Trump documents case.\n\nThe recordings are drawing renewed scrutiny to Biden's cognitive fitness during his presidency and to the judgment of Justice Department officials who closed the case. Biden is set to give his first major public testimony-related appearance through these materials ahead of Fauci's Senate hearing on COVID origins scheduled for Wednesday.",
+      "source": "Fox News",
+      "url": "https://foxnews.com/politics/bidens-classified-docs-narrative-crumbles-amid-release-ghostwriter-tapes",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-27T21:08:29.850165-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Thune Resists Trump Pressure to Cancel Senate Recess Over SAVE Act Voter ID Bill",
+      "summary": "Senate Majority Leader John Thune (R-S.D.) pushed back Monday against President Trump's escalating demands to cancel the chamber's five-week August recess until senators pass the SAVE America Act, a strict proof-of-citizenship voting bill. Thune said he would consider keeping senators in Washington only if there was a realistic chance of a successful outcome, warning against unproductive procedural votes.\n\nTrump has called on Thune to end the recess and has renewed calls to abolish the Senate filibuster to clear the way for the legislation. Multiple Republican senators publicly backed Thune's position, with Sen. Mike Crapo (R-Idaho) telling Axios the majority leader has \"strong support\" and that press reports of internal GOP revolt are overstated. The standoff reflects broader tensions between Trump's legislative ambitions and the institutional constraints Senate Republicans are reluctant to dismantle.\n\nProponents of the SAVE Act argue that requiring proof of citizenship to register to vote is necessary to ensure election integrity and that noncitizen voting, while rare, poses a legal and security concern. Opponents, including all Senate Democrats, contend the legislation would suppress voter registration among eligible citizens — particularly low-income voters, elderly individuals, and minorities — who may lack readily accessible citizenship documentation.\n\nThe dispute is the latest in a series of confrontations between Trump and Thune since the latter became majority leader earlier this year. The filibuster question remains a fault line within the GOP: enough Republican senators have resisted eliminating it to keep the threshold in place, at least for now.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/27/donald-trump-john-thune-senate-republicans-save-act",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-27T21:08:29.850165-06:00",
+      "slot": 21
+    },
+    {
       "category": "politics",
       "headline": "Update: Pentagon Removes Four Recently Killed U.S. Troops From Iran War Death Toll, Raises Accountability Questions",
       "summary": "The Pentagon's official Defense Casualty Analysis System quietly removed four U.S. soldiers killed in recent weeks from its Iran war death toll, placing them instead in a new category called \"Overseas Operations.\" The change was noticed after the soldiers were honored at a dignified transfer ceremony at Dover Air Force Base on July 22, attended by President Trump and Defense Secretary Pete Hegseth. As recently as Tuesday, the official tally listed 18 killed and 482 wounded in the Iran conflict; the new category lists the four deaths by name alongside 207 wounded, though it is unclear whether all wounded listed were injured in Iran.\n\nPentagon press secretary Joel Valdez disputed that the reclassification was an attempt to minimize the human cost of the war, attributing the shift to \"anomalies\" and \"temporary data disruptions\" that would be resolved \"imminently.\" Critics and members of Congress have questioned whether the accounting change obscures the true toll of U.S. casualties as the Trump administration escalates strikes aimed at reopening the Strait of Hormuz. The four deaths include three soldiers killed July 17 at a base in Jordan struck by Iranian ballistic missiles and drones, and one killed July 18 in Iraq during a controlled detonation of an Iranian drone.\n\nThe episode has added to broader concerns about transparency in a conflict that polls show is unpopular with many Americans. The Pentagon's announcement of two of the Jordan deaths described the soldiers as supporting the U.S. counter-ISIS mission rather than the Iran campaign, further muddying the official record. U.S. Central Command referred questions to the Pentagon, which did not immediately respond to requests for comment.\n\nThe story is being followed by 21 major outlets across the political spectrum and represents a concrete new development — the reclassification itself and the Pentagon's public response — on the ongoing Iran war coverage.",
