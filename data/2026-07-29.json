@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, July 29, 2026",
   "stories": [
     {
+      "category": "technology",
+      "headline": "Trump Administration Bans Imports of Chinese Humanoid Robots Over National Security Concerns",
+      "summary": "The Trump administration announced Tuesday a ban on new imports of foreign-made advanced robots, including humanoid and four-legged machines, citing \"unacceptable risks\" to U.S. national security. The Federal Communications Commission added the devices to its Covered List of goods deemed threats to national security, alongside power inverters used in data centers and solar panels. The ban applies only to new foreign-produced models not previously authorized by the FCC; existing authorized devices are unaffected.\n\nThe FCC cited concerns that foreign-made robots could be used to surveil Americans, enhance foreign intelligence capabilities, or be remotely commandeered. Similarly, power inverters could be exploited to steal data, enable remote access, or facilitate cyberattacks by foreign government actors. FCC Chairman Brendan Carr said the agency was acting to \"secure America's critical supply chains.\"\n\nChina is the primary target of the measure, as Chinese companies including Unitree, UBTech, and AgiBot are leading producers of the affected devices. The Chinese Embassy in Washington condemned the action as \"politicizing\" trade and called on the U.S. to \"abandon its hegemonic mindset.\" Beijing pledged to \"take all necessary measures\" to protect its interests and denied that its AI development relied on stolen intellectual property.\n\nThe move is the latest in a series of U.S. actions restricting Chinese technology, following steep EV tariffs and semiconductor export controls. Treasury Secretary Scott Bessent has also warned that Chinese AI firms could face sanctions over alleged intellectual property theft. The announcement was covered by five major outlets, signaling broad significance.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:06 AM MT",
+      "addedAtISO": "2026-07-29T07:06:51.637727-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Sudan: UN and G7 Warn of Imminent RSF Attack on El-Obeid as 83,000 Displaced Shelter There",
+      "summary": "The United Nations and G7 foreign ministers have issued warnings that Sudan's paramilitary Rapid Support Forces (RSF) may be preparing to attack el-Obeid, a key army-controlled city in North Kordofan that has become a refuge for more than 83,000 displaced civilians. Verified footage shows dozens of heavily armed RSF troops in armored vehicles in nearby Nyala vowing to \"liberate\" el-Obeid. Analysts warn that atrocities comparable to last October's massacre in el-Fasher — where thousands were killed in mass executions — could be repeated.\n\nEl-Obeid has absorbed a growing wave of displaced people fleeing surrounding conflict zones, with satellite imagery showing the main displacement camp has expanded significantly since March. Aid workers report dozens of new arrivals daily even as RSF drones strike the city. Nearly 400,000 people in the city's vicinity face food shortages after RSF commanders systematically cut off supply routes, creating what one UN official described as a \"functional siege.\"\n\nThe RSF and the Sudanese military have been locked in civil war since 2023. Control of North Kordofan is considered strategically critical by both sides. The UN's International Organization for Migration said families in the region \"have run out of safe options to protect themselves.\"\n\nThe potential fall of el-Obeid would represent a major shift in the conflict and could trigger a humanitarian catastrophe on the scale of el-Fasher. International warnings have so far not resulted in direct intervention.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:06 AM MT",
+      "addedAtISO": "2026-07-29T07:06:51.637727-06:00",
+      "slot": 8
+    },
+    {
+      "category": "other",
+      "headline": "Oscar-Winning Songwriter Glen Hansard Killed in Motorbike Crash in Dublin",
+      "summary": "Irish musician Glen Hansard, 56, died early Tuesday in a single-vehicle motorbike crash on Lower Road in Lucan, west of Dublin. Hansard was the frontman of rock group The Frames, appeared in the 1991 film The Commitments, and won the Academy Award for Best Original Song in 2008 for \"Falling Slowly,\" written for the low-budget film Once. Police are appealing for witnesses; the crash was reported to emergency services shortly before 4:30 a.m. local time.\n\nHansard's film Once, in which he starred opposite Czech musician Markéta Irglová, won the World Cinema Audience Award at Sundance and later inspired a Broadway adaptation that took home eight Tony Awards including Best Musical. He also released solo material, including the Grammy-nominated album Didn't He Ramble, and was one half of the rock duo The Swell Season.\n\nBeyond his musical career, Hansard was known for his charity work, particularly Dublin's annual Christmas Eve busk in support of the Dublin Simon Community, which he founded in 2010 and which drew performers including Bono and the late Sinéad O'Connor. The organization said it was \"devastated\" by his death, calling him \"a true advocate for our work and a giant in the fight against homelessness.\"\n\nHansard is survived by a three-year-old son. His management company, ATC Management, confirmed his death in a statement.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "7:06 AM MT",
+      "addedAtISO": "2026-07-29T07:06:51.637727-06:00",
+      "slot": 8
+    },
+    {
       "category": "world",
       "headline": "Update: Iran Fires Missiles at U.S. Forces; U.S. and Saudi Arabia Strike Iraqi Militia Sites",
       "summary": "The U.S. military announced Tuesday that it intercepted an Iranian ballistic missile barrage aimed at American forces in the Middle East, shattering a brief pause in hostilities that had followed weeks of escalation centered on the Strait of Hormuz. U.S. Central Command said all incoming missiles were knocked down and that forces \"remain vigilant and at a high state of readiness.\"\n\nIn a coordinated response, U.S. and Saudi fighter aircraft struck sites in Iraq used by Tehran-backed militias to launch recent attacks, with the Pentagon warning that further strikes on American troops or Saudi energy infrastructure would invite additional action. Iran had launched its missile attack before the allied strikes in Iraq, and a U.S. official stressed the two operations were not directly linked.\n\nThe renewed fighting complicates a diplomatic track that had been advancing during the pause in hostilities. Four U.S. troops have died in the conflict to date, and rising gasoline prices tied to the Hormuz disruption are fueling political concerns ahead of November's midterm elections. The U.S. House narrowly passed a resolution last week urging a halt to military action in Iraq, a sign of growing congressional unease.\n\nPresident Trump told Fox News on Tuesday that Iran knows he will \"finish the job\" if its leaders do not agree to a deal. There was no immediate public response from Tehran to the U.S. military's announcement or to the strikes in Iraq.",
