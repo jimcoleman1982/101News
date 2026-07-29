@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Japan Earthquake Death Toll Rises to 18 as Rescuers Search Collapsed Mall and Houses",
+      "summary": "Rescue workers and soldiers continued combing through a collapsed shopping mall and destroyed homes in southwestern Japan's Kumamoto region on Wednesday, as the death toll from Tuesday's magnitude 7.1 earthquake climbed to at least 18, including one foreign national. At least 62 people were injured, six of them seriously, according to the prefectural government.\n\nThe Aeon Mall in Kashima Town suffered a second-floor collapse that trapped shoppers and workers. Approximately 3,000 customers had been evacuated to a parking lot before a gas explosion occurred in another section of the facility where workers remained. Japan's National Police Agency released footage showing the extent of damage to the structure.\n\nThe iconic Kumamoto Castle was also damaged, with amateur video showing part of its historic stone wall collapsing in a cloud of dust. A tsunami advisory was issued following the quake but was quickly lifted.\n\nThe earthquake struck one of Japan's most seismically active regions; Kumamoto was also hit by a devastating quake sequence in 2016. The updated death toll and confirmation of ongoing search operations represent a material development since initial reporting.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/japan-earthquake-kumamoto-kagoshima-mall-factory-6b0fe69d44fa5c82ac4765a8ad82ebf6",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:36 PM MT",
+      "addedAtISO": "2026-07-29T13:36:32.828653-06:00",
+      "slot": 14
+    },
+    {
+      "category": "other",
+      "headline": "Four Women Accuse Jared Leto of Criminal Sexual Conduct Involving Minors",
+      "summary": "Four women have publicly accused Oscar-winning actor Jared Leto of criminal sexual conduct, with alleged offenses occurring when the women were teenagers, according to a BBC documentary titled 'Jared Leto: Hollywood's Dark Secret.' One woman alleges she was sexually assaulted in a motel bathroom at age 17; another says she was threatened with sexual assault at 19 after being left alone with Leto in a hotel room.\n\nA third woman alleges she had underage sex with Leto in California at age 17 — which would constitute statutory rape under state law — and says he dismissed the legal age of consent when it was raised. A fourth says she was groomed through repeated sexually explicit phone calls beginning at age 16 and was subsequently sent a non-disclosure agreement, which she refused to sign. Six additional women described receiving unwanted sexual communications from Leto as minors.\n\nThe BBC says it corroborated several accounts through friends, family members, and contemporaneous photographs and messages. Two former band employees also told the documentary they were uncomfortable with Leto's interactions with underage female fans, describing him inviting teenagers backstage and to recording locations.\n\nLeto denied the allegations in a statement issued Wednesday: 'I have never assaulted anyone in my entire life. These claims are absolutely and categorically false.' He did not respond to the BBC's detailed pre-publication requests for comment.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:36 PM MT",
+      "addedAtISO": "2026-07-29T13:36:32.828653-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Ghana Suffers Nationwide Blackout After Multiple Power Plants Fail Simultaneously",
+      "summary": "A major fault on Ghana's national power grid triggered a widespread blackout in the early hours of Wednesday, knocking out electricity across Accra, the commercial hub of Kumasi, and much of the country's north. Multiple power plants were forced to shut down, according to the state-run Ghana Grid Company Limited (GRIDCo), which said engineers were working to restore supply without compromising safety.\n\nThe outage disrupted daily life broadly: commuters struggled to pay for transport as mobile payment systems went offline, app-based taxi services were unavailable, and small businesses reliant on digital services were shuttered. Hospitals and large institutions with backup generators were largely unaffected.\n\nGhana has long struggled with chronic power shortages, known locally as 'dumsor' — meaning 'on and off' in Akan — though the situation had been improving with the addition of natural gas generation to supplement aging hydropower infrastructure. GRIDCo said it was conducting a full technical investigation into Wednesday's failure and gave no timeline for restoration.\n\nThe blackout is significant for a country that is one of the world's leading producers of gold and cocoa and has been working to attract foreign investment. The episode underscores the continued vulnerability of West Africa's electricity infrastructure to transmission failures.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crmrkgr4z0jo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:36 PM MT",
+      "addedAtISO": "2026-07-29T13:36:32.828653-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Update: European Wildfires Claim Two Firefighters in Crete; 330,000 Displaced Across France and Spain",
       "summary": "Two Greek firefighters died Tuesday after becoming trapped fighting a wildfire in the Rethymno area of Crete, as gale-force winds drove flames through multiple villages requiring evacuation. Wildfires simultaneously broke out on the Greek islands of Paros and Lesbos and on the southern mainland, extending a crisis that has now swept across southern Europe.\n\nIn France, authorities ordered an additional 4,000 people evacuated from tourist sites along the Atlantic coast near Bordeaux, widening what officials have described as potentially France's largest peacetime evacuation. Fresh flames erupted near the Grand Crohot beach on the Lège-Cap-Ferret peninsula, prompting a fleet of 23 aircraft to drop water and fire retardant. Gironde prefect Sophie Brocas said \"the situation remains complicated\" even as roughly 60,000 residents near Bordeaux who had been evacuated as a precaution were allowed to return — with instructions to keep phones on and emergency bags packed.\n\nIn Spain, the wildfire near Burgohondo in Ávila province has now burned more than 43,000 hectares, making it the largest recorded wildfire in Spanish history. Spanish Prime Minister Pedro Sánchez warned the next 12 hours would be \"decisive,\" citing risks from rising temperatures and wind gusts even as the fire held overnight. Spain is entering its fourth heat wave of the summer, and more than 207,000 hectares have burned nationally this year.\n\nAcross France and Spain combined, roughly 330,000 people have been displaced from homes and vacation sites. A highway in southern Turkey was also closed and part of a hospital evacuated due to a separate fire in Muğla province, underscoring how broadly the crisis has spread across the Mediterranean region.",
       "source": "BBC News",
