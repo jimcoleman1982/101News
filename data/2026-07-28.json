@@ -3,6 +3,48 @@
   "dateFormatted": "Tuesday, July 28, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump, Zelensky, and Netanyahu Attend Lindsey Graham's Funeral at Washington National Cathedral",
+      "summary": "Senator Lindsey Graham was honored at a state funeral at Washington National Cathedral, with President Trump, Ukrainian President Volodymyr Zelensky, and Israeli Prime Minister Benjamin Netanyahu among the dignitaries in attendance. The service concluded with mourners singing Amazing Grace, and pallbearers carried Graham's casket out to Aaron Copland's Fanfare for the Common Man. Graham's casket is now being transported to South Carolina for additional services and burial.\n\nThe gathering of Trump, Zelensky, and Netanyahu at a single ceremony is diplomatically significant, coming amid active U.S. involvement in both the Iran conflict and ongoing deliberations over Ukraine war support. Graham had been a prominent voice in the Senate on both foreign policy fronts throughout his career. The funeral brought together figures whose relationships have been strained by recent geopolitical tensions.\n\nGraham, a Republican from South Carolina who served in the Senate since 2003, was one of the most recognizable figures in American foreign policy circles, known for his hawkish views and close relationships with leaders across the political spectrum. His death leaves a vacancy in a closely watched Senate seat. Further memorial services are planned in South Carolina ahead of his burial.",
+      "source": "BBC News",
+      "url": "https://bbc.com/news/live/crmrjj92830t",
+      "sourceCount": 23,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-28T21:08:25.432576-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "French Navy Fires Shots During BBC Interview in English Channel, Sparking Diplomatic Row",
+      "summary": "A French Navy patrol boat fired approximately 17 rounds in the English Channel while a BBC journalist was conducting a live interview with UK shadow home secretary Chris Philp about small boat migrant crossings. The shots were fired without prior warning to the British vessel, which was approximately 300 meters away and roughly three miles from the French coast. The incident occurred at around 09:15 BST on Monday.\n\nPhilp, a Conservative MP, characterized the firing as deliberate intimidation designed to prevent coverage of migrant crossings. 'It looked and sounded exactly like deliberate intimidation,' he said, adding that he would raise the matter with the French ambassador. The captain of the fishing boat hosting the interview said he had 'never seen anything like it before.'\n\nFrench authorities maintained the patrol boat PSP Flamant was conducting a routine individual training exercise unrelated to the presence of the British vessel, and that all required international safety signals had been displayed. A UK government spokesperson said the matter was 'for the French authorities.' The incident is likely to inflame ongoing tensions between Britain and France over Channel migration policy, with Philp arguing that France 'waves through' migrants while actively obstructing British press coverage.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-28T21:08:25.432576-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Hong Kong Pro-Democracy Leader Wu Chi-wai Allowed to Stay in UK After Initial Detention at Heathrow",
+      "summary": "Former Hong Kong Democratic Party leader Wu Chi-wai, one of the so-called Hong Kong 47 pro-democracy figures, has been granted a standard six-month stay in the United Kingdom after being detained for nearly 10 hours at Heathrow Airport last week and initially told he would be deported within days. UK Border Force reversed course Monday, approving his entry under his British National (Overseas) passport. Wu had sought to reunite with his wife and son, who relocated to the UK in 2022 and 2023 while he was imprisoned.\n\nWu was sentenced under Hong Kong's national security law and spent more than five years in prison on subversion and related charges before being released in June. He said he had consulted the British Consulate General in Hong Kong before traveling and was told there would be no entry issues, making his initial detention at Heathrow unexpected. The Border Force had initially determined he was not a 'genuine visitor' solely traveling to see family.\n\nRights group Hong Kong Watch welcomed the reversal but criticized the handling of the case. 'This is the right outcome, and it should never have taken this long,' said policy director Megan Khoo. 'He should never have faced the prospect of removal back to the city that jailed him.' The case highlights ongoing tensions over the UK's obligations to Hong Kong activists under the BNO passport program, which was expanded in 2021 following Beijing's crackdown on the pro-democracy movement.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-28T21:08:25.432576-06:00",
+      "slot": 21
+    },
+    {
       "category": "business",
       "headline": "Consumer Confidence Falls Again as Iran Conflict Pushes Gas Prices to $4.10 a Gallon",
       "summary": "The Conference Board reported Tuesday that its consumer confidence index fell to 90.8 in July from 92.2 in June, extending a prolonged period of economic pessimism. The index has remained in a tepid range throughout 2026, well below readings above 100 recorded in late 2024 and early 2025. The decline comes as gas prices have climbed back to $4.10 per gallon nationally after briefly retreating to approximately $3.70 in June.\n\nThe renewed rise in energy costs is directly linked to the escalating U.S.-Iran conflict and the closure of the Strait of Hormuz, through which roughly one-fifth of the world's oil travels. Iran shut the strait following U.S. and Israeli strikes in late February, causing an initial price spike. A brief period of reduced fighting had allowed some relief at the pump before hostilities intensified again.\n\nInflation has risen to 3.5% since Trump's inauguration in January 2025, up from 3% at that time, and accelerated further after the Iran war began in February when it stood at 2.4%. Food prices have been a particular source of strain, with groceries 33% more expensive than at the start of 2019 and ground beef averaging $6.82 per pound in June — 79% higher than in early 2019. Survey respondents' mentions of food and grocery prices increased this month.\n\nThe persistently sour economic mood carries political implications with midterm elections fewer than 100 days away. President Trump has continued to attribute inflation to his predecessor, former President Biden, while Democrats point to price increases that have occurred during Trump's current term. The employment picture showed mixed signals, with only 57,000 jobs added last month — less than half the prior month's total — though the unemployment rate edged down to 4.2%.",
