@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Update: Senate Panel Delays Vote on Blanche Attorney General Nomination as Trump Threatens to Pull Pick",
+      "summary": "The Senate Judiciary Committee postponed a scheduled Thursday vote on Todd Blanche's nomination as attorney general after two Republican senators — John Cornyn of Texas and Thom Tillis of North Carolina — continued to withhold support over the Trump administration's controversial $10 billion IRS tax settlement. The settlement, which included audit immunity for Trump and his family, and a now-scrapped $1.776 billion \"Anti-Weaponization Fund,\" has drawn bipartisan criticism. Cornyn accused the Justice Department of \"stonewalling\" and said the ball was \"in Blanche's court.\"\n\nPresident Trump escalated the standoff Thursday, saying he may temporarily withdraw Blanche's nomination and resubmit it after Cornyn and Tillis — both of whom are leaving office in January — are gone. \"Todd Blanche is a STAR,\" Trump posted on social media, framing the two senators' objections as obstruction. The Justice Department sent new written language to Cornyn and Tillis Wednesday evening in an attempt to satisfy their demands, though no resolution had been reached as of Thursday.\n\nCornyn and Tillis have specifically demanded written assurances that the Anti-Weaponization Fund is permanently dead and that the audit immunity deal covers only existing audits, not future tax filings. The core dispute reflects broader Republican unease about the administration's use of the Justice Department to settle the president's personal legal matters.\n\nSupporters of Blanche argue he is qualified for the role and that the senators' objections are being used as leverage in an internal GOP power struggle. Critics, including Democrats, contend the underlying IRS settlement represents an improper use of government power and that the confirmation fight has exposed a rare fracture within the Republican caucus less than 100 days before midterm elections.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/todd-blanche-john-cornyn-attorney-general-nomination-b61afbc8fc5d6ab0e7d10cb828cd99cd",
+      "sourceCount": 11,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:41 AM MT",
+      "addedAtISO": "2026-07-30T10:41:01.096211-06:00",
+      "slot": 11
+    },
+    {
+      "category": "business",
+      "headline": "U.S. Economy Grows Sluggish 1.5% in Second Quarter as Inflation Remains Above Fed Target",
+      "summary": "The U.S. economy expanded at an annualized rate of 1.5% from April through June, the Commerce Department reported Thursday, a deceleration from 2.1% growth in the first quarter and below economists' expectations. Rising imports — up 11.5%, partly driven by a surge in AI-related chip purchases — subtracted 1.5 percentage points from GDP. Consumer spending, which accounts for roughly 70% of economic activity, rose at a robust 3.2% annual pace, up sharply from 0.5% in the first quarter.\n\nInflation remained stubbornly elevated. The Federal Reserve's preferred measure, the personal consumption expenditures price index, rose 3.7% year-over-year in June, down from 4.1% in May but still well above the Fed's 2% target. Core inflation, excluding food and energy, stood at 3.3% annually. The Fed on Wednesday voted to hold interest rates steady for the fifth consecutive meeting, though three officials dissented in favor of a rate increase.\n\nBusiness investment excluding housing rose at an 8.4% pace, reflecting continued heavy investment in artificial intelligence infrastructure. \"The consumer rescued the quarter,\" said Olu Sonola of Fitch Ratings, adding that the AI investment boom's import-heavy nature limits its direct boost to GDP figures.\n\nThe data lands with particular political weight, coming fewer than 100 days before November's midterm elections. Americans have reported persistent economic pessimism driven by elevated prices and energy costs tied to the ongoing U.S.-Iran conflict, which has pushed gasoline prices higher. The sluggish headline growth figure, combined with sticky inflation, complicates the political environment for Republicans defending congressional majorities.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/economy/inflation-remaining-stubbornly-high-u-s-economy-grows-sluggish-1-5-in-2nd-quarter",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:41 AM MT",
+      "addedAtISO": "2026-07-30T10:41:01.096211-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "Fauci Invokes Fifth Amendment Over 100 Times at Republican-Led Senate COVID Origins Hearing",
+      "summary": "Former National Institute of Allergy and Infectious Diseases director Dr. Anthony Fauci invoked his Fifth Amendment right against self-incrimination more than 100 times Wednesday before the Senate Homeland Security and Governmental Affairs Committee, chaired by Sen. Rand Paul of Kentucky. The hearing focused on the origins of COVID-19, allegations that U.S.-funded research in China contributed to the pandemic, and Fauci's handling of the public health response — allegations Fauci has denied.\n\nFauci's lawyers advised him to decline all questions under oath, arguing that his answers could expose him to new legal risks. Although former President Joe Biden granted Fauci a preemptive pardon in January 2025, Republicans contend it does not shield him from perjury charges for false statements made after that date. In a brief opening statement, Fauci accused Paul of having an \"obsession\" with prosecuting him and argued the hearing was not legitimate congressional oversight but rather an attempt to build a criminal case.\n\nRepublican senators including Paul and Ted Cruz called for contempt charges and possible perjury prosecution following the hearing. Paul announced plans for a formal contempt vote. Fauci's supporters argued he was exercising a constitutionally protected right in the face of what they characterized as a politically motivated pursuit, and noted that the pardon's scope makes actual prosecution difficult.\n\nThe hearing marks a significant escalation in a years-long political battle over pandemic accountability. The 85-year-old Fauci, who served as the public face of the U.S. COVID-19 response and advised seven presidents over nearly four decades, has become a central figure in conservative efforts to relitigate pandemic-era policies including mask mandates, vaccine recommendations, and school closures.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/30/why-did-anthony-fauci-invoke-the-fifth-amendment-senate-hearing-explained",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:41 AM MT",
+      "addedAtISO": "2026-07-30T10:41:01.096211-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
       "headline": "Pennsylvania Medicaid Begins Covering Elective Abortions for First Time Since 1985",
       "summary": "Pennsylvania's Medicaid program has begun covering elective abortions following an April ruling by the state's Commonwealth Court, which found that existing restrictions on taxpayer funding of abortion violate the state's Equal Rights Amendment. The change makes Pennsylvania the seventh state in the past decade to expand Medicaid abortion coverage, joining Illinois, Maine, Colorado, Delaware, Nevada, and Rhode Island.\n\nPennsylvania Attorney General Dave Sunday, a Republican, is appealing the Commonwealth Court ruling to the State Supreme Court. However, five of the seven justices on that court are elected Democrats, making a reversal of the lower court decision unlikely, according to analysts.\n\nSupporters of the ruling argue that denying Medicaid coverage for abortion services discriminates against low-income women and violates equal protection principles enshrined in the state constitution. Opponents, including anti-abortion advocates and the attorney general, argue that taxpayer funding of abortion is a policy that should be decided through the legislature, not the courts, and that academic research links public funding to higher abortion rates.\n\nThe case is being closely watched nationally as a test of how state equal rights amendments can be used to expand abortion access independent of federal law, particularly since the U.S. Supreme Court's 2022 Dobbs decision returned abortion regulation to individual states.",
       "source": "National Review",
