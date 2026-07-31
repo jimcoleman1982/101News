@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-31",
+  "dateFormatted": "Friday, July 31, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Wisconsin Court Bars Ballot Revotes as Mandela Barnes Exits Governor Primary Amid Scandal",
+      "summary": "A Dane County Circuit Court judge ruled Wednesday that Wisconsin voters cannot request new ballots for the Aug. 11 Democratic gubernatorial primary, despite significant late-breaking candidate changes. The ruling ended a lawsuit filed by the state Democratic Party against the Wisconsin Elections Commission. The decision leaves voters locked in with ballots that may reflect candidates who have since dropped out.\n\nFormer Lt. Governor Mandela Barnes dropped out of the race shortly before the ruling, citing an unviable path to the nomination. His exit followed a Milwaukee Journal Sentinel investigation into allegations that Barnes leveraged his role within the state Democratic Party to arrange sexual encounters with young women. Barnes did not directly address the allegations in his withdrawal announcement.\n\nBarnes's departure further elevates democratic socialist Francesca Hong, who had already surged in polling. The high-profile primary is being closely watched as a bellwether for the Democratic Party's ideological direction, coming on the heels of similar democratic socialist primary victories in Michigan and other states this cycle.\n\nEstablishment Democrats have grown increasingly alarmed by the leftward shift in primaries across the country, while progressive activists argue the surge reflects genuine voter demand for bolder policy. The Wisconsin governor's race is considered a critical battleground heading into the November general election.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/6001075-wi-governor-primary-ballot-ruling/",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-31T05:08:19.274145-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "'Alien Terrorist Removal Court,' Dormant Since 1996, Holds Its First-Ever Hearing",
+      "summary": "A 47-year-old Texas woman became the first person ever to appear before the Alien Terrorist Removal Court on Thursday, a federal tribunal established by Congress in 1996 but never previously used. Nazira Haji Zada, a lawful permanent resident from Afghanistan, was not charged with a crime but faces deportation proceedings over her alleged role in a plot to disrupt Election Day 2024 with a mass shooting. Her son and son-in-law were previously convicted of conspiring to carry out an ISIS-inspired attack.\n\nThe Justice Department filed the removal application on July 15, describing Nazira as the 'matriarch of an alien Afghan family.' The court allows the government to seek removal of noncitizens on a lower standard of proof than a criminal conviction requires. Appeals go directly to the U.S. Court of Appeals for the D.C. Circuit.\n\nHer defense attorneys immediately challenged the proceedings as unconstitutional, arguing the process violates First, Fourth, Fifth, and Sixth Amendment rights and represents an improper 'runaround' of criminal prosecution. Chief Judge Joan Ericksen denied a motion for Nazira's immediate release but said she would take up constitutional challenges at future hearings.\n\nThe case is being closely watched by legal scholars as a test of whether the long-dormant court can withstand constitutional scrutiny. The Trump administration's use of the tribunal signals a willingness to deploy rarely used statutory tools to accelerate removal of individuals it considers national security threats.",
+      "source": "NBC Politics",
+      "url": "https://www.nbcnews.com/politics/justice-department/doj-holds-first-ever-hearing-alien-terrorist-removal-court-created-199-rcna589987",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-31T05:08:19.274145-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Four Dead After Avalanche on Pakistan's Broad Peak; Famed Climber Nirmal Purja Among Missing",
+      "summary": "Four bodies have been recovered from Pakistan's Broad Peak after an avalanche struck a team of ten climbers on Thursday. Rescue teams are still searching for the remaining missing climbers, including Nirmal Purja, one of the most celebrated mountaineers of modern times. Harsh weather has complicated recovery efforts in the Karakoram range.\n\nPurja, a former British special forces soldier turned professional climber, gained worldwide recognition in 2019 when he summited all 14 of the world's 8,000-meter peaks in under seven months, shattering a previous record. His expeditions have drawn global audiences and he has been the subject of a Netflix documentary.\n\nPakistani alpine club officials confirmed the avalanche hit the team on Thursday. Senior government officials said efforts were underway to retrieve the four confirmed bodies despite the dangerous conditions. The full circumstances of the avalanche and the fate of the remaining missing climbers were not immediately clear.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/renowned-nepal-climber-among-10-missing-after-pakistan-avalanche",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-31T05:08:19.274145-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Seattle Police Chief Resigns After Criticism of Festival Shooting Response",
+      "summary": "Seattle Police Chief Shon Barnes resigned Thursday following sharp criticism of the city's handling of a fatal shooting at the annual Bite of Seattle food festival last weekend. Mayor Katie Wilson confirmed the resignation and named Deputy Chief Andre Sayles as interim chief. The shooting killed three people, including one suspect, and wounded four others, among them a 2-year-old boy.\n\nBarnes was out of town at a law enforcement conference when the shooting erupted. In the aftermath, police took nearly five hours to issue any public update after an initial social media post, leaving residents uncertain whether a threat remained active. Mayor Wilson separately issued a statement that two suspects were in custody, which she later retracted.\n\nSeveral Black community organizations, including the Seattle NAACP and the Urban League of Metropolitan Seattle, issued an open letter opposing Barnes's removal, crediting him with improving police-community relations and reducing gun violence. They called the decision 'the wrong choice at the wrong time' and warned against using Barnes as a 'scapegoat' for broader public safety challenges.\n\nBarnes is Seattle's second Black police chief. Police are still searching for at least one additional suspect in the festival shooting. The case has renewed debate in Seattle over police communication protocols during active incidents and the city's overall public safety strategy.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/seattle-mayor-says-police-chief-has-resigned-after-criticism-of-festival-shooting-response",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-07-31T05:08:19.274145-06:00",
+      "slot": 5
+    }
+  ]
+}
