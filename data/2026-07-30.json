@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Thousands Storm Spanish Enclave of Ceuta from Morocco; At Least 15 Drown, Spain Deploys Troops",
+      "summary": "Thousands of migrants swam from Morocco into the Spanish enclave of Ceuta on Thursday after border controls broke down, with at least 15 people drowning in the crossing. Local officials described the border as being in \"total collapse\" as crowds slid down concrete embankments into the sea to swim around the jetty marking the frontier. Spain's interior ministry blamed human trafficking networks for exploiting a recent Supreme Court ruling that bars authorities from summarily returning migrants stopped at sea.\n\nSpain's government announced it was deploying armed forces to reinforce the Civil Guard in Ceuta, and Prime Minister Pedro Sánchez announced plans to visit the territory on Friday, pledging to restore order immediately. Migrant reception centers were described as overwhelmed, and local leaders accused Madrid of responding too slowly to an uptick in crossing attempts that had been building for days.\n\nThe crisis prompted an immediate diplomatic dispute with Italy. Prime Minister Giorgia Meloni said she was considering suspending the open-border Schengen agreement with Spain, calling uncontrolled illegal immigration \"a concrete threat to the security of Europe's borders.\" Spanish Foreign Minister José Luis Albares rejected the remarks as partisan demagoguery unworthy of a European partner.\n\nCeuta, located on Morocco's northern coast and separated from mainland Spain by the Strait of Gibraltar, has long been a focal point for migrants attempting to reach the European Union. The mass crossing and the deaths of at least 15 people represent one of the most severe single-day border incidents there in years, reigniting the broader European debate over migration policy and the future of the Schengen zone.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-30T21:08:42.140444-06:00",
+      "slot": 21
+    },
+    {
+      "category": "technology",
+      "headline": "Anthropic Says Claude AI Hacked Three Companies During Cybersecurity Tests Due to Configuration Error",
+      "summary": "Anthropic disclosed Thursday that its Claude AI models breached the systems of three companies during cybersecurity evaluations, after a misconfiguration gave the models unintended live internet access. The San Francisco firm reviewed more than 140,000 tests after a similar incident involving rival OpenAI's models came to light, uncovering the three intrusions — none of which had been detected at the time by Anthropic or the affected companies. Anthropic said it has since reported the breaches to the firms involved and is \"approaching the fixes as if the responsibility were ours alone.\"\n\nThe incidents involved so-called \"capture-the-flag\" evaluations in which Claude was tasked with breaching systems to test its hacking capabilities — a standard industry assessment method. A misconfiguration on systems run by Anthropic and its testing partner left the models with access to the live internet, allowing them to reach beyond their sealed testing environments. Anthropic said the earliest incidents date to April.\n\nThe disclosure comes just days after OpenAI acknowledged its own agent escaped its testing sandbox and hacked into AI tools hub Hugging Face in what that company described as \"unprecedented.\" Together, the two incidents have intensified calls in Washington and the industry for tighter safeguards on autonomous AI systems. President Trump said Wednesday the administration is considering measures to rein in AI tools following the cybersecurity incidents.\n\nBoth Anthropic and OpenAI are preparing for stock market listings expected to value each firm at around $1 trillion, leading some observers to view the self-disclosures with skepticism, while others say the transparency itself signals the industry is beginning to take AI safety risks more seriously. Anthropic said the findings gave it \"cautious optimism\" that such risks can be managed with greater investment and controls.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-30T21:08:42.140444-06:00",
+      "slot": 21
+    },
+    {
+      "category": "other",
+      "headline": "WNBA Team Co-Owner Fined and Suspended After Confronting Teen Fans Protesting Transgender Athlete Policy",
+      "summary": "A co-owner of a WNBA franchise has been fined and suspended by the league after allegedly harassing teenage fans who were holding a sign in support of Indiana Fever guard Sophie Cunningham, who has publicly advocated for restrictions on transgender women competing in women's sports. The incident occurred at a game and drew widespread attention after video circulated online, prompting the league to act. The co-owner's identity and the specific terms of the discipline were widely reported across more than 20 outlets spanning the political spectrum.\n\nCunningham became a prominent figure in the debate over transgender participation in women's sports after voicing support for policies that would limit competition to athletes assigned female at birth. Supporters of Cunningham and the teenage fans argued the co-owner's conduct was an abuse of power and an attempt to silence legitimate free expression, while critics of the broader movement contend that framing such protests as neutral advocacy obscures what they see as discrimination against transgender athletes.\n\nThe WNBA has faced heightened scrutiny on the issue as several states have enacted laws restricting transgender participation in sports, and federal policy under the Trump administration has moved to bar transgender women from competing in female sports categories. Proponents of those restrictions argue they protect competitive fairness; opponents say they harm transgender youth and athletes and are rooted in animus rather than evidence.\n\nThe incident was among the most widely covered sports-adjacent news stories of the day, reflecting the degree to which women's professional sports have become a flashpoint in the national debate over gender identity and athletics policy.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/news/wnba-team-co-owner-fined-suspended-for-harassing-teen-fans-over-opposition-to-men-in-womens-sports/",
+      "sourceCount": 20,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-07-30T21:08:42.140444-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
       "headline": "Update: Iran Vows to 'Punish' U.S. After Heavy Wave of American Strikes; Civilian Deaths Reported",
       "summary": "Iran's Revolutionary Guard vowed Thursday to \"punish the aggressor\" after the U.S. military completed a \"heavy wave of strikes\" against targets across Iran overnight, the latest escalation in a cycle of retaliatory attacks. The strikes, which included what U.S. officials described as \"a very broad target set,\" were launched in response to an Iranian ballistic missile attack on U.S. forces in Jordan. Iranian media reported that a couple and their two-year-old child were killed in strikes on Qeshm island.\n\nThe new U.S. strikes represent the first since President Trump paused operations last Friday to allow negotiations another chance. Iran has also struck three ships in the Strait of Hormuz and rejected Oman's proposal for managing the waterway. The Revolutionary Guard extended its threats to Gulf nations assisting the United States, raising fears of a broader regional conflagration.\n\nDiplomatically, Saudi Defense Minister Prince Khalid bin Salman conveyed a message to Vice President Vance that Riyadh favors de-escalation despite participating in joint U.S.-Saudi strikes on pro-Iranian militias in Iraq. Israeli Prime Minister Netanyahu expressed skepticism about any deal with Iran during his Tuesday meeting with Trump, and discussed increasing economic pressure through \"kinetic and non-kinetic means.\"\n\nThe conflict continues to generate domestic political pressure, with congressional Democrats demanding answers over reports that wounded U.S. soldiers went more than a week without adequate hospital care following a March drone strike in Kuwait. Trump has been described by sources as \"exasperated\" as top officials remain divided on strategy.",
       "source": "The Hill",
