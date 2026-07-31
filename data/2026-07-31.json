@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, July 31, 2026",
   "stories": [
     {
+      "category": "other",
+      "headline": "F-35 Fighter Jet Crashes at Marine Corps Air Station Miramar in San Diego",
+      "summary": "A U.S. Marine Corps F-35 stealth fighter jet crashed Friday morning at Marine Corps Air Station Miramar in San Diego, California, sparking a brush fire on the installation. The incident occurred at approximately 10 a.m. local time and is under investigation by military officials.\n\nThe pilot ejected from the aircraft and was recovered by first responders. Officials confirmed the pilot was en route to a medical facility, though no further details on injuries were immediately released. Emergency personnel responded to the scene.\n\nThe F-35 was assigned to the 3rd Marine Aircraft Wing. The cause of the crash remains unknown, and military officials have not yet released additional details about the extent of damage to the aircraft or surrounding area.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/6002796-marine-corps-jet-crash-san-diego/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier2",
+      "addedAt": "1:46 PM MT",
+      "addedAtISO": "2026-07-31T13:46:24.575952-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "DOJ Announces Seven-State Data-Sharing Agreement to Combat Fraud After $350 Million Uncovered in Southeast",
+      "summary": "The Department of Justice launched a federal-state data-sharing partnership Thursday with seven southeastern states — Alabama, Florida, Georgia, Louisiana, Mississippi, North Carolina, and South Carolina — aimed at combating fraud in taxpayer-funded programs. The announcement came during a roundtable in Columbia, South Carolina, attended by U.S. attorneys, state attorneys general, and more than 50 state officials.\n\nThe new agreement gives the DOJ's National Fraud Enforcement Division access to public registration and payment data tied to programs including SNAP, Small Business Administration loans, and Medicaid. The initiative follows the uncovering of roughly $350 million in fraud in the region and the charging of 12 defendants since July 4. South Carolina Attorney General Alan Wilson highlighted a $20 million Medicaid fraud scheme — the largest in state history — discovered through interstate collaboration.\n\nAssistant Attorney General Colin M. McDonald emphasized the tangible human costs of the crimes, stating that fraud diverts resources from needy families, elderly health care recipients, and children's education. Officials framed the partnership as a model for national replication, with Gov. Henry McMaster and North Carolina Attorney General Alan Jackson both citing the importance of a unified front against increasingly sophisticated fraud schemes.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/justice/4669496/doj-data-sharing-agreement-state-fraud/",
+      "sourceCount": 18,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:46 PM MT",
+      "addedAtISO": "2026-07-31T13:46:24.575952-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Update: FIFA Vows to Press Ahead With Private Investment Plan Despite UEFA and CONCACAF Boycott Threats",
+      "summary": "FIFA issued a defiant statement Friday insisting \"nobody is selling football\" as it pledged to continue its controversial proposal to sell minority stakes in its competitions to private investors, despite a vote by UEFA — which governs 55 European member associations — to boycott future World Cups if the plan proceeds. CONCACAF, whose 41 member associations hosted this year's World Cup, also formally rejected the proposal.\n\nFIFA president Gianni Infantino's plan would create a commercial subsidiary called FIFA Forward Enterprise (FFE), in which external investors could hold minority, non-controlling stakes. According to a JP Morgan document, the structure is intended to increase payouts to member associations to an estimated 24 million euros per federation in the 2035–2039 cycle. Infantino has offered $40 million to member associations that back the plan and set a September 19 deadline for initial acceptance of $20 million.\n\nUEFA and CONCACAF together represent 90 of the 211 FIFA member votes, meaning Infantino needs 106 votes to proceed. UEFA has accused FIFA leadership of seeking to use football \"to enrich themselves and their friends.\" The proposed lead investor group would be led by Thrive Eternal, an American venture capital firm founded by Joshua Kushner. FIFA said the consultation process was disrupted by \"incorrect media reports\" and reaffirmed its commitment to an \"open and democratic\" vote of member associations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:46 PM MT",
+      "addedAtISO": "2026-07-31T13:46:24.575952-06:00",
+      "slot": 14
+    },
+    {
       "category": "politics",
       "headline": "Update: Cornyn Blocks Blanche AG Nomination Over 'Anti-Weaponization' Fund as Trump Retaliates",
       "summary": "President Trump publicly attacked Sen. John Cornyn (R-Texas) early Friday after Cornyn withheld support for acting Attorney General Todd Blanche's nomination, citing objections to Trump's proposed 'anti-weaponization' fund. Trump argued on social media that Cornyn had never raised concerns about the fund until after Trump endorsed Cornyn's primary challenger, framing the senator's resistance as political retribution rather than principled opposition.\n\nCornyn's move represents a significant intraparty confrontation, with the Texas senator using his leverage on the Senate Judiciary Committee — which was set to vote on Blanche's nomination Thursday — to extract concessions or signal independence from the White House. Blanche, who previously served as Trump's personal attorney, has faced a contentious confirmation process since his nomination.\n\nThe standoff highlights growing tensions between Trump and Senate Republicans as the administration pushes an expansive legal and political agenda with midterm elections less than 100 days away. Cornyn's willingness to openly defy the president on a high-profile nomination underscores the limits of White House influence over even loyal Republican senators when their own political survival is at stake.\n\nThe 'anti-weaponization' fund at the center of the dispute is a Trump administration proposal that critics, including some Republicans, argue raises separation-of-powers concerns. The Senate Judiciary Committee vote on Blanche's nomination remained in limbo as of Friday morning.",
