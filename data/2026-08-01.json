@@ -3,6 +3,48 @@
   "dateFormatted": "Saturday, August 1, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Bomb Kills Three at Moscow Restaurant in Suspected Terror Attack",
+      "summary": "A homemade explosive device was detonated Saturday evening outside an Italian restaurant on Kudrinskaya Square in central Moscow, killing at least three people and wounding 21 others. Russian state media, citing the National Anti-Terrorist Committee, said a woman carrying the explosives attempted to enter the restaurant but was stopped by a security guard; the device detonated at the entrance, killing the woman, the guard, and a restaurant visitor.\n\nThe blast occurred at approximately 20:00 local time at a private function being held at the establishment, located in one of Moscow's landmark Stalin-era skyscrapers. Roads around the square were temporarily closed and law enforcement cordoned off the area, with heavily armed officers visible on scene. A nearby cycling event was cancelled.\n\nThe attack marks a rare mass-casualty bombing in the Russian capital and comes as Russia continues its war in Ukraine. No group had claimed responsibility as of initial reports. Russian authorities have not publicly named a suspect or identified the woman who carried the device.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "4:07 PM MT",
+      "addedAtISO": "2026-08-01T16:07:15.416096-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Update: Hamas Accepts Disarmament Roadmap; Details of Phased Plan Revealed",
+      "summary": "Hamas has formally accepted a disarmament plan under which it would lay down its weapons as part of a broader Gaza peace agreement, a development President Trump called \"a monumental step toward lasting peace and security.\" The BBC has obtained a four-page document outlining the phased disarmament of Hamas and a gradual Israeli withdrawal, supplementing the 15-point roadmap published by the U.S.-led Board of Peace.\n\nUnder the plan, Hamas and other Palestinian factions would inventory and store heavy weapons, military production sites, weapons depots, and tunnel networks under the oversight of the Palestinian National Committee — a body of independent technocrats — working alongside an International Stabilisation Force. The process would be \"gradual, sequential, and time-bound,\" with an implementation schedule to be prepared within 14 days. Crucially, no weapons would be transferred to Israel or any non-Palestinian party.\n\nIsrael remains highly skeptical and has said it will not withdraw from Gaza until Hamas actually disarms. Hamas, for its part, has conditioned any weapons handover on Israel ending \"all forms of aggression\" and withdrawing its forces first, calling this a \"fundamental prerequisite.\" The mutual conditionality means significant hurdles remain before the framework translates into action.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:07 PM MT",
+      "addedAtISO": "2026-08-01T16:07:15.416096-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Tourist Plane Crashes Over Peru's Nazca Lines, Killing All 13 on Board",
+      "summary": "A small tourist aircraft crashed Saturday while flying over the Nazca Lines in southern Peru, killing all 13 people aboard — 11 passengers and two pilots. Police Major Jorge Andrade confirmed there were no survivors, saying authorities had recovered four bodies from the crash site near the Pueblo Viejo region. The plane, operated by local airline Aerodiana, had departed from an airport in Pisco.\n\nThe Nazca Lines are a UNESCO World Heritage Site featuring ancient geoglyphs etched into the desert floor, drawing tourists from around the world for aerial sightseeing tours. The cause of the crash had not been determined as of initial reports. Local officials expressed \"deep sorrow\" for the victims and extended condolences to their families.\n\nThe site has seen multiple fatal plane crashes in recent decades. A 2022 crash over the Nazca Lines killed seven people, and a 2010 incident killed six. The identities and nationalities of those aboard Saturday's flight had not yet been publicly disclosed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:07 PM MT",
+      "addedAtISO": "2026-08-01T16:07:15.416096-06:00",
+      "slot": 18
+    },
+    {
       "category": "science_health",
       "headline": "DR Congo Ebola Outbreak Is Worst in Country's History, WHO Warns",
       "summary": "The World Health Organization declared Friday that the ongoing Ebola outbreak in the Democratic Republic of Congo is the largest in the country's history. As of July 30, there were 3,605 confirmed cases and 1,587 deaths — a fatality rate of 44 percent — surpassing the previous record outbreak of 2018–2020, which recorded nearly 3,500 cases.\n\nThe outbreak, caused by the Bundibugyo strain of the Ebola virus, was declared on May 15, 2026. The WHO warned that transmission is accelerating, with the past week recording the highest weekly total yet: 567 new cases and 296 deaths. There is currently no approved vaccine or treatment for the Bundibugyo strain, though candidate vaccines are in development in the United Kingdom and Singapore.\n\nThe epicenter is Ituri province in northeastern Congo, which borders South Sudan and Uganda. The outbreak has spread to North and South Kivu provinces, large portions of which are controlled by the Rwanda-backed M23 armed group, severely hampering containment efforts. Twenty cases have been reported in Uganda, one in France, and two patients from Congo have been treated in Germany.\n\nThe WHO cited insecurity, population displacement, and cross-border movement as the primary factors impeding the response and increasing the risk of further geographic spread. The convergence of an active armed conflict with a fast-moving viral outbreak with no approved treatment has made this one of the most difficult Ebola responses in the disease's recorded history.",
