@@ -3,6 +3,48 @@
   "dateFormatted": "Saturday, August 1, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: Russian Missiles Kill Nine in Kyiv as Ukraine Sinks Russian Ship in Black Sea",
+      "summary": "At least nine people were killed and dozens more injured when Russian ballistic missiles struck residential areas across Kyiv on Saturday, Ukrainian President Volodymyr Zelensky announced. Strikes hit multiple city districts, partially destroying apartment buildings and triggering fires and power outages. A missile also landed near the Lithuanian embassy, shattering windows and scattering debris in the compound.\n\nSeparately, Ukrainian drones sank a 100,000-tonne Russian-owned container ship, the Yanina, in the Black Sea roughly 130 miles from Novorossiysk. State-owned Russian nuclear operator Rosatom, which owned the vessel, confirmed the attack and said all 17 crew members were rescued. Rosatom's CEO called the strike \"piracy and robbery\" and said the ship was carrying civilian cargo including frozen food and construction materials.\n\nThe Kyiv strikes come two days after a suspected Russian cruise missile landed in Polish territory during a separate mass attack that killed at least eight Ukrainians. Zelensky has urgently appealed for more Patriot air defense interceptors, saying they are the only weapon capable of downing ballistic missiles. He met President Trump in Washington earlier this week to press the case.\n\nTrump, speaking at Camp David on Friday, said the U.S. had not agreed to allow Ukraine to manufacture Patriot missiles domestically but that talks were continuing, calling it \"a big step\" that required caution. Ukraine's stocks of Patriots have been depleted as Russia has escalated its ballistic missile campaign against the capital.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "7:48 AM MT",
+      "addedAtISO": "2026-08-01T07:48:44.231036-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Update: Italy Suspends Schengen Rights for Spain as Ceuta Migrant Crisis Deepens",
+      "summary": "Italy imposed air and sea border checks on Spain and temporarily suspended Spain's Schengen free-movement rights on Friday, citing the mass influx of an estimated 60,000 migrants who crossed from Morocco into the Spanish North African enclave of Ceuta. Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\" as she announced the emergency measure, marking a significant fracture within the European Union over migration policy.\n\nSpanish Prime Minister Pedro Sánchez condemned the Italian response as \"selfish, polarizing and unlawful,\" insisting the integrity of the Schengen area remained guaranteed. Spanish authorities reported that most of the migrants had returned voluntarily to Morocco amid severe shortages of food, water and shelter in the tiny enclave, though thousands remained. At least 67 people died attempting the crossing, officials said.\n\nThe crisis has placed Sánchez in a politically exposed position. He has been among the most progressive European leaders on migration, and critics argue his stance left Spain unprepared for an event the president of Ceuta described as an overwhelming flood of arrivals since Thursday. Spain has deployed troops and resources to manage the situation.\n\nThe episode reopens deep divisions within the EU over burden-sharing and border enforcement. Italy's unilateral suspension of Schengen obligations for a fellow member state is legally contested and signals the fragility of European cohesion on migration, a pressure point that has fueled the rise of right-wing parties across the continent.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/international/6003064-ceuta-migration-spain-morocco-italy/",
+      "sourceCount": 8,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:48 AM MT",
+      "addedAtISO": "2026-08-01T07:48:44.231036-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Independent Experts Confirm Pellet-Gun Wounds Among India Protest Crackdown Victims",
+      "summary": "Independent ballistic experts have told the BBC that injuries sustained by at least four supporters of India's Cockroach Janta Party (CJP) during a large protest in New Delhi on July 20 are consistent with pellet-gun fire from security forces. The Indian government has not confirmed media reports that pellet guns were deployed during the crackdown, in which tens of thousands of protesters marched toward parliament to demand education reforms and the resignation of the education minister.\n\nUK-based ballistics forensic scientist Philip Boyce told the BBC the injuries — dozens of tiny round punctures — were \"definitely from a pellet gun,\" specifically a 12-gauge pump-action shotgun, fired from at least 50 feet. Armament Research Services director NR Jenzen-Jones separately confirmed that images from the protests showed police using shotguns and that the injuries were \"strongly consistent with the use of birdshot.\"\n\nDelhi Police officially reported 60 protesters and 118 police personnel were injured during the crackdown, in which officers used wooden sticks, batons and tear gas on crowds. The CJP said the true number of injured protesters was substantially higher than the official count. A senior hospital official confirmed a fourth patient received treatment for pellet wounds.\n\nThe findings are significant because pellet guns, while used in crowd control in some countries, are banned in several others and are known to cause serious and occasionally life-threatening injuries, as well as toxic lead contamination. The BBC's investigation adds independent evidentiary weight to accounts that security forces used more severe measures than officially acknowledged against demonstrators seeking political accountability.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:48 AM MT",
+      "addedAtISO": "2026-08-01T07:48:44.231036-06:00",
+      "slot": 8
+    },
+    {
       "category": "politics",
       "headline": "Update: Trump Declares Anti-Weaponization Fund 'Dead' as Blanche AG Nomination Remains Blocked",
       "summary": "President Trump told reporters at Camp David on Friday that his proposed $1.8 billion anti-weaponization fund is 'dead,' saying administration officials had 'agreed not to have a fund' to compensate political allies — while simultaneously expressing personal disagreement with that decision. The contradictory statements came hours after Trump posted on social media defending compensation for those prosecuted in connection with the January 6, 2021 Capitol attack, whom he described as 'suffering still, many ruined.'\n\nThe standoff centers on Todd Blanche's nomination as attorney general. Republican Sens. John Cornyn of Texas and Thom Tillis of North Carolina have refused to support Blanche until they receive written assurance the fund will not be created. Both senators said Trump's Friday comments made clear the fund remains 'still alive' in the president's mind, underscoring why they are demanding formal documentation. Senate Judiciary Committee Chairman Chuck Grassley rescheduled a committee confirmation vote for Tuesday, saying he wants Blanche confirmed before the August recess.\n\nThe dispute highlights a rare intraparty clash within the Republican Senate caucus and the White House. Tillis, who is retiring, and Cornyn, who lost reelection after Trump backed his primary opponent, are negotiating from positions of relative independence. Blanche has been serving as acting attorney general throughout the impasse.",
