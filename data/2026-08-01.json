@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-01",
+  "dateFormatted": "Saturday, August 1, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Update: Trump Declares Anti-Weaponization Fund 'Dead' as Blanche AG Nomination Remains Blocked",
+      "summary": "President Trump told reporters at Camp David on Friday that his proposed $1.8 billion anti-weaponization fund is 'dead,' saying administration officials had 'agreed not to have a fund' to compensate political allies — while simultaneously expressing personal disagreement with that decision. The contradictory statements came hours after Trump posted on social media defending compensation for those prosecuted in connection with the January 6, 2021 Capitol attack, whom he described as 'suffering still, many ruined.'\n\nThe standoff centers on Todd Blanche's nomination as attorney general. Republican Sens. John Cornyn of Texas and Thom Tillis of North Carolina have refused to support Blanche until they receive written assurance the fund will not be created. Both senators said Trump's Friday comments made clear the fund remains 'still alive' in the president's mind, underscoring why they are demanding formal documentation. Senate Judiciary Committee Chairman Chuck Grassley rescheduled a committee confirmation vote for Tuesday, saying he wants Blanche confirmed before the August recess.\n\nThe dispute highlights a rare intraparty clash within the Republican Senate caucus and the White House. Tillis, who is retiring, and Cornyn, who lost reelection after Trump backed his primary opponent, are negotiating from positions of relative independence. Blanche has been serving as acting attorney general throughout the impasse.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/blanche-tillis-cornyn-trump-attorney-general-settlement-0f214c3da82c5d5ee971ef83565a344b",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-01T05:08:23.798253-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Hundreds Evacuated by Sea as New Wildfires Break Out Across Greece; Europe Blazes Continue",
+      "summary": "Around 500 people, mostly tourists, were stranded and evacuated by boat from the coastal town of Agios Vasileios in central Greece on Friday after a wildfire broke out and spread rapidly on strong winds. A second fire ignited further along the same coastline, while firefighters continued battling a large wildfire on Crete that has burned thousands of hectares and prompted the temporary evacuation of approximately 8,000 people. Fires have also broken out on the Greek islands of Paros, Andros, and Kalymnos.\n\nThe Greek blazes are part of a broader European wildfire crisis. Spain has seen more than 200,000 hectares burn in 2026 — roughly five times above the historical average for this point in the year — including what officials are calling the largest recorded wildfire in Spanish history. Portugal, France, and Turkey are also battling active fires, with a new heatwave this week raising the risk of reignition near Madrid.\n\nClimate scientists note that a mild, wet winter encouraged dense vegetation growth that subsequently dried out in successive heat waves, creating extreme fuel conditions. EU data shows burnt land across the continent is running well above historical norms. This story updates previous coverage of European wildfires; the new development is a fresh wave of evacuations in central mainland Greece and the confirmed sea evacuation of hundreds of tourists.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-01T05:08:23.798253-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Harris Endorses Electoral College Abolition, Court Expansion at Urban League Speech",
+      "summary": "Former Vice President Kamala Harris publicly backed abolishing the Electoral College and expanding the Supreme Court to 13 justices on Friday, positions she did not campaign on during her 2024 presidential run. Speaking at the National Urban League Conference in Nashville, Harris also suggested revisiting statehood for Puerto Rico, going beyond her prior support for Washington, D.C. statehood. 'We need to revisit the Electoral College,' Harris told the audience, acknowledging the remarks would be 'controversial coming from me, in particular' — a reference to her 2024 loss to Donald Trump in both the Electoral College and the popular vote.\n\nHarris said she has not yet decided whether to seek the presidency in 2028, telling attendees she is 'fully, sincerely, focused on the midterms.' Multiple Democratic aides and strategists have publicly described her as the leading contender for the party's 2028 nomination. The speech came as reports indicated Harris has been reaching out to progressive groups, including pro-Palestinian organizations and New York City Mayor Zohran Mamdani, signaling an effort to consolidate support on the party's left flank.\n\nThe policy shifts drew immediate reaction along partisan lines. Supporters see the positions as overdue democratic reforms; critics, including Republican commentators, argued that abolishing the Electoral College would fundamentally alter the constitutional balance between populous and less-populous states, and that court expansion would politicize the judiciary. The court-expansion proposal has previously been opposed by some moderate Democrats as well.",
+      "source": "Fox News Politics",
+      "url": "https://www.foxnews.com/politics/kamala-harris-backs-major-changes-supreme-court-electoral-college-ahead-possible-2028-campaign",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-01T05:08:23.798253-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Search Expands for Seven Missing Climbers on Pakistan's Broad Peak, Including Nirmal Purja",
+      "summary": "Rescue teams entered a second day of searching Saturday for seven climbers still missing after a deadly avalanche struck a multinational expedition on Broad Peak, the world's 12th-highest mountain on the Pakistan-China border. Pakistani officials confirmed three bodies have been recovered and identified: American Mallory Geis, Nadhira Ahmed Abdullah Al Harthy of Oman, and Pur Bahadur Gurung of Nepal. Among the seven still unaccounted for is Nirmal Purja, the renowned Nepali-British climber famous for summiting all 14 of the world's 8,000-meter peaks in just over six months in 2019.\n\nThe search operation has expanded to include local Pakistani climbers and Nepali mountaineers who halted their own expeditions on nearby K2. Drones have spotted several climbers on the mountain, but their condition remains unknown. Bad weather and the risk of further avalanches are hampering both helicopter and ground rescue efforts; military helicopters remain on standby pending improved conditions.\n\nThe avalanche struck the 8,047-meter peak on Thursday. Purja, a former British Special Boat Service operator, was leading the multinational expedition. The update from previous coverage is the confirmation of three named fatalities and the expanded multinational rescue operation now under way.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-01T05:08:23.798253-06:00",
+      "slot": 5
+    }
+  ]
+}
