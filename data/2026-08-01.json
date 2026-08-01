@@ -3,6 +3,48 @@
   "dateFormatted": "Saturday, August 1, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "DR Congo Ebola Outbreak Is Worst in Country's History, WHO Warns",
+      "summary": "The World Health Organization declared Friday that the ongoing Ebola outbreak in the Democratic Republic of Congo is the largest in the country's history. As of July 30, there were 3,605 confirmed cases and 1,587 deaths — a fatality rate of 44 percent — surpassing the previous record outbreak of 2018–2020, which recorded nearly 3,500 cases.\n\nThe outbreak, caused by the Bundibugyo strain of the Ebola virus, was declared on May 15, 2026. The WHO warned that transmission is accelerating, with the past week recording the highest weekly total yet: 567 new cases and 296 deaths. There is currently no approved vaccine or treatment for the Bundibugyo strain, though candidate vaccines are in development in the United Kingdom and Singapore.\n\nThe epicenter is Ituri province in northeastern Congo, which borders South Sudan and Uganda. The outbreak has spread to North and South Kivu provinces, large portions of which are controlled by the Rwanda-backed M23 armed group, severely hampering containment efforts. Twenty cases have been reported in Uganda, one in France, and two patients from Congo have been treated in Germany.\n\nThe WHO cited insecurity, population displacement, and cross-border movement as the primary factors impeding the response and increasing the risk of further geographic spread. The convergence of an active armed conflict with a fast-moving viral outbreak with no approved treatment has made this one of the most difficult Ebola responses in the disease's recorded history.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:22 PM MT",
+      "addedAtISO": "2026-08-01T13:22:06.261943-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Federal Blueprint Orders New Water Cuts as Colorado River Continues to Shrink",
+      "summary": "The federal Bureau of Reclamation released a new environmental impact statement Friday outlining a 10-year management plan for the Colorado River, imposing fresh water cutbacks on the seven states and parts of northwestern Mexico that depend on it. The move comes after years of failed negotiations among the states, forcing the federal government to intervene with binding requirements. The river now runs approximately 20 percent below the flow levels assumed in the 1922 Colorado River Compact, a shortfall exacerbated by a quarter-century of climate-change-driven drought.\n\nThe river supplies water to nearly 40 million people across Colorado, Wyoming, Utah, New Mexico, California, Arizona, and Nevada, and is critical to agriculture throughout the American West and Southwest. Reservoirs Lake Powell and Lake Mead, the two largest in the country by capacity, have both hit historic low levels in recent years, prompting federal action. The most immediate effects of the new plan will be felt over the next two years, though some scenarios in the blueprint envision steep cuts over the decade ahead.\n\nThe core problem dates to the 1922 compact, which divided the river at an unusually wet period and assigned fixed volumetric allotments rather than percentage shares — meaning all parties lose as the overall flow declines, but none are automatically required to absorb proportionate cuts. The states' inability to negotiate voluntary reductions led the Bureau of Reclamation to issue its own framework, which allows it to adapt water releases from its major dams to actual river hydrology year by year.\n\nThe new rules do not yet carry the force of final regulation, but the environmental impact statement represents the clearest federal signal yet that mandatory cuts are coming regardless of state agreement. Agricultural users, tribal nations, and municipalities across the Southwest face difficult tradeoffs in deciding how to allocate reduced supplies.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/western-states-face-more-water-cutbacks-as-colorado-river-shrinks",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:22 PM MT",
+      "addedAtISO": "2026-08-01T13:22:06.261943-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Update: FIFA's Infantino Faces Calls to Resign as UEFA, CONCACAF Demand Full Leadership Review",
+      "summary": "FIFA President Gianni Infantino is facing the most serious threat to his tenure since taking office in 2016, after UEFA and CONCACAF issued statements Saturday calling for a full review of FIFA leadership following the collapse of his plan to sell stakes in FIFA competitions to private investors. UEFA declared it had \"lost confidence\" in Infantino's leadership, while CONCACAF said \"accountability cannot be optional\" and called the failed investment proposal \"a symptom of leadership that has stopped putting football first.\"\n\nInfantino formally scrapped the private investment proposal this week after it provoked a threatened boycott of FIFA competitions from UEFA and CONCACAF, as well as criticism from the Asian Football Confederation. British Prime Minister Andy Burnham became the first head of government to publicly call for Infantino's resignation. FIFA's own chief operating officer said the administration had been \"deceived\" about the nature of the proposal, and Carlos Cordeiro — a Trump-appointed senior adviser on the 2026 World Cup task force who had also served as Infantino's special adviser — resigned.\n\nInfantino, who is seeking a fourth term as FIFA president at the March 2027 Congress, retains the support of some member associations. Qatar's football federation publicly backed him Saturday, calling his decision to withdraw the plan an act of wisdom. Former FIFA vice-president Jim Boyce told the BBC he still believed Infantino had \"enough support\" to win re-election, though he acknowledged the situation was fluid.\n\nThe crisis centers on allegations that Infantino pursued the private investment scheme without adequate consultation with member associations or transparency about its terms — violating commitments he made when first running for the presidency. UEFA cited his own 2016 campaign speech, in which he promised that \"the money of FIFA is your money\" and pledged full transparency, as evidence of broken promises.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:22 PM MT",
+      "addedAtISO": "2026-08-01T13:22:06.261943-06:00",
+      "slot": 14
+    },
+    {
       "category": "world",
       "headline": "Update: White House Signals New Iran Strikes as Revolutionary Guard Hits Tankers, Kuwait; Hamas Agrees to Disarm",
       "summary": "The White House signaled Friday that President Trump is weighing fresh military strikes on Iran after Tehran's paramilitary Revolutionary Guard struck two oil tankers in the Strait of Hormuz and launched drone attacks on Kuwait, a Gulf state hosting U.S. forces. Kuwait's Defense Ministry confirmed its armed forces shot down Iranian drones targeting military facilities, causing material damage but no casualties. The Strait of Hormuz, a critical chokepoint for global energy shipments, remains largely closed due to the ongoing conflict.\n\nPress Secretary Karoline Leavitt issued a fresh warning, saying Iran had signed a memorandum of understanding with the U.S. on a truce last month only to 'break it, shoot at commercial ships, and kill American soldiers.' Trump told reporters at Camp David that 'we'll be hitting them very hard,' adding he expected U.S. military action to continue for some time. No overnight U.S. strikes on Iran occurred, but the White House left open the possibility of renewed action.\n\nIn a significant potential breakthrough, Hamas confirmed Friday it will begin disarming as part of a deal announced by Trump that also requires Israel to end strikes and withdraw from Gaza. However, Hamas said the laying down of heavy weapons was contingent on the creation of a Palestinian state — a condition Israel's current government adamantly rejects — leaving major obstacles to any final resolution.\n\nThe dual developments — escalating Iran-U.S. hostilities and a fragile Gaza opening — mark a pivotal and fast-moving day across the Middle East. Global energy markets remain under pressure as long as the Strait of Hormuz stays effectively closed to commercial shipping.",
