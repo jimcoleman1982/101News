@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-02",
+  "dateFormatted": "Sunday, August 2, 2026",
+  "stories": [
+    {
+      "category": "other",
+      "headline": "Three Killed, Several Wounded in Shooting at Idaho In-N-Out Burger",
+      "summary": "A gunman opened fire at an In-N-Out Burger restaurant in Twin Falls, Idaho, on Saturday afternoon, killing three people and wounding seven others, some critically, according to city officials. Police who responded to what a spokesperson described as a 'very chaotic scene' near a busy shopping area found the suspected gunman dead in an area near the restaurant. Twin Falls city public information officer Josh Palmer confirmed the fatalities but did not immediately provide details on whether the suspect died from self-inflicted wounds or a police encounter.\n\nLaw enforcement from multiple agencies responded to the scene. Authorities have not publicly identified the suspect or released a motive as of Saturday evening. The shooting drew immediate national attention given its location at a popular fast-food chain in a mid-sized Idaho city.\n\nThe incident is the latest in a series of mass shooting events at public commercial locations in the United States. Twin Falls has a population of roughly 50,000 and is the largest city in southern Idaho. No additional suspects were reported to be at large.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/6004064-in-n-out-burger-shooting-idaho/",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-02T05:08:13.554440-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Indonesia Ferry Fire Kills Five, Leaves 41 Missing with Over 250 Aboard",
+      "summary": "A passenger ferry carrying at least 250 people caught fire off Madura island in Indonesia on Saturday, killing five people and leaving 41 missing, according to Basarnas, the country's National Search and Rescue Agency. The vessel, KMP Mutiara Sentosa 2, was sailing from Surabaya in East Java to Makassar in South Sulawesi when the fire broke out between 6:00 and 7:00 a.m. local time.\n\nFootage broadcast by Indonesian news outlets showed large numbers of passengers in life jackets crowding lifeboats and the ship's bow and bridge while awaiting rescue, with flames and heavy smoke visible from the upper decks. Rescue personnel were seen throwing lifebuoys to passengers who had jumped into the sea. Basarnas confirmed the ferry was 'almost entirely engulfed in flames' by the time rescuers arrived.\n\nThe cause of the fire had not been determined as of Saturday. The missing persons count raised concerns that the death toll could rise significantly. Indonesian maritime disasters involving ferries are not uncommon in the archipelago nation, which relies heavily on sea transport across its thousands of islands.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-02T05:08:13.554440-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Zelensky Asks Trump to Press Musk on Expanding Starlink Access for Ukrainian Drone Strikes",
+      "summary": "Ukrainian President Volodymyr Zelensky asked President Donald Trump during a closed-door Oval Office meeting to persuade Elon Musk to allow Ukraine to use Starlink satellite connectivity to support drone strikes against Russia, according to multiple reports. The meeting took place during Zelensky's trip to the United States to attend the memorial service for Sen. Lindsey Graham (R-S.C.).\n\nStarlink, operated by Musk's SpaceX, has been a critical communications infrastructure for Ukraine throughout the war with Russia. Musk has previously placed restrictions on how Ukraine can use the service, including blocking its use in certain offensive operations near Crimea in 2023. The latest request signals Kyiv's continued effort to expand the operational scope of Starlink-enabled drone warfare.\n\nThe request places Trump in a potentially awkward position, as he has maintained a complex relationship with both Zelensky and Musk. The White House has not publicly commented on what, if any, commitments Trump made during the meeting. The development comes amid ongoing fighting in Ukraine and continued diplomatic efforts to broker a ceasefire.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/international/6003675-zelensky-asks-trump-starlink-access-musk/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-02T05:08:13.554440-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Italy Places Nearly All Major Cities on Highest Heat Alert as European Wildfires Continue",
+      "summary": "Italy's health ministry placed 19 major cities, including Rome, Milan, Venice, and Naples, on red alert Saturday as a new heatwave driven by a North African subtropical anticyclone intensified across the country. By Monday, 25 of Italy's 27 major cities are expected to be at the highest alert level, with temperatures reaching the mid-30s Celsius and authorities warning of dangers even to healthy adults. Residents were urged to stay indoors between 11 a.m. and 6 p.m. and remain hydrated.\n\nThe Italian alerts come as wildfires continued to burn across southern Europe. In France, roughly 2,500 people were evacuated in the Var region after a previously contained blaze reignited, though a major Gironde fire was brought under control and 200,000 evacuated residents were allowed to return home. In Greece, hundreds of tourists were evacuated by sea from a coastal town, while Spain has seen more than 200,000 hectares burn in 2026 — roughly five times above the seasonal average.\n\nScientists attribute the intensifying pattern to climate change, noting that Europe is warming twice as fast as the global average according to the Copernicus Climate Change Service. The successive heatwaves have created increasingly favorable conditions for wildfires across the Mediterranean basin. This story is a fresh development from previously covered European wildfire and heatwave coverage, with Italy's nationwide red alert system activation representing a new escalation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-02T05:08:13.554440-06:00",
+      "slot": 5
+    }
+  ]
+}
