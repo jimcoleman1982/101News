@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Ukraine Strikes Russian Oil Refinery and Strategic Airfield as War Intensifies",
+      "summary": "Ukraine carried out major overnight drone strikes deep inside Russia, hitting the Engels airfield in the Saratov region — a key base for Russian Tu-95 and Tu-160 strategic bombers — as well as a large oil refinery in the same region, some 600 kilometers from Ukraine's border. President Volodymyr Zelensky described the strikes as \"our long-range sanctions\" against facilities he says finance Moscow's war effort. Russia reported eight people killed across multiple strike sites and said its air defenses intercepted 635 drones.\n\nThe attacks also struck an oil depot in Kaluga region and a drone launch site in Bryansk. Russia separately reported overnight strikes on two Ukrainian ports and two vessels in the Black Sea, and a Russian strike later Sunday killed one person near Kharkiv. The Engels airfield is one of Russia's most significant strategic aviation bases, and a confirmed strike there would represent one of Ukraine's deepest and most consequential hits of the war.\n\nThe escalating exchange of long-range strikes on energy infrastructure, airfields, and logistics hubs comes as the front line remains largely static and U.S.-led mediation efforts have produced no breakthrough. Both sides have intensified attacks on each other's economic targets in recent weeks, with Ukraine repeatedly hitting Wildberries warehouse hubs, which it says supply drone components to Russian forces.\n\nThis is a materially new development from previous coverage, which focused on missile strikes on Kyiv and a sunken Russian ship. The targeting of Russia's strategic aviation base at Engels and the Saratov refinery represents a significant escalation in the geographic reach and strategic ambition of Ukraine's long-range campaign.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:05 AM MT",
+      "addedAtISO": "2026-08-02T10:05:28.683936-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Update: Trump Says Iran Has Agreed to 'Total' Reopening of Strait of Hormuz",
+      "summary": "President Donald Trump announced Sunday that Iran has agreed to a \"total\" reopening of the Strait of Hormuz, a critical waterway through which roughly 20 percent of the world's oil supply passes. The announcement comes as the two countries have been engaged in intense military exchanges and diplomatic back-and-forth, with Trump having called off an earlier wave of strikes contingent on a rapid nuclear deal.\n\nIran's leadership remains sharply divided over negotiations with Washington. The hardline Islamic Revolutionary Guard Corps faction, aligned with the \"Paydari\" movement, opposes any concessions and demands an outright military victory. A rival faction led by President Masoud Pezeshkian and parliament speaker Mohammad Bagher Qalibaf argues that negotiations are a legitimate complement to military pressure to extract concessions from the United States.\n\nThe Strait of Hormuz had been threatened with closure or disruption as tensions escalated between the U.S. and Iran following strikes and counter-strikes in recent days. A verified agreement to reopen the strait fully would have significant implications for global energy markets and the broader trajectory of the U.S.-Iran standoff.\n\nThis story carries significant weight given that any resolution — or collapse — of the Hormuz standoff directly affects global oil prices, regional security, and the prospects for a broader nuclear agreement. Coverage at this stage is limited to a single outlet, and the claim has not yet been independently corroborated, but the strategic importance of the development warrants inclusion.",
+      "source": "Fox News",
+      "url": "https://foxnews.com/live-news/trump-iran-war-israel-hormuz-august-2",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "10:05 AM MT",
+      "addedAtISO": "2026-08-02T10:05:28.683936-06:00",
+      "slot": 11
+    },
+    {
+      "category": "business",
+      "headline": "Truth Social Launches Paid Service Giving Financial Firms Faster Access to Trump Posts",
+      "summary": "Trump Media and Technology Group launched a paid subscription service Saturday called \"Truth API\" that provides financial firms and other organizations with real-time alerts for posts by President Trump and other top accounts on Truth Social — potentially milliseconds before the general public sees them. The company describes the feed as delivering \"the platform's most market-moving Truths,\" a frank acknowledgment that Trump's posts on the platform routinely move financial markets.\n\nTrump has used Truth Social throughout his second term to announce sweeping tariffs, declare military operations, and release official statements — departing sharply from prior presidents who used formal White House channels. Trading firms already access his posts via Bloomberg and Reuters scraping services, but the new direct feed could offer a speed advantage measurable in milliseconds, which is consequential for high-frequency trading operations.\n\nTrump owns approximately 41 percent of TMTG — 114.75 million shares — meaning he stands to profit directly from the new service. Democratic Senators Elizabeth Warren and Adam Schiff have called on the Securities and Exchange Commission to investigate whether the arrangement violates securities law, arguing the subscription \"appears to be an outrageous abuse of the President's office for his personal benefit that undermines everyday investors and the integrity of our markets.\"\n\nSupporters of the platform argue it is a legitimate monetization of a proprietary asset and that markets have always reacted to presidential communications. Critics contend that selling tiered access to presidential statements creates a two-tier information environment that advantages wealthy institutions over ordinary investors and raises unprecedented ethics questions about a sitting president profiting from the dissemination of his official statements.",
+      "source": "NBC Politics",
+      "url": "https://www.nbcnews.com/politics/donald-trump/truth-social-launches-service-selling-faster-access-trump-posts-rcna590419",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:05 AM MT",
+      "addedAtISO": "2026-08-02T10:05:28.683936-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "Update: Trump Calls Off Iran Strikes, Contingent on 'Rapid' Nuclear Deal",
       "summary": "President Donald Trump announced Sunday he is canceling a planned military strike on Iran, contingent on the two sides reaching a deal \"rapidly,\" including a resolution to reopen the Strait of Hormuz to all shipping. Trump touted progress in diplomatic talks and pointed to Saudi Crown Prince Mohammed bin Salman's push for de-escalation as a contributing factor. No strikes were reported from either side overnight following the announcement.\n\nIranian state media struck a defiant tone in response, with outlets mocking Trump with headlines such as \"Trump the fool has run out of steam\" and asserting that Tehran had not asked for the attacks to be called off. Iranian news agencies gave no indication that the country's position on the Strait of Hormuz had changed. Iran has repeatedly sought to control maritime traffic through the waterway, which carried roughly one-fifth of the world's oil supply before the conflict escalated.\n\nThe diplomatic opening comes as the State Department issued a travel warning urging Americans in the Middle East to \"consider departing now\" and cautioning travelers to prepare for flight cancellations and airspace closures. Trump simultaneously signaled renewed pressure on Israel to halt strikes in Gaza, as Palestinian civilian casualties continued despite his announcement of a breakthrough several days prior.\n\nThe situation remains highly fluid. Supporters of the administration's approach argue that Trump's combination of military pressure and diplomacy has brought Iran to the table, while critics contend the pattern of threatened strikes followed by withdrawals has undermined U.S. credibility and emboldened Tehran's public posture.",
       "source": "Fox News",
