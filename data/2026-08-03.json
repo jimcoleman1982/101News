@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "House Ethics Committee Recommends Censure of Rep. Chuck Edwards Over Sexual Harassment Violations",
+      "summary": "The House Ethics Committee released a bipartisan report Monday recommending that Rep. Chuck Edwards (R-N.C.) be formally censured by the full House after finding he violated House rules by failing to adhere to standards prohibiting sexual harassment and unwanted advances toward staff. The 25-page report concluded Edwards engaged in 'highly unprofessional' conduct with two young female staffers and that his behavior violated the Code of Official Conduct by failing to 'act in a manner that reflects creditably upon the House.' Edwards, who is married, did not immediately respond to requests for comment.\n\nThe committee, which operates on a bipartisan basis, found 'substantial reason to believe' Edwards violated House rules, stopping short of finding he engaged in direct sexual harassment but determining he violated the 'spirit' of those prohibitions. Censure is one of the most serious formal sanctions the House can impose on a sitting member, requiring a majority vote of the full chamber.\n\nThe recommendation now moves to the full House, where a vote on censure would put all members on record. Edwards represents North Carolina's 11th Congressional District. The case adds to a pattern of ethics investigations involving House members that has drawn attention from both parties in recent years.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/03/chuck-edwards-house-ethics-sexual-harassment",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:48 PM MT",
+      "addedAtISO": "2026-08-03T13:48:46.663493-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Maryland Democrats Open Special Session on Constitutional Amendment to Enable Partisan Redistricting",
+      "summary": "Maryland's General Assembly convened a special session Monday to begin debate on a constitutional amendment that would give Democratic lawmakers greater latitude to draw congressional maps favoring their party ahead of the 2028 election cycle. The proposed amendment would remove certain compactness and natural-boundary requirements from congressional redistricting, requirements a court previously used to strike down a 2021 Democratic gerrymander. If passed by three-fifths of both chambers, the measure would go before voters in November's general election.\n\nDemocratic state Senate President Bill Ferguson said his views on redistricting shifted after the U.S. Supreme Court weakened the Voting Rights Act in late April, which he said enabled Republicans to rapidly redraw districts in Southern states in ways that disadvantaged minority voters. 'It felt like the unwinding of any type of democratic norms in the blink of an eye,' Ferguson said. Maryland currently sends seven Democrats and one Republican — Rep. Andy Harris, chair of the House Freedom Caucus — to the U.S. House.\n\nRepublicans have sharply criticized the effort, calling it a blatant partisan power grab. The move is part of a broader national redistricting battle that has already reshaped the U.S. House map ahead of this fall's midterm elections, with both parties drawing maps aggressively in states they control. Ferguson acknowledged that future map changes could depend on November's midterm outcomes.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/maryland-democrats-considering-partisan-redistricting-for-2028-election",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:48 PM MT",
+      "addedAtISO": "2026-08-03T13:48:46.663493-06:00",
+      "slot": 14
+    },
+    {
+      "category": "other",
+      "headline": "'Spider-Man: Brand New Day' Sets All-Time North American Opening Weekend Record With $360 Million",
+      "summary": "Sony Pictures' 'Spider-Man: Brand New Day' broke the North American opening weekend box office record previously held by 'Avengers: Endgame,' earning $360 million in its debut weekend from 4,487 theaters across the U.S. and Canada, the studio announced Monday. The 2019 'Avengers: Endgame' record stood at $357 million; the new Spider-Man film surpassed it after a stronger-than-projected Sunday. Sony Pictures chairman Tom Rothman said, 'Records are made to be broken, but we will take great pride in this one, for as long as we hold it.'\n\nThe film stars Tom Holland in his fourth solo outing as Spider-Man, with Zendaya and Jon Bernthal also featured. Its opening surpasses all prior domestic records, including 'Avengers: Infinity War' ($257 million, 2018) and 'Star Wars: The Force Awakens' ($247 million, 2015). Combined with the simultaneous release of 'The Odyssey,' which shares several cast members, the weekend set an overall record for the domestic movie theater industry.\n\nThe milestone comes as the North American box office overall is tracking more than 15 percent ahead of last year, with over $6.2 billion in total ticket sales to date. The result is a significant boost for theatrical exhibition, which has faced structural headwinds from streaming competition in recent years.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/arts/spider-man-brand-new-day-nets-second-best-north-american-opening-ever-with-355-million",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "1:48 PM MT",
+      "addedAtISO": "2026-08-03T13:48:46.663493-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
       "headline": "Senate Reaches Bipartisan Deal to Avoid Government Shutdown",
       "summary": "Senate appropriators struck a bipartisan agreement Monday to fund the federal government through December 11, averting a potential government shutdown that could have coincided with midterm campaign season. The short-term continuing resolution is expected to come to a vote before the Senate departs for its August recess later this week.\n\nThe deal keeps agencies operating past the October deadline and removes a significant political liability for both parties as candidates focus on November midterm races. Leadership from both parties backed the measure, signaling rare cross-aisle cooperation on a fiscal deadline.\n\nGovernment funding agreements typically draw support from both parties as neither side wants to be blamed for a shutdown heading into an election cycle. The measure will next face a House vote before it can be sent to the president for signature.",
       "source": "The Hill",
