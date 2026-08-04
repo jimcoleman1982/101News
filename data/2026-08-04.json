@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Landslide Kills 14 at Ethiopian Mountain Monastery During Overnight Prayer Service",
+      "summary": "A landslide struck an Orthodox Christian monastery in Ethiopia's northern Amhara region in the early hours of Monday morning, killing at least 14 people and injuring seven others, five of them seriously. The hillside above the Tsadqane Debre Mitmaq St Mary Monastery collapsed during heavy overnight rains, burying a prayer chamber carved into the mountainside where worshippers had gathered for a holy water cleansing ritual.\n\nLocal official Dagnachew Azbite told the BBC that the land above the cave slid following sustained heavy rainfall throughout the night. Many of the victims had gathered to receive holy water, a practice popular among Ethiopian Orthodox Christians seeking healing for chronic illnesses. Rescue operations have since been halted, and funerals have been held for several of the deceased at the monastery itself.\n\nThe disaster adds to a pattern of deadly landslides and floods in Ethiopia during the annual rainy season, which runs from June to August. A landslide in the neighboring Geze Gofa Zone killed more than 229 people in July 2024, and flooding in southern Ethiopia's Gamo Zone killed more than 100 earlier this year. Scientists have warned that climate change is increasing the frequency and severity of extreme rainfall events across East Africa.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:15 AM MT",
+      "addedAtISO": "2026-08-04T10:15:25.749806-06:00",
+      "slot": 11
+    },
+    {
+      "category": "science_health",
+      "headline": "SpaceX Falcon 9 Rocket Stage on Collision Course With Moon, Impact Expected Wednesday",
+      "summary": "The upper stage of a SpaceX Falcon 9 rocket is expected to collide with the Moon on Wednesday, August 5, at approximately 2:35 a.m. EDT, according to NASA's Center for Near-Earth Object Studies. The roughly 4,000-kilogram section — about the size of a five-story building — has been drifting since a January 2025 mission that carried lunar landers and scientific equipment, and was independently identified by astronomers using public tracking data.\n\nThe impact is predicted to occur near the Einstein Crater on the visible, sunlit side of the Moon, traveling at approximately 5,400 miles per hour. Astronomer Bill Gray, who first identified the trajectory, estimates the collision will create a crater more than 17 meters in diameter and send a plume of debris an estimated 50 kilometers into space. NASA has said there is no danger to Earth and plans to observe the impact site for scientific purposes.\n\nThe event underscores growing concerns about space debris as commercial launch activity accelerates. Unlike reusable first-stage boosters, upper stages are shed in space and can remain in unstable orbits for years. Astronomers say the impact, while not visible to the naked eye, may produce a detectable flash for those with sophisticated telescopes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx25yn22l97o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:15 AM MT",
+      "addedAtISO": "2026-08-04T10:15:25.749806-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "France Wildfires Unearth Cache of 400 World War II Shells in Gironde Village",
+      "summary": "Wildfires that burned through the Gironde region of southwestern France revealed a cache of approximately 400 historic munitions — including German and French mortar and anti-tank shells — buried beneath the village of Le Porge, local authorities announced Monday. More than 100 explosions heard during the second night of the fire, initially attributed to gas cylinders, are now believed to have been World War II-era explosives detonated by the heat, according to the local fire commander.\n\nLe Porge's mayor, Martial Zaninetti, described the blasts as sounding \"like the sound of war,\" with shells flying in multiple directions and one passing through a house. Demining operations have allowed most residents to return home, though the mayor said certain areas — including access to the ocean, a campsite, and the nearby village of La Jenny — remain off-limits. More than 180 homes in the area were destroyed by the wildfire.\n\nThe Gironde fire was among the most destructive in a broader wave of wildfires that swept across Europe over the past two weeks, burning approximately 42,000 hectares in southwestern France in what French officials described as one of the largest forest fires since World War II. French Prime Minister Sébastien Lecornu on Monday thanked firefighters and said the crisis had entered a \"new phase\" as evacuated residents began returning home.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:15 AM MT",
+      "addedAtISO": "2026-08-04T10:15:25.749806-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "Update: Ceuta Migrant Crisis — Morocco Blames Misinformation as Spain Says Nearly All Have Left",
       "summary": "Morocco's government blamed misinformation and human trafficking networks for luring tens of thousands of migrants into illegally crossing into the Spanish enclave of Ceuta last week, pushing back against criticism of Rabat's border management. A Moroccan minister told reporters at least 75 people died in connection with the crossings as EU foreign ministers met to discuss the bloc's response to the crisis.\n\nSpain's foreign minister said nearly all of the roughly 50,000 undocumented migrants who crossed into Ceuta have now left, seeking to reassure European partners that Madrid is swiftly returning arrivals. Italy moved to suspend border-free travel with Spain in a step analysts called more political than practical, while the EU faced accusations that its panic was emboldening smugglers and far-right parties across the continent.\n\nThe crisis has exposed deep fault lines within the European Union over migration burden-sharing. Spain's far-right Vox party called the crossings an 'invasion' and blamed the government, while critics of the hard right argued that inflammatory rhetoric strengthened smuggling networks. EU officials called for emergency coordination to prevent a repeat.\n\nSpain had urgently requested an emergency meeting of EU ministers, which has now taken place. The episode underscores the strategic vulnerability of European enclaves in North Africa and the difficulty of coordinating a continental response to sudden large-scale migration events.",
       "source": "Bloomberg Politics",
