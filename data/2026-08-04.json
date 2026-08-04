@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-04",
+  "dateFormatted": "Tuesday, August 4, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Update: Arson Suspect Arrested as Spokane Wildfires Destroy 700 Structures, Force 67,000 Evacuations",
+      "summary": "Authorities arrested 37-year-old Aaron F. Farinacci on Monday on suspicion of arson in connection with the Old Trails Fire, one of several blazes burning around Spokane, Washington. He is being held on $1 million bond, and it was not immediately clear if he had legal representation. The fires together have destroyed at least 700 structures and forced roughly 67,000 residents to evacuate, making them among the most destructive blazes in state history.\n\nResidents returning to their neighborhoods Monday found homes leveled to their foundations, with only chimneys remaining in some cases. The fires have burned approximately 12.5 square miles across eastern Washington, jumping roads and rivers. Calmer winds and lower temperatures provided some relief to firefighters Monday, though hot and dry conditions were expected to return by midweek.\n\nWashington's governor spoke directly with President Trump about the disaster. The arrest of a suspected arsonist adds a criminal dimension to a disaster that was already straining state emergency resources and drawing national attention.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/wildfire-spokane-washington-evacuate-8e42b37783bda01e7d004d71e546458e",
+      "sourceCount": 11,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-04T05:08:26.048352-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Blanche AG Nomination Clears Path as Cornyn and Tillis Back Confirmation After Fund Rescission",
+      "summary": "Republican Senators John Cornyn of Texas and Thom Tillis of North Carolina announced Monday they will support acting Attorney General Todd Blanche's nomination to permanently lead the Justice Department, ending a standoff that had threatened to block the confirmation. The two senators had withheld support until they received written confirmation that the administration's proposed $1.8 billion 'Anti-Weaponization Fund' was formally dead. Blanche issued a written order late Sunday declaring unequivocally that 'there is no Fund,' paving the way for the Senate Judiciary Committee to advance his nomination Tuesday.\n\nThe fund, proposed as part of a settlement of President Trump's lawsuit against the IRS, had drawn bipartisan criticism over concerns that violent participants in the January 6, 2021 Capitol riot could qualify for payments. Cornyn and Tillis also pressed the Justice Department to narrow the scope of a separate provision granting broad immunity from tax audits to Trump and members of his family.\n\nSeparately, the Justice Department on Monday moved to dismiss a class action lawsuit filed by January 6 defendants under the Federal Tort Claims Act, arguing the claims were filed well past the two-year statute of limitations. Critics of the Blanche order noted it contains no explicit language barring future government payouts to convicted rioters, and a former DOJ lawyer argued the unilateral rescission has no permanent legal effect.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/senate-blanche-trump-justice-fund-a38decfc7f20e4f73a181914d53111da",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-04T05:08:26.048352-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Michigan Senate Democratic Primary Pits Establishment Against Progressive Wing on Eve of Vote",
+      "summary": "Michigan Democrats head to the polls Tuesday in a closely watched Senate primary that has become a proxy battle over the future direction of the party. Congresswoman Haley Stevens, who flipped a Republican district in 2018 and served in the Obama administration's auto industry rescue, is running against Abdul El-Sayed, a progressive physician and former public health director who has never held elected office. Recent polling shows the race effectively tied.\n\nStevens's supporters argue she is best positioned to win a general election in a purple state, pointing to her record and cross-partisan appeal. El-Sayed's backers contend the party needs an authentic, uncompromising progressive voice to motivate new voters. Right-leaning outlets have highlighted a 2018 video in which El-Sayed argued that denying driver's licenses to undocumented immigrants amounted to discrimination — a position likely to feature prominently in Republican attacks if he wins the nomination.\n\nThe race carries significant national implications. Michigan is a key swing state, and the seat is seen as a potential pickup opportunity for Democrats as they seek to build a Senate majority. The primary result will signal whether Democratic base voters in competitive states are moving toward pragmatic electability arguments or progressive mobilization strategies heading into November.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/contentious-michigan-senate-primary-divides-democrats-over-direction-of-party",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-04T05:08:26.048352-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "Iranian Cyberattack Suspected in Coordinated Strikes on Water Systems Across Seven U.S. States",
+      "summary": "The FBI has warned that cyberattacks on water infrastructure have been reported in seven U.S. states, with some attacks degrading actual water operations. The incidents began with Minnesota reporting that more than 30 of its water systems had been subjected to a coordinated cyberattack. The U.S. Cybersecurity and Infrastructure Security Agency is investigating a possible Iranian connection, though it has declined to comment publicly.\n\nCyber experts told the BBC the attacks bear hallmarks of Iranian state-linked activity, noting that a group called Handala — which the Justice Department has linked to Iran — has carried out most Iranian cyberattacks against U.S. and Israeli targets this year. Investigators are also examining whether the attackers may have posed as Iranian operatives as a disinformation ruse. Iran has not commented on the current incidents and has historically denied involvement in previous cyberattacks attributed to it.\n\nPresident Trump blamed 'grossly incompetent' Minnesota officials, including Democratic Governor Tim Walz, at a cabinet meeting Friday. Walz responded that Trump 'knows exactly who is responsible for this attack.' Analysts noted the Trump administration may face political pressure not to publicly confirm Iranian involvement given its ongoing broader conflict with Tehran, even if attribution is established.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c934dq95zpgo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-04T05:08:26.048352-06:00",
+      "slot": 5
+    }
+  ]
+}
