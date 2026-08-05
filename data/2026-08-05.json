@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, August 5, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "Cyclospora Outbreak Surpasses 20,000 Suspected Cases Across Nearly All U.S. States",
+      "summary": "A cyclospora outbreak linked to contaminated lettuce has now produced more than 20,000 suspected cases in the United States, with all but three states reporting infections, according to CBS News. New cases have been confirmed in Missouri and Arkansas, expanding the geographic footprint of what has become one of the largest foodborne illness outbreaks in recent memory.\n\nCyclosporiasis is caused by the parasite Cyclospora cayetanensis and typically causes prolonged, watery diarrhea, fatigue, and stomach cramps. The illness can last weeks if untreated. Public health officials have linked the outbreak to lettuce, though a specific supplier or distribution chain has not been publicly identified in available reporting.\n\nThe scale of the outbreak — spanning nearly the entire country and exceeding 20,000 suspected cases — places it firmly in the category of a major public health event. Federal health authorities have not yet issued a formal national recall of implicated lettuce products based on reporting available today, but the rapid spread across additional states signals the outbreak has not been contained.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/6011003-over-20k-cyclosporiasis-cases-suspected-in-us-as-outbreak-reportedly-linked-to-6-more-states/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:03 AM MT",
+      "addedAtISO": "2026-08-05T10:03:27.731841-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "UN Rights Chief Sounds Alarm Over Surge in Iranian Executions Since March",
+      "summary": "UN High Commissioner for Human Rights Volker Türk issued a formal statement Wednesday expressing alarm at a sharp increase in executions in Iran, saying capital punishment is being used to \"instil fear among the population and suppress dissent.\" He said at least 56 people have been executed on national security-related charges since March 19, including 27 connected to January's nationwide anti-government protests, with more than 100 others at risk of execution on similar charges.\n\nIran executed at least 2,159 people in 2025 according to Amnesty International, the highest figure recorded since 1981 and including 45 executions of suspected dissidents. More recent cases include the execution of 19-year-old Arvin Kheirkhahan, convicted of \"enmity against God\" for alleged participation in January's unrest, and two men convicted of spying for Israel's Mossad. Türk said several executions followed a single three-hour closed-door hearing and that confessions were allegedly obtained under torture.\n\nThe Iranian government has not responded directly to Türk's statement but has previously defended its use of the death penalty, saying it is reserved for \"the most severe crimes.\" Activists have warned that the combination of January's protests, during which thousands were killed and tens of thousands detained, and the February war with the United States and Israel has accelerated the use of executions as a tool of political repression.\n\nTürk called on Iranian authorities to halt all executions and move toward abolition of the death penalty. The statement adds international pressure on Tehran at a moment when it is already isolated following the recent conflict and ongoing nuclear tensions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:03 AM MT",
+      "addedAtISO": "2026-08-05T10:03:27.731841-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Colombia Becomes First Latin American Country to Ban Female Genital Mutilation",
+      "summary": "Colombia's Congress passed legislation last week unanimously banning female genital mutilation, making it the first country in Latin America to criminalize the practice. The law follows years of activism, including by members of the Emberá Indigenous community where FGM has been practiced in secret, often performed on infants and girls under six years old. Between 2020 and June 2026, 240 cases were recorded in Colombia, though medical professionals say that figure represents only a fraction of actual occurrences.\n\nActivists and medical workers say girls and women subjected to FGM face serious health consequences including hemorrhage, infection, complications during childbirth, and lifelong pain. The World Health Organization estimates more than 230 million girls and women alive today have undergone the procedure globally, predominantly in Africa. In Colombia, the practice has been concentrated within specific Indigenous communities, and some girls believed to have died from a traditional illness called \"jai\" are now thought by advocates to have died from FGM complications.\n\nThe unanimous congressional vote is described by advocates as a milestone both for Colombia and for the broader Latin American region, which had no country-level ban on the practice prior to this legislation. The law also opens a debate about how governments balance criminal enforcement with the cultural and community dimensions of the practice, particularly in Indigenous communities where it has been carried out for generations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:03 AM MT",
+      "addedAtISO": "2026-08-05T10:03:27.731841-06:00",
+      "slot": 11
+    },
+    {
       "category": "world",
       "headline": "Update: Russia Kills 21 in Deadliest Strike on Kyiv This Year; Zelensky Warns of Interceptor Shortage",
       "summary": "Russia launched a massive overnight attack on Ukraine using 24 ballistic missiles, four anti-ship missiles, and 115 drones, killing at least 21 people across Kyiv, Kharkiv, and Donetsk. Kyiv and its surrounding region suffered the deadliest strikes of the year, with residential buildings, a railway station, and warehouses hit. Ukrainian air defenses intercepted 98 of the 115 drones but failed to stop any of the ballistic missiles.\n\nUkrainian President Volodymyr Zelensky said the deaths were preventable, stating that more U.S.-made Patriot missile interceptors 'could have saved lives' and that the supply of anti-ballistic systems from allies had been 'significantly reduced' this year. BBC Verify analysis of Ukrainian air force data shows missile interceptions have dropped 22% compared to the same period last year, while Russia has increased its missile launches by 83% over the same window.\n\nRussia's defense ministry said it targeted logistics hubs and supply centers involved in storing and delivering weapons, as well as three cargo vessels near Odesa allegedly carrying military equipment. Kyiv Mayor Vitali Klitschko warned that people may be trapped under rubble. Fires were still burning across approximately 230,000 square meters of the Kyiv region as of Wednesday morning.\n\nThe attack marks a significant escalation in Russia's aerial campaign against Ukrainian cities. The strike renews pressure on Western governments — particularly the United States — to accelerate delivery of air defense interceptors, a request Kyiv has made repeatedly throughout the conflict.",
