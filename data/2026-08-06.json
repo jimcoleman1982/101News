@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-06",
+  "dateFormatted": "Thursday, August 6, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "DSA Candidates Win Key New York Congressional Primaries as Dan Goldman Loses Seat",
+      "summary": "Democratic Socialists of America-backed candidates scored significant victories in New York's 2026 congressional primaries on Wednesday, with Darializa Avila Chevalier winning the 10th Congressional District race vacated by Rep. Dan Goldman, who lost his bid for re-election. Goldman, who served as lead counsel during the first Trump impeachment, was defeated in what became a high-profile test of the progressive left's strength heading into November midterms.\n\nNew York City Mayor Zohran Mamdani, himself a democratic socialist, appeared at Avila Chevalier's victory party and declared the result proved his own mayoral victory last year was 'not an anomaly.' The DSA's local chapter declared the results validation of a decade of organizing, saying New Yorkers 'want more socialist leadership.' Claire Valdez also won in another district, further cementing the DSA's foothold in the New York delegation.\n\nPresident Trump celebrated Goldman's defeat on social media, calling him 'weak and pathetic' and claiming voters rejected him for 'illegally targeting President Trump.' Trump also noted the loss of George Conway, a vocal Trump critic who ran in the 12th district. The results are being closely watched nationally as a barometer of whether the progressive wing of the Democratic Party is gaining or ceding ground ahead of midterm elections now 90 days away.\n\nThe primaries drew unusually broad national coverage given their implications for the ideological direction of House Democrats. Republican nominee Anthony Constantino also secured his party's nomination in upstate New York's 21st Congressional District, setting up a competitive general election race in a district targeted by both parties.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-new-york-us-house-10-primary.html",
+      "sourceCount": 27,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-06T05:08:28.912250-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Hamas Agrees to Disarm in Gaza; Trump Claims Deal Reached on 'Complete Disarmament'",
+      "summary": "Hamas has accepted a disarmament plan for Gaza under which the group would lay down its arms and Israeli forces would withdraw from the territory, a senior Hamas official told the BBC. President Trump said the 'Board of Peace' had reached an agreement for the 'complete disarmament' of Hamas, describing it as a major diplomatic breakthrough. The announcement represents one of the most significant potential shifts in the Gaza conflict since the October 2023 war began.\n\nDetails of the agreement remain sparse and significant obstacles remain. Analysts and diplomats cautioned that the realities of politics, zero trust between parties, the deaths of tens of thousands of people, and the near-total destruction of Gaza make any final agreement extraordinarily complicated to implement. Iran and other regional actors have not publicly endorsed the framework.\n\nSeparately, Israeli forces struck southern Lebanon on Wednesday after two Israeli soldiers were killed by an improvised explosive device during operations in the town of Majdal Zoun — the first Israeli military fatalities in Lebanon since late June. Israel said the strikes were a response to what it called a 'blatant violation' of the ceasefire by Hezbollah, which has not commented. Lebanese health authorities reported one person killed and 12 injured in a strike on the southern town of Tibnin.\n\nThe Lebanon escalation came as Israeli and Lebanese officials were in Rome for US-sponsored ceasefire talks, adding urgency to an already fragile regional situation. The simultaneous developments — a possible Gaza disarmament deal and renewed Lebanon hostilities — underscore the volatile and interconnected nature of the Middle East security landscape.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-06T05:08:28.912250-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "FDA Approves First mRNA Flu Vaccine, Manufactured by Moderna",
+      "summary": "The Food and Drug Administration on Wednesday approved the first influenza vaccine to use mRNA technology, manufactured by Moderna — the same platform underlying COVID-19 vaccines that proved highly effective during the pandemic. The approval covers two age groups: adults aged 50 to 64 and those 65 and older. Moderna said it will conduct a postmarket clinical trial to confirm the vaccine's effectiveness across these populations.\n\nThe approval marks a milestone in vaccine development, extending mRNA technology beyond COVID-19 into one of the most common and costly seasonal diseases. Flu kills tens of thousands of Americans annually and hospitalizes hundreds of thousands more, with older adults disproportionately affected. mRNA vaccines can in principle be updated more quickly than traditional egg-based flu shots when circulating strains change.\n\nThe approval arrives against a backdrop of scrutiny of federal health agencies under the current administration, which has raised questions about vaccine policy more broadly. The FDA's decision signals continued institutional operation of the standard regulatory approval process for novel vaccine platforms. Moderna is expected to make the shot available ahead of the fall 2026 flu season.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/6012939-fda-approves-modernas-mrna-flu-vaccine/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-06T05:08:28.912250-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Nigeria Rescues More Than 300 Abductees in Largest Single-Day Security Operation",
+      "summary": "Nigerian security forces rescued more than 300 kidnapping victims on Wednesday in what the country's presidency described as the largest single-day rescue operation in the nation's history. The victims were freed from Kainji Lake National Park in Niger State in a joint operation involving the military, police, intelligence services, and the National Counter-Terrorism Centre. Among those freed were 163 people abducted during a February jihadist attack on the Woro community in Kwara State, in which scores were killed with victims found bound and with their throats slit.\n\nPresident Bola Tinubu welcomed the operation as evidence of improved coordination among Nigeria's security agencies. The rescued individuals are receiving medical care at a military facility before being reunited with their families. It was not immediately clear whether any suspects were detained during the operation.\n\nThe rescue comes amid a broader security crisis in Nigeria, where Islamist militants including Boko Haram and the Islamic State West Africa Province continue to stage attacks in the northeast, while criminal kidnapping gangs operate across the northwest and north-central regions. A series of abductions — including a school attack in Oyo State — has raised alarm that insecurity is spreading beyond Nigeria's traditional conflict zones.\n\nThe Nigerian government separately announced an 80 percent salary increase for junior soldiers, their second pay rise in a month, as Tinubu seeks to boost troop morale and retention. The increases will raise the monthly pay of the lowest-ranking privates from $73 to $132 beginning in September, pushing the military's annual wage bill from $484 million to $678 million.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-06T05:08:28.912250-06:00",
+      "slot": 5
+    }
+  ]
+}
