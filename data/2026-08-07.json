@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-07",
+  "dateFormatted": "Friday, August 7, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Turkey, Saudi Arabia and Pakistan Sign Trilateral Defense Agreement",
+      "summary": "Turkey, Saudi Arabia, and Pakistan signed a joint defense agreement in Mecca on Friday, establishing a coordinated security posture among three of the Islamic world's most militarily significant nations. The signing brought together Turkish President Erdogan, Saudi Crown Prince Mohammed bin Salman, and Pakistani Prime Minister Shehbaz Sharif. The agreement was concluded against the backdrop of the ongoing Iran war, which has reshaped regional security calculations across the Middle East and South Asia.\n\nThe pact marks a significant realignment in regional geopolitics, uniting a NATO member (Turkey), a major Gulf Arab power, and the world's only Muslim-majority nuclear-armed state in a formal security framework. Each country has navigated the Iran conflict with varying degrees of distance from U.S.-led operations, making the trilateral arrangement notable for its independent character. Analysts are likely to scrutinize whether the agreement is defensive in nature or signals a broader effort to project collective influence in a rapidly shifting regional order.\n\nThe deal has implications well beyond the three signatories, potentially affecting NATO cohesion, Gulf Cooperation Council dynamics, and the posture of other regional actors including Israel and Iran. Pakistan's inclusion introduces a nuclear dimension to the arrangement. No details were immediately released on the specific terms of the agreement, including whether it includes mutual defense commitments or is limited to intelligence and operational coordination.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/turkey-saudi-arabia-and-pakistan-sign-joint-defense-agreement",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-07T05:08:22.698980-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: UEFA Threatens World Cup Boycott as FIFA Crisis Deepens After Infantino Retains Post",
+      "summary": "UEFA said Thursday that its call for a potential boycott of FIFA competitions, including the World Cup, remains live after concluding that FIFA's internal meeting in Rabat failed to meet the conditions it had set for restoring confidence. The European governing body had demanded both a full withdrawal of the controversial Fifa Forward Enterprise (FFE) private investment proposal and binding assurances that no similar scheme would be attempted again. UEFA said neither condition had been satisfied, and that Infantino's retention of the presidency \"changes nothing.\"\n\nThe English Football Association formally withdrew its support for Infantino in a letter, adding to the pressure on the 56-year-old Swiss-Italian executive. At the same time, South American confederation CONMEBOL, the Confederation of African Football, and the football associations of World Cup co-hosts Mexico and runners-up Argentina all expressed backing for Infantino, illustrating the deep split in global football governance. The FFE proposal had offered associations $40 million each in exchange for backing private investment in FIFA's major tournaments.\n\nInfantino convened the FIFA management board meeting himself rather than appearing before it under pressure, and was subsequently photographed smiling alongside FIFA Secretary General Mattias Grafstrom — who had previously criticized the FFE scheme in an internal memo — at a Women's Africa Cup of Nations match. The visible display of unity within FIFA headquarters contrasted sharply with the sustained opposition from European football's governing body. Whether UEFA will follow through on a boycott threat that would upend the 2030 World Cup remains the central unresolved question.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-07T05:08:22.698980-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Thousands of Migrants Remain in Ceuta as New Mass Crossing Calls Circulate Online",
+      "summary": "Between 3,000 and 5,000 migrants remain in the Spanish territory of Ceuta following a mass crossing last week in which roughly 78,000 people arrived by sea from Morocco within hours, according to Ceuta's regional leader Juan Jesús Vivas. Approximately 75,000 have since been returned to Morocco, but Vivas told the European Parliament on Thursday that a humanitarian emergency and public order disruptions persist. He also warned that new calls for mass crossings are circulating on social media, according to Moroccan media.\n\nVivas, a conservative, was sharply critical of Spain's Socialist-led national government, saying Prime Minister Pedro Sánchez had been warned repeatedly and that the response was \"late and insufficient.\" The EU Commission, by contrast, commended Spain's handling of the crisis, including the deployment of armed forces to Ceuta and the nearby enclave of Melilla. The Spanish government has allocated €25 million to assist unaccompanied minors, but volunteer groups have registered nearly 4,860 migrant children in Ceuta — double official estimates — and no children have yet been transferred to mainland Spain.\n\nThe immediate trigger for last week's crossing was a Spanish Supreme Court ruling barring the summary return of migrants intercepted at sea near the enclaves. EU Migration Commissioner Magnus Brunner attributed the surge to criminal networks spreading disinformation, a view shared by Sánchez. The crisis has exposed fault lines between Spain's central government and conservative local authorities, as well as broader tensions among EU member states over migration and border policy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-07T05:08:22.698980-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Russia Escalates Black Sea Attacks on Ukrainian Ports; July Deadliest Month for Merchant Shipping Since Invasion",
+      "summary": "Russia has sharply intensified missile and drone attacks on Ukraine's Black Sea port infrastructure, with July recording 57 attacks on civilian vessels and 67 strikes on port facilities, according to Ukraine's port administration. Lloyd's List, the global shipping journal, has identified the Black Sea as potentially the most dangerous waters for commercial shipping in the world, calling July the deadliest month for merchant seamen since Russia's full-scale invasion began in 2022. A Turkish-owned cargo ship, Golden Leo, was struck by three Russian missiles on July 19, killing nine Indian and Syrian crew members and a Ukrainian pilot before sinking off Odesa.\n\nThe campaign is targeting Ukraine's primary commercial lifelines — the ports of Odesa, Chornomorsk, and Pivdennyi — with the aim of severing the country's agricultural and commercial exports. Port workers in Odesa describe conditions under which missile flight times from Russian-occupied Crimea are shorter than the time needed to evacuate crane operators from their cabins. The approaches to Ukraine's major ports are described as nearly devoid of shipping traffic as a result of the sustained offensive.\n\nThe escalation carries significant economic consequences beyond Ukraine, as the country is a major global exporter of grain and other agricultural commodities. Workers at the Marine Transport Workers Union of Ukraine report that some veterans say working at the port feels more dangerous than front-line service. The intensification of Black Sea strikes represents a distinct and expanding front in Russia's war effort, separate from ground operations, aimed at economic strangulation rather than territorial gains.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-07T05:08:22.698980-06:00",
+      "slot": 5
+    }
+  ]
+}
