@@ -3,6 +3,48 @@
   "dateFormatted": "Thursday, August 6, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump Signs New Executive Orders to Restrict Birthright Citizenship After Supreme Court Rejection",
+      "summary": "President Trump signed two executive orders Thursday seeking to narrow birthright citizenship for the second time this year, weeks after the Supreme Court struck down his first, broader attempt. The new orders aim to deny citizenship to children born to certain categories of foreign nationals, including those who enter the country specifically to give birth, and to some children of foreign diplomatic staff. Trump said the Supreme Court's June ruling was \"very unfortunate\" and that his administration was \"making adjustments.\"\n\nThe move is expected to face immediate legal challenges. Birthright citizenship is guaranteed by the 14th Amendment and has been upheld by federal courts for over a century. Legal analysts note that narrowing the orders may not insulate them from constitutional challenge, as the core question — whether children born on U.S. soil are automatically citizens — remains the same.\n\nSupporters of the orders argue the administration is targeting specific abuses, particularly commercial \"birth tourism\" operations that help foreign nationals travel to the U.S. to secure citizenship for their children. Critics, including immigration advocates and Democratic lawmakers, contend the orders remain unconstitutional and represent an escalating effort to undermine a fundamental constitutional right.\n\nThe orders were signed on the same day Tennessee held primaries in which Trump-endorsed Rep. Andy Ogles lost his Republican primary to former state Agriculture Commissioner Charlie Hatcher, making Ogles the second Trump-backed candidate to lose a primary this week. Sen. Marsha Blackburn won the GOP gubernatorial primary, positioning her as the likely next governor of Tennessee.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html",
+      "sourceCount": 21,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-08-06T21:08:18.021727-06:00",
+      "slot": 21
+    },
+    {
+      "category": "business",
+      "headline": "Trump Imposes 15% Tariff on Polysilicon, Key Material for Chips and Solar Panels, Targeting China",
+      "summary": "President Trump signed an executive order Thursday imposing a 15% tariff on imported polysilicon and related products, along with minimum import prices on the material. Polysilicon is a critical input for both semiconductors and solar panels, and China controls more than 98% of global production. The measures are set to take effect in December and are intended to spur domestic production, with incentives also offered to U.S. manufacturers.\n\nThe order follows a national security review conducted by the Commerce Department under Secretary Howard Lutnick. Trump noted that the U.S. share of global polysilicon production has collapsed from 50% in 2005 to less than 2% in 2024, citing foreign competition as the cause. The primary domestic beneficiaries are expected to be Hemlock Semiconductor and Wacker Chemie.\n\nChina's embassy in Washington said the move \"seriously disrupts\" bilateral trade and accused the U.S. of \"abusing state power to go after Chinese businesses.\" Beijing this week announced its own countermeasures, including tighter export controls on drones and a national security review of imported printers and copiers, signaling continued tit-for-tat escalation in the technology supply chain rivalry between the two countries.\n\nAnalysts note the tariff is part of a broader U.S. strategy to reduce dependence on Chinese-dominated supply chains in sectors deemed critical to national security and artificial intelligence development. The polysilicon order follows earlier restrictions on drones and humanoid robots from China.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-08-06T21:08:18.021727-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Update: McConnell Discharged From Rehabilitation Facility, No Timeline Given for Senate Return",
+      "summary": "Sen. Mitch McConnell (R-Ky.) was discharged from a rehabilitation facility and returned home Thursday, his office announced, nearly two months after he was hospitalized following a health episode in June. The 84-year-old senator, who has not been seen publicly since mid-June, said in a statement he would continue working from home but provided no timeline for his return to the Senate.\n\nMcConnell's prolonged absence has fueled ongoing questions about his capacity to serve out the remainder of his term, which ends in January 2027. He has faced calls for greater transparency about his condition. His absence comes at a pivotal moment, with the Senate facing a compressed end-of-session agenda including a government funding vote and multiple high-stakes confirmations.\n\nThe Kentucky Republican has been one of the most consequential figures in the Senate for decades, serving as majority and minority leader. His absence removes a key vote and voice from deliberations during a period of significant Republican infighting over spending, the Todd Blanche attorney general nomination, and crypto legislation.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/06/mcconnell-discharged-rehab-center-health",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-08-06T21:08:18.021727-06:00",
+      "slot": 21
+    },
+    {
       "category": "world",
       "headline": "Update: DR Congo River Boat Quarantined Near Kinshasa as Ebola Outbreak Reaches Second-Deadliest on Record",
       "summary": "Congolese authorities have quarantined a Chinese-operated river boat carrying 255 passengers on the Congo River, roughly 65 kilometers from the capital Kinshasa, after five deaths among passengers and contacts raised Ebola concerns. Health Minister Roger Kamba said WHO teams have boarded the vessel and established a mobile laboratory, though no passengers have yet tested positive for Ebola or cholera. The boat departed from Mongala Province in northwestern DR Congo 22 days ago.\n\nThe precautionary quarantine comes as DR Congo's 17th Ebola outbreak — caused by the rare Bundibugyo strain, which has no approved vaccine or targeted treatment — has grown to 3,973 confirmed cases and 1,801 deaths since being declared on May 15, making it the second-deadliest Ebola outbreak on record. The first human trials of a Bundibugyo vaccine are currently underway in the United Kingdom.\n\nThe proximity of the quarantined vessel to Kinshasa, a city of roughly 17 million people, has intensified alarm among public health officials. More than 17,000 people are currently under monitoring after exposure to confirmed cases, with 674 patients in isolation across five provinces. Authorities have reinforced surveillance at Maluku, Kinshasa's main entry point, as a precaution.\n\nOfficials stressed the boat-level measures are precautionary and that the likely origin province has had no confirmed Ebola cases. Nonetheless, the episode underscores the difficulty of containing an outbreak that has now spread across five provinces over three months without a specific therapeutic or licensed vaccine.",
