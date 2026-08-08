@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, August 7, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "Puerto Rico Begins Emergency Water Rationing as Severe Drought Strains Aging Infrastructure",
+      "summary": "Puerto Rico launched mandatory water rationing Friday across major cities, with residents subject to rotating 48-hour shutoffs as a severe drought depletes the island's reservoirs. Governor Jenniffer González-Colón issued a public plea urging conservation, asking residents to turn off taps while washing and showering. The island-wide rationing marks a significant escalation of a water crisis that has left some communities without reliable service for more than a year.\n\nThe rollout has been marked by confusion, with some households receiving water during periods they were scheduled to go without, and others in ongoing blackout zones still lacking service. Investigative reporters on the ground described a breakdown in government communication, with residents uncertain about when and whether their water would be restored. Public health concerns are mounting over the prospect of extended interruptions in densely populated areas.\n\nOfficials and journalists say the drought has exposed long-standing failures in Puerto Rico's water infrastructure, which has struggled since Hurricane Maria caused catastrophic damage in 2017. Underfunding of the Puerto Rico Aqueduct and Sewer Authority and delayed repairs have left the system vulnerable to climatic stress. Critics argue that the crisis was foreseeable and that government inaction compounded the impact of natural conditions.\n\nThe situation affects all 3.2 million residents of the island, raising concerns about water access for hospitals, schools, and vulnerable populations. No immediate federal emergency declaration has been announced, and it remains unclear when reservoir levels could recover sufficiently to end rationing.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/drought-and-aging-infrastructure-plunge-puerto-rico-into-a-water-crisis",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-07T18:08:29.346034-06:00",
+      "slot": 18
+    },
+    {
+      "category": "other",
+      "headline": "Hunter Biden Says Presidential Pardon Was 'Not Good' for America or His Father's Legacy",
+      "summary": "In a wide-ranging interview with BBC Newsnight, Hunter Biden acknowledged that the full pardon granted to him by his father, former President Joe Biden, in December 2024 was \"not good\" for the American people, the Constitution, or his father's legacy. He said he understood the criticism but questioned how his father could have done otherwise: \"What would you have thought of my dad if he did not do that for me.\" He added that he and his father never discussed the possibility of a pardon before it was granted.\n\nHunter Biden said the elder Biden acted out of fear that his son would become a political target under the incoming Trump administration. The pardon covered Hunter Biden's federal gun conviction, a tax case he pleaded guilty to, and any federal offenses committed between 2014 and 2024 — a scope that drew widespread bipartisan criticism at the time, given President Biden's repeated prior assurances that he would not intervene in his son's legal cases.\n\nIn the interview, Hunter Biden also disclosed new details about his father's health, saying that former President Biden's prostate cancer \"has spread, metastasised into his bones and further\" and is \"very painful\" and \"very debilitating.\" He described his father as still the center of the family but acknowledged the disease is taking a significant toll.\n\nHunter Biden also described the depths of his addiction — drinking nearly a gallon of vodka daily and smoking crack cocaine almost every 15 minutes at its worst — calling it \"hell on earth.\" He ruled out seeking elected office and said he is focused on advocacy for addiction recovery.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-07T18:08:29.346034-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Sen. Cassidy Backs Todd Blanche for Attorney General, Potentially Reviving Stalled Nomination",
+      "summary": "Republican Sen. Bill Cassidy of Louisiana announced on the Senate floor Friday that he will support Todd Blanche's nomination for attorney general, a move that could prove pivotal after two Republican senators — Lisa Murkowski of Alaska and Susan Collins of Maine — came out in opposition and threw the confirmation into doubt. Cassidy acknowledged that Blanche \"is not perfect\" but argued that any alternative nominee might not be an improvement.\n\nBlanche, a former private attorney who represented President Trump in multiple criminal cases, was nominated to lead the Justice Department. His nomination has drawn scrutiny from some Republicans over concerns about his qualifications and independence, while Democrats have raised broader objections about conflicts of interest given his prior representation of the sitting president.\n\nCassidy's announcement reflects the narrow margin Republicans hold in the Senate and the difficulty of confirming nominees when any two members of the majority defect. With Murkowski and Collins opposed, the math remains tight and it is unclear whether Blanche has secured sufficient votes for confirmation.\n\nThe nomination fight comes amid broader tensions at the Justice Department, including separate controversies Friday over the Pentagon revoking former Air Force Secretary Frank Kendall's security clearance — alleging he disclosed classified information to media about the new Qatari-gifted Air Force One — and ongoing disputes over DOJ press subpoenas that were subsequently withdrawn after judicial criticism.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/live/trump-news-blanche-birthright-iran-updates-08-07-2026",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-07T18:08:29.346034-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Update: Trump Warns Tehran of 'Last Chance' as Iran War Negotiations Resume",
       "summary": "President Trump issued a stark warning to Iran on Friday, declaring it has a \"last chance\" to reach a deal as diplomatic back-channel activity intensified around the ongoing U.S.-Iran conflict. Qatar announced that mediators were making progress toward ending the war, though Tehran publicly denied Trump's assertion that formal talks were already underway — a sign of the competing narratives surrounding the negotiations.\n\nAnalysts at the Foundation for Defense of Democracies warned that Iran is deliberately escalating political pressure to gain diplomatic leverage, noting that the regime has historically been willing to gamble at the edge of confrontation. One senior Iran analyst argued that while Trump has inflicted more damage on the Iranian regime than any prior U.S. president, recent pullbacks from earlier threats have allowed Tehran to portray Washington as a \"paper tiger\" in state-aligned media.\n\nThe story is covered by 23 outlets across the political spectrum, making it the most widely sourced story of the day. It represents a material new development in the ongoing Iran conflict: a direct presidential ultimatum combined with Qatari mediation progress and Tehran's public denial, shifting the diplomatic dynamic significantly from prior days.\n\nThe right frames Trump's warning as necessary resolve to force a capitulation from a weakened regime; the left and some centrist analysts caution that the mixed signals — threats followed by pullbacks — risk undermining U.S. credibility and could embolden Iran to stall further.",
