@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-08",
+  "dateFormatted": "Saturday, August 8, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Spain-Italy Border Row Escalates as Madrid Retaliates with Schengen Controls",
+      "summary": "Spain imposed passport and visa checks on all air and sea passengers arriving from Italy beginning Saturday, retaliating after Italy suspended the Schengen border-free travel agreement for non-EU nationals arriving from Spain. The measures will remain in place until September 7 unless conditions change. The dispute stems from last week's mass crossing of roughly 78,000 migrants from Morocco into the Spanish exclave of Ceuta.\n\nSpain demanded Italy reverse its border checks by Sunday; Rome refused, stating it would maintain controls until at least August 15 and would not accept \"ultimatums.\" The crisis has pitted Spain's socialist Prime Minister Pedro Sanchez against Italy's conservative Prime Minister Giorgia Meloni, who has long championed stricter EU migration policy. Finland, Denmark, and the Czech Republic have sided with Italy, while Madrid dismissed Rome's justification as having no basis in fact.\n\nThe standoff represents one of the most significant Schengen disputes between two major EU member states in recent years, threatening the bloc's foundational principle of free movement. Most of the migrants who crossed into Ceuta were returned to Morocco within days, but around 1,400 unaccompanied minors remain, and approximately 100 people are believed to have died during the crossing.\n\nThe escalation is a material new development on the Ceuta migrant story previously covered, with the Spain-Italy diplomatic rupture and counter-measures representing a significant widening of the crisis beyond its original scope.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-08T05:08:28.871855-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Thailand School Shooting Death Toll Rises to Eight; PM Vows Gun Law Reform",
+      "summary": "Thailand's prime minister has pledged new gun control legislation after a 14-year-old student killed eight people — including his grandparents and five teachers — at a school on the outskirts of Bangkok on Friday before taking his own life. Twenty-two people were wounded in the attack at Debsirin School in Nonthaburi. The weapon used was a legally registered firearm belonging to the teenager's grandfather.\n\nPrime Minister Anutin Charnvirakul said he intends to restrict the carrying of firearms in public, limiting that right to government officials on duty. Thailand has one of the highest rates of civilian gun ownership in Southeast Asia, with approximately 10.3 million firearms in civilian possession, roughly four million of which are believed to be unregistered. Existing laws impose up to 10 years in prison for illegal possession, but enforcement has been inconsistent.\n\nThe teenager killed his grandparents at their home before boarding a school bus armed with the firearm and dozens of rounds of ammunition. He attended two classes before opening fire, killing three teachers on the school's sixth floor and two more administrators on a staircase before police arrived and found he had shot himself.\n\nThis is an update on the Thailand school shooting first reported yesterday, with the death toll revised upward to eight following the death of a student from injuries, and the prime minister's formal commitment to legislative action representing a concrete new policy development.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-08T05:08:28.871855-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Russian Missiles Kill Three Near Kyiv, Including a Child, in Overnight Attack",
+      "summary": "At least three people, including a child, were killed and three others wounded when Russian ballistic missiles struck areas east of Kyiv in overnight attacks early Saturday. Falling debris damaged apartment buildings and vehicles, and fires broke out at multiple locations across the capital and surrounding region, according to local officials and Ukraine's state emergency service.\n\nThe strikes came just days after Russian attacks across Ukraine killed 21 people, and as Ukrainian President Volodymyr Zelensky has repeatedly warned that reduced deliveries of anti-ballistic missile interceptors from Western allies are leading to increased civilian casualties. Zelensky said this week that the supply of interceptors had been \"significantly reduced\" this year.\n\nThe escalation comes amid a mutual intensification of long-range strikes between the two sides. Ukraine this week struck two oil refineries deep inside Russian territory — the Ilsky and Syzran facilities — causing fires at both, in what Kyiv described as an effort to reduce Russia's oil revenues funding the war. Recent mediation talks between the two countries have faltered.\n\nZelensky is currently in Belgrade for his first official visit to Serbia, a Russia-friendly country that has nonetheless provided aid to Ukraine and committed to helping with reconstruction. Serbian President Aleksandar Vucic has refused to apply sanctions on Russia while pursuing EU membership.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-08T05:08:28.871855-06:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "Update: U.S. Economy Shed 23,000 Jobs in July, Badly Missing Forecasts",
+      "summary": "The U.S. economy lost 23,000 jobs in July, sharply missing economist forecasts that had projected a gain of between 80,000 and 95,000 positions, according to the latest federal employment report released Friday. Revised data for May and June also showed 103,000 fewer jobs created than originally reported. The unemployment rate ticked down marginally from 4.2% to 4.1%, attributed primarily to fewer workers actively seeking employment rather than job growth.\n\nThe report lands as a significant political liability for the Trump administration with midterm elections approaching. Democrats moved swiftly to highlight the figures, framing the miss as evidence that administration trade and economic policies are harming workers. Republicans and White House allies have pointed to the reduced unemployment rate and argued that tariff disruptions represent a temporary adjustment.\n\nEconomists noted that the weak data paradoxically lifted equity markets on speculation that the Federal Reserve might hold off on further interest rate increases. Worker pay has continued to accelerate even as hiring has slowed, complicating the Fed's inflation calculus. Analysts flagged that an aging workforce is also reshaping underlying labor market dynamics.\n\nThis is an update on the jobs report story first covered yesterday, now with additional analyst reaction and broader political context as the numbers are absorbed by markets and policymakers.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6017947-trump-economy-jobs-report-inflation/",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-08T05:08:28.871855-06:00",
+      "slot": 5
+    }
+  ]
+}
