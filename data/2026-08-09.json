@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-09",
+  "dateFormatted": "Sunday, August 9, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Hawaii Democrat Case Fends Off Progressive Primary Challenge",
+      "summary": "Rep. Ed Case (D-Hawaii), one of the most conservative Democrats in Congress, won his Democratic primary on Saturday, defeating state Sen. Jarrett Keohokalole, who had campaigned on generational change and progressive values. The race was watched as a test of whether the leftward wave that swept Abdul El-Sayed to the Democratic Senate nomination in Michigan would extend to Hawaii's congressional races.\n\nCase, 73, has represented Hawaii in the House for multiple terms and has frequently clashed with the progressive wing of his party. Keohokalole, 42, argued that the district needed new leadership aligned with the national progressive movement, but Case's incumbency advantage and moderate positioning proved resilient.\n\nThe result provides a counterpoint to El-Sayed's victory in Michigan, suggesting the progressive surge is selective rather than uniform across Democratic primaries this cycle. Republicans have already settled on presumptive nominees in Hawaii's congressional races, setting up general election contests in November.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/6017601-case-wins-hawaii-house-primary/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-09T05:08:05.529133-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "GOP May Be Stuck With Rep. Max Miller in Ohio After Withdrawal Deadline Passes",
+      "summary": "Rep. Max Miller (R-Ohio) appears to have allowed a key Saturday withdrawal deadline to pass in Ohio's 7th Congressional District, effectively preventing Republicans from replacing him on the November ballot. The development leaves the party exposed in a district that leans Republican but has become competitive amid controversy surrounding Miller.\n\nOhio law required Miller's cooperation to remove him from the ballot, and his campaign did not act before the cutoff, according to reporting by Axios and The Hill. Party leaders had been pressuring Miller to step aside, but without his consent, they have no practical mechanism to substitute another candidate.\n\nThe situation is a significant complication for House Republicans, who are fighting to preserve a narrow majority heading into the midterms. Democrats now have a credible pickup opportunity in a district that had been considered safe Republican territory, adding to broader midterm pressure on the GOP.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/09/ohio-gop-max-miller-7th-district-moreno-2026",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-09T05:08:05.529133-06:00",
+      "slot": 5
+    },
+    {
+      "category": "other",
+      "headline": "Woman and Infant Die After Vessel Overturns in New York Harbor Near Liberty Island",
+      "summary": "A 27-year-old woman and a five-month-old baby girl died Saturday night after a vessel overturned in New York Harbor near Liberty Island, the NYPD confirmed. Emergency responders, including harbor units, scuba divers, and aviation teams, were deployed after being called to the scene at approximately 10:55 p.m.\n\nTwelve individuals had already been rescued from the water before authorities arrived. The woman and the infant were recovered, transported to NYU Langone Hospital, and pronounced dead on arrival. Police said it was not immediately clear whether the two victims were related, and the cause of the capsizing remains under investigation.\n\nThe incident is a developing story, and no further details about the vessel, its occupants, or the circumstances leading to the overturn have been released.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/new-york-harbor-liberty-island-boat-overturn/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-09T05:08:05.529133-06:00",
+      "slot": 5
+    },
+    {
+      "category": "other",
+      "headline": "Jorge Messi, Father and Agent of Lionel Messi, Dies at 68",
+      "summary": "Jorge Messi, the father and longtime agent of Argentine football superstar Lionel Messi, died Saturday at age 68 at a medical clinic in Rosario, Argentina, following a prolonged illness. The family announced the death, and tributes came quickly from Newell's Old Boys, the Argentine Football Association, and figures across the sport.\n\nJorge Messi was a central figure in his son's career from the earliest years at Barcelona through Lionel's move to Inter Miami in Major League Soccer. He served as Lionel's representative for several years and was described by the club and family as the foundational support behind the career of one of the game's greatest players.\n\nLionel Messi had spent time with his father after Argentina's World Cup campaign before rejoining Inter Miami. At the tournament, he broke down in tears during a match celebration and later acknowledged he had been going through difficult personal circumstances, which observers linked to his father's declining health. Inter Miami had a scheduled Leagues Cup match Saturday night; the club had not announced whether Messi would play.",
+      "source": "The Guardian US",
+      "url": "https://www.theguardian.com/football/2026/aug/08/jorge-messi-dies-father-agent-lionel-messi-argentina-inter-miami",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-09T05:08:05.529133-06:00",
+      "slot": 5
+    }
+  ]
+}
