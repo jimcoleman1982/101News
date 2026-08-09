@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "France Arrests 420 Over Record-Breaking Wildfires That Have Scorched 300,000 Acres",
+      "summary": "French authorities have arrested 420 people in connection with wildfires that have burned more than 300,000 acres this summer — the most destruction since World War Two. Among those arrested are 166 minors, and charges range from deliberate arson to accidental ignition such as throwing cigarette butts or lighting barbecues in wooded areas. In one notable case, a 23-year-old man faces 15 years in prison and a €150,000 fine after allegedly starting 10 fires in five days in the Var region.\n\nThe aggressive prosecution strategy has drawn both praise and criticism. Bordeaux prosecutor Renaud Gaudeul defended the tough approach, saying conditions for a charge of endangering lives are met even for minor actions like discarding a cigarette in a drought-stricken forest. Critics, including defense lawyer Muriel Gestas, called the scale of arrests excessive, and newspaper Le Monde questioned whether investigators had sufficient time to properly examine each case.\n\nClimate change is widely cited as a major driver of the fires' severity, as rising temperatures and prolonged drought create conditions where even small sparks can ignite catastrophic blazes. However, French authorities note that nine out of ten wildfires in the country are started by humans, making the question of individual accountability central to the government's response.\n\nThe French government itself faces accusations of being underprepared for the scale of this summer's fires. Investigators use detailed forensic techniques — mapping burn patterns and tracing flames back to points of origin — but establishing criminal intent remains difficult, particularly for cases involving vulnerable individuals such as a homeless man and a person with severe autism who were reportedly jailed for discarding cigarette butts.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-08-09T11:08:23.028687-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Ecuador Charges Former Interior Minister and Six Others in 2023 Presidential Candidate Assassination",
+      "summary": "Ecuadorean prosecutors have charged former Interior Minister José Serrano and six others, including cartel leader Wilmer 'Pipo' Chavarria, with involvement in the 2023 assassination of presidential candidate Fernando Villavicencio. Villavicencio, a journalist-turned-legislator known for exposing links between organized crime and government officials, was shot dead at a campaign rally in Quito days before the election. The charges mark a significant escalation in the case, targeting alleged indirect orchestrators rather than the gunmen previously convicted.\n\nFive men were jailed in 2024 for carrying out the assassination, while the alleged gunman was killed at the scene and six other suspects were murdered in prison while awaiting trial. Pipo, the Los Lobos cartel chief, was captured in Spain after faking his own death, and an extradition request remains pending. Five of the seven newly charged individuals are considered fugitives, with Serrano and another suspect located in the United States.\n\nThe Ecuadorean Attorney General's Office has requested Interpol red notices for those abroad. Pre-trial hearings are underway and a judge will determine whether the evidence is sufficient to proceed to a full trial. The case highlights the deep penetration of criminal organizations — including Los Lobos, which has ties to Mexico's powerful Jalisco New Generation Cartel — into Ecuador's political institutions.\n\nEcuador has become a major cocaine transit country given its location between Colombia and Peru, and President Daniel Noboa, who won the election following Villavicencio's murder, has pursued a militarized crackdown on gangs. The new charges against a former cabinet minister signal prosecutors are pursuing the highest levels of suspected complicity in one of Latin America's most prominent political assassinations in recent years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-08-09T11:08:23.028687-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "South Carolina Senate Special Primary Tests Name Recognition Against Political Experience",
+      "summary": "South Carolina is holding a special Senate primary Sunday featuring Darline Graham, who carries a famous political surname and has secured an endorsement from President Donald Trump as well as advertising support from the National Republican Senatorial Committee. Despite her backing from national party figures, critics and some local Republicans have raised concerns about her limited political experience, drawing comparisons to the party's contentious gubernatorial primary earlier this year.\n\nThe race has generated flashbacks among South Carolina Republicans to internal party divisions that played out during a heated governor's contest, suggesting that establishment support alone may not be sufficient to guarantee a smooth path through the primary. The NRSC's decision to invest in television advertising on Graham's behalf reflects national Republican interest in controlling the outcome of the seat.\n\nThe special primary outcome will determine who competes in the general election for a Senate seat that carries strategic importance for Republicans seeking to shore up their Senate majority. The contest pits the weight of institutional backing and name recognition against concerns from within the party about candidate readiness for a high-profile national office.\n\nResults from the primary are expected later Sunday and will offer an early indication of whether Trump's endorsement and committee resources were decisive in a state where the former president retains strong influence among Republican primary voters.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/6018890-darline-graham-senate-primary/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-08-09T11:08:23.028687-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "Netanyahu Rejects Trump's 15-Point Gaza Peace Plan, Refuses Military Withdrawal",
       "summary": "Israeli Prime Minister Benjamin Netanyahu formally rejected the United States' 15-point plan for Gaza at a cabinet meeting Sunday, declaring that Israel will not withdraw its military forces until Hamas is \"genuinely\" disarmed. The announcement marks a significant rupture with the Trump administration's peace framework, which had been touted as a \"monumental step toward lasting peace\" when unveiled last month.\n\nNetanyahu's rejection centers on sequencing: he insists Hamas must disarm before any Israeli withdrawal, while Hamas has conditioned surrendering heavy weapons on Israel ending \"all forms of aggression\" and pulling its forces out first. Netanyahu dismissed the prospect of what he called \"fictitious disarmament,\" signaling he views any deal short of verifiable weapons surrender as unacceptable.\n\nThe Israeli prime minister said he remains in discussions with U.S. officials over how to proceed, acknowledging that Washington has put forward ideas, \"some of which are acceptable\" and some of which are not. His stance is complicated by domestic politics: with Israeli elections approaching, Netanyahu faces pressure from far-right coalition partners, including National Security Minister Itamar Ben Gvir, who has called the Gaza plan \"not acceptable\" and demanded a new cabinet vote.\n\nThe rejection deals a fresh blow to the Trump administration's broader Middle East diplomacy, which has simultaneously been managing negotiations over the Strait of Hormuz. Critics of Netanyahu's position argue that the lack of a clear post-war governance plan perpetuates the conflict, while his supporters contend that accepting disarmament on Hamas's terms would leave Israel vulnerable to a reconstituted threat.",
       "source": "BBC News",
