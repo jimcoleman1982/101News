@@ -3,6 +3,34 @@
   "dateFormatted": "Sunday, August 9, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump Names Will Scharf as New White House Counsel",
+      "summary": "President Trump announced Sunday that Will Scharf, currently serving as White House staff secretary, will become White House counsel and assistant to the president effective September 1. Scharf replaces David Warrington, who has held the position since Trump's inauguration in January 2025 and is departing for the private sector.\n\nScharf is described by Trump as a deeply conservative lawyer who previously represented the president in multiple legal proceedings during the Biden administration, including cases argued before the Supreme Court. He also played a role in securing approval for the $400 million White House ballroom renovation project.\n\nThe White House counsel is one of the most consequential legal positions in any administration, advising the president on constitutional matters, executive privilege, and the legality of presidential actions. The role carries particular significance given ongoing congressional investigations, litigation over executive orders, and the administration's stated use of the Justice Department to examine political adversaries.\n\nThe appointment was announced via Truth Social and was covered by six major outlets across the political spectrum, signaling broad recognition of its significance.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6019523-trump-names-will-scharf-counsel/",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "8:30 PM MT",
+      "addedAtISO": "2026-08-09T20:30:58.918732-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Update: Pentagon Orders Defense Industry to Rapidly Expand Weapons Production Amid Depleted Iran-War Stockpiles",
+      "summary": "The Pentagon is pressing U.S. defense contractors to dramatically accelerate weapons production after stockpiles of advanced missile interceptors were significantly drawn down during the ongoing conflict with Iran. Deputy Defense Secretary Steve Feinberg sent a memo to industry leaders Wednesday giving them no more than 21 days to submit plans for faster delivery schedules and expanded production capacity. \"Years-long development cycles are not acceptable,\" Feinberg wrote.\n\nAccording to an analysis by the Center for Strategic and International Studies, the number of Patriot interceptors has fallen from 2,330 before the war began to an estimated 759–827 following recent fighting — a decline of at least 65 percent. THAAD interceptors have also dropped sharply. Analysts warn the depleted inventories may force U.S. and allied forces to take more risk, potentially launching fewer defensive missiles against incoming Iranian drones and projectiles.\n\nPresident Trump disputed public characterizations of a shortage on Thursday, posting on Truth Social that the U.S. has \"massive amounts\" of weapons and that production is ongoing. Pentagon spokesman Sean Parnell confirmed the Feinberg memo is \"real\" but framed it as part of a broader defense industrial base modernization effort predating the conflict.\n\nThe issue is entangled with a stalled defense spending bill in Congress, where lawmakers have resisted the White House's request to raise Pentagon spending to $1.5 trillion from approximately $900 billion. Some members have expressed anger over Trump's military action against Iran, complicating efforts to fund the replenishment.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-war-weapons-stockpile-pentagon-defense-industry-c98e042bfd0fd22cd97d15b1fffa322c",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "8:30 PM MT",
+      "addedAtISO": "2026-08-09T20:30:58.918732-06:00",
+      "slot": 21
+    },
+    {
       "category": "world",
       "headline": "South African Special Forces Charged with Murdering Elite Detective, BBC Obtains Case Files",
       "summary": "Seven members of South Africa's special forces and one military police officer have been charged with the 2023 murder of Lt. Col. Frans Mathipa, a senior detective with the elite Hawks anti-corruption unit. BBC News has obtained hundreds of pages of secret police and court documents detailing the prosecution's case, including vehicle tracking data and registration records linking a special forces front company to the killing.\n\nMathipa was shot dead while driving his car shortly after pursuing a sensitive case involving an alleged Islamic State-linked asylum seeker. Police documents allege that a vehicle registered to a special forces front company trailed Mathipa before the shooting, and one of the charged soldiers was also identified at the scene of a prior abduction the detective had been investigating.\n\nThe case has raised serious alarm about military overreach in one of Africa's most established democracies. Three of the eight charged men have defied a court order revoking their bail, continue to serve in the special forces, and one has since been promoted — raising fears the trial may never proceed.\n\nAuthorities are also investigating an alleged threat delivered by special forces to the Hawks after Mathipa's death: 'You can appoint 10 investigating officers; we will kill all of them,' according to police documents. The South African army did not respond to BBC requests for comment on its alleged role in the killing.",
