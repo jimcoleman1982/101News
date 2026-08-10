@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "science_health",
+      "headline": "WHO Warns Congo Ebola Outbreak Began Months Before It Was Declared, Now Second-Worst Ever",
+      "summary": "The World Health Organization revealed Monday that the fast-moving Ebola outbreak in the Democratic Republic of Congo began in February — roughly three months before it was officially declared on May 15 — after early cases were misdiagnosed as malaria or typhoid. Confirmed cases have reached approximately 4,300, with nearly 2,000 deaths, making it the second-deadliest Ebola outbreak on record behind the 2014–2016 West Africa crisis.\n\n\"We are chasing the virus, the virus is ahead of us,\" said WHO Africa regional director Dr. Mohamed Yakub Janabi at a news conference in Bunia, the epicenter of the outbreak. Officials said health workers are reaching only about 30 percent of cases, with the rest dying at home, due to insecurity, unpaved roads, shortages of protective gear, and community mistrust. The outbreak involves the rare Bundibugyo strain of Ebola, for which there is no approved vaccine or recognized treatment.\n\nThe situation is further complicated by strikes by unpaid health workers, rebel group threats, and traditional burial practices that involve touching the deceased. WHO Director-General Tedros Adhanom Ghebreyesus warned last week that new cases are doubling in some hot spots. Global risk of spread is assessed as low because Ebola is not airborne, but the scale and pace of this outbreak have alarmed international health authorities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:08 PM MT",
+      "addedAtISO": "2026-08-10T13:08:18.205836-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Massachusetts Becomes 10th State to Remove All Gestational Age Limits on Abortion",
+      "summary": "Massachusetts Gov. Maura Healey signed legislation Monday removing all gestational age limits on abortion, making the state the tenth in the nation — along with Washington, D.C. — to allow abortion through all stages of pregnancy based on a physician's judgment. The law repeals a prior restriction that banned abortions after 24 weeks except in life-threatening circumstances. Healey said the decision should rest with women, families, and their doctors, not politicians.\n\nSupporters of the law argued it was necessary to protect patients carrying fetuses with severe or fatal conditions diagnosed after the 24-week threshold, citing cases of significant pain and trauma under the old restrictions. The legislation passed through the Democratic-majority state legislature before the summer recess and had been anticipated as part of a broader post-Dobbs effort by Democratic-led states to expand abortion access.\n\nOpponents condemned the move sharply. Marjorie Dannenfelser, president of Susan B. Anthony Pro-Life America, called it \"barbaric\" and said it exposed the failure of a purely state-by-state approach to abortion regulation, arguing the United States now stands among only eight countries worldwide permitting abortion at any point in pregnancy. The signing reignited debate over whether Congress should establish a national minimum standard — a position backed by some anti-abortion advocates and opposed by abortion rights supporters who argue federal intervention would restrict access in states like Massachusetts.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/policy/healthcare/4681342/massachusetts-allow-abortion-up-to-birth/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:08 PM MT",
+      "addedAtISO": "2026-08-10T13:08:18.205836-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Update: Iran Issues Sweeping Demands as Hormuz Deal Remains Unresolved",
+      "summary": "Iran's Supreme National Security Council issued a detailed list of conditions Saturday for opening the Strait of Hormuz, demanding the United States lift its maritime blockade and economic sanctions, withdraw military forces from the region, release frozen Iranian assets, pay war reparations, and cease operations against Iranian-backed groups including Hamas, Hezbollah, and the Houthis. No formal Iran-Oman deal has been announced, but one leaked version reportedly would bar U.S. and Israeli ships from transiting the strait — a provision Washington has signaled is a non-starter. The Islamic Revolutionary Guard Corps separately attacked a UAE vessel transiting the strait on Saturday, underscoring Tehran's leverage claims.\n\nCritics of the administration's diplomatic approach argue Iran lacks a unified government capable of honoring any agreement, given that U.S.-Israeli strikes devastated the regime's senior leadership and left competing power centers — including the Revolutionary Guards and the Foreign Ministry — vying for control. Reports of proposed \"environmental charges\" of 5 to 7 percent of cargo valuations have added to uncertainty among commercial shippers about whether the strait will functionally reopen even if a deal is signed.\n\nThe Trump administration has insisted it will not pay tolls for strait passage and has not publicly accepted Iran's terms. Analysts and critics across the political spectrum warn that major concessions — particularly lifting sanctions or ending counterterrorism operations — would represent a significant strategic reversal. The standoff has kept global energy markets on edge, with the Jones Act waiver allowing foreign vessels to operate in domestic U.S. waters set to expire August 16.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/opinion/4680447/what-the-iran-oman-hormuz-deal-means-its-not-good/",
+      "sourceCount": 22,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:08 PM MT",
+      "addedAtISO": "2026-08-10T13:08:18.205836-06:00",
+      "slot": 14
+    },
+    {
+      "category": "science_health",
       "headline": "Taylor Farms Recalls Salsa and Guacamole Sold at Walmart, Target and Trader Joe's Over Salmonella Risk",
       "summary": "Taylor Farms is recalling prepared salsa and guacamole products after federal health officials linked them to a multistate salmonella outbreak traced to fresh jalapeños supplied by Coast produce. The FDA, CDC, and local health departments announced the investigation Sunday, with recalled products distributed to 26 states through major national retailers including Walmart, Target, and Trader Joe's.\n\nSalmonella infections can cause diarrhea, fever, and stomach cramps, and can be severe or fatal in young children, the elderly, and those with weakened immune systems. Consumers who purchased the affected products are advised to discard them immediately and not consume them.\n\nThe recall underscores recurring food safety vulnerabilities in fresh produce supply chains, where contamination at a single supplier can affect products sold across dozens of states under multiple brand labels. Federal investigators have not yet disclosed the number of confirmed illnesses or hospitalizations associated with this outbreak.",
       "source": "The Hill",
