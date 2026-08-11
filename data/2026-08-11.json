@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-11",
+  "dateFormatted": "Tuesday, August 11, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Ukraine Strikes Russian Oil Hub 750 Miles Inside Country, Killing 13",
+      "summary": "Ukraine attacked the petroleum hub of Nizhnekamsk in Russia's Tatarstan region on Monday, killing 13 people and injuring 78 others in one of the deadliest strikes on Russian soil in the four-year war. The Ukrainian military said it hit an oil refinery in the city, which lies approximately 1,200 kilometers (750 miles) east of the Ukrainian border and is home to two refineries and a petrochemical plant. Separately, Ukrainian drones sparked a fire at an industrial facility in the Tyumen region of western Siberia, with Ukraine's General Staff saying its forces damaged part of a petrochemical complex in Tobolsk that produces rocket fuel components and aviation fuel.\n\nThe strike represents a significant escalation in Ukraine's long-range drone campaign, which has targeted Russian oil facilities almost daily in recent months. The campaign has caused fuel shortages in Russia, eroded its refining capacity, and unsettled civilian populations far from the front lines. Previous high-casualty strikes on Russian soil were concentrated in the border region of Belgorod; this attack struck hundreds of miles deeper into Russian territory.\n\nIn a rare interview with the Associated Press, the commander leading Ukraine's drone war, Robert 'Madyar' Brovdi, said recent strikes in Crimea represent only the first phase of an open-ended campaign aimed at rendering the peninsula unusable as a staging ground for Russian forces. He added that Ukraine could strike seven times more military targets in Crimea if Western allies moved pledged funds more quickly.\n\nThe Tatarstan strike marks a new geographic threshold in the conflict, demonstrating Ukraine's ability and willingness to hit deep into Russian industrial heartland. Russian officials have not confirmed what specifically was targeted.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-ukraine-war-drones-oil-d0e7dc74936cf153e8e473444cc09366",
+      "sourceCount": 6,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-11T05:08:38.657533-06:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "Nvidia and Wall Street Giants Raise $500 Billion to Fund AI Infrastructure Boom",
+      "summary": "Nvidia announced Monday it has partnered with some of Wall Street's largest financial institutions — including Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR — to raise $500 billion in capital for artificial intelligence infrastructure. The financing will fund the construction of new data centers, chip manufacturing facilities, and related AI hardware projects both for Nvidia and its partners. The announcement marks the first time major investors are formally treating AI hardware and infrastructure, referred to as 'compute,' as a distinct asset class.\n\nNvidia CEO Jensen Huang said the initiative reflects a structural shift in how AI capacity is financed. 'In AI, compute is revenue,' Huang said. 'We are bringing the world's leading long-term capital providers together to independently underwrite AI infrastructure.' The move comes as the technology and AI industry has collectively spent over $1 trillion in three years on AI projects, driving Nvidia's market value up fivefold in that period.\n\nThe scale of the commitment underscores how deeply financial markets have embraced the AI buildout, with companies from Google and Microsoft to OpenAI and Tesla relying on Nvidia's graphics processing units. BlackRock separately entered an individual deal with Meta last month to finance and take a majority ownership stake in a Texas data center.\n\nSome analysts have raised caution about the pace of investment. Jane Sydenham, senior investment manager at Rathbones, told the BBC: 'The worry is that more and more money is going into these projects. Are they all going to earn the right return for the future?' The $500 billion fund nonetheless signals that institutional capital is betting heavily on sustained AI expansion for years to come.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-11T05:08:38.657533-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Senate Republicans Rally Behind Thune After Trump Signals He May Back a Challenger",
+      "summary": "Senate Republicans are publicly rallying behind Majority Leader John Thune of South Dakota after President Trump declined to support Thune serving another term following the 2026 midterm elections. Multiple Republican senators said they would back Thune even if Trump endorsed a challenger, a rare display of distance from the president within the Senate GOP caucus. Trump's displeasure stems primarily from Thune's refusal to abolish the legislative filibuster to advance the president's agenda.\n\nThe standoff highlights a recurring tension between Trump's preference for unconstrained legislative power and Senate Republicans who argue the filibuster protects minority rights and long-term institutional stability. Thune's defenders say he has delivered significant legislative wins for the administration while maintaining Senate norms. The dispute sets up a potential leadership fight after the midterms that could reshape the upper chamber's relationship with the White House.\n\nSeparately, Republican Senators Rand Paul of Kentucky and Ron Johnson of Wisconsin released text messages sent and received by Dr. Anthony Fauci in 2021, obtained from Fauci's government cellphone, regarding the safety of COVID-19 vaccines for pregnant women. The texts show Fauci discussing how to 'weigh the potential risks against the benefits' of vaccination for pregnant women. The senators are among more than 34,000 messages recovered from the device, according to Johnson's office.\n\nAlso in the Senate, Republican senators backed a petition by September 11 families to block New York City mayoral candidate Zohran Mamdani from attending the 25th anniversary Ground Zero remembrance ceremony, citing concerns about his past statements. The cluster of developments reflects an active and at times fractious Senate GOP caucus navigating loyalty to Trump alongside independent institutional interests.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/senate/6021361-gop-senators-thune-trump/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-11T05:08:38.657533-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Sara Duterte Impeachment Trial Hears Testimony That Confidential Funds Went to Christmas Events",
+      "summary": "A state auditor testified Tuesday in the impeachment trial of Philippine Vice President Sara Duterte that her office spent funds designated for surveillance and intelligence operations on Christmas celebrations and tree-planting activities. The testimony adds new detail to a corruption case that has become one of the most significant political proceedings in the Philippines in years.\n\nDuterte, daughter of former President Rodrigo Duterte, faces impeachment charges that include misuse of confidential funds allocated to her office. Critics have argued the funds, which are subject to looser oversight requirements than standard government appropriations, were systematically diverted for non-security purposes. The trial has drawn widespread attention given her prominent political family and her previous standing as a likely future presidential candidate.\n\nThe Duterte family remains a powerful force in Philippine politics, and the impeachment proceedings have divided opinion in the country. Supporters of Sara Duterte argue the charges are politically motivated and intended to neutralize a rival ahead of future elections. Prosecutors and government auditors contend the financial irregularities represent a clear breach of public trust and legal accountability.\n\nThe outcome of the trial could significantly alter the Philippine political landscape, determining whether Duterte can remain in office and continue as a major political figure in a country where her family name still carries considerable weight.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/vp-duterte-used-confidential-funds-on-christmas-events-witness-says",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-11T05:08:38.657533-06:00",
+      "slot": 5
+    }
+  ]
+}
