@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, August 10, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump Administration Revokes More Than 175,000 Visas",
+      "summary": "The Trump administration announced Monday that it has revoked more than 175,000 visas from foreign nationals, marking one of the largest single visa-revocation announcements of the administration's tenure. The State Department said the majority of cancellations stemmed from law-enforcement encounters involving criminal activity, with additional revocations tied to alleged calls for violence against U.S. citizens and other violations of entry terms.\n\nThe announcement drew immediate attention from immigration advocates and congressional Democrats, who have questioned the breadth and due-process standards applied in mass visa actions. Supporters of the policy, including Republican lawmakers and immigration enforcement groups, argue the revocations are a lawful and necessary step to remove individuals who have violated the conditions of their admission to the United States.\n\nThe scale of the action — 175,000 revocations — significantly exceeds previous single-announcement figures and affects foreign nationals across a wide range of visa categories. Critics contend that \"law-enforcement encounters\" is a broad standard that could encompass minor infractions, while administration officials maintain the revocations target individuals who pose public safety concerns.\n\nThe announcement is part of the administration's broader immigration enforcement push, which has included expanded deportation operations, heightened border restrictions, and increased coordination between the State Department and immigration enforcement agencies.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6020599-trump-administration-visa-revocation/",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-10T18:08:32.471192-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Update: Hamas Says It Has Accepted Disarmament Plan; Netanyahu Rejects Military Withdrawal",
+      "summary": "Hamas announced Monday that it has accepted a disarmament plan for Gaza under which the militant group would lay down its arms and Israeli troops would withdraw from the territory. President Trump said the Board of Peace had reached an agreement for the \"complete disarmament\" of Hamas, a development that would represent a dramatic shift in the conflict if confirmed and implemented.\n\nIsraeli Prime Minister Benjamin Netanyahu, however, rejected the terms as presented, saying Israeli forces would not withdraw from Gaza until Hamas is \"genuinely\" disarmed. The Trump administration was reported to be largely unbothered by Netanyahu's public rejection, viewing his stance as campaign rhetoric ahead of Israel's general election rather than a firm policy position.\n\nThe announcement follows months of negotiations and comes amid continued Israeli military operations in Gaza and an expanding Israeli settlement footprint in the West Bank, where large-scale land expropriations are also being planned. The Houthis in Yemen simultaneously claimed missile and drone strikes on Saudi military positions, underscoring the region's broader instability.\n\nSkepticism remains high among analysts and regional actors about whether any disarmament agreement can be practically implemented given deep mutual distrust, ongoing hostilities, and the complex question of who would govern Gaza after Hamas. BBC international editor Jeremy Bowen noted that \"the realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-10T18:08:32.471192-06:00",
+      "slot": 18
+    },
+    {
+      "category": "business",
+      "headline": "Trump Extends Jones Act Waiver for Third Time to Ease Fuel Prices",
+      "summary": "The Trump administration issued a third consecutive 90-day waiver of the Jones Act on Monday, allowing refiners to ship fuels between U.S. ports using foreign-flagged vessels in an effort to hold down gasoline and energy prices. The Jones Act, a century-old law requiring U.S.-flagged ships for domestic maritime commerce, has been a recurring target of waiver requests during periods of elevated fuel costs.\n\nThe White House framed the extension as a cost-of-living measure, arguing that allowing foreign vessels to operate in domestic shipping lanes increases supply flexibility and exerts downward pressure on consumer fuel prices. The domestic maritime industry has pushed back against the waivers, contending they undermine American shipbuilding, U.S. maritime jobs, and national security interests that the Jones Act was originally designed to protect.\n\nThe extension marks the third such waiver in the current series, indicating that the administration sees the energy price environment as sufficiently concerning to override longstanding protectionist shipping policy. Energy analysts note that Jones Act waivers provide a marginal but meaningful increase in fuel distribution efficiency, particularly along the East Coast, which relies heavily on Gulf Coast refinery output.\n\nCritics from the maritime and labor sectors argue that repeated waivers set a precedent that gradually erodes the Jones Act's legal and political foundation, while free-market advocates and consumer groups have praised the administration for prioritizing price relief over industry protectionism.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/energy-environment/6020986-administration-waives-shipping-rules/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-10T18:08:32.471192-06:00",
+      "slot": 18
+    },
+    {
       "category": "science_health",
       "headline": "WHO Warns Congo Ebola Outbreak Began Months Before It Was Declared, Now Second-Worst Ever",
       "summary": "The World Health Organization revealed Monday that the fast-moving Ebola outbreak in the Democratic Republic of Congo began in February — roughly three months before it was officially declared on May 15 — after early cases were misdiagnosed as malaria or typhoid. Confirmed cases have reached approximately 4,300, with nearly 2,000 deaths, making it the second-deadliest Ebola outbreak on record behind the 2014–2016 West Africa crisis.\n\n\"We are chasing the virus, the virus is ahead of us,\" said WHO Africa regional director Dr. Mohamed Yakub Janabi at a news conference in Bunia, the epicenter of the outbreak. Officials said health workers are reaching only about 30 percent of cases, with the rest dying at home, due to insecurity, unpaved roads, shortages of protective gear, and community mistrust. The outbreak involves the rare Bundibugyo strain of Ebola, for which there is no approved vaccine or recognized treatment.\n\nThe situation is further complicated by strikes by unpaid health workers, rebel group threats, and traditional burial practices that involve touching the deceased. WHO Director-General Tedros Adhanom Ghebreyesus warned last week that new cases are doubling in some hot spots. Global risk of spread is assessed as low because Ebola is not airborne, but the scale and pace of this outbreak have alarmed international health authorities.",
