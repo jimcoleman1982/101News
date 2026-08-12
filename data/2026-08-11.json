@@ -3,6 +3,48 @@
   "dateFormatted": "Tuesday, August 11, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "Trump Signs Order Calling for Fewer Childhood Vaccines, Split MMR Shots",
+      "summary": "President Trump signed an executive order Tuesday recommending a reduction in the number of childhood vaccines from 18 to 11 and calling for the measles, mumps and rubella (MMR) vaccine to be administered as separate shots rather than in combination. Trump cited the autism-vaccine link, a theory that has been repeatedly debunked in peer-reviewed research, saying that \"high rates of autism now observed did not exist\" when children received fewer vaccines decades ago. He described the combined MMR shot as potentially \"quite lethal,\" comparing it to pouring a bottle of soda into a child's body; when pressed for evidence, he said, \"What I've heard is that there are some people that say it is that way.\"\n\nThe order is guidance, not a federal mandate. Vaccine requirements for school attendance are set at the state level, meaning Trump's directive does not automatically change what shots children must receive. The immunizations still recommended under the order include those for measles, mumps, rubella, polio, diphtheria, tetanus, pertussis, HPV and several others.\n\nMedical experts sharply criticized the order. The CDC states there is \"no published scientific evidence that shows any benefit in separating the combination MMR vaccine\" and that getting the vaccine is \"much safer than getting measles, mumps, or rubella.\" Dr. William Schaffner of Vanderbilt University told the BBC that splitting the MMR into separate visits would be harder for parents to track, more expensive and would leave children vulnerable to disease between appointments.\n\nSupporters of the administration, including Health and Human Services Secretary Robert F. Kennedy Jr., have argued that the current vaccine schedule has not been adequately studied and that parents deserve more choice. Critics, including the American Academy of Pediatrics, warn the order could suppress vaccination rates and trigger outbreaks of diseases that had been largely eliminated in the United States.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-11T18:08:36.893669-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "New Jersey Gov. Sherrill Says She Is Open to Voter ID Law Despite Opposing Federal SAVE Act",
+      "summary": "New Jersey Democratic Governor Mikie Sherrill said Tuesday she is open to supporting a state-level voter ID law, a notable position for a Democrat and one that Republicans in the state immediately seized upon. \"Governor Sherrill supports the current rules requiring ID for voter registration and she is open to considering proposals to strengthen those to make sure we have the strongest, fairest elections in the nation,\" a spokesperson told Fox News Digital.\n\nThe comments follow disclosure last month that a software error in New Jersey's Motor Vehicle Commission system improperly registered roughly 6,600 people who had indicated they were not U.S. citizens. The state said fewer than 400 of those individuals actually voted, and has since removed more than 4,500 from the rolls while reviewing the remaining cases. Republicans cited the error as evidence of the need for stricter ID requirements.\n\nSherrill simultaneously rejected President Trump's federal SAVE Act, which would require proof of citizenship to register to vote, calling it \"voter suppression\" and objecting to the transfer of New Jerseyans' personal data to federal systems. She voted against the measure as a House member in 2025. New Jersey Assembly Minority Leader John DiMaio called her state-level openness a \"significant shift\" but said the harder test would be whether she follows through with legislation.\n\nThe debate reflects a broader national fault line: Democrats have generally opposed voter ID laws as barriers that disproportionately burden low-income and minority voters, while Republicans argue such measures are essential to election integrity. Sherrill's willingness to consider state-level ID requirements while opposing the federal approach illustrates the political complexity governors face as the issue gains salience ahead of the November midterms.",
+      "source": "Fox News Politics",
+      "url": "https://www.foxnews.com/politics/sherrill-drops-head-turning-voter-id-declaration-wake-registration-fiasco-significant-shift",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-11T18:08:36.893669-06:00",
+      "slot": 18
+    },
+    {
+      "category": "business",
+      "headline": "Oil Prices Swing, Stocks Slip as Markets Await Inflation Report",
+      "summary": "U.S. stocks fell modestly for a second consecutive session Tuesday, with the S&P 500 down 0.3% and the Nasdaq off 0.6%, as oil price volatility and inflation uncertainty weighed on investor sentiment. Brent crude briefly surpassed $90 per barrel before settling at $88.91, up 1.4% on the day, reflecting ongoing uncertainty over when the Strait of Hormuz will reopen to commercial shipping following U.S. and Israeli military operations against Iran.\n\nGasoline prices have risen sharply as a result of the disruption, with the national average reaching $4.01 per gallon according to AAA, up from under $3.14 a year ago. Higher energy costs are feeding into broader inflation, keeping pressure on the Federal Reserve ahead of its September meeting. Traders see roughly even odds of a rate increase at that meeting, which would be the first hike in more than three years.\n\nWall Street's attention turns to Wednesday, when the U.S. government releases its July Consumer Price Index reading. Economists expect inflation to show a slight deceleration to 3.4% from 3.5% in June, though any surprise on the upside could accelerate expectations for Fed tightening. The 10-year Treasury yield stood at 4.69%, well above the 3.97% level before the Iran conflict began, pushing long-term mortgage rates to their highest point in a year.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/economy/u-s-stocks-edge-further-from-their-records-as-oil-prices-keep-swinging",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-11T18:08:36.893669-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Update: Pakistan Says U.S. and Iran Close to Hormuz Arrangement as Shipping Traffic Drops",
       "summary": "Pakistan's defense minister told Bloomberg on Tuesday that the United States and Iran are \"close to some sort of arrangement\" over the Strait of Hormuz, even as both sides appear to be hardening their positions in negotiations held in Islamabad. The comments come as Hormuz shipping traffic dropped sharply over the weekend, falling from roughly 11 vessels per day to six, according to trade intelligence firm Kpler.\n\nThe diplomatic signal from Islamabad contrasts with recent moves by both Washington and Tehran. President Trump has publicly demanded Iran compensate families of Americans killed in Iranian-backed attacks, while Tehran has issued new conditions for reopening the strait. A Saudi vessel was also reportedly struck by a missile in the Red Sea, and a UK maritime monitor reported a separate incident involving a container ship in the Gulf of Oman, underscoring continued tensions in the region.\n\nEnergy Secretary Chris Wright separately claimed oil leaving the Persian Gulf has returned to above pre-war levels and that crude flowing through Hormuz alone is approaching 9 million barrels per day — figures that, if accurate, would suggest partial easing of the crisis. Critics and independent analysts have not yet confirmed those figures.\n\nThe Hormuz standoff has global economic implications, affecting energy supplies for Europe and Asia and driving uncertainty in oil markets. A deal, even a partial one, would represent a significant diplomatic achievement, but the gap between U.S. demands for compensation and Iran's conditions for reopening the strait means a formal agreement remains elusive.",
