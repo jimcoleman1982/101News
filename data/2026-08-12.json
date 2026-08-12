@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-12",
+  "dateFormatted": "Wednesday, August 12, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Colombia Earthquake Death Toll Rises Above 180 as Rescue Crews Race to Free Trapped Survivors",
+      "summary": "Rescue workers in Colombia are working against the clock following Monday's magnitude 7.4 earthquake, with the confirmed death toll standing at 181 and an aggregated figure from local officials suggesting it may exceed 240. The quake struck at 7:34 a.m. local time and was felt across hundreds of miles of western Colombia, with the cities of Cali and Pereira suffering the worst damage. President Abelardo de la Espriella declared a state of emergency and reported nearly 2,600 injuries, approximately 200 people still missing, more than 1,100 homes destroyed, and more than 8,000 damaged.\n\nIn Cali, a city of 2.2 million, 95 deaths have been confirmed and 239 people remain trapped across 45 buildings that have fully or partially collapsed. Several floors of a hospital dedicated in part to pediatric care collapsed, and a school collapse in the Calima neighborhood killed four children and seriously injured dozens more. Cali's mayor has imposed a nighttime curfew to prevent looting.\n\nIn Pereira, 79 deaths have been confirmed by the city's fire department. Authorities have implemented a car-free day to facilitate search operations, and hundreds of volunteers are working alongside emergency personnel to clear rubble. More than 70 aftershocks have been recorded since Monday, with two of magnitude 3.6 occurring early Tuesday, complicating rescue efforts.\n\nThis is a material update on the Colombia earthquake, which was first reported as having surpassed 200 deaths in a previous edition. Today's coverage introduces new figures from city-level officials, updated missing-persons counts, confirmed aftershock totals, and details on school and hospital collapses not previously reported.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 6,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-12T05:08:30.487787-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Zhu Rongji, Chinese Premier Who Engineered WTO Entry and State-Enterprise Overhaul, Dies at 98",
+      "summary": "Zhu Rongji, who served as China's premier from 1998 to 2003, has died at the age of 98. He was one of the most consequential economic architects in modern Chinese history, overseeing the country's accession to the World Trade Organization in 2001 and pushing through sweeping reforms of state-owned enterprises that cost tens of millions of workers their jobs while transforming China into the world's leading manufacturing power.\n\nAs vice premier and then premier under President Jiang Zemin, Zhu presided over a period of wrenching structural adjustment that dismantled the socialist-era iron rice bowl system of guaranteed state employment. His reforms, while enormously disruptive to workers, helped lay the foundation for China's explosive economic growth in the two decades that followed.\n\nZhu was widely regarded within China and internationally as a technocratic reformer with a blunt communication style uncommon among senior Communist Party officials. His death marks the passing of a pivotal figure from the generation of leaders who shaped post-Mao China's integration into the global economy.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/zhu-rongji-chinese-premier-who-overhauled-economy-dies-at-98",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-12T05:08:30.487787-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "DHS Plans to Equip ICE Officers With Electric-Shock Gloves at Cost of Up to $20 Million",
+      "summary": "The Department of Homeland Security published a notice outlining plans to spend up to $20 million equipping Immigration and Customs Enforcement officers with gloves capable of delivering painful electric shocks. The devices, called the Generated Low Output Voltage Emitter (G.L.O.V.E.) and manufactured by Compliant Technologies LLC of Lexington, Kentucky, are intended to gain compliance from combative individuals during arrests or detentions. According to the manufacturer, the shock is typically effective in bringing individuals into compliance in under three seconds, and DHS aims to have thousands of the devices deployed by March.\n\nSupporters of the program argue that such tools provide officers with a less-lethal option for subduing resistant individuals, potentially reducing the risk of injury to both officers and detainees compared with more aggressive physical force. Critics, including civil liberties advocates, have raised concerns about the potential for abuse, particularly in the context of immigration enforcement operations that have already drawn scrutiny over detainee treatment.\n\nThe announcement comes amid broader debate over ICE enforcement tactics and the conditions under which detained migrants are held. The notice was published Monday and represents a formal procurement action, meaning the plan is materially advanced beyond a policy proposal.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6024004-dhs-ice-shock-gloves/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-12T05:08:30.487787-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "Severe Derecho Cuts Power to 500,000 in Chicago Region, Tornadoes Touch Down, Lightning Injures 16 at Ohio Prison",
+      "summary": "A powerful storm system swept from Iowa through Indiana on Tuesday, knocking out power to more than half a million people in the Chicago area and northwestern Indiana. The National Weather Service confirmed two tornadoes touched down just south of Chicago, and the Storm Prediction Center said the intense system met the criteria for a derecho — a widespread, long-lived wind storm — after wind gusts of up to 99 mph were recorded in Gary, Indiana, with numerous other locations reporting gusts above 80 mph.\n\nAll flights were temporarily halted at Chicago's two major airports, O'Hare and Midway, as the storm passed through, causing a significant backlog of departures and arrivals. Widespread damage was reported across the region, including flooded roads, downed trees, and homes with structural damage. At least one death was reported in Ohio as the system moved east.\n\nAt the Grafton Reintegration Center southwest of Cleveland, lightning struck a group of incarcerated individuals returning from an evening meal, hospitalizing 16 people, one of whom was airlifted. The Ohio Department of Corrections said conditions were not immediately known for all those hospitalized. Utility crews were working to restore power, but large numbers of customers faced extended outages into Wednesday.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/severe-weather-chicago-indiana-illinois-1a17b33ff8b6adb50b06a6e62c695769",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-12T05:08:30.487787-06:00",
+      "slot": 5
+    }
+  ]
+}
