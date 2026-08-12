@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Houthi Rebels Kill Six in Missile Strike on Vessel in Bab el-Mandeb Strait",
+      "summary": "Iran-backed Houthi rebels fired three ballistic missiles at a Yemeni commercial vessel in the Bab el-Mandeb strait on Tuesday, killing six people, including four crew members and two members of government-allied National Resistance Forces, Yemeni authorities said. It is the first confirmed lethal Houthi attack on shipping during the current round of fighting, marking a significant escalation in the region's maritime crisis.\n\nThe strike comes as the Strait of Hormuz remains effectively closed by Iran, heightening global attention on the Bab el-Mandeb as an alternate oil export route for Saudi Arabia. Houthis have simultaneously intensified attacks on government-held port city Mokha on the Red Sea and on Saudi oil facilities, raising fears of a broader regional conflagration and the reignition of Yemen's civil war after its 2022 truce.\n\nHouthi chief negotiator Mohammed Abdul-Salam said the group is open to negotiations but demanded the lifting of a Saudi-led blockade imposed in 2015. The escalation opens a new front in the Middle East conflict and threatens global energy shipping at a moment when alternative routes are already under pressure from the Hormuz crisis.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-us-strait-hormuz-august-11-2026-91e4efdfe1ac035b2065127550377289",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "7:39 AM MT",
+      "addedAtISO": "2026-08-12T07:39:18.631789-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Putin Threatens Retaliation Against EU Over Planned Seizure of Russian Ships",
+      "summary": "Russian President Vladimir Putin on Wednesday threatened direct retaliation if European Union member states move to seize Russian commercial vessels, labeling any such action \"piracy.\" Putin warned that Moscow would respond \"wherever necessary\" to protect Russian cargo ships, sharply escalating diplomatic tensions between Russia and the West over sanctions enforcement.\n\nThe threat comes as EU governments have been exploring asset seizure measures targeting Russian shipping as part of broader sanctions packages tied to the ongoing war in Ukraine. The standoff introduces a new dimension to the Russia-West conflict, potentially putting commercial maritime traffic at risk on multiple seas.\n\nPutin's remarks represent one of his most direct warnings aimed at European economic measures and signal that Moscow views ship seizures as a red line warranting military or retaliatory action. Analysts note the statement could complicate European legal and logistical efforts to enforce sanctions while raising the specter of incidents at sea involving Russian-flagged or Russian-cargo vessels.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/putin-threatens-retaliation-over-eu-moves-to-seize-russian-ships",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:39 AM MT",
+      "addedAtISO": "2026-08-12T07:39:18.631789-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "New Zealand Prime Minister Luxon Survives Second Leadership Challenge Ahead of November Election",
+      "summary": "New Zealand Prime Minister Christopher Luxon survived a second internal vote of confidence within four months on Wednesday, emerging from a three-hour caucus meeting to declare he has the \"full support\" of the ruling National Party. The challenge followed a series of public missteps, including an uncoordinated suggestion of a referendum on the country's electoral system and a speech that alienated small business owners, drawing widespread backlash.\n\nLuxon's preferred prime minister rating has fallen to a record-low 17% according to a 1News Verian poll released Wednesday, though he still leads all other candidates in the survey. Unemployment has risen to an 11-year high of 5.6%, and sluggish economic growth has eroded support for a leader who came to office in the 2023 election on a cost-of-living platform.\n\nNew Zealand holds its next general election on November 7, giving Luxon little time to rebuild his standing. His survival of Wednesday's challenge keeps the National Party's leadership intact for now, but analysts note that persistent polling weakness and continued economic stagnation could make his position precarious as the campaign approaches.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:39 AM MT",
+      "addedAtISO": "2026-08-12T07:39:18.631789-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
       "headline": "Update: Colombia Earthquake Death Toll Rises Above 180 as Rescue Crews Race to Free Trapped Survivors",
       "summary": "Rescue workers in Colombia are working against the clock following Monday's magnitude 7.4 earthquake, with the confirmed death toll standing at 181 and an aggregated figure from local officials suggesting it may exceed 240. The quake struck at 7:34 a.m. local time and was felt across hundreds of miles of western Colombia, with the cities of Cali and Pereira suffering the worst damage. President Abelardo de la Espriella declared a state of emergency and reported nearly 2,600 injuries, approximately 200 people still missing, more than 1,100 homes destroyed, and more than 8,000 damaged.\n\nIn Cali, a city of 2.2 million, 95 deaths have been confirmed and 239 people remain trapped across 45 buildings that have fully or partially collapsed. Several floors of a hospital dedicated in part to pediatric care collapsed, and a school collapse in the Calima neighborhood killed four children and seriously injured dozens more. Cali's mayor has imposed a nighttime curfew to prevent looting.\n\nIn Pereira, 79 deaths have been confirmed by the city's fire department. Authorities have implemented a car-free day to facilitate search operations, and hundreds of volunteers are working alongside emergency personnel to clear rubble. More than 70 aftershocks have been recorded since Monday, with two of magnitude 3.6 occurring early Tuesday, complicating rescue efforts.\n\nThis is a material update on the Colombia earthquake, which was first reported as having surpassed 200 deaths in a previous edition. Today's coverage introduces new figures from city-level officials, updated missing-persons counts, confirmed aftershock totals, and details on school and hospital collapses not previously reported.",
       "source": "BBC News",
