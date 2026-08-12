@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, August 12, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump Secretly Swapped Planes at NATO Summit to Evade Iranian Missile Threat",
+      "summary": "President Donald Trump covertly switched aircraft at Ankara's airport last month after U.S. officials detected a credible Iranian threat to fire a missile at Air Force One, according to reports from the Washington Post and confirmed to CBS News by U.S. officials. Trump was seen publicly boarding the presidential 747 before being smuggled via a catering truck to a smaller C-32A military aircraft on the opposite side of the plane. Journalists and some White House staff on board were told to keep window shades down and were unaware the president had departed.\n\nDefense Secretary Pete Hegseth boarded the C-32A separately using external stairs to maintain the appearance of a normal flight, while the decoy aircraft continued using the Air Force One call sign. The president's actual transport used the call sign 'Reach 18.' Trump later reboarded the old Air Force One in the United Kingdom before transferring again to the Qatari-donated presidential jet for the return to Washington.\n\nThe incident occurred one day after the U.S. renewed military strikes on Iran following a breakdown in negotiations over the ongoing conflict. Trump had publicly declared at the summit that he was Iran's 'number one target.' The White House has not officially confirmed the account.\n\nThe episode underscores the elevated threat environment surrounding U.S. leadership during the Iran conflict and raises questions about transparency with the press corps traveling with the president. The White House Correspondents Association documented the unusual circumstances experienced by the pool journalists on board.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cm2g90vvy62o",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:03 AM MT",
+      "addedAtISO": "2026-08-12T10:03:17.417971-06:00",
+      "slot": 11
+    },
+    {
+      "category": "business",
+      "headline": "US Inflation Eases to 3.4% in July as Food and Fuel Costs Cool",
+      "summary": "U.S. consumer prices rose 3.4% in the year through July, down slightly from 3.5% in June, according to new data from the Bureau of Labor Statistics. Month-over-month inflation rose 0.1%, driven largely by housing costs, while food prices increased only modestly and energy prices fell, providing some relief to consumers. Gasoline prices dropped 2.9% from June to July, though they remain 24.6% higher than a year ago due to the ongoing Middle East conflict.\n\nCore inflation — excluding food and energy — rose 0.2% for the month after remaining flat in June, with medical care and airline tickets edging higher while car insurance costs continued to fall. Financial markets reacted with little movement, as the figures were broadly in line with expectations. July's separate jobs report, which showed a net loss of positions, has already softened market expectations for a near-term interest rate increase.\n\nFederal Reserve Chair Kevin Warsh said the central bank's priority remains moving inflation toward its 2% target while avoiding unnecessary economic disruption, acknowledging there is no quick fix for years of above-target price growth. President Trump has separately argued that inflation remains too burdensome for American families, pointing specifically to rent and grocery costs as ongoing concerns.\n\nThe report is a key data point for the Fed as it weighs its next policy moves, with the central bank balancing the need to control inflation against signs of softening in the labor market.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:03 AM MT",
+      "addedAtISO": "2026-08-12T10:03:17.417971-06:00",
+      "slot": 11
+    },
+    {
+      "category": "business",
+      "headline": "Los Angeles Lakers Sold to Bob Iger and Josh Kushner for Record $12.5 Billion",
+      "summary": "Former Walt Disney Company CEO Bob Iger and venture capital founder Joshua Kushner have agreed to purchase the Los Angeles Lakers from Guggenheim Partners CEO Mark Walter for $12.5 billion, setting a new record for a professional sports franchise sale. The deal was confirmed by the buyers to CBS Los Angeles. The sale comes roughly 14 months after Walter himself acquired a majority stake in the team from the Buss family for approximately $10 billion, which was at the time the largest sports franchise transaction in history.\n\nIger, 75, previously purchased NWSL's Angel City FC in 2024 and served two separate tenures as Disney's CEO, most recently departing in March 2026. Kushner, 41, is the younger brother of Jared Kushner and son of U.S. Ambassador to France Charles Kushner; he had previously purchased a minority stake in the Miami Heat. The two stated they are committed to competing 'at the highest level' and building on the Lakers' legacy.\n\nThe franchise is entering a new on-court era led by Luka Doncic, acquired from the Dallas Mavericks in early 2025 and signed to an extension last August. The sale follows LeBron James's departure in free agency this summer, with James announcing he will finish his career with the Philadelphia 76ers.\n\nThe $12.5 billion price tag far exceeds the previous record set by the Boston Celtics' $6.1 billion sale last year and reflects surging valuations across professional sports. The deal also comes as the NBA pursues expansion franchises in Seattle and Las Vegas.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/los-angeles-lakers-sold-bob-iger-josh-kushner/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:03 AM MT",
+      "addedAtISO": "2026-08-12T10:03:17.417971-06:00",
+      "slot": 11
+    },
+    {
       "category": "world",
       "headline": "Update: Houthi Rebels Kill Six in Missile Strike on Vessel in Bab el-Mandeb Strait",
       "summary": "Iran-backed Houthi rebels fired three ballistic missiles at a Yemeni commercial vessel in the Bab el-Mandeb strait on Tuesday, killing six people, including four crew members and two members of government-allied National Resistance Forces, Yemeni authorities said. It is the first confirmed lethal Houthi attack on shipping during the current round of fighting, marking a significant escalation in the region's maritime crisis.\n\nThe strike comes as the Strait of Hormuz remains effectively closed by Iran, heightening global attention on the Bab el-Mandeb as an alternate oil export route for Saudi Arabia. Houthis have simultaneously intensified attacks on government-held port city Mokha on the Red Sea and on Saudi oil facilities, raising fears of a broader regional conflagration and the reignition of Yemen's civil war after its 2022 truce.\n\nHouthi chief negotiator Mohammed Abdul-Salam said the group is open to negotiations but demanded the lifting of a Saudi-led blockade imposed in 2015. The escalation opens a new front in the Middle East conflict and threatens global energy shipping at a moment when alternative routes are already under pressure from the Hormuz crisis.",
