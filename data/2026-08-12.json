@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Three Executions Scheduled for Same Day Thursday as U.S. Death Penalty Rate Surges",
+      "summary": "Three men convicted of murder in separate states — Anthony Darrell Hines in Tennessee, Jeremy Williams in Alabama, and Carlos Cuesta-Rodriguez in Oklahoma — are scheduled to be executed on Thursday, marking the first time three people have been put to death on the same day in the United States in 16 years. The simultaneous executions underscore a sharp national increase in capital punishment: there were 47 executions across 11 states in 2025, more than four times the number carried out in 2021, with the pace continuing into 2026.\n\nFlorida accounts for roughly 40 percent of recent executions, driven largely by Republican Governor Ron DeSantis, whom death penalty experts describe as the single largest factor behind the national surge. 'He is the reason we are seeing a record number of executions,' said Robin Maher of the Death Penalty Information Center. Twelve of the 19 U.S. executions recorded so far in 2026 have occurred in Florida.\n\nPresident Trump has been a vocal supporter of capital punishment, ending a federal moratorium in his first term and reinstating the death penalty by executive order on his first day back in office in 2025. His administration has also expanded permissible execution methods to include firing squads and streamlined DOJ processes to expedite death penalty cases, though no federal executions have yet been carried out under the current order.\n\nOpponents, including Amnesty International, argue the trend runs counter to growing public skepticism about capital punishment and the risk of executing innocent people. Supporters contend the death penalty serves as a necessary deterrent for the most heinous crimes. Experts note Trump's full impact on federal executions will take years to materialize given the lengthy timelines of capital cases and appeals.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:43 PM MT",
+      "addedAtISO": "2026-08-12T20:43:10.338985-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "AOC Distances Herself From 2020-Era 'Defund the Police' Politics in Bid for Broader Appeal",
+      "summary": "Representative Alexandria Ocasio-Cortez is publicly distancing herself from the progressive rhetoric that defined the 2020 Democratic left, including support for defunding the police and other positions that have since become liabilities with moderate and swing voters. In a recent interview, Ocasio-Cortez argued that candidates should be judged on their current platforms rather than past positions, seeking in effect a political reset for the democratic socialist wing of the party ahead of a potential 2028 presidential run.\n\nNew York City Mayor Zohran Mamdani echoed Ocasio-Cortez on Wednesday, saying at a Bronx infrastructure event that 'sometimes, what you believe can change,' aligning himself with the rhetorical shift. Both politicians were responding in part to a viral remark by New York City council member Chi Ossé, who said 'Woke 1 was crazy,' signaling a broader reassessment among prominent progressives of the 2020-era policy agenda.\n\nThe move carries significant political risks. Moderate Democrats, who bore the electoral costs of the 'defund the police' slogan in the 2020 and 2022 cycles, are skeptical that a rebranding effort will be sufficient to overcome the record. Conservatives and right-leaning commentators have argued the shift is cynical and politically motivated rather than a genuine change in governing philosophy.\n\nOcasio-Cortez has simultaneously emerged as the leading 2028 Democratic presidential contender on prediction markets, surpassing California Governor Gavin Newsom with an 18 percent probability of winning the nomination on Polymarket. The repositioning suggests she is moving to consolidate a broader coalition beyond the progressive base, though the effort is likely to face sustained scrutiny from both flanks of the party.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/12/aoc-democratic-socialists-2028",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:43 PM MT",
+      "addedAtISO": "2026-08-12T20:43:10.338985-06:00",
+      "slot": 21
+    },
+    {
+      "category": "business",
+      "headline": "Gasoline Prices Hold Near $4 Per Gallon in August, Highest for This Time of Year on Record",
+      "summary": "U.S. gasoline prices have remained stubbornly near $4 per gallon heading into mid-August, an unusually high level for this point in the summer driving season and a direct consequence of ongoing uncertainty surrounding the Iran conflict and its effect on global oil markets. 'We're paying more than we've ever paid this time of year,' said Tom Kloza, chief oil analyst at Gulf Oil, citing the war's unresolved trajectory as the primary driver keeping prices elevated.\n\nThe persistent fuel costs come despite a July inflation report released Wednesday showing the Consumer Price Index rose 3.4 percent year-over-year, a smaller annual increase than in May or June and a sign that broader price pressures are easing. However, energy prices remain a key exception, with the Iran conflict disrupting shipping and supply chains in ways that are keeping gasoline costs from falling in line with other categories.\n\nThe $4 per gallon threshold is politically sensitive, as elevated pump prices tend to weigh heavily on consumer sentiment and shape public perceptions of economic management. The Federal Reserve is now considered less likely to raise interest rates in September given the cooling headline inflation figure, though persistent energy inflation complicates that calculus.\n\nMarkets have been closely tracking diplomatic and military developments in the Persian Gulf region for signals about when oil supply disruptions might ease. With no resolution in sight, analysts expect gasoline prices to remain above seasonal norms through at least the early fall.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/energy-environment/6026268-gasoline-prices-stick-at-4-per-gallon-as-war-drags-on/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:43 PM MT",
+      "addedAtISO": "2026-08-12T20:43:10.338985-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
       "headline": "Wisconsin Primary Results: Key Races Decided in Multi-State Primary Day",
       "summary": "Voters in Wisconsin, South Carolina, Connecticut, Alabama, Vermont, and Minnesota headed to the polls Tuesday in a major multi-state primary day, with results coming in Wednesday morning. The Wisconsin contest drew particular national attention as a bellwether for Democratic Party direction heading into the November midterms, following closely watched races that tested the influence of progressive versus moderate wings of the party.\n\nThe primaries come amid broader intraparty debates within the Democratic Party about its ideological positioning. Earlier results from Minnesota showed progressive Flanagan defeating moderate Craig, while the Wisconsin outcomes are being scrutinized for similar signals about which faction of the party holds sway with primary voters in competitive Midwestern states.\n\nRepublicans and political analysts are watching the results closely for indications of general-election vulnerabilities or strengths, particularly in states where control of Senate and House seats could determine the balance of power after November. With 85 days until the midterms, the primary results will shape candidate recruitment, fundraising, and strategic decisions for both parties.\n\nThe races are being covered by more than 30 major news outlets, reflecting the high national stakes. Results from all six states are expected to clarify the battlefield map for the fall campaign season.",
       "source": "CNN",
