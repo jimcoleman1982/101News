@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Wisconsin Primary Results: Key Races Decided in Multi-State Primary Day",
+      "summary": "Voters in Wisconsin, South Carolina, Connecticut, Alabama, Vermont, and Minnesota headed to the polls Tuesday in a major multi-state primary day, with results coming in Wednesday morning. The Wisconsin contest drew particular national attention as a bellwether for Democratic Party direction heading into the November midterms, following closely watched races that tested the influence of progressive versus moderate wings of the party.\n\nThe primaries come amid broader intraparty debates within the Democratic Party about its ideological positioning. Earlier results from Minnesota showed progressive Flanagan defeating moderate Craig, while the Wisconsin outcomes are being scrutinized for similar signals about which faction of the party holds sway with primary voters in competitive Midwestern states.\n\nRepublicans and political analysts are watching the results closely for indications of general-election vulnerabilities or strengths, particularly in states where control of Senate and House seats could determine the balance of power after November. With 85 days until the midterms, the primary results will shape candidate recruitment, fundraising, and strategic decisions for both parties.\n\nThe races are being covered by more than 30 major news outlets, reflecting the high national stakes. Results from all six states are expected to clarify the battlefield map for the fall campaign season.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/election/2026/primaries/wisconsin",
+      "sourceCount": 30,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-12T18:08:38.355028-06:00",
+      "slot": 18
+    },
+    {
+      "category": "technology",
+      "headline": "Update: Meta Youth Safety Trial Opens in California as States Consolidate Addiction Lawsuits",
+      "summary": "Jury selection began Wednesday in a federal court in Oakland, California, for a landmark trial consolidating lawsuits from attorneys general across the country accusing Meta of deliberately designing its platforms — including Instagram and Facebook — to be addictive for young users. The case represents one of the most significant legal challenges to a major social media company over children's online safety and follows a federal appeals court ruling that thousands of similar lawsuits could proceed.\n\nProsecutors and state attorneys general allege that Meta knowingly engineered features that exploit psychological vulnerabilities in minors to maximize engagement, causing measurable harm including anxiety, depression, and disordered behavior. Meta has disputed that its platforms are inherently harmful and has pointed to a range of parental controls and safety measures it has implemented in recent years.\n\nThe trial is being watched closely by the technology industry as a potential precedent-setter for how courts will evaluate platform liability for algorithmic design choices. Several other major platforms, including TikTok, face similar consolidated lawsuits. Advocates for children's online safety say the trial could accelerate legislative and regulatory action if Meta is found liable.\n\nThe case arrives amid a broader national debate over social media's effects on youth mental health, with Congress having considered but not yet passed comprehensive federal legislation. Platform companies argue that responsibility ultimately rests with parents and that broad liability rulings could threaten free expression online.",
+      "source": "The Hill",
+      "url": "https://thehill.com/newsletters/technology/6026210-meta-heads-back-to-court-for-online-safety-trial/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-12T18:08:38.355028-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Israeli Settlers Besiege Two Palestinian Families in West Bank Village for Days; Security Forces Withdraw",
+      "summary": "Israeli settlers have besieged two Palestinian families in their homes in the village of Qusra near Nablus in the occupied West Bank since Sunday, cutting off their water, power, and food supplies, according to the families and human rights groups. On Wednesday, Israeli security forces reportedly withdrew from the settler outpost at the site following clashes with a crowd of extremist settlers, leaving approximately a dozen settlers still present.\n\nThe Abu Ridi and Hassan families — seven people in total, including two young girls — have been unable to leave their homes after settlers blocked roads with stones torn from a wall outside one of the properties. Palestinian security camera footage showed settlers dismantling the wall on Sunday evening. The families posted on social media appealing for help, with one resident writing: 'We are living in our own home, on our own land, and we are asking for nothing more than the right to live safely and with dignity.'\n\nIsraeli human rights organization Yesh Din urgently appealed to the head of the Israeli military's Central Command to protect the residents, evacuate the settler outpost, and hold the settlers accountable. The incident drew further criticism after soldiers who initially responded were filmed praying with settlers rather than intervening. Israeli journalists from the newspaper Haaretz said soldiers told them the area was a closed military zone while allowing settlers to move freely.\n\nThe episode comes as a senior UN official told the Security Council on Tuesday that 'the West Bank is at breaking point' amid rising settler violence and expanding settlements. All Israeli settlements in the West Bank are considered illegal under international law; the Qusra outpost was set up without official Israeli government authorization. A Palestinian ambulance was eventually allowed to reach the families late Tuesday, delivering food and evacuating a child for medical treatment.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-12T18:08:38.355028-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
       "headline": "DOJ Charges 11 in Alleged Decade-Long Sham Marriage Scheme Involving Chinese Nationals",
       "summary": "The Justice Department announced charges Wednesday against 11 people accused of orchestrating a decade-long marriage fraud operation that allegedly engineered more than 1,000 sham marriages between Chinese nationals and U.S. citizens to secure fraudulent green cards. Attorney General Todd Blanche, in his first press conference since being sworn in, called the case 'one of the largest marriage fraud prosecutions in United States history.'\n\nA 21-page indictment unsealed in the Southern District of New York alleges the scheme ran from 2016 through 2026. Prosecutors identified Amy Cheng, Xiao Mei Chan, Gang Zheng, and eight others as alleged facilitators who marketed their services through word of mouth, social media, and advertising, primarily to Chinese nationals. Clients allegedly paid up to $100,000 to arrange a marriage and obtain a green card, while recruited U.S. citizens were paid as much as $30,000 to participate.\n\nProsecutors described the operation as a 'full-service fraud scheme,' with facilitators arranging wedding ceremonies, hiring officiants and photographers, preparing immigration forms, opening joint bank and cellphone accounts, and coaching couples before USCIS interviews. In some cases, staged weddings were held at restaurants where participants wore traditional Chinese wedding attire and invited guests to create the appearance of legitimacy.\n\nU.S. Attorney Jamie McDonald said the network generated 'tens of millions of dollars' during its operation and that investigators are continuing to examine others connected to the alleged network. The defendants are expected to make initial court appearances in White Plains, New York.",
       "source": "Washington Examiner",
