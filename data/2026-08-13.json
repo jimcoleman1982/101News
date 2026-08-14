@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "science_health",
+      "headline": "Update: Newly Sworn-In CDC Director Faces Immediate Test Over Trump Childhood Vaccine Order",
+      "summary": "Erica Schwartz was officially sworn in as director of the Centers for Disease Control and Prevention on Thursday, and she immediately confronted her first major policy challenge: President Trump's executive order calling for significant changes to the childhood vaccine schedule, including a directive to split the combined MMR vaccine into separate doses.\n\nSen. Bill Cassidy (R-La.), chair of the Senate health committee, expressed confidence that Schwartz would \"do the right thing\" and stand up for science rather than enforce the order as written. Cassidy, a physician himself, has been among the Republican lawmakers most vocal about defending the existing vaccine schedule and has questioned elements of the administration's vaccine policy.\n\nThe standoff sets up a potentially significant confrontation between the new CDC director and the White House over public health policy, with scientists and pediatric health organizations broadly warning that altering the established vaccine schedule could reduce childhood immunization rates and increase disease risk. Supporters of the Trump order argue the current schedule has not been subjected to sufficient independent safety review.\n\nThe confirmation of Schwartz and her early positioning on the vaccine question will be closely watched as a signal of how much independence the CDC will exercise under the current administration on contested public health questions.",
+      "source": "The Hill",
+      "url": "https://thehill.com/newsletters/healthcare/6029087-schwartz-faces-trumps-vaccine-test/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:41 PM MT",
+      "addedAtISO": "2026-08-13T20:41:30.334478-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Kushner to Visit Israel and Egypt Next Week for Gaza Talks",
+      "summary": "Jared Kushner, President Trump's son-in-law and Middle East peace envoy, is planning to travel to Israel and Egypt next week for talks on the situation in Gaza, according to five sources with knowledge of the plan. It would be Kushner's first visit to Israel since January.\n\nThe trip comes as the White House and Trump's so-called Board of Peace attempt to advance the next phase of their Gaza plan, which centers on disarming Hamas and a potential Israeli military withdrawal. The Netanyahu government has been described as highly skeptical of the disarmament component, and Hamas has separately signaled acceptance of elements of the plan while Netanyahu has publicly rejected conditions tied to an Israeli withdrawal.\n\nThe diplomatic push follows weeks of stalled negotiations, with the broader Hormuz maritime crisis and continued Iran-related military operations complicating the regional picture. A visit by a senior U.S. envoy carrying direct White House authority would represent the most significant in-person diplomatic engagement on Gaza in months.\n\nEgypt has played a key intermediary role in past Gaza ceasefire and hostage negotiations, and Kushner's planned stop in Cairo suggests Washington is again leaning on Cairo to help broker progress between Israeli and Palestinian factions.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/13/kushner-israel-gaza-netanyahu",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:41 PM MT",
+      "addedAtISO": "2026-08-13T20:41:30.334478-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Third Detainee Dies at New Jersey ICE Facility After Medical Emergency",
+      "summary": "A third migrant has died following a medical emergency at Delaney Hall, New Jersey's largest immigrant detention facility, located in Newark. The Department of Homeland Security confirmed Thursday that Guatemalan national José Chajón-Raxón experienced seizure-like activity on July 19 while a nurse was responding to a separate emergency; he was hospitalized and later died.\n\nDelaney Hall reopened in May 2025 as part of the Trump administration's expanded immigration enforcement and detention operations. The facility has now recorded three detainee deaths since its reopening, a pattern that immigrant advocacy groups and Democratic lawmakers say reflects dangerous and inadequate medical care at the site.\n\nThe Trump administration has defended its management of immigration detention facilities, arguing that detainees receive appropriate medical attention and that deaths reflect pre-existing health conditions rather than systemic failures. Critics, including civil liberties organizations, contend the facility is overcrowded and understaffed, and have called for independent oversight and a federal investigation.\n\nThe deaths at Delaney Hall come alongside a separate incident Thursday in which video emerged of an ICE agent pointing a firearm at a woman in Falls Church, Virginia, after agents claimed she attempted to run them over with her car — an allegation the woman denies. DHS defended the agent's actions, while the video drew widespread attention and criticism on social media.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6028963-third-death-new-jersey-delaney-hall-ice/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:41 PM MT",
+      "addedAtISO": "2026-08-13T20:41:30.334478-06:00",
+      "slot": 21
+    },
+    {
+      "category": "science_health",
       "headline": "Air India to Test All Pilots for Banned Substances After Marijuana Incident",
       "summary": "Air India announced Thursday it will immediately test all of its pilots for banned substances, following an incident last week in which a Phuket-to-Delhi flight suddenly lost altitude and a preliminary report indicated the senior pilot had to retake a substance test after reportedly testing positive for marijuana. Seventeen passengers and crew were injured when the Airbus dropped approximately 91 meters (300 feet) shortly after departure on August 4. Both pilots have been removed from duties pending investigation by Indian authorities, Airbus, and France's air safety agency.\n\nThe new testing regime goes beyond existing regulatory requirements, which mandate that at least 10 percent of pilots be tested at random. Pilots at Air India's budget arm, Air India Express, are also subject to the expanded testing starting Thursday. Tests will cover both banned substances and medications prohibited under aviation regulations, and will be conducted alongside training sessions at Air India's academy and other locations.\n\nThe announcement comes as Air India remains under intense scrutiny following a June 2025 crash of a flight from Ahmedabad to London that killed 241 people on board and 19 on the ground — one of the deadliest aviation disasters in recent years. The airline, which recently appointed former Ethiopian Airlines boss Tewolde Gebremariam as its new chief executive, stated it was 'important to go further' than regulatory minimums to uphold 'the highest standards of safety and professionalism.'",
       "source": "BBC News",
