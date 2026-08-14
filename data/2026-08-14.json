@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "France's Top Court Strikes Down Social Media Ban for Under-15s",
+      "summary": "France's Constitutional Council struck down legislation Friday that would have banned children under 15 from creating social media accounts, ruling that the law constituted an infringement on freedom of expression that was neither appropriate, necessary, nor proportionate. The council also raised concerns about the law's age-verification requirements, finding they lacked adequate legal safeguards for privacy.\n\nThe legislation had been passed by French lawmakers in July and backed by President Emmanuel Macron, who had pledged to implement the ban in stages beginning in September, with full enforcement of existing accounts by January. France would have been the first European country to impose such a restriction. Following the ruling, Macron immediately directed Prime Minister Sébastien Lecornu to draft new legislation addressing the council's objections, with the president expressing determination to have a revised law in place by early 2027.\n\nThe ruling highlights the legal and technical difficulties governments face in restricting minors' access to social platforms. Opponents of the original law had questioned its viability, citing concerns about privacy, the reliability of age-verification tools, and the ease with which young people could circumvent such measures — as has been observed in Australia, which enacted a similar ban for under-16s in December.\n\nThe decision lands amid a broader wave of European efforts to limit children's social media use. European Commission President Ursula von der Leyen proposed an EU-wide 'social media delay' for children in May, and the United Kingdom announced in June that under-16s would be banned from social media beginning in January 2027.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:05 PM MT",
+      "addedAtISO": "2026-08-14T13:05:13.335213-06:00",
+      "slot": 14
+    },
+    {
+      "category": "science_health",
+      "headline": "FDA Assigns Highest-Risk Class I Status to Recall of Nearly 1.6 Million Egg Cartons",
+      "summary": "The U.S. Food and Drug Administration has elevated a recall of nearly 1.6 million cartons of eggs to Class I status, the agency's highest-risk designation, indicating a reasonable probability that the affected product could cause serious adverse health consequences or death. The recall affects eggs distributed across a wide geographic footprint and raises fresh public health concerns for consumers.\n\nClass I recalls are reserved for the most serious violations of FDA standards, and the designation signals urgency for consumers to check whether they have affected products. The FDA separately noted that 14-ounce soup kits were distributed at Walmart stores in 29 states between June 30 and July 7 as part of a related food safety action.\n\nThe recall adds to ongoing food safety pressures affecting the egg supply, which has already been strained by elevated prices and supply disruptions. Consumers are advised to check product lot numbers against the recall notice and discard or return any affected cartons.\n\nThe FDA has not yet publicly detailed the specific contaminant or pathogen involved in the egg recall, but the Class I designation indicates the agency views the risk to public health as significant and immediate.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/6029894-fda-assigns-highest-risk-class-i-status-for-recall-of-nearly-1-6-million-cartons-of-eggs/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:05 PM MT",
+      "addedAtISO": "2026-08-14T13:05:13.335213-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Update: Iran Attacks UAE Tankers in Strait of Hormuz; Regional Powers Condemn Strike",
       "summary": "Iran carried out what the United Arab Emirates and regional governments are calling \"unprovoked attacks\" on two tankers affiliated with Abu Dhabi National Oil Company as they transited the Strait of Hormuz on Friday. Qatar, Kuwait, Egypt and Bahrain all issued formal condemnations, with Qatar's Foreign Ministry calling the strike \"a severe violation of international law, the freedom of maritime navigation, and a clear violation of UN Security Council resolution 2817.\" Bahrain called on the UN Security Council to take \"firm and deterrent measures\" to compel Iran to cease hostilities.\n\nThe attacks represent a significant escalation in the ongoing U.S.-Iran conflict, targeting vessels from a Gulf state that has not been a direct party to the war. The Strait of Hormuz remains a critical chokepoint for global energy supplies, and Iran has previously used access to it as leverage in negotiations.\n\nSeparately, Treasury Secretary Scott Bessent announced that the United States will unveil \"unprecedented\" economic isolation measures against Iran next week, intensifying pressure on Tehran to return to the negotiating table. Vice President Vance said Thursday that the administration's primary goal is keeping oil and gas prices stable for American consumers, and its second goal is ensuring Iran never obtains a nuclear weapon.\n\nThe Trump administration's stated war aims appear to be evolving. Vance conspicuously did not repeat earlier demands that the Strait be \"open and toll-free,\" suggesting a possible shift in the terms Washington is seeking as negotiations remain stalled.",
       "source": "Fox News",
