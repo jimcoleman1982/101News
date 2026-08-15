@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-15",
+  "dateFormatted": "Saturday, August 15, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Jason Arday, Ex-Cambridge Professor at Center of Plagiarism Row, Found Dead",
+      "summary": "Jason Arday, 41, who resigned last week as a University of Cambridge professor of sociology of education amid plagiarism allegations, has been found dead at an address in Battersea, south London. Emergency services found a man unresponsive Friday afternoon; the Metropolitan Police said the death is being treated as unexpected but not suspicious.\n\nArday had denied plagiarism allegations, acknowledging errors in his work but attributing some to his autism. He had said the controversy — which erupted after academic Nathan Cofnas published claims of numerous instances of plagiarism — had caused 'an unrelenting level of public scrutiny and personal attack.' Arday's family said in a statement that 'the campaign of misinformation was too much for Jason,' describing him as a 'gentle man who always wanted to see the best in everyone.'\n\nArday became Cambridge's youngest-ever Black professor at 37 in 2023, a moment widely described as a milestone. Cambridge vice-chancellor Prof. Deborah Prentice called the news 'desperately saddening,' and UK Education Secretary Lucy Powell urged people to 'remember there are real people with loved ones involved.' The circumstances of his death have prompted renewed public debate about the conduct of academic and online scrutiny.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1j1ye6n30no",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-15T05:08:15.586303-06:00",
+      "slot": 5
+    },
+    {
+      "category": "other",
+      "headline": "Phoenix Air Traffic Controller Averts Potential Disaster After Two American Airlines Jets Share Same Flight Number",
+      "summary": "A Phoenix air traffic controller averted a potential mid-air collision early Friday after two American Airlines aircraft were mistakenly assigned the same flight number — American 2482 — and briefly shared the same airspace. Audio of the incident, posted by ATC.com, captured the controller distinguishing between 'American 2482 on the arrival' and 'American 2482 on the departure' to prevent dangerous confusion over altitude directives.\n\nThe duplication occurred because a Chicago-bound flight was delayed by weather, prompting American to dispatch a second plane from Phoenix on the same route. With both aircraft aloft simultaneously, a dispatcher failure to catch the overlap in flight planning meant both pilots were operating under the same call sign. Aviation safety expert Steve Arroyo, who has four decades of airline experience, said such incidents are extremely rare and praised the system's built-in redundancy.\n\nThe Federal Aviation Administration and American Airlines both confirmed they will investigate how the error occurred. The controller, who said he had never seen two aircraft 'pretty much merge with the same call sign' in 25 years, was complimented by one of the pilots for his 'nice work.' The incident comes amid ongoing national scrutiny of air traffic control staffing and aviation safety procedures.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/quick-thinking-controller-helps-2-planes-with-same-flight-number-avoid-possible-disaster",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-15T05:08:15.586303-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Abbott Directs Grant Review Over DFW Airport Islamic Washing Facilities; Airport Drops Plan",
+      "summary": "Texas Gov. Greg Abbott on Friday directed a review of state grants to entities operating Dallas-Fort Worth International Airport and George Bush Intercontinental Airport in Houston, citing religious accommodation concerns, and referred both airports to the U.S. Department of Transportation for investigation. The action came after DFW announced it would not proceed with a proposal to install Islamic ablution washing stations on the pre-security side of its international terminal.\n\nAbbott wrote on X that 'government-owned airports cannot favor one religion over all others,' calling the DFW plan illegal. DFW said it had been evaluating the proposal and determined not to proceed after accelerated review, citing that the project 'would not deliver the originally anticipated operational benefits.' The airport had previously said details in a contractor filing — including a $300,000 cost estimate and a 'privately funded' designation — resulted from administrative errors by an outside design firm.\n\nSupporters of the original plan argued that ablution facilities serve a broad international traveling public and that comparable amenities for other religious practices exist in airports globally, framing the accommodation as neutral customer service rather than religious favoritism. Critics, including Abbott, contend that installing faith-specific facilities at taxpayer-funded airports violates the constitutional principle of government neutrality toward religion. The episode reflects a broader national debate over religious accommodations in public spaces.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/dfw-airport-scraps-controversial-islamic-footwashing-station-plan-texas-gov-abbott-takes-aim",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-15T05:08:15.586303-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Builders Unearth €9 Million Gold Stash Hidden in Walls of Belgian Property",
+      "summary": "Construction workers renovating a property in East Flanders, Belgium, discovered a trove of gold bars and coins estimated at €9 million sealed inside the cellar walls earlier this week. The find, made while drilling for new sewage pipes, is believed to be one of the largest such discoveries in recent Belgian history.\n\nThe property belongs to CAW Oost-Vlaanderen, a welfare charity in Dendermonde. Its director said he hopes the gold might eventually support the charity's work. Police have secured the hoard and warned the public against visiting the site. Under Belgian law, a rightful owner has five years to come forward; if no claim is established, proceeds are divided between the finder and the property owner — provided the stash is not linked to criminal activity.\n\nLocal prosecutors have launched an investigation into the origin of the gold. The incident has drawn international attention and raised legal questions about treasure ownership under Belgian civil law.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-15T05:08:15.586303-06:00",
+      "slot": 5
+    }
+  ]
+}
