@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Ukraine Strikes Russian Roscosmos Space Facility in Samara Region",
+      "summary": "President Volodymyr Zelenskyy announced Friday that Ukraine conducted a strike on a production facility belonging to Russia's Roscosmos space agency in the Samara region, deep inside Russian territory. Ukraine used domestically produced Flamingo missiles in the attack, marking a continued escalation of long-range strikes on Russian military and defense-related infrastructure.\n\nThe strike on a facility tied to Russia's civilian and military space program represents a significant broadening of Ukraine's target set, reaching hundreds of miles into Russian territory. Ukraine has increasingly relied on domestically manufactured drones and missiles to conduct such strikes, reducing dependence on Western-supplied weapons for deep-strike operations.\n\nRussia has not confirmed the strike or provided damage assessments. The attack underscores Ukraine's strategy of pressuring Russian military-industrial capacity and signaling its ability to reach sensitive strategic sites well beyond the front lines.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-15/zelenskyy-says-ukraine-strikes-russian-space-facility-in-samara",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-08-15T11:08:18.779607-06:00",
+      "slot": 11
+    },
+    {
+      "category": "technology",
+      "headline": "AI Companies Suspected of Buying and Destroying Secondhand Books at Scale to Train Models",
+      "summary": "Independent booksellers across the world are reporting an unprecedented surge in bulk purchases of secondhand books, with single orders rivaling a typical week's worth of sales. The buyers are intermediary companies whose ultimate clients are believed to be artificial intelligence firms seeking physical books to digitize and use as training data for large language models.\n\nThe trend gained clearer context after court documents were unsealed last month revealing that Anthropic, the maker of the Claude AI chatbot, ran an internal project called \"Project Panama\" with the stated aim of destructively scanning books on an industrial scale — removing spines, scanning pages, and recycling the physical remains. A 2025 federal court ruling by Judge William Alsup found that using purchased books to train AI was \"exceedingly transformative\" and permissible under U.S. copyright law, effectively opening the door to the practice.\n\nAnthropics said it does not acquire rare or antiquarian books through its programs, and that sourcing physical books for training is a widely used industry practice. Critics, including booksellers and authors, have raised concerns about the destruction of cultural artifacts and the lack of compensation to original authors, even if the practice is now legally sanctioned. The episode highlights unresolved tensions between the AI industry's appetite for training data and intellectual property rights.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-08-15T11:08:18.779607-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "Alaska Senate Democrat Peltola Rejects Kamala Harris Endorsement Amid Red-State Campaign",
+      "summary": "Former Rep. Mary Peltola, the Democratic candidate in Alaska's U.S. Senate race, has publicly distanced herself from a fundraising endorsement sent by former Vice President Kamala Harris on her behalf. Harris sent the email through her Fight for the People PAC, urging donors to contribute to Peltola's campaign — with a portion of proceeds reportedly flowing back to Harris's own organization.\n\nPeltola, who represents a state Harris lost by 13 percentage points in the 2024 presidential election, indicated the endorsement was unsolicited and moved quickly to separate herself from it. The episode illustrates the ongoing difficulty national Democratic figures pose for candidates in Republican-leaning states, where association with the party's 2024 presidential nominee remains a liability.\n\nThe story reflects a broader pattern of internal Democratic tension ahead of the midterms, as candidates in competitive states navigate between energizing the party base and appealing to independent and crossover voters. Republicans are expected to use Harris-linked endorsements as a campaign tool against Democrats in swing and red states.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/6031348-peltola-distancing-harris-endorsement/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-08-15T11:08:18.779607-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "South Korea Proposes Official Talks to End Korean War",
       "summary": "South Korean President Lee Jae Myung used Liberation Day ceremonies on Saturday to formally propose peace talks with North Korea aimed at officially ending the Korean War, which has remained technically active under a 1953 armistice. Lee called for a \"multi-layered security system\" to reduce tensions along the demilitarized zone and offered to discuss practical measures to halt North Korea's nuclear program.\n\nLee, who came to power after his predecessor Yoon Suk Yeol was impeached for attempting to declare martial law, has pursued a policy of engagement with Pyongyang and Beijing. He told the ceremony the two nations should \"put down our intentions to threaten each other\" and sit face-to-face for discussions on peaceful coexistence, while acknowledging that full denuclearization remains a long-term goal and a freeze on nuclear production a more realistic near-term objective.\n\nNorth Korea has not yet responded to the overture. The proposal comes just days after Pyongyang fired a ballistic missile into the sea — its 11th suspected test this year — and North Korean state media made no mention of Lee's offer, instead covering Kim Jong Un's own Liberation Day commemorations. Pyongyang has previously rejected Lee's outreach, criticizing US-South Korean military cooperation agreements.\n\nThe initiative carries geopolitical weight as President Trump, the only Western leader to have met Kim Jong Un, has expressed renewed interest in engagement with the North Korean leader. Lee has indicated he would support a Trump-Kim deal to freeze nuclear production as a step toward denuclearization.",
       "source": "BBC News",
