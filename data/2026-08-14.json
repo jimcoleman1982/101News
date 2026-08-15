@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: U.S. Announces Unprecedented Economic Isolation Plan for Iran as Blockade Declared 'Indefinite'",
+      "summary": "Treasury Secretary Scott Bessent announced this week that the United States will roll out sweeping new economic measures against Iran next week, describing them as \"measures that have never been seen in the history of economic isolation on a country.\" The announcement coincides with Defense Secretary Pete Hegseth's declaration that the U.S. Navy can maintain its naval blockade of Iranian ports \"indefinitely,\" rotating ships in and out as needed. Bloomberg reported Friday that the formal rollout of the plan is expected next week.\n\nIran's Persian Gulf Strait Authority pushed back on U.S. claims of controlling the Strait of Hormuz, posting on social media that \"the Strait of Hormuz remains blocked and will not be reopened until Iran's conditions are accepted.\" Only a handful of ships have transited the strait this week despite Trump administration assertions of \"full control.\" Ceasefire talks between the two countries remain in deadlock.\n\nThe intensifying economic pressure campaign comes amid growing concerns about the condition of U.S. forces deployed in the region. Military leaders have privately raised alarm inside the Pentagon and White House about morale and fatigue among the more than 50,000 troops deployed, particularly the roughly 5,000 sailors and Marines aboard the USS Abraham Lincoln, which has been at sea for nearly seven months — well beyond a typical six-to-seven month deployment cycle.\n\nThe combination of an extended naval blockade and an unprecedented sanctions package represents a significant escalation in the U.S. effort to force Tehran's capitulation. Critics, including Democratic lawmakers, have warned that the prolonged deployment is unsustainable, while administration officials argue the pressure campaign is working and that the U.S. military has the capacity to maintain operations as long as necessary.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/us-to-roll-out-economic-isolation-plan-for-iran-next-week",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-14T18:08:30.244785-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Appeals to Supreme Court to Allow White House Ballroom Construction, Citing Security Needs",
+      "summary": "President Trump filed an emergency petition with the Supreme Court on Friday seeking permission to continue above-ground construction of a $400 million ballroom at the White House, after federal appeals court ruled last week that he lacked the unilateral authority to proceed without congressional approval. The DC Circuit Court of Appeals issued a 2-1 ruling on August 7 ordering a halt to above-ground construction, while permitting a sophisticated underground bunker beneath the ballroom to continue. The court gave Trump 14 days to appeal before its order took effect.\n\nSolicitor General John Sauer argued in the Supreme Court filing that the East Wing construction is \"absolutely required\" for presidential security, citing past attempts on Trump's life. \"The President of the United States of America is not a tenant, but rather the sole, elected head of the Executive Branch,\" Sauer wrote, calling the lower court's injunction \"judicial overreach beyond the proper province of the federal courts.\"\n\nThe case was brought by the National Trust for Historic Preservation, which argued that Congress had not granted the executive branch \"unfettered authority to dramatically redesign, reshape, and reconstruct the White House.\" The appeals court agreed, stating that \"whether or not a massive ballroom should be constructed is for Congress to decide.\" The National Trust has until Tuesday noon to respond to Trump's petition.\n\nThe White House ballroom dispute is the first of Trump's major renovation or policy projects to reach the Supreme Court, and it comes amid a broader pattern of lower courts ruling against his administration across numerous legal fronts. The case raises significant questions about the scope of executive authority over federal property and the limits of presidential power absent explicit congressional authorization. New renderings released with the filing show stylistic changes including large gold presidential seals on the building's exterior.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/08/14/politics/trump-asks-supreme-court-white-house-ballroom",
+      "sourceCount": 16,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-14T18:08:30.244785-06:00",
+      "slot": 18
+    },
+    {
+      "category": "science_health",
+      "headline": "Army Grounds All Apache Helicopter Training Missions After Fatal Texas Crash Kills Two Soldiers",
+      "summary": "The U.S. Army announced Friday it is temporarily halting all Apache helicopter training missions nationwide following a fatal crash Wednesday near Salado, Texas, approximately 30 miles from Fort Hood. Chief Warrant Officer 2 Deontre T. Huey, 34, and Warrant Officer Seth L. Olmstead, 25, were killed when their helicopter went down in a grassy field. No cause has been released as the investigation is in its early stages.\n\nA safety investigation team from the Army Combat Readiness Center in Fort Rucker, Alabama, is working to determine what caused the crash. \"The stand-down will remain in effect until we have a better understanding of the root cause of the accident,\" the Army said in its statement. The Army stressed that combat Apache missions ongoing in the war with Iran — including operations around the Strait of Hormuz — are not affected by the stand-down.\n\nThe Army has taken similar action following past fatal crashes. Three years ago, the service grounded all aviation units after 12 soldiers died in separate crashes in Alaska and Kentucky. Aviation safety expert John Cox, CEO of Safety Operating Systems, called the move encouraging: \"You're guessing until you get some hard answers,\" he said, adding that the stand-down signals the Army is making safety a priority.\n\nThe action comes against a backdrop of heightened scrutiny of Army aviation safety. The National Transportation Safety Board sharply criticized the Army's safety culture during its investigation of the January 2025 Black Hawk collision with an American Airlines jet near Washington, D.C., which killed 67 people. The NTSB found that the Army had poorly assessed safety risks in congested airspace before that crash.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/army-temporarily-halts-apache-helicopter-training-missions-after-deadly-texas-crash",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-14T18:08:30.244785-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
       "headline": "France's Top Court Strikes Down Social Media Ban for Under-15s",
       "summary": "France's Constitutional Council struck down legislation Friday that would have banned children under 15 from creating social media accounts, ruling that the law constituted an infringement on freedom of expression that was neither appropriate, necessary, nor proportionate. The council also raised concerns about the law's age-verification requirements, finding they lacked adequate legal safeguards for privacy.\n\nThe legislation had been passed by French lawmakers in July and backed by President Emmanuel Macron, who had pledged to implement the ban in stages beginning in September, with full enforcement of existing accounts by January. France would have been the first European country to impose such a restriction. Following the ruling, Macron immediately directed Prime Minister Sébastien Lecornu to draft new legislation addressing the council's objections, with the president expressing determination to have a revised law in place by early 2027.\n\nThe ruling highlights the legal and technical difficulties governments face in restricting minors' access to social platforms. Opponents of the original law had questioned its viability, citing concerns about privacy, the reliability of age-verification tools, and the ease with which young people could circumvent such measures — as has been observed in Australia, which enacted a similar ban for under-16s in December.\n\nThe decision lands amid a broader wave of European efforts to limit children's social media use. European Commission President Ursula von der Leyen proposed an EU-wide 'social media delay' for children in May, and the United Kingdom announced in June that under-16s would be banned from social media beginning in January 2027.",
       "source": "BBC News",
