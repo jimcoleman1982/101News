@@ -3,6 +3,48 @@
   "dateFormatted": "Sunday, August 16, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Attorney General Blanche Declines to Pledge DOJ Independence from Trump",
+      "summary": "Attorney General Todd Blanche said Sunday he would not commit to acting independently of President Trump, telling NBC's Meet the Press host Kristen Welker, 'No, I'm not going to pledge that. And no attorney general should ever pledge that.' Blanche added that he would consider Trump's views when making decisions about individual prosecutions, while claiming the president has not and will not ask him to prosecute specific individuals.\n\nThe remarks drew immediate reaction across the political spectrum. Democrats framed Blanche's comments as confirmation that the Justice Department has been subordinated to the White House, pointing to Trump's earlier ouster of career DOJ staff and his public calls for investigations of political rivals. Supporters of the administration argued the attorney general serves at the president's direction and that Blanche's candor reflects how executive power has always functioned.\n\nBlanche also addressed a recent DOJ opinion expanding executive privilege to cover communications between the president and private advisers outside the government, dismissing criticism of it as not raising 'any novel legal concept.' Critics have argued the opinion further insulates the White House from legal accountability.\n\nThe comments mark a significant public articulation of the Trump DOJ's operating philosophy heading into midterm elections, with implications for pending and potential federal investigations. Seven major outlets covered the interview, making it one of the most widely reported political stories of the day.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/16/todd-blanche-doj-independence-trump",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "2:08 PM MT",
+      "addedAtISO": "2026-08-16T14:08:28.094652-06:00",
+      "slot": 14
+    },
+    {
+      "category": "science_health",
+      "headline": "Republican Sen. Cassidy Accuses RFK Jr. of Breaking Pledge on Childhood Vaccine Schedule",
+      "summary": "Sen. Bill Cassidy (R-La.), a physician, said Sunday that Health and Human Services Secretary Robert F. Kennedy Jr. broke a pledge not to alter the childhood vaccine schedule, following President Trump's recent executive order directing changes to it. Appearing on ABC News's 'This Week,' Cassidy called the order 'a stupid thing to do' and said Trump's claims about the safety of the combined MMR vaccine were 'crazy' and damaging to public trust in immunization.\n\nCassidy said the practical effect of the order would require children to receive more individual shots rather than combined vaccines, telling host Martha Raddatz, 'Now instead of your child getting two shots, she has to get six shots.' He said Kennedy had provided 'guarantees' during his confirmation process that he would not attempt to alter the schedule, guarantees Cassidy said have now been broken.\n\nThe controversy places Cassidy — who voted to confirm Kennedy — in direct conflict with the administration on a public health matter with consequences for millions of American children and families. Supporters of the executive order argue that reviewing the vaccine schedule is a legitimate exercise of executive authority and that scrutiny of individual vaccine combinations is warranted.\n\nThe story is covered by four major outlets and represents a significant intraparty break, with a senior Republican senator publicly rebuking both the president and a cabinet secretary he helped confirm on a policy affecting nationwide childhood health standards.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/senate/6032102-cassidy-accuses-rfk-broken-pledge/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "2:08 PM MT",
+      "addedAtISO": "2026-08-16T14:08:28.094652-06:00",
+      "slot": 14
+    },
+    {
+      "category": "other",
+      "headline": "Tommy John, Pioneering Baseball Pitcher and Namesake of Career-Saving Surgery, Dies at 83",
+      "summary": "Tommy John, the left-handed MLB pitcher whose 1974 ulnar collateral ligament reconstruction became one of the most consequential surgeries in sports medicine history, died Sunday at his home in Florida at age 83. He was surrounded by his family, including his wife Cheryl, and had recently entered hospice care.\n\nJohn was 31 years old when he tore the UCL in his pitching elbow — an injury that had effectively ended the careers of pitchers before him. He agreed to undergo an experimental procedure performed by surgeon Frank Jobe, returned to the mound, and went on to pitch for more than a decade afterward. The surgery that bears his name has since become routine, saving the careers of hundreds of professional and amateur pitchers.\n\nA four-time All-Star, John played for six major league teams over a 26-year career. His willingness to undergo the risky, unproven surgery at a career crossroads is widely credited with transforming how arm injuries are treated across all levels of baseball and, increasingly, other sports.\n\nThe New York Yankees paid tribute to John on Sunday. He is remembered as much for that singular medical decision as for his playing career, having lent his name to a procedure that has become a permanent fixture of sports medicine.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "2:08 PM MT",
+      "addedAtISO": "2026-08-16T14:08:28.094652-06:00",
+      "slot": 14
+    },
+    {
       "category": "world",
       "headline": "Two Dead as Wildfires Force Evacuations on Greek Island of Salamina Near Athens",
       "summary": "Two people have died and approximately 90 residents have been evacuated by sea after two fires broke out within minutes of each other on Salamina, a Greek island of roughly 37,000 people situated just west of Athens. Fire officials deployed nearly 200 firefighters, five coastguard patrol boats, multiple aircraft, and 50 fire engines to contain the blazes, which spread rapidly due to high winds on a day the island was already under a high wildfire risk alert.\n\nAuthorities are working to prevent the two separate fires from merging into a single major wildfire by keeping the flames from cresting a mountain that divides the burn zones. Several private vessels are also assisting with the sea evacuation. The island has a notably elderly population, complicating evacuation efforts.\n\nThe Salamina fires are part of a broader pattern of extreme wildfire activity across Europe this weekend, driven by record heat. Croatia and Belgium have also seen significant wildfire evacuations and injuries in recent days. Greece has faced recurring devastating fire seasons in recent years, and the clustering of simultaneous ignitions has raised arson concerns among local officials, though no determination has been made.",
