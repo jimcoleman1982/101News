@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-17",
+  "dateFormatted": "Monday, August 17, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Indonesia Earthquake Death Toll Rises to 68 as Aid Shortages and Starvation Fears Mount in Flores",
+      "summary": "A 7.7-magnitude earthquake that struck the Indonesian island of Flores on Saturday has now killed at least 68 people and displaced approximately 5,000, making it the country's deadliest quake since 2022. Landslides have severed access roads to the hardest-hit villages, cutting off survivors from rescue teams, food, and medical supplies. Thousands remain sleeping outdoors in makeshift shelters, fearing further collapses as aftershocks continue to rattle the region.\n\nThe acute shortage of medical personnel has emerged as a critical crisis. Dr. Melinda, the sole physician at the decimated Dampek Health Centre, posted an urgent appeal describing herself as unable to cope with hundreds of casualties arriving around the clock without rest. Ruteng Regional General Hospital, roughly four hours from the worst-hit areas, has also reported that promised medical assistance had not yet arrived.\n\nMore than 1,000 houses were damaged, along with dozens of health facilities, schools, and government offices, according to Indonesia's National Disaster Management Agency. Search-and-rescue teams are still working to reach cut-off communities, and officials warn the full casualty count may not yet be known. The death toll has risen from the 53 previously reported, representing a material new development in an ongoing disaster.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-17T05:08:17.025487-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Hurricane Lala Sweeps Away About 100 Homes in Hawaii, Knocks Out Power to 219,000",
+      "summary": "Hurricane Lala skirted the Big Island of Hawaii on Saturday and Sunday, delivering catastrophic flash flooding and mudslides without making direct landfall. Roughly 100 or more homes were uprooted from their foundations by torrents of water, and more than 219,000 households lost electricity. Three hospitals also lost power, though backup generators kept them operational. Governor Josh Green said there were, 'amazingly,' no confirmed fatalities linked directly to the home destruction, though one person died in a car accident.\n\nThe storm dumped as much as 32 inches of rain in some areas, with its eyewall passing within 30 miles of South Point overnight. Wind speeds peaked at 91 mph before Lala weakened to a tropical storm tracking westward, south of the islands. Tropical storm warnings remained in effect for all eight of Hawaii's major islands on Sunday, and the governor deployed approximately 180 National Guard members to assist with emergency response.\n\nBoth of Big Island's main airports — Hilo International and Ellison Onizuka Kona — were temporarily closed, with some 190 flights postponed. Maui residents faced water supply disruptions. Hawaii has not seen a hurricane make landfall since Category 4 Hurricane Iniki struck Kauai in 1992, causing six deaths and $3 billion in damage. Officials warned the danger was not yet over as the storm continued to track near the island chain.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-17T05:08:17.025487-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Zambian Security Forces Raid Opposition Leader's Home on Election Day After Shootout",
+      "summary": "Zambian security forces raided the residence of the country's main opposition leader on the day of the presidential election, arresting 11 people following a shootout. Authorities described the operation as part of an investigation into an alleged plot involving foreign nationals. The incident drew immediate scrutiny from international observers monitoring the election.\n\nPresident Hakainde Hichilema appeared on course for an outright re-election victory, according to early reports, but election observers noted violence and what they characterized as a tilted campaign environment. The raid on the opposition leader's home on election day raised concerns about political interference and the integrity of the democratic process in one of southern Africa's historically more stable democracies.\n\nZambia has been regarded as a regional model for peaceful transfers of power since its independence era, making the armed raid and shootout at an opposition leader's compound during voting a significant and alarming development. International observers and regional bodies had been monitoring the election, and their assessments of the pre-election environment and the day's events are expected to shape the international response to the outcome.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/zambia-ties-shootout-at-opposition-leader-s-home-to-alleged-plot",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-17T05:08:17.025487-06:00",
+      "slot": 5
+    },
+    {
+      "category": "other",
+      "headline": "Actress Hayden Panettiere, Star of 'Nashville' and 'Heroes,' Dies at 36",
+      "summary": "Hayden Panettiere, the actress best known for her roles as cheerleader Claire Bennet in the NBC series 'Heroes' and country music star Juliette Barnes in 'Nashville,' has died at age 36. Her representative confirmed the death to ABC News. Panettiere had worked in entertainment since infancy, appearing in commercials at 11 months old, and built a long career as a child and adult actress.\n\nIn May 2026, Panettiere published a memoir chronicling a turbulent decade that included battles with depression and substance abuse, stints in rehabilitation, and losing custody of her daughter Kaya, whom she shares with former fiancé and professional boxer Wladimir Klitschko. She had spoken publicly in recent years about her struggles and her efforts toward recovery. Tributes from the entertainment industry poured in following the announcement of her death.\n\nPanettiere's death was reported by seven major outlets, making it one of the most widely covered stories of the day. She was 36 years old.",
+      "source": "The Hill",
+      "url": "https://thehill.com/blogs/in-the-know/6032588-actress-hayden-panettiere-obituary-36/",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-17T05:08:17.025487-06:00",
+      "slot": 5
+    }
+  ]
+}
