@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Russia Sentences Last Registered Anti-War Politician to 11 Years, Bans His Party from September Elections",
+      "summary": "A Russian court in Pskov sentenced Lev Shlosberg, the deputy head of the liberal Yabloko party and the country's most prominent remaining anti-war politician, to 11 years and one month in a penal colony on Monday. He was convicted of \"discrediting\" Russia's armed forces and \"spreading false information\" about them, charges stemming from social media posts. The verdict was handed down minutes before Russia's Supreme Court separately rejected Yabloko's appeal against a ban on participating in September's parliamentary elections.\n\nShlosberg, 63, condemned the ruling as politically motivated, telling the court its only purpose was to \"punish a person for his political, public and civil position.\" He was repeatedly interrupted by the presiding judge during his closing statement, in which he again called for a ceasefire in Ukraine and political dialogue. Yabloko said it would appeal the sentence.\n\nYabloko was the only registered Russian party to oppose the full-scale invasion of Ukraine launched in 2022. Its exclusion from September's elections—justified by authorities on grounds including alleged support for the \"international LGBT movement\" and copyright infringement—leaves all 10 remaining parties on the ballot as supporters of the war. Independent election watchdogs have been largely stripped of their ability to monitor the process.\n\nThe sentencing marks a significant escalation in the Kremlin's suppression of domestic dissent ahead of the September 18-20 parliamentary vote. Shlosberg's imprisonment removes the last prominent legal opposition voice inside Russia, reinforcing the wartime censorship apparatus that has effectively criminalized public criticism of the military campaign in Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:40 AM MT",
+      "addedAtISO": "2026-08-17T11:40:24.622861-06:00",
+      "slot": 11
+    },
+    {
+      "category": "science_health",
+      "headline": "Lake Powell Hits Record Low, Threatening Water and Power for 40 Million in Seven States",
+      "summary": "Lake Powell, the United States' second-largest reservoir, dropped to a record low elevation of 3,519.91 feet above sea level on Saturday, edging below the previous record set in April 2023. The milestone comes roughly a week after the Colorado River's other major reservoir, Lake Mead, also hit a historic low. Together, the two reservoirs now hold less combined water than at any point since the Glen Canyon Dam was under construction in May 1957.\n\nThe Colorado River Basin is the primary water source for more than 40 million people across seven states—California, Arizona, Nevada, New Mexico, Utah, Wyoming and Colorado—and supports significant hydroelectric power generation. Lake Powell is now approximately 30 feet above the elevation at which its turbines would stop producing electricity. Federal officials warned in April that a \"major intervention\" would be needed to avoid that threshold by year's end.\n\nPersistent overuse of the river, a record-dry winter, and rising temperatures have driven the depletion. The U.S. Bureau of Reclamation proposed a 10-year management plan in July that includes potentially significant water cuts for Arizona, California and Nevada, but the federal government and the seven basin states have yet to reach agreement on a long-term framework.\n\nThe crisis is already affecting Lake Powell's tourism economy, forcing marina relocations, closure of boat ramps, and adaptation across the recreational industry. Scientists and retired water officials who published a recent analysis of the combined reservoir data say levels may continue to fall, making a negotiated solution increasingly urgent.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/lake-powell-hits-record-low-threatening-key-water-and-electricity-supply-for-millions",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:40 AM MT",
+      "addedAtISO": "2026-08-17T11:40:24.622861-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Record Rainfall Triggers Fatal Landslide in South Korea as Storms Batter East Asia",
+      "summary": "A landslide struck an apartment building in the South Korean city of Geoje on Monday morning following record-breaking rainfall, killing one person and injuring two others. Rescuers pulled three residents from the buried ground floor of the building. Geoje recorded 124.5mm of rainfall in a single hour—the highest one-hour total since meteorological records for the city began in 1972—with more than 400mm falling overnight between Sunday and Monday.\n\nThe disaster is part of a broader pattern of extreme weather striking East and Southeast Asia this month. Back-to-back storms have caused widespread flooding and landslides across South Korea, China, Japan and the Philippines. Japan's Chiba prefecture near Tokyo recorded \"unprecedented\" rainfall last week that killed 10 people, stranded thousands at Narita Airport and cut power to more than 20,000 households. Typhoon Dolphin made landfall in eastern China on Monday, bringing strong winds and heavy rain to Shanghai and surrounding areas.\n\nForecasters attribute the unusually intense typhoon season to a strong El Niño pattern that began in June, which raises global temperatures and increases the destructive power of typhoons. Multiple storms sweeping through the region in rapid succession have strained emergency response capacity and damaged infrastructure across several countries simultaneously.\n\nSouth Korean city authorities have closed tourist attractions in Geoje and suspended bus operations and waste collection due to flooded or damaged roads. Residents were urged on Sunday to avoid driving and stay away from riverbanks as further rain continues to threaten the region.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:40 AM MT",
+      "addedAtISO": "2026-08-17T11:40:24.622861-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "UK Prime Minister Burnham Exchanged Messages With Impersonator Posing as Trump's Chief of Staff Susie Wiles",
       "summary": "British Prime Minister Andy Burnham communicated with an unknown individual impersonating Susie Wiles, White House chief of staff and one of President Trump's closest advisers, according to people familiar with the matter. The incident raises immediate national security concerns about the new prime minister's communications protocols and vetting procedures for high-level contacts.\n\nFour outlets including Bloomberg, CBS News, the New York Post, and The Guardian are covering the story. Accounts differ slightly in tone: the Guardian described the suspicious activity as having been identified quickly with no messages of significance exchanged, while the New York Post characterized it as Burnham stumbling into a national security gaffe shortly after taking office.\n\nThe episode is politically embarrassing for Burnham's government at a sensitive moment in UK-US relations, particularly as Britain navigates diplomacy with the Trump administration. It is not yet clear who was behind the impersonation, what the perpetrator's motive was, or how the suspicious contact was ultimately flagged and terminated.",
       "source": "Bloomberg Politics",
