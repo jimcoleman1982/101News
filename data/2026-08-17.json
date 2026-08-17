@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, August 17, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump Administration Pauses Border Wall Construction Inside Big Bend National Park",
+      "summary": "The Trump administration announced Monday it has temporarily halted border wall construction inside Big Bend National Park in Texas, with U.S. Customs and Border Protection Commissioner Rodney Scott saying he ordered the pause to conduct a personal, on-the-ground evaluation of the project. Scott announced the decision via social media, stating he would visit the site before any construction resumes.\n\nThe project has drawn unusually broad bipartisan criticism, with both Republican and Democratic lawmakers pushing back against building a border barrier inside one of the country's most remote and ecologically sensitive national parks. Critics argue the construction has been rushed and is causing environmental damage to a pristine wilderness area along the Rio Grande.\n\nSupporters of the administration's overall border security agenda argue that operational control of the southern border must extend to all terrain, including national parks, where illegal crossings have historically been difficult to monitor. The pause does not signal a cancellation of the project, and CBP's evaluation will determine next steps.\n\nThe decision reflects broader tensions within the administration's border enforcement push over how to balance security priorities with environmental and legal constraints. A federal judge separately ruled against a Native American tribe's trespassing claims related to a nearby Arizona border construction project, citing a 1907 land proclamation.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/17/trump-big-bend-border-wall-construction-paused",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "2:08 PM MT",
+      "addedAtISO": "2026-08-17T14:08:24.075082-06:00",
+      "slot": 14
+    },
+    {
+      "category": "other",
+      "headline": "Tupac Shakur Murder Trial Opens With Opening Statements Nearly 30 Years After Killing",
+      "summary": "Opening statements began Monday in Las Vegas in the murder trial of Duane \"Keffe D\" Davis, the first person charged in the 1996 drive-by shooting death of rapper Tupac Shakur. Davis was indicted in 2023, nearly three decades after Shakur was shot at a stoplight following a Mike Tyson boxing match on September 7, 1996, and died six days later.\n\nDavis, who had previously given media interviews in which he discussed his knowledge of the killing, faces a murder charge as the alleged organizer of the ambush. Prosecutors are expected to argue he coordinated the attack from the back seat of the vehicle from which shots were fired.\n\nThe case has drawn intense public interest as one of hip-hop's most enduring unsolved mysteries nears a legal reckoning. Defense attorneys are expected to challenge the reliability of evidence gathered over nearly three decades and question whether Davis's own prior public statements are admissible.",
+      "source": "The Hill",
+      "url": "https://thehill.com/blogs/in-the-know/6033272-tupac-shakur-murder-trial-kicks-off/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "2:08 PM MT",
+      "addedAtISO": "2026-08-17T14:08:24.075082-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "French Prime Minister Heckled During Visit to Wildfire-Devastated Region as Blazes Continue Across Europe",
+      "summary": "French Prime Minister Sébastien Lecornu was heckled Monday during a visit to Le Porge in southwestern France, where 183 homes burned in recent wildfires. About 200 residents gathered at the town hall, with a local advocacy group organizer alleging they were blocked from meeting with the prime minister by lines of riot police, while Lecornu's office said it had \"nothing to hide\" about how fire operations were conducted.\n\nLecornu announced €12 million in aid for the Gironde and Landes regions, pledging to issue building permits for equivalent reconstruction of destroyed homes within a month. Residents expressed anger over how the fires were managed, with one local questioning why professional firefighters left to defend another area while only volunteer firefighters remained.\n\nWildfires continued to burn across Europe on Monday, with Belgian authorities reporting that the largest wildfire in the country's recent history, burning in the Hautes Fagnes nature reserve, had continued to spread overnight before stabilizing somewhat due to more favorable winds. Germany, the Netherlands, Norway, and Sweden deployed air support to assist Belgian firefighting teams.\n\nIn Greece, authorities reported 41 forest fires ignited in the past 24 hours, with ongoing blazes requiring active response, as the country remained on high fire alert.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "2:08 PM MT",
+      "addedAtISO": "2026-08-17T14:08:24.075082-06:00",
+      "slot": 14
+    },
+    {
       "category": "world",
       "headline": "Russia Sentences Last Registered Anti-War Politician to 11 Years, Bans His Party from September Elections",
       "summary": "A Russian court in Pskov sentenced Lev Shlosberg, the deputy head of the liberal Yabloko party and the country's most prominent remaining anti-war politician, to 11 years and one month in a penal colony on Monday. He was convicted of \"discrediting\" Russia's armed forces and \"spreading false information\" about them, charges stemming from social media posts. The verdict was handed down minutes before Russia's Supreme Court separately rejected Yabloko's appeal against a ban on participating in September's parliamentary elections.\n\nShlosberg, 63, condemned the ruling as politically motivated, telling the court its only purpose was to \"punish a person for his political, public and civil position.\" He was repeatedly interrupted by the presiding judge during his closing statement, in which he again called for a ceasefire in Ukraine and political dialogue. Yabloko said it would appeal the sentence.\n\nYabloko was the only registered Russian party to oppose the full-scale invasion of Ukraine launched in 2022. Its exclusion from September's elections—justified by authorities on grounds including alleged support for the \"international LGBT movement\" and copyright infringement—leaves all 10 remaining parties on the ballot as supporters of the war. Independent election watchdogs have been largely stripped of their ability to monitor the process.\n\nThe sentencing marks a significant escalation in the Kremlin's suppression of domestic dissent ahead of the September 18-20 parliamentary vote. Shlosberg's imprisonment removes the last prominent legal opposition voice inside Russia, reinforcing the wartime censorship apparatus that has effectively criminalized public criticism of the military campaign in Ukraine.",
