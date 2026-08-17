@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "UK Prime Minister Burnham Exchanged Messages With Impersonator Posing as Trump's Chief of Staff Susie Wiles",
+      "summary": "British Prime Minister Andy Burnham communicated with an unknown individual impersonating Susie Wiles, White House chief of staff and one of President Trump's closest advisers, according to people familiar with the matter. The incident raises immediate national security concerns about the new prime minister's communications protocols and vetting procedures for high-level contacts.\n\nFour outlets including Bloomberg, CBS News, the New York Post, and The Guardian are covering the story. Accounts differ slightly in tone: the Guardian described the suspicious activity as having been identified quickly with no messages of significance exchanged, while the New York Post characterized it as Burnham stumbling into a national security gaffe shortly after taking office.\n\nThe episode is politically embarrassing for Burnham's government at a sensitive moment in UK-US relations, particularly as Britain navigates diplomacy with the Trump administration. It is not yet clear who was behind the impersonation, what the perpetrator's motive was, or how the suspicious contact was ultimately flagged and terminated.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/uk-s-burnham-exchanged-messages-with-susie-wiles-impersonator",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:03 AM MT",
+      "addedAtISO": "2026-08-17T07:03:00.939261-06:00",
+      "slot": 8
+    },
+    {
+      "category": "business",
+      "headline": "Fed Minutes, Walmart and Home Depot Earnings headline a Major Week for Wall Street Amid Persistent Inflation",
+      "summary": "Wall Street faces a consequential week with earnings reports from four of the nation's largest retailers — Home Depot on Tuesday, Target and Lowe's on Wednesday, and Walmart on Thursday — along with the release of minutes from the Federal Reserve's most recent policy meeting on Wednesday. Investors and economists are watching the results closely for signals about how businesses and consumers are coping with inflation that remains solidly above 3 percent.\n\nThe ongoing U.S. war with Iran has driven a surge in oil prices, pushing up gasoline costs and raising prices on a wide range of goods. Results from home improvement retailers could shed light on housing market conditions, while Walmart and Target figures will offer a clearer picture of household budgeting and discretionary spending under sustained price pressure.\n\nThe Fed held interest rates steady at its July meeting, though three officials dissented in favor of higher rates — a rift Fed Chair Kevin Warsh publicly called a 'good family fight.' Wall Street currently anticipates at least one rate hike before year's end, and the release of meeting minutes may clarify how close policymakers are to pulling that trigger.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/wall-street-home-depot-target-fed-7dd75609981e7e96b40aa82523b0ea57",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:03 AM MT",
+      "addedAtISO": "2026-08-17T07:03:00.939261-06:00",
+      "slot": 8
+    },
+    {
+      "category": "technology",
+      "headline": "What Happens to the Personal Information You Share With AI Chatbots",
+      "summary": "A new Axios investigation examines the largely unregulated landscape governing how artificial intelligence companies handle sensitive personal information shared by users during chatbot conversations. The report highlights a scenario with few legal guardrails: a chatbot designed to maximize engagement or influence purchasing decisions could potentially draw on fears, insecurities, and private disclosures a user has shared to tailor its responses.\n\nThe investigation focuses on the promises made by major AI companies — including OpenAI, Meta, Google, and Anthropic — about consumer data use, noting that those promises carry outsized weight precisely because formal regulatory requirements remain sparse. Questions about data retention, secondary use of personal disclosures, and whether AI systems can leverage intimate user information for commercial ends are at the center of the inquiry.\n\nThe story comes as concern grows among educators, policymakers, and consumer advocates about AI's rapid integration into daily life. Separately, the New York Times is also reporting on the issue, indicating growing mainstream attention to the gap between AI companies' self-described data policies and what users actually understand about the fate of what they share.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/17/secrets-share-ai-openai-meta-google-anthropic",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:03 AM MT",
+      "addedAtISO": "2026-08-17T07:03:00.939261-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
       "headline": "Update: Indonesia Earthquake Death Toll Rises to 68 as Aid Shortages and Starvation Fears Mount in Flores",
       "summary": "A 7.7-magnitude earthquake that struck the Indonesian island of Flores on Saturday has now killed at least 68 people and displaced approximately 5,000, making it the country's deadliest quake since 2022. Landslides have severed access roads to the hardest-hit villages, cutting off survivors from rescue teams, food, and medical supplies. Thousands remain sleeping outdoors in makeshift shelters, fearing further collapses as aftershocks continue to rattle the region.\n\nThe acute shortage of medical personnel has emerged as a critical crisis. Dr. Melinda, the sole physician at the decimated Dampek Health Centre, posted an urgent appeal describing herself as unable to cope with hundreds of casualties arriving around the clock without rest. Ruteng Regional General Hospital, roughly four hours from the worst-hit areas, has also reported that promised medical assistance had not yet arrived.\n\nMore than 1,000 houses were damaged, along with dozens of health facilities, schools, and government offices, according to Indonesia's National Disaster Management Agency. Search-and-rescue teams are still working to reach cut-off communities, and officials warn the full casualty count may not yet be known. The death toll has risen from the 53 previously reported, representing a material new development in an ongoing disaster.",
       "source": "BBC News",
