@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, August 17, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "House Ethics Committee Opens Investigation Into Rep. Jimmy Gomez Over Sexual Misconduct Allegations",
+      "summary": "The House Ethics Committee announced Monday that it is investigating Rep. Jimmy Gomez (D-Calif.) over allegations of sexual misconduct, including alleged inappropriate sexual contact with a House staffer. The panel said it is \"reviewing allegations\" that Gomez \"may have engaged in sexual misconduct in violation of the Code of Official Conduct or any other applicable standard of conduct.\"\n\nGomez issued a statement acknowledging he made \"personal mistakes outside my marriage\" but maintained his actions were consensual and did not violate the law or House Ethics rules. The California Democrat did not provide additional details about the nature of the allegations.\n\nThe investigation makes Gomez the latest House member to face Ethics Committee scrutiny over alleged sexual misconduct, amid ongoing calls from members of both parties to tighten Congress's rules around workplace conduct. The probe was reported across multiple outlets representing a range of editorial perspectives, signaling broad newsworthiness.\n\nThe Ethics Committee investigation does not constitute a finding of wrongdoing, and the panel's review could result in a range of outcomes from dismissal to formal disciplinary recommendations. No timeline for the investigation was announced.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/17/ethics-investigating-jimmy-gomez-sexual-misconduct",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:20 PM MT",
+      "addedAtISO": "2026-08-17T20:20:01.465788-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Norway's King Harald V Hospitalized, Crown Prince Haakon Named Regent",
+      "summary": "Norway's King Harald V, 89, was admitted to hospital Monday and placed on two weeks of sick leave, the country's royal household announced. The palace said the monarch, one of Europe's longest-reigning sovereigns, was hospitalized due to \"fluid retention in the body that requires treatment,\" following recent treatment with cortisone for haemolytic anaemia, a rare blood condition that reduces red blood cell count and causes fatigue and shortness of breath.\n\nCrown Prince Haakon, 53, will serve as regent during his father's hospitalization. King Harald has ruled Norway since January 1991 and has publicly ruled out abdication despite a series of health setbacks in recent years, including a pacemaker fitting in 2024 and hospitalization in the Canary Islands for infection and dehydration in February.\n\nThe latest hospitalization adds to a difficult period for the Norwegian royal family. Queen Sonja was admitted to hospital in May for heart-related examinations. The family has also faced public scrutiny over Crown Princess Mette-Marit's past correspondence with Jeffrey Epstein and the rape conviction of her son Marius Borg Høiby in June.\n\nNorway's monarchy remains a constitutional institution with largely ceremonial powers, but the king's repeated health crises and the regent transition carry significance for national continuity and public attention to royal succession.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:20 PM MT",
+      "addedAtISO": "2026-08-17T20:20:01.465788-06:00",
+      "slot": 21
+    },
+    {
+      "category": "other",
+      "headline": "Sydney Swans AFL Players Under Police Investigation for Alleged Sexual Assault at Melbourne Hotel",
+      "summary": "Several Sydney Swans players from Australia's premier football competition are under investigation by Victoria Police following an alleged sexual assault at a hotel in East Melbourne in the early hours of Sunday morning. The Swans confirmed that an incident involving an unspecified number of players had occurred after the team's win at Melbourne Cricket Ground.\n\nSwans chief executive Matthew Pavlich said the club was \"still piecing together exactly what's transpired\" and described leadership as \"extremely shocked and disappointed.\" He declined to specify the number of players involved, whether arrests had been made, or the precise nature of the allegations, citing the active police investigation.\n\nVictoria Police confirmed detectives are investigating a report of sexual assault at a hotel on Wellington Parade but said \"the exact circumstances are yet to be established.\" The AFL said it had been made aware of the matter and was monitoring the police investigation.\n\nThe incident comes at a sensitive moment for the club, which sits second on the 2026 ladder with 17 wins from 22 games and is heading into the finals. The case echoes previous high-profile misconduct scandals in Australian rules football and is drawing significant public attention in Australia.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "8:20 PM MT",
+      "addedAtISO": "2026-08-17T20:20:01.465788-06:00",
+      "slot": 21
+    },
+    {
       "category": "world",
       "headline": "Update: Iran Seizes Cargo Ships in Strait of Hormuz as U.S. Declares Blockade",
       "summary": "President Trump declared Monday that the United States is blockading the Strait of Hormuz, a critical chokepoint through which roughly a fifth of the world's oil passes, as the U.S.-Israel conflict with Iran continues to escalate. Iran's top negotiator responded by asserting that Tehran \"will decide the right of passage\" through the waterway, and Iranian forces seized two cargo ships in the strait, including a Panama-flagged vessel whose engine room was struck by a U.S. military helicopter in the Gulf of Oman.\n\nThe confrontation has sent energy markets into sharp swings since the initial U.S.-Israeli strikes on Iran on February 28. U.S. Secretary of State Marco Rubio and Treasury Secretary Scott Bessent have both indicated talks have progressed toward allowing some shipments to resume, but Iran has denied Trump's assertion that negotiations are formally under way, leaving the diplomatic situation in flux.\n\nThe blockade declaration marks a significant escalation in the ongoing conflict and carries major implications for global oil supply chains and shipping. All 14 crew members aboard one seized Indian-flagged vessel were safely rescued, India's foreign ministry confirmed. The standoff has already pushed unleaded petrol prices in the UK to 160 pence per litre, with broader inflationary consequences rippling through allied economies.\n\nSupporters of the administration's approach argue the blockade is a necessary tool to cut off Iranian revenues and force a negotiated resolution to Tehran's nuclear program and regional aggression. Critics warn that interdicting one of the world's most vital shipping lanes risks a broader military confrontation and could trigger a global recession through sustained oil supply disruption.",
