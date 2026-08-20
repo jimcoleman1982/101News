@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Liberia Charges Former Vice President Jewel Howard-Taylor with Drug Trafficking",
+      "summary": "Liberian authorities charged former Vice President Jewel Howard-Taylor with drug trafficking, money laundering, and related offenses on Wednesday as part of an investigation into an alleged transnational narcotics network. She was detained at Roberts International Airport in Monrovia before boarding a flight. Police chief Gregory Coleman linked her to the seizure last month of cocaine valued at $317 million, described as Liberia's largest-ever drug bust.\n\nHoward-Taylor, 63, served as vice president under President George Weah from 2018 to 2024 and was previously married to former President Charles Taylor, who was convicted by a UN-backed court of aiding war crimes in Sierra Leone. Her lawyer told the BBC he could not comment until she was formally charged in court. Three foreign nationals — two Croatians and one Ukrainian — have also been charged in absentia as alleged members of the same network.\n\nThe investigation has expanded beyond the initial drug seizure to include senior figures within Liberia's security establishment. Justice Minister Oswald Tweh said the government would use domestic and international tools to locate and arrest the foreign suspects. Liberia has made two major cocaine seizures in June and July, uncovering what authorities describe as a sophisticated transnational trafficking operation moving drugs from South America to Europe through West Africa.\n\nThe charges against a former head of government mark a notable escalation in Liberia's crackdown. West Africa has increasingly become a transit corridor for cocaine trafficking, with traffickers exploiting weak border enforcement across the region. The Liberian government stated that 'no office is too high' for the investigation to reach.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:08 AM MT",
+      "addedAtISO": "2026-08-20T07:08:24.629927-06:00",
+      "slot": 8
+    },
+    {
+      "category": "technology",
+      "headline": "Fake Polling Firm Admits Fabricating Election Surveys That Fooled Campaigns and Media",
+      "summary": "A previously unknown organization called Median Strategies has admitted to fabricating at least three election polls across three states this month, including surveys purporting to show results in the Wisconsin Democratic gubernatorial primary, the Nevada gubernatorial race, and the Los Angeles mayoral contest. The Los Angeles poll, which showed incumbent Mayor Karen Bass leading progressive challenger Nithya Raman by roughly 12 percentage points, was promoted by the Bass campaign on social media and covered by at least one news outlet before being revealed as bogus. The Bass campaign later deleted its social media post.\n\nMedian Strategies, before shuttering its website, wrote that it 'was created as a short-term social experiment examining how purported polling information could enter and spread through the political information ecosystem without independent verification.' The organization offered no explanation of who was behind the effort or what purpose it served, and its true identity remains unknown. The fabricated polls were picked up by polling aggregation accounts on social media but were not included in databases maintained by major independent polling organizations.\n\nThe episode highlights vulnerabilities in how campaigns, media outlets, and aggregators vet polling data. Veteran Republican pollster Chris Wilson said the incident was 'much bigger than one fake poll,' noting that 'it's never been easier to make invented numbers look legitimate, and campaigns and outside groups have every incentive to amplify anything favorable before anyone verifies it.' High-quality independent polls exist alongside a large volume of surveys produced by campaigns, super PACs, and outside groups using undisclosed or questionable methodologies.\n\nThe incident comes as concerns about election integrity and disinformation grow heading into the 2026 midterm cycle. The Bass campaign called for investigation and prosecution of 'any bad faith attempts to influence elections,' while defending itself by noting the poll had been reported by multiple news outlets before the fabrication was revealed.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/what-to-know-about-the-fake-election-poll-numbers-shared-and-retracted-by-a-mysterious-company",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:08 AM MT",
+      "addedAtISO": "2026-08-20T07:08:24.629927-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
       "headline": "Update: Trump Declares 'Economic D-Day' Against Iran, Threatens Nations That Provide Tehran a Lifeline",
       "summary": "President Trump on Wednesday announced what he called the \"most crushing economic operation ever taken against any country,\" escalating financial pressure on Iran as the U.S.-Iran war reaches a grinding stalemate. Trump warned that any nation allowing its financial institutions, businesses, airports, or government entities to provide Iran with \"any type of lifeline\" — including oil smuggling, cash transfers, or front companies — would face \"tremendous economic consequences.\" He declared Iran's military has been largely destroyed, its currency rendered worthless, and its leadership \"on the ropes.\"\n\nTrump framed the announcement as \"Economic Warfare and Isolation on an unprecedented scale,\" calling on U.S. allies to help isolate Tehran and reiterating that Iran would never be permitted to develop a nuclear weapon. The move represents a significant escalation of the economic dimension of the conflict alongside ongoing military operations in the region.\n\nSupporters of the policy argue maximum economic pressure is the fastest path to forcing Iran's government to the negotiating table, pointing to the regime's weakened military position. Critics, including some allied governments, have expressed concern that sweeping secondary sanctions could destabilize global energy markets, punish civilian populations, and strain relationships with trading partners who depend on regional commerce.\n\nThe announcement drew coverage from nine major outlets and comes as the Strait of Hormuz blockade continues and U.S.-Iran military operations remain active, making it one of the most significant foreign policy escalations of the week.",
       "source": "Fox News",
