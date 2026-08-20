@@ -3,6 +3,34 @@
   "dateFormatted": "Thursday, August 20, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "Update: U.S. National Debt Surpasses $40 Trillion; Treasury Secretary Says Country Can 'Grow Its Way Out'",
+      "summary": "The U.S. national debt crossed $40 trillion for the first time on Wednesday, a historic milestone that has doubled since 2017 and arrived alongside a surge in the 30-year Treasury yield to its highest level since 2007. Annual interest payments on the debt now exceed $1 trillion, surpassing defense spending — a threshold previously reported — but the $40 trillion mark itself is new as of this week.\n\nTreasury Secretary Scott Bessent sought to reassure markets Thursday, telling CNBC's \"Squawk on the Street\" that there is \"nothing magic\" about the $40 trillion number and that the U.S. can \"grow our way out\" of the debt through economic expansion. Critics, including some economists and fiscal watchdogs, have argued that without structural spending reform, growth alone is unlikely to stabilize the debt-to-GDP ratio, particularly given rising interest costs.\n\nBond market volatility has intensified alongside the debt milestone, with rising Treasury yields putting upward pressure on mortgage rates, auto loans, and other consumer borrowing costs. Investors have cited concerns about long-term fiscal sustainability, geopolitical uncertainty including the U.S.-Iran conflict, and persistent inflation as factors driving bond sell-offs. The nonpartisan Cook Political Report separately moved Texas and Iowa Senate races from \"lean Republican\" to \"toss up\" in what analysts linked partly to economic discontent, adding political urgency to the fiscal debate.\n\nThe debt milestone arrives as Congress continues to debate spending and tax policy ahead of midterm elections. Democrats have pointed to tax cuts and defense spending as key drivers of the increase, while Republicans have emphasized the need for economic growth and entitlement reform rather than tax increases to address the shortfall.",
+      "source": "The Hill",
+      "url": "https://thehill.com/business/6041596-scott-bessent-us-economy-40-trillion-debt/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-08-20T11:08:34.236219-06:00",
+      "slot": 11
+    },
+    {
+      "category": "science_health",
+      "headline": "CDC Reports Salmonella Outbreak Linked to Jalapeños Grows to 431 Cases Across 32 States",
+      "summary": "The Centers for Disease Control and Prevention reported Wednesday that a salmonella outbreak linked to certain jalapeño peppers has grown to 431 confirmed cases across 32 states, up from 345 cases in 27 states in an earlier count. The outbreak has resulted in 57 hospitalizations, though no deaths have been reported.\n\nHealth officials have not yet announced a specific recall, but consumers have been advised to exercise caution with jalapeños from affected supply chains as investigators work to trace the source. Salmonella infections typically cause diarrhea, fever, and abdominal cramps, with more severe outcomes possible for young children, the elderly, and immunocompromised individuals.\n\nThe expansion of cases to five additional states represents a significant widening of the outbreak and may prompt further regulatory action. The CDC continues to investigate the origin of contamination and has urged anyone who develops symptoms consistent with salmonella infection after consuming jalapeños to seek medical attention and report their illness to local health authorities.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/6041051-cdc-salmonella-jalapeno-outbreak/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-08-20T11:08:34.236219-06:00",
+      "slot": 11
+    },
+    {
       "category": "world",
       "headline": "Liberia Charges Former Vice President Jewel Howard-Taylor with Drug Trafficking",
       "summary": "Liberian authorities charged former Vice President Jewel Howard-Taylor with drug trafficking, money laundering, and related offenses on Wednesday as part of an investigation into an alleged transnational narcotics network. She was detained at Roberts International Airport in Monrovia before boarding a flight. Police chief Gregory Coleman linked her to the seizure last month of cocaine valued at $317 million, described as Liberia's largest-ever drug bust.\n\nHoward-Taylor, 63, served as vice president under President George Weah from 2018 to 2024 and was previously married to former President Charles Taylor, who was convicted by a UN-backed court of aiding war crimes in Sierra Leone. Her lawyer told the BBC he could not comment until she was formally charged in court. Three foreign nationals — two Croatians and one Ukrainian — have also been charged in absentia as alleged members of the same network.\n\nThe investigation has expanded beyond the initial drug seizure to include senior figures within Liberia's security establishment. Justice Minister Oswald Tweh said the government would use domestic and international tools to locate and arrest the foreign suspects. Liberia has made two major cocaine seizures in June and July, uncovering what authorities describe as a sophisticated transnational trafficking operation moving drugs from South America to Europe through West Africa.\n\nThe charges against a former head of government mark a notable escalation in Liberia's crackdown. West Africa has increasingly become a transit corridor for cocaine trafficking, with traffickers exploiting weak border enforcement across the region. The Liberian government stated that 'no office is too high' for the investigation to reach.",
