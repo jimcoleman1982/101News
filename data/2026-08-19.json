@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Israel Declines to Prosecute Soldiers Over Killing of World Central Kitchen Aid Workers",
+      "summary": "Israel's military has concluded there are no grounds for criminal prosecution over the April 2024 airstrike that killed seven World Central Kitchen aid workers in Gaza, including Australian Zomi Frankcom and nationals from the United Kingdom, Poland, and Canada. The Israel Defense Forces acknowledged \"serious failures\" in the process but said commanders' decisions did not raise reasonable suspicion of criminal misconduct, citing a misidentification of an armed guard as a Hamas fighter and a deviation from the convoy's coordinated route.\n\nAustralia's Foreign Minister Penny Wong said she was \"outraged\" by the decision, calling it a failure of accountability and noting the announcement fell on World Humanitarian Day. Wong summoned Israel's ambassador to Australia and directed Australia's ambassador in Tel Aviv to formally convey the government's objections. The UK, which lost three nationals in the strike, has also pressed for accountability.\n\nWorld Central Kitchen rejected the findings as \"inconsistent with the full truth and deeply offensive,\" saying the IDF had full visual clarity on clearly marked humanitarian vehicles and advance knowledge of the team's route and identities. The organization renewed calls for an independent investigation, arguing the military cannot credibly investigate its own conduct. The IDF's statement also said it found no grounds for criminal investigation into the separate killings of four Médecins Sans Frontières employees in November 2023 and February 2024.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:21 PM MT",
+      "addedAtISO": "2026-08-19T20:21:46.801664-06:00",
+      "slot": 21
+    },
+    {
+      "category": "science_health",
+      "headline": "NASA Cancels Mission to Save Falling Swift Space Observatory",
+      "summary": "NASA has officially canceled the Swift Boost Mission, an ambitious and costly effort to rescue the Neil Gehrels Swift Observatory, which has been steadily losing altitude and is now expected to reenter Earth's atmosphere and burn up. The agency cited persistent attitude-control problems with LINK, a privately built spacecraft developed by Katalyst Space Technologies that was launched last month specifically to grab onto and reposition the observatory.\n\nThe Swift Observatory, launched in 2004, has been one of NASA's most productive science instruments, detecting gamma-ray bursts and contributing to research on black holes, neutron stars, and supernovae. The rescue mission was also intended to demonstrate the viability of commercial satellite-servicing technology, meaning the cancellation is a setback both for planetary science and for the emerging in-space servicing industry.\n\nNASA did not immediately specify a timeline for Swift's uncontrolled reentry or where debris might fall. The failure adds to broader concerns about the agency's budget constraints and the risks of relying on newer commercial partners for critical space infrastructure tasks.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/19/nasa-swift-boost-mission-canceled-link",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:21 PM MT",
+      "addedAtISO": "2026-08-19T20:21:46.801664-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Prince Harry and Meghan Markle to Return to United Kingdom After Six Years in California",
+      "summary": "Prince Harry and Meghan, the Duke and Duchess of Sussex, have announced they will return to the United Kingdom after living in California since early 2020, when they stepped back from senior royal duties and declared financial independence from the royal family. King Charles was informed of the decision on Sunday, according to a source familiar with the matter. The couple's precise plans for where they will reside in the UK have not been disclosed.\n\nThe pair will remain non-working royals, meaning they will not resume official duties on behalf of the Crown. Their departure from royal life, which they explained publicly in a Netflix documentary and in Harry's memoir, included allegations of racism within the royal family and disputes over security arrangements — claims that drew sharp and lingering tensions with Buckingham Palace.\n\nThe announcement marks a significant shift for a couple whose move to the United States was widely seen as a definitive break from British public life. It is not yet clear what prompted the return or whether it signals any reconciliation with the royal family.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "8:21 PM MT",
+      "addedAtISO": "2026-08-19T20:21:46.801664-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
       "headline": "Update: U.S. Military Running Covert Oil-Shipping Corridor Through Strait of Hormuz as Iran War Reaches Stalemate",
       "summary": "The U.S. military has quietly established a nightly shipping corridor through the Strait of Hormuz, allowing 15 to 20 tankers per night to move roughly 10 million barrels of oil — approximately half the pre-war volume — through a southern channel along the Omani coast, according to two U.S. officials who spoke to Axios. The operation has been running for several weeks and represents a significant logistical achievement even as the broader U.S.-Israel conflict with Iran remains at a stalemate with no clear end in sight.\n\nPresident Trump said Wednesday that the U.S. could return to peace negotiations with Iran \"at some point\" but described the war's current status as \"very good\" and expressed confidence that concerns about the Strait were being resolved. Trump had earlier told reporters Tuesday that U.S. negotiators were not in direct talks with Iranian counterparts, though Secretary of State Marco Rubio and Treasury Secretary Scott Bessent have both indicated recent progress on allowing some shipments to resume.\n\nIran has continued to assert it controls right of passage through the strait, and has previously seized cargo ships in the waterway. The covert nature of the American corridor underscores how sensitive the shipping situation remains: publicly claiming success could invite Iranian retaliation or complicate diplomatic channels. Global energy markets have experienced sharp swings since the conflict began in February, and oil prices remain elevated.\n\nThe revelation of the stealth shipping operation is the most concrete sign yet that the U.S. has found a partial workaround to Iran's Hormuz strategy, though it remains far below pre-war shipping volumes. Analysts note the operation's sustainability depends on continued Omani cooperation and Iranian restraint along the southern channel.",
       "source": "Axios",
