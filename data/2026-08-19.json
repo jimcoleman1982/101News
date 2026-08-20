@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: U.S. Military Running Covert Oil-Shipping Corridor Through Strait of Hormuz as Iran War Reaches Stalemate",
+      "summary": "The U.S. military has quietly established a nightly shipping corridor through the Strait of Hormuz, allowing 15 to 20 tankers per night to move roughly 10 million barrels of oil — approximately half the pre-war volume — through a southern channel along the Omani coast, according to two U.S. officials who spoke to Axios. The operation has been running for several weeks and represents a significant logistical achievement even as the broader U.S.-Israel conflict with Iran remains at a stalemate with no clear end in sight.\n\nPresident Trump said Wednesday that the U.S. could return to peace negotiations with Iran \"at some point\" but described the war's current status as \"very good\" and expressed confidence that concerns about the Strait were being resolved. Trump had earlier told reporters Tuesday that U.S. negotiators were not in direct talks with Iranian counterparts, though Secretary of State Marco Rubio and Treasury Secretary Scott Bessent have both indicated recent progress on allowing some shipments to resume.\n\nIran has continued to assert it controls right of passage through the strait, and has previously seized cargo ships in the waterway. The covert nature of the American corridor underscores how sensitive the shipping situation remains: publicly claiming success could invite Iranian retaliation or complicate diplomatic channels. Global energy markets have experienced sharp swings since the conflict began in February, and oil prices remain elevated.\n\nThe revelation of the stealth shipping operation is the most concrete sign yet that the U.S. has found a partial workaround to Iran's Hormuz strategy, though it remains far below pre-war shipping volumes. Analysts note the operation's sustainability depends on continued Omani cooperation and Iranian restraint along the southern channel.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/19/hormuz-iran-oil-gulf-trump",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-19T18:08:50.246394-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Update: Kim Jong Un's Sister Denies Knowledge of U.S.-North Korea Talks, Contradicting Trump",
+      "summary": "Kim Yo Jong, the powerful sister and senior adviser to North Korean leader Kim Jong Un, said Wednesday through state media that she was \"unaware\" of any communications between Pyongyang and Washington, directly contradicting President Trump, who earlier told reporters that Kim Jong Un had responded to his outreach and that he expected to meet the North Korean leader before the end of the year.\n\nThe public denial is a notable rebuke of Trump's claims and follows a pattern in which North Korea has alternately signaled openness to diplomacy while publicly distancing itself from any suggestion of negotiations on terms set by Washington. Kim Yo Jong's statement nonetheless praised the personal relationship between the two leaders, stopping short of a full diplomatic rupture.\n\nNorth Korea, which U.S. officials estimate possesses approximately 57 nuclear warheads, has deepened its alignment with China and Russia since the start of Trump's second term. Any direct meeting between Trump and Kim would be only the second between a sitting U.S. president and North Korea's leader, following their Singapore and Hanoi summits during Trump's first term — both of which ended without a denuclearization agreement.\n\nAnalysts noted the contradictory signals reflect Pyongyang's standard tactic of maintaining leverage while leaving diplomatic doors open. Trump also said Wednesday that he had ordered the Pentagon to scale back joint military exercises with South Korea, citing his relationship with Kim — a move that has drawn concern from U.S. allies in the region.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/international/6040217-kim-yo-jong-denies-trump-talks/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-19T18:08:50.246394-06:00",
+      "slot": 18
+    },
+    {
+      "category": "business",
+      "headline": "Federal Reserve Minutes Show Officials Split on Rate Hike, With Several Favoring Tightening If Inflation Persists",
+      "summary": "Minutes from the Federal Reserve's July meeting, released Wednesday, reveal that multiple officials indicated the central bank may need to raise interest rates later this year if inflation does not decline, marking a notable internal split at the Fed. The minutes describe what Fed Chair Kevin Warsh characterized as an \"old-fashioned family fight\" among members of the Federal Open Market Committee, with some officials arguing that further policy tightening is necessary while most participants anticipated inflation would eventually step down.\n\nThe disclosure comes as the U.S. national debt has surpassed $40 trillion and annual interest payments on that debt have exceeded defense spending at roughly $1.2 trillion. Former Obama economic adviser Jason Furman said Wednesday that higher interest rates are \"likely here to stay\" as government and business compete for capital, and that Congress will ultimately need to address the fiscal imbalance through a combination of spending cuts and tax increases.\n\nA potential rate hike would have broad consequences for consumers, businesses, and financial markets at a time when the Iran war has already disrupted global energy supplies and contributed to elevated inflation. Thirty-year Treasury yields surpassed a two-decade high this week, and President Trump on Wednesday singled out Switzerland's low interest rates when asked whether the administration had done enough to stabilize the bond market.\n\nThe Fed minutes do not commit the central bank to any specific action, and most participants still expect inflation to moderate. However, the public acknowledgment of significant internal disagreement over rate hikes is itself a market-moving signal, suggesting the path to rate cuts that investors had anticipated may be considerably longer than expected.",
+      "source": "The Hill",
+      "url": "https://thehill.com/business/6040110-fed-july-minutes-rate-hike/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-19T18:08:50.246394-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
       "headline": "Update: Congo Ebola Outbreak Surpasses 5,000 Cases as Death Toll Climbs to 2,378",
       "summary": "The Ebola outbreak in the Democratic Republic of Congo has surpassed 5,000 confirmed cases and 2,378 deaths as of Sunday, making it one of the largest Ebola outbreaks ever recorded and the deadliest in Congo's history. The outbreak is caused by the Bundibugyo virus, a rare strain for which no approved vaccine or treatment exists, distinguishing it from more common Zaire-strain outbreaks where antibody therapies and vaccines are available.\n\nThe World Health Organization has warned the outbreak could eventually surpass the catastrophic 2014–2016 West Africa epidemic, which killed more than 11,000 people. Patients currently rely on supportive care — fluids and symptom management — while clinical trials for Bundibugyo-specific treatments are underway but have yet to yield approved therapies.\n\nThe Bundibugyo virus was first identified in Uganda in 2007, killing 37 people, and appeared again in Congo in 2012 in a far smaller outbreak. The current epidemic began in late April in Bunia, the capital of Congo's northeastern Ituri province, and has since spread to additional provinces. Aid organizations have raised concerns about access, supply shortages, and the Trump administration's reduced global health funding hampering the international response.",
       "source": "PBS NewsHour",
