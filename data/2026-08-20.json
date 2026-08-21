@@ -3,6 +3,34 @@
   "dateFormatted": "Thursday, August 20, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "Update: Congo Ebola Outbreak to Receive 70,000 Doses of Ervebo Vaccine Despite Strain Mismatch",
+      "summary": "The World Health Organization and international partners announced Thursday that Congo will receive 70,000 doses of the Ervebo Ebola vaccine to combat the fastest-spreading Ebola outbreak in recorded history. The outbreak, caused by the Bundibugyo virus strain, has killed 2,476 people out of 5,208 confirmed cases across six provinces in eastern Congo, with a case fatality rate of 47.5% — rising to 70% in the hardest-hit areas such as North Kivu province.\n\nThe complication is significant: Ervebo is licensed only for the Ebola virus strain, not for the Bundibugyo virus responsible for the current outbreak. WHO stated that early laboratory and animal data suggest the vaccine 'may provide some protection,' but this has not been confirmed in humans. Of the 70,000 doses, 20,000 will be used in a Phase 3 clinical trial to assess effectiveness against Bundibugyo, while the remaining 50,000 will be administered to frontline and health workers.\n\nThe outbreak is spreading approximately three times faster than the 2014–2016 West Africa outbreak, which killed more than 11,000 people and remains the deadliest Ebola event on record. Most new cases are being reported outside of monitored populations, indicating the virus is outpacing containment and contact-tracing efforts. Experts believe transmission began as early as February in the mining town of Mongbwalu, months before authorities declared the outbreak on May 15.\n\nWHO Director-General Tedros Adhanom Ghebreyesus called the vaccine allocation 'an important example of global solidarity in action.' The announcement represents a material new development in a previously covered story — the first major vaccine deployment decision for this outbreak.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/health/congo-to-receive-70000-doses-of-ervebo-ebola-vaccine-which-was-effective-in-past-outbreaks",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-20T18:08:25.636514-06:00",
+      "slot": 18
+    },
+    {
+      "category": "business",
+      "headline": "Treasury Bond Yields Hit Highest Level in Nearly Two Decades, Rattling Markets and Washington",
+      "summary": "Yields on 30-year U.S. Treasury bonds surged to their highest point in almost 20 years this week, prompting Treasury Secretary Scott Bessent to intervene with a bond buyback program to stabilize the market. The spike has drawn widespread concern from Wall Street and policymakers, as elevated yields translate directly into higher borrowing costs for consumers — affecting mortgage rates, auto loans, and business financing across the economy.\n\nThe yield surge arrives in the same week that U.S. gross federal debt surpassed $40 trillion for the first time, compounding anxiety about the nation's long-term fiscal trajectory. Higher yields mean the government itself must pay more to service its existing debt, accelerating a cycle that analysts warn could crowd out federal spending on other priorities. Interest payments on the national debt already exceed $1 trillion annually, surpassing the defense budget.\n\nRepublicans have historically pointed to entitlement program spending as the primary driver of debt accumulation, while Democrats have emphasized the role of tax cuts in reducing federal revenue. Both parties have struggled to enact meaningful deficit reduction, and the bond market's reaction this week suggests investors are growing less patient with the impasse.\n\nThe Treasury buyback intervention is the concrete new development distinguishing this story from the $40 trillion debt milestone reported earlier today. Economists note that while the gross debt figure includes intragovernmental obligations, even the publicly held portion — roughly $32 trillion — represents an unprecedented level of borrowing that leaves limited fiscal room to respond to future economic shocks.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "6:08 PM MT",
+      "addedAtISO": "2026-08-20T18:08:25.636514-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "UK, France, Germany, Italy and Canada Condemn Israel's E1 West Bank Settlement Tender",
       "summary": "Five major Western allies — the United Kingdom, France, Germany, Italy, and Canada — issued a joint statement Thursday condemning Israel's decision to open construction tenders for approximately 1,234 settlement homes in the E1 corridor, a strategically sensitive stretch of the occupied West Bank east of Jerusalem. The statement called the decision \"unacceptable\" and urged Israel to \"retract the plans immediately.\" The UN Secretary-General separately described the E1 plan as an \"existential threat\" to a contiguous Palestinian state.\n\nThe E1 zone, covering roughly 12 square kilometers between East Jerusalem and the settlement of Maale Adumim, has been the subject of international opposition for decades. Critics warn that developing it would effectively bisect the West Bank and sever East Jerusalem from a future Palestinian state, dealing a severe blow to the two-state solution. The Israeli housing ministry issued the tender Wednesday; the deadline for bids is October 19, just days before Israel's general election on October 27.\n\nIsrael's foreign minister flatly rejected the condemnation from UK Foreign Secretary Ed Miliband, calling it \"outright\" unacceptable. Finance Minister Bezalel Smotrich, an ultranationalist settler, said when the units were approved last year that the idea of a Palestinian state was \"being erased.\" Israel has built roughly 160 settlements housing 700,000 Jews in the West Bank and East Jerusalem since 1967, with expansion accelerating sharply since Prime Minister Benjamin Netanyahu returned to power in late 2022.\n\nThe joint Western statement comes amid what the allies described as \"unprecedented levels of violence by settlers against civilians\" and serious restrictions on the Palestinian economy in the West Bank. The timing of the tender — set to close days before a national election — makes reversal by any future Israeli government politically difficult.",
