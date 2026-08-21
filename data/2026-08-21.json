@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-21",
+  "dateFormatted": "Friday, August 21, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Eight killed in plane crash at remote Alaskan military radar site",
+      "summary": "A civilian-contracted aircraft carrying eight people crashed near Cape Newenham, Alaska, on Thursday shortly after noon local time, killing everyone on board. The plane had departed Anchorage International Airport bound for a remote US Air Force long-range radar site roughly 450 miles to the west. Search and rescue teams reached the crash site and confirmed there were no survivors among the two pilots and six passengers.\n\nCape Newenham is part of the Alaska Radar System, a network of remote installations that monitor aircraft approaching or operating in Alaskan airspace. Lt. Gen. Robert Davis, chief of the US Air Force Alaskan Command, described those killed as 'dedicated professionals carrying out a vital mission in a demanding environment' and said the Air Force's priority is supporting the families of the deceased. An investigation is under way, and identities will be released once next of kin are notified.\n\nThe National Transportation Safety Board's Alaska regional chief, Clint Johnson, confirmed the breakdown of two pilots and six passengers aboard the aircraft. The cause of the crash has not been determined. The remote and rugged terrain of southwestern Alaska presents significant logistical challenges for investigation and recovery operations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-21T05:08:21.379259-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Hong Kong activists convicted under national security law for organizing Tiananmen vigils",
+      "summary": "A Hong Kong court on Friday found veteran pro-democracy activists Lee Cheuk-yan and Chow Hang-tung guilty of inciting others to subvert state power under the city's Beijing-imposed national security law. The two had been leaders of the Hong Kong Alliance, which organized annual candlelight vigils commemorating the 1989 Tiananmen Square crackdown — events that made Hong Kong one of the only places in Chinese territory where such public memorials were held. A third defendant, Albert Ho, pleaded guilty in January. All three face a maximum penalty of 10 years in prison, with sentencing set for a later date.\n\nAuthorities banned the vigils in 2020, initially citing Covid-19 restrictions, but they have never been permitted to resume. The national security law, which took effect that same year, criminalizes a broad range of dissenting acts. Chinese authorities have long sought to suppress any public acknowledgment of the Tiananmen crackdown on the mainland, where even oblique references are censored.\n\nHuman rights organizations condemned the verdicts. Amnesty International said the case 'relies on vague, overly broad and arbitrary definitions of subversion' and called Lee and Chow 'prisoners of conscience who should never have been prosecuted.' Human Rights Watch said the convictions demonstrated that 'public displays of mourning have become a crime in Hong Kong.' The verdict is seen as a further marker of Hong Kong's transformation from a city with robust civil liberties under 'one country, two systems' to one governed by mainland-style political restrictions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-21T05:08:21.379259-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Israel re-establishes West Bank settlement shuttered for 20 years, defying international criticism",
+      "summary": "Thirty Israeli settler families returned Thursday to Kadim, a settlement in the northern West Bank near Jenin that had been dismantled in 2005 under then-Prime Minister Ariel Sharon's unilateral Disengagement Plan. The re-establishment of Kadim, overseen with government backing and some military escort, marks the first time settlers have returned to any of the four northern West Bank settlements evacuated as part of that plan. All Israeli settlements in the occupied West Bank are considered illegal under international law.\n\nIsrael's far-right Finance Minister Bezalel Smotrich presided over the opening ceremony alongside the Justice Minister and the Speaker of the Knesset. Smotrich framed the return as a 'correction' of what he called the 'crime of expulsion,' using the Biblical term for the northern West Bank. The head of the regional settlers' council vowed that settlers would one day return to Gaza as well.\n\nPalestinian residents of surrounding villages expressed fear over the renewed settlement activity, with one farmer describing how settlers had already driven his nephews from their agricultural land. The move comes amid sustained international pressure over Israeli settlement expansion: the UK, France, Germany, Italy, and Canada have previously condemned a related West Bank settlement tender. Critics argue the re-establishment of Kadim deepens the fragmentation of Palestinian territory and forecloses the possibility of a contiguous Palestinian state.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-21T05:08:21.379259-06:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "Panama Canal to cut daily ship transits by 11% starting September amid El Niño drought",
+      "summary": "The Panama Canal Authority announced Thursday it will reduce the number of vessels permitted to transit the waterway daily from 36 to 32 beginning September 15, citing low water levels caused by a stronger-than-usual El Niño weather pattern. The phased reductions will begin September 3. Canal officials said the cuts are necessary to preserve long-term service reliability and to protect freshwater supplies for human consumption in the surrounding region.\n\nThe restriction compounds already significant stress on global shipping. The Iran war has sharply reduced traffic through the Strait of Hormuz, one of the world's other critical maritime chokepoints, forcing carriers to reroute through longer and more expensive passages. The Panama Canal handles roughly 14,000 vessel transits per year and generates approximately $3 billion annually for Panama — making any reduction consequential both for the country's finances and for global supply chains.\n\nForecasters expect this year's El Niño to rank among the strongest on record, with effects amplified by long-term climate change. The canal faced a similar but less severe restriction in 2023 during the last El Niño cycle, when Panama recorded its driest October since 1950. Since then the authority has implemented water-saving measures, but officials said additional steps were still required to ensure the canal's sustained operation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-21T05:08:21.379259-06:00",
+      "slot": 5
+    }
+  ]
+}
