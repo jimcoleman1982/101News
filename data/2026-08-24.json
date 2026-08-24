@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-24",
+  "dateFormatted": "Monday, August 24, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "UK Prime Minister Burnham Visits Kyiv, Shares Long-Range Missile Blueprints with Ukraine",
+      "summary": "British Prime Minister Andy Burnham traveled to Kyiv on his first foreign trip as prime minister, meeting with Ukrainian President Volodymyr Zelensky on Ukraine's 35th independence day. During the visit, Burnham announced that defence company MBDA has been authorized to declassify information on UK components for the long-range Scalp missile, effectively sharing missile blueprints with Ukraine to bolster its long-range strike capabilities.\n\nBurnham also chaired his first meeting of the 'coalition of the willing,' a multilateral grouping established by the UK and France under his predecessor Keir Starmer to coordinate support for Ukraine. He laid flowers at a Ukrainian military cemetery and accepted an award from Zelensky on behalf of the British people. 'Ukraine has been Europe's protector, not a drain on our security but the front line in keeping Europe safe,' Burnham said.\n\nMoscow reacted sharply. Kremlin spokesman Dmitry Peskov said the decision prevented 'even the slightest progress' toward peace, warned that Russian forces would identify and destroy any missile production sites, and accused Britain of 'methodically and regularly adding fuel to the fire.' The visit comes after escalating Russian airstrikes on Ukraine, including a strike on a shopping centre that killed at least 16 people last week.\n\nThe missile blueprint transfer marks a significant escalation of British military support and could meaningfully expand Ukraine's ability to strike deep into Russian territory. The Scalp missile, the French equivalent of the UK's Storm Shadow, weighs 1,300 kg and can hit targets at long range, giving Ukraine a potential edge as fighting continues.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyqypkrzq5o",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-24T05:08:24.346265-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Zambian Courts Sealed Off as Deadline to Challenge Presidential Election Result Looms",
+      "summary": "Court buildings across Zambia, including the High Court, Supreme Court, and Constitutional Court in the capital Lusaka, were sealed off by an unusual police presence on Monday as the deadline for filing a petition against the presidential election result approached. Opposition candidate Brian Mundubile, who received 38% of the vote compared to incumbent President Hakainde Hichilema's 60%, had announced plans to legally challenge the outcome, citing irregularities.\n\nLawyers who arrived at the courts were turned away, with at least one attorney reporting that three armed men approached his vehicle and ordered him to leave. It remains unclear when the courts will reopen, and neither the Zambian police nor the judiciary immediately responded to requests for comment. Mundubile is reportedly in hiding following threats, the arrest of opposition figures, and the shooting death of a former minister during a security operation.\n\nThe post-election period has drawn international concern. Amnesty International described the killing of former minister Mutotwe Kafwaya as 'deeply alarming,' and the EU observation mission noted that restrictions on the opposition may have contributed to an 'uneven contest.' Regional observers described election day itself as largely peaceful but flagged late electoral reforms, media freedom concerns, and an intimidating military presence during vote tallying.\n\nThe closure of courts on the final day to file an election petition effectively prevents any legal challenge to the result, raising serious questions about democratic process. Preparations for Hichilema's inauguration, scheduled for September 1, appear to be continuing regardless.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-24T05:08:24.346265-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "Eight-Year-Old Louisiana Girl Dies from Brain-Eating Amoeba Contracted at Lake",
+      "summary": "Lillian Smart, an 8-year-old girl from Louisiana, died Saturday at a Ruston hospital from a suspected infection with Naegleria fowleri, a rare brain-eating amoeba believed to have been contracted while she swam in Lake Claiborne in northern Louisiana. She died one day after celebrating her eighth birthday. 'The injuries to her brain were too severe for her little body to recover from,' her family wrote in a statement posted Sunday.\n\nThe Louisiana Department of Health announced last Wednesday that a state resident had been hospitalized with a Naegleria fowleri infection but did not publicly name Lillian as the patient. Her family confirmed the diagnosis on social media. The amoeba causes primary amoebic meningoencephalitis, a rare and almost always fatal brain infection that develops when contaminated water enters the nose; people cannot be infected by swallowing water.\n\nNaegleria fowleri infections are extremely rare but nearly uniformly fatal. Louisiana health records document three previous deaths from the pathogen in the state since 2011. The case is drawing renewed attention to warm-water swimming risks during summer months, particularly in the South where water temperatures favor the amoeba's survival.",
+      "source": "Fox News Latest",
+      "url": "https://www.foxnews.com/health/louisiana-girl-8-dies-after-contracting-suspected-brain-eating-amoeba-linked-lake-swim",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-24T05:08:24.346265-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Hawk Fire Near Reno Grows to 10,500 Acres, Remains Fully Uncontained as Evacuations Expand",
+      "summary": "The Hawk Fire burning in the outskirts of Reno, Nevada has grown to approximately 10,500 acres and remains at zero percent containment, officials said Monday. Tens of thousands of residents have been ordered to evacuate as windy and unpredictable weather continues to drive the blaze toward populated areas. Six people have been injured, according to local authorities.\n\nThe fire's rapid expansion over the weekend prompted mass evacuations from neighborhoods on the edge of Reno, Nevada's second-largest city. Eyewitnesses recorded videos of large plumes of smoke and visible flame in residential outskirts. The combination of dry conditions and shifting winds has made the fire difficult for crews to fight.\n\nThis is a significant development from earlier reporting, as the acreage has grown substantially and the blaze remains fully uncontained despite firefighting efforts. Officials have not provided a timeline for when evacuation orders may be lifted or containment achieved.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo",
+      "sourceCount": 6,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-24T05:08:24.346265-06:00",
+      "slot": 5
+    }
+  ]
+}
