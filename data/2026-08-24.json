@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, August 24, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: Immigration Authorities Arrest Father of Navy Sailor on Record-Length Deployment",
+      "summary": "U.S. Border Patrol arrested Luis Manuel Aviles, 48, a Nicaraguan national who has lived in the United States for 19 years, as he left his Key West, Florida, home Saturday to take his car to a mechanic. His son is currently serving aboard the USS Abraham Lincoln, which set a U.S. military record for uninterrupted time at sea — more than nine months — amid concerns about crew mental health, food shortages, and equipment strain. Aviles reportedly holds a work permit and has no criminal record, according to his wife.\n\nThe Department of Homeland Security confirmed the arrest, stating Aviles would remain in ICE custody pending deportation proceedings. \"Having a family member in the military is not a free pass to violate our nation's laws,\" the agency said. The Trump administration has rolled back \"military parole-in-place\" protections that historically shielded immediate family members of active-duty service members from deportation. An Associated Press investigation found at least six family members of U.S. troops have already been deported, with dozens more detained.\n\nSupporters of the policy argue that immigration law must be applied uniformly regardless of family circumstances, and that allowing exemptions creates incentives for abuse of military family status. Critics, including military advocacy groups and Democratic lawmakers, contend the arrests undermine troop morale and cohesion, arguing that service members cannot focus on missions when their families face deportation.\n\nThe case draws renewed attention to the broader tension between the administration's mass deportation agenda and longstanding military community norms. The Navy did not immediately respond to requests for comment, and Defense Secretary Pete Hegseth has previously characterized reports about conditions aboard the Lincoln as \"completely misrepresented.\"",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/he-was-waiting-for-his-son-to-return-from-the-uss-lincoln-then-border-patrol-arrested-him",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "2:08 PM MT",
+      "addedAtISO": "2026-08-24T14:08:46.993311-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Alaska Senate Race Grows More Tangled as Third Dan Sullivan Enters General Election Fight",
+      "summary": "Alaska's U.S. Senate race has taken an increasingly unusual turn as three men named Dan Sullivan compete for the same seat. Incumbent Republican Sen. Dan S. Sullivan and teacher Dan J. Sullivan have both advanced from the state's nonpartisan jungle primary, with the latter's final ballot status still being counted. Former Anchorage Mayor Dan A. Sullivan — calling himself the \"OG Dan Sullivan\" — endorsed the incumbent on social media Monday, adding a fourth public figure named Dan Sullivan to the race's public discourse.\n\nRepublicans have accused Dan J. Sullivan of being a Democratic-aligned plant designed to siphon votes from the incumbent in the state's ranked-choice general election, pointing to his use of a Democratic-aligned political consultant. They have pursued legal challenges to remove him from the ballot. Dan J. Sullivan denies the accusations, describing himself as a genuine moderate Republican with substantive policy disagreements with the senator.\n\nThe race also features Democratic Rep. Mary Peltola, who advanced from the primary. Alaska uses a nonpartisan top-four primary followed by ranked-choice voting in the general election — a system Republicans argue could amplify the name-confusion problem and potentially cost the incumbent votes if some Alaskans mistake the teacher for the senator on their ballots.\n\nThe seat is considered competitive, and the outcome could have implications for the Senate's partisan balance. Advocates of Alaska's ranked-choice system say it gives voters greater flexibility; critics argue that in a race with two identically named candidates, it creates conditions ripe for voter confusion or manipulation.",
+      "source": "Fox News Politics",
+      "url": "https://www.foxnews.com/politics/alaska-senate-race-absurd-name-problem-gets-harder-untangle",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "2:08 PM MT",
+      "addedAtISO": "2026-08-24T14:08:46.993311-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Data Center Opposition Draws Scrutiny as AI Infrastructure Debate Heats Up Politically",
+      "summary": "Opposition to data centers is spreading across the United States, with local and state politicians responding to constituent concerns about electricity consumption, water use, noise, and environmental effects from the facilities that power artificial intelligence systems. The backlash spans partisan lines, with some officials in both parties facing pressure from communities near proposed or existing sites. Industry leaders are warning that sustained voter opposition is hardening into a lasting political liability.\n\nCritics of the anti-data-center movement argue that the concerns are frequently exaggerated and that blocking AI infrastructure risks ceding jobs, investment, and technological leadership to competitor nations, particularly China. Proponents of stricter regulation counter that data centers place enormous strain on local power grids and water supplies, often in communities that receive few of the economic benefits.\n\nConservative commentators, including writers at National Review, have drawn comparisons to traditional manufacturing, arguing that legacy factories imposed far greater environmental and social costs than data centers but faced little comparable organized opposition — suggesting the current backlash reflects selective application of environmental scrutiny. Others note that unlike factories, data centers generate relatively few local jobs while consuming substantial public utility resources.\n\nThe debate carries national implications as the United States competes with China in artificial intelligence development. Some industry leaders fear the political environment could delay construction of infrastructure considered essential for maintaining American competitiveness, while community advocates argue that local concerns about energy and environmental impact deserve serious policy consideration rather than dismissal.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/2026/08/what-if-factories-had-gotten-the-data-center-treatment/",
+      "sourceCount": 17,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "2:08 PM MT",
+      "addedAtISO": "2026-08-24T14:08:46.993311-06:00",
+      "slot": 14
+    },
+    {
       "category": "world",
       "headline": "Update: U.S. Treasury Secretary Bessent Warns Iran of 'Economic D-Day' as Currency Hits Record Low",
       "summary": "Treasury Secretary Scott Bessent held a news conference Monday reiterating his warning that an 'economic D-Day is coming for Iran,' echoing President Trump's rhetoric as Washington intensifies financial pressure on Tehran to return to nuclear negotiations. Iran's currency has fallen to a record low against the dollar, and Trump has publicly declared the country is 'collapsing' under sanctions.\n\nDiplomacy is moving on multiple fronts simultaneously. Pakistan's army chief met with Iranian Parliament Speaker Mohammad Bagher Ghalibaf in Tehran to support regional stability efforts, while Oman's foreign minister is scheduled to visit Iran Tuesday for talks on the Strait of Hormuz — a critical global waterway that has been severely restricted since Iran effectively closed it following U.S. and Israeli airstrikes in February.\n\nWithin Iran's leadership, diverging views are emerging. President Masoud Pezeshkian has said Iran 'cannot continue with war forever,' signaling potential openness to dialogue, while hardliners continue to reject negotiations and accuse the United States of repeatedly failing to honor prior commitments. Iran's parliament speaker said Washington 'prevented stability from being established in the region.'\n\nThe standoff carries major global economic implications given the Strait of Hormuz's role in international oil shipping. The Trump administration has also threatened third countries that continue doing business with Tehran, though Bessent offered few specifics on enforcement mechanisms at Monday's news conference.",
