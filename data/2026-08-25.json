@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Trump Administration Rolls Out Iran Sanctions Package but Holds Back Toughest Measures",
+      "summary": "The Trump administration on Monday unveiled a broad new sanctions package targeting Iran's aviation, digital assets, gold, shipping, and technology sectors, naming roughly 60 individuals, entities, and vessels accused of supporting Iran's war machine through illicit commerce and sanctions evasion. However, Treasury Secretary Scott Bessent stopped short of the sweeping secondary sanctions against foreign banks and financial institutions that officials had previously signaled were imminent, despite earlier billing the move as an 'economic D-Day.'\n\nBessent framed the announcement as a 'warning shot,' saying top administration officials, including President Trump, would engage privately with foreign leaders to crack down on business ties with Tehran. He warned that countries failing to meet U.S. expectations risk being cut off from the dollar system. The gap between the pre-announcement rhetoric and the actual measures drew immediate scrutiny from economic analysts.\n\nGregory Brew of the Eurasia Group said the framing 'muddies the message,' suggesting the administration is trying to ratchet up pressure on Tehran without goading Iran into striking neighboring countries or angering major trading partners, particularly China. Former Treasury official Max Meizlish argued the announcement falls short, saying meaningful economic damage to Iran will ultimately require targeted action against the foreign banks and financial institutions actively aiding it.\n\nThe development comes as the U.S. has blockaded the Strait of Hormuz following Iran's seizure of cargo ships, and with a ceasefire expired, putting Washington and Tehran in one of their most acute confrontations in years. Critics on the left argue the administration's escalatory posture risks broader regional war, while supporters on the right contend that any hesitation to impose maximum pressure emboldens Iran and prolongs the conflict.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4698623/trump-holds-off-toughest-iran-sanctions-economic-d-day/",
+      "sourceCount": 25,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:08 AM MT",
+      "addedAtISO": "2026-08-25T07:08:25.793628-06:00",
+      "slot": 8
+    },
+    {
+      "category": "politics",
+      "headline": "Update: U.S.-Canada Trade War Escalates as 50% Tariffs Take Effect and Both Sides Trade Accusations",
+      "summary": "A trade deal between the United States and Canada collapsed ahead of a Friday night deadline, allowing President Trump's 50 percent tariffs on roughly $28 billion worth of Canadian imports to take effect. Canadian Prime Minister Mark Carney vowed to implement matching 'dollar-for-dollar' retaliatory tariffs on September 8, and attributed the breakdown to last-minute changes the Trump administration attempted to impose, including a demand that Canada not strike trade agreements with other countries — a condition Carney called 'unacceptable.'\n\nThe U.S. Trade Representative's office disputed Carney's account, saying Canada had already agreed to the framework and that it was Canada that introduced new demands and walked back prior commitments. 'Despite the U.S. offer to Canada to receive the best treatment of any major exporter to our market, new demands and walk backs of other commitments by Canada have upended the careful balance reached in the past days,' the USTR said in a statement.\n\nTransportation Secretary Sean Duffy, appearing on Fox News Sunday, said it was 'foolish' for Canada to enter a trade war with the United States, arguing Canada benefits more from the trading relationship. Trump on Sunday posted on Truth Social that 'Canada wants the benefits of being a State, without being one!!!' Duffy also incorrectly stated Canada 'doesn't have a military,' though Canada does maintain armed forces, a remark that drew attention.\n\nSupporters of the administration's position argue that Canada has long maintained unfair trade barriers against American goods and that firm pressure is necessary to rebalance the relationship. Critics, including Canadian officials and some U.S. economists, warn that the tariffs will raise prices for American consumers and damage cross-border supply chains that both economies depend on, particularly in the auto, agriculture, and energy sectors.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/policy/economy/4697624/canada-military-sean-duffy-tariff-trade-war/",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:08 AM MT",
+      "addedAtISO": "2026-08-25T07:08:25.793628-06:00",
+      "slot": 8
+    },
+    {
+      "category": "science_health",
+      "headline": "At Least 25% of Former NFL Players Who Died Between 2016 and 2021 Had CTE, Major Study Finds",
+      "summary": "A new study by Mass General Brigham found that at least one in four former NFL players who died between 2016 and 2021 had chronic traumatic encephalopathy, or CTE, a degenerative brain disease linked to repeated blows to the head. Of the 878 former players who died during that period, 235 donated their brains for examination; 215 of those donated brains showed signs of CTE. Researchers cautioned that because brain donation is voluntary and may skew toward families who already suspected the disease, the actual prevalence across all former players could be significantly higher.\n\nCTE can only be definitively diagnosed after death, and its symptoms include progressive problems with memory, mood, and cognition. The disease has been a source of intense litigation and public health debate surrounding American football, with the NFL having settled a landmark class-action lawsuit with thousands of former players over brain injuries. Prior studies have shown elevated CTE rates among former players, but the scale of this new research — drawing from a broad population of recently deceased former NFL athletes — provides some of the most comprehensive data to date.\n\nResearchers noted the findings underscore the ongoing danger associated with playing professional football and renewed calls for improved safety protocols at all levels of the sport. The NFL has in recent years made rule changes aimed at reducing high-impact collisions, including stricter targeting penalties and limits on full-contact practice time, though critics argue these measures are insufficient.\n\nThe study is expected to intensify scrutiny on helmet technology, practice standards, and youth football participation, as well as potential long-term liability for the league. Public health advocates say the findings argue for expanded research funding and better support systems for retired players experiencing neurological symptoms.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:08 AM MT",
+      "addedAtISO": "2026-08-25T07:08:25.793628-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
       "headline": "Update: U.S. Blockades Strait of Hormuz as Iran Seizes Cargo Ships, Ceasefire Expires",
       "summary": "The U.S.-Iran conflict entered a critical new phase after a 60-day ceasefire expired Monday with no diplomatic or military off-ramp in sight. Iran seized two cargo ships in the Strait of Hormuz, including the Epaminondas, while President Trump announced the U.S. is blockading the strait — one of the world's most vital shipping chokepoints through which roughly a fifth of global oil supply passes.\n\nTreasury Secretary Scott Bessent announced a new round of sanctions Monday aimed at cutting Iran off from all sources of revenue, warning every nation that does business with Tehran to sever those ties or face U.S. retaliation. Despite Trump's earlier promise of an 'economic D-Day,' the announcement was short on specifics and stopped short of immediately imposing secondary sanctions on trading partners such as China, Turkey, and the UAE. Bessent said he wanted those countries to have time to disengage, adding: 'Why would I want to blow up the global financial system?'\n\nDefense Secretary Pete Hegseth said Monday he was not ruling out resuming military strikes against Iran, even as officials acknowledged diminishing stockpiles of key weapons have pushed the administration toward economic warfare. Energy markets have experienced wild swings since the initial U.S.-Israel attack on Iran on February 28, and the strait seizures threaten further disruption to global oil and supply chains.\n\nIran's top negotiator signaled Tehran intends to control passage through the Strait of Hormuz, and the Iranian rial fell to a record low of 2.02 million to the dollar as currency markets opened Monday. The conflict has drawn in regional actors, with Iran's parliament speaker meeting Pakistan's army chief in Tehran, and analysts warn the combination of naval confrontation, economic pressure, and expiring diplomacy makes the coming days among the most consequential of the six-month-old conflict.",
       "source": "BBC News",
