@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Newsom Pushes End-of-Term Deal to Limit Utility Liability for California Wildfire Damages",
+      "summary": "California Governor Gavin Newsom is making a final push in the state legislature's closing session to broker a deal that would further shield electric utilities from financial ruin when their equipment sparks wildfires. The effort comes as Southern California Edison faces massive liability claims stemming from a 2025 fire that killed 19 people near Los Angeles — a blaze investigators ruled this month was ignited by one of the company's transmission towers. Newsom argues the existing $21 billion wildfire fund, created during his first term, will soon be exhausted and that the status quo leaves victims last in line for compensation.\n\nUnder Newsom's proposal, utilities including PG&E, Southern California Edison, and San Diego Gas & Electric would face caps on the total damages they must pay, with the goal of stabilizing California's electricity rates — among the highest in the nation. Supporters argue the measure is necessary to prevent utilities from entering bankruptcy, which would further disrupt power service and delay victim payouts. The state's three major utilities have lobbied actively for the legislation.\n\nOpponents include wildfire survivors and their advocates, who argue the plan prioritizes corporate interests over the needs of fire victims. Insurance companies have also raised concerns that capping utility liability would shift more of the financial burden onto their industry. The competing pressures have produced a contentious last-minute legislative standoff.\n\nThe outcome will shape Newsom's legacy on one of California's most consequential and recurring crises. It also has national implications as utilities across the country grapple with rising wildfire risk and liability exposure. Newsom is widely expected to seek the Democratic presidential nomination in 2028.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/newsom-returns-to-a-defining-california-fight-who-pays-for-wildfire-damage",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:22 PM MT",
+      "addedAtISO": "2026-08-24T20:22:17.346717-06:00",
+      "slot": 21
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: Rebuttal Witness Testifies Lindsay Clancy Had Bipolar Disorder; Closing Arguments Expected This Week",
+      "summary": "A forensic psychologist testifying Monday as a prosecution rebuttal witness in the Lindsay Clancy murder trial told jurors that Clancy suffered from bipolar 2 disorder at the time she strangled her three young children in January 2023. Kirk Heilbrun, who evaluated Clancy over three days, said he struggled to confirm the diagnosis given the complexity of her documented symptoms but ultimately concluded she experienced cycles of depression and hypomania. His testimony directly contradicts that of another forensic psychiatrist who testified Friday that Clancy had neither bipolar disorder nor psychosis.\n\nClancy's defense does not dispute that she killed her children but argues she should not be held criminally responsible because she was suffering from postpartum psychosis — a rare and severe mental illness — exacerbated by bipolar disorder and medications that worsened her condition. Prosecutors contend she planned the killings deliberately, sending her husband out of the house on errands before carrying out the act. Heilbrun acknowledged Clancy experienced significant sleep deprivation, anxiety, medication side effects, and intrusive suicidal thoughts in the weeks prior.\n\nThe case has drawn wide public attention and sparked a broader national conversation about postpartum mental illness. Heilbrun's testimony adds a new layer of diagnostic disagreement that jurors will have to weigh as they evaluate her culpability. Closing arguments are expected later this week.\n\nMonday's testimony constitutes a material new development in the trial, with competing expert diagnoses now before the jury ahead of closing arguments.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/watch-forensic-psychologist-testifies-that-lindsay-clancy-has-bipolar-disorder",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:22 PM MT",
+      "addedAtISO": "2026-08-24T20:22:17.346717-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
       "headline": "Update: Supreme Court Allows Trump Mail-In Voting Restrictions to Take Effect Ahead of Midterms",
       "summary": "The Supreme Court voted 6-3 along ideological lines Monday to lift a lower court injunction blocking President Trump's executive order restricting mail-in ballot distribution, allowing key provisions to take effect while legal challenges continue. The ruling clears the way for the U.S. Postal Service to implement new controls over who receives mail ballots in 23 states, though a separate injunction blocking USPS implementation nationwide remains in place, leaving the practical impact uncertain with some states weeks away from sending ballots.\n\nThe unsigned majority order held that the states challenging the executive order lacked standing because it was an \"internal directive.\" Justice Ketanji Brown Jackson, joined by the two other liberal justices, dissented sharply, writing that the ruling \"needlessly injects chaos\" into this year's elections. The administration had argued the order was necessary to prevent ballot fraud; opponents say it disenfranchises eligible voters and intrudes on states' constitutional role in administering elections.\n\nSupporters of the order, including Republican state attorneys general who filed the emergency petition, called it a necessary step to secure the integrity of November's elections. Critics, including Democratic governors and voting rights groups, warned the ruling hands the federal government unprecedented leverage over state-run elections on an accelerated and untested timeline. California Gov. Gavin Newsom announced two proposed state laws that would make it a crime to interfere with mail ballot delivery.\n\nThe decision comes as the 2026 midterms take shape on a competitive map. Democrats need to net significant gains to take the Senate, and control of both chambers is contested. The mail-ballot ruling is one of several federal actions — including a previously reported USPS rulemaking — that voting rights advocates say could materially affect turnout in swing states.",
       "source": "Axios",
