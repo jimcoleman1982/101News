@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, August 26, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "FDA Approves First New Pancreatic Cancer Drug in Years, Doubling Survival in Trials",
+      "summary": "The Food and Drug Administration on Wednesday approved daraxonrasib, a once-daily pill manufactured by Revolution Medicines and sold under the brand name Rasonque, for patients with advanced pancreatic cancer. The approval marks a significant advance in treatment options for one of the deadliest cancers, which has historically had few effective therapies.\n\nIn a pivotal clinical trial, patients receiving daraxonrasib lived twice as long as those treated with standard chemotherapy. The drug is approved for patients who have already undergone prior treatment, targeting a specific genetic mutation pathway common in pancreatic tumors.\n\nPancreatic cancer is diagnosed in roughly 65,000 Americans annually and has a five-year survival rate of only about 13%, largely because it is typically detected at an advanced stage. New treatment approvals for the disease are relatively rare, making this development significant for patients and oncologists.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/6052834-fda-approves-pancreatic-cancer-drug/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:17 PM MT",
+      "addedAtISO": "2026-08-26T13:17:35.034769-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Two Frankfurt Airport Workers Die of Malaria After Mosquito Believed Carried in by Plane",
+      "summary": "Two employees at Frankfurt Airport have died after contracting malaria in a rare airport-based outbreak that has infected at least six workers, German public health officials confirmed Wednesday. Authorities believe infected mosquitoes arrived at Germany's busiest airport aboard an inbound aircraft, triggering what is described as an unusual cluster of locally transmitted cases.\n\nThe six affected workers hold different jobs in different areas of the airport. Officials are analyzing blood samples to determine whether the infections stemmed from one mosquito or multiple insects. The outbreak was first detected in July, when four cases were reported; the death toll rose to two as of Wednesday.\n\nThe Frankfurt Public Health Department is investigating, and mosquito traps have been installed throughout the facility. Lab results identifying the mosquito species and geographic origin are not expected for several weeks. The Robert Koch Institute, Germany's public health authority, noted that the last case of airport malaria at Frankfurt occurred in 2023 and that such transmission is rare.\n\nAuthorities stressed the risk to the general Frankfurt population is \"very, very low\" because malaria is not transmitted person to person. However, officials warned that the absence of a travel history can delay diagnosis and increase the risk of a severe or fatal outcome, as appeared to be the case with the two workers who died.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:17 PM MT",
+      "addedAtISO": "2026-08-26T13:17:35.034769-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Administration Threatens to Demolish Kennedy Center If Courts Block Renovation Plans",
+      "summary": "The Trump administration has warned in court filings that it may demolish the John F. Kennedy Center for the Performing Arts if a federal court blocks planned renovations to the Washington landmark. Justice Department attorneys argued that without the renovations, the venue will \"deteriorate further into an unsafe, decrepit structure that will be required to be taken down,\" with one option being replacement by a large outdoor amphitheater overlooking the Potomac River.\n\nThe legal dispute stems from the administration's effort to rename the center after President Trump. A federal judge ruled in May that adding Trump's name violated federal law, which designates the center as a memorial to President John F. Kennedy and requires congressional approval for any renaming. After the court order, Trump's name was removed from the facade in June. The Kennedy Center's board — heavily stocked with Trump appointees — subsequently voted to restore the name and proceed with a two-year closure for renovations.\n\nJustice Department lawyers are now asking the court to allow Trump's name to be restored, arguing that blocking the board's actions will cause donors to withdraw and halt financial contributions needed for structural work. Critics argue the administration's threat to demolish a congressionally protected national cultural institution is an escalation of executive overreach in a matter explicitly governed by federal statute.\n\nThe Kennedy Center controversy is part of a broader pattern of Trump administration renovation projects in Washington, which include work on the National Mall reflecting pool, a proposed 250-foot victory arch, demolition of the White House East Wing for a ballroom, and branding changes at federal institutions including the U.S. Institute of Peace.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:17 PM MT",
+      "addedAtISO": "2026-08-26T13:17:35.034769-06:00",
+      "slot": 14
+    },
+    {
       "category": "politics",
       "headline": "Trump-Backed Darline Graham Wins South Carolina GOP Senate Runoff",
       "summary": "Sen. Darline Graham won the Republican nomination Tuesday to fill the South Carolina Senate seat left vacant by the death of her brother, the late Sen. Lindsey Graham. She defeated Rep. Ralph Norman in the runoff, advancing to the November general election where she will face Democrat Annie Andrews. Democrats have not won a U.S. Senate election in South Carolina in decades, making Graham the heavy favorite.\n\nThe victory extends Trump's undefeated streak in Republican Senate primaries this year and underscores his continued influence over the GOP primary electorate. Trump invested heavily in Graham's campaign, providing crucial momentum to the political novice. Supporters argue the win demonstrates strong party unity heading into the November midterms, while critics note Graham's lack of political experience.\n\nSeparately, in Georgia's 13th Congressional District, former Gwinnett County School Board Chairman Everton Blair Jr. won a Democratic special election runoff by roughly 8 points to fill the seat of the late Rep. David Scott, who died in April. Blair defeated Scott's daughter Marcye Scott for the nomination.\n\nIn Alaska, a potentially disruptive development emerged: a candidate named Dan J. Sullivan — sharing the name of incumbent Republican Sen. Dan Sullivan — has advanced to the November general election alongside former Democratic Rep. Mary Peltola. The name confusion under Alaska's ranked-choice voting system could complicate the general election for the incumbent senator.",
