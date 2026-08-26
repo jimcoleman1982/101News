@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, August 26, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump-Backed Darline Graham Wins South Carolina GOP Senate Runoff",
+      "summary": "Sen. Darline Graham won the Republican nomination Tuesday to fill the South Carolina Senate seat left vacant by the death of her brother, the late Sen. Lindsey Graham. She defeated Rep. Ralph Norman in the runoff, advancing to the November general election where she will face Democrat Annie Andrews. Democrats have not won a U.S. Senate election in South Carolina in decades, making Graham the heavy favorite.\n\nThe victory extends Trump's undefeated streak in Republican Senate primaries this year and underscores his continued influence over the GOP primary electorate. Trump invested heavily in Graham's campaign, providing crucial momentum to the political novice. Supporters argue the win demonstrates strong party unity heading into the November midterms, while critics note Graham's lack of political experience.\n\nSeparately, in Georgia's 13th Congressional District, former Gwinnett County School Board Chairman Everton Blair Jr. won a Democratic special election runoff by roughly 8 points to fill the seat of the late Rep. David Scott, who died in April. Blair defeated Scott's daughter Marcye Scott for the nomination.\n\nIn Alaska, a potentially disruptive development emerged: a candidate named Dan J. Sullivan — sharing the name of incumbent Republican Sen. Dan Sullivan — has advanced to the November general election alongside former Democratic Rep. Mary Peltola. The name confusion under Alaska's ranked-choice voting system could complicate the general election for the incumbent senator.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/26/darline-graham-south-carolina-republican-senate-results",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:23 AM MT",
+      "addedAtISO": "2026-08-26T10:23:43.322791-06:00",
+      "slot": 11
+    },
+    {
+      "category": "science_health",
+      "headline": "French Court Finds Cosmic Radiation Linked to Flight Attendant's Breast Cancer in Landmark Ruling",
+      "summary": "A French court has for the first time recognized cosmic radiation as a contributing factor in the breast cancer of a long-serving Air France flight attendant, in a ruling that could open the door to a wave of similar occupational disease claims across the aviation industry. Sophie Lainault, 59, logged more than 12,600 flight hours between 1989 and 2019, with a majority flown at night and many on high-altitude polar routes where cosmic radiation exposure is most intense.\n\nThe court in Bayonne identified three carcinogenic hazards tied to Lainault's profession: cosmic radiation, prolonged night work, and passive smoking — which was permitted on Air France flights until 2000. The ruling entitles Lainault to early retirement with medical costs fully reimbursed under the French health system. Lawyers say the decision clears the way for many other flight crew members to bring similar claims.\n\nThe ruling aligns with a study published this month by Harvard Medical School finding that flight attendants and pilots have the highest proportion of radiation-related cancer deaths among more than 500 professions examined — approximately 6.9% and 6.7% of deaths respectively, exceeding even nuclear technologists. High-altitude polar flights receive intensified cosmic radiation because Earth's magnetic field, which shields lower-latitude and lower-altitude travelers, provides less protection near the poles.\n\nScientists caution that establishing individual causation remains difficult. \"Current radiation protection guidance assumes that any small dose can potentially cause cancer, but the lower the dose the lower the risk,\" said Jim Smith, professor of environmental science at the University of Portsmouth. The French ruling nonetheless sets a legal precedent that could have broad implications for how occupational health standards are applied to aviation workers internationally.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:23 AM MT",
+      "addedAtISO": "2026-08-26T10:23:43.322791-06:00",
+      "slot": 11
+    },
+    {
+      "category": "business",
+      "headline": "SpaceX Announces $100 Billion Starbase Launch Facility in Louisiana",
+      "summary": "SpaceX announced Tuesday that it will build its largest launch facility in the world in Louisiana, a $100 billion project named Starbase Louisiana spanning 125,000 acres. Construction is scheduled to begin next year, with the first Starship launch from the site targeted for 2029. The facility is designed to support thousands of Starship flights annually to Earth orbit, the Moon, Mars, and beyond.\n\nThe Louisiana Economic Development agency said the project will create more than 3,000 direct jobs at average wages 192% above the region's current average salary, along with an estimated 8,100 indirect jobs. The announcement marks a significant expansion beyond SpaceX's existing Texas and Florida operations and positions Louisiana as a major hub for commercial space launch activity.\n\nThe announcement comes roughly two months after SpaceX completed the largest stock market debut in history when its shares began trading on the Nasdaq in June. Shares have since fallen more than 30% from their post-IPO highs, though they remain above the $135 offer price, as investors weigh the company's ambitious expansion plans against its path to profitability.\n\nSpaceX has pursued aggressive growth across multiple fronts in recent months. In August, the company and Tesla jointly announced plans for a $16.8 billion AI chip manufacturing complex in Texas called the Terafab. Founder Elon Musk has outlined goals including Mars missions, space-based data centers, and AI development as core priorities for the company.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:23 AM MT",
+      "addedAtISO": "2026-08-26T10:23:43.322791-06:00",
+      "slot": 11
+    },
+    {
       "category": "world",
       "headline": "Fire Kills 14 Babies at Pakistan Hospital After Ward Door Found Locked",
       "summary": "A fire that broke out in an air-conditioning unit on the third floor of the mother and child unit at the Pakistan Institute of Medical Sciences (PIMS) hospital in Islamabad killed 14 newborns in the early morning hours Wednesday. Of 15 infants present in the ward, only one survived. Witnesses described waiting hours for rescue workers to arrive and said the ward door was locked, trapping the babies inside.\n\nEyewitnesses told AFP that people had to break the door down and that rescue teams were forced to smash windows to fight the flames. One father said the building had 'no fire security, no proper exits,' and that most doors were kept locked. Several witnesses said duty staff were absent when the fire broke out. Hospital executive director Rana Imran Sikander disputed that the door was locked, saying it was manned to prevent infant theft — a documented problem at Pakistani government hospitals.\n\nIslamabad's Chief Commissioner Sohail Ashraf said rescue teams reached the scene 'immediately' after the emergency call, contradicting multiple witness accounts of delays of two to four hours. Pakistani authorities have launched an investigation. PIMS is one of the largest state-run hospitals in the capital, with 156 beds in its maternal and child health unit.\n\nThe disaster raises urgent questions about fire safety standards at Pakistani public health facilities. The deaths drew immediate public anger, with bereaved parents demanding accountability from hospital administrators and emergency services.",
