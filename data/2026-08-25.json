@@ -3,6 +3,48 @@
   "dateFormatted": "Tuesday, August 25, 2026",
   "stories": [
     {
+      "category": "other",
+      "headline": "Dolly Parton Dies at Age 80 After Brief Battle With Cancer",
+      "summary": "Country music legend Dolly Parton died Tuesday at the Vanderbilt-Ingram Cancer Center in Nashville, surrounded by family, after what her representatives described as a \"brief battle with cancer.\" She was 80. The announcement was made by her nephew Bryan Seaver, who served as family representative, fulfilling a request Parton had made of him years ago.\n\nParton's representatives described her as someone whose \"unconditional love for all people was the guiding force for her lasting impact,\" citing her Imagination Library book donation program, which distributed hundreds of millions of books to children worldwide, and her early funding of research that contributed to a COVID-19 vaccine. She had canceled a planned Las Vegas residency in May, citing health concerns, saying she had neglected her own health while caring for her late husband, Carl Dean, who died last year after nearly 60 years of marriage.\n\nParton rose from poverty in a two-room cabin in rural Tennessee to become one of the most celebrated entertainers in American history, with a career spanning more than six decades. Her discography included iconic songs such as \"Jolene,\" \"I Will Always Love You,\" and \"Coat of Many Colors.\" She is survived by five sisters, a brother, and is the godmother of pop star Miley Cyrus. Her theme park, Dollywood, in Pigeon Forge, Tennessee, remains one of the most visited attractions in the American South.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/4699862/dolly-parton-dies-at-age-80/",
+      "sourceCount": 9,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "8:37 PM MT",
+      "addedAtISO": "2026-08-25T20:37:29.572791-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Man Arrested Near U.S. Capitol After Police Find Guillotine in Pickup Truck",
+      "summary": "U.S. Capitol Police arrested a 35-year-old California man Tuesday after officers discovered a guillotine in the bed of his pickup truck parked along the 100 block of East Capitol Street, near the Capitol building, the Supreme Court, and the Library of Congress. The suspect, identified as Philan-Tam-Duy Le, was taken into custody on a charge of carrying a dangerous weapon.\n\nOfficers first spotted the truck because it was illegally parked. Capitol Police said investigators were examining why Le was in Washington, D.C., and what his intentions were. The guillotine, a device historically associated with executions by decapitation, was seized from the vehicle. No injuries were reported.\n\nThe incident prompted heightened security concerns in the area surrounding the Capitol complex. Capitol Police did not immediately indicate whether Le had made any specific threats. The arrest comes at a period of elevated political tensions, and authorities have not publicly disclosed a motive.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/6050846-capitol-police-guillotine-pickup-truck/",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:37 PM MT",
+      "addedAtISO": "2026-08-25T20:37:29.572791-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Interpol Operation Nets 58 Arrests Across 22 Countries in West African Cyber-Crime Crackdown",
+      "summary": "Interpol announced Tuesday that a sweeping international law enforcement operation dubbed \"Operation Jackal IV\" resulted in 58 arrests across 22 countries and six continents, targeting organized West African cyber-crime networks responsible for romance scams, investment fraud, cryptocurrency schemes, and business email compromise. The operation, which ran from November 2025 through June 2026, also identified 263 additional suspects.\n\nThe operation focused in part on the Nigerian Black Axe group, which Interpol described as behind a \"significant share\" of cyber-enabled financial fraud globally. South Africa recorded the largest single-country result, with 39 arrests, the seizure of $2.67 million, and the blocking of 257 bank accounts following raids on seven syndicate-linked sites in Johannesburg. Additional arrests were made in Argentina, Italy, and Romania. Victims of the scams frequently included retirees in English-speaking countries.\n\nInvestigators also uncovered how these networks are increasingly using sextortion to target minors, with victims as young as 14. Interpol said the operation traced illicit financial flows across borders to disrupt the criminal networks' revenue streams. \"By following illicit financial flows across borders, we are attacking the very lifeblood of organised crime,\" said Tomonobu Kaya, director of Interpol's financial crime centre. Operation Jackal IV is the fourth installment in the series; a 2024 predecessor operation led to 300 arrests linked to Black Axe and affiliated groups.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:37 PM MT",
+      "addedAtISO": "2026-08-25T20:37:29.572791-06:00",
+      "slot": 21
+    },
+    {
       "category": "world",
       "headline": "Update: U.S.-Iran Standoff Intensifies as Hormuz Blockade Holds, No Diplomatic Off-Ramp in Sight",
       "summary": "The United States and Iran remain locked in a deepening military and economic confrontation following the expiration of a 60-day ceasefire on Monday, with no negotiations underway. The U.S. Strait of Hormuz blockade remains in effect after Iran seized two cargo ships, including the Epaminondas, and Iran's top negotiator has signaled Tehran will assert its own authority over passage through the critical waterway. Energy markets have seen continued wild swings as the standoff disrupts global oil supply chains.\n\nThe conflict, which began on February 28 when the U.S. and Israel struck Iran, has pushed gasoline prices above $4 per gallon in the United States and driven the Federal Reserve's preferred inflation gauge, the personal consumption expenditures index, to 3.7% year-over-year as of June — up sharply from 2.8% before the war began. Iran has moved to activate deep economic relationships with non-Western trading partners to blunt U.S. sanctions, which Washington has labeled an 'economic D-Day.'\n\nIran's position, as articulated by officials in Tehran, is that it has survived decades of U.S. sanctions before and has contingency plans in place. The U.S. has deployed warships on one of the longest naval deployments in recent history, with Admiral Cooper acknowledging the 'uniquely challenging' conditions of extended service at sea. BBC reporters on the ground in Tehran describe a population bracing for prolonged confrontation rather than imminent resolution.\n\nThe standoff carries enormous geopolitical stakes: the Strait of Hormuz handles roughly 20% of global oil trade. With the ceasefire expired and no diplomatic channel publicly active, analysts warn the situation could escalate further. The CIA director made an unannounced trip to Moscow, raising speculation about whether back-channel diplomacy is being pursued, though no breakthrough has been announced.",
