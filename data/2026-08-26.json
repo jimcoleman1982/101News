@@ -3,6 +3,34 @@
   "dateFormatted": "Wednesday, August 26, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Federal Appeals Court Blocks Republican Bid to Buy TV Ads at Discounted Candidate Rates",
+      "summary": "A federal appeals court ruled Tuesday that the FCC was wrong to extend discounted candidate advertising rates to Republican Party committees, a 2-1 Fourth Circuit decision that could erase a significant midterm advantage Republicans had been counting on as fall campaign ad spending intensifies ahead of November elections. Republicans plan to appeal the ruling, setting up another major campaign finance legal battle during one of the most contested midterm cycles in recent memory.\n\nThe discounted rates at issue are those stations must legally offer to candidate campaigns, and the FCC had moved to extend that pricing to party committees — a change that would have benefited Republicans, who have built up cash-rich national party infrastructure. Democrats argued the extension was unlawful; the court majority agreed. The ruling could materially affect the volume of political advertising Republicans are able to place in competitive House and Senate districts this fall.\n\nThe decision arrives as both parties are aggressively spending on television in races that will determine control of Congress. Republicans, who currently hold both chambers, face a challenging map and have leaned heavily on coordinated party spending to supplement individual candidate fundraising. The appeal timeline may determine whether the ruling affects the November election at all, or is resolved afterward.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/26/tv-ad-rates-republicans-democrats-court-ruling",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-08-26T21:08:37.830206-06:00",
+      "slot": 21
+    },
+    {
+      "category": "business",
+      "headline": "General Mills Removes Artificial Dyes from U.S. Cereal Portfolio",
+      "summary": "General Mills announced Wednesday it has eliminated artificial coloring from its entire U.S. cereal lineup, and committed to removing synthetic dyes from 90% of its broader U.S. retail portfolio by the end of 2027. The move is one of the most sweeping reformulations by a major food manufacturer since the Trump administration and Health and Human Services Secretary Robert F. Kennedy Jr. began pressuring the food industry to phase out artificial additives under the Make America Healthy Again initiative.\n\nThe company did not specify which dyes were removed or detail the reformulation process for individual products, but the announcement covers a wide range of well-known cereal brands. Industry analysts said the decision signals that major food companies are responding to regulatory and consumer pressure, even in the absence of a formal federal ban on artificial colors, which the FDA has been moving toward under Kennedy's leadership.\n\nThe announcement reflects a broader industry shift: several other large food manufacturers have also moved in recent months to reformulate products ahead of anticipated regulatory changes. Supporters of the MAHA agenda called the move a victory, while some food scientists have noted that natural colorings can be less stable, more expensive, and sometimes carry their own allergen concerns — trade-offs that critics argue have received insufficient scrutiny in the push for rapid reformulation.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/6053393-general-mills-removes-artificial-dyes/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-08-26T21:08:37.830206-06:00",
+      "slot": 21
+    },
+    {
       "category": "business",
       "headline": "Meta Settles With 47 States for Up to $17 Billion Over Child Safety on Facebook and Instagram",
       "summary": "Meta has agreed to pay up to $17.1 billion and implement sweeping child-safety measures on Facebook and Instagram to settle a landmark lawsuit brought by attorneys general from 47 states. The settlement, which awaits a federal judge's approval, ends a high-profile trial in which states accused the company of deliberately designing its platforms in ways that harmed children and fueled teen addiction.\n\nUnder the terms of the deal, Meta will introduce stronger digital guardrails for minors and is calling on other social media companies to join the agreement, arguing that industry-wide reform is necessary for the measures to be effective. Colorado Attorney General Phil Weiser described the settlement as a generational turning point, comparing it in scope and industry consequence to the landmark tobacco settlements of the 1990s.\n\nThe settlement is among the largest ever reached by U.S. states against a technology company and signals a major shift in how regulators and courts view platforms' responsibilities toward young users. Supporters say it forces long-overdue accountability; critics of heavy-handed regulation have cautioned that mandated design changes could restrict free expression and innovation. Meta has not admitted wrongdoing.\n\nThe agreement covers both Facebook and Instagram and would require Meta to, among other things, limit certain algorithmic features for users identified as minors. The company's move to invite peer platforms to adopt similar standards suggests it is also seeking to preempt a patchwork of future state-by-state litigation.",
