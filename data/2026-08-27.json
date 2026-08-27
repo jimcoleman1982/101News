@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-27",
+  "dateFormatted": "Thursday, August 27, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: CIA Director Ratcliffe's Moscow Trip Was Warning to Russia Not to Attack NATO",
+      "summary": "New details have emerged about CIA Director John Ratcliffe's unannounced visit to Moscow this week: sources familiar with the trip told ABC News and others that a central purpose was to warn Russia not to attack NATO member states, amid U.S. intelligence assessments that Moscow could attempt to test the alliance's resolve. The disclosure adds significant context to a visit that had sparked widespread speculation since it was first reported.\n\nPresident Trump downplayed the trip as 'semi-routine,' while Estonian Foreign Minister Margus Tsahkna sought to minimize its significance, saying the threat Russia poses to Baltic nations had not changed. The visit was nonetheless extraordinary by historical standards, with a U.S. intelligence chief traveling directly to Moscow on a government transport aircraft.\n\nThe warning comes as Russia's war in Ukraine continues and as NATO allies face ongoing questions about American commitment to collective defense. The revelation that Ratcliffe delivered a direct deterrence message — rather than, as some had speculated, seeking Russian support for Iran pressure — may reassure European partners who have grown anxious about U.S. foreign policy direction under the Trump administration.\n\nThe Ratcliffe visit is the latest in a series of high-stakes diplomatic moves involving the administration, which has simultaneously been managing a standoff with Iran, trade conflict with Canada, and persistent tensions along NATO's eastern flank.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/6053832-hegseth-upgrades-abbey-gate-awards/",
+      "sourceCount": 7,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:37 AM MT",
+      "addedAtISO": "2026-08-27T03:37:04.579496-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "9/11 Accused Plotters Set for Trial in June 2028, More Than 26 Years After Attacks",
+      "summary": "A military judge set a tentative June 2028 trial date for Khalid Sheikh Mohammed and three co-defendants accused of planning the September 11, 2001, terrorist attacks, which killed nearly 3,000 people. Air Force Lt. Col. Michael Schrama issued the order on Wednesday, meaning the trial — if it proceeds on schedule — would begin nearly 27 years after the attacks and 20 years after the defendants were first arraigned in 2008.\n\nThe path to trial has been repeatedly disrupted. Plea deals that would have spared Mohammed and two co-defendants the death penalty were negotiated but subsequently voided after the Trump administration intervened. Legal battles over evidence, the admissibility of statements obtained under interrogation, and the structure of the military commissions system have contributed to decades of delays.\n\nThe case remains one of the most consequential and legally complex in American history, pitting national security considerations — including classified evidence and the legacy of post-9/11 detention and interrogation programs — against defendants' constitutional and legal rights. Critics across the political spectrum have long argued the prolonged pre-trial period represents a failure of the military justice system.\n\nFamilies of victims have waited more than two decades for a verdict. Whether the 2028 date holds will depend on further pretrial litigation, the health of elderly defendants, and potential additional legal challenges from both prosecution and defense.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/27/911-attacks-khalid-sheikh-mohammed-trial-2028",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:37 AM MT",
+      "addedAtISO": "2026-08-27T03:37:04.579496-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Surrogacy Custody Battle in Texas Draws National Attention Over Abortion, Parental Rights",
+      "summary": "A Texas court this week heard arguments in a high-profile custody dispute between a California couple and their surrogate, who refused to terminate a pregnancy after the fetus was diagnosed with hypoplastic left heart syndrome, a serious congenital heart defect. The case involves Nausheen Gilkar and Omar Ahmed, biological parents who say they requested an abortion after the diagnosis, and surrogate McKenna West, an Alaska nurse who declined and subsequently gave birth.\n\nWest testified she was connected with an anti-abortion group after the dispute arose; the group arranged legal representation, flew her to Texas — where abortion is banned — and is covering her legal costs. Texas Attorney General Ken Paxton also intervened. A California court ruled in June that Gilkar and Ahmed are the legal parents, but West is seeking to overturn that ruling and gain custody of the child, who has already undergone surgery.\n\nThe case has drawn competing advocacy from both sides of the abortion debate. Anti-abortion groups argue surrogacy contracts should not compel abortion decisions. Reproductive rights advocates argue the case illustrates how abortion restrictions in some states can override agreements made in other jurisdictions, creating interstate legal conflicts.\n\nThe dispute touches several unresolved areas of American law: the enforceability of surrogacy contracts across state lines, the extent to which biological parentage determines legal custody, and the intersection of surrogacy with abortion policy in a post-Dobbs legal landscape.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/custody-fight-erupts-after-surrogate-refuses-abortion-for-baby-with-heart-condition",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:37 AM MT",
+      "addedAtISO": "2026-08-27T03:37:04.579496-06:00",
+      "slot": 5
+    },
+    {
+      "category": "other",
+      "headline": "NFL Abolishes Pro Bowl Game After More Than 70 Years",
+      "summary": "The NFL announced Wednesday that it is ending the Pro Bowl game, discontinuing the all-star exhibition that had been held in some form almost every year since 1951. The decision was made at the league's owners' meeting in Atlanta. The game was last held in its tackle format in 2022 before switching to flag football in 2023 in an attempt to reverse declining interest.\n\nDespite the elimination of the game, 88 players per season will still be designated as Pro Bowlers and honored at a ceremony in Los Angeles. The league will also hold flag football events at that time. NFL executive vice president Peter O'Reilly framed the move as returning the Pro Bowl selection to its original purpose as an honor rather than a competitive event.\n\nLeague officials cited feedback from players who said they did not want competitive play following the physical demands of a full season and playoffs. Troy Vincent, the NFL's executive vice president of football operations, said players felt an all-star game could not adequately replicate the intensity of championship-level play and risked injuries without meaningful stakes.\n\nThe Pro Bowl had been held for most of its history in Honolulu before the league rotated the event to various cities in recent years. Its cancellation ends one of the longest-running traditions in American professional sports.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/sports/4702171/nfl-ends-pro-bowl-game/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "3:37 AM MT",
+      "addedAtISO": "2026-08-27T03:37:04.579496-06:00",
+      "slot": 5
+    }
+  ]
+}
