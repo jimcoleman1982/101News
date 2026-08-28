@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-28",
+  "dateFormatted": "Friday, August 28, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "King Harald V of Norway Dies at 89; Son to Reign as Haakon VIII",
+      "summary": "King Harald V of Norway, Europe's oldest reigning monarch, died peacefully Friday morning at the national hospital in Oslo at age 89. The royal palace announced he passed away at 06:35 local time after being hospitalized for a rare blood condition. His son will ascend to the throne as King Haakon VIII.\n\nHarald V had reigned for 35 years and was known internationally as a three-time Olympic yachtsman. He was widely regarded as a monarch who broke with royal tradition, including by marrying a commoner — Sonja Haraldsen — over objections from the Norwegian government, a decision that required a years-long public campaign before parliament ultimately consented.\n\nHis death marks a historic transition for Norway's constitutional monarchy. Harald's passing closes a reign that spanned major shifts in Norwegian society and politics, from the country's transformation into one of the world's wealthiest nations through North Sea oil revenues to its prominent role in international diplomacy and peace negotiations.\n\nThe succession follows established Norwegian constitutional procedure, with Crown Prince Haakon, 52, immediately assuming the throne. Norway has not yet announced details of state funeral arrangements.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-28/harald-v-norway-king-who-raced-yachts-at-olympics-dead-at-89",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-28T05:08:24.707460-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "Congo Launches Ebola Vaccinations as Outbreak Becomes Deadliest in Country's History",
+      "summary": "The Democratic Republic of Congo on Thursday officially launched an Ebola vaccination campaign in Kisangani, capital of Tshopo province, as the country battles its worst Ebola outbreak on record. Health Minister Roger Kamba announced the campaign, with frontline health workers and close contacts of confirmed patients among the first to receive doses of the Ervebo vaccine.\n\nAs of Tuesday, Congo had recorded 5,713 confirmed cases and 2,744 deaths — a fatality rate of approximately 48 percent across six affected provinces including Ituri, North Kivu, South Kivu, Tshopo, Haut-Uele and Bas-Uele. The World Health Organization has warned the outbreak remains out of control and is on track to surpass the 2014-2016 West Africa epidemic, which killed more than 11,000 people and stands as the deadliest Ebola outbreak in history.\n\nA significant scientific complication shadows the campaign: the current outbreak is caused by the Bundibugyo strain of Ebola virus, while Ervebo is approved specifically against the Zaire strain. The vaccine is being administered under a compassionate-use program, with data to be collected simultaneously in a clinical trial to measure its actual effectiveness against Bundibugyo Ebola, for which no approved vaccine currently exists.\n\nThe outbreak is spreading under extremely difficult conditions, compounded by ongoing armed insecurity, mass population displacement, a health workers' strike, and intense cross-border movement in eastern Congo. More than 50,000 doses have been received, with the campaign targeting 14 health zones across three provinces.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/health/congo-begins-ebola-vaccinations-to-fight-countrys-worst-outbreak-in-history-health-minister-says",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-28T05:08:24.707460-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: U.S. Military Clears All Iranian Sea Mines from Strait of Hormuz Transit Routes",
+      "summary": "U.S. Central Command announced Thursday that American forces have cleared all Iranian sea mines along internationally recognized shipping lanes in the Strait of Hormuz, describing it as a major milestone in the ongoing standoff with Iran. CENTCOM Commander Admiral Brad Cooper made the announcement in a video posted to social media, marking a concrete new operational development in what has been a prolonged crisis affecting global oil markets.\n\nThe clearance of the mines represents a significant shift in the physical status of the waterway, through which roughly 20 percent of global oil supplies transit. Prior coverage had focused on diplomatic efforts, sanctions pressure, and the broader strategic standoff; Thursday's announcement is the first confirmation that the mines themselves have been neutralized along recognized transit corridors.\n\nTreasury Secretary Scott Bessent has separately argued that oil pipeline infrastructure will render the Strait of Hormuz strategically irrelevant within two years, a claim energy experts have disputed as unrealistic given current infrastructure timelines and capacity constraints. Iran, meanwhile, has been touting a separate plan involving Oman to restore shipping movement through the strait, signaling the diplomatic dimension remains unresolved even as the immediate navigational hazard has been addressed.\n\nThe development is likely to affect oil prices and shipping insurance rates in the near term, though the broader U.S.-Iran standoff, including sanctions and the status of any diplomatic framework, remains unsettled.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/6056395-centcom-us-clears-iranian-sea-mines/",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-28T05:08:24.707460-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Stars and Stripes Publisher, Editor-in-Chief Sue Pentagon Over Firings, Citing First Amendment",
+      "summary": "The publisher, editor-in-chief, and a reporter for Stars and Stripes — a congressionally chartered, government-funded news outlet serving U.S. military personnel — filed a federal lawsuit Thursday against the Department of Defense, seeking to reverse last week's firings. Publisher Max Lederer, Editor-in-Chief Erik Slavin, and reporter Lara Korte filed the complaint in U.S. District Court for the District of Columbia, alleging the terminations were unlawful and violated First Amendment protections.\n\nThe lawsuit alleges the Pentagon retaliated against the journalists for reporting on the USS Abraham Lincoln, according to court filings. Stars and Stripes, which the complaint describes as the U.S. military's independent news service, has operated for decades with an editorial firewall intended to insulate its journalism from command influence. The plaintiffs argue the firings breach both that statutory independence and constitutional free-speech protections.\n\nThe Department of Defense has not publicly detailed its rationale for the terminations. The case raises broader questions about press freedom within government-funded media and the limits of executive authority over outlets that receive federal funding but are structured to maintain editorial independence.\n\nThe lawsuit is being closely watched by press-freedom advocates and military journalists. Democrats and some Republicans have previously pushed back against administration moves affecting Stars and Stripes, which has served troops in war zones since the Civil War era. No court date has been set.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/6056203-stars-and-stripes-pentagon-lawsuit-dod/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-08-28T05:08:24.707460-06:00",
+      "slot": 5
+    }
+  ]
+}
