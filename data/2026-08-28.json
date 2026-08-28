@@ -3,6 +3,34 @@
   "dateFormatted": "Friday, August 28, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Milo Yiannopoulos Detained by ICE, Faces Deportation to U.K.",
+      "summary": "British far-right commentator Milo Yiannopoulos, 41, was detained by U.S. Immigration and Customs Enforcement on Thursday after arriving at New Orleans' airport and is being held in Louisiana pending deportation, the Department of Homeland Security confirmed. The DHS said Yiannopoulos \"was issued a final order of removal by an Immigration Judge on July 22, after failing to show up for his immigration hearing,\" and characterized him as \"an illegal alien from the United Kingdom\" who flew into the U.S. in May 2019 and \"chose to overstay his welcome.\"\n\nYiannopoulos rose to prominence as a Breitbart News editor and early Trump supporter during the 2016 campaign, where he headlined a \"Gays for Trump\" event at the Republican National Convention. He was later dropped from CPAC and resigned from Breitbart in 2017 after video surfaced of him appearing to condone pedophilia — allegations he denied. More recently he had drifted from mainstream MAGA circles, posting earlier this year that Trump \"has lost his way.\"\n\nThe case has drawn attention partly because of Yiannopoulos's own vocal support for aggressive immigration enforcement. He had publicly praised ICE raids, called for \"on the spot deportation\" of anyone who could not prove legal U.S. status, and written that the country needed to \"deport millions and millions of people.\" The DHS statement appeared to reference his prior rhetoric, noting he would \"remain in custody pending deportation\" and urging others in the country illegally to \"self-deport now.\"\n\nSupporters of the administration noted that immigration law applies regardless of political affiliation, while critics of Yiannopoulos expressed irony that a figure who championed mass deportation now faced it himself. The British Embassy in Washington had not commented as of publication.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:15 PM MT",
+      "addedAtISO": "2026-08-28T16:15:40.372156-06:00",
+      "slot": 18
+    },
+    {
+      "category": "technology",
+      "headline": "X Identifies Chinese Bot Network Covertly Fueling U.S. Opposition to AI Data Centers",
+      "summary": "X's safety team on Thursday identified and removed approximately 200,000 accounts linked to a suspected Chinese influence operation that had been covertly pushing American users to oppose the construction of AI data centers, the platform disclosed. The campaign involved roughly 200 coordinating bot-farm accounts seeding anti-data-center sentiment across social media, according to X's findings. Congressional officials say the operation reflects a broader effort by Beijing to exploit domestic U.S. debates in order to slow American artificial intelligence infrastructure development.\n\nThe disclosure comes amid an intensifying U.S.-China race to build the world's most advanced AI systems. The United States has been rapidly expanding its data center footprint — a prerequisite for training large AI models — while China has pursued its own parallel buildout. Analysts say disrupting American public and political support for data center construction would represent a low-cost asymmetric strategy to impede U.S. AI competitiveness.\n\nThe operation tapped into genuine local concerns about data centers — including energy consumption, water usage, and land use — to manufacture or amplify opposition in American communities. The tactic mirrors previous Chinese information operations that have sought to inflame existing social divisions rather than introduce entirely fabricated narratives, making them harder to detect and counter.\n\nThe story arrives as Congress is already debating regulatory frameworks for AI infrastructure siting, and as some municipalities have moved to restrict or delay data center construction. The Free Beacon and Bloomberg also reported on the findings, and members of Congress have called for a broader investigation into whether Chinese influence efforts are shaping U.S. technology policy debates.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:15 PM MT",
+      "addedAtISO": "2026-08-28T16:15:40.372156-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Violence Erupts in Ceuta as Migrant Crisis Deepens a Month After Mass Border Crossing",
       "summary": "A month after more than 72,000 migrants crossed from Morocco into Ceuta, the Spanish exclave on the North African coast, the city is experiencing escalating violence as tensions between residents and the thousands of migrants who remain intensify. On Thursday, locals blocked Red Cross workers from distributing food and water to migrants, and groups subsequently set fire to migrant camps on Trampolín beach. Separately, 12 migrants were arrested for allegedly attacking a military vehicle, and vigilante groups were reported pursuing migrants through city streets. Journalists covering the crisis have also been threatened.\n\nThe vast majority of those who crossed on July 30–31 returned to Morocco within hours, but several thousand remain, many of them unaccompanied minors sleeping rough on beaches and streets. At least 100 people died during the original crossing, according to Ceuta's mayor. The Spanish government this week centralized management of the crisis, overriding local authority, after criticism that it had been slow to respond.\n\nThe crisis has hardened political divisions in Spain. The conservative mayor of Ceuta, Juan Jesús Vivas, said the city has \"the right to normality\" and that Spain's dignity is at stake. The ruling Socialist government of Prime Minister Pedro Sánchez accused opposition parties — the People's Party and the far-right Vox — of stoking tensions. Interior Minister Fernando Grande-Marlaska condemned rhetoric that \"contributes to the stigmatisation of immigrants.\" A Vox congressman is under investigation for a possible hate crime after calling for migrants to be \"hunted down.\"\n\nOn Friday, all parties in Ceuta's local assembly signed a joint declaration condemning the violence — a rare moment of cross-party agreement in an otherwise deeply polarized standoff that is testing Spain's migration policy and social cohesion.",
