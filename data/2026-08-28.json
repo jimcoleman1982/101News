@@ -3,6 +3,34 @@
   "dateFormatted": "Friday, August 28, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "Update: Fed Chair Warsh Signals Possible Rate Hike, Says Inflation Fight Not Over",
+      "summary": "Federal Reserve Chairman Kevin Warsh used his first major speech as Fed chief, delivered Friday at the annual Jackson Hole Economic Policy Symposium in Wyoming, to signal that interest rate increases remain on the table if inflation does not return to the Fed's 2% target. 'We must be confident that underlying inflation is moving to our objective, clearly and at sufficient speed. Otherwise, we have work to do,' Warsh told assembled central bankers, government officials, and economists.\n\nWarsh noted that while summer inflation readings came in better than expected, they did not show that the underlying picture had 'meaningfully improved.' The latest figures show prices rose 3.4% in the year to July, above the Fed's target, with a separate closely watched measure running at 3.7% — driven in part by elevated oil prices stemming from the ongoing U.S.-Iran conflict. Interest rates have been held steady between 3.5% and 3.75% for five consecutive meetings.\n\nMarkets reacted immediately, with rate-futures pricing showing increased expectations of a September hike following Warsh's remarks. Analysts at Capital Economics described the speech as delivering a 'far clearer — and hawkish — message' than expected, saying it left 'the door open to a hike' sooner than previously anticipated. The next Fed rate decision is scheduled for September 15–16, with the outcome carrying significant political weight as midterm elections approach and voters remain focused on the cost of living.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:34 AM MT",
+      "addedAtISO": "2026-08-28T10:34:47.967053-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Sudan Lifts Two-Year Curfew in Khartoum as Civil War Continues",
+      "summary": "Sudan's military-led government lifted a curfew and state of emergency in the capital Khartoum on Friday, nearly 18 months after the army recaptured the city from the paramilitary Rapid Support Forces (RSF) during the country's ongoing civil war, now in its fourth year. State media announced the move as part of an effort to restore normal life to a city that saw more than five million residents flee after fighting erupted in April 2023. The government has also reopened Khartoum's main airport for some flights and is encouraging businesses and embassies to return.\n\nDespite the symbolic step, the situation remains fragile. Security patrols will continue operating and residents traveling at night must carry identification documents amid concerns about RSF infiltration. Widespread building damage, looting, and persistent power blackouts — attributed in part to alleged RSF drone strikes on electricity infrastructure — continue to hamper recovery efforts for the roughly two million people who have returned to the city.\n\nThe war is also showing signs of spreading beyond Sudan's borders. Chad has accused the Sudanese military of carrying out an air strike inside Chadian territory on August 20, prompting Chadian forces along the border to go on maximum alert. Sudan has denied the charge and called for an independent investigation. The broader conflict has produced one of the world's worst humanitarian crises, with millions displaced across the country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:34 AM MT",
+      "addedAtISO": "2026-08-28T10:34:47.967053-06:00",
+      "slot": 11
+    },
+    {
       "category": "technology",
       "headline": "Federal Judge Rules Pentagon Illegally Retaliated Against Anthropic Over AI Weapons Dispute",
       "summary": "A federal judge has ruled that the U.S. Department of Defense acted unlawfully when it designated AI startup Anthropic a supply-chain risk, calling the move \"illegal and baseless.\" U.S. District Judge Rita Lin found that the Pentagon had orchestrated an unlawful boycott of the company after Anthropic refused to allow its AI models to be used for surveillance or autonomous weapons systems — the first time an American company had ever received such a designation.\n\nJudge Lin wrote that invoking national security was \"not a blank check to punish and retaliate against government critics,\" and said the government had sought to \"cripple\" the company and \"chill public debate\" over military use of AI. She described the Pentagon's actions as \"classic First Amendment retaliation.\" The ruling follows a February designation under a law typically reserved for companies based in adversarial nations.\n\nThe dispute reflects a broader conflict between Silicon Valley AI firms and the Trump administration over the terms of military AI deployment. The White House had previously labeled Anthropic \"a radical left, woke company attempting to control military activity,\" while the Pentagon argued that private firms should not be able to constrain military operations. Anthropic maintained its Claude models were not reliable enough for weapons systems and that domestic surveillance use would violate civil rights.\n\nAnthropic welcomed the ruling, saying it remained focused on \"working productively with the government to harness AI for our national security so all Americans benefit.\" The Pentagon and White House had not responded to requests for comment at time of publication. The case is expected to set a significant precedent for how the government can pressure private AI companies over military contracting terms.",
