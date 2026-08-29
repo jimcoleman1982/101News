@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-29",
+  "dateFormatted": "Saturday, August 29, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Russian Drone Strike Kills at Least 28 Near Kyiv, Dozens Injured",
+      "summary": "An overnight Russian drone assault on the Kyiv region killed at least 27 people and injured 42 others, including four children, according to regional governor Tymur Tkachenko. The strikes hit the Bucha district and prompted the evacuation of 381 residents, with search-and-rescue teams inspecting damaged buildings into Saturday morning. A separate strike in the Boryspil district killed a 14-year-old, bringing the confirmed death toll to at least 28.\n\nPresident Volodymyr Zelensky condemned the attacks and said more than 300 emergency responders had been deployed to affected areas. The Ukrainian army reported shooting down 233 Russian unmanned aerial vehicles overnight. Zelensky also reported strikes in the regions of Odesa, Dnipropetrovsk, Sumy, and Zaporizhzhia.\n\nRussia also reported Ukrainian strikes on the Belgorod and Rostov regions, with the Rostov governor saying seven people were injured. The exchange marks a continued intensification of drone warfare on both sides, with Kyiv increasingly targeting Russian economic infrastructure.\n\nZelensky appealed for additional international support and sanctions against Russia, writing on Telegram that 'Ukraine cannot be alone in finding solutions to protect against such strikes.' The mass-casualty attack is one of the deadlier single strikes on the Kyiv region in recent months.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "3:58 AM MT",
+      "addedAtISO": "2026-08-29T03:58:03.432736-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "RFK Jr. Alleges Pennsylvania Measles Deaths May Have Been 'Fabricated,' Escalating Feud With Governor Shapiro",
+      "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. publicly suggested that two measles-associated deaths in Pennsylvania — including at least one newborn — may have been 'fabricated,' intensifying a public dispute with Democratic Governor Josh Shapiro over the state's handling of the outbreak. Kennedy made the claim late Wednesday; Shapiro called the statements 'inaccurate and misleading,' and the two exchanged pointed remarks both on social media and during separate press conferences.\n\nAnti-vaccine activists have reportedly sought to contact the families of the deceased in an effort to challenge the official cause of death, drawing condemnation from public health officials. Pennsylvania state health authorities have stood by their determination that the deaths were measles-associated.\n\nSupporters of Kennedy argue that scrutiny of public health data is legitimate, particularly given past instances of data disputes during the COVID-19 pandemic. Critics, including Shapiro and medical professionals, contend that Kennedy's claims undermine confidence in vaccination programs during an active outbreak and could fuel further spread of a preventable disease.\n\nThe confrontation is drawing national attention to ongoing tensions between the Trump administration's health leadership and state public health officials, as measles cases have risen across several states this year. A separate report indicates that documents contradict Kennedy's earlier congressional testimony about a 2019 trip to Samoa, adding pressure on the HHS secretary.",
+      "source": "The Hill",
+      "url": "https://thehill.com/newsletters/healthcare/6058655-rfk-jr-questions-measles-deaths-in-pennsylvania/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:58 AM MT",
+      "addedAtISO": "2026-08-29T03:58:03.432736-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Thousands March on Washington on 63rd Anniversary of 1963 March, With Focus on November Midterms",
+      "summary": "Thousands of demonstrators gathered on the National Mall Friday for a 'Defend the Vote' march marking the 63rd anniversary of the 1963 March on Washington, organized by Rev. Al Sharpton's National Action Network. Democratic House Minority Leader Hakeem Jeffries and Rep. Alexandria Ocasio-Cortez were among the speakers who framed the rally around the November midterm elections.\n\nOrganizers pointed to a recent Supreme Court ruling that weakened a key provision of the Voting Rights Act of 1965, making it harder to challenge racially discriminatory electoral maps, as a central motivation for the march. Civil rights leaders argued that voting rights are under renewed threat and called on supporters to mobilize for the fall elections.\n\nRepublicans and conservative commentators have countered that recent changes to election law are aimed at ensuring electoral integrity rather than suppressing votes, and that Democratic messaging around voting rights is primarily an electoral mobilization tactic ahead of competitive midterms. The march drew a broad coalition of civil rights organizations, labor unions, and Democratic activists.\n\nThe event reflects heightened Democratic urgency heading into the November elections, as the party seeks to recapture congressional majorities. Speakers invoked Martin Luther King Jr.'s legacy and called the midterms a defining moment for civil rights protections.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/6058105-jeffries-ocasio-cortez-midterms-march-on-washington/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:58 AM MT",
+      "addedAtISO": "2026-08-29T03:58:03.432736-06:00",
+      "slot": 5
+    },
+    {
+      "category": "other",
+      "headline": "CBC Reverses Guidance Barring Journalists From Calling 9/11 a 'Terrorist Attack'",
+      "summary": "Canada's public broadcaster, the Canadian Broadcasting Corporation, reversed an internal editorial policy Friday after widespread backlash over a leaked memo that instructed journalists not to describe Al Qaeda's September 11, 2001, attacks on the United States as 'terrorist attacks.' The memo, first reported by The Toronto Sun, sparked immediate condemnation from Canadian political leaders across party lines, days before the 25th anniversary observances.\n\nThe CBC said Friday it was walking back the guidance, acknowledging the criticism. The memo had reflected a longstanding CBC editorial standard discouraging the use of the word 'terrorism' in news reporting without attribution, a policy the broadcaster has maintained to avoid what it described as value-laden language — a rationale that critics found inapplicable to the 9/11 attacks.\n\nThe reversal came after politicians and commentators called the guidance an example of overcorrection in journalistic neutrality standards. The incident has reignited a broader debate in Canada and internationally about the appropriate boundaries of editorial restraint when describing events widely regarded as acts of mass-casualty terrorism.\n\nThe CBC's about-face ahead of the approaching anniversary of the attacks underscores the political sensitivity of the issue and the speed with which internal media policies can become public controversies in the social media era.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6058676-canada-cbc-9-11-terrorism-guidance-backlash/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:58 AM MT",
+      "addedAtISO": "2026-08-29T03:58:03.432736-06:00",
+      "slot": 5
+    }
+  ]
+}
