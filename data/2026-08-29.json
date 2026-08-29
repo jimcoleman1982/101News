@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Norway's King Haakon VIII Gives First Address to Nation After Father Harald V Dies at 89",
+      "summary": "King Haakon VIII of Norway delivered his first televised address to the nation on Saturday following the death of his father, King Harald V, who died Friday at age 89 after treatment for a rare blood condition. Speaking from the royal palace with a photograph of his father nearby, the 53-year-old new king paid an emotional tribute, saying 'Thank you for being such a good dad,' and acknowledged that 'a major task' now awaited him.\n\nHaakon stressed national unity and said the royal family believed in 'a society built on law and justice, where everyone is of equal value.' He noted the 'powerful and moving experience' of seeing thousands of Norwegians gather outside the palace with flowers and candles, and appeared to choke back tears as he observed that Saturday would have been his parents' 58th wedding anniversary. A national period of mourning has been declared, with no funeral date yet announced.\n\nHarald, who reigned for 35 years, was widely regarded as a modernizing 'people's king' who broke with tradition by marrying a commoner, Queen Sonja. He will be remembered as a unifying figure during difficult national moments. Haakon is set to swear an oath of allegiance to the constitution in parliament on September 1.\n\nHaakon assumes the throne at a complicated moment for the royal family. His wife, Queen Mette-Marit, faced public scrutiny earlier this year after revelations of a years-long friendship with the late convicted sex offender Jeffrey Epstein, for which she publicly apologized. Norway no longer holds coronations; instead, Haakon will participate in a consecration service with Mette-Marit.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:38 PM MT",
+      "addedAtISO": "2026-08-29T16:38:52.070475-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Former Ecuadorian President Lenín Moreno Sentenced to Five Years for Corruption",
+      "summary": "A court in Quito, Ecuador, found former President Lenín Moreno guilty of bribery on Saturday, sentencing him to five years in prison. Due to his age and disability, Moreno, 73, will serve his sentence under house arrest. He has indicated he will appeal the verdict. Nineteen other defendants, including Moreno's wife, daughter, and brother, were also convicted.\n\nProsecutors alleged that the Chinese state-owned firm Sinohydro paid a total of $76.1 million through shell companies to secure the contract to build the Coca Codo Sinclair hydroelectric dam. Moreno denied involvement and blamed his predecessor, former President Rafael Correa, under whom he had served as vice president, noting that Correa had signed off on the project. Correa was sentenced to eight years in prison in a separate bribery case in 2020.\n\nMoreno becomes the third former Ecuadorian president sentenced for corruption. Those convicted of bribery were ordered to repay three times the amount they received, while Moreno himself was barred from public office. The Ecuadorian government launched legal proceedings against Sinohydro in 2021 after cracks appeared in the dam, eventually reaching a $400 million settlement with the firm's parent company.\n\nThe case highlights ongoing concerns about Chinese state-owned enterprises' contracting practices in Latin America, as well as Ecuador's broader struggle with high-level corruption across successive administrations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:38 PM MT",
+      "addedAtISO": "2026-08-29T16:38:52.070475-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Uganda's King Oyo, World's Youngest Reigning Traditional Monarch, Dies at 34",
+      "summary": "King Oyo Nyimba Kabamba Iguru Rukidi IV of Uganda's Tooro kingdom, recognized by Guinness World Records as the world's youngest reigning traditional monarch, died Thursday at age 34. Oyo had become king at just three years old in 1995 following his father's death, with a regency overseeing the kingdom until his official coronation at 18. The Tooro kingdom did not disclose the cause of death, though a government minister indicated he had been critically ill and seeking medical treatment in the United States.\n\nOyo ruled over more than two million people in the Tooro kingdom of western Uganda, one of several traditional kingdoms that hold significant cultural authority despite lacking formal political power in the country's elected government. He was the 13th monarch of a kingdom founded in the early 19th century and was known for promoting youth empowerment, education, climate conservation, and HIV/AIDS awareness.\n\nTooro's Prime Minister Calvin Armstrong Rwomiire Akiiki described the king's passing as an 'immeasurable loss' and called on the people of Tooro to remain united and calm. He confirmed that 'the continuity of the Crown is assured,' noting that the king leaves behind a prince as his heir, whose identity will be revealed in accordance with the kingdom's traditions.\n\nThe Federation of Uganda Football Associations announced a moment of silence before all matches until September 4 in his honor. Uganda's government minister Margaret Muhanga described the mood in the kingdom as 'sombre,' saying the king was 'at the prime of his life.'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:38 PM MT",
+      "addedAtISO": "2026-08-29T16:38:52.070475-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
       "headline": "Niger Junta Says Army Mutiny Contained After Gunfire Erupts in Capital Niamey",
       "summary": "Niger's ruling military junta said Saturday it had contained a mutiny by soldiers who detained fellow military personnel at a base and fired on sites in the capital, Niamey. Gunfire was heard across the city before authorities announced they were regaining control. The incident marks the first significant internal challenge to the junta that seized power three years ago in a coup.\n\nDetails on casualties and the number of soldiers involved remained sparse Saturday, with the junta issuing limited public statements. Al Jazeera and Bloomberg Politics both reported the outbreak, with Niger's military insisting the situation was under control.\n\nNiger has been governed by a military council since the July 2023 coup that ousted President Mohamed Bazoum. The country subsequently expelled French forces and shifted diplomatic alignment toward Russia, deepening instability in the already volatile Sahel region. An internal military fracture, if not fully suppressed, could destabilize a country that has become a focal point of great-power competition in West Africa.\n\nThe mutiny's containment — or potential resurgence — carries implications beyond Niger's borders, as the Sahel faces overlapping jihadist insurgencies and the broader fragmentation of Western security partnerships in the region.",
       "source": "Bloomberg Politics",
