@@ -3,6 +3,48 @@
   "dateFormatted": "Saturday, August 29, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Ex-White House Teleprompter Operator Ordered to Pay $172,000 for Insider Betting on Trump Speeches",
+      "summary": "The Commodity Futures Trading Commission announced Friday that Gabriel Perez, a former White House teleprompter operator, has been ordered to pay more than $172,000 for using advance knowledge of President Trump's speeches to place bets on the prediction markets platform Kalshi. Perez must surrender $107,539 in profits and pay a $65,000 civil penalty, though the penalty was reduced due to his cooperation with investigators. He has also been banned from trading on such platforms for three years.\n\nThe CFTC said Perez 'misappropriated' his prior knowledge of Trump's speeches to place bets 'in breach of his duty of trust and confidence' between December 2025 and February 2026. Kalshi analysts first flagged unusual betting activity on 'mention markets' — contracts predicting whether a speaker will use specific words or phrases — and traced the activity to a federal employee operating White House teleprompters. The company then reported the activity to regulators.\n\nThe case highlights emerging legal and ethical questions surrounding political prediction markets, which allow users to wager on real-world events including presidential statements that can move financial markets. The White House Management Office had separately sent a letter to aides in July instructing them not to place bets on prediction markets. Perez had been placed on unpaid leave and was not expected to return to his post, according to former press secretary Karoline Leavitt.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o",
+      "sourceCount": 9,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:41 AM MT",
+      "addedAtISO": "2026-08-29T10:41:12.739397-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Update: Berlin Mayor Vows City Will Not Pay Hackers' Ransom as Stolen Data Auction Countdown Begins",
+      "summary": "Berlin Mayor Kai Wegner said Friday the city is being blackmailed following a ransomware attack that compromised city systems and exfiltrated data earlier this month. The ransom demand, received Thursday evening, is reported by Der Spiegel to be 30 bitcoin — approximately €2 million. Wegner declared that 'Berlin will not be blackmailed' and confirmed that state police, prosecutors, and federal security services are investigating with urgency.\n\nThe Rhysida hacking group, believed to operate from Russia and eastern Europe and previously responsible for an attack on the British Museum, has claimed responsibility. The group says it obtained 5.79 terabytes of data including contracts, personnel files, passwords, and thousands of personal contact details, and has begun a seven-day countdown on its dark web site after which it says it will auction the data. City officials acknowledged that housing benefit applications and payments were disrupted for several days following the attack and that personal data may have been compromised.\n\nThe attack is the most significant development yet in a story first reported earlier this month, now escalating with an active ransom deadline and a threatened public data auction. The incident comes roughly a month before Berlin holds city elections; state senator Iris Spranger sought to reassure residents that election infrastructure had not been compromised. The Rhysida group has claimed hundreds of attacks since emerging in 2023, targeting governments and institutions across multiple countries.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:41 AM MT",
+      "addedAtISO": "2026-08-29T10:41:12.739397-06:00",
+      "slot": 11
+    },
+    {
+      "category": "other",
+      "headline": "Dolly Parton's Imagination Library, Founded to Honor Her Illiterate Father, Has Mailed 300 Million Books to Children",
+      "summary": "Following the death this week of Dolly Parton at age 80, tributes have focused on the scale and impact of her Imagination Library program, which she launched in 1995 to honor her father, who never learned to read due to poverty in rural Appalachia. The program mails one free book per month to children from birth to age five, and by 2025 had distributed more than 300 million books — one every 78 seconds — across the United States, Canada, the United Kingdom, Australia, and Ireland.\n\nParton wrote that her father 'was the smartest man I have ever known,' but that his inability to read likely prevented him from realizing his full potential, making literacy outreach her personal mission. The program operates through partnerships with local organizations and has become embedded in the daily routines of families across multiple countries, with parents describing how the monthly books helped establish early reading habits in their children.\n\nFamilies interviewed by the BBC described the program's books as well-curated and emotionally resonant, including titles authored by Parton herself. The story of a toddler in Australia with speech delays whose first word was 'orange' — learned from an Imagination Library book about colors — became emblematic of the program's documented impact on early childhood development. Tennessee's governor has announced plans to name Nashville's international airport after Parton.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "10:41 AM MT",
+      "addedAtISO": "2026-08-29T10:41:12.739397-06:00",
+      "slot": 11
+    },
+    {
       "category": "business",
       "headline": "Trump Announces 'Biggest Oil Deal in World History' with Venezuela",
       "summary": "President Donald Trump announced Friday that the United States has entered into an agreement with Venezuela granting the U.S. majority control of approximately 65 billion barrels of proven Venezuelan oil reserves, which he described as the \"biggest oil deal in world history.\" The deal was brokered by Secretary of State Marco Rubio and the Defense Department through a partnership with private business, according to the White House. Venezuelan interim president Delcy Rodríguez said the agreement would help revive her country's economy.\n\nThe agreement comes roughly nine months after U.S. forces captured Venezuelan President Nicolás Maduro and brought him to the United States to face federal narcoterrorism and drug trafficking charges. A U.S. official said the deal would involve a partnership with a private company, with Bloomberg reporting discussions involving Venezuelan mogul Alejandro Betancourt. The arrangement is described as potentially creating the world's second-largest private oil company by reserves.\n\nDetails of the agreement's structure, timeline, and enforcement mechanisms remain unclear, with terms yet to be fully disclosed publicly. If realized, the deal would represent an unprecedented transfer of resource control from a sovereign nation to a foreign government and private partners, securing American petroleum supplies for decades, according to administration officials.\n\nSupporters argue the deal reflects a major geopolitical and economic win, locking in vast energy resources and rewarding diplomatic pressure on the Maduro government. Critics are likely to raise questions about the legality and precedent of a foreign government taking majority control of another country's national resources, as well as the long-term stability of any arrangement tied to Venezuela's volatile political situation.",
