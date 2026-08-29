@@ -3,6 +3,48 @@
   "dateFormatted": "Saturday, August 29, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Niger Junta Says Army Mutiny Contained After Gunfire Erupts in Capital Niamey",
+      "summary": "Niger's ruling military junta said Saturday it had contained a mutiny by soldiers who detained fellow military personnel at a base and fired on sites in the capital, Niamey. Gunfire was heard across the city before authorities announced they were regaining control. The incident marks the first significant internal challenge to the junta that seized power three years ago in a coup.\n\nDetails on casualties and the number of soldiers involved remained sparse Saturday, with the junta issuing limited public statements. Al Jazeera and Bloomberg Politics both reported the outbreak, with Niger's military insisting the situation was under control.\n\nNiger has been governed by a military council since the July 2023 coup that ousted President Mohamed Bazoum. The country subsequently expelled French forces and shifted diplomatic alignment toward Russia, deepening instability in the already volatile Sahel region. An internal military fracture, if not fully suppressed, could destabilize a country that has become a focal point of great-power competition in West Africa.\n\nThe mutiny's containment — or potential resurgence — carries implications beyond Niger's borders, as the Sahel faces overlapping jihadist insurgencies and the broader fragmentation of Western security partnerships in the region.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-29/niger-rulers-say-army-mutiny-contained-after-gunfire-in-capital",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "1:43 PM MT",
+      "addedAtISO": "2026-08-29T13:43:03.835463-06:00",
+      "slot": 14
+    },
+    {
+      "category": "business",
+      "headline": "Walmart Pays $50 Million to Settle Federal Opioid Lawsuit Over Illegal Prescriptions",
+      "summary": "Walmart has agreed to pay $50 million to settle a Justice Department lawsuit alleging that its pharmacies filled hundreds of thousands of illegal prescriptions for controlled substances, contributing to the opioid crisis, the DOJ announced Friday. The lawsuit, originally filed in 2020, accused the retail giant of failing to flag or report suspicious prescription orders at its pharmacy network.\n\nThe settlement resolves federal civil claims without an admission of wrongdoing by Walmart, which has maintained that its pharmacists acted appropriately. The company operates one of the largest pharmacy networks in the United States, with thousands of locations nationwide, giving its dispensing practices outsized influence on controlled substance distribution.\n\nThe opioid crisis has killed hundreds of thousands of Americans over the past two decades, prompting a wave of litigation against pharmaceutical manufacturers, distributors, and retailers. Major pharmacy chains including CVS, Walgreens, and Rite Aid have previously reached multibillion-dollar settlements over similar claims, making Walmart's $50 million agreement comparatively smaller given its market scale.\n\nThe DOJ did not announce criminal charges alongside the civil settlement. Consumer advocates and some lawmakers have argued that civil penalties alone are insufficient deterrents for large corporations, while the retail industry has pushed back on the premise that pharmacists bear primary responsibility for curbing opioid misuse driven by prescribing physicians.",
+      "source": "The Hill",
+      "url": "https://thehill.com/regulation/court-battles/6059138-walmart-opioid-lawsuit-settlement/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:43 PM MT",
+      "addedAtISO": "2026-08-29T13:43:03.835463-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Texas Gov. Abbott Orders State Agencies to Halt Funding for Flock License Plate Camera Network",
+      "summary": "Texas Gov. Greg Abbott this week ordered all state agencies to immediately stop funding Flock Safety cameras, AI-powered roadside license plate readers, amid mounting national concerns about privacy and potential misuse of the surveillance technology. The directive was communicated to agencies Thursday evening, coinciding with the Texas Tribune's preparation to publish an investigation revealing that a state agency had allocated at least $30 million to build out the state's Flock camera network.\n\nFlock Safety cameras automatically capture and log license plate data, allowing law enforcement to track vehicle movements across wide geographic areas. The technology has spread rapidly across municipalities and states in recent years, but it has drawn criticism from civil liberties organizations on both the left and right who argue the systems enable mass surveillance of Americans without individualized suspicion or adequate legal oversight.\n\nAbbott's move is notable given that Texas law enforcement agencies have been among the more aggressive adopters of the Flock network. Several cities nationwide have recently canceled Flock contracts following public backlash. The governor's order does not appear to ban the cameras outright but halts the use of state funds, leaving local governments to weigh their own continued use.\n\nThe decision puts Abbott, a Republican, in alignment with privacy advocates who have long objected to automated license plate reader networks, while also reflecting a broader national reckoning over the rapid deployment of AI-driven surveillance tools by government agencies with limited legislative guardrails.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/6058974-abbott-halts-texas-flock-agencies-funding/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:43 PM MT",
+      "addedAtISO": "2026-08-29T13:43:03.835463-06:00",
+      "slot": 14
+    },
+    {
       "category": "politics",
       "headline": "Ex-White House Teleprompter Operator Ordered to Pay $172,000 for Insider Betting on Trump Speeches",
       "summary": "The Commodity Futures Trading Commission announced Friday that Gabriel Perez, a former White House teleprompter operator, has been ordered to pay more than $172,000 for using advance knowledge of President Trump's speeches to place bets on the prediction markets platform Kalshi. Perez must surrender $107,539 in profits and pay a $65,000 civil penalty, though the penalty was reduced due to his cooperation with investigators. He has also been banned from trading on such platforms for three years.\n\nThe CFTC said Perez 'misappropriated' his prior knowledge of Trump's speeches to place bets 'in breach of his duty of trust and confidence' between December 2025 and February 2026. Kalshi analysts first flagged unusual betting activity on 'mention markets' — contracts predicting whether a speaker will use specific words or phrases — and traced the activity to a federal employee operating White House teleprompters. The company then reported the activity to regulators.\n\nThe case highlights emerging legal and ethical questions surrounding political prediction markets, which allow users to wager on real-world events including presidential statements that can move financial markets. The White House Management Office had separately sent a letter to aides in July instructing them not to place bets on prediction markets. Perez had been placed on unpaid leave and was not expected to return to his post, according to former press secretary Karoline Leavitt.",
