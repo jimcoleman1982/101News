@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-30",
+  "dateFormatted": "Sunday, August 30, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "2026 Midterm Primary Results: Key Races Decided Across the Country",
+      "summary": "Primary elections are being decided across the United States on August 30, 2026, with results rolling in from California, Alaska, and other competitive states as both parties assess the landscape ahead of November's general election. Republicans are defending majorities in an increasingly unstable political environment, with traditionally safe red seats growing competitive amid voter tensions over President Trump's economic agenda and the ongoing U.S.-Iran war. Democrats are targeting a handful of battleground states in their bid to reclaim a congressional majority.\n\nIn California's 14th Congressional District, Aisha Wahab has won her race with 99% of expected votes counted. In Alaska, Democrat Tom Begich dropped out of the governor's race on Friday evening, endorsing fellow Democrat Jonathan Kreiss-Tomkins to consolidate the party's support ahead of the November contest. The Alaska governor's race now features Kreiss-Tomkins as the leading Democratic challenger.\n\nRepublican strategists have expressed growing concern that the Iran war, now six months old with no clear exit strategy, could hurt the party's prospects in November. Democrats running in competitive districts are also navigating how closely to align themselves with former Vice President Kamala Harris, whose 2024 presidential loss has made her a polarizing figure in some swing districts. The midterm environment is being shaped by economic pressures from ongoing trade disputes, elevated gas prices tied to the Iran conflict, and immigration enforcement controversies.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/elections/2026/primary-results",
+      "sourceCount": 25,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:09 AM MT",
+      "addedAtISO": "2026-08-30T03:09:28.051592-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Iceland Votes Against Resuming EU Membership Talks in Closely Watched Referendum",
+      "summary": "Iceland has voted against resuming accession negotiations with the European Union, public broadcaster RUV reported on Saturday with nearly all votes counted. Approximately 52.5% of voters rejected the government's proposal to restart EU membership talks, while 47.5% voted in favor, with roughly 9,500 votes separating the two sides. The result is a setback for Prime Minister Kristrún Frostadóttir's centre-left government, which called the referendum earlier than planned amid heightened geopolitical tensions.\n\nThe government cited concerns including U.S. President Trump's threats toward Greenland and Russia's increased maritime activity near Iceland as reasons to accelerate the vote, but domestic economic issues ultimately dominated the campaign. Iceland's fishing industry, which accounts for nearly 40% of the country's exports, was the central point of contention. Many No voters feared that EU membership would force Iceland to cede control of its fishing grounds under the bloc's common fisheries policy, a concern that derailed Iceland's previous bid for membership after 2013.\n\nAlready integrated into the EU's single market and Schengen border-free zone, joining the EU would have brought Iceland into the customs union and eventually onto the euro. The result does not permanently foreclose the possibility of future membership talks. Prime Minister Frostadóttir said her government would continue its work regardless of the outcome, and a No vote does not constitutionally prevent a future government from revisiting the question.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:09 AM MT",
+      "addedAtISO": "2026-08-30T03:09:28.051592-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Manhunt Underway After Shooting at Swiss Rave Kills One Woman, Injures Five",
+      "summary": "A 22-year-old woman was killed and five others injured in a shooting at a rave event held at a horse racing track in Aarau, northern Switzerland, in the early hours of Sunday morning. Police said the shooting occurred around 02:30 local time during a techno event where up to 3,500 people were expected to attend. The five injured victims, four men and one woman aged between 24 and 27, were hospitalized with injuries ranging from minor to severe.\n\nAargau Cantonal Police confirmed the perpetrator's identity, motive, and the exact circumstances of the shooting remain unknown, and a large-scale manhunt is underway. An extensive police presence was deployed in and around Aarau, with armed officers reported up to 30 kilometers from the scene and an armored vehicle blocking a road near the racing track. The regional disaster response unit and a Swiss Army helicopter were also deployed.\n\nSwitzerland has one of the highest rates of gun ownership in Europe, though violent shootings are rare. Tighter firearm controls were introduced in recent years. Police have asked witnesses to submit photographs and video from the event and urged the public to avoid the cordoned area around the racing track, swimming pool, and sports field.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:09 AM MT",
+      "addedAtISO": "2026-08-30T03:09:28.051592-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "WhatsApp Group Chat Used to Funnel Hundreds of Millions in Cash to Criminals and Extremists Across Europe",
+      "summary": "A joint investigation by the European Broadcasting Union's network of public broadcasters, including the BBC, has uncovered a 532-member WhatsApp group chat used to move hundreds of millions of euros in cash across borders for organized crime networks and extremist groups, with no electronic paper trail. The group, called \"Traders of Greater Europe,\" operated using the ancient hawala money transfer system, allowing funds to be sent globally without moving physical banknotes through the formal banking system. In at least one case, payments from Brussels were traced to Islamic State militants in Syria.\n\nThe cache of more than 82,000 messages, sent between late February and December 2022, was first uncovered by Belgian investigating magistrate Vincent Guerra. The evidence formed the basis of a 2024 Belgian court case that convicted six money launderers, including the network's Brussels leader. Guerra described the volume of transactions as \"staggering\" and said the network operated across \"the entire planet,\" with the terror financing investigation eventually revealing itself to be \"just a drop in the ocean of transactions.\"\n\nThe network was also found to have facilitated people smuggling and drug trafficking. The group chat was reserved for transactions above €5,000, with many payments substantially larger. Hawala transfers are illegal in most EU countries but are legal in the United Kingdom when brokers register with HMRC. Investigators said the case highlights the growing use of encrypted messaging platforms and informal money transfer networks by criminal and extremist organizations to evade the conventional banking system's anti-money-laundering controls.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:09 AM MT",
+      "addedAtISO": "2026-08-30T03:09:28.051592-06:00",
+      "slot": 5
+    }
+  ]
+}
