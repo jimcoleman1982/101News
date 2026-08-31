@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, August 31, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "FTC and 22 States Sue Amazon Over Secretly Inflated Advertising Prices",
+      "summary": "The Federal Trade Commission and a bipartisan coalition of 22 states filed a lawsuit Monday against Amazon, alleging the e-commerce giant secretly inflated advertising prices paid by more than 1.2 million sellers and brands over the past seven years. The complaint, filed in the Western District of Washington, alleges Amazon imposed hidden surcharges that resulted in advertisers being overcharged by tens of billions of dollars. Amazon denied the claims.\n\nThe suit represents one of the most significant antitrust actions against Amazon to date and follows earlier FTC litigation targeting the company's retail marketplace practices. The bipartisan nature of the state coalition — spanning both Republican- and Democratic-led states — signals broad political appetite for reining in Amazon's advertising business, which has grown into one of the largest in the world behind Google and Meta.\n\nAmazon's advertising segment generates more than $50 billion annually and has become a central profit driver for the company. Regulators argue the alleged hidden surcharges distorted competition and harmed small businesses that depend on Amazon's platform to reach customers. The company maintains its advertising products are fairly priced and competitive.\n\nThe case adds to a growing wave of federal and state antitrust enforcement targeting major technology platforms. A ruling against Amazon could reshape how the company prices and discloses advertising fees, with potential ripple effects across the broader digital advertising industry.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:45 PM MT",
+      "addedAtISO": "2026-08-31T16:45:33.567391-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Trump Presses Apple to Rename Lake Ontario to 'Lake America' After Google Complies",
+      "summary": "President Trump has personally contacted Apple to request the company rename Lake Ontario as 'Lake America' on its Maps platform, Interior Secretary Doug Burgum confirmed Monday. Burgum said Trump reached out to Apple directly and indicated the change was likely imminent. Google updated its maps over the weekend, displaying 'Lake America' for U.S.-based users while retaining 'Lake Ontario' for Canadian users and showing both names internationally.\n\nTrump signed an executive order last week directing the renaming of Lake Ontario, framing it as a response to the breakdown of U.S.-Canada trade negotiations. The order directs Burgum to update the Geographic Names Information System, the official U.S. government database. Not all platforms are complying: MapQuest publicly refused the change, gained top placement on the Canadian App Store as a result, and released a tool letting users rename the lake themselves.\n\nThe renaming has provoked a sharp backlash in Canada. Ontario Premier Doug Ford unveiled a lakeside sign reading 'Lake Ontario Now and Always' in English and French, declaring the lake's name would not change regardless of U.S. directives. Several Ontario-based utilities and agencies briefly displayed the 'Lake America' label due to third-party mapping services, then apologized and said they were working to restore the original name.\n\nThe episode has become a flashpoint in the broader and deteriorating U.S.-Canada relationship, with the trade war generating economic friction on both sides of the border. Treasury Secretary Scott Bessent on Monday accused Canadian Prime Minister Mark Carney of walking away from a trade deal for domestic political reasons, a charge Carney's government has rejected.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:45 PM MT",
+      "addedAtISO": "2026-08-31T16:45:33.567391-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Bessent Meets Russian Finance Minister at G20, Signaling U.S. Openness to Engagement with Moscow",
+      "summary": "Treasury Secretary Scott Bessent met Monday with Russian Finance Minister Anton Siluanov on the sidelines of the G20 summit in Asheville, North Carolina, the Russian government confirmed. The meeting marks the first time Russia's top financial official has attended a G20 gathering in person since Moscow's 2022 invasion of Ukraine, and represents a notable step toward high-level economic engagement between Washington and Moscow.\n\nThe encounter underscored a sharp divergence between the United States and its European allies over how to treat Russia diplomatically and economically. European governments, which have pursued coordinated sanctions and sought to isolate Moscow in international forums, have watched the Trump administration's warming posture toward Russia with growing alarm. Bessent's meeting with Siluanov came on the same day he opened the G20 with a vow of more Iran sanctions, reflecting the administration's selective approach to financial pressure.\n\nThe Trump administration has signaled broader interest in restarting dialogue with Russia, including through Driscoll's earlier involvement in back-channel discussions aimed at ending the war in Ukraine. Critics, including many European officials and U.S. Democrats, argue that engaging Russia at venues like the G20 legitimizes an aggressor and undermines the sanctions architecture built since 2022. Supporters of the approach contend diplomatic engagement is necessary to eventually negotiate a settlement in Ukraine.\n\nThe Bessent-Siluanov meeting had not been publicly announced in advance and was disclosed by the Russian government. The U.S. Treasury Department had not issued a public statement on the meeting as of Monday.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/31/bessent-russia-g20-europe",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:45 PM MT",
+      "addedAtISO": "2026-08-31T16:45:33.567391-06:00",
+      "slot": 18
+    },
+    {
       "category": "politics",
       "headline": "Update: House Returns from Recess with Government Shutdown Vote as Top Priority",
       "summary": "The U.S. House of Representatives returned Monday from a five-week August recess with lawmakers facing a critical vote on a stopgap spending bill to keep the federal government funded through early December. The measure is designed to avert a shutdown before the November midterm elections, now nine weeks away. House Minority Leader Hakeem Jeffries (D-N.Y.) spoke with reporters as Democrats sought to frame the week's agenda ahead of an election in which they are trying to retake the chamber.\n\nLawmakers are also expected to vote on a resolution condemning socialism and on a motion to censure Republican Rep. Chuck Edwards. The compressed legislative calendar reflects the intense pressure both parties face heading into midterms, with control of the House and Senate both in play.\n\nThe return to Washington comes amid a turbulent backdrop: renewed U.S.-Iran hostilities, rising gas prices, expiring Affordable Care Act subsidies that have pushed up insurance costs, and a series of senior White House staff departures. Rep. James Clyburn (D-S.C.) told NBC's Meet the Press that if Democrats retake the House, they should focus on affordability rather than pursuing impeachment proceedings against President Trump.\n\nRepublicans argue they have delivered on economic and border security priorities and that the spending bill reflects fiscal responsibility. Democrats counter that the administration's tariff and foreign policy decisions have created economic instability that demands a change in congressional leadership.",
