@@ -3,6 +3,48 @@
   "dateFormatted": "Tuesday, September 1, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Masked Israeli Settlers Attack NBC News Crew and Palestinian Family in West Bank",
+      "summary": "Masked Israeli settlers attacked an NBC News crew and a Palestinian family in the West Bank on Saturday, beating a Palestinian woman unconscious and injuring two NBC News staffers with clubs. The crew was interviewing Palestinian resident Aida Ahmed Abdullah near the village of Qusra when a vehicle with Israeli license plates pulled up and a group of masked men wielding sticks launched the assault. A producer on the crew reported seeing a gun, though it was not used.\n\nIsraeli Prime Minister Benjamin Netanyahu condemned the attack, calling it the work of a \"handful of rioters\" that \"harms Israel's standing in the world.\" A Netanyahu spokesman described the violence as a \"grave injustice\" and pledged that those responsible would face prosecution, adding that the government would \"not tolerate vigilantism of any kind.\"\n\nHuman rights groups had previously documented settlers encircling Palestinian homes in Qusra beginning in early August in what they characterized as an attempt to seize privately owned land, with Israeli soldiers present but not enforcing an order barring Israelis from entering the area. The incident has drawn condemnation across the political spectrum given that it was captured on video and involved international journalists.\n\nThe attack comes amid heightened tensions in the West Bank and adds to international scrutiny of settler activity. Supporters of Israeli settlement policy distinguish between isolated criminal acts and broader policy, while critics argue the attack reflects a pattern of settler violence that Israeli authorities have failed to adequately restrain.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/masked-israeli-settlers-attack-nbc-news-crew-palestinian-family-west-bank",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:55 PM MT",
+      "addedAtISO": "2026-09-01T13:55:19.305683-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "U.S. Officials Defend Deal Giving America Preferential Access to Venezuelan Oil Fields",
+      "summary": "Trump administration officials are publicly defending a landmark agreement that gives the United States preferential access to output from 17 major Venezuelan oil fields, including the first option to purchase a significant share of crude production and veto power over board appointments at the operating company. The deal is structured through North American Blue Energy Partners (NABEP), headed by Venezuelan businessman Alejandro Betancourt, with the Pentagon's Office of Strategic Capital playing a central role.\n\nBetancourt, 46, is a colorful and controversial figure who officials say played a crucial role in helping the Trump administration oust former President Nicolás Maduro. He has a checkered past, however, and his prominent role in the agreement has drawn scrutiny from lawmakers and analysts concerned about the U.S. government aligning with a controversial private operator in a country long plagued by corruption.\n\nChevron, the only major U.S. oil company with a significant existing presence in Venezuela, is positioned as a secondary participant under the arrangement. The deal is described as unprecedented in the degree of control it gives the U.S. government over a foreign nation's private energy sector and represents a dramatic shift in American policy toward Venezuela following Maduro's removal.\n\nProponents argue the agreement advances U.S. energy security interests and rewards cooperation in the effort to democratize Venezuela, while critics question the ethics and legality of such deep U.S. involvement with a politically connected foreign businessman and warn of potential blowback if the arrangement is perceived as resource extraction rather than partnership.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/01/us-officials-defend-deal-venezuelan-oil-baron",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:55 PM MT",
+      "addedAtISO": "2026-09-01T13:55:19.305683-06:00",
+      "slot": 14
+    },
+    {
+      "category": "other",
+      "headline": "Jury in Lindsay Clancy Triple-Murder Trial Deadlocked; Judge Orders Deliberations to Continue",
+      "summary": "Jurors in the Massachusetts murder trial of Lindsay Clancy declared themselves deadlocked Tuesday after three days of deliberations, prompting audible gasps in the courtroom as the judge read aloud the jury's note. Judge William Sullivan ordered the nine-woman, three-man jury to continue deliberating rather than declaring a mistrial, a standard procedural step in cases where jurors have not yet exhausted their efforts to reach a verdict.\n\nClancy, 36, a former nurse, is charged with three counts of first-degree murder for strangling her three children — Cora, 5, Dawson, 3, and Callan, 8 months — with fitness bands at the family's Duxbury, Massachusetts home in January 2023. Her defense does not dispute that she carried out the killings, but argues she was suffering from severe postpartum psychosis at the time and was unable to distinguish right from wrong. The prosecution contends the killings were calculated and intentional.\n\nClancy, who was paralyzed after jumping from a second-floor window shortly after the deaths, appeared stoic in her wheelchair as the deadlock was announced. Legal experts told the BBC that deadlocks are not unusual in emotionally charged trials involving mental health defenses, and that the judge may eventually issue a \"dynamite\" instruction urging jurors to reconsider their positions before any mistrial is declared.\n\nA first-degree murder conviction would carry a mandatory sentence of life without parole. The jury could also consider lesser charges including second-degree murder or manslaughter. The case has drawn national attention as a flashpoint in debates over postpartum mental illness, criminal responsibility, and the adequacy of psychiatric care for new mothers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:55 PM MT",
+      "addedAtISO": "2026-09-01T13:55:19.305683-06:00",
+      "slot": 14
+    },
+    {
       "category": "politics",
       "headline": "USPS Whistleblower Warns New Mail-Ballot System Could Fail, Jeopardizing Midterms",
       "summary": "A U.S. Postal Service whistleblower has alleged that the agency defied court orders while rushing to build a new ballot-vetting system that could reject thousands of mail ballots in November's midterm elections. The whistleblower, described as a federal official, disclosed the concerns to Democratic Sen. Richard Blumenthal of Connecticut, warning the system was assembled in roughly three months rather than the nine to twelve months normally required for a project of such complexity.\n\nThe system stems from a Trump executive order directing the federal government to generate lists of confirmed U.S. citizens eligible to vote — part of the administration's broader push to restrict mail voting, which is currently stalled in the courts. The whistleblower said the system is riddled with errors and that a single scanning glitch could cause entire batches of ballots to be turned away, potentially disenfranchising millions of the roughly one-third of voters who rely on mail ballots.\n\nSen. Blumenthal called the project 'perilously rushed and potentially unlawful.' Supporters of the administration's voting-integrity initiative argue the measures are necessary to prevent fraud and ensure only eligible citizens cast ballots. Critics, including voting-rights groups, contend the system poses a direct threat to election integrity ahead of a consequential midterm cycle.\n\nThe disclosure adds to ongoing legal battles over Trump's voting restrictions and raises fresh questions about whether federal election infrastructure can withstand the accelerated timeline. Courts have already blocked portions of the executive order, and the whistleblower's account is expected to factor into pending litigation.",
