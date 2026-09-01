@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-01",
+  "dateFormatted": "Tuesday, September 1, 2026",
+  "stories": [
+    {
+      "category": "science_health",
+      "headline": "NASA Launches $4 Billion Nancy Grace Roman Space Telescope",
+      "summary": "NASA launched the Nancy Grace Roman Space Telescope, a roughly $4 billion mission described as the agency's most ambitious yet for studying the universe at large scale. The telescope features a mirror the same diameter as Hubble but surveys space 1,000 times faster, capable of generating approximately 1.5 terabytes of data per day.\n\nThe Roman telescope's primary scientific targets are dark energy and dark matter, which together account for an estimated 95 percent of the universe but remain poorly understood. Scientists expect the mission to identify as many as 100,000 new exoplanets, compared with roughly 6,000 confirmed today. NASA Administrator Jared Isaacman and agency science leaders described the telescope as a wide-angle \"scout\" that will complement the more focused James Webb Space Telescope.\n\nDark matter is theorized to be an invisible gravitational scaffold holding galaxies together, while dark energy is the mysterious force driving the universe's accelerating expansion. The Roman telescope's panoramic capabilities are expected to map both phenomena across vast stretches of the cosmos in ways previously impossible with existing instruments.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/how-nasas-new-space-telescope-could-help-solve-mysteries-of-dark-energy-and-dark-matter",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:22 AM MT",
+      "addedAtISO": "2026-09-01T03:22:21.590654-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Tropical Storm Edouard Forms in Gulf of Mexico, Threatens Texas and Louisiana with Flooding",
+      "summary": "Tropical Storm Edouard formed Monday in the Gulf of Mexico and was expected to make landfall along the Texas coast on Tuesday, with the National Hurricane Center warning of potentially severe flooding across southeastern Texas and southwestern Louisiana. As of early Tuesday, the storm carried maximum sustained winds of 40 mph and was located approximately 85 miles southeast of Cameron, Louisiana.\n\nForecasters are projecting 3 to 6 inches of rain for the greater Houston area, with some portions of Texas's upper Gulf Coast receiving up to 9 inches. The National Hurricane Center warned that rainfall rates exceeding 4 inches per hour could cause flash flooding in low-lying and urban areas. Texas Governor Greg Abbott identified flooding as the primary hazard and said the state was prepared.\n\nSeparately, Tropical Storm Lowell was tracking toward Hawaii with sustained winds of 70 mph and forecasters said it could rapidly intensify into a major hurricane by Wednesday. In the Pacific, Hurricane Karina reached Category 4 strength with 130 mph winds but was not threatening any landmass.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/01/us-news/tropical-storm-edouard-forms-near-texas-and-louisiana-while-a-storm-moves-toward-hawaii/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:22 AM MT",
+      "addedAtISO": "2026-09-01T03:22:21.590654-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Nepal-China Border Flood: New Details Emerge on Scale of Destruction at Rasuwagadhi Crossing",
+      "summary": "New reporting and satellite imagery have revealed the full extent of the August 26 flash flood that destroyed the Nepal-China border crossing at Rasuwagadhi, including CCTV footage showing a wall of water, mud, and boulders sweeping through Gyirong on the Chinese side at 10:59 a.m. local time. The Friendship Bridge linking the two countries was swept away along with Nepal's immigration and customs facilities, and at least 275 Indians remain missing, according to India's foreign ministry.\n\nElectronic immigration records show 89 Nepali and foreign nationals had cleared the border to enter Tibet in the hours before the disaster, including 32 Indians, 12 Chinese nationals, and nine Americans, as well as citizens of Britain, Canada, Australia, and Italy. The final transaction was recorded at 8:35 a.m., less than ten minutes before the floodwaters appeared on the CCTV footage. Four immigration employees went missing; the body of the office chief was recovered downstream, while a female official who logged the final entries remains missing.\n\nHydrologist Ajay Dixit described the region as geologically vulnerable, characterized by deep gorges and high-velocity rivers carrying heavy sediment and boulders. The route is a major gateway for pilgrims, traders, and tourists traveling between Nepal and Tibet, and its destruction has severed a historically significant trans-Himalayan corridor. This story updates previous coverage of the Nepal-Tibet flooding disaster with new details on the timeline, the identities of those at the crossing, and the mechanism of the flood.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 6,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:22 AM MT",
+      "addedAtISO": "2026-09-01T03:22:21.590654-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Zambia's Hichilema Sworn In for Second Term as Opposition Leader Faces Treason Charges",
+      "summary": "Zambian President Hakainde Hichilema was sworn in Tuesday for a second five-year term following an August 13 election in which he received 60 percent of the vote, according to official results. The inauguration proceeded despite a contested outcome and the arrest of his main challenger, Brian Mundubile, who received 38 percent and alleged the results were tampered with.\n\nMundubile was unable to file a legal challenge after courts were sealed on the final day available for appeals. European Union election observers acknowledged a largely peaceful polling day but raised concerns about the vote tallying process, noting that results were frequently not recorded on tally sheets as announced and that returning officers paused proceedings while awaiting instructions from headquarters. The day after the election, security forces raided a property linked to Mundubile, killing a former cabinet minister and arresting opposition politicians; authorities accused the opposition of planning an armed insurrection, which it denied.\n\nMundubile and his running mate were charged with treason at the weekend after being detained while in hiding. Heads of state from Kenya, Botswana, Zimbabwe, Namibia, and Tanzania attended the Lusaka ceremony. Hichilema, a former businessman who took office in 2021 when Zambia had recently defaulted on its international debt and faced inflation above 24 percent, has been credited with restructuring the country's finances and rebuilding relations with foreign creditors.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:22 AM MT",
+      "addedAtISO": "2026-09-01T03:22:21.590654-06:00",
+      "slot": 5
+    }
+  ]
+}
