@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Gaza Death Toll Since October Ceasefire Exceeds 1,300, Including 301 Children, Hamas Health Ministry Says",
+      "summary": "More than 900 people have been killed in Israeli strikes in Gaza since the start of 2026 alone, bringing the total death toll since a ceasefire was declared on October 10 of last year to more than 1,300, according to Gaza's Hamas-run Ministry of Health. The figures include 301 children. The ceasefire, agreed under U.S. President Donald Trump's 20-point peace plan, explicitly called for a suspension of all military operations including aerial and artillery bombardment.\n\nBBC Verify has independently analyzed dozens of videos documenting Israeli strikes during the ceasefire period on locations including a beachside cafe, displacement tents, and a reported funeral procession in central Gaza. Conflict monitoring group ACLED has recorded approximately 200 Israeli strikes since October, which the IDF says targeted Hamas operatives and commanders involved in planning the October 7, 2023 attack.\n\nThe Israel Defense Forces disputes the health ministry's casualty figures, stating there is \"no basis to assume\" all listed deaths resulted from IDF activity. The IDF says it operates \"in a precise manner\" to neutralize threats while mitigating civilian harm, and reports that five Israeli soldiers and one contractor have been killed since the ceasefire began. The UN considers the Hamas ministry's figures broadly reliable, and independent analysts say their data is consistent with the ministry's reporting.\n\nThe highest monthly death toll during the ceasefire period was recorded in July, when 152 people were killed including 21 children. Senior analysts describe the situation as \"a ceasefire in name only,\" while Israeli officials maintain they are acting against legitimate military targets within the terms of the agreement.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:45 PM MT",
+      "addedAtISO": "2026-09-02T13:45:43.667207-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Gallup Poll: 89 Percent of Americans Say Government Corruption Is Widespread, a 20-Year High",
+      "summary": "A new Gallup survey released Wednesday found that 89 percent of U.S. adults believe government corruption is widespread — a 10-percentage-point increase from last year and the highest recorded level in two decades. The surge comes following President Donald Trump's return to office and arrives as public trust in American institutions hovers near historic lows across multiple independent measures.\n\nThe poll adds to a growing body of survey data showing deep public skepticism about federal institutions. Supporters of the Trump administration argue that the perception of corruption reflects longstanding grievances about career government bureaucracy and the \"deep state\" that Trump has long pledged to dismantle, and that anti-corruption sentiment was a driver of his 2024 electoral victory. Critics contend the rise reflects specific concerns about conflicts of interest, politicization of the Justice Department, and the blurring of lines between government action and private benefit under the current administration.\n\nThe results carry particular salience with midterm elections approaching in November. Both parties are seeking to frame the corruption issue to their advantage — Republicans emphasizing institutional overhaul and Democrats focusing on executive branch conduct and erosion of regulatory norms.\n\nGallup's survey is one of the most widely watched long-term trackers of American attitudes toward government integrity. The 89 percent figure is notable for its breadth, suggesting pessimism about government corruption cuts across partisan and demographic lines rather than reflecting purely partisan responses to the current administration.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/02/government-corruption-gallup-poll-2026-trump",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:45 PM MT",
+      "addedAtISO": "2026-09-02T13:45:43.667207-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Update: Iran Calls U.S. Strike on Wedding Ceremony a 'War Crime'; Tehran Retaliates Across Middle East",
       "summary": "Iran's foreign ministry condemned U.S. airstrikes that killed four people, including two children, and wounded 67 others at a wedding celebration in Sirik county, southern Iran, calling the attack a \"war crime.\" U.S. Central Command said it is \"looking into\" the reports but stressed that \"the US military never targets civilians, unlike the IRGC.\" A weapons expert consulted by BBC Verify said fragments recovered at the site match a cruise missile type used by U.S. forces.\n\nIn retaliation, Tehran launched missile and drone attacks against American targets across the Middle East, striking facilities in Kuwait, Jordan, Iraq, and Bahrain. Iran's Revolutionary Guards claimed an \"intense ballistic missile attack\" on U.S. Marine Corps base Camp Titin in Jordan. The BBC's Middle East correspondent described the exchange as a serious escalation beyond the weekend clashes that had briefly raised hopes of a contained flare-up.\n\nThe civilian casualty allegations are intensifying political pressure on the administration. Critics argue the strikes risk broadening the conflict and alienating regional partners, while supporters of the U.S. campaign contend Iran's use of civilian areas as cover for military infrastructure complicates targeting. U.S. Treasury Secretary Scott Bessent, speaking on Fox News, urged all nations to halt trade with Iran, saying sanctions will \"asphyxiate the regime.\"\n\nIranian economists have warned of the possibility of hyperinflation as the economic pressure campaign deepens, though the Central Bank governor acknowledged worsening hardship while downplaying the most severe projections. Energy markets responded sharply to the renewed hostilities, with fears growing that the conflict could become open-ended and further disrupt oil flows through the Strait of Hormuz.",
       "source": "BBC News",
