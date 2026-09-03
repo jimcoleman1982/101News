@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, September 2, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump Signs Stopgap Funding Bill, Averting Government Shutdown Through December",
+      "summary": "President Trump on Wednesday signed a continuing resolution into law, funding the federal government through December 11 and temporarily averting a shutdown. The measure, titled the \"Continuing Appropriations and Extensions Act, 2027,\" passed both chambers of Congress before reaching the president's desk.\n\nThe stopgap keeps federal agencies operational through November's midterm elections and into December, giving Congress additional time to negotiate full-year spending bills. The deadline had loomed as a significant political flashpoint heading into the midterms.\n\nThe signing represents a short-term resolution to one of Washington's recurring budget standoffs. Lawmakers will face the funding deadline again in December, meaning another round of negotiations — and potential shutdown threats — lies ahead before year's end.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6067996-trump-stopgap-funding-law-government-shutdown/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-02T21:08:25.287187-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Maltese Businessman Acquitted in 2017 Car Bomb Killing of Journalist Daphne Caruana Galizia",
+      "summary": "A Maltese court on Wednesday acquitted businessman Yorgen Fenech in the murder of investigative journalist Daphne Caruana Galizia, who was killed by a car bomb in October 2017. The verdict closes a landmark prosecution that had been seen as a test of accountability in the European Union's smallest member state.\n\nCaruana Galizia had written extensively about alleged corruption in Malta's political and business elite before her assassination at age 53. Her killing triggered widespread protests in Malta, ultimately bringing down Prime Minister Joseph Muscat's government, and galvanized press freedom advocates across Europe.\n\nThe acquittal is expected to reopen painful questions about whether those who ordered her killing have ever truly faced justice. Three men previously confessed to carrying out the bombing and were convicted, but higher-level accountability has remained contested throughout the years-long legal proceedings.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5954420/daphne-caruana-galizia-case-yorgen-fenech-acquitted-malta",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-02T21:08:25.287187-06:00",
+      "slot": 21
+    },
+    {
+      "category": "business",
+      "headline": "Update: Rising Bond Yields Hit Highest Levels in Over a Year, Threatening Mortgages and Consumer Loans",
+      "summary": "Interest rates on government bonds continued climbing this week, with the yield on the 10-year U.S. Treasury reaching 4.80% on Tuesday — its highest level since early 2025 — while the 5-year Treasury hit its highest since October 2025 at 4.55%. The moves are rippling through consumer finance, pushing up costs on mortgages, auto loans, and business borrowing.\n\nSeveral forces are driving the increase: persistent inflation concerns tied in part to rising oil prices from the U.S.-Iran conflict, large federal budget deficits requiring heavy government borrowing, massive tech-sector debt issuance to fund AI infrastructure, and a signal last Friday from Federal Reserve Chair Kevin Warsh that the central bank may raise its short-term rate if inflation remains elevated.\n\nTreasury Secretary Scott Bessent has already undertaken an unusual bond-market intervention to restrain yields and downplayed the severity of the situation in remarks Tuesday, saying \"I don't think we are in any kind of a dire situation.\" But economists warn the pressure is building. \"You should care because this stuff under the surface is really bubbling,\" said Robin Brooks of the Brookings Institution, noting that policymakers' growing agitation itself signals concern about where yields are headed.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/economy/why-bond-yields-are-rising-and-why-everyone-should-care",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-02T21:08:25.287187-06:00",
+      "slot": 21
+    },
+    {
       "category": "world",
       "headline": "Update: Iran Attacks Saudi Tanker in Strait of Hormuz, Killing Two Filipino Sailors",
       "summary": "Saudi Arabia has condemned an Iranian attack on the Saudi-owned supertanker Sidr that killed two Filipino sailors while the vessel transited the Strait of Hormuz late Monday. Maritime security firms reported the ship was struck by unknown projectiles about 16 nautical miles northeast of Khasab, Oman; a South Korean-owned supertanker, Senegal Prosperity, was hit in the same area at roughly the same time. Both vessels were loaded with approximately two million barrels of Saudi crude oil each.\n\nIran denied targeting the ships deliberately, claiming through its Islamic Revolutionary Guard Corps that the two tankers caught fire after striking mines while using an unauthorized route through the strait. Saudi Arabia's foreign ministry issued an explicit condemnation naming Iran as responsible, and also denounced recent Iranian attacks on Jordan, Bahrain, and Kuwait, calling for an end to escalation and respect for international navigation safety.\n\nThe tanker strikes occurred the same night as a broad U.S.-Iran military exchange in which Iran's health ministry said 18 people were killed and 108 injured in American air strikes, and Iran accused the U.S. of a war crime over a strike near a wedding party. The Strait of Hormuz carries roughly a fifth of global oil supplies, and disruptions there have immediate implications for energy markets worldwide. The UK Maritime Trade Operations agency separately confirmed both incidents.\n\nSaudi Arabia's public attribution of the attack to Iran marks a significant diplomatic escalation between Riyadh and Tehran at a moment when the broader U.S.-Iran conflict is already driving up global oil prices. The deaths of the Filipino sailors add a new human dimension and a third country's government to the diplomatic fallout from the ongoing maritime confrontation.",
