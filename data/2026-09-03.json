@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-03",
+  "dateFormatted": "Thursday, September 3, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Iran Strikes U.S. Allies in Gulf After American Forces Hit Wedding Party, Kill Four",
+      "summary": "Iran launched missile and drone attacks against American bases and allies across the Gulf region on Wednesday, following a new wave of U.S. strikes along Iran's southern coast that killed at least 18 people, according to Iran's health minister. The escalation included a U.S. strike that hit a home hosting a wedding in Kuhestak, a small town overlooking the Strait of Hormuz, killing two women and two children aged 4 and 16, and wounding at least 68 others. Iran said it then struck targets in Kuwait and the UAE in retaliation.\n\nThe U.S. military also struck two Iranian government tankers as part of Tuesday's operations — the first time American forces have hit Iranian tankers in retaliation for attacks on shipping, rather than to enforce the naval blockade. U.S. officials confirmed this was part of a new \"tanker for tanker\" policy approved by President Trump to deter Iranian attacks on commercial vessels in the Strait of Hormuz.\n\nPresident Trump said at the White House that the renewed campaign would not last long but threatened to hit Tehran \"very hard\" if the Strait of Hormuz conflict remains unresolved. Trump also downplayed the war's potential impact on Republican candidates in the November midterms, saying he plans to campaign for GOP candidates in competitive races in Alaska and Texas.\n\nTrump faces mounting pressure to avoid an escalatory spiral, with the U.S. military under significant strain and his approval rating at a record low of 33 percent. Critics across the political spectrum have raised alarm over the wedding strike and the broader trajectory of the conflict, while administration supporters argue the \"tanker for tanker\" policy is necessary to deter Iranian aggression and protect global oil flows through the strait.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-us-strikes-hormuz-trump-september-2-2026-cc891e22860d7a53bf7ade9a3d74c0ae",
+      "sourceCount": 18,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-03T05:08:31.825343-06:00",
+      "slot": 5
+    },
+    {
+      "category": "other",
+      "headline": "Gloria Steinem, Feminist Icon and Co-Founder of Ms. Magazine, Dies at 92",
+      "summary": "Gloria Steinem, one of the most prominent figures of the American women's liberation movement, died peacefully at her home in New York City, her foundation announced Wednesday. She was 92 and was surrounded by loved ones at the time of her death.\n\nSteinem co-founded Ms. magazine in 1972, one of the first major publications to cover women's issues beyond housekeeping and beauty, and co-founded the Women's Action Alliance to combat sexism. Over five decades she was a leading voice for reproductive rights, equal pay, same-sex marriage legalization, and opposition to the death penalty and female genital mutilation. She witnessed both the 1973 Roe v. Wade ruling and its 2022 reversal.\n\nBorn in Toledo, Ohio in 1934, Steinem began her journalism career in New York in the early 1960s, breaking through with an exposé on Playboy Bunny working conditions before becoming a columnist for New York Magazine. Her foundation said she \"continued working for equality until the very end,\" welcoming guests to her home for \"Talking Circles\" and completing a forthcoming book, An Unexpected Life.\n\n\"Gloria's greatest gift was her ability to listen to others, to make others feel seen and heard,\" her foundation said in a statement. \"Her words, actions and example gave people permission to be their truest selves.\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-03T05:08:31.825343-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Becomes First Living President on U.S. Currency in a Century With New $1 Coin",
+      "summary": "The U.S. Mint on Wednesday launched a $1 coin bearing a portrait of President Donald Trump, making him the first living president to appear on American currency in roughly 100 years. The coins, which have a golden color but contain no actual gold, were released to commemorate America's 250th anniversary and sold out within hours on the Mint's website.\n\nFederal law generally prohibits a living president from appearing on U.S. currency, but the administration used a design clause in the anniversary legislation to overcome the prohibition. The coins appear to be covered by the Circulating Collectible Coin Redesign Act of 2020, which bans portraits of living people on the reverse side of coins but does not explicitly address the obverse, where Trump's likeness appears. The coins are priced at $61 for a roll of 25 and are legal tender, though the Mint said they are not being put into general circulation.\n\nThe last living president to appear on U.S. currency was Calvin Coolidge, whose portrait appeared on a commemorative half-dollar issued for America's 150th anniversary in 1926. The Trump administration has pursued several similar moves: in March, the Treasury announced paper money would soon bear Trump's signature, and in May, Treasury Secretary Scott Bessent said the department was planning a new $250 bill with Trump's portrait.\n\nCritics have characterized the moves as an unprecedented personalization of national institutions for political purposes, while supporters describe them as fitting commemorations of the nation's semiquincentennial milestone.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-03T05:08:31.825343-06:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "Update: Chevron Confirms Venezuela Operations Expansion Following Trump Oil Deal",
+      "summary": "Oil giant Chevron confirmed Wednesday it will expand its operations in Venezuela following President Trump's announcement of an ambitious concession deal to develop the country's vast oil reserves, with the Pentagon taking a stake in the profits. The confirmation gives new commercial substance to the 100-year oil concession deal covering an estimated 65 billion barrels that was announced earlier this week.\n\nU.S. Energy Secretary Chris Wright traveled to Venezuela to promote the deal publicly, and NBC News reported from the scene. The agreement has drawn scrutiny from lawmakers and foreign policy analysts who question the wisdom of deepening economic ties with Caracas and the precedent of giving the Defense Department a direct financial interest in foreign oil production.\n\nThe deal comes as former Venezuelan President Nicolás Maduro and his wife separately asked a U.S. federal judge Wednesday to dismiss drug trafficking indictments against them, arguing they have immunity as leaders of a foreign country — a legal maneuver that underscores the complicated diplomatic backdrop surrounding U.S.-Venezuela relations.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/live/trump-carney-venezuela-g20-news-updates-09-02-2026",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-03T05:08:31.825343-06:00",
+      "slot": 5
+    }
+  ]
+}
