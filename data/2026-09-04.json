@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-04",
+  "dateFormatted": "Friday, September 4, 2026",
+  "stories": [
+    {
+      "category": "business",
+      "headline": "Update: US Diesel Prices Hit All-Time High as Iran War Squeezes Fuel Supply",
+      "summary": "The average price of diesel in the United States has reached $5.85 per gallon, an all-time high and well above the $3.71 average recorded a year ago, according to the American Automobile Association. The previous record was set in the wake of Russia's full-scale invasion of Ukraine. Gasoline prices have also surged, averaging $4.15 per gallon nationally, with some Western states such as Washington averaging $6.81 for diesel.\n\nThe price spike is directly tied to the ongoing U.S.-Israel war with Iran, which has effectively closed the Strait of Hormuz — a waterway through which approximately one-fifth of the world's oil transits. The disruption has sent wholesale oil prices sharply higher, with costs cascading to consumers across the economy, particularly in trucking, agriculture, and construction.\n\nPresident Trump has pointed to a newly announced 100-year oil concession deal covering 65 billion barrels in Venezuela as a long-term remedy, though analysts have expressed skepticism about whether the agreement can overcome longstanding obstacles to Venezuelan oil production. The fuel crisis is carrying political consequences: a recent Reuters/Ipsos poll found Trump's approval rating has fallen to 33 percent, with just 31 percent of Americans supporting the Iran conflict, as midterm elections approach in November.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-04T05:08:33.636260-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Argentina's Milei Threatens Oil Sanctions, Renews Falklands Sovereignty Claim",
+      "summary": "Argentine President Javier Milei announced plans to impose economic sanctions on energy companies conducting oil exploration near the Falkland Islands, escalating a long-running dispute with the United Kingdom over the archipelago. Speaking from the presidential palace surrounded by his cabinet, Milei declared the Sea Lion oilfield — located roughly 130 miles from the islands and estimated to contain 1.7 billion barrels of oil — a \"clear and present danger,\" and said he would introduce legislation in parliament to restrict the activities of unauthorized firms. Milei cited what he characterized as shifting U.S. signals on the sovereignty dispute as emboldening Argentina's claim.\n\nThe UK government rejected the threats firmly. Foreign Secretary Ed Miliband said Britain's position on the islands was \"unwavering,\" while Defence Secretary Wes Streeting called Milei's statement more reflective of Argentine domestic politics than of any genuine legal or strategic shift. Downing Street reaffirmed that the Falklands would remain a British Overseas Territory \"for as long as the Islanders wish,\" noting that in a 2013 referendum, 99.8 percent of residents voted to remain British.\n\nThe dispute adds a new diplomatic pressure point for London amid the broader Iran war, during which Trump has reportedly hinted the U.S. might not back the UK over the Falklands given Britain's limited support for American military operations. Falkland Islands residents and former legislators expressed defiance, with one describing Milei's speech as having \"irked every single Falkland islander.\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-04T05:08:33.636260-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Russia Accused of Escalating Sabotage Campaign Across European Defence Sites",
+      "summary": "A series of suspicious fires and drone incidents at military and defence-sector facilities across Europe over the past month has prompted multiple governments to point to Russia as the likely perpetrator. The campaign began in early August when explosive-laden drones were discovered at Leipzig Airport in Germany, a key logistics hub for Ukrainian military supplies. Germany's interior minister has since formally declared Russia responsible. Subsequent fires broke out at defence facilities in Italy, Estonia, Bulgaria, Slovakia, and Poland, with several resulting in arrests and at least one attack — on a Polish drone manufacturer — caught on surveillance video.\n\nPoland's interior minister warned that Russia appears to be \"changing its strategy and intensifying its activities, including terrorist and sabotage activities.\" Estonia said it was taking the possibility of Russian involvement at the Milrem Robotics factory \"seriously,\" while Slovak police arrested three suspects they said were \"following orders\" in a thwarted arson at a Ukrainian-owned drone firm. The pattern has continued into September with further arrests in Germany.\n\nRussia has denied involvement, with President Putin demanding evidence and Kremlin officials calling the accusations \"absurd.\" The incidents signal a broadening of the hybrid conflict beyond Ukraine's borders, raising concerns among NATO members about the vulnerability of their defence industrial infrastructure at a time when European arms production is already under strain.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-04T05:08:33.636260-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "South Korea Weighs Naval Deployment to Strait of Hormuz Under U.S. Pressure",
+      "summary": "South Korea has begun preliminary preparations for a possible deployment of a naval support vessel and troops to the Strait of Hormuz, according to local media reports, as President Trump has intensified pressure on the U.S. ally over its limited involvement in the war with Iran. The move would mark a significant shift for Seoul, which has historically kept its military engagements outside the Korean Peninsula tightly constrained. South Korean shipbuilders have separately been investing heavily in the struggling U.S. maritime industry, in part as a signal of alliance commitment.\n\nThe consideration comes as Trump has questioned the willingness of allied nations to share the burden of the Iran conflict, a stance that has created friction with multiple partners simultaneously. South Korea's calculus is complicated by its own regional security situation and dependence on Middle Eastern oil, a significant portion of which transits through the Hormuz strait now under effective Iranian disruption.\n\nNo formal decision has been announced by the South Korean government, and any deployment would require parliamentary and executive approval. The reports nonetheless signal that Washington's pressure campaign on allies to participate in or support the Hormuz operation is producing tangible results, with potential implications for the broader coalition posture in the conflict.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/south-korea-paving-way-to-send-troops-to-hormuz-reports-say",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-04T05:08:33.636260-06:00",
+      "slot": 5
+    }
+  ]
+}
