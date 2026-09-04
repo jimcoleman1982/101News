@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, September 4, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "Pennsylvania Coroner Confirms Six-Week-Old Infant Died of Measles as Lancaster County Outbreak Grows",
+      "summary": "Lancaster County Coroner Stephen Diamantoni confirmed Friday that a six-week-old infant who died last month was killed by measles. The infant was born with Amish lethal microcephaly, a rare genetic condition that can cause respiratory infections. Pennsylvania health officials had previously announced the measles-related deaths of two unvaccinated individuals in the county, though officials declined to confirm whether this infant's death was among those two.\n\nThe confirmation comes as Lancaster County faces a growing measles outbreak and carries direct implications for the national debate over vaccine policy. The ruling also casts doubt on statements from federal Health Secretary Robert F. Kennedy Jr., who had publicly speculated that measles deaths reported by Pennsylvania may have been fabricated.\n\nThe case intensifies scrutiny of RFK Jr.'s leadership at the Department of Health and Human Services at a moment when measles, a disease largely suppressed by vaccination for decades, is resurging in pockets of the United States. Public health officials have repeatedly warned that declining vaccination rates in certain communities, including some Amish communities in Pennsylvania, are creating conditions for outbreaks to take hold.\n\nProponents of Kennedy's approach argue that parental choice and medical freedom should guide vaccination decisions, while public health officials and mainstream medical groups warn that herd immunity thresholds are being breached, putting infants too young to be vaccinated — like this six-week-old — at mortal risk.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/6072325-pennsylvania-infant-measles-death/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:20 PM MT",
+      "addedAtISO": "2026-09-04T16:20:52.995034-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Senior Farage Aides Resign After Undercover Report Alleges Reform UK Broke Foreign Donation Laws",
+      "summary": "Two of Nigel Farage's most senior aides at the Reform UK party have stepped down following a Channel 4 News undercover investigation that alleged the party breached British electoral law by discussing acceptance of foreign funding. Dan Jukes, widely regarded as Farage's right-hand man, and James Orr, the party's head of policy and a Cambridge academic, both left their positions Friday pending an internal investigation. The party said it was launching an independent probe and would make no further comment while it is ongoing.\n\nThe Channel 4 report, broadcast late Thursday, used journalists posing as representatives of a wealthy American donor interested in contributing to Reform. British electoral law prohibits political parties from accepting donations from foreign nationals. Farage, speaking to LBC Radio on Friday, insisted the party had not taken any illegal money and called the investigation \"a clear case of entrapment.\" Both Jukes and Orr denied wrongdoing.\n\nThe scandal erupted as Reform held its annual party conference, compounding existing pressure on the party over a parliamentary inquiry into a multimillion-pound donation from cryptobillionaire Christopher Harborne in 2024. Channel 4 stood by its reporting, with a spokesperson saying it had been \"rigorously verified for accuracy.\"\n\nReform UK has surged in British polling in recent years and the resignations represent a significant blow to its leadership infrastructure at a sensitive moment. The incident will likely fuel debate about foreign influence in British politics ahead of future elections.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/nigel-farage-aides-uk-donation-scandal/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:20 PM MT",
+      "addedAtISO": "2026-09-04T16:20:52.995034-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Fake RNC Midterm Convention Website Redirects Visitors to DOJ Epstein Files Page",
+      "summary": "A website presenting itself as the official information site for the Republican National Committee's upcoming midterm convention in Dallas was redirecting visitors to the Justice Department's Jeffrey Epstein files webpage as of Friday afternoon. The site, gopdallas2026.com, advertised itself as the \"2026 RNC Midterm Convention\" portal and promoted information about next week's event before rerouting traffic to the federal Epstein records page. The official RNC convention site is gopconvention.com.\n\nThe convention, scheduled for Wednesday and Thursday in Dallas, is the Republican Party's first-ever midterm convention and is set to feature President Donald Trump and Vice President JD Vance as the party prepares for November elections. The prank site's redirect to Epstein materials comes as Trump's connections to Epstein remain a subject of ongoing political controversy and media coverage.\n\nSeparately, a nonprofit called the Institute for Primary Facts has organized a physical exhibit in Dallas timed to overlap with the convention. The group, which has printed and bound released Epstein files into thousands of volumes, is staging the \"Donald J. Trump and Jeffrey Epstein Memorial Reading Room\" and a mobile exhibit in Dallas from Tuesday through September 11. Executive director David Garrett said the Dallas timing was deliberate, stating the group \"wanted to be where the conversation is happening.\"\n\nThe story drew broad coverage across 17 outlets from across the political spectrum. The RNC has not publicly commented on the spoofed website.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/justice/4714331/fake-rnc-midterm-convention-doj-epstein-files/",
+      "sourceCount": 17,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:20 PM MT",
+      "addedAtISO": "2026-09-04T16:20:52.995034-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Update: Strait of Hormuz Oil Flow Nears Pre-War Levels as U.S. Military Escorts Resume",
       "summary": "U.S. forces escorted 40 commercial vessels carrying roughly 18 million barrels of oil through the Strait of Hormuz on Tuesday, Vice President JD Vance announced at a White House briefing Thursday, saying the flow is \"almost back to where it was before the conflict started.\" Some independent estimates place the daily figure lower, around 8 to 9 million barrels, but the trajectory represents a significant recovery from the near-zero throughput that followed the initial U.S.-Israeli strike on Iran seven months ago.\n\nVance also said major combat operations are \"currently not ongoing,\" even as U.S. forces continue strikes aimed at degrading Iran's ability to block the strait. The administration simultaneously announced \"Operation Economic Outcast,\" an expanded sanctions and secondary-sanctions regime. Treasury Secretary Scott Bessent said Iran's economy could collapse \"within weeks or months\" if the regime does not change course.\n\nThe developments come with midterm elections 60 days away and public opinion running against the administration: roughly 55 percent of Americans oppose the war and about 60 percent disapprove of Trump's handling of it, according to polling cited in multiple outlets. Supporters argue the strait progress vindicates sustained military pressure, while critics note the gains amount to partially undoing damage the war itself created, with the original objective — preventing Iran from acquiring a nuclear weapon — having been declared accomplished months ago.\n\nWith 20 outlets covering the Iran conflict and its economic consequences, the partial reopening of the strait is among the highest-impact developments of the week, bearing directly on global oil markets, U.S. fuel prices, and the political calculus heading into November.",
