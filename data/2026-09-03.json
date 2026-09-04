@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Missouri Supreme Court Unanimously Blocks GOP-Redrawn Congressional Map From November Ballot",
+      "summary": "The Missouri Supreme Court ruled unanimously Thursday that a Republican-drawn congressional map backed by President Trump cannot be used in the November midterm elections, dealing a significant blow to GOP efforts to gain an additional House seat. The court ruled that voters must first decide in a referendum whether to approve the new district lines, meaning Missouri will use its existing congressional map — drawn after the 2020 census — for the 2026 elections.\n\nThe decision is a major setback for Republicans, who had hoped the redrawn boundaries would effectively eliminate a district where Democrats held a competitive advantage. Trump called the ruling 'ridiculous,' and the state attorney general vowed to appeal to the U.S. Supreme Court, though the timeline makes reversal before November highly uncertain.\n\nDemocrats hailed the decision as a protection of voters' rights and fair representation, arguing the GOP-backed map was a partisan gerrymander designed to lock in Republican dominance for years. The ruling fits into a broader national redistricting battle heading into the midterms, with control of the House potentially hinging on a handful of competitive seats.\n\nSeparately, the Maryland Supreme Court ruled Thursday evening to keep a Democrat-led redistricting referendum on the November ballot — with amended wording — overturning a lower court's decision to block it. Republicans pledged to appeal that ruling as well, underscoring how redistricting fights in multiple states are converging as a decisive factor in the battle for House control.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/6070660-maryland-supreme-court-redistrict-referendum-back/",
+      "sourceCount": 19,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-03T21:08:37.675128-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "House Democrat Says FBI Wiretapped His Phone Calls as Part of DOJ Corruption Investigation",
+      "summary": "Rep. Suhas Subramanyam (D-Va.) said Thursday he was notified by the Department of Justice and FBI that his phone calls with Virginia state Sen. L. Louise Lucas were monitored during the spring as part of a corruption investigation into the longtime state legislator. Subramanyam described the surveillance as 'deeply concerning' and characterized it as part of a broader pattern of the DOJ targeting political opponents of President Trump.\n\nThe Justice Department did not immediately comment on the congressman's characterization of the wiretap. The surveillance appears to have been conducted as part of an existing federal probe into Lucas rather than targeting Subramanyam directly, though the congressman argued his inclusion raises serious civil liberties questions about the scope of DOJ investigations touching elected officials.\n\nThe revelation adds to mounting Democratic allegations that the Trump administration has weaponized law enforcement against political adversaries. The administration has previously faced accusations of politically motivated investigations into state attorneys general and the former FBI director, claims the White House has denied, arguing that DOJ operates independently on criminal matters.\n\nThe disclosure comes weeks before the November midterms, where the specter of federal surveillance of Democratic officeholders is likely to become a campaign issue. Republicans have countered that legitimate criminal investigations should not be shielded from scrutiny simply because subjects have political connections.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/03/fbi-doj-wiretap-subramanyam-lucas-virginia-trump",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-03T21:08:37.675128-06:00",
+      "slot": 21
+    },
+    {
+      "category": "technology",
+      "headline": "Nvidia Agrees to Acquire AI Startup Hugging Face for $13 Billion",
+      "summary": "Nvidia has agreed to acquire Hugging Face, one of the most widely used artificial intelligence software platforms in the world, in a deal valued at approximately $13 billion. The transaction includes an equity-based retention program of up to $1 billion for Hugging Face employees who join Nvidia, according to a statement released Thursday. The deal gives the dominant AI chipmaker a major foothold in the software and model-sharing ecosystem that underpins much of the industry's development work.\n\nHugging Face operates a popular open-source repository where researchers and companies share AI models and datasets, making it a critical piece of infrastructure for the broader AI community. The acquisition signals Nvidia's ambition to extend its influence beyond hardware and into the software layer of the AI stack, where competitive dynamics are rapidly evolving as rivals including AMD and custom silicon from major cloud providers erode Nvidia's chip dominance.\n\nThe deal is likely to draw scrutiny from antitrust regulators in the U.S. and European Union, given Nvidia's already commanding position in AI computing. Critics have warned that consolidation of key AI infrastructure under a single dominant hardware provider could limit competition and access, while Nvidia and Hugging Face have argued the combination will accelerate open AI development.\n\nThe acquisition is one of the largest in AI industry history and underscores the staggering valuations being assigned to companies at the center of the generative AI boom. Hugging Face had most recently been valued at around $4.5 billion in a 2023 funding round, making the $13 billion price tag a dramatic markup reflecting the intensifying corporate competition for AI assets.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-03/bloomberg-businessweek-daily-9-3-2026-video",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-03T21:08:37.675128-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
       "headline": "ICE Agent Charged Federally With Lying About Shooting Venezuelan Man in Minnesota",
       "summary": "A federal grand jury has indicted ICE agent Christian Castro on six counts related to the non-fatal shooting of a Venezuelan migrant during a January immigration enforcement operation in Minnesota. The Department of Homeland Security had initially characterized the shooting as self-defense, claiming Castro fired after being attacked with a shovel and broom handle by three migrants. Minnesota investigators allege he actually fired through a closed door, striking a man in the leg, with the bullet ultimately lodging in a child's bedroom wall.\n\nThe case marks a rare instance of the current Justice Department accusing a federal agent of breaking the law while on duty. Surveillance footage raised questions about the agents' account, prompting a federal investigation. The charges against the two migrants originally arrested in connection with the confrontation were subsequently dismissed by prosecutors citing \"newly discovered evidence.\"\n\nThe case has been complicated by an interstate legal dispute. Castro was arrested in Texas in May and held for three months, but Texas Governor Greg Abbott refused a Minnesota extradition request, saying he had \"serious doubts\" Castro qualified as a fugitive. Castro was released from Texas custody last week, and he now faces both the federal indictment and separate state charges in Minnesota of assault and false reporting of a crime.\n\nThe shooting occurred during Operation Metro Surge, a large-scale federal immigration enforcement action in the Midwest that sparked widespread protests and resulted in the deaths of two U.S. citizens during confrontations with agents. The indictment intensifies scrutiny of use-of-force practices and accountability standards within ICE during aggressive enforcement operations, with critics arguing the case exposes systemic problems and supporters contending the charges undermine agents operating in dangerous conditions.",
       "source": "BBC News",
