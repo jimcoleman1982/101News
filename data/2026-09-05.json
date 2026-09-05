@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Nepal-China Flood Death Toll Reaches 1,375 as Rescuers Pull Survivors from Tunnels Ten Days On",
+      "summary": "Rescuers in Nepal pulled a Chinese national alive from a hydropower tunnel and a 60-year-old woman from the upper floor of a flooded building on Saturday, ten days after catastrophic flash floods struck the Nepal-China border region. The dramatic rescues follow a similar operation the day prior, when two men were extracted from another hydropower tunnel using satellite imagery to locate it beneath layers of mud. Hundreds of tunnel workers remain missing.\n\nThe confirmed death toll has climbed to 1,375, according to a CNN tally of figures from Nepali and Chinese authorities, with more than 5,000 people still unaccounted for. Over 7,500 homes have been damaged, affecting nearly 33,000 people directly, while approximately 84,000 are estimated to require urgent humanitarian assistance. Thirteen hydropower projects, 37 vehicle bridges, and nearly 4,500 acres of agricultural land have been damaged.\n\nThe United Nations and its humanitarian partners launched an appeal Friday for $49.6 million to provide emergency shelter, food, and healthcare to affected communities. 'Families have lost everything: their loved ones, their homes, their livelihoods, swept away in minutes,' said UN resident coordinator Lila Pieters Yahia. The scale of infrastructure destruction has complicated both rescue operations and the broader relief response.",
+      "source": "CNN",
+      "url": "https://cnn.com/2026/09/05/world/live-news/nepal-china-flood",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "7:51 AM MT",
+      "addedAtISO": "2026-09-05T07:51:26.549285-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Explosion at Bolivia Military Barracks Kills at Least Two, Injures 81 Near La Paz",
+      "summary": "An explosion ripped through a military barracks in Viacha, Bolivia, approximately 30 kilometers from the capital La Paz, on Friday afternoon local time, killing at least two people and injuring 81 others. Bolivian Defense Minister Ernesto Justiniano said 'pyrotechnic material' detonated at the site, where an artillery regiment was stationed. Seven people remain missing, and a local health official told television reporters that between 10 and 15 people were believed to have died.\n\nThe blast caused significant collateral damage, destroying dozens of nearby homes. Authorities warned residents to remain at least 150 meters from the military base due to the risk of a secondary explosion. Emergency workers continued to search rubble for survivors and victims into Friday evening.\n\nBolivian President Rodrigo Paz expressed solidarity with affected families and pledged a 'thorough, technical and transparent investigation' into the cause of the blast. The city of Viacha declared three days of official mourning. The cause remains under investigation, though police confirmed that fireworks had been stored at the barracks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "7:51 AM MT",
+      "addedAtISO": "2026-09-05T07:51:26.549285-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Russia's Africa Corps Credited with Suppressing Niger Military Mutiny, Deepening Sahel Dependency on Moscow",
+      "summary": "Russia's Africa Corps helped Nigerien loyalist forces retake a strategic military base at Diori Hamani International Airport in Niamey last Saturday after mutinous soldiers seized it, with Russia's ambassador to Niger publicly acknowledging the intervention. The episode marks the second time this year Africa Corps has played a decisive role at the same airport, having helped repel a jihadist attack in January. Unlike its predecessor the Wagner Group, Africa Corps operates directly under the Russian Defense Ministry and maintains an estimated 200 to 300 personnel in Niger.\n\nAnalysts say the incident illustrates that Russia is providing something increasingly valued by Sahel military governments beyond counterinsurgency support: protection of the regimes themselves. 'This is seen as a symbolic victory that will continue to put them at the centre of not just the counter-insurgency campaign, but even in the protection and prolongation of military rule,' said Beverly Ochieng of Control Risks. The junta that seized power in Niger in July 2023 had justified the coup partly by citing the failure of Western partners to contain jihadist violence.\n\nThree years on, that insurgency remains unresolved. Militants linked to al-Qaeda and Islamic State continue to launch attacks across the Tillabéri and Dosso regions, inflicting heavy casualties. The latest mutiny is attributed to longstanding grievances within Niger's own military compounded by the pressures of sustained counterinsurgency operations, underscoring the fragility of the junta's hold on power even as Moscow consolidates its influence across Niger, Mali, and Burkina Faso.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z75keq58o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "7:51 AM MT",
+      "addedAtISO": "2026-09-05T07:51:26.549285-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
       "headline": "Update: U.S.-Iran Conflict Enters New Phase as Strikes Continue, Ceasefire Deal Expires",
       "summary": "The U.S.-Iran conflict has entered a more uncertain phase as a Memorandum of Understanding signed in June — intended to produce a permanent ceasefire within 60 days — has expired without resolution. Both sides have exchanged strikes this week, including a U.S. strike on rocket launchers on Larak Island in the Strait of Hormuz that killed two people, followed by Iranian missile and drone retaliatory attacks on U.S. targets in the region. Washington simultaneously announced sweeping new sanctions it described as an 'economic D-Day,' targeting Iran and countries that trade with the regime.\n\nExperts consulted by the BBC offer a divided prognosis. Washington-based analysts suggest the Trump administration is currently satisfied with a form of stasis — maintaining the blockade and conducting periodic strikes on Iranian capabilities — while hoping new economic pressure will bring Tehran to the table in a weakened position. Chatham House analysts, however, argue that Iran is preparing to absorb economic pain and will respond to strikes proportionately to avoid broader escalation, with little indication the squeeze will alter Iranian calculations in the near term.\n\nThe Strait of Hormuz, a critical global shipping chokepoint, has been effectively closed since the conflict began in February, though U.S. military escorts have allowed a trickle of oil traffic. Diesel prices in the U.S. have hit record highs as a result. Neither side has articulated a clear off-ramp, and the collapse of the June agreement leaves the path to a negotiated settlement deeply uncertain.\n\nThe conflict has now stretched into its seventh month, with the Gaza situation, Houthi activity in Yemen, and tensions in Lebanon adding to regional instability. The Trump administration has said it views Israeli Prime Minister Netanyahu's rejection of a related deal as campaign rhetoric, and envoys Steve Witkoff and Jared Kushner have been dispatched to Moscow and Kyiv separately for parallel peace diplomacy efforts.",
       "source": "BBC News",
