@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: U.S. Strikes Three Iranian Oil Tankers After Ballistic Missile Attacks on American Warships",
+      "summary": "U.S. Central Command announced Saturday it had struck three Iran-linked oil tankers in retaliation for ballistic missile attacks launched by the Islamic Revolutionary Guard Corps against a U.S. aircraft carrier and guided-missile destroyer. Centcom said it \"permanently disabled\" two tankers near Kharg Island and the Strait of Hormuz, and \"completely destroyed\" a third in the Gulf of Oman. No American troops were harmed in the missile attacks, which were successfully evaded.\n\nCentcom commander Admiral Brad Cooper issued a pointed statement warning Iran: \"If you shoot at two of our ships, we will impose an even higher economic cost — taking out three of yours.\" He described the targeted tankers as part of a \"multi-billion-dollar shadow network\" funding the IRGC and its regional proxies. Iranian state media acknowledged one tanker was struck near Kharg Island but did not immediately confirm the attacks on its warships.\n\nThe strikes mark a significant escalation in an ongoing conflict that resumed last Sunday after weeks of relative calm following the expiration of a 60-day ceasefire. Since the ceasefire lapsed, the U.S. has conducted multiple rounds of strikes, and Iran has retaliated against U.S. targets in the UAE, Bahrain, Kuwait, and Jordan. Controversy continues over a U.S. strike that Iran says killed four people, including two children, at a wedding in southern Iran on Tuesday — a claim Vice President Vance said he was \"extremely skeptical\" of but pledged to investigate.\n\nThe conflict, which began with coordinated U.S.-Israeli strikes on Iran on February 28, has severely disrupted oil flows through the Strait of Hormuz and driven global fuel prices to record highs. With no diplomatic settlement in sight and Trump threatening tougher economic measures against any nation doing business with Iran, analysts say the risk of further escalation remains acute.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 18,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "10:42 AM MT",
+      "addedAtISO": "2026-09-05T10:42:20.704510-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Canada-U.S. Trade War Escalates as Analysts Say Ottawa Has More Leverage Than Expected",
+      "summary": "As the trade dispute between the United States and Canada deepens, analysts and Canadian officials are pushing back against the assumption that Washington holds all the cards. Canada is the top export customer for 26 U.S. states — including swing states Michigan and Wisconsin — and ranks in the top three for 45 of 50 states, giving Prime Minister Mark Carney significant room to impose targeted retaliatory tariffs that inflict economic pain on politically sensitive American markets.\n\nOntario Premier Doug Ford has been among the most vocal Canadian officials outlining potential pressure points, including energy exports and critical minerals. Carney's government has framed its posture as measured but firm, aiming to demonstrate that an escalating tariff fight carries real costs for American businesses and consumers, not just Canadian ones.\n\nThe dispute has stirred broad concern among business communities and citizens on both sides of the border, who warn that the deep economic and cultural integration of the two countries makes a prolonged trade war mutually damaging. Canadian and American businesses with cross-border supply chains have flagged disruptions that are already affecting manufacturing and agriculture.\n\nThe standoff reflects a broader pattern in Trump administration trade policy that has drawn criticism from Democrats and some Republicans who represent trade-dependent districts, while supporters argue aggressive tariffs are necessary to rebalance longstanding trade relationships and protect American industry.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c74knp7y04eo",
+      "sourceCount": 15,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:42 AM MT",
+      "addedAtISO": "2026-09-05T10:42:20.704510-06:00",
+      "slot": 11
+    },
+    {
+      "category": "other",
+      "headline": "Williams Sisters Fall in U.S. Open Doubles Thriller in Serena's Latest Return",
+      "summary": "Serena and Venus Williams lost a three-set first-round women's doubles match at the U.S. Open on Friday night, falling to the 14th-seeded team of Maya Joint and Hao-Ching Chan, 6-3, 6-7 (6), 7-6 (10-8), after a dramatic three-hour contest at Arthur Ashe Stadium. The Williams sisters squandered a 5-0 lead in the deciding 10-point tiebreaker, capping a painful near-comeback after dropping the opening set.\n\nThe match marked the sisters' first U.S. Open doubles appearance together in four years. Serena, 44, returned to professional tennis this year after a four-year retirement, suffering notable losses at Wimbledon to Joint in singles before she and Venus were forced to withdraw from doubles there due to a knee injury. The pair also lost in a match tiebreaker at the Cincinnati Open earlier this summer.\n\nVenus, 46, had already been eliminated from singles earlier in the week, falling in straight sets to Sofia Kenin in what may prove to be her final Grand Slam singles match. Venus declined to speculate on her future after the loss, saying her focus was on recovering and preparing for the next match.\n\nThe appearance drew enormous attention given the combined legacy of both players, who have won the U.S. Open doubles title together twice, in 1999 and 2009, and hold a career doubles record of 27-8 across ten joint U.S. Open appearances.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/serena-venus-williams-us-open-womens-doubles-first-round/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "10:42 AM MT",
+      "addedAtISO": "2026-09-05T10:42:20.704510-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "Update: Nepal-China Flood Death Toll Reaches 1,375 as Rescuers Pull Survivors from Tunnels Ten Days On",
       "summary": "Rescuers in Nepal pulled a Chinese national alive from a hydropower tunnel and a 60-year-old woman from the upper floor of a flooded building on Saturday, ten days after catastrophic flash floods struck the Nepal-China border region. The dramatic rescues follow a similar operation the day prior, when two men were extracted from another hydropower tunnel using satellite imagery to locate it beneath layers of mud. Hundreds of tunnel workers remain missing.\n\nThe confirmed death toll has climbed to 1,375, according to a CNN tally of figures from Nepali and Chinese authorities, with more than 5,000 people still unaccounted for. Over 7,500 homes have been damaged, affecting nearly 33,000 people directly, while approximately 84,000 are estimated to require urgent humanitarian assistance. Thirteen hydropower projects, 37 vehicle bridges, and nearly 4,500 acres of agricultural land have been damaged.\n\nThe United Nations and its humanitarian partners launched an appeal Friday for $49.6 million to provide emergency shelter, food, and healthcare to affected communities. 'Families have lost everything: their loved ones, their homes, their livelihoods, swept away in minutes,' said UN resident coordinator Lila Pieters Yahia. The scale of infrastructure destruction has complicated both rescue operations and the broader relief response.",
       "source": "CNN",
