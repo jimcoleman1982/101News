@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-06",
+  "dateFormatted": "Sunday, September 6, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Anak Krakatau Eruption Strands 150,000 Passengers, Closes Six Indonesian Airports",
+      "summary": "A major eruption of Anak Krakatau volcano beginning late Friday has forced Indonesian authorities to suspend operations at six airports, including Jakarta's Soekarno-Hatta International Airport, stranding more than 150,000 passengers and canceling or disrupting 467 flights as of Sunday. Volcanic ash reached altitudes of up to 50,000 feet on the Sumatra side of the Sunda Strait and 20,000 feet over Java, spreading toward West Java and affecting international routes to Singapore, Doha, Sydney, and Kuala Lumpur.\n\nTransport Minister Dudy Purwagandhi urged airlines to divert flights to alternate airports and expedite ticket refunds for affected passengers. Indonesia's health minister advised residents in affected areas to remain indoors and wear face masks to guard against respiratory, eye, and skin irritation from ash fallout. Local reports described ash accumulation thick enough to require sweeping every few minutes in some neighborhoods, and several schools canceled activities after students reported eye irritation.\n\nAuthorities confirmed there is no tsunami warning associated with the current eruption activity. Anak Krakatau, which translates as 'Child of Krakatoa,' has been sporadically active since emerging from the sea in the early 20th century. Its most recent major event was a 2018 collapse that triggered a tsunami killing more than 400 people along nearby Sumatran and Javan coastlines. The scale of the current travel disruption and the geographic reach of the ash cloud make this one of the most operationally significant volcanic events in the region in recent years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-06T05:08:11.410459-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Trump's MAGA Inc. Super-PAC Pours $10 Million Into Texas Senate Race as Paxton-Talarico Contest Tightens",
+      "summary": "President Trump's MAGA Inc. super-PAC has made its largest single expenditure of the 2026 midterm cycle, committing $10 million to support Republican Senate candidate Ken Paxton in Texas, according to Federal Election Commission filings published Saturday. The funds were directed to political media company Del Ray Media and are being used to finance attack advertisements against Paxton's Democratic opponent, state Representative James Talarico.\n\nThe spending reflects growing Republican concern that what has historically been a safe GOP seat may be genuinely competitive this cycle. Polls consistently show Paxton and Talarico running neck and neck, an unusual dynamic for Texas statewide races. The investment marks a significant escalation in the national attention focused on the contest.\n\nPaxton, a two-term attorney general who survived a 2021 impeachment effort by the Texas House, has faced sustained criticism over his legal record and conduct in office. Democrats view Talarico, a younger progressive state legislator, as a candidate capable of capitalizing on shifting suburban voter sentiment. The Texas race is now considered one of the premier Senate battlegrounds heading into November, with national party money flowing to both sides.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/6073421-trump-maga-inc-paxton-donation-10-million/",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-06T05:08:11.410459-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Gallup Data Show Democrats Holding Largest Party-Affiliation Advantage Since 2008 Ahead of Midterms",
+      "summary": "New Gallup quarterly party affiliation data show Democrats holding their largest advantage over Republicans since 2008, with 31 percent of voters now identifying as Democrats compared to 28 percent when President Trump began his second term. Among self-identified independents, 49 percent say they lean Democratic versus 39 percent who prefer Republicans — a four-percentage-point shift toward Democrats since the first quarter of 2025 and a nine-point drop in Republican preference among independents since late 2022.\n\nAnalysts attribute the shift in part to Trump's declining approval ratings and persistent inflation, which has remained above the Federal Reserve's 2 percent target since the U.S.-Iran conflict began in February. Voters surveyed cited Middle East tensions and rising fuel and shipping costs as primary drivers of their dissatisfaction with the administration.\n\nRepublicans are contesting the trajectory by seeking to draw contrasts with progressive Democratic figures, including New York City Mayor Zohran Mamdani and Michigan Senate candidate Abdul el-Sayed, arguing those candidates will alienate centrist voters. The Republican National Committee is holding a midterm convention in Texas this week framing the party's message around a 'common sense versus crazy' contrast. The Gallup survey was conducted with a combined random sample of more than 3,000 U.S. adults and carries a margin of error of two percentage points.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/4715260/voters-increasingly-democrat-poll/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-06T05:08:11.410459-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Survivor Pulled from Mud-Buried Home More Than Ten Days After Nepal-China Flood Disaster",
+      "summary": "Rescuers in Nepal's Nuwakot district have recovered a 64-year-old woman, Chandika Shrestha, alive from the fourth floor of her partially mud-buried home more than ten days after catastrophic flooding and landslides tore through Himalayan valleys. She was airlifted to a hospital in Kathmandu for treatment, according to Reuters. The rescue extends a remarkable streak of survivor recoveries well beyond the typical window for such disasters.\n\nThe Nepal-China flood event, previously covered when the death toll reached 1,375, continues to generate search-and-rescue activity across affected districts. The discovery of Shrestha alive underscores the scale of destruction — with many buildings partially submerged under debris — and the ongoing nature of relief operations more than a week after the initial disaster. Authorities have not released an updated consolidated death toll in connection with this latest development.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-06T05:08:11.410459-06:00",
+      "slot": 5
+    }
+  ]
+}
