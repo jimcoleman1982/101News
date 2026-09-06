@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Zelensky Says War Likely to Continue Into Winter After U.S. Envoy Talks Yield No Breakthrough",
+      "summary": "Ukrainian President Volodymyr Zelensky said Sunday he expects the war with Russia to continue through winter after concluding talks with U.S. envoys Steve Witkoff and Jared Kushner in Kyiv — the first time the pair visited Ukraine since Russia's full-scale invasion began. The discussions ended without a major breakthrough, though Witkoff described the talks as \"substantive\" and said negotiators had \"made a lot of progress in Moscow\" during their separate Saturday session with Vladimir Putin.\n\nZelensky emphasized that any acceptable peace must be \"just\" and preclude opportunities for renewed Russian aggression. He said Ukrainian, European, and American officials would meet again in the near future to continue discussions. Putin and Zelensky had agreed to a temporary halt on strikes against each other's capitals for the duration of the diplomatic visit.\n\nDespite the diplomatic activity, fighting continued overnight. Ukraine confirmed strikes on a Russian oil refinery, an airfield, and two air defense systems, while Russia launched 108 long-range drones and cruise missiles at Ukraine, with air defenses intercepting 82 drones and six missiles but 11 locations still sustaining hits.\n\nZelensky stressed that if the war continues into winter — which he called the likely scenario — Ukraine would require sustained air defense systems and energy support from Western partners. The talks represent the most direct U.S. diplomatic engagement with both sides in the conflict in months, though the absence of a ceasefire announcement underscores the significant gaps that remain.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 7,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:07 PM MT",
+      "addedAtISO": "2026-09-06T13:07:07.623621-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Federal Judge Orders Release of MS-13 Murder Convict Without Bond Hearing, Drawing DHS Condemnation",
+      "summary": "A federal judge in California ordered the release of David Antonio Aviles Perez, 35, an MS-13 gang member convicted in El Salvador of aggravated murder, after finding that immigration authorities had held him for five months without a bond hearing or individualized assessment of whether he posed a danger to the public or a flight risk. U.S. District Judge Jinsook Ohtа, appointed by President Biden, ruled that the detention violated procedural requirements under immigration law.\n\nDepartment of Homeland Security Secretary Markwayne Mullin condemned the ruling, calling Ohtа a \"radical activist judge\" and stating that Aviles Perez — known in El Salvador as \"the witch\" and wanted there for an execution-style gang killing — had now been released twice in California. Mullin said the decision put American lives at risk and attributed it to California's sanctuary policies.\n\nAviles Perez was convicted in absentia in December 2025 and sentenced to 20 years in prison for a 2014 murder in which prosecutors say he and a fellow MS-13 member shot a victim in the chest, back, and face after forcing him to kneel. He entered the United States at an unknown date and location, according to DHS.\n\nDefenders of the ruling argue that due process protections apply to all individuals in immigration detention regardless of criminal history, and that individualized bond hearings are required by law — a position federal courts have repeatedly upheld. The case is likely to intensify the ongoing political and legal clash between the Trump administration and federal judges over immigration detention authority.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/machete-wielding-ms-13-gangster-wanted-murder-walks-free-biden-appointed-judge-releases-him-dhs",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:07 PM MT",
+      "addedAtISO": "2026-09-06T13:07:07.623621-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Update: Trump Calls Iran Conflict 'Small Potatoes' as U.S. and Iran Trade Ship Strikes",
       "summary": "President Donald Trump on Sunday described the ongoing U.S.-Iran conflict as 'small potatoes,' aligning himself with Vice President JD Vance's assertion that months of on-and-off military exchanges in the Middle East no longer constitute a 'war.' The comments came as the two countries continued trading strikes on maritime vessels: the U.S. confirmed hitting three Iranian oil tankers, while Iran said it targeted three U.S.-linked ships, including an unmanned American military vessel in the Strait of Hormuz that Tehran claimed to have struck using the Islamic Revolutionary Guard Corps.\n\nEnergy Secretary Chris Wright, appearing on multiple Sunday news programs, said the administration remains 'open' to a nuclear agreement with Iran but acknowledged one 'may not' be reached, suggesting the alternative could be 'destroying their capabilities' to build a nuclear weapon. Wright also said U.S. Navy escorts helping tankers transit the Strait of Hormuz are 'essential' and will not end soon. OPEC and allied oil-producing nations met Sunday following the resumption of U.S.-Iran strikes, and Treasury Secretary Scott Bessent predicted oil prices could fall to $40-$50 per barrel once the conflict ends.\n\nCritics, including former Air Force Secretary Frank Kendall III, questioned the strategic rationale for the conflict, saying on ABC's 'This Week' that he could not understand what advice led Trump to 'start this conflict' and that he had 'never seen an attempt to politicize our military' like that of Defense Secretary Pete Hegseth. Congressional Democrats, including Rep. Jason Crow, said Congress has not been fully briefed on related Pentagon leak investigations.\n\nWith nine outlets covering the story, the continued military exchanges and Trump's dismissive characterization of the conflict represent a significant new development in an ongoing crisis affecting global energy markets and regional stability.",
       "source": "Associated Press",
