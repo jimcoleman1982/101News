@@ -3,6 +3,20 @@
   "dateFormatted": "Saturday, September 5, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Kennedy Center Partially Closes After Ceiling Collapse in Grand Foyer",
+      "summary": "A section of the ceiling in the Kennedy Center's Grand Foyer collapsed Friday evening during heavy rain in Washington, D.C., prompting officials to temporarily close the main building. No injuries were reported. The Kennedy Center released photographs showing substantial chunks of ceiling material on the floor of the historic performance venue's main public hall.\n\nThe incident has reignited a contentious debate over a Trump-backed renovation plan for the landmark arts center. Supporters of the administration's renovation push, including Kennedy Center leadership, said the collapse underscores the urgent need for structural improvements and cited President Trump's longstanding argument that the building is in disrepair. Critics and preservationists warned that the board may use the episode to build political momentum for more sweeping changes — or even demolition — than the building's condition strictly requires.\n\nThe Kennedy Center has been a flashpoint since Trump moved to install loyalists on its board and redirect its programming priorities earlier in his second term. Preservationists have argued that the venue's architectural integrity should be protected and that renovation plans have at times been used as cover for political restructuring of the institution's leadership and cultural mission. The collapse gives both sides fresh ammunition heading into what is expected to be a contentious fall funding season for the federally chartered center.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6073213-kennedy-center-ceiling-collapse-grand-foyer/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-05T21:08:27.487779-06:00",
+      "slot": 21
+    },
+    {
       "category": "politics",
       "headline": "Update: Pentagon Polygraphed ~50 Joint Staff Members to Find Iran War Leakers",
       "summary": "The Pentagon subjected roughly 50 members of the Joint Staff and other senior military and civilian officials to polygraph tests in August as part of a sweeping investigation into leaks to journalists, multiple reports indicate. The inquiry targeted disclosures about dwindling U.S. munitions stockpiles amid the ongoing war with Iran, a sensitive operational concern that has drawn significant media coverage.\n\nThe scale of the polygraph effort is described as unparalleled, reaching officials at the highest levels of the military hierarchy. The move reflects the administration's intensifying crackdown on leaks as the Iran conflict strains military resources and generates unwelcome headlines.\n\nCritics argue that polygraphing senior military leaders risks chilling legitimate internal deliberation and whistleblowing, while administration supporters contend that disclosures about munitions shortfalls endanger national security and operational effectiveness. The investigation underscores broader tensions between the Pentagon and the press over war coverage.",
