@@ -3,6 +3,48 @@
   "dateFormatted": "Sunday, September 6, 2026",
   "stories": [
     {
+      "category": "other",
+      "headline": "Five Dead After Amazon Cargo Plane Crashes at Miami International Airport",
+      "summary": "An Amazon Air cargo Boeing 767-300, operated by charter company 21 Air, overshot the runway at Miami International Airport on Sunday afternoon after departing from San Juan, Puerto Rico, killing five people and seriously injuring five others. The aircraft burst into flames after running off the diagonal runway and striking multiple vehicles on the ground; over 200 firefighters responded to the scene. Three of the injured are in critical condition, and several victims had to be extricated from vehicles crushed beneath or alongside the plane.\n\nThe Federal Aviation Administration grounded all flights at Miami International, one of the nation's busiest airports, as emergency crews worked to contain the fire and address a fuel leak at the crash site. The closure fell on Labor Day weekend, one of the highest-traffic travel periods of the year, prompting Transportation Secretary Sean Duffy to warn of significant delays and potential cancellations. Miami-Dade Mayor Daniella Levine Cava confirmed the death toll at a Sunday evening news conference.\n\nAmazon expressed condolences and said it is cooperating fully with authorities. The National Transportation Safety Board will lead the formal investigation and plans to hold a news conference Monday. Officials said it is too early to determine a cause; flight tracking data showed the aircraft traveling at 112 knots as it exited the usable runway surface.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 9,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-06T21:08:17.517130-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Hurricane Lowell Threatens Hawaii with Flooding and Mudslides as Category 3 Storm Approaches",
+      "summary": "Hawaii officials on Sunday urged residents of Kauai and Niihau to prepare for heavy rain, flooding and potentially severe mudslides as Hurricane Lowell, a major Category 3 storm with maximum sustained winds of 120 mph, is forecast to pass the islands to the west late Monday and Tuesday. The National Hurricane Center issued tropical storm warnings for both islands, projecting rainfall totals of 6 to 10 inches on Kauai and 4 to 8 inches on the Big Island, with some areas potentially receiving up to 14 inches.\n\nThe Kauai Emergency Management Agency directed residents to fill gas tanks, charge devices, refill prescriptions and stock sufficient food and water, advising people to be prepared to shelter in place for several days. Coastal areas on Kauai face storm surge of up to three feet, and supermarket shelves in Lihue were emptying as residents stocked up. Hurricane-force winds extend 50 miles from Lowell's center and tropical storm-force winds reach 175 miles outward.\n\nSeparately, Hurricane Marie, a Category 1 storm located roughly 695 miles south-southwest of San Diego, is generating dangerous surf and rip current conditions along Mexico's Baja California peninsula and Southern California, though no coastal watches or warnings are in effect for U.S. shores. The back-to-back storm threats come during the height of the Pacific hurricane season.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/hawaii-residents-told-to-expect-tropical-storm-conditions-as-hurricane-lowell-passes-to-the-west",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-06T21:08:17.517130-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Austria Enforces New Headscarf Ban in Schools for Girls Under 14 as Academic Year Begins",
+      "summary": "Austria's ban on traditional Muslim head coverings, including hijabs and burkas, for girls under age 14 in public and private schools took effect Sunday as the new school year began. The law was enacted by the current conservative-led coalition of the People's Party, Social Democrats and liberal Neos, with Integration Minister Claudia Bauer describing the headscarf as \"a sign of oppression and a means of controlling girls from the earliest childhood.\" Teachers are expected to enforce the ban through talks with students and guardians, with repeated violations triggering child services notification and potential fines of up to €800.\n\nCritics, including Austria's official Islamic Community, condemned the ban as an unjustified restriction on religious freedom that risks excluding the very children it claims to protect. The organization said it would support legal challenges before Austria's Constitutional Court, noting that a previous headscarf ban in primary schools was struck down in 2020 for contravening the country's principle of religious neutrality. Some teachers also expressed concern about being placed in an enforcement role they are not equipped for.\n\nThe far-right Freedom Party called the ban insufficient, demanding a broader prohibition covering teachers as well as students. Austria's Chancellor Christian Stocker separately called for a constitutional ban on \"political Islam.\" The law places Austria alongside France, which has prohibited conspicuous religious symbols in schools for over two decades, though the Austrian measure applies only to Muslim coverings rather than all religious symbols.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-06T21:08:17.517130-06:00",
+      "slot": 21
+    },
+    {
       "category": "politics",
       "headline": "Trump Administration Takes Mail-In Voting Fight to Supreme Court for Third Time",
       "summary": "The Trump administration on Sunday filed an emergency application with the Supreme Court seeking to allow new restrictions on mail-in voting, after U.S. District Judge Indira Talwani extended a court order blocking the U.S. Postal Service from enforcing President Trump's executive order limiting mail ballots. The 40-page filing, submitted by Solicitor General D. John Sauer, marks the administration's third appeal to the high court on the issue. The move comes as states have already begun sending out mail-in ballots for November's midterm elections.\n\nThe administration's executive order sought to bar the USPS from sending mail-in ballots to residents of states that had not complied with certain requirements. Judge Talwani, an Obama appointee, first blocked enforcement with an initial 14-day order and on Friday extended that block, prompting the new Supreme Court filing. How the justices rule could have sweeping implications for voter access in the November elections.\n\nSupporters of the restrictions argue that tightening mail-in voting safeguards is necessary to prevent fraud and ensure ballot integrity. Opponents contend the restrictions are an unconstitutional attempt to suppress votes, particularly for elderly, disabled, and rural voters who rely heavily on mail ballots. Civil liberties groups have called the administration's repeated appeals an attempt to circumvent judicial oversight.\n\nThe case arrives before the Supreme Court at a critical moment, with nine weeks remaining until Election Day and millions of ballots already in the pipeline. The court's decision — and the speed with which it acts — could determine whether the administration's voting restrictions take effect before November.",
