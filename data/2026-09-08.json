@@ -3,6 +3,48 @@
   "dateFormatted": "Tuesday, September 8, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: U.S. Strikes Iranian Tankers Near Kharg Island and Jask in Expanded Economic Pressure Campaign",
+      "summary": "U.S. Central Command conducted strikes near Kharg Island and Jask, Iran, on Tuesday, targeting Iranian crude oil tankers with the aim of sinking or disabling vessels central to Iran's export economy, a U.S. official told Fox News. Explosions were confirmed by Iran's state-linked Mehr and Fars news agencies near both locations. A ballistic missile was also reportedly launched from Jask following the strikes.\n\nThe strikes are described by U.S. officials as part of a broader campaign — dubbed 'Operation Economic Outcast' — aimed at collapsing Iran's economy by cutting off oil revenue. The Trump administration simultaneously announced 36 new sanctions targeting 27 Iranian airlines and nine foreign entities believed to be facilitating Iranian aviation, including companies with ties to the Islamic Revolutionary Guard Corps-linked Mahan Air.\n\nIran has warned that further U.S. strikes could trigger retaliation against American energy interests in the Persian Gulf. The escalating exchange of strikes has already cost U.S. consumers an estimated $100 billion in higher energy prices, according to earlier analyses, as the conflict — now in its seventh month — continues to disrupt global oil markets.\n\nThe targeting of tankers near Kharg Island is particularly significant: Kharg handles the vast majority of Iran's crude oil exports, and strikes there signal a direct attempt to cut off Iran's primary source of foreign revenue. Critics of the campaign, including some congressional Democrats, have questioned the long-term strategy and exit conditions, while supporters argue sustained economic pressure is the only path to altering Iranian behavior without a full ground war.",
+      "source": "Fox News",
+      "url": "https://foxnews.com/live-news/iran-war-news-trump-israel-september-8",
+      "sourceCount": 15,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "1:54 PM MT",
+      "addedAtISO": "2026-09-08T13:54:09.163482-06:00",
+      "slot": 14
+    },
+    {
+      "category": "technology",
+      "headline": "OpenAI Claims AI Solved Navier-Stokes Millennium Prize Problem, but Credit Dispute Clouds Announcement",
+      "summary": "OpenAI announced Tuesday that an internal AI model — described as significantly more capable than GPT-6 Astra — has produced a proof for the Navier-Stokes Millennium Prize problem, one of seven mathematical challenges designated by the Clay Mathematics Institute as among the most important unsolved problems in the field. A correct, verified solution would be among the most significant mathematical achievements in modern history and could have far-reaching implications for fluid dynamics, weather modeling, and aeronautics.\n\nThe announcement is shadowed by a serious credit controversy: outside mathematicians allege that unpublished research they shared with OpenAI's tools may have contributed to the proof without proper acknowledgment. The dispute raises acute questions about whether researchers can safely use frontier AI labs' platforms to explore unpublished work, given the risk of that work being incorporated into the labs' outputs or training pipelines.\n\nThe Navier-Stokes equations describe the motion of viscous fluid substances and have resisted a complete mathematical proof of whether smooth solutions always exist in three dimensions. Solving the problem formally would come with a $1 million prize from the Clay Institute, though verification of any claimed proof by the broader mathematical community typically takes months or years.\n\nThe episode represents the most dramatic evidence yet that AI is transforming higher mathematics, but also highlights an unresolved tension between AI labs' commercial incentives and the norms of academic science — particularly around attribution, priority, and the integrity of unpublished discovery.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/08/openai-math-solution-navier-stokes-credit",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:54 PM MT",
+      "addedAtISO": "2026-09-08T13:54:09.163482-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Two Renoir Paintings Worth $10 Million Stolen in French Museum Heist",
+      "summary": "Two armed thieves broke into the Renoir Museum in Cagnes-sur-Mer in southern France before dawn on Tuesday, cutting through a perimeter fence and removing four paintings from their frames. Police arrived within five minutes of the alarm sounding at 5:48 a.m., causing the thieves to flee and abandon two works in the museum gardens. Two paintings — including 'Portrait of Madame Romano' (1910) — remain missing, each valued at approximately €9 million ($10.4 million).\n\nCCTV footage showed the suspects wearing helmets, gloves, and combat gear and carrying electric knives and hacksaws, suggesting a professional and premeditated operation. Local Mayor Bryan Masson described the thieves as 'well-equipped and well-informed,' and investigators recovered two zip-up bags believed to belong to the suspects at the scene.\n\nThe theft is the latest in a series of high-profile art heists across Europe. Last October, thieves stole France's crown jewels from the Louvre in Paris; last month, four Renaissance paintings were taken from a museum in Sicily. The pattern has prompted renewed calls from museum directors and local officials for governments to fund better security infrastructure for cultural institutions.\n\nThe Renoir Museum, which opened in 1960 in the painter's last home before his 1919 death, holds 12 of his works along with personal artifacts including his easel and wheelchair. Mayor Masson called on the French national government to provide greater financial support, warning that museums now face 'a new form of organised crime targeting works of art.'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:54 PM MT",
+      "addedAtISO": "2026-09-08T13:54:09.163482-06:00",
+      "slot": 14
+    },
+    {
       "category": "politics",
       "headline": "Trump Administration Asks Supreme Court to Restore Immigration Verification System Before Midterms",
       "summary": "The Trump administration on Tuesday urged the Supreme Court to reinstate the Department of Homeland Security's overhauled Systematic Alien Verification for Entitlements (SAVE) system, which is used to check the citizenship status of voters. Solicitor General D. John Sauer argued that a lower court had issued an \"indefensible order that threatens the integrity of upcoming elections.\" It marks the third time the administration has escalated election-related disputes to the Supreme Court, as North Carolina recently became the first state to begin sending mail-in ballots fewer than 60 days before the midterms.\n\nThe administration contends the SAVE database is necessary to ensure only eligible citizens participate in elections, framing the lower court's block as a threat to election security. Critics and advocacy groups counter that the push represents what they call a \"war\" on voting rights, expanding legal challenges against two executive orders on elections they say unconstitutionally supplant state authority over election administration.\n\nThe case intersects with broader midterm-season tensions over mail-in voting and voter verification. Advocacy groups, including organizations with veteran election lawyers and former judges, have expanded their legal challenges, arguing the administration's moves are self-serving attempts to reshape election rules close to a federal election. The Supreme Court's response could have immediate practical consequences, as states are already in the process of distributing ballots.",
