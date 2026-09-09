@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Houthis Strike Saudi Cities and Energy Facilities, Injuring 73; Riyadh Vows Response",
+      "summary": "Yemen's Iran-backed Houthi movement launched a major assault Tuesday on four southwestern Saudi cities — Abha, Khamis Mushait, Jazan and Najran — using dozens of drones and ballistic missiles that struck oil facilities and civilian infrastructure, injuring 73 people including women and children. Saudi Arabia's energy ministry confirmed fires broke out at multiple sites, causing a temporary halt in some operations. The Saudi-led coalition called the strikes a \"dangerous escalation\" and vowed to take \"all necessary operational measures\" in response.\n\nThe Houthis said the attacks were retaliation for more than 120 Saudi air strikes over the previous three days on Houthi-controlled provinces, including a strike on a prison in al-Hazm that the group said killed at least 11 people and left 20 missing under rubble. Houthi military spokesman Yahya Sarea said the group struck back with \"dozens of ballistic missiles and drones\" that caused \"significant damage.\"\n\nThe escalation is significant in the context of an already volatile regional picture: the four-year informal ceasefire between Saudi Arabia and the Houthis began unraveling in July when the Houthis announced a maritime embargo against Saudi Arabia and resumed attacks on airports and oil infrastructure. Since Thursday, the Houthis have also launched a new offensive to seize control of the Bab al-Mandab Strait connecting the Red Sea to the Gulf of Aden.\n\nThe strikes threaten to widen the Middle East conflict at a moment when U.S. forces are already engaged against Iran in the Gulf and global oil markets are under pressure. Attacks on Saudi energy infrastructure and the potential chokehold on both the Strait of Hormuz and Bab al-Mandab raise serious concerns about global energy supply chains.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp849n2nz01o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-08T21:08:29.468698-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Update: New Hampshire Primaries Set Up Pappas-Sununu Senate Showdown in Key Midterm Race",
+      "summary": "Rep. Chris Pappas defeated democratic socialist challenger Karishma Manzur in New Hampshire's Democratic Senate primary Tuesday, while former Sen. John E. Sununu defeated Scott Brown and six other Republicans for the GOP nomination. The two will now face each other in November for the seat being vacated by retiring three-term Sen. Jeanne Shaheen, a race widely seen as critical to Democratic hopes of flipping the Senate. Decision Desk HQ and major networks projected both winners on election night.\n\nThe New Hampshire Senate race is among the most closely watched contests of the midterm cycle. Republicans view it as one of their strongest pickup opportunities in a political environment that is broadly unfavorable for GOP incumbents; Democrats last won a Senate seat in the state in 2010. Pappas, a moderate four-term House Democrat, fended off pressure from his party's left flank. Sununu, 61, served one Senate term from 2003 to 2009 and carried a Trump endorsement into the primary.\n\nAlso on Tuesday's New Hampshire ballot: incumbent Republican Gov. Kelly Ayotte easily won her primary and will face Democrat Cinde Warmington in November, and the open 1st Congressional District primary was won by Trump-backed Anthony DiLorenzo on the GOP side. Democrats in the 2nd Congressional District chose between candidates vying for the seat Pappas is vacating.\n\nThe results crystallize several of the November midterm's central dynamics: whether moderate Democrats can hold off progressive primary challengers, whether Trump's endorsements translate into general-election strength, and how much the national political environment — including the Iran war and inflation — shapes individual Senate contests that could determine chamber control.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/news/roger-waters-to-headline-9-11-conspiracy-conference-in-nyc/",
+      "sourceCount": 24,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-08T21:08:29.468698-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Sudan's Healthcare System on Brink of Collapse as USAID Cuts Close Dozens of Clinics, MSF Warns",
+      "summary": "Médecins Sans Frontières warned Tuesday that Sudan's health system is nearing total collapse after the closure of dozens of aid-funded healthcare facilities following the Trump administration's shuttering of USAID, which had been the country's largest donor. MSF said existing USAID grants to many organizations ran out in June, and European governments have simultaneously been reducing international assistance; global aid fell 21.3% in 2025 compared to the previous year, according to OECD data.\n\nSudan's civil war, now in its fourth year, has created one of the worst humanitarian crises in the world, with more than 33 million people requiring medical assistance. In May alone, 45 healthcare centers in central Darfur lost funding and closed. MSF reported that admissions at facilities it supports in central Darfur jumped 22.5% between January and April 2026 compared to the same period the previous year, as patients from shuttered clinics have nowhere else to go.\n\nThe practical consequences are severe: pregnant women needing surgical delivery at Gedaref state's Tanedba camp, home to 18,400 displaced people, must now travel three hours to the nearest city after the camp's maternity and surgical wards closed. In Um Rakuba camp, the number of active aid agencies has fallen from 35 in 2021 to fewer than 10, even as the camp hosts roughly 17,000 people, mostly women and children.\n\nMSF urged world leaders gathering at the United Nations General Assembly in New York to take emergency action, warning that without increased support \"more patients will face life-threatening situations.\" The warning highlights a direct humanitarian consequence of the U.S. foreign aid pullback that affects tens of millions of people in one of the world's most acute conflict zones.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62m8247yleo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-08T21:08:29.468698-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
       "headline": "UK, France, and Canada Ban Israeli Settlement Goods; Israel Closes British Consulate in East Jerusalem",
       "summary": "Britain, France, Canada, and nine other countries jointly announced on Tuesday a ban on imported goods from Israeli settlements in the occupied West Bank, calling the move a \"turning point\" in efforts to reach a two-state solution. British Foreign Secretary Ed Miliband, describing himself as a \"proud British Jew,\" said the government's economic relationships must now reflect its acceptance of the 2024 International Court of Justice ruling that Israel's occupation is unlawful. The bans cover not only settlement products but also companies providing construction, infrastructure, or financing to settlements, along with new restrictions on arms sales.\n\nIsrael reacted furiously, with Foreign Minister Gideon Saar delivering what British officials described as a brutal response. Israel announced it would close the UK Consulate in East Jerusalem, which serves the West Bank and liaises with the Palestinian Authority, and removed British representatives from the International Gaza Support Centre coordinating relief efforts in Gaza. Israeli Ambassador to the UN Danny Danon criticized the moves as counterproductive.\n\nSupporters of the bans argue they reflect longstanding legal consensus that settlements are illegal under international law and that economic pressure is necessary to advance a political solution. Israeli officials and their supporters contend the measures are one-sided, ignore Palestinian political dysfunction, and will damage bilateral relationships without advancing peace. Israel's response was seen as particularly fierce given that 12 countries moved in concert, amplifying the diplomatic significance.\n\nThe action marks the lowest point in British-Israeli relations in decades, according to diplomatic analysts. With Israeli elections approaching, the heated political atmosphere in Israel may intensify the backlash further. The coordinated Western move signals a potential shift in how European governments are willing to apply economic leverage in the Israeli-Palestinian conflict.",
       "source": "BBC News",
