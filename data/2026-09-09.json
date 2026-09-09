@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Russia Launches Massive Missile and Drone Attack on Ukraine After Peace Talk Pause",
+      "summary": "Russia launched a major assault on Ukraine early Tuesday, firing dozens of cruise missiles and more than 140 drones in what Ukrainian officials described as a complex, coordinated attack. The strike began at approximately 3:30 a.m. local time, leaving Kyiv's skies filled with smoke from fires caused by the bombardment. The offensive came immediately after a 72-hour pause during which U.S. envoys Jared Kushner and Steve Witkoff conducted diplomatic visits to both capitals.\n\nThe attack represents a significant escalation following the weekend peace talks brokered by the U.S. envoys, which ended without a breakthrough on fundamental issues. The timing — directly after a diplomatic pause — signals Moscow's continued willingness to press military advantage even during active negotiation efforts. Ukrainian forces reported engaging the incoming missiles and drones, though full damage assessments were still being compiled.\n\nSupporters of stronger Western backing for Ukraine argue the assault demonstrates that diplomatic overtures without security guarantees embolden Russian aggression. Those favoring a negotiated settlement caution that the attack underscores the urgency of reaching a ceasefire before further civilian infrastructure is destroyed ahead of winter. The strikes come as Europe has been accelerating delivery of air defense systems to Kyiv.",
+      "source": "Washington Examiner",
+      "url": "http://www.washingtonexaminer.com/news/4716300/russia-launches-massive-deadly-and-complex-attack-against-ukraine/",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "1:44 PM MT",
+      "addedAtISO": "2026-09-09T13:44:53.751636-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Zelenskyy's Plane Nearly Hit by Drone During Takeoff from Moldova",
+      "summary": "Ukrainian President Volodymyr Zelenskyy's aircraft was nearly struck by a drone as it departed Moldova en route to Oslo, Norwegian Prime Minister Jonas Gahr Store revealed Wednesday. Store made the disclosure while speaking to Norwegian public broadcaster NRK, describing it as a reflection of the daily dangers Zelenskyy faces. He offered no additional technical details about the incident.\n\nA source within the Ukrainian presidency told AFP the account was \"exaggerated,\" clarifying that the event involved a Russian drone that had entered Moldovan and Romanian airspace, triggering an alert, rather than a direct near-miss with Zelenskyy's aircraft. The differing accounts leave the severity of the incident unclear. Zelenskyy was traveling to attend the funeral of Norway's King Harald V, who died August 28 at age 89.\n\nZelenskyy met with Norwegian leaders in Oslo to discuss military aid, including air defense support, before attending the funeral alongside Prince William of Britain, Japan's Crown Prince Akishino, and political leaders from more than 20 countries. The incident, if confirmed as serious, would represent a direct attempt to threaten a sitting head of state in neutral airspace and a significant escalation in Russia's targeting strategy. Zelenskyy subsequently departed for Canada for further leadership talks.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/zelenskyy-plane-drone-norway-king-funeral/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:44 PM MT",
+      "addedAtISO": "2026-09-09T13:44:53.751636-06:00",
+      "slot": 14
+    },
+    {
+      "category": "business",
+      "headline": "10-Year Treasury Yield Hits Three-Year High as Treasury Triples Debt Buyback Limit",
+      "summary": "The yield on the 10-year U.S. Treasury bond climbed to its highest level in three years on Wednesday, topping 4.85 percent, after the Treasury Department announced it would triple its maximum debt buyback capacity from $2 billion to $6 billion per operation. The move is aimed at tamping down surging bond yields and reducing U.S. borrowing costs, which have risen sharply amid persistent inflation and elevated oil prices.\n\nWall Street analysts expressed skepticism that the expanded buyback program will be sufficient to meaningfully curb yields. Rising oil prices — driven in part by ongoing U.S.-Iran tensions and Houthi attacks on shipping — have reignited inflation concerns and shifted market expectations regarding a potential Federal Reserve rate hike in September. U.S. equities slipped in tandem with the bond market moves.\n\nHigher Treasury yields carry broad economic consequences, raising borrowing costs for mortgages, car loans, corporate debt, and federal deficit financing. The Treasury's intervention represents one of its more aggressive attempts to manage the bond market in recent years. The effectiveness of the expanded buyback program will be closely watched as a test of the government's ability to influence long-term rates in a high-inflation environment.",
+      "source": "The Hill",
+      "url": "https://thehill.com/business/6079494-treasury-triples-debt-buyback-limit/",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:44 PM MT",
+      "addedAtISO": "2026-09-09T13:44:53.751636-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Update: Russian Drones Kill Two at Ukraine-Moldova Border Crossing, Escalating Regional Spillover Fears",
       "summary": "Russian drones struck the Starokozache border crossing between Ukraine and Moldova overnight, killing two people and injuring three others, Ukrainian President Volodymyr Zelensky announced Wednesday. The crossing was shut following the attack, with images showing burned-out cars amid the debris. A Moldovan driver was also injured, according to Moldova's foreign ministry.\n\nSeparately, a drone struck a nine-story residential building in Kyiv, killing one woman and wounding 14 others including two children. Ukraine struck back, killing four people including a child in the Russian Black Sea port of Novorossiysk and hitting an industrial facility in the Arctic city of Novy Urengoy, nearly 3,000 kilometers from Ukraine. Russia's defense ministry said its forces shot down 596 Ukrainian drones overnight.\n\nThe strikes come a day after President Trump and Vladimir Putin spoke by phone, and follow weekend meetings between U.S. envoys Jared Kushner and Steve Witkoff with Putin in Moscow and Zelensky in Kyiv. The Kremlin has said it is too early to set a date or venue for direct peace talks, even as the Trump administration presses for negotiations it hopes could begin this month.\n\nThe attack on Moldovan territory is particularly alarming to European officials. Moldovan Prime Minister Vasile Tofan noted that 17 drones struck Moldovan territory in August alone — more than during all of the previous year — and called on the international community to name Russia as the aggressor. Zelensky renewed calls for international support, warning that unchecked Russian aggression risks spreading further across the region.",
       "source": "BBC News",
