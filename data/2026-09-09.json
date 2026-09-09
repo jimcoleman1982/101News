@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: IAEA Refers Iran to UN Security Council for Nuclear Non-Compliance — First Time in 20 Years",
+      "summary": "The International Atomic Energy Agency's board of governors voted Wednesday to refer Iran to the United Nations Security Council for failing to comply with its obligations under the nuclear non-proliferation treaty. The resolution, backed by 23 countries and opposed by China, Russia, and Niger, cites Iran's refusal to provide information on its stockpile of highly enriched uranium and its denial of IAEA inspector access to nuclear facilities since U.S. and Israeli strikes on those sites in 2025.\n\nThe IAEA has had no access to Iran's nuclear facilities since a 12-day conflict in June 2025 and subsequent strikes launched in February 2026. At the start of the latest conflict, Iran held roughly 440 kilograms of 60%-enriched uranium, which can be elevated relatively quickly to the 90% weapons-grade threshold. Iran insists its nuclear program is entirely peaceful.\n\nTehran sharply condemned the referral, with Deputy Foreign Minister Kazem Gharibabadi arguing that the U.S. and Israel attacked Iran's safeguarded facilities, disrupted inspections, and are now using that disruption as a pretext for the resolution. Iran has stated it wants IAEA access restored as part of a broader settlement to end the war with the U.S. and Israel.\n\nDespite the historic referral — the first in two decades — new Security Council sanctions are widely considered unlikely, as Iran's allies China and Russia hold veto power. The move nonetheless marks a significant diplomatic escalation and signals deepening international concern over the opacity of Iran's nuclear activities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:32 PM MT",
+      "addedAtISO": "2026-09-09T16:32:01.799629-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Gave $45,000 Cash Holiday Gifts to Three Close Aides, Federal Disclosures Reveal",
+      "summary": "Financial disclosures released by the Trump administration show that President Donald Trump gave $45,000 cash gifts to three White House staffers — communications aide Natalie Harp, advisor Margo Martin, and executive assistant Chamberlain Harris — and $22,000 to longtime aide Walt Nauta, director of Oval Office Operations. The total in disclosed cash gifts amounts to $157,000, all characterized as \"cash gift for the holidays.\"\n\nThe White House stated that Trump has a longstanding personal practice of giving holiday gifts and that the gifts are unrelated to any official government duties, describing them as entirely permissible under relevant legal and ethical standards. No other White House staffer among the 91 listed in disclosures declared receiving gifts from the president, including members of the First Lady's senior staff.\n\nFederal employees are generally prohibited from receiving outside compensation for their duties, though legal experts say determining whether personal gifts cross ethical lines is not straightforward. Cassandra Burke Robertson, a law professor and ethics expert at Case Western Reserve University, told the BBC it was \"not an easy call\" on the ethical question.\n\nThe four recipients are among those considered most personally loyal to Trump. Nauta was previously indicted alongside Trump in the classified documents case, which was later dismissed. Critics argue the payments raise questions about the line between personal generosity and rewarding government service; the White House maintains there is no such conflict.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:32 PM MT",
+      "addedAtISO": "2026-09-09T16:32:01.799629-06:00",
+      "slot": 18
+    },
+    {
+      "category": "technology",
+      "headline": "Meta Ran Hundreds of AI-Generated Child Sexual Abuse Ads in India Despite Government Order to Remove Them",
+      "summary": "A new report from the Tech Transparency Project, a Washington-based research initiative, found that Meta ran 332 paid advertisements featuring AI-generated child sexual abuse material on Facebook and Instagram over the past ten months, with 84 of those ads appearing in India — 78 of them published after the Indian government explicitly ordered Meta to remove all such content and met with senior company officials.\n\nThe findings come two months after a BBC Eye investigation first revealed that Instagram was running paid ads promoting child sexual abuse material in India, which prompted orders from the National Commission for Protection of Child Rights and the National Human Rights Commission. The TTP report also identified real photographs of children, including a European royal family member, that were manipulated using AI for the ads. More than a dozen ads appeared even after TTP had alerted Meta to the problem.\n\nMeta said in a statement that it does not tolerate nudify apps or child exploitation in any form and that criminals constantly shift tactics to evade detection, adding that it reports apparent child exploitation to the National Center for Missing and Exploited Children. Indian child rights advocates say that is insufficient, arguing Meta is flouting Indian law by not reporting such material directly to Indian law enforcement agencies.\n\nJust Rights for Children has filed a petition in India's Supreme Court citing the BBC findings, seeking mandatory reporting requirements for social media platforms. Analysts say the case raises urgent questions about platform accountability, AI-generated harmful content, and the effectiveness of government enforcement orders against major technology firms.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:32 PM MT",
+      "addedAtISO": "2026-09-09T16:32:01.799629-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
       "headline": "Update: Russia Launches Massive Missile and Drone Attack on Ukraine After Peace Talk Pause",
       "summary": "Russia launched a major assault on Ukraine early Tuesday, firing dozens of cruise missiles and more than 140 drones in what Ukrainian officials described as a complex, coordinated attack. The strike began at approximately 3:30 a.m. local time, leaving Kyiv's skies filled with smoke from fires caused by the bombardment. The offensive came immediately after a 72-hour pause during which U.S. envoys Jared Kushner and Steve Witkoff conducted diplomatic visits to both capitals.\n\nThe attack represents a significant escalation following the weekend peace talks brokered by the U.S. envoys, which ended without a breakthrough on fundamental issues. The timing — directly after a diplomatic pause — signals Moscow's continued willingness to press military advantage even during active negotiation efforts. Ukrainian forces reported engaging the incoming missiles and drones, though full damage assessments were still being compiled.\n\nSupporters of stronger Western backing for Ukraine argue the assault demonstrates that diplomatic overtures without security guarantees embolden Russian aggression. Those favoring a negotiated settlement caution that the attack underscores the urgency of reaching a ceasefire before further civilian infrastructure is destroyed ahead of winter. The strikes come as Europe has been accelerating delivery of air defense systems to Kyiv.",
       "source": "Washington Examiner",
