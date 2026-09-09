@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-09",
+  "dateFormatted": "Wednesday, September 9, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: U.S. Military Destroys Five Iranian Oil Tankers as Brent Crude Hits $100",
+      "summary": "The U.S. military destroyed five Iranian crude oil tankers linked to the Islamic Revolutionary Guard Corps on Tuesday, U.S. Central Command announced. The strikes were carried out in response to two separate Iranian ballistic missile attacks on U.S. Navy warships in as many days. The tankers destroyed were identified as the M/T Kaviz, M/T Charminar, M/T Horizon 1, M/T Riesco, and a fifth vessel.\n\nThe escalation sent Brent crude oil surging past $100 per barrel for the first time since July, a significant threshold that amplifies pressure on global consumers and financial markets. Iran separately struck American-linked targets in Jordan, continuing a cycle of tit-for-tat strikes that has persisted throughout the now seven-month-old conflict. The Trump administration also announced new sanctions this week targeting 36 entities accused of supporting Iran's aviation sector to move weapons and personnel.\n\nThe widening conflict is raising fears of a sustained oil supply shock, with the Strait of Hormuz and surrounding shipping lanes increasingly contested. Analysts and market observers warn that sustained prices above $100 per barrel could accelerate inflation pressures in the United States and globally, complicating Federal Reserve monetary policy ahead of its September meeting. Iran denied U.S. accounts of some engagements, claiming it targeted three U.S.-linked ships.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/live/trump-canada-tariffs-economy-news-updates-09-08-2026",
+      "sourceCount": 7,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-09T05:08:38.434355-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Russia Strikes Kyiv TV Station as Five Killed; Trump and Putin Speak by Phone",
+      "summary": "Russian drones struck the Kyiv headquarters of Ukrainian television channel We Are Ukraine on Tuesday, injuring at least five people while journalists were broadcasting live, President Volodymyr Zelensky announced. The daytime attack followed overnight missile and drone strikes on the Ukrainian capital that killed three people and injured 25 others, damaging residential buildings across multiple districts. Zelensky called the media strike a \"new page in Russian degradation\" and renewed appeals to Western allies for support.\n\nThe attacks came just days after both countries agreed to halt strikes on each other's capitals during a visit by U.S. envoys Steve Witkoff and Jared Kushner to Moscow and Kyiv, a ceasefire arrangement Russia appears to have abandoned. A BBC Verify analysis found Kyiv is now experiencing more daily air raid alerts than at any point since Russia's full-scale invasion began in 2022. A separate Russian strike on a passenger train in southern Ukraine killed a female employee.\n\nIn a significant diplomatic development Tuesday evening, Presidents Trump and Putin spoke by phone for approximately one hour in what Moscow described as \"constructive and very frank\" talks. The Trump administration declined to publicly comment on the call's substance, while Witkoff had earlier said \"substantive progress was made\" during the envoy visits without providing specifics. The talks have so far yielded no breakthrough on ending the conflict.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-09T05:08:38.434355-06:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "Update: Trump Bans Canadian Alcohol, Dairy and Motorcycle Imports as Trade War Deepens",
+      "summary": "President Trump signed a series of executive orders Tuesday banning U.S. imports of Canadian alcoholic spirits, certain dairy products and motorcycles, with the measures set to take effect September 29. Trump accused Canada of \"discriminating\" against American businesses by restricting U.S. goods while allowing the same products from other countries to enter freely. The announcement came hours after Canada's retaliatory tariffs on approximately $20 billion in U.S. goods took effect just after midnight.\n\nCanada's trade minister Dominic LeBlanc called the new U.S. measures \"unjustified\" and said he would work to protect Canadian workers and businesses, adding that he had contacted his American counterpart and pledged to engage \"in good faith.\" Canadian Prime Minister Mark Carney acknowledged that diversifying away from the U.S. as Canada's largest trading partner \"will come at a cost.\" Canada's counter-tariffs match U.S. duties and target dairy, steel, clothing and furniture, among other goods.\n\nEconomists note the import ban covers only about 0.25 percent of Canada's total exports to the U.S., but Stephen Brown of Capital Economics said Trump's willingness to impose an outright ban signals the measures are \"about inflicting economic pain rather than raising revenue.\" No new negotiations have been scheduled since talks collapsed in late August. The escalating dispute is creating political headaches for Republican Senate candidates who must defend the administration's economic record while distancing themselves from tariffs targeting key Canadian imports.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 7,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-09T05:08:38.434355-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: UK Sanctions Israeli Settlements, Israel Shuts British Consulate in Jerusalem",
+      "summary": "British Foreign Secretary Ed Miliband told Parliament on Tuesday that the UK would ban imports of goods from Israeli settlements in the occupied West Bank, framing the move as an effort to \"deter settlement expansion\" and block development of the contested E1 site east of Jerusalem. Miliband accused \"settler terrorists\" of conducting the \"ethnic cleansing\" of Palestinians and said the Israeli government had turned a \"blind eye.\" Israel has issued tenders for approximately 1,200 settlement homes at the E1 site.\n\nIsrael responded swiftly and sharply, with Foreign Minister Gideon Saar announcing the closure of the British consulate in Jerusalem and calling the UK government \"hostile.\" The UK's chief rabbi separately claimed British Jews would be less safe as a result of the sanctions, a charge Miliband rejected. The coordinated nature of the Western action — the UK, France and Canada all moved against settlement goods — was designed to spread diplomatic risk, though Israel's retaliation focused primarily on Britain.\n\nSupporters of the sanctions argue they apply meaningful economic pressure on settlement expansion that has accelerated during the Gaza conflict, while critics, including Israeli officials, contend the measures are one-sided and will damage relations with a key regional partner. Palestinians strongly backed the import ban. The dispute marks a significant deterioration in UK-Israel relations and adds Britain to a growing list of Western governments publicly breaking with Israeli settlement policy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 6,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-09T05:08:38.434355-06:00",
+      "slot": 5
+    }
+  ]
+}
