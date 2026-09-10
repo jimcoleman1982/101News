@@ -3,6 +3,48 @@
   "dateFormatted": "Thursday, September 10, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump Loyalist DiGenova Resigns as Head of DOJ 'Grand Conspiracy' Probe",
+      "summary": "Joseph diGenova, the 81-year-old Trump ally appointed by Attorney General Todd Blanche to lead a sweeping Justice Department investigation targeting Obama- and Biden-era officials, has resigned from the department. The investigation, run out of the Southern District of Florida, was designed to examine what the administration called a 'grand conspiracy' by former government officials to obstruct President Trump.\n\nThe resignation comes alongside a related development: a federal prosecutor assigned to a now-defunct case involving a politically connected Indian billionaire was also fired by the Trump administration, according to two people familiar with the action. The overlapping personnel changes suggest significant turmoil within the DOJ's politically sensitive investigations unit.\n\nSupporters of the probe had argued it was a necessary corrective to abuses of power by previous administrations, while critics contended it represented the use of federal law enforcement as a political weapon against Trump's opponents. DiGenova's departure raises questions about the future direction and viability of the investigation he was appointed to lead.\n\nThe story is covered by Bloomberg Politics, CBS News, and NBC News, reflecting broad interest in the fate of one of the Justice Department's most controversial ongoing efforts.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/trump-loyalist-tapped-to-lead-controversial-doj-probe-resigns",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:32 PM MT",
+      "addedAtISO": "2026-09-10T16:32:36.392932-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "At Least 24 Children Killed in School Fire and Stampede in Rebel-Held DR Congo",
+      "summary": "At least 24 schoolchildren died Thursday in a fire that engulfed two schools in Bukavu, a densely populated city in eastern Democratic Republic of Congo held by M23 rebels. Many of the deaths occurred in a stampede as students attempted to flee the blaze; survivors were taken to nearby hospitals, with footage showing children lying injured on hospital floors.\n\nThe cause of the fire remains unknown. In addition to the school deaths, approximately 300 houses were destroyed in the Kadutu commune, and authorities fear the provisional death toll of 24 could rise further. The Congolese government's Ministry of National Education expressed condolences and ordered assessments of affected schools.\n\nBukavu, the capital of South Kivu province, has been under M23 rebel control since February of last year, complicating relief and accountability efforts. The tragedy follows a fatal fire in Kinshasa last weekend at a wedding venue, prompting the government to order nationwide safety inspections at public gathering places.\n\nThe disaster underscores the compounding humanitarian crisis in eastern Congo, where ongoing armed conflict has disrupted education, health, and basic infrastructure for millions of civilians.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:32 PM MT",
+      "addedAtISO": "2026-09-10T16:32:36.392932-06:00",
+      "slot": 18
+    },
+    {
+      "category": "science_health",
+      "headline": "Iran Resuming Ballistic Missile Production Despite U.S. Claims of Destroyed Arsenal",
+      "summary": "Iran has resumed production of ballistic missiles, according to a Wall Street Journal report published Thursday, directly contradicting assertions by the Trump administration that U.S. military strikes had destroyed the bulk of Tehran's weapons infrastructure. Iran is assembling new missiles using existing components at several underground sites, including the Khojir facility, though at reduced quantities compared to pre-war levels.\n\nThe Trump administration has repeatedly claimed that its military campaign obliterated Iran's nuclear program and conventional weapons capacity. The new reporting, if accurate, suggests Iran's missile production capabilities are more resilient than U.S. officials have publicly acknowledged, with significant implications for regional security and the trajectory of the ongoing U.S.-Iran conflict.\n\nThe disclosure is likely to intensify debate in Washington over the effectiveness of the military campaign and the administration's public characterization of its results. Critics argue the strikes were insufficient to permanently degrade Iranian capabilities, while administration supporters maintain that the program has been set back substantially even if not eliminated entirely.\n\nThe story is covered by both The Hill and the New York Post, drawing from Wall Street Journal reporting, and arrives as the broader U.S.-Iran confrontation continues to affect global energy markets and regional stability.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/international/6082738-iran-ballistic-missiles/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:32 PM MT",
+      "addedAtISO": "2026-09-10T16:32:36.392932-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Netanyahu Sues Newspaper Over Report That UAE Warned Him of October 7 Attack",
       "summary": "Israeli Prime Minister Benjamin Netanyahu has instructed lawyers to file defamation proceedings against the newspaper Haaretz after it published extracts from a forthcoming book alleging that UAE President Sheikh Mohammed bin Zayed Al Nahyan warned Netanyahu in late September 2023 that Hamas chief Yahya Sinwar was planning a major operation. Netanyahu's office flatly denied any such warning was given, calling the report part of a 'sinister plot.' Haaretz has stood by its reporting, saying the legal action is intended to 'silence journalistic criticism.'\n\nThe report, based on three foreign senior sources and a Palestinian adviser to Sheikh Mohammed, claims a UAE embassy representative brought a secure phone to Netanyahu's office for a confidential call in which the UAE president described the planned Hamas operation as an 'earthquake.' Netanyahu allegedly responded with calm, reportedly dismissing the threat as likely directed at the West Bank rather than Gaza.\n\nThe publication carries significant political weight as Israel heads toward a general election on October 27, widely viewed as a referendum on Netanyahu's leadership. Critics have long accused Netanyahu of failing to act on intelligence warnings before the October 7 attacks, in which approximately 1,200 people were killed and 251 taken hostage. Netanyahu has resisted calls for an independent public inquiry into the events surrounding the attack.",
