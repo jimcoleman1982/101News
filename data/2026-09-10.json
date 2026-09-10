@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-10",
+  "dateFormatted": "Thursday, September 10, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Trump Promises $5,000 'Dividend' to Every Adult American if Republicans Win Midterms",
+      "summary": "President Donald Trump, speaking at the Republican National Committee's first-ever midterm convention in Dallas, pledged to send every adult U.S. citizen a $5,000 \"Trump Dividend\" if Republicans retain control of both the House and Senate in November's midterm elections. Trump also acknowledged that the U.S.-Iran war would likely continue through Election Day, claiming Iran was \"hanging out for dear life\" hoping Republicans would lose. The speech was the centerpiece of a two-day GOP rally at the American Airlines Center, where Trump urged supporters to \"pretend that I'm on the ballot.\"\n\nThe proposal, which would cost more than $1 trillion, immediately drew scrutiny from economists and lawmakers. Fellow Republicans have previously rejected similar cash-payment ideas, and any such program would require congressional approval. Vice President JD Vance appeared to partially walk back the promise, suggesting it would not apply to all adults and could be funded by tariff revenues — despite Supreme Court rulings striking down much of Trump's tariff program.\n\nThe convention also featured a surprise video appearance by Democratic Sen. John Fetterman of Pennsylvania, who praised Republican Sen. Dave McCormick and Trump's record on the steel industry, deepening his estrangement from the Democratic Party. Fetterman later clarified he still intends to caucus with Democrats. Illinois Gov. JB Pritzker, a potential 2028 presidential contender, dismissed the convention, saying Republicans had \"done nothing to earn your vote.\"\n\nSeparately, Rhode Island held Democratic primaries Wednesday night, with Gov. Dan McKee losing to former CVS executive Helena Foulkes — making McKee the first sitting governor to lose a primary in nearly a decade — and Providence Mayor Brett Smiley losing to democratic socialist state Rep. David Morales. Sen. Jack Reed easily won his primary and is projected to win a sixth term in the deep-blue state.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/donald-trump/",
+      "sourceCount": 21,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-10T05:08:53.337656-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Five Dead, 86 Missing After Fire Engulfs Philippines Ferry Near Palawan",
+      "summary": "At least five people have died and 86 remain missing after a fire broke out aboard the MV June Aster, a passenger ferry carrying 117 passengers and 17 crew members in the Philippines. The vessel was less than an hour from its destination at the tourist island of Coron when flames erupted in the cargo hold Wednesday evening local time. Strong currents and thick smoke hampered rescue and firefighting efforts, and the blaze was still burning Thursday morning.\n\nForty-three people have been rescued, with seven taken to a hospital on a neighboring island. A survivor, Roland Lerma, told the BBC he floated in the sea for two hours before being pulled to safety. Coastguard officials noted that some passengers were not wearing life vests, and the cause of the fire remains under investigation.\n\nMaritime disasters are common in the Philippine archipelago, where inter-island ferries serve as a primary and affordable means of travel and cargo transport between its more than 7,000 islands. Families of the missing have been posting desperately on social media and on the coastguard's Facebook page seeking information about loved ones, including a family of three — a mother, father, and three-year-old daughter — who were returning home after attending a funeral.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-10T05:08:53.337656-06:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "Apple Unveils $1,999 Folding iPhone Duo in First Major Design Change in Nearly 20 Years",
+      "summary": "Apple on Wednesday launched the iPhone Duo, its first foldable smartphone, priced starting at $1,999 and ranging up to $3,200 — the most expensive iPhone ever sold. The announcement, made at Apple's California headquarters, marks the first major iPhone design overhaul since the original device debuted in 2007. New CEO John Ternus, who took over from Tim Cook this month, made the launch his public debut, with analysts noting the event was structured to spotlight him almost as much as the product itself.\n\nThe iPhone Duo folds to roughly the size of a passport and unfolds to resemble a small iPad. Apple took eight years to develop the device, entering a foldable market already dominated by Samsung and, particularly in China, Huawei, which controls nearly 80% of foldable phone sales in that country. Apple also announced the iPhone 18 Pro and 18 Pro Max, starting at $1,199 and $1,299 respectively.\n\nAnalysts offered cautious assessments. Some compared the Duo's prospects to Apple's Vision Pro headset, a premium product priced at $3,699 that has struggled to find mass-market traction. Others said the device could follow the path of the Apple Watch — not a blockbuster but a steady seller for millions annually. The steep learning curve of switching from a traditional phone form factor and the entrenched competition in foldables were cited as key hurdles.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-10T05:08:53.337656-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "August Was Earth's Hottest Month on Record, European Climate Scientists Say",
+      "summary": "The European climate monitoring service Copernicus announced that August 2026 was the hottest month ever recorded in global temperature measurements, tying or exceeding July 2023, the previous record holder. The finding also means the Northern Hemisphere endured its hottest summer on record. Scientists attributed the heat surge primarily to human-caused climate change.\n\nResearchers warned that additional records could fall in the months ahead. The announcement adds to a series of consecutive record-breaking temperature milestones that have been logged in recent years, underscoring the accelerating pace of global warming that scientists say is driving more frequent and severe heat events worldwide.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-10T05:08:53.337656-06:00",
+      "slot": 5
+    }
+  ]
+}
