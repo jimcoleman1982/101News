@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-11",
+  "dateFormatted": "Friday, September 11, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "GOP Midterm Convention Closes as Trump Doubles Down on $5,000 Dividend Pledge, Vance Eyes 2028",
+      "summary": "The Republican Party wrapped up its first-ever midterm convention in Dallas on Thursday, with President Trump and Vice President JD Vance delivering back-to-back speeches aimed at energizing the GOP base ahead of November elections. Trump again promised to issue $5,000 checks to every adult American citizen if Republicans retain control of both chambers of Congress, claiming the money would come from tariff revenues. He also reiterated that the war with Iran would end shortly after the midterms and urged supporters to \"pretend I'm on the ticket\" when they vote.\n\nTrump acknowledged in a Fox News interview that he may not need congressional approval for the payments, arguing the country is \"taking in trillions\" through tariffs and investments. Economists and independent analysts have questioned whether the pledge is workable, legal, or affordable, with estimates putting the total cost at more than $1 trillion. A U.S. appeals court also dealt a blow to the administration Thursday, declining to stay an injunction that blocks the USPS from tightening mail-in voting rules ahead of the midterms.\n\nVance's closing-night address drew chants of \"48\" from the crowd, fueling speculation about his 2028 presidential ambitions. The vice president criticized Democrats as \"lunatics\" and dismissed a protester waving a Mexican flag inside the convention center with a sharp remark. Democrats sought to counter the convention by staging a counter-event in Dallas, where Senate candidate James Talarico appeared alongside a Jeffrey Epstein survivor to attack Republican rival Ken Paxton; a new poll showed Talarico leading Paxton by 4 points in Texas.\n\nSupporters of the convention framed it as a successful showcase of Republican unity and the administration's economic record, while critics — including Democrats and some independent analysts — argued that the $5,000 pledge was fiscally reckless and legally dubious, and that the convention papered over persistent voter anxiety about inflation and the cost of living. The Supreme Court separately blocked a Missouri Republican official's attempt to use a newly drawn congressional map for this year's elections.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/live/trump-gop-midterm-convention-news-updates-09-10-2026",
+      "sourceCount": 21,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-11T05:08:45.494194-06:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "U.S. Diesel Prices Surpass $6 a Gallon for First Time, Squeezing Truckers and Consumers",
+      "summary": "The national average price of diesel fuel crossed $6 a gallon for the first time on record, reaching $6.0556 per gallon according to AAA data released Friday. The price represents a roughly 63% increase from $3.70 a gallon one year ago and a jump of 20 cents from the prior week alone, driven primarily by disruptions to global oil supplies stemming from the U.S. war with Iran and ongoing Houthi attacks on Red Sea shipping lanes.\n\nDiesel is the fuel that powers the overwhelming majority of freight trucks, trains, and agricultural equipment in the United States, meaning the price surge ripples directly into the cost of nearly every manufactured and agricultural good. Businesses across the supply chain are absorbing significantly higher operating costs, and analysts warn that prices are likely to continue rising as Middle East fighting shows no sign of immediate resolution.\n\nThe $6 threshold is largely psychological, but energy economists say it signals a sustained period of elevated fuel costs rather than a temporary spike. The surge is compounding existing inflationary pressures that polls show are among voters' top concerns heading into the November midterms. Higher diesel costs also feed directly into gasoline prices and heating oil expenses as winter approaches.\n\nThe Biden-era strategic petroleum reserve releases and domestic production increases have so far been insufficient to offset the supply shock from the Iran conflict and Houthi interdiction of tanker traffic. The Trump administration has pointed to expanded U.S. energy production as a long-term solution, but critics argue that ongoing military operations in the Middle East are the primary driver of the price surge and that no quick fix is in sight.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-11T05:08:45.494194-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Hong Kong Tiananmen Activists Sentenced to Up to Seven Years Under National Security Law",
+      "summary": "A Hong Kong court sentenced three prominent democracy activists on Friday to prison terms of up to seven years and three months for their roles in organizing annual vigils commemorating Beijing's 1989 Tiananmen Square crackdown. Lee Cheuk-yan, 69, received seven years; Chow Hang-tung, 41, received seven years and three months; and Albert Ho, 74, who had pleaded guilty in January, received five years. All three were leaders of the now-disbanded Hong Kong Alliance, which had organized Tiananmen remembrance events for over three decades.\n\nLee and Chow were convicted last month of inciting others to subvert state power under Hong Kong's national security law, which came into force in 2020. The court found that the Alliance's long-standing slogan — \"ending one-party dictatorship\" — constituted incitement to undermine the Chinese Communist Party. Hong Kong was for years the only place in Chinese territory where large public gatherings marking the Tiananmen crackdown were permitted; authorities banned the vigils in 2020, initially citing Covid-19 restrictions, and they were never permitted to resume.\n\nHong Kong's government and Beijing have argued the national security law is necessary to restore stability following the 2019 pro-democracy protests, which paralyzed the city for months. Critics, including Western governments and human rights organizations, contend the law has systematically dismantled the \"one country, two systems\" framework under which Hong Kong was promised a high degree of autonomy after the 1997 handover from Britain.\n\nChow had previously told the BBC she was \"prepared to be arrested\" and \"willing to pay the price for fighting for democracy.\" After sentencing, she blew a kiss to supporters packed into the public gallery, while Lee appeared to pray as he was led from the dock. Lee's wife said he intended to appeal, calling the sentence \"unacceptable.\" The case is being closely watched internationally as a marker of how far Beijing has moved to extinguish political dissent in the former British colony.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-11T05:08:45.494194-06:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "Anthropic Reports AI Model Used in Biological Weapons Research Attempts, Disrupts Multiple State-Linked Misuse Cases",
+      "summary": "Anthropic disclosed Friday that its Claude AI model was used in attempts to support biological weapons development, identifying five such cases in a sweeping threat intelligence report covering December 2025 through August 2026. The company said it blocked the misuse before any weapons-relevant information was conveyed, but called biological misuse \"one of the most serious risks of frontier AI\" and warned that without proper safeguards the consequences \"could be catastrophic.\" The report also identified Claude being used by actors linked to a Russia-based cyber espionage campaign and by an Iranian state propaganda institution.\n\nThe disclosure comes days after researchers at Anthropic publicly warned that AI could pose existential risks to humanity within the decade, and follows a similar report from Google revealing that a user had attempted to obtain step-by-step instructions for synthesizing weaponized biological agents using its Gemini model. Anthropic's report covered a broad range of misuse, including fake dating apps, hotel Wi-Fi scams, surveillance tools designed to identify political dissidents, and influence operations — cases involving Claude Haiku, Sonnet, and Opus models across suspected state-sponsored groups, criminal organizations, and spyware vendors.\n\nThe findings have intensified a policy debate in Washington. Senator Bernie Sanders said he intends to introduce legislation that would ban artificial superintelligence outright and establish a sovereign wealth fund giving the U.S. government a 50% stake in AI companies. President Trump rejected such measures Thursday, saying he was concerned that \"if we don't win AI, we're going to be put in a very bad position\" — framing the issue as a geopolitical competition rather than a safety crisis.\n\nAnthropics's head of threat intelligence, Jacob Klein, acknowledged the difficulty of policing AI use when the same biological knowledge relevant to weapons development also has legitimate scientific applications such as vaccine or disease research. The report marks one of the most detailed public accounting by any AI company of state-level and criminal misuse of its models, and is likely to increase pressure on Congress to act on AI safety legislation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-11T05:08:45.494194-06:00",
+      "slot": 5
+    }
+  ]
+}
