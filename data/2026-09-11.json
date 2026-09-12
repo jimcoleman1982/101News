@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, September 11, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Passenger Train Derails in Northern France, Injuring at Least 44",
+      "summary": "A passenger train derailed Friday evening near Cléon, just south of Rouen in Normandy, injuring at least 44 people. One 18-year-old woman was airlifted in critical condition to hospital. The train was carrying approximately 180 passengers on a route between Rouen and Caen when it left the tracks shortly before 8:00 p.m. local time.\n\nFrench Transport Minister Philippe Tabarot confirmed that 140 firefighters and emergency responders were deployed to the scene. French media reported that three carriages overturned. Local authorities activated a mass-casualty response plan as a precaution.\n\nThe cause of the derailment was not immediately known. State railway operator SNCF reported significant disruptions to services in the region and said replacement buses would be provided. Authorities advised the public to avoid the area as rescue operations continued.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-11T21:08:18.270745-06:00",
+      "slot": 21
+    },
+    {
+      "category": "technology",
+      "headline": "Update: Congress Scrambles for Response After Anthropic Insiders Warn AI Could End Humanity",
+      "summary": "Warnings from Anthropic researchers that artificial intelligence could destroy humanity within the decade have triggered a wave of anxiety in Congress, with members of both parties calling for urgent legislative action. According to Axios, federal lawmakers are currently at what one aide described as the \"concepts of a plan\" stage, with congressional leadership showing little apparent urgency to mobilize a coherent response.\n\nRank-and-file members are pushing harder. Representative Johnny Olszewski (D-Md.) told Axios that Congress \"should absolutely act, and act with urgency.\" The alarm follows separate reporting that Anthropic's own researchers resigned this week with explicit warnings about near-term existential risk from advanced AI models — an unusually stark public break from within a leading AI company.\n\nThe legislative scramble unfolds against a backdrop of competing pressures. President Trump has dismissed doomsday warnings, saying Thursday he is more concerned about the U.S. falling behind in AI development than about the technology itself. Senator Bernie Sanders has called for a pause on advanced AI and a ban on artificial superintelligence. The divergence reflects a broader national debate over whether aggressive AI development is more dangerous than falling behind global competitors such as China.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/11/congress-ai-anthropic-coxon-researcher-democrats",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-11T21:08:18.270745-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Six Nigerians Accused of Romance Scams Extradited from South Africa to Face U.S. Charges",
+      "summary": "South African police handed over six Nigerian nationals to FBI and U.S. Secret Service agents on Friday, extraditing them to the United States to face wire fraud and money-laundering charges. The six men were arrested in South Africa in 2021 and are believed to be members of Black Axe, a Nigerian criminal syndicate tied to internet fraud, human trafficking, and murder that operates across Africa, Europe, and North America.\n\nU.S. authorities allege the group targeted more than 100 women in the United States, defrauding them of more than 100 million rand, equivalent to roughly $6 million, through sophisticated online romance scams. Victims reportedly included pensioners and business owners lured into fabricated online relationships. The group was transported from a correctional facility in Cape Town to the airport for the handover.\n\nThe extradition is the latest in a years-long international effort to dismantle Black Axe. The FBI launched operations against the network in 2019 and 2021, charging more than 35 individuals. Last month, Interpol's most recent coordinated operation — running from November 2025 through June 2026 — resulted in 39 arrests and the blocking of more than 250 bank accounts across multiple countries.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-11T21:08:18.270745-06:00",
+      "slot": 21
+    },
+    {
       "category": "technology",
       "headline": "House Members Urge Speaker Johnson to Cancel Recess, Pass AI Safeguards Immediately",
       "summary": "A letter circulating among House members Friday urges Speaker Mike Johnson (R-LA) to immediately reconvene Congress and keep it in session until lawmakers pass safeguards for advanced artificial intelligence. The letter, drafted by Rep. Sam Liccardo (D-CA) and co-signed by Reps. George Whitesides (D-CA) and Lori Trahan (D-MA), calls the situation an emergency requiring urgent legislative action.\n\nThe push follows a wave of alarming disclosures from Anthropic, the AI company, whose researchers and threat intelligence report this week warned that AI could pose an existential threat to humanity within the decade. Congressional members from both parties say they are scrambling to formulate a response, though leadership has so far shown limited urgency.\n\nPresident Trump has pushed back against the alarm, saying Thursday he is more concerned about the United States falling behind in AI than about the technology's risks. The divergence highlights a central policy tension: how aggressively to regulate a technology seen as both a strategic national asset and a potential catastrophic threat.\n\nSeparately, Anthropic's threat intelligence report documented that its AI models were used between December 2025 and August 2026 in attempts to support biological weapons development, Russian cyber espionage, and Iranian propaganda operations — concrete cases that have intensified calls for federal intervention.",
