@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Houthi Forces Consolidate Red Sea Coastline Grip as Saudi Arabia Urges U.S. Strikes",
+      "summary": "Iran-backed Houthi rebels have consolidated control over a stretch of Yemen's western Red Sea coast, tightening their hold on the Bab al-Mandab Strait — a critical chokepoint through which a significant share of global oil and shipping traffic passes. Saudi Crown Prince Mohammed bin Salman called President Trump twice to urge direct U.S. military strikes against the Houthis, but Trump declined and U.S. officials stressed no direct intervention is planned. The Houthi advance represents the group's most significant territorial gain in several years and has sent oil prices sharply higher.\n\nThe new development today is the confirmation that Saudi Arabia contacted the White House seeking military assistance, and Trump's public acknowledgment that the Houthis have asked the U.S. not to target them — revealing active back-channel signaling between Washington and the militant group. Iraq also confirmed that drone attacks forcing Saudi Arabia to shut its East-West pipeline originated from Iraqi territory, prompting Baghdad to dismiss a senior military commander and open a formal investigation.\n\nThe Strait of Bab al-Mandab, alongside the Strait of Hormuz, forms one of the world's most consequential oil shipping corridors. Iran and its allies now hold sway over approaches to both waterways, a strategic position that analysts say significantly enhances Tehran's leverage in any future negotiations. Global energy markets have responded with sharp price increases.\n\nSupport for intervention is divided. Saudi Arabia, along with some regional partners, is pressing Washington for military action. The Trump administration has so far resisted, with officials noting no current plans for direct U.S. involvement even as the USS George Washington carrier group deploys to the region. Pakistan and Turkey have signaled they would consider intervention only if Saudi Arabia formally requests it.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iraq-iran-yemen-saudi-arabia-c1359273dd970b969e823356e5ead377",
+      "sourceCount": 21,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "4:14 PM MT",
+      "addedAtISO": "2026-09-12T16:14:33.277236-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Reform UK Raises Record £72 Million in 24 Hours as Farage's Party Eyes Power",
+      "summary": "Nigel Farage's Reform UK party received a second major donation on Saturday, bringing the total raised in under 24 hours to £72 million (approximately $97 million) — a record for British political fundraising and far exceeding sums raised by Labour or the Conservatives this year. The latest pledge came from BitMEX founder Ben Delo, who contributed £36 million, following an earlier major donation in the same window.\n\nThe fundraising surge reflects the rapid rise of Reform UK as a serious electoral force in British politics, positioning itself as an insurgent alternative to the established parties ahead of the next general election. Reform has polled competitively with Labour and the Conservatives in recent months, and the influx of funds is expected to dramatically expand its organizational capacity and advertising reach.\n\nCritics have raised concerns about the concentration of large individual donations in British politics and whether such sums give wealthy backers disproportionate influence over party policy. Reform and its supporters argue the donations represent grassroots enthusiasm for a platform centered on tighter immigration controls, skepticism of net-zero climate policies, and reduced government spending.\n\nThe development signals a significant shift in the British political landscape, with a well-funded insurgent party now capable of competing financially with century-old institutions. Analysts say the money could allow Reform to contest seats it previously lacked the resources to seriously challenge.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-12/farage-s-reform-raises-record-72-million-in-less-than-24-hours",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:14 PM MT",
+      "addedAtISO": "2026-09-12T16:14:33.277236-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Fire Kills 16 Elderly Residents at Chilean Nursing Home",
+      "summary": "At least 16 elderly residents died Friday night when a fire broke out at the El Edén nursing home in southern Chile, approximately 640 kilometers south of Santiago. Ten additional residents were evacuated before the blaze, which began around 10:30 p.m. local time, was finally extinguished Saturday morning. The cause of the fire remains under investigation.\n\nChile's President José Antonio Kast ordered a nationwide review of nursing home conditions following the tragedy. \"We need to know the truth and, based on that, correct whatever is necessary to do everything possible to prevent a tragedy like this from happening again,\" Kast said in a statement. Local prosecutor Jorge Granada said investigators had not yet determined what started the blaze.\n\nFirefighters were still clearing debris and removing collapsed corrugated metal roofing on Saturday as police cordoned off the area. Local mayor Jacqueline Romero said authorities had been providing support to affected families. The incident has intensified scrutiny of safety standards and regulatory oversight at elder care facilities across the country.\n\nThe death toll makes this one of the deadliest nursing home fires in Chile in recent memory and has prompted immediate calls for legislative action on elder care facility inspections and fire safety compliance.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:14 PM MT",
+      "addedAtISO": "2026-09-12T16:14:33.277236-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
       "headline": "Trump Calls United Ireland 'A Great Thing' During Dublin Visit",
       "summary": "President Donald Trump said a united Ireland would be 'a great thing' during the first day of his visit to Ireland, a statement that immediately drew widespread attention given longstanding U.S. policy of neutrality on the issue of Irish reunification. Trump is spending time in Ireland partly to attend the Irish Open golf tournament, but the political remarks dominated coverage of day one of his trip.\n\nThe comment represents a significant departure in tone from traditional U.S. diplomatic positioning, which has historically avoided taking sides on Irish reunification while supporting the Good Friday Agreement framework. Irish and British officials have not yet issued formal responses to the remark, though it is expected to reverberate in both Dublin and London, given the sensitivity of the issue in the context of UK-Ireland relations and Northern Ireland's constitutional status.\n\nThe visit drew coverage from more than 20 outlets across the political spectrum, reflecting the diplomatic weight of a sitting U.S. president weighing in on one of Europe's most historically charged territorial questions. Supporters of Irish unity welcomed the remarks, while critics noted that such statements from a U.S. president could complicate relationships with the United Kingdom at a sensitive time.",
       "source": "BBC News",
