@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Trump Calls United Ireland 'A Great Thing' During Dublin Visit",
+      "summary": "President Donald Trump said a united Ireland would be 'a great thing' during the first day of his visit to Ireland, a statement that immediately drew widespread attention given longstanding U.S. policy of neutrality on the issue of Irish reunification. Trump is spending time in Ireland partly to attend the Irish Open golf tournament, but the political remarks dominated coverage of day one of his trip.\n\nThe comment represents a significant departure in tone from traditional U.S. diplomatic positioning, which has historically avoided taking sides on Irish reunification while supporting the Good Friday Agreement framework. Irish and British officials have not yet issued formal responses to the remark, though it is expected to reverberate in both Dublin and London, given the sensitivity of the issue in the context of UK-Ireland relations and Northern Ireland's constitutional status.\n\nThe visit drew coverage from more than 20 outlets across the political spectrum, reflecting the diplomatic weight of a sitting U.S. president weighing in on one of Europe's most historically charged territorial questions. Supporters of Irish unity welcomed the remarks, while critics noted that such statements from a U.S. president could complicate relationships with the United Kingdom at a sensitive time.",
+      "source": "BBC News",
+      "url": "https://bbc.com/news/live/cqp9302g20z8t",
+      "sourceCount": 21,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:15 PM MT",
+      "addedAtISO": "2026-09-12T13:15:48.928709-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Fire at Bulgarian Ammunition Depot Supplying Ukraine Investigated as Possible Sabotage",
+      "summary": "Bulgarian authorities are investigating an overnight fire at an ammunition storage facility operated by private defense company EMCO, whose weapons are used by Ukraine in its war against Russia. Interior Minister Ivan Demerdzhiev said investigators are 'not ruling out outside interference,' while EMCO itself declared the blaze an act of sabotage and said human error was 'completely ruled out.'\n\nThe incident follows a similar fire and explosions at a separate EMCO warehouse in the same region last month. EMCO, run by arms dealer Emilian Gebrev — who Bulgarian prosecutors say has previously been targeted by Russian agents, including a 2015 poisoning attempt — said the affected site had not been in use for months and had passed a compliance inspection just 20 days earlier. The company cited a pattern of similar incidents at Bulgarian defense firms since 2011.\n\nThe fire comes amid what European security officials describe as an escalating Russian sabotage campaign across the continent. Germany recently attributed an August drone attack on Leipzig's airport to Russia, and suspicious fires have been reported at defense facilities from Estonia to Italy. Bulgaria, despite halting state arms supplies to Ukraine, remains a significant source of weapons through its private defense sector, making its ammunition infrastructure a plausible target.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:15 PM MT",
+      "addedAtISO": "2026-09-12T13:15:48.928709-06:00",
+      "slot": 14
+    },
+    {
+      "category": "science_health",
+      "headline": "Atlantic Hurricane Season Sets Record for Fewest Storms as Massive El Niño Suppresses Activity",
+      "summary": "The 2026 Atlantic hurricane season has set a post-1950 record for the longest stretch into a season without a qualifying hurricane, as an unusually powerful El Niño smothers storm formation across the basin. As of Saturday, no Atlantic storm has reached the 74 mph wind threshold to be classified a hurricane, despite this period normally representing the season's peak. Overall storm activity is running at just 7% of normal for this time of year, according to Colorado State University hurricane researcher Phil Klotzbach.\n\nMeteorologists say three simultaneous forces driven by El Niño are effectively destroying any storm systems that attempt to form: extreme wind shear that tears apart developing cyclones, record dry air that starves them of moisture, and downward-pushing winds that prevent the convective structure needed for a hurricane to strengthen. Wind shear in the prime storm formation zone between Africa and the Caribbean is running approximately 45 mph above the threshold a tropical cyclone can withstand — a level atmospheric scientists describe as unprecedented.\n\nDespite the record-quiet season, experts cautioned against complacency. They pointed to 1992, another slow season that still produced Hurricane Andrew, one of the most destructive storms in U.S. history. El Niño is a temporary natural warming of the equatorial Pacific that typically suppresses Atlantic hurricane activity, though its effects vary from storm to storm.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/science/where-have-all-the-atlantic-hurricanes-gone-el-nino-might-bring-record-slow-storm-season",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:15 PM MT",
+      "addedAtISO": "2026-09-12T13:15:48.928709-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Update: Saudi Arabia Shuts Key Oil Pipeline After Drone Attack From Iraq",
       "summary": "Saudi Arabia closed its critical East-West oil pipeline Saturday after drones launched from Iraqi territory struck the facility, forcing the world's largest crude exporter to halt an artery that carries 4% to 5% of global oil supply. The 1,200-kilometer pipeline had served as Saudi Arabia's primary alternative to the Strait of Hormuz, making its shutdown a significant blow to global energy markets already strained by the ongoing U.S.-Iran war.\n\nIraq's government moved quickly to contain the diplomatic fallout, confirming the attack originated from its Maysan governorate — a province bordering Iran — and dismissing the regional military commander. An umbrella group of Iran-backed militias in Iraq denied involvement, but Saudi Arabia and Western analysts have long accused such groups of operating with Iranian direction. Iraq's prime minister spoke directly with Saudi leadership, pledging a full investigation.\n\nSaudi Arabia said it was shutting the pipeline as a precaution and chose not to retaliate immediately, while reserving the right to take 'all necessary measures' to protect its sovereignty and infrastructure. The Gulf Cooperation Council condemned the attack as a 'dangerous escalation' and a violation of international law. The incident widens the Middle East conflict beyond the U.S.-Iran and Houthi fronts, adding a new pressure point on global oil shipping at a moment when Houthi forces have seized much of Yemen's Red Sea coastline.",
       "source": "BBC News",
