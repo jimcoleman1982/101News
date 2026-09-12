@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-12",
+  "dateFormatted": "Saturday, September 12, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: US-Iran War Intensifies as Both Sides Trade Strikes, Oil Hits New Highs",
+      "summary": "The United States and Iran continued to exchange military strikes this week, with American forces attacking rocket launchers on Larak Island in the Strait of Hormuz and hitting five Iranian tankers, triggering retaliatory Iranian strikes that killed four people when shrapnel struck a ceremony. The conflict shows no clear exit strategy for either side, with analysts noting that Iran's leadership options are severely constrained while U.S. military posture in the region remains aggressive.\n\nOil markets have responded sharply, with Brent crude rising further after the tanker strikes. U.S. diesel prices have already surpassed $6 a gallon, and fuel costs across Europe have also surged. President Trump has attributed rising oil prices to the Iran conflict and pledged they will fall after the November midterm elections, a claim critics have disputed.\n\nIran's new leadership following Khamenei's death faces deepening pressure, with the IAEA referring Tehran to the UN Security Council for nuclear non-compliance — the first such referral in 20 years — after Iran condemned U.S. and Israeli strikes on its nuclear facilities. Iran has also resumed ballistic missile production despite U.S. claims of having destroyed its arsenal.\n\nThe BRICS summit in Delhi, where divisions within the bloc have made a unified response to Washington unlikely, underscores the broader geopolitical realignment triggered by the conflict. With both countries trading strikes following a brief diplomatic pause, questions about whether peace talks can resume remain unanswered.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+      "sourceCount": 27,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-12T05:08:17.328252-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Ukraine Faces 'Toughest Winter' Since Invasion as Russia Targets Energy Grid",
+      "summary": "Ukraine is facing its most severe winter humanitarian crisis since Russia's full-scale invasion began in 2022, a senior United Nations official warned the BBC on Friday. Alexander De Croo, head of the UN development agency and the organization's third most senior official, said there was a serious risk of a 'humanitarian catastrophe' if Russian attacks continue to degrade Ukraine's power and water infrastructure before temperatures drop.\n\nRussia has escalated its use of faster, jet-powered drones that are increasingly difficult for Ukrainian air defenses to intercept, launching round-the-clock strikes on energy transmission lines, petrol stations, warehouses, and factories. A Russian drone strike on a shopping mall in Pavlohrad this week killed five people and wounded 67 others, and two additional mall strikes earlier in the week killed two and injured 28 across Zaporizhzhia and Sumy.\n\nUkraine has continued its own long-range drone campaign deep into Russian territory, targeting gas, oil, and business distribution facilities. Russia reported a Ukrainian seaborne drone attack on the resort city of Sochi that wounded 28, and Ukrainian drones also struck a border crossing between Ukraine and Moldova, killing two people and drawing the neighboring country further into the conflict.\n\nDe Croo described a 'race against the clock' to repair Ukraine's power network before winter, saying the country is starting 'from a very weak base.' The warnings come after deadly attacks resumed following a brief diplomatic pause in which U.S. envoys met separately with Putin in Moscow and Zelensky in Kyiv.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-12T05:08:17.328252-06:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "Stubborn Inflation Raises Prospect of Federal Reserve Rate Hike Next Week",
+      "summary": "New government data released Friday showed that annual U.S. inflation remained unchanged in August, still well above the Federal Reserve's 2 percent target, raising expectations that the central bank will raise interest rates at its meeting next week. Economists and investors said the figures solidified bets on a rate hike, as inflation has proven resistant to previous tightening measures.\n\nThe persistence of elevated prices has been linked in part to surging fuel costs driven by the U.S.-Iran conflict, which has pushed oil prices sharply higher and contributed to broad price pressures across the economy. President Trump has publicly pushed back against rate increases, arguing that the Fed should not raise borrowing costs while the administration is managing wartime economic pressures.\n\nA rate hike would raise borrowing costs for consumers and businesses at a moment when household budgets are already strained by diesel topping $6 a gallon and elevated prices across goods and services. The Fed's decision will be closely watched as it navigates the dual pressures of persistent inflation and a slowing economy battered by geopolitical uncertainty.",
+      "source": "The Hill",
+      "url": "https://thehill.com/business/6085407-cpi-inflation-federal-reserve-interest-rates/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-12T05:08:17.328252-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "North Korea Fires Ballistic Missiles Into Sea After Condemning US-South Korea-Japan Drill",
+      "summary": "North Korea launched ballistic missiles toward the sea on Saturday, one day after the United States, South Korea, and Japan concluded a trilateral military drill that Pyongyang had condemned as a direct threat to its security. South Korea's military said the missiles were fired from the Wonsan area on North Korea's eastern coast and that Seoul was closely exchanging information on the launches with Washington and Tokyo.\n\nThe launches represent the latest in a cycle of escalation on the Korean Peninsula, where North Korea has routinely responded to joint allied military exercises with weapons tests intended to demonstrate its ballistic missile capabilities. South Korea said it was closely monitoring the situation following the launches.\n\nThe timing is significant given the already heightened global security environment driven by the U.S.-Iran conflict and the ongoing war in Ukraine. Analysts have noted that North Korea has used periods of Western distraction to advance its weapons programs and press its strategic interests with reduced international scrutiny.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/6085776-north-korea-launches-missiles/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-12T05:08:17.328252-06:00",
+      "slot": 5
+    }
+  ]
+}
