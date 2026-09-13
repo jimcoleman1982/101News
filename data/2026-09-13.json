@@ -3,6 +3,48 @@
   "dateFormatted": "Sunday, September 13, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: BRICS Summit Closes With 'New Delhi Declaration' as Iran War Exposes Deep Divisions Among Members",
+      "summary": "World leaders gathered in New Delhi for the BRICS summit concluded with a joint declaration dubbed the 'New Delhi Declaration,' but the document highlighted sharp divisions rather than unity. Indian Prime Minister Narendra Modi framed the gathering as a push for member nations to become 'rule-shapers, not rule-takers,' hosting Chinese President Xi Jinping, Russian President Vladimir Putin, Iranian President Masoud Pezeshkian, and other heads of state around a single table — a diplomatic feat given the bloc's internal tensions, including past India-China border clashes and Iran-UAE military hostilities.\n\nThe declaration notably sidestepped the most contentious issues. On the Middle East war, it called only for 'maximum restraint' and condemned attacks on civilian infrastructure without assigning blame. The document made no mention whatsoever of Russia's war in Ukraine — a marked departure from previous BRICS declarations — reflecting the impossibility of consensus among members that include both Russia and nations aligned with the West.\n\nAnalysts noted the summit exposed a fundamental fault line: China, Russia, and Iran see BRICS as a vehicle to dilute Western influence, while India has resisted casting the bloc as anti-Western, with Modi explicitly stating the group is 'not against anyone.' Veteran Indian diplomat Anil Trigunayat said what India achieved was a push for 'strategic autonomy in an era of war' rather than a unified geopolitical front.\n\nThe summit's outcome illustrates how the ongoing Middle East conflict and the Ukraine war are reshaping multilateral diplomacy, forcing nations with competing interests to choose between solidarity and strategic self-interest. Two earlier ministerial meetings this year failed to produce any joint statement at all, making even this limited declaration a qualified success.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:11 AM MT",
+      "addedAtISO": "2026-09-13T10:11:52.952156-06:00",
+      "slot": 11
+    },
+    {
+      "category": "technology",
+      "headline": "Update: Former Anthropic Researcher Warns AI Safety Is 'Not Top of Mind' at Leading Labs as Congress Debates Response",
+      "summary": "Jacob Coxon, a researcher who resigned from Anthropic days ago, said Sunday that employees at leading AI firms have 'not enough time' to consider the safety risks of the models they are building, and that safety is 'definitely not top of mind' inside those organizations. His remarks, made on ABC's 'This Week,' came as the AI safety debate reached a new intensity following Anthropic CEO Dario Amodei's public call for a slowdown, saying that even one or two additional years before models reach 'critical levels of capability' could 'greatly reduce the risk that something goes seriously wrong.'\n\nThe disclosure sharpens pressure on Congress, where House Speaker Mike Johnson said Sunday that lawmakers will not take the lead on AI safety regulation — a position already covered in today's digest. Democratic Leader Hakeem Jeffries countered that Congress needs to 'act urgently,' and former President Barack Obama separately urged Jeffries at a private fundraiser to make AI oversight central to the Democratic agenda, warning the technology could be 'dangerous' if not managed with a clear plan.\n\nThe insider perspective from Coxon is significant because it comes from someone who worked inside one of the four largest AI labs at the moment those labs publicly endorsed slowing development — suggesting the gap between public commitments and internal practice may be wide. Senator Chris Coons said Congress is 'struggling to keep pace' and that managing AI risks will ultimately require cooperation among industry, government, and international partners.\n\nThe debate reflects a broader tension: the United States faces competitive pressure from China that makes a full development pause politically difficult, while insiders and some executives are warning that the pace of advancement is outrunning any safety framework. With midterm elections seven weeks away, both parties are maneuvering to claim the AI safety issue.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/6086701-coxon-warns-ai-race-danger/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:11 AM MT",
+      "addedAtISO": "2026-09-13T10:11:52.952156-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "Charlie Kirk Critics Who Were Fired a Year Ago Reflect on Lives Upended by Social Media Posts",
+      "summary": "One year after the assassination of conservative activist Charlie Kirk on a Utah university campus, some of the hundreds of people fired or disciplined for posting critical remarks hours after his death are speaking publicly about the lasting consequences. Gerald Bourguet, a sports journalist, described fleeing his state with his four-month-old after his home address was published online and threatening messages arrived. He said he does not regret what he posted but acknowledged: 'My life will never be the same after this.'\n\nKirk, who founded Turning Point USA, was a polarizing figure: celebrated on the right as a gifted communicator who brought conservative ideas to young audiences, and condemned on the left for comments on race, immigration, gun control, and gender identity. The aftermath of his killing prompted a fierce national debate about the boundaries of free speech and the consequences of online expression in a polarized environment.\n\nThe backlash against critics was amplified at the highest levels of government. Vice President JD Vance publicly urged Americans to 'call out' those celebrating Kirk's murder, and right-wing commentator Laura Loomer warned critics their 'professional aspirations' would be ruined. Some terminated employees have since been reinstated or received financial settlements; others, like Bourguet, have had to relocate and rebuild their careers entirely.\n\nThe story raises durable questions about workplace discipline, political speech, and the power of social media mobs — issues that have not been resolved in the year since Kirk's death and that continue to affect hundreds of individuals whose cases have received little national attention.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:11 AM MT",
+      "addedAtISO": "2026-09-13T10:11:52.952156-06:00",
+      "slot": 11
+    },
+    {
       "category": "business",
       "headline": "Update: Fed Holds Rates Steady as Inflation Hits 3-Year High Under New Chair Warsh",
       "summary": "The Federal Reserve held its benchmark interest rate steady Wednesday under new Chair Kevin Warsh, as inflation runs at more than twice the Fed's 2% target — its highest level in three years. All 12 members of the Federal Open Market Committee voted unanimously to hold rates at the current level between 3.5% and 4%, though nine members signaled they expect a rate hike before year's end, a significant shift from projections issued three months earlier.\n\nWarsh, Trump's nominee who recently replaced former Chair Jerome Powell, used his first post-decision press conference to pledge a commitment to price stability. 'Persistently high prices are a burden for the American people,' Warsh told reporters in Washington. 'This committee will deliver price stability.' The FOMC statement cited supply shocks, particularly in the energy sector driven by the Middle East conflict, as a key driver of elevated prices.\n\nThe decision arrives days after the U.S. and Iran announced a deal — set to be formally signed Friday in Switzerland — that includes plans to reopen the Strait of Hormuz, the maritime route through which roughly one-fifth of global oil supply passes. Oil prices fell to their lowest level since March following the announcement, and gasoline prices dipped below $4 a gallon for the first time since March, offering potential relief. However, grocery and energy prices remain well above pre-war levels.\n\nMarkets had widely anticipated the hold, but the hawkish tilt among committee members — with four in ten odds now assigned to a December rate hike by the CME FedWatch Tool — represents a concrete new development. The rate decision is the first major policy action under Warsh's leadership and will be closely watched as a signal of how the new Fed chair intends to balance inflation control against economic growth risks.",
