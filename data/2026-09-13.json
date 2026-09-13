@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-13",
+  "dateFormatted": "Sunday, September 13, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Federal Judge Rules Trump's Plan to Halve FEMA Workforce Illegal",
+      "summary": "A federal judge ruled Friday that the Trump administration acted unlawfully when it directed the Department of Homeland Security to cut the Federal Emergency Management Agency's workforce in half. U.S. District Judge Susan Illston of the Northern District of California found that DHS \"unlawfully usurped the authority\" of FEMA in attempting to implement the cuts, and issued an order blocking the directive from taking effect.\n\nThe ruling came during an active hurricane season, with the judge explicitly noting that the workforce reductions would hinder FEMA's ability to respond to disasters. The administration had argued the restructuring was within executive authority over agency operations.\n\nCritics of the plan, including Democrats and emergency management professionals, said gutting FEMA's staff during hurricane season created unacceptable risks for Americans in disaster-prone areas. Supporters of the administration's broader government-reduction agenda contend that federal agencies are overstaffed and that leaner operations can remain effective. The ruling is the latest in a series of court setbacks for the administration's efforts to dramatically reduce the federal workforce.",
+      "source": "The Hill",
+      "url": "https://thehill.com/regulation/court-battles/6086363-trump-fema-cuts-illegal-federal-judge/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:28 AM MT",
+      "addedAtISO": "2026-09-13T03:28:47.493837-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Murder Arrest Made in Death of Tasia Fortune, Black Woman Found Hanging in Mississippi",
+      "summary": "Mississippi police arrested 51-year-old Jarques Ratliff, a Black Jackson resident, on a murder charge Friday in connection with the death of Tasia Fortune, a 29-year-old Black woman whose body was found hanging from a tree in the backyard of an abandoned Jackson home on August 3. The arrest followed Thursday's determination by the state medical examiner that Fortune's death was a homicide, which enabled police to execute warrants they already had prepared.\n\nJackson Police Chief RaShall Brackney described the arrest as \"an important development\" but emphasized the investigation remains active and additional arrests are expected. Ratliff had an \"association\" with Fortune, police said, though they declined to elaborate on the nature of their relationship. It was not immediately determined whether Ratliff had legal representation.\n\nFortune's mother, Christy Spivey, said she burst into tears upon learning of the arrest, telling officers \"thank you, thank you, thank you,\" while acknowledging the family still lacks answers about motive. The case drew intense national and international media attention after Fortune's loved ones insisted she would not have taken her own life. The homicide ruling and subsequent arrest resolve the initial uncertainty about the manner of death that had fueled public concern.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/mississippi-police-arrest-a-man-in-the-death-of-tasia-fortune",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:28 AM MT",
+      "addedAtISO": "2026-09-13T03:28:47.493837-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Wisconsin GOP Gubernatorial Candidate Tom Tiffany Survives Emergency Plane Landing in Lake",
+      "summary": "Wisconsin Republican gubernatorial candidate and U.S. Rep. Tom Tiffany and a pilot escaped with minor injuries Saturday night after their small four-seat Bonanza aircraft lost power on approach to Wausau Downtown Airport and made an emergency water landing in Lake Wausau. Tiffany said the incident occurred following his appearance at a La Crosse County Lincoln Day Dinner.\n\nAfter the plane hit the water, it began filling and sinking before emergency responders could reach them, forcing both Tiffany and the pilot to exit the aircraft and swim to a shallow area. Rescue crews from the Wausau Fire Department reached them by boat, and both were transported to Aspirus Wausau Hospital with only minor injuries.\n\n\"God was watching over us tonight,\" Tiffany wrote on social media, expressing gratitude to first responders and noting his wife Chris was at his bedside. The incident drew an outpouring of well-wishes on social media. Tiffany, who represents Wisconsin's 7th Congressional District, is running as the Trump-backed Republican candidate for governor against likely Democratic nominee Francesca Hong.",
+      "source": "Fox News Politics",
+      "url": "https://www.foxnews.com/politics/tom-tiffany-wisconsin-plane-crash-emergency-landing",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:28 AM MT",
+      "addedAtISO": "2026-09-13T03:28:47.493837-06:00",
+      "slot": 5
+    },
+    {
+      "category": "other",
+      "headline": "Céline Dion Returns to Stage in Paris for First Full Concert in Six Years",
+      "summary": "Canadian singer Céline Dion performed her first full concert in six years Saturday in Paris, opening a sold-out residency at a Paris venue after a prolonged battle with stiff-person syndrome, a rare neurological disorder that had sidelined her career. The residency is scheduled to run for 26 concerts over the next eight months.\n\nFans began gathering outside her hotel as early as 6 a.m. to catch a glimpse of the performer before she departed for the show. Dion is one of the best-selling music artists of all time, and her return has been widely anticipated by fans around the world who followed her public struggle with the debilitating condition.\n\nThe Paris residency marks a significant milestone in what has been described as a difficult personal and professional recovery. Dion had previously announced her comeback with the phrase \"I'm so ready for this,\" and her appearance Saturday was seen as confirmation that she had regained the health necessary to resume performing at the highest level.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "3:28 AM MT",
+      "addedAtISO": "2026-09-13T03:28:47.493837-06:00",
+      "slot": 5
+    }
+  ]
+}
