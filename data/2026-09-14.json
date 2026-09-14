@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "DHS Inspector General Finds Immigrants Held in Small Outdoor Cages at Florida's 'Alligator Alcatraz'",
+      "summary": "A report from the Department of Homeland Security's Office of the Inspector General found that immigrants detained at Florida's 'Alligator Alcatraz' facility were held in small outdoor metal cages measuring roughly 18 square feet, sometimes for nearly two hours. The OIG, whose current inspector general was appointed by President Trump during his first term, described the practice as 'unprecedented among detention facilities' and said it did not align with standards for humane treatment. Investigators also found deficiencies in hygiene, medical care, food, and safety.\n\nThe facility, built over eight days in the Florida Everglades in 2025 through an executive order by Governor Ron DeSantis, held 79 immigrants in the outdoor enclosures between July 2025 and January 2026, with officials describing the cages as 'calming areas' for detainees to 'deescalate.' DHS told the watchdog that Florida, not the federal government, had authority over day-to-day operations, though federal funds paid for operational costs. DeSantis announced the facility's closure in June 2026, calling it a temporary measure.\n\nThe findings add official government documentation to previous reports from detainees and civil rights groups who had long criticized conditions at the site. Critics argue the report confirms systemic mistreatment of immigrants in federal custody, while administration supporters have pointed to state jurisdiction over daily operations and the facility's temporary, emergency nature as context for shortfalls. The report is expected to intensify congressional scrutiny of immigration detention standards.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:10 PM MT",
+      "addedAtISO": "2026-09-14T13:10:02.480212-06:00",
+      "slot": 14
+    },
+    {
+      "category": "business",
+      "headline": "Canadian PM Carney Hosts $120 Trillion Investment Summit to Reduce Dependence on U.S. Amid Trade War",
+      "summary": "Canadian Prime Minister Mark Carney opened a major investment summit in Toronto on Monday, drawing approximately 300 CEOs and senior executives whose firms collectively manage more than $120 trillion in assets. The summit is designed to attract foreign capital to Canada and reduce the country's economic dependence on the United States as a trade war with the Trump administration intensifies.\n\nTrade talks between the U.S. and Canada collapsed on August 21, after which Trump imposed 50% tariffs on roughly $20 billion in Canadian goods. Canada retaliated, and Washington subsequently announced bans on some Canadian imports and moved to exclude Canadian products from large U.S. government contracts. Carney, who previously ran the central banks of both Canada and England and spent 13 years at Goldman Sachs, is pitching Canada's energy resources, critical minerals, educated workforce, and access to 1.5 billion consumers through existing trade agreements.\n\nOfficials cautioned that the summit is unlikely to produce immediate deals, with significant results expected over the next 12 to 18 months. Carney met separately Monday with the CEOs of Macquarie Group, the world's largest infrastructure investment manager, and Singapore's Temasek Holdings. The summit represents a significant diplomatic and economic maneuver by Canada to reorient its investment relationships away from the United States.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/carney-pitches-canada-to-global-investors-amid-trade-war-with-trump",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:10 PM MT",
+      "addedAtISO": "2026-09-14T13:10:02.480212-06:00",
+      "slot": 14
+    },
+    {
+      "category": "other",
+      "headline": "Alexander Zverev Wins U.S. Open, Extending American Men's Grand Slam Drought to 23 Years",
+      "summary": "German tennis player Alexander Zverev defeated American Ben Shelton 6-3, 7-6 (2), 5-7, 6-2 on Sunday at Flushing Meadows to win the U.S. Open title, his second Grand Slam championship of 2026 following his French Open victory earlier this year. The win extended the longest Grand Slam drought for American men in the Open Era, with no U.S. man having won a major since Andy Roddick's U.S. Open title in 2003.\n\nShelton, 23, was attempting to become the first Black men's champion at the U.S. Open since Arthur Ashe in 1968 and played in front of a crowd overwhelmingly backing the American. Zverev, the No. 1 seed, was so focused during the match that he did not initially realize he had won, dropping back into a return position after his final serve winner before registering the chair umpire's announcement.\n\nZverev finished the year 25-2 in major matches and earned $5.5 million, matching the prize won by women's champion Elena Rybakina for the largest payout in Grand Slam history. The result marks a significant milestone in men's tennis, with Zverev having now won both clay and hard-court majors in a single calendar year.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/alexander-zverev-beats-ben-shelton-to-win-the-u-s-open-title-and-extend-grand-slam-drought-by-american-men",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "1:10 PM MT",
+      "addedAtISO": "2026-09-14T13:10:02.480212-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
       "headline": "Democrats Launch 'New Battlefield Project' to Counter Anticipated Trump Election Interference",
       "summary": "Democratic state parties announced Monday the launch of the 'New Battlefield Project,' an operation aimed at recruiting 10,000 volunteers to monitor polling places ahead of the November midterm elections. The effort is designed to respond to potential federal interference, including the possible deployment of armed federal officers at polls. Activist groups are also planning mass protests and legal scholars are distributing guidance to judges on how to handle any government attempts to seize ballots.\n\nThe initiative comes in direct response to Trump administration actions that Democrats say threaten the integrity of the vote, including efforts to impose proof-of-citizenship requirements for voter registration and moves to give the U.S. Postal Service authority over which mail ballots are accepted. A second federal judge — a Trump appointee — separately blocked the USPS from implementing new mail-ballot rules, adding a second legal obstacle as the administration seeks emergency Supreme Court relief.\n\nRepublicans and Trump allies have dismissed Democratic warnings as partisan alarmism, arguing the administration's election integrity measures are lawful and necessary to prevent fraud. Trump has convened an unusual midterm convention and urged Republicans to redraw congressional maps to protect House seats, framing his efforts as ensuring a fair outcome for his party.\n\nThe scale of contingency planning is without modern precedent, with groups like Indivisible stating they have 'never prepared for an election sabotage event like we have now.' With voting already underway in some states and the Supreme Court still weighing the mail-ballot case, the legal and logistical battles over the midterms are intensifying rapidly.",
       "source": "PBS NewsHour",
