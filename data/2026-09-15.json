@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-15",
+  "dateFormatted": "Tuesday, September 15, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "U.S. Confirms First-Ever Deployment of Space Weapon in Earth's Orbit",
+      "summary": "The United States has publicly acknowledged for the first time that it has deployed a weapon in Earth's orbit, marking a historic admission of offensive military capabilities in space. Secretary of the Air Force Troy Meink made the disclosure at the Air, Space and Cyber Conference on Monday, saying the weapon was necessary to safeguard U.S. forces against hostile enemy action. He did not elaborate on the weapon's type, specific capabilities, or when it was placed in orbit.\n\nMilitary experts say the weapon could range from an electronic warfare or radio jamming platform to a kinetic kill vehicle capable of destroying enemy satellites, though analysts caution that publicly available information remains extremely limited. A U.S. Space Force spokesperson confirmed the service employs both kinetic and non-kinetic means to 'disrupt, degrade, and even destroy' adversary capabilities in space. The acknowledgment comes as the Trump administration advances its 'Golden Dome' missile defense initiative, which includes space-based interceptors.\n\nChina responded swiftly on Tuesday, with a foreign ministry spokesman warning against an 'arms race' in space and urging the U.S. to 'stop expanding its military capabilities and preparing for war in outer space.' The disclosure underscores an accelerating militarization of space driven by rival Russian and Chinese programs targeting U.S. satellites. A 1967 treaty bans weapons of mass destruction in orbit but does not prohibit other categories of space weapons.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:23 AM MT",
+      "addedAtISO": "2026-09-15T03:23:03.485326-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "China Imposes Sweeping New Travel Restrictions on Citizens, Including Tech Workers",
+      "summary": "China has enacted broad new regulations restricting the ability of its citizens to travel abroad, granting authorities expanded powers to bar individuals deemed a threat to national security, industrial interests, or technological security. Citizens found to have 'harmed' China's national security or interests while overseas can be barred from leaving the country for up to three years under the new rules. Border officials are also now required to advise citizens against traveling to countries designated as 'high-risk.'\n\nThe rules have significant implications for workers in sensitive technology sectors, including semiconductors and artificial intelligence — industries at the center of the U.S.-China rivalry. Earlier this year, co-founders of AI company Manus were reportedly barred from leaving China after it was acquired by Meta. Civil servants and state-owned enterprise employees have already been subject to informal passport controls for years, with some required to surrender passports to employers.\n\nWestern legal scholars and human rights observers described the move as a significant escalation of ideological control under President Xi Jinping, with one Georgetown University professor likening it to restrictions seen under Mao Zedong's era, when China was largely cut off from the world. The Chinese government has framed some of the measures as aimed at preventing corrupt officials from fleeing or transferring assets abroad, though critics say the scope extends far beyond that justification.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:23 AM MT",
+      "addedAtISO": "2026-09-15T03:23:03.485326-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Suspected Sabotage Causes Widespread Rail Disruption Across Netherlands",
+      "summary": "Major rail disruptions swept across the Netherlands on Tuesday after the country's railway operator ProRail reported what it described as suspected deliberate sabotage to the national rail network. Materials, including metal pipes approximately 1.5 meters in length, were found placed on tracks at multiple locations, causing widespread signal and crossing failures. ProRail confirmed the disruption appeared to be 'an intentional disruption caused by human action,' and the national police unit launched an investigation.\n\nAt least 15 separate disruptions were recorded across the country, affecting routes to Schiphol international airport, Utrecht, and several other major destinations in the center and north of the Netherlands. No suspects or motives have been identified as of Tuesday. The incident follows a recent French investigation into whether a separate train derailment in France was also caused by a malicious act.\n\nThe sabotage highlights growing concerns across Europe about the vulnerability of critical transportation infrastructure to deliberate attack. The Netherlands is a major European transit hub, and disruption to its rail network affects both domestic commuters and international passengers. Investigations are ongoing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:23 AM MT",
+      "addedAtISO": "2026-09-15T03:23:03.485326-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Anthrax Outbreak Kills Dozens of Animals in Zambia, Infects 12 People",
+      "summary": "Zambian authorities have issued urgent public warnings after an anthrax outbreak killed dozens of wild animals — including 46 hippos, eight elephants, five buffalo, and a crocodile — in the Munyamadzi Game Management Area in Muchinga province since July. Twelve people have been infected with anthrax after consuming meat from dead wildlife in the affected area, officials said over the weekend. No human deaths have been reported, and the infected individuals are receiving treatment.\n\nZambia's Disaster Management and Mitigation Unit said local communities in the affected region depend on wildlife for food, and that carcasses from the outbreak were consumed before the danger was recognized. Authorities have called for a suspension of hunting in the area and urged the public not to consume, sell, distribute, or handle meat from animals that die suddenly or from suspected anthrax infection. Laboratory investigations and surveillance are ongoing to determine the full geographic extent of the outbreak.\n\nAnthrax is endemic to Zambia but large-scale human infections are uncommon. The country experienced a severe outbreak in 2023, which killed four people and spread across nine of ten provinces. The disease is caused by the bacterium Bacillus anthracis, whose spores can persist in soil for years and enter animals through inhalation or open wounds.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:23 AM MT",
+      "addedAtISO": "2026-09-15T03:23:03.485326-06:00",
+      "slot": 5
+    }
+  ]
+}
