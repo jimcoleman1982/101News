@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, September 16, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "House Votes Unanimously to Hold Epstein Associate Leon Black in Contempt of Congress",
+      "summary": "The U.S. House of Representatives voted Wednesday by unanimous consent to hold billionaire private equity investor Leon Black in contempt of Congress for defying a subpoena from the House Oversight Committee. Black had been ordered to appear for an on-camera deposition and produce documents, including nondisclosure agreements, related to the committee's investigation into convicted sex offender Jeffrey Epstein. Black walked out of a voluntary hearing in June when questioned about the NDAs, and his lawyers subsequently filed suit challenging the subpoena's legality.\n\nOversight Committee Chairman James Comer said the vote sends a clear message that \"no one is above the law\" and vowed continued pursuit of transparency for Epstein survivors. The committee's top Democrat, Rep. Robert Garcia, called the contempt resolution \"an important step towards justice and accountability.\" Black has acknowledged paying Epstein $158 million for wealth management services but denies knowledge of Epstein's crimes prior to his 2019 indictment.\n\nThe contempt referral now goes to the Justice Department, which will decide whether to pursue criminal prosecution. Black left Apollo Global Management, which he co-founded, in 2021 amid scrutiny of his Epstein ties. His attorneys called the House action \"outrageous\" and said it ignored pending litigation and an ethics complaint filed against Chairman Comer.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:54 PM MT",
+      "addedAtISO": "2026-09-16T16:54:54.459654-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Family of Texas Woman Who Died While Pregnant Sues AG Paxton Over Denied Abortion",
+      "summary": "The family of Tierra Walker, a 37-year-old Texas woman who died of preeclampsia in late 2024 at roughly 20 weeks pregnant, filed a lawsuit Wednesday against Texas Attorney General Ken Paxton, alleging that his aggressive enforcement of the state's abortion ban created a climate of fear that prevented doctors from terminating her pregnancy. Walker, who was a mother to a teenage son, suffered seizures, blood clots, and a hypertensive crisis while requesting an abortion that physicians declined to perform.\n\nThe lawsuit contends that Paxton's enforcement posture led medical providers to prioritize legal risk over patient welfare, effectively denying Walker care that her family argues could have saved her life. Texas law bans nearly all abortions, with exceptions that critics argue are too narrowly defined to be reliably applied in complex medical emergencies. The case is among the most direct legal challenges yet to the enforcement mechanism — rather than the statute itself — of a state abortion ban.\n\nSupporters of the Texas law argue that existing medical exceptions are sufficient and that lawsuits such as this one misrepresent how the statute operates in practice. Paxton's office has not issued a public response to the complaint. The case is expected to become a flashpoint in the ongoing national debate over abortion access and the legal liability of state officials who enforce restrictive reproductive health laws.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/6094214-texas-woman-family-suing-paxton/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:54 PM MT",
+      "addedAtISO": "2026-09-16T16:54:54.459654-06:00",
+      "slot": 18
+    },
+    {
+      "category": "technology",
+      "headline": "House Democrats Move to Strip Federal Tax Breaks from Data Centers Fueling AI Boom",
+      "summary": "A coalition of House Democrats unveiled legislation Wednesday that would bar data centers from accessing certain federal investment tax incentives, putting the party in direct conflict with the Trump administration's push to accelerate artificial intelligence infrastructure across the country. The bill, introduced by Reps. Kristen McDonald Rivet of Michigan and Don Davis of North Carolina, is backed by 21 additional House Democrats, including a member of the Ways and Means Committee.\n\nProponents argue that data centers — which power AI systems and consume vast quantities of electricity and water — should not benefit from tax incentives not designed with the industry in mind. Rep. McDonald Rivet said the status quo represents Washington \"giving handouts to big tech companies while American families are drowning.\" Rep. Deborah Ross added that tech firms have sought to purchase land for data centers without disclosing their intentions, bypassing local community input.\n\nThe Trump administration has made data center expansion a centerpiece of its American AI strategy, streamlining permitting and encouraging development to compete with China in AI dominance. Supporters of the current tax treatment contend that the infrastructure investment generates jobs and economic activity and that restricting incentives would slow U.S. competitiveness. The legislation faces long odds in a Republican-controlled House but signals an emerging Democratic line of attack on AI policy ahead of the midterm elections.",
+      "source": "Fox News Politics",
+      "url": "https://www.foxnews.com/politics/tax-breaks-fueling-trumps-latest-tech-boom-landed-democrats-crosshairs",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:54 PM MT",
+      "addedAtISO": "2026-09-16T16:54:54.459654-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Update: New Photos Show Extensive Damage to U.S. Bases From Iranian Strikes, Military Says Public Not Informed",
       "summary": "Photographs obtained by CBS News from active U.S. military personnel show widespread destruction at American bases in Saudi Arabia and Kuwait resulting from Iranian strikes during the recent conflict. The images depict a severed Boeing E-3 Sentry radar aircraft at Prince Sultan Air Force Base, flattened trailers and a shredded large structure at Camp Beuhring in Kuwait, and a damaged four-story building at Camp Arifjan. One unnamed service member said: \"This is major damage to our bases that hasn't been communicated to the American public. We're standing there with our eyes closed getting punched in the face.\"\n\nThe photos were published a day after a Pentagon inspector general report confirmed that Iranian strikes damaged or destroyed hundreds of buildings and structures at U.S. bases across eight countries in the Middle East, with equipment losses totaling $3.7 billion. Overall U.S. spending on the war reached $33.4 billion through June 29, the report found. Dozens of U.S. aircraft were reported destroyed or damaged in the months after the conflict began.\n\nFormer national security official Brian Katulis said the images showed that \"America had not adequately prepared its defences\" and alleged that \"U.S. adversaries like China and Russia may have helped Iran in targeting.\" The White House referred questions to U.S. Central Command, which did not immediately respond. The Kremlin has previously denied involvement in Iranian military operations.\n\nThe publication of the photos intensifies scrutiny over the administration's public accounting of military losses and base vulnerability in the Middle East. Critics argue the scale of damage has been systematically downplayed, while administration supporters note that operational security concerns can limit disclosures during and after an active conflict.",
