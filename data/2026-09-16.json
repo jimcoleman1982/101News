@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-16",
+  "dateFormatted": "Wednesday, September 16, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Update: Supreme Court Blocks Trump Mail-Ballot Rules; House Passes War Powers Resolution on Iran; Massie Files Hegseth Impeachment Articles",
+      "summary": "The Supreme Court on Monday struck down U.S. Postal Service rules that would have significantly restricted mail-in voting ahead of the November midterm elections, handing a major defeat to the Trump administration less than two months before Election Day. The court's unsigned order drew public dissents from Justices Samuel Alito and Clarence Thomas. President Trump reacted furiously on Truth Social, claiming his three appointees were \"not the people I interviewed\" and suggesting without evidence they were being controlled by the left. Attorney General Todd Blanche said Tuesday at an unusual Rose Garden briefing — filling the role of de facto press secretary — that the White House would comply with the ruling.\n\nSeparately, the House voted 220-204 to pass a Democratic-sponsored war powers resolution directing Trump to halt military operations in Iran, the third such vote in Congress and the fifth overall across both chambers. Seven Republicans supported the measure, three more than in previous votes. A new Congressional Budget Office report released the same day estimated the Iran war has cost at least $38 billion through July and warned that depleted U.S. munitions stockpiles could take up to five years to rebuild, directly contradicting earlier White House claims that supplies were \"virtually limitless.\"\n\nRep. Thomas Massie (R-Ky.), in one of his final acts before leaving Congress after losing his primary, seized the House floor to introduce eight articles of impeachment against Defense Secretary Pete Hegseth, accusing him of violating the War Powers Resolution and committing \"high crimes and misdemeanors\" by continuing military operations in Iran without congressional authorization. The resolution is considered a long shot in the Republican-controlled House but is privileged, meaning Massie can force a full floor vote that would put every member on the record. The House also voted 232-147 to kill a separate impeachment resolution filed by Rep. Al Green (D-Texas) targeting Trump over his immigration crackdown, with dozens of Democrats voting \"present\" rather than take a position, exposing continued intraparty tensions.\n\nThe cascade of legislative and judicial confrontations reflects the deepening strain on U.S. institutions as midterm elections approach. Republicans argue the war powers resolutions are non-binding messaging votes that do not constrain the president, while Democrats and a small number of Republicans contend Congress has abdicated its constitutional duty. The Supreme Court's mail-ballot ruling, meanwhile, gives election officials clearer ground rules but leaves open broader questions about the administration's appetite for further election-related legal challenges before November.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6089351-todd-blanche-white-house-briefing/",
+      "sourceCount": 24,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:16 AM MT",
+      "addedAtISO": "2026-09-16T03:16:09.332185-06:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "10-Year Treasury Yield Hits 19-Year High Above 5% as Markets Fall Ahead of Fed Decision",
+      "summary": "The yield on the 10-year U.S. Treasury bond climbed above 5 percent on Tuesday, reaching its highest intraday level since July 2007 — before the 2008 financial crisis — as investors braced for a widely expected Federal Reserve interest rate hike on Wednesday. Major U.S. stock indexes fell for the sixth time in seven sessions, with the Nasdaq Composite leading declines. Bond traders have been building bearish positions ahead of the Fed meeting, betting the Treasury selloff driving yields to multi-decade highs will continue.\n\nThe Fed is broadly expected to raise its benchmark short-term interest rate for the first time in three years in an effort to combat stubborn inflation that has been exacerbated by elevated crude oil prices linked to the ongoing U.S.-Iran war. A new CBO assessment released Tuesday projected inflation will continue rising into the first quarter of next year. President Trump has publicly called for a rate cut, putting him at odds with the central bank's expected direction.\n\nRising Treasury yields have direct consequences for millions of Americans, increasing borrowing costs for mortgages, auto loans, and credit card balances. The 10-year yield serves as a benchmark for a wide range of consumer and corporate lending rates. Analysts noted that elevated crude prices — with Brent crude remaining sharply higher following attacks on Saudi oil infrastructure — are compounding inflationary pressures that the Fed is now being forced to address.",
+      "source": "The Hill",
+      "url": "https://thehill.com/business/6091487-us-treasury-yield-19-year-high/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:16 AM MT",
+      "addedAtISO": "2026-09-16T03:16:09.332185-06:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "Update: OpenAI's Altman Says World 'Right to Be Afraid' of AI but Defends Self-Regulation as Industry Splits on Oversight",
+      "summary": "OpenAI chief executive Sam Altman said Tuesday that the public is \"right to be afraid\" of artificial intelligence, marking his first public comments since a viral post by a former Anthropic researcher last week claimed AI could \"kill all humans\" by the end of the decade. Speaking at a Salesforce conference in San Francisco, Altman nonetheless argued that AI companies were capable of regulating themselves and should be trusted to \"do the right thing.\" He was contradicted in tone by Nvidia CEO Jensen Huang, who said at the same event that no new laws or regulations were needed and that safety was purely \"an engineering problem.\"\n\nMeta CEO Mark Zuckerberg posted on X that any AI lab failing to focus on alignment would \"fall behind,\" framing market incentives rather than government mandates as the appropriate check on AI behavior. The comments came as Anthropic CEO Dario Amodei continued to press for a slowdown in AI development and called on governments to regulate the industry. President Trump, meanwhile, has dismissed AI safety concerns as a \"sick conspiracy\" and a \"hoax,\" and Senate Majority Leader John Thune broke with the president Tuesday, saying Congress has \"a job to do\" on AI even as he called for a \"light touch.\"\n\nThe debate has scrambled traditional political alliances. Sen. Bernie Sanders (D-Vt.) and former Trump adviser Steve Bannon appeared jointly at a \"Pro-Human Assembly\" in Washington on Tuesday, both warning of AI's dangers and demanding restrictions, though offering competing policy visions focused on rivalry with China. A $1.2 trillion funding round that would double OpenAI's valuation was also reported Tuesday, underscoring how capital continues to pour into the sector even as the governance debate intensifies.\n\nThe split between executives favoring self-regulation and those calling for government intervention, combined with congressional deadlock and an openly dismissive White House, leaves the United States without a clear federal AI policy framework as the technology advances rapidly. Critics argue that relying on company incentives is insufficient given the scale of potential risks, while industry leaders and many Republicans contend that heavy regulation would cede ground to China.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:16 AM MT",
+      "addedAtISO": "2026-09-16T03:16:09.332185-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "EU Proposes Canada as First-Ever Associate Member as Both Sides Deepen Alliance Against U.S. Trade Pressure",
+      "summary": "European Commission President Ursula von der Leyen proposed Tuesday that Canada become the first associate member of the European Union, a historically unprecedented offer that would formalize a new tier of partnership between the bloc and a non-European country. Von der Leyen made the announcement during her State of the Union address in Strasbourg with Canadian Prime Minister Mark Carney present, framing it as part of a broader effort to build a new transatlantic security and trade architecture amid doubts about U.S. commitments to NATO and the ongoing trade dispute between Washington and Ottawa.\n\nThe proposal came as Carney wrapped up a major investment summit in Toronto, where he pitched Canada as a \"safe harbour\" for global capital and announced plans to open four of Canada's largest airports to private investment. More than 160 projects worth a combined C$1 trillion over five years were presented to investors representing over C$120 trillion in assets, including BlackRock's Larry Fink and Blackstone's Jon Gray. Ottawa offered new tax incentives and pledged faster regulatory approvals to attract capital away from the United States.\n\nThe EU-Canada overture represents a significant geopolitical realignment. Both sides are seeking to reduce economic dependence on the United States as new U.S. tariffs take effect and the Trump administration pursues an increasingly unilateral foreign policy. Von der Leyen also announced a new EU security architecture aimed at like-minded allies to address growing defense threats. Labour unions in Canada criticized the airport privatization plan as \"handing profitable public infrastructure over to private investors\" at the wrong moment, while supporters called it essential nation-building.\n\nThe precise legal and institutional content of an EU \"associate membership\" for Canada remains to be defined, and the proposal faces a complex ratification process across EU member states. Nonetheless, the symbolic weight of the offer — and Canada's enthusiastic reception of it — signals a durable shift in Western economic and security architecture that analysts say is a direct consequence of the Trump administration's trade and foreign policy posture.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:16 AM MT",
+      "addedAtISO": "2026-09-16T03:16:09.332185-06:00",
+      "slot": 5
+    }
+  ]
+}
