@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: New Photos Show Extensive Damage to U.S. Bases From Iranian Strikes, Military Says Public Not Informed",
+      "summary": "Photographs obtained by CBS News from active U.S. military personnel show widespread destruction at American bases in Saudi Arabia and Kuwait resulting from Iranian strikes during the recent conflict. The images depict a severed Boeing E-3 Sentry radar aircraft at Prince Sultan Air Force Base, flattened trailers and a shredded large structure at Camp Beuhring in Kuwait, and a damaged four-story building at Camp Arifjan. One unnamed service member said: \"This is major damage to our bases that hasn't been communicated to the American public. We're standing there with our eyes closed getting punched in the face.\"\n\nThe photos were published a day after a Pentagon inspector general report confirmed that Iranian strikes damaged or destroyed hundreds of buildings and structures at U.S. bases across eight countries in the Middle East, with equipment losses totaling $3.7 billion. Overall U.S. spending on the war reached $33.4 billion through June 29, the report found. Dozens of U.S. aircraft were reported destroyed or damaged in the months after the conflict began.\n\nFormer national security official Brian Katulis said the images showed that \"America had not adequately prepared its defences\" and alleged that \"U.S. adversaries like China and Russia may have helped Iran in targeting.\" The White House referred questions to U.S. Central Command, which did not immediately respond. The Kremlin has previously denied involvement in Iranian military operations.\n\nThe publication of the photos intensifies scrutiny over the administration's public accounting of military losses and base vulnerability in the Middle East. Critics argue the scale of damage has been systematically downplayed, while administration supporters note that operational security concerns can limit disclosures during and after an active conflict.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "2:05 PM MT",
+      "addedAtISO": "2026-09-16T14:05:13.529277-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "U.S. Imposes Visa Restrictions on South African Officials Over Alleged Anti-White Discrimination",
+      "summary": "The Trump administration announced visa restrictions Tuesday targeting South African government officials it accuses of promoting race-based discrimination against the country's white minority, marking a fresh escalation in strained bilateral relations. Secretary of State Marco Rubio said the restrictions apply to those who \"promote race-based discrimination, incite violence, or enable land confiscation without compensation in South Africa.\" No specific individuals were named in the announcement.\n\nThe move stems from the Trump administration's longstanding criticism of South Africa's land expropriation law, signed by President Cyril Ramaphosa, which allows the state to seize property in the public interest with compensation potentially set at zero in certain circumstances. Trump has previously cut aid to South Africa, expelled its ambassador, and offered refugee status to Afrikaners, whom he has described as facing persecution. The administration has repeatedly cited claims of a \"white genocide,\" assertions that have been widely disputed by independent analysts and South Africa's own crime statistics, which do not show white South Africans facing disproportionate violent crime.\n\nSouth Africa's Foreign Minister Ronald Lamola said the announcement was noted with \"concern\" and accused fringe groups of mischaracterizing the country's domestic policies. The South African government maintains that its land reform policies are necessary to address deep inequalities rooted in the apartheid era, under which the black majority was dispossessed of land and rights. It says the law requires authorities to first attempt negotiated agreements with landowners and allows disputes to be taken to court.\n\nThe announcement deepens a diplomatic rift that has widened sharply since Trump returned to office. Supporters of the restrictions argue they hold a foreign government accountable for racially discriminatory policies; critics contend the U.S. is misreading post-apartheid reform efforts and damaging a relationship with a significant regional power on the African continent.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "2:05 PM MT",
+      "addedAtISO": "2026-09-16T14:05:13.529277-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Senator Kennedy to Introduce Legislation Requiring Kill Switch on All Frontier AI Models",
+      "summary": "Sen. John Kennedy (R-La.) announced Tuesday that he plans to introduce legislation on the Senate floor requiring all frontier artificial intelligence models to contain an internal kill switch. Kennedy said he would attempt to pass the bill by unanimous consent. The legislation does not mandate that the government control the switch, but would require AI developers to build one into their systems.\n\nThe announcement comes as a broader national debate over AI regulation intensifies. More than two dozen members of Congress and governors told Axios they do not use AI or have rarely done so — a gap that critics argue makes effective oversight difficult given how rapidly the technology is evolving. At the same time, industry figures including Meta CEO Mark Zuckerberg have entered a public dispute with AI safety advocates at OpenAI and Anthropic over how aggressively the sector should be regulated or slowed.\n\nProponents of the kill switch requirement argue it represents a minimal safeguard to ensure humans retain ultimate control over powerful AI systems, particularly as warnings from within the industry about existential risks grow louder. Opponents, including some in the tech sector, have pushed back on government-mandated controls, arguing they could impede U.S. competitiveness and that technical implementation of a universal kill switch is far from straightforward.\n\nThe legislation is the latest in a series of congressional attempts to impose guardrails on AI development. Whether it can achieve the unanimous consent Kennedy is seeking remains uncertain, given divisions both within the GOP and among Democrats over how aggressively to regulate the technology.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/artificial-intelligence-safety-mark-zuckerberg-09-16-26",
+      "sourceCount": 20,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "2:05 PM MT",
+      "addedAtISO": "2026-09-16T14:05:13.529277-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Update: Houthi Drone Intercepted Near Mecca as Saudi-Yemen Conflict Intensifies",
       "summary": "Saudi Arabia shot down a Houthi drone south of Mecca on Tuesday, with coalition spokesman Turki al-Maliki calling the strike on Islam's holiest city a \"disgraceful act.\" The 57-nation Organisation of Islamic Cooperation condemned the incident as an \"unacceptable and intolerable transgression,\" while the Houthis denied targeting Mecca, insisting their operations focus on Saudi oil facilities and military bases.\n\nThe incident comes amid a sharp escalation in fighting, with the Houthis reporting more than 450 Saudi air strikes on their territory over the past week. Saudi authorities issued multiple security alerts for incoming projectiles in western areas including Mecca and Jeddah, and the U.S. Embassy issued a \"reconsider travel\" advisory for Saudi Arabia.\n\nThe broader regional context has deepened the crisis: the Houthis recently seized the strategic port city of Mokha and Perim Island in the Bab al-Mandab Strait, a key chokepoint for Red Sea shipping. Saudi Arabia's East-West oil pipeline also remains shut after a strike blamed on Iran-backed militias in Iraq, though U.S. Energy Secretary Chris Wright expressed optimism it could reopen within days.\n\nSaudi Crown Prince Mohammed bin Salman has been pressing President Trump to take direct military action against the Houthis. The U.S. Embassy warning and the proximity of the drone strike to Mecca mark a significant escalation in a conflict with implications for global energy markets and Red Sea shipping lanes.",
       "source": "BBC News",
