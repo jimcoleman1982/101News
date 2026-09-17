@@ -3,6 +3,48 @@
   "dateFormatted": "Thursday, September 17, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "RFK Jr. Tells Anti-Vaccine Group Trump Administration Is 'Your Friend' as HHS Reshapes Vaccine Policy",
+      "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. appeared Thursday before Children's Health Defense, the anti-vaccine organization he founded, and signaled that the Trump administration continues to support efforts to question routine vaccine safety and expand exemptions to federal mandates. Kennedy told attendees, 'You have a strong and steadfast friend at the White House,' stopping short of his most inflammatory past rhetoric but making clear that HHS is actively working to reshape federal vaccine policy behind the scenes.\n\nThe appearance is significant because it marks Kennedy's formal return to the organization he led before joining the administration, and underscores the degree to which vaccine skepticism has become embedded in federal health policy under the current administration. Critics argue the messaging from the nation's top health official undermines public confidence in immunization programs that have controlled or eliminated major infectious diseases.\n\nSupporters of Kennedy's approach contend that scrutiny of vaccine safety and informed consent are legitimate public health concerns long suppressed by regulatory agencies, and that the administration is simply giving voice to questions many Americans have asked. The appearance comes as the U.S. has seen renewed outbreaks of vaccine-preventable diseases, including the ongoing Pennsylvania measles outbreak that has resulted in four deaths.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/17/rfk-vaccine-safety-anti-vaccine-gathering",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:50 PM MT",
+      "addedAtISO": "2026-09-17T16:50:49.798847-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Wife of U.S. Scholar Jailed in China Urges Trump to Seek Release at Upcoming Xi Summit",
+      "summary": "The wife of U Min Zin, an American scholar arrested in China in June on espionage charges, testified before the House Foreign Affairs Committee on Wednesday asking President Trump to press Chinese President Xi Jinping for her husband's release when Xi visits Washington next week for a state visit. Sylvia Zin said she was 'deeply hopeful' Trump would raise the case, citing what she called the president's 'historic record on bringing wrongfully detained Americans home.'\n\nU Min Zin, director of a think tank focused on Myanmar policy and Chinese regional influence, was detained on June 3 after traveling to Kunming for an academic conference. The U.S. State Department last month formally designated him as 'wrongfully detained,' along with Chen Youlin, an American seismologist who has been held in China for two years. That designation transfers the cases to the Special Envoy for Hostage Affairs and elevates the diplomatic priority of securing their release.\n\nThe hearing, titled 'Lives, Not Leverage,' featured families of multiple Americans detained abroad and was chaired by Rep. Young Kim, who warned that Americans traveling to China risk being taken hostage as diplomatic leverage. A senior White House official told the BBC that resolving wrongful detentions of U.S. citizens is 'always a top priority for the President.' Xi's state visit to Washington is scheduled for Wednesday, and the cases are expected to figure in pre-summit diplomatic discussions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:50 PM MT",
+      "addedAtISO": "2026-09-17T16:50:49.798847-06:00",
+      "slot": 18
+    },
+    {
+      "category": "technology",
+      "headline": "Microsoft AI Chief Warns Uncontrolled AI Could Spawn 'Silicon Species' Rivalling Humanity",
+      "summary": "Mustafa Suleyman, chief executive of Microsoft AI, warned Thursday that without adequate safeguards the development of artificial intelligence could produce a new 'silicon species' capable of competing with humans for resources. Speaking to the BBC, Suleyman specifically criticized rival firm Anthropic for treating its AI model Claude as if it were human, a practice called anthropomorphizing, which he said risks creating technology that humanity cannot control. He called on the industry to ensure AI systems remain 'subordinate' to humans and cannot autonomously set their own objectives, earn money, or own assets.\n\nSuleyman's comments follow an essay he published earlier this week and come amid a widening public dispute within the AI industry about how to develop frontier models responsibly. OpenAI CEO Sam Altman said last week that the world is 'right to be afraid' of AI but argued that the industry should be trusted to self-regulate. Anthropic, which has not yet publicly responded to Suleyman's specific criticisms, has defended its approach to building what it calls a 'safe and beneficial' AI.\n\nThe debate has significant policy implications as Congress remains deadlocked on AI regulation and the Trump administration has dismissed AI safety concerns as a 'hoax.' Suleyman called for independent scrutiny of AI behavior, greater transparency in how systems are trained, and international alignment on keeping AI under human control. Computer scientist Dame Wendy Hall described the exchange as 'the sort of conversation we need to be having internationally,' contrasting it with what she called 'histrionics' from parts of the industry.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:50 PM MT",
+      "addedAtISO": "2026-09-17T16:50:49.798847-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Update: Federal Reserve Raises Interest Rates for First Time in Three Years; Trump Lashes Out",
       "summary": "The Federal Reserve raised its benchmark interest rate by a quarter percentage point on Wednesday, to a range of 3.75%–4%, marking the first rate hike in more than three years. Fed Chair Kevin Warsh, Trump's own pick to lead the central bank, said the move was necessary because \"inflation is too high and has been for too long,\" citing sustained price pressures driven in part by the ongoing U.S.-Iran war. Twelve of 18 Fed officials projected at least one additional hike this year.\n\nPresident Trump responded furiously, posting that rates \"should be 1%, or less\" and demanding cuts \"AND FAST!\" The public clash marks a significant early test of Trump's relationship with Warsh, whom he appointed expecting a more accommodating monetary policy stance. The conflict echoes Trump's repeated battles with former Fed Chair Jerome Powell during his first term.\n\nThe rate increase comes as war-driven oil price surges continue to push up the cost of fuel, goods, and services across the economy. Higher borrowing costs will affect mortgages, loans, and credit cards for tens of millions of Americans, while potentially slowing business investment. Markets are watching closely for signs of whether the Fed will follow through on a second hike before year's end.",
