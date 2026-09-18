@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Early Midterm Voting Begins as Postal Service Halts Mail-Ballot Computer System",
+      "summary": "Early in-person voting has begun in several states ahead of the November midterm elections, with competitive congressional and gubernatorial races drawing significant national attention. Vice President JD Vance traveled to Council Bluffs, Iowa, on Friday to rally voters behind Republican Senate and gubernatorial candidates in a state that has become unexpectedly competitive.\n\nThe U.S. Postal Service confirmed it has stopped development of a computer system central to President Trump's effort to limit mail voting, following the Supreme Court's rejection of Trump's executive order on the matter earlier this week. The decision closes one chapter in the administration's broader effort to assert federal control over election administration ahead of the midterms.\n\nPresident Trump separately announced that all 50 states will receive 'most favored nation' pricing on certain Medicaid-covered drugs, a policy move the administration is rolling out alongside governors with six weeks remaining before election day. Affordability and cost of living rank as top concerns among voters, according to recent polling.\n\nDemocrats appear energized heading into November, with polling showing the party at parity with their 2018 wave election performance. A New York Times/Siena poll found voters now trust Democrats over Republicans on the economy, healthcare, immigration, the deficit, and cost of living — though competitive races remain uncertain in Iowa, Kansas, and other traditionally Republican states.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/live/trump-mail-voting-midterms-kennedy-center-news-updates-09-18-2026",
+      "sourceCount": 11,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "10:20 AM MT",
+      "addedAtISO": "2026-09-18T10:20:52.899940-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Spain Moves Thousands of Migrants from Ceuta Beaches to Tented Camp",
+      "summary": "Spanish police launched an operation before dawn on Friday to relocate hundreds of migrants who have been living on beaches in Ceuta, the Spanish enclave on the northern coast of Africa, to a newly established tented camp in the port area. More than 3,000 migrants were to be transferred under the plan, which deployed over 170 officers including drone technicians.\n\nThe operation turned chaotic as crowds jostled to secure places at the camp, with some migrants breaking through police cordons along the designated two-kilometer route. Reports indicated police fired shots into the air to maintain order. Authorities said the situation was later brought under control and the operation continued.\n\nThe mass movement stems from a surge in July when approximately 72,000 migrants crossed from Morocco into Ceuta. Most have since returned, but Spanish authorities estimate that around 13,000 remain. The Spanish central government has disputed that figure as too high. The tented camp has a capacity of 1,700 people and is intended to allow authorities to identify migrants and assess their individual administrative status.\n\nThe crisis has intensified political pressure on Prime Minister Pedro Sánchez. The conservative opposition People's Party has accused Sánchez of being 'directly responsible' for the influx, pointing to government documents suggesting intelligence services warned of a planned mass crossing the day before it occurred. Sánchez has blamed trafficking gangs and social media rumors, and maintains the scale of the crossing was impossible to predict.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:20 AM MT",
+      "addedAtISO": "2026-09-18T10:20:52.899940-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Update: Canada-EU Associate Membership Talks Advance as Trump Threatens Retaliation",
+      "summary": "Canadian Prime Minister Mark Carney addressed the European Parliament on Thursday, signaling his government's openness to closer institutional ties with the European Union. European Commission President Ursula von der Leyen has proposed working toward making Canada the EU's first-ever 'associate member,' a status that would involve deeper cooperation across key economic and security sectors.\n\nCarney welcomed the EU's ambition for the arrangement in his parliamentary address. The proposal, first reported earlier this week, represents an unprecedented step in the EU's external relationships and reflects both sides' desire to deepen their alliance amid trade tensions with the United States.\n\nPresident Trump has threatened to take retaliatory action against the EU if it moves forward with granting Canada associate membership status. The warning underscores the degree to which the proposed arrangement is being viewed in Washington as part of a coordinated effort by U.S. allies to reduce their economic dependence on the United States.\n\nThe exact contours of what associate membership would mean for Canada remain under discussion. Analysts note the concept has no direct precedent in EU law, and any formal arrangement would require significant negotiation. The talks are nonetheless seen as a significant diplomatic development at a moment of realignment in transatlantic relations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:20 AM MT",
+      "addedAtISO": "2026-09-18T10:20:52.899940-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
       "headline": "Senate Races Polling Badly for Republicans as Midterms Approach",
       "summary": "Mid-September polling shows a difficult 2026 Senate landscape for Republicans, with President Trump's approval rating weighing on statewide races. A new poll in Kansas, considered a reliably Republican state, shows Democratic megachurch pastor Adam Hamilton leading Republican incumbent Sen. Roger Marshall by two percentage points, 45% to 43%, according to a Hill/Emerson College survey. Hamilton has also stated he would not back Senate Minority Leader Chuck Schumer for Democratic leader if elected, positioning himself as an independent-minded candidate.\n\nThe broader Senate map reflects a widening set of competitive races for Republicans, compounded by a recent Supreme Court ruling blocking the Trump administration's plan to have the U.S. Postal Service screen mail-in ballots — a decision Republicans in the Senate have said they support. Trump's overall approval rating in a Fox News poll stands at 39%, with 53% of voters saying ICE enforcement has gone too far.\n\nRepublicans argue that historical polling has tended to underestimate GOP performance and that undecided voters and sparse early-cycle data make the picture uncertain. Democrats, meanwhile, are pointing to the Kansas race and other battleground trends as evidence that Trump's second-term policies — on immigration, the economy, and the Iran war — are creating genuine vulnerability for the party heading into November.\n\nThe record number of congressional retirements and primary defeats closing the 2026 primary season has added further uncertainty to both chambers. With the House also competitive, the midterm elections are shaping up as a significant referendum on Trump's presidency at the two-year mark.",
       "source": "National Review",
