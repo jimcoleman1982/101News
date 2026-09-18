@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-18",
+  "dateFormatted": "Friday, September 18, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Iran-U.S. War — Iranian President Allowed U.S. Entry as Munitions Shortfalls Confirmed",
+      "summary": "The BBC reports that Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi have been allowed to enter the United States, a significant diplomatic development amid the ongoing conflict. The move suggests some channel of communication or diplomatic engagement remains open despite active hostilities between Washington and Tehran.\n\nSeparately, the U.S. Defense Department's inspector general has confirmed that Operation Epic Fury has produced \"shortfalls\" in munitions and a bottleneck in resupply pipelines — directly contradicting President Trump's repeated public claims that U.S. military supplies are \"virtually limitless.\" The Pentagon IG's findings raise fresh questions about American military readiness and the sustainability of the campaign.\n\nThe conflict continues to carry broad economic consequences. Energy prices in the United Kingdom have risen again, and the cost of filling a vehicle has rebounded, with the RAC attributing the increase to persistently elevated oil prices tied to the war. Iran and the U.S. also continue to trade conflicting accounts over individual incidents, including the fate of an oil tanker in disputed waters.\n\nThe war has now been the subject of a UN expert finding that the U.S. may have committed war crimes during February strikes on a primary school and a sports complex — strikes the U.S. has not publicly acknowledged. With 21 outlets tracking the story, it remains among the most consequential ongoing international events.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+      "sourceCount": 21,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-18T05:08:15.143849-06:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "Warren Buffett Steps Down as Berkshire Hathaway Chairman After More Than 50 Years",
+      "summary": "Warren Buffett, 96, announced Friday that he is resigning as chairman of Berkshire Hathaway, the insurance-to-railroads conglomerate he helped build into one of the world's most valuable companies. His son Howard Buffett will assume the chairmanship. The announcement came in a letter to shareholders in which Buffett wrote, \"Father Time always wins. He has, however, been generous with me.\"\n\nBuffett served as chairman for more than half a century, during which Berkshire Hathaway became a defining institution of American capitalism. He had already handed over the CEO role to Greg Abel less than a year ago, making Friday's announcement the final step in a generational transition at the company.\n\nThe move marks the end of an era for investors and markets worldwide. Buffett, known as the \"Oracle of Omaha,\" is one of the most closely watched figures in global finance, and his annual letters to shareholders and investment philosophy have influenced generations of investors. Six major outlets are tracking the story, signaling its broad market and cultural significance.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/18/warren-buffett-berkshire-hathaway-chairman",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-18T05:08:15.143849-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Suicide Car Bomb Kills 16 at Mosque in Northwestern Pakistan, Gunfight Ongoing",
+      "summary": "At least 16 people, including five police officers, were killed Friday when a vehicle packed with explosives rammed into a mosque in Pakistan's Kohat district, located in Khyber Pakhtunkhwa province near the Afghan border. A gun battle between security forces and surviving attackers was still ongoing at the time of initial reports, with at least one attacker killed.\n\nA rescue operation was under way as Pakistani President Asif Ali Zardari issued a statement expressing condolences and wishes for the swift recovery of the injured. The attack is the latest in a series of violent incidents targeting security forces and civilians in the volatile northwestern region, which borders Afghanistan and has seen a resurgence of militant activity in recent years.\n\nNo group had claimed responsibility as of early reporting. Khyber Pakhtunkhwa has been a frequent target of attacks by the Pakistani Taliban (TTP) and affiliated groups, which have intensified operations since the Taliban takeover of Afghanistan in 2021.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-18T05:08:15.143849-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "37 Illegal Mining Suspects Die in Nigerian Custody, Likely from Suffocation in Overcrowded Cell",
+      "summary": "Thirty-seven men detained on suspicion of illegal mining in Nigeria's Niger state were found dead inside a facility run by the Nigerian Security and Civil Defence Corps, officials confirmed. The deaths occurred within two days of their arrest near Borgu, a region known for artisanal gold mining. A Nigerian paramilitary commander has been detained pending an investigation.\n\nWhile the NSCDC initially attributed the deaths to a possible diphtheria outbreak, an intelligence report shared with AFP and accounts from relatives pointed to a more immediate cause: suffocation from severe overcrowding and lack of ventilation. \"We believe they suffocated because there was no ventilation,\" the father of one survivor told the BBC, adding that his son survived only because he was positioned near a small window. Detainees reportedly knocked on the cell door for help but received no response.\n\nState Governor Mohammed Umaru Bago called the deaths \"sad and tragic,\" declared three days of mourning, and postponed upcoming election campaigning. The NSCDC said no charges had been filed against the detainees at the time of their deaths, as documentation was still under way. The incident has drawn attention to conditions in Nigerian detention facilities and the government's approach to cracking down on illegal artisanal mining.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-18T05:08:15.143849-06:00",
+      "slot": 5
+    }
+  ]
+}
