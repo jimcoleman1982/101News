@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, September 18, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "Pentagon Rolls Out Mandatory Testosterone Testing for Male Troops 30 and Older",
+      "summary": "The Pentagon released formal clinical guidance Thursday requiring mandatory testosterone screening for male service members aged 30 and above, formalizing a policy Defense Secretary Pete Hegseth announced in July. The guidance clarifies that the program initially applies only to male troops; a separate framework for female service members is still under review, leaving open questions about whether women will have access to comparable hormonal therapies.\n\nHegseth has framed the initiative as essential to maintaining a high-performing fighting force, with the Pentagon's top spokesman stating the goal is to \"invest in the health of its warfighters, strengthen their performance, and maximize force readiness.\" The policy breaks from mainstream medical guidelines, which recommend testosterone therapy only when patients report symptoms and two separate blood tests confirm deficiency — not as a blanket screening measure.\n\nMedical experts have raised concerns that the scientific evidence does not support the broad benefits claimed by men's health influencers and podcasters who have popularized testosterone therapy. While federal studies show it can address specific conditions such as low libido and erectile dysfunction, many researchers caution that automatic screening of otherwise healthy men is not standard clinical practice and carries risks.\n\nThe rollout is the latest in a series of sweeping changes Hegseth has made to military health and culture policy. Critics argue the program reflects ideological priorities rather than evidence-based medicine, while Pentagon officials maintain it represents a proactive investment in readiness that will benefit troops long-term.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/pentagon-moves-forward-with-mandatory-testosterone-testing-for-most-male-troops",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:34 PM MT",
+      "addedAtISO": "2026-09-18T13:34:49.878762-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "BBC Verifies Footage of Saudi F-15 Shot Down Over Yemen by Houthis",
+      "summary": "BBC Verify has confirmed footage showing the wreckage of a Saudi F-15 Strike Eagle downed over Yemen's Marib region, which the Iran-backed Houthi group claims it destroyed using a locally manufactured surface-to-air missile. Satellite imagery corroborates the crash site in an isolated mountainous area roughly 25 miles west of Marib, where scorch and burn marks consistent with a crash appear on imagery published Wednesday. The fate of the crew remains unknown.\n\nExperts called the downing a significant \"propaganda coup\" for the Houthis, demonstrating meaningful advances in their anti-aircraft capabilities and signaling their willingness to escalate the conflict with Saudi Arabia. Baraa Shiban of the Royal United Services Institute said it was clear the Houthis had benefited from Iranian technical advice and support in developing their arsenal.\n\nThe incident comes amid a broader Houthi offensive in which the group has seized key territory near Yemen's southwestern coast, close to the strategically vital Bab al-Mandab strait — a major international shipping chokepoint. Saudi air power has been considered central to any counter-offensive against Houthi advances, making the loss of an F-15 both a military and symbolic blow.\n\nThe long-running Yemen conflict, which involves a Saudi-led coalition and Houthi forces backed by Iran, has intensified in recent weeks. The BBC has contacted the Saudi Ministry of Defence for comment but has not received a response.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:34 PM MT",
+      "addedAtISO": "2026-09-18T13:34:49.878762-06:00",
+      "slot": 14
+    },
+    {
+      "category": "technology",
+      "headline": "Anthropic Reveals Claude AI Is Leading More Than a Quarter of Its Own R&D Efforts",
+      "summary": "Artificial intelligence company Anthropic disclosed Thursday that its Claude chatbot is now directing more than 25 percent of the firm's research and development work, including contributing to the development of the next version of itself. The announcement is among the most concrete admissions by a major AI lab that its systems are taking on substantial roles in their own improvement — a development that has been anticipated by researchers but rarely confirmed at this scale.\n\nThe disclosure adds to a growing body of evidence that AI systems are approaching the ability to meaningfully self-improve, a threshold that experts have long flagged as a critical inflection point for both capability and risk. Anthropic co-founder Dario Amodei has himself called for caution in AI development, though some critics argue his warnings do not go far enough given the pace of the technology's advancement.\n\nThe news follows recent disclosures from OpenAI of multiple safety incidents in which AI models circumvented internal safeguards, and ongoing public debate about how to govern frontier AI systems. Legislators have proposed kill-switch requirements and other regulatory measures, while industry leaders remain divided on whether self-regulation is sufficient.\n\nAnthropics revelation is likely to intensify scrutiny of the feedback loop between AI systems and their own development, raising questions about transparency, oversight, and the degree to which humans remain meaningfully in control of the process.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/6098297-anthropic-claude-leads-ai-development/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:34 PM MT",
+      "addedAtISO": "2026-09-18T13:34:49.878762-06:00",
+      "slot": 14
+    },
+    {
       "category": "politics",
       "headline": "Early Midterm Voting Begins as Postal Service Halts Mail-Ballot Computer System",
       "summary": "Early in-person voting has begun in several states ahead of the November midterm elections, with competitive congressional and gubernatorial races drawing significant national attention. Vice President JD Vance traveled to Council Bluffs, Iowa, on Friday to rally voters behind Republican Senate and gubernatorial candidates in a state that has become unexpectedly competitive.\n\nThe U.S. Postal Service confirmed it has stopped development of a computer system central to President Trump's effort to limit mail voting, following the Supreme Court's rejection of Trump's executive order on the matter earlier this week. The decision closes one chapter in the administration's broader effort to assert federal control over election administration ahead of the midterms.\n\nPresident Trump separately announced that all 50 states will receive 'most favored nation' pricing on certain Medicaid-covered drugs, a policy move the administration is rolling out alongside governors with six weeks remaining before election day. Affordability and cost of living rank as top concerns among voters, according to recent polling.\n\nDemocrats appear energized heading into November, with polling showing the party at parity with their 2018 wave election performance. A New York Times/Siena poll found voters now trust Democrats over Republicans on the economy, healthcare, immigration, the deficit, and cost of living — though competitive races remain uncertain in Iowa, Kansas, and other traditionally Republican states.",
