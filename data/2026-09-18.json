@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, September 18, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Philippines School Shooting Kills Three, Injures Eight in Third Campus Attack Since June",
+      "summary": "A 16-year-old gunman shot and killed two students and wounded eight others at Banga National High School in South Cotabato province, Mindanao, before taking his own life on Friday afternoon. The two deceased victims were 14-year-old pupils; four of the injured were reported in critical condition. Local Mayor Albert Palencia told reporters the gunman had warned friends before lunch that he intended to carry out an attack, but they dismissed him as joking.\n\nThe shooting is the third deadly campus attack in the Philippines in four months. In June, three students were killed in a high school shooting in the central Philippines. In August, a student at a Catholic junior high school in the south shot a classmate dead before killing himself. Friday's attack prompted authorities to suspend classes across the entire municipality of Banga.\n\nSouth Cotabato Governor Reynaldo Tamayo urged adult gun owners to store firearms responsibly and prevent minors from accessing weapons. The Philippines has one of the highest rates of gun ownership in Southeast Asia, and while broad gun crime is common, school shootings have historically been rare. The clustering of three such incidents in four months has prompted renewed calls for coordinated safety measures.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:33 PM MT",
+      "addedAtISO": "2026-09-18T16:33:44.875735-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Newsom Signs AI Safety Executive Order as 2028 Democratic Hopefuls Stake Out Positions",
+      "summary": "California Governor Gavin Newsom on Friday signed an executive order directing increased state oversight and safety measures for artificial intelligence, framing the action as a response to what he described as a stall in federal AI regulation. Newsom, widely considered a likely 2028 Democratic presidential candidate, has in recent weeks become increasingly vocal on AI risks, joining other Democratic governors and national figures in pressing for stronger guardrails before, as he put it, \"it's too late.\"\n\nThe move comes as Washington remains gridlocked over AI policy, with the Trump White House and congressional Republicans broadly favoring a light-touch approach centered on maintaining American dominance in AI development. Critics of state-level AI regulation, including industry groups and some Republican lawmakers, argue that patchwork state rules create compliance burdens that disadvantage U.S. companies relative to foreign competitors, and that federal preemption would be preferable to a state-by-state approach.\n\nThe political dimension of the executive order is notable: Democrats with national profiles are increasingly using AI safety as a contrast issue ahead of the midterms and the 2028 presidential cycle, while the Trump administration has emphasized deregulation as key to keeping the U.S. ahead of China. Senator Kennedy's recently introduced legislation requiring a kill switch on frontier AI models has drawn bipartisan interest but no White House backing. Newsom's action signals that California intends to act as a de facto national regulator on AI in the absence of federal legislation.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/18/newsom-ai-2028-focus",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:33 PM MT",
+      "addedAtISO": "2026-09-18T16:33:44.875735-06:00",
+      "slot": 18
+    },
+    {
+      "category": "business",
+      "headline": "All 50 States Sign On to Trump Medicaid Drug Pricing Program",
+      "summary": "President Trump announced Friday that all 50 states, Washington D.C., and Puerto Rico have applied to participate in a federal program extending most-favored-nation drug pricing to Medicaid, with 40 states and Puerto Rico having already signed binding agreements. Under the arrangement, Medicaid programs would pay no more for drugs than the lowest price offered to any foreign government — a mechanism long sought by drug pricing reformers across party lines. Trump told reporters in the Oval Office that the development alone \"should win us the midterms.\"\n\nThe most-favored-nation pricing model was first proposed during Trump's first term but faced legal challenges that blocked its implementation. Proponents argue it could significantly reduce pharmaceutical costs for the roughly 90 million Americans enrolled in Medicaid, while critics in the pharmaceutical industry warn the policy could reduce incentives for drug development and limit patient access to newer treatments.\n\nThe announcement comes at a politically charged moment, with midterm elections weeks away and healthcare costs ranking among voters' top concerns. The near-universal state participation gives the program broad geographic reach and bipartisan optics, though the policy's long-term durability and legal standing may again face court scrutiny.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6099129-trump-medicaid-drug-prices/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:33 PM MT",
+      "addedAtISO": "2026-09-18T16:33:44.875735-06:00",
+      "slot": 18
+    },
+    {
       "category": "science_health",
       "headline": "Pentagon Rolls Out Mandatory Testosterone Testing for Male Troops 30 and Older",
       "summary": "The Pentagon released formal clinical guidance Thursday requiring mandatory testosterone screening for male service members aged 30 and above, formalizing a policy Defense Secretary Pete Hegseth announced in July. The guidance clarifies that the program initially applies only to male troops; a separate framework for female service members is still under review, leaving open questions about whether women will have access to comparable hormonal therapies.\n\nHegseth has framed the initiative as essential to maintaining a high-performing fighting force, with the Pentagon's top spokesman stating the goal is to \"invest in the health of its warfighters, strengthen their performance, and maximize force readiness.\" The policy breaks from mainstream medical guidelines, which recommend testosterone therapy only when patients report symptoms and two separate blood tests confirm deficiency — not as a blanket screening measure.\n\nMedical experts have raised concerns that the scientific evidence does not support the broad benefits claimed by men's health influencers and podcasters who have popularized testosterone therapy. While federal studies show it can address specific conditions such as low libido and erectile dysfunction, many researchers caution that automatic screening of otherwise healthy men is not standard clinical practice and carries risks.\n\nThe rollout is the latest in a series of sweeping changes Hegseth has made to military health and culture policy. Critics argue the program reflects ideological priorities rather than evidence-based medicine, while Pentagon officials maintain it represents a proactive investment in readiness that will benefit troops long-term.",
