@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "State Department Approves Potential $24 Billion F-35 Sale to Saudi Arabia",
+      "summary": "The State Department announced Thursday it has approved a potential $24 billion sale of F-35 fighter jets to Saudi Arabia, a major arms deal that moves forward despite reported reservations from some defense officials and lawmakers. The sale represents one of the largest proposed weapons transfers to the Gulf kingdom in recent years and comes amid ongoing U.S. efforts to deepen security ties with Riyadh.\n\nThe deal has drawn scrutiny from members of Congress concerned about arms sales to Saudi Arabia given the kingdom's human rights record and its conduct in regional conflicts. Supporters argue the sale strengthens a key U.S. strategic partner in a volatile region and helps offset Iranian influence, particularly following recent escalations in the Gulf.\n\nState Department approval triggers a mandatory congressional notification period during which lawmakers can move to block the transfer. No formal congressional objection has yet been filed. The F-35 sale would, if completed, mark the first transfer of the advanced stealth fighter to Saudi Arabia, a significant upgrade to the kingdom's air force capabilities.",
+      "source": "The Hill",
+      "url": "https://thehill.com/newsletters/defense-national-security/6097079-state-department-oks-potential-24b-fighter-jet-sale-to-saudis/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-17T21:08:31.466192-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "White House Withdraws ICE Director Nominee After MAGA Backlash",
+      "summary": "The White House on Thursday pulled the stalled nomination of Lance Schroyer to lead Immigration and Customs Enforcement, offering no official explanation for the withdrawal. Schroyer, a former Oklahoma state highway trooper who previously served on Homeland Security Secretary Markwayne Mullin's security detail, had faced sustained criticism from border czar Tom Homan and other prominent MAGA figures who questioned his lack of experience running a major law enforcement agency.\n\nSchroyer's nomination had already stalled in the Senate, where ICE is facing intensifying scrutiny over its enforcement operations. The internal friction between Mullin, who championed Schroyer, and Homan, who opposed him, highlighted divisions within the administration over immigration leadership at a politically sensitive moment.\n\nThe withdrawal leaves ICE without a confirmed director and raises questions about who the administration will nominate next to lead the agency, which has been at the center of the Trump administration's aggressive deportation push. The episode underscores the competing power centers within the Homeland Security apparatus and the influence MAGA figures outside the formal chain of command continue to exercise over personnel decisions.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/17/white-house-pulls-lance-schroyer-ice-nominee",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-17T21:08:31.466192-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Update: SUV Driver Charged With Murder in Los Angeles Bus Crash That Also Killed News Helicopter Crew",
+      "summary": "Los Angeles prosecutors on Thursday charged Bailee Lynn Rios, 36, with murder after she allegedly drove under the influence of drugs on the wrong side of the road, ran a red light, and plowed her SUV into a city bus on Tuesday, killing two passengers. The crash set off a chain of events that compounded the tragedy when a news helicopter dispatched to cover the wreck crashed shortly afterward, killing three crew members.\n\nRios faces two counts of murder for the bus passengers' deaths. Prosecutors say she was impaired when she accelerated into oncoming traffic and struck the transit bus. The crash drew intense media attention, particularly after the subsequent helicopter crash claimed the lives of the news crew, raising the overall death toll from the incident to five.\n\nThe case has renewed debate in California over impaired driving enforcement and penalties. The murder charges, rather than vehicular manslaughter, signal prosecutors intend to pursue the most serious accountability available under the law given the alleged circumstances of intoxication and recklessness.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/09/17/us/suv-driver-murder-los-angeles-bus-crash.html",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-17T21:08:31.466192-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
       "headline": "RFK Jr. Tells Anti-Vaccine Group Trump Administration Is 'Your Friend' as HHS Reshapes Vaccine Policy",
       "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. appeared Thursday before Children's Health Defense, the anti-vaccine organization he founded, and signaled that the Trump administration continues to support efforts to question routine vaccine safety and expand exemptions to federal mandates. Kennedy told attendees, 'You have a strong and steadfast friend at the White House,' stopping short of his most inflammatory past rhetoric but making clear that HHS is actively working to reshape federal vaccine policy behind the scenes.\n\nThe appearance is significant because it marks Kennedy's formal return to the organization he led before joining the administration, and underscores the degree to which vaccine skepticism has become embedded in federal health policy under the current administration. Critics argue the messaging from the nation's top health official undermines public confidence in immunization programs that have controlled or eliminated major infectious diseases.\n\nSupporters of Kennedy's approach contend that scrutiny of vaccine safety and informed consent are legitimate public health concerns long suppressed by regulatory agencies, and that the administration is simply giving voice to questions many Americans have asked. The appearance comes as the U.S. has seen renewed outbreaks of vaccine-preventable diseases, including the ongoing Pennsylvania measles outbreak that has resulted in four deaths.",
       "source": "Axios",
