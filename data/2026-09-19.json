@@ -3,6 +3,48 @@
   "dateFormatted": "Saturday, September 19, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "FAA Rules Trump's Proposed Triumphal Arch Must Have 'Eternal Flame' to Warn Pilots; Veterans Sue to Block It",
+      "summary": "The Federal Aviation Administration has determined that President Trump's proposed Triumphal Arch in Washington, D.C., would require a non-standard \"eternal flame\" on top of the structure, along with floodlight projectors, to alert nearby pilots to the monument's presence. The ruling introduces a striking visual and logistical condition on a signature presidential vanity project that has already drawn significant controversy.\n\nThree Vietnam veterans have filed a lawsuit seeking to block construction of the arch, arguing it would destroy iconic sightlines near Arlington National Cemetery. The legal challenge adds a new front of opposition to a project that critics have derided as an inappropriate use of federal resources and an affront to the capital's architectural heritage.\n\nThe Trump administration has promoted the arch as a celebration of American greatness, in keeping with the president's broader effort to redesign Washington's monumental core. Supporters argue it would attract tourists and mark a bold national statement, while opponents contend it is a costly exercise in personal glorification with no historical basis.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6099725-faa-trump-triumphal-arch-eternal-flame/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:20 PM MT",
+      "addedAtISO": "2026-09-19T16:20:08.221288-06:00",
+      "slot": 18
+    },
+    {
+      "category": "other",
+      "headline": "Holdout Lindsay Clancy Juror Breaks Silence, Says He Had 'No Doubts' She Was Guilty",
+      "summary": "The lone holdout juror in the Lindsay Clancy triple-murder trial — whose refusal to vote for conviction triggered a mistrial earlier this month — has issued a statement through his attorney saying he had no doubts about Clancy's guilt. Michael P. Desronvil said other jurors repeatedly cut him off when he tried to present theories during deliberations, and that based on the physical evidence, key witnesses, and the prosecution's case, he believed Clancy \"knew exactly what she was doing and planned\" the killings.\n\nClancy was accused of strangling her three young children — ages 5, 3, and 8 months — with exercise bands at their Massachusetts home in January 2023. Her defense argued she was suffering from severe postpartum psychosis at the time and had no control over her actions; prosecutors contended the killings were premeditated. The jury foreperson sent deadlock notices to the judge twice, complaining one juror was not applying the reasonable-doubt standard, before a mistrial was declared on September 4.\n\nDesronvil's attorney said his client would not give media interviews, though Desronvil did speak off-camera to a streaming show host. The attorney said there would be \"a time for accountability and a time for the real story\" to be told. Separately, Clancy's ex-husband Patrick Clancy and his new wife are set to speak publicly about the case for the first time Sunday on \"60 Minutes,\" amid online conspiracy theories that he — not Lindsay — was responsible for the children's deaths.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/holdout-lindsay-clancy-juror-will-not-giving-interviews-attorney-says-rcna598495",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "4:20 PM MT",
+      "addedAtISO": "2026-09-19T16:20:08.221288-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Man Acquitted in India's Notorious Nithari Serial Murder Case Found Dead Months After Release",
+      "summary": "Surinder Koli, 50, who spent nearly two decades in prison over one of India's most shocking serial murder cases before being acquitted by the Supreme Court in late 2025, has been found hanged inside a tea stall he operated in Haridwar, in the northern state of Uttarakhand. No suicide note was found at the scene, and police have launched an investigation into his death.\n\nKoli was originally arrested in 2006 after the remains of 19 women and children were found near the home of his employer, businessman Moninder Singh Pandher, in Nithari village on the outskirts of Delhi. He was accused of murder, kidnapping, rape, and destroying evidence; his confession — which included claims of cannibalism and necrophilia — was later ruled by India's Supreme Court to have been extracted under torture, leading to his acquittal in the final case against him.\n\nThe case sparked national outrage in India, both over the crimes themselves and over police failures to act on complaints from families of missing children for more than two years. Critics noted that most victims came from poor migrant families, highlighting deep social inequities in how the justice system responded. After his release, Koli had quietly relocated to Haridwar, where he had been running the tea stall for several months before his death.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c64gd7k9qkz8o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "4:20 PM MT",
+      "addedAtISO": "2026-09-19T16:20:08.221288-06:00",
+      "slot": 18
+    },
+    {
       "category": "technology",
       "headline": "Trump Announces 'AI Force' and Plans to Name AI Czar",
       "summary": "President Trump announced Saturday he is creating an \"AI Force\" modeled on the Space Force and will soon name an artificial intelligence czar to lead U.S. AI policy. Trump made the announcement via a lengthy Truth Social post, framing the initiative as a push to accelerate AI development while shielding the industry from what he characterized as overregulation. Few operational details were provided about how the AI Force would be structured or funded.\n\nThe announcement comes as the White House continues its laissez-faire regulatory posture toward AI, even as some of the industry's own leaders have publicly called for stronger safety guardrails. The move stands in direct contrast to California Gov. Gavin Newsom's recent push for an AI \"kill switch\" and federal adoption of state-level AI regulations, which the administration has resisted.\n\nThe announcement lands amid intense public debate over AI safety. Nvidia CEO Jensen Huang and OpenAI CEO Sam Altman are expected to attend a White House state dinner with Chinese President Xi Jinping next Friday, and Altman is scheduled to brief the UN Security Council the following week. Critics of the administration's approach argue that accelerating deployment without safety frameworks risks allowing AI systems to operate outside human control, while proponents contend that excessive regulation would cede technological leadership to China.",
