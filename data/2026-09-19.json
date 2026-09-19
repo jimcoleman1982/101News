@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-19",
+  "dateFormatted": "Saturday, September 19, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Houthis Strike Riyadh as Saudi-Yemen Conflict Escalates Sharply",
+      "summary": "Saudi Arabia issued its first air raid alerts for Riyadh since the Houthis dramatically escalated their campaign in July, with residents given the all-clear after explosions were reported in the capital late Friday night and early Saturday morning. Journalists from Reuters and AFP confirmed hearing the blasts. It marks a significant geographic escalation, bringing the conflict directly to the Saudi capital for the first time in the current phase of fighting.\n\nThe Houthis have seized the strategic port city of Mokhaa and Perim Island — a key gateway for Saudi oil exports to Asia and Europe — and have attacked multiple Saudi oil facilities with drones and missiles in recent weeks, causing fires and temporary operational shutdowns. The attacks have directly driven up global energy prices, with petrol and diesel costs rising sharply across many countries. Saudi Crown Prince Mohammed bin Salman has personally asked President Trump to take military action against the Houthis, but Trump has so far declined direct military involvement, offering intelligence and targeting support instead.\n\nThe UN Security Council held an emergency session this week at Saudi Arabia's and Yemen's government's request, with member states agreeing that freedom of navigation in the Red Sea must be maintained. The Houthis say their blockade of the Bab al-Mandab Strait is retaliation for more than 450 Saudi air strikes on their territory. A senior Trump administration official said the U.S. remains in \"continuous dialogue\" with Saudi Arabia and the Yemeni government regarding regional stability.\n\nThe conflict has its roots in Yemen's civil war, which began in 2014 when Houthis ousted the internationally recognized government from Sanaa, followed by Saudi-led military intervention in 2015. The current escalation represents the most serious direct threat to Saudi territory in years, compounding global energy market disruptions already caused by the effective closure of the Strait of Hormuz following the U.S.-Iran conflict.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-19T05:08:31.783407-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Pakistani Taliban Car Bomb Kills at Least 21 at Mosque During Friday Prayers in Kohat",
+      "summary": "A suicide car bomb attack on a mosque inside a police compound in Kohat, in Pakistan's Khyber Pakhtunkhwa province, killed at least 21 people and wounded more than 100 on Friday. A vehicle loaded with explosives rammed the mosque entrance at approximately 1:15 p.m. local time as Friday prayers were underway. Among the dead were 15 police officers and a four-year-old child.\n\nAt least six attackers were killed in the explosion and the gun battle that followed, according to provincial police. Khyber Pakhtunkhwa police attributed the attack to a faction of the Tehrik-e-Taliban Pakistan (TTP), also known as the Pakistani Taliban — a group allied with al-Qaeda and the Afghan Taliban that was established in 2007 with the aim of enforcing its interpretation of Islamic law. Officials have used the designation \"Fitna-al-Khawarij\" for the group.\n\nPakistan's President Asif Ali Zardari expressed condolences and called for the \"complete elimination\" of foreign-backed terrorists, while UN Secretary-General António Guterres strongly condemned the bombing, stating that attacks on civilians and places of worship are \"unacceptable.\" Islamabad has long accused Afghanistan's Taliban government of allowing the TTP to use Afghan territory as a safe haven for planning and training, an accusation Kabul denies.\n\nThe attack is a significant escalation in an already sharply deteriorating security situation. Militancy in Pakistan's border regions has surged in recent months, with armed groups increasingly targeting military and police installations. The previous day's story noted a separate earlier attack; today's bombing represents a fresh, deadlier incident in the same province.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-19T05:08:31.783407-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Nine Murdered Women Found in South Africa's Ekurhuleni, Sparking National Outcry Over Gender Violence",
+      "summary": "Nine bodies of murdered women have been discovered in Ekurhuleni, a residential district east of Johannesburg, since July — including three found this week alone. Most victims were women in their 20s and 30s who suffered extreme violence before their deaths. South African police say they are not certain whether they are hunting a single serial killer or whether the cases are unrelated, and only one arrest has been made across the full series of incidents.\n\nThe deaths have reignited a national debate about gender-based violence in South Africa, which has one of the highest rates of such violence in the world. Between April and June this year, 5,427 people were murdered in the country, according to official quarterly crime statistics. The country's Human Rights Commission separately reported 569 women killed in the same period. Families of victims told the BBC they are consumed by grief and have called for urgent government action.\n\nThe case of 38-year-old Dineo Motapane, a mother of two last seen alive on Sunday before her battered and partly burned body was found in a field, has drawn particular national attention. Her aunt Nokwanda Matshikiza told the BBC: \"How many other bodies will be found before something happens?\" A brother of another victim, Itumeleng, whose body was found on a bridge in July, said, \"No family should have to deal with what we are faced with.\"\n\nSouth Africa's problem with violence against women has prompted recurring national crises over the past decade, but officials have struggled to reduce the rate of femicide. The Ekurhuleni cluster of killings has compounded pressure on the police and government to take measurable action on what advocates describe as a systemic crisis.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-19T05:08:31.783407-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "North Carolina Democrats Abandon Legislative Candidate Over Posts Calling for Attack on Red States, Nazi Comparisons",
+      "summary": "The North Carolina House Democratic Caucus and a county Democratic Party organization have publicly cut ties with Shelly Headen, their candidate for a state House seat in Guilford County, after inflammatory social media posts she made resurfaced. Among the posts: one calling for an attack on U.S. soil \"preferably\" targeting Alabama and Louisiana; another suggesting Trump's record was \"getting close to surpassing Hitler\"; and a claim that the \"MAGA cult may be more destructive and evil than the Nazis.\" A separate Facebook post depicted her at the Dachau concentration camp with words reading \"This is where Trump supporters belong\" — which Headen denied posting, saying she believed the image was doctored.\n\nDespite her party's public condemnation, Headen cannot be removed from the November ballot because the filing deadline passed on August 20 and general election ballots were mailed to voters beginning September 4. She is challenging Republican incumbent state Rep. John Blust in House District 62. Headen told a public radio station she did not remember making the posts but apologized to those hurt by them, and said she understood her party's decision to withdraw support.\n\nThe controversy escalated nationally after the White House Rapid Response account amplified the posts on X, calling Democrats \"SICK PEOPLE.\" North Carolina Republican U.S. Senate nominee Michael Whatley tied Democratic Senate nominee Roy Cooper to Headen, posting a photo of the two together and accusing Cooper of standing \"with NC Dem who called for the genocide of Republicans.\" Cooper's campaign said he \"strongly condemns\" the remarks and all forms of political violence.\n\nThe episode adds to Democratic difficulties in North Carolina ahead of the midterms, particularly in competitive legislative and Senate races. Democrats face the dual political damage of a disavowed candidate who remains on the ballot and national Republican efforts to nationalize her comments against statewide Democratic candidates.",
+      "source": "Fox News Politics",
+      "url": "https://www.foxnews.com/politics/dems-abandon-candidate-who-said-maga-more-destructive-than-nazis-shes-stuck-ballot",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-09-19T05:08:31.783407-06:00",
+      "slot": 5
+    }
+  ]
+}
