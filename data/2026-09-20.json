@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Update: Trump Escalates Press Feud, Banning CNN, Politico, and MS Now from White House After Week of Legal Setbacks",
+      "summary": "President Donald Trump revoked White House press credentials for journalists from CNN, Politico, and MS Now on Saturday, with reporters turned away at the gate as they attempted to enter the grounds. Trump announced the decision on Truth Social, saying the outlets were being banned for 'constant reporting of fake news' and asserting that he was under no obligation to admit them to 'the people's house.' The White House Correspondents Association and press freedom organizations condemned the move as an unprecedented assault on the First Amendment, and all three outlets announced plans to file lawsuits.\n\nThe crackdown came after a bruising week for the administration: the Supreme Court blocked Trump's plan to restrict mail-in voting ahead of the midterms, the Federal Reserve raised interest rates against Trump's wishes, and a federal judge ordered 30 days' notice before any changes to the Kennedy Center. Trump publicly lashed out at Supreme Court justices he had appointed, saying they were 'not the people I interviewed.' His approval ratings have also reached record lows for his second term.\n\nFirst Amendment legal experts note that courts have historically held the government cannot discriminate against media outlets based on content of their coverage. In Trump's first term, a federal court ordered the White House to restore CNN correspondent Jim Acosta's credentials after they were revoked. Supporters of the ban argue that the President has broad discretion over who accesses the White House, while critics warn the move sets a dangerous precedent for press freedom in a democracy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cmn8ed1xpxnyo",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-09-20T11:08:26.190716-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Update: 'Enough Is Enough': South African Women Protest After Nine Bodies Found Near Johannesburg",
+      "summary": "Women across South Africa held protests and vigils on Saturday after the bodies of nine women were discovered in the Kempton Park area east of Johannesburg since July, including that of Elizabeth Moselakgomo, a jogger known as 'Tsontso' who went missing during a routine run. Runners gathered in the city of Centurion to honor the victims and assert women's right to move freely in public spaces, while a separate vigil was held in Cape Town calling on the government to act.\n\nSouth African police have established a task force to investigate the murders and urged women in the Kempton Park area to avoid walking or running alone, 'particularly in isolated areas.' The killings have reignited national outrage over gender-based violence, a persistent crisis in a country with some of the world's highest rates of femicide. Protesters expressed frustration that such warnings place the burden of safety on women rather than addressing root causes.\n\nSouth Africa has long been identified by the United Nations as one of the most dangerous countries in the world for women. Activists are demanding concrete legislative and law enforcement responses, arguing that task forces and public advisories are insufficient given the scale and frequency of gender-based killings.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-09-20T11:08:26.190716-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
       "headline": "U.S. Military Kills Four in Caribbean Drug-Boat Strike as Total Fatalities from Trump-Era Narco Operations Reach 231",
       "summary": "U.S. Southern Command announced Saturday that forces under its direction conducted a 'lethal, kinetic strike' on a go-fast vessel traveling along established narco-trafficking routes in the Caribbean, killing four people described by the military as 'narco-terrorists.' The strike is the latest in an ongoing campaign the Trump administration launched roughly one year ago targeting what it characterizes as drug-trafficking organizations operating in the Western Hemisphere.\n\nThe total number of people killed in U.S. military boat strikes in Latin American waters has now reached at least 231 across 69 separate strikes, according to a running tally compiled from Southcom announcements. The operation was carried out by the Joint Force Western Hemisphere under Southcom's direction.\n\nThe campaign has drawn relatively little public debate in Washington but raises significant legal and human rights questions, as critics argue that lethal strikes on vessels at sea — without judicial process — set a dangerous precedent and risk killing civilians misidentified as traffickers. Supporters of the policy argue that interdicting drug shipments at sea is a necessary component of stemming the flow of fentanyl and other narcotics into the United States.\n\nThe escalating pace and death toll of the operations make this an increasingly consequential policy story with implications for U.S. engagement in Latin America, international maritime law, and the broader domestic debate over drug enforcement strategy heading into the November midterms.",
       "source": "The Hill",
