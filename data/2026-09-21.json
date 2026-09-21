@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-21",
+  "dateFormatted": "Monday, September 21, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Ukraine Launches Largest-Ever Drone Barrage on Moscow as Russia Holds Wartime Election",
+      "summary": "Ukraine launched more than 1,000 drones at Russia overnight, including hundreds directed at Moscow, in what the city's mayor described as the largest-ever drone attack on the Russian capital. Moscow's mayor said 450 drones were downed during the barrage, which killed two people and caused damage to the Moscow Oil Refinery and a residential building. The strikes coincided with the final day of Russia's first wartime parliamentary election.\n\nPreliminary results show President Vladimir Putin's ruling United Russia party on course to retain its constitutional majority, with more than 90 percent of votes counted. The Kremlin-backed party is projected to win more than three-quarters of parliamentary seats. The only anti-war party on the ballot, Yabloko, was effectively blocked by authorities and failed to secure any seats. Putin is expected to use the result to claim domestic support for the war in Ukraine.\n\nSeparately, Ukrainian President Volodymyr Zelensky announced he spoke by phone with President Trump and that the two have agreed to meet this week on the sidelines of the United Nations General Assembly in New York. Zelensky said the meeting \"could change a lot\" and described \"diplomatic momentum\" in efforts to reach a ceasefire. The White House confirmed the meeting as it continues efforts to broker de-escalation steps between Moscow and Kyiv.\n\nThe parallel military and diplomatic developments underscore the war's continued intensity more than four years after Russia's invasion. The drone attack — the largest on Moscow since the conflict began — comes even as Trump has scaled back joint U.S.-South Korean military exercises in an apparent effort to reduce regional tensions elsewhere, illustrating the administration's complex balancing act across multiple active conflicts.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-election-parliament-duma-putin-ukraine-6f3df3716cbcf8c96711b688762b450b",
+      "sourceCount": 22,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:52 AM MT",
+      "addedAtISO": "2026-09-21T03:52:56.784507-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Seven Ethiopian Rebel Groups Form Alliance to Overthrow Government",
+      "summary": "Seven Ethiopian rebel groups — including the Fano militia in Amhara, the Oromo Liberation Army, the Tigray People's Liberation Front, and four smaller factions — announced the formation of a joint coalition called the Alliance for Survival, with the stated goal of removing Prime Minister Abiy Ahmed's government in Addis Ababa. The groups collectively accuse Ahmed's administration of \"war, genocide, mass destruction, and utter poverty\" and warn that Ethiopia risks disintegration. The alliance spans groups based in six of Ethiopia's 12 regional states, including Oromia, Amhara, Tigray, Ogaden, Afar, and Benishangul-Gumuz.\n\nThe announcement represents a significant escalation in Ethiopia's long-running internal conflicts. The country has faced years of armed insurgency in Oromia and Amhara, and a two-year civil war in Tigray that ended with an African Union peace deal in 2022 left hundreds of thousands dead and displaced millions. Fears of a return to full-scale conflict have grown, with both the government and Tigray forces accusing each other of violating the peace agreement.\n\nThe formation of the coalition is notable because it brings together groups that were previously on opposing sides — Amhara's Fano militia, for instance, fought alongside federal forces during the Tigray war before turning against the government in a separate insurgency less than a year after the war ended. The federal government has not yet responded to the alliance announcement. Prime Minister Abiy said in July he had \"not an iota of fear\" regarding Ethiopia's sovereignty.\n\nEthiopia, Africa's second-most-populous country, held a general election in June that returned Abiy's Prosperity Party to power by a large margin, though the vote was overshadowed by ongoing conflict and had little opposition participation. The Tigray region and its six million residents were excluded entirely from the election. The new rebel alliance adds a dangerous new dimension to an already unstable political landscape in the Horn of Africa.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:52 AM MT",
+      "addedAtISO": "2026-09-21T03:52:56.784507-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "North Korea Fires Two Short-Range Ballistic Missiles Days After Threatening Nuclear Buildup",
+      "summary": "North Korea launched two short-range ballistic missiles toward the sea on Sunday, roughly three hours apart, according to South Korea's military. The launches came two days after Pyongyang threatened to bolster its nuclear capabilities in response to what it described as U.S. hostilities, and represent the latest in a series of weapons demonstrations by North Korea.\n\nThe timing is diplomatically significant: the launches occurred despite President Trump's decision last month to scale back joint U.S.-South Korean military exercises in an apparent bid to revive diplomacy with North Korean leader Kim Jong Un. The provocations suggest that gesture has not produced the intended diplomatic opening, and may complicate Trump's broader effort to manage multiple international crises simultaneously as he prepares for a summit with Chinese President Xi Jinping this week.\n\nNorth Korea has continued testing weapons at a steady pace even during periods of reduced U.S.-South Korean military activity. The launches drew attention from Seoul and Washington but no immediate public response from the Trump administration. The UN General Assembly gathering in New York this week, where Trump is meeting multiple world leaders, provides a backdrop against which the launches carry added diplomatic weight.\n\nSouth Korean officers were also separately injured in a DMZ explosion, possibly caused by a landmine, according to local media reports, adding further tension along the peninsula's border. Three South Korean military officers were hospitalized following the unexplained explosion during an operation near the border.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/north-south-korea-launch-ad020d996b61dedd358cc689db614fdb",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:52 AM MT",
+      "addedAtISO": "2026-09-21T03:52:56.784507-06:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "U.S. Proposes AI Incident Alert System With China Ahead of Trump-Xi Summit",
+      "summary": "The United States has proposed a new bilateral notification system for artificial intelligence incidents that could threaten national security, Treasury Secretary Scott Bessent announced Sunday after meeting with Chinese Vice Premier He Lifeng in New York. The mechanism would be presented for consideration at the Trump-Xi summit in Washington later this week. Bessent described upbeat discussions on AI, trade, and investment, signaling both sides want to stabilize ties ahead of the high-stakes meeting.\n\nThe proposal marks the first concrete AI safety initiative to emerge from U.S.-China diplomatic talks and comes as both governments are engaged in an intensifying competition for AI supremacy. The incident-reporting mechanism would, in theory, create a channel for the two largest AI powers to communicate when AI systems produce outcomes that could escalate into a national security crisis — a concern that has grown as AI capabilities advance rapidly on both sides.\n\nThe AI agenda for the Trump-Xi summit reflects a broader tension in U.S. policy: President Trump has publicly dismissed AI existential risks as a \"hoax,\" a position analysts say broadly aligns with China's official skepticism toward such warnings. At the same time, competition with China over AI development has driven bipartisan support in Congress for maintaining U.S. dominance. The summit's AI discussions are therefore likely to blend competitive and cooperative elements simultaneously.\n\nThe summit comes at a delicate moment in U.S.-China relations, with trade tensions ongoing and Trump having signed sweeping Russia sanctions targeting Chinese and Indian oil purchases earlier this year. Both governments appeared eager ahead of the meeting to project willingness to cooperate on at least some issues, with AI safety offering a politically manageable area for joint action.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/bessent-ai-xi-trump-china-trade-2c7f54f07e755f506d9db9b91df282bd",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:52 AM MT",
+      "addedAtISO": "2026-09-21T03:52:56.784507-06:00",
+      "slot": 5
+    }
+  ]
+}
