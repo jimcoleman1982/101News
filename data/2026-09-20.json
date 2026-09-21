@@ -3,6 +3,48 @@
   "dateFormatted": "Sunday, September 20, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump to Meet Zelensky and Mamdani in New York During UN General Assembly Week",
+      "summary": "President Donald Trump will meet Ukrainian President Volodymyr Zelensky in New York this week on the sidelines of the United Nations General Assembly, Zelensky announced Sunday after a phone call with Trump. Zelensky called it \"an important conversation\" and said the meeting \"could change a lot,\" citing diplomatic momentum as both sides seek to de-escalate the now four-year-old war with Russia. Separately, Trump is also scheduled to visit New York City Mayor Zohran Mamdani at Gracie Mansion on Monday — their third face-to-face meeting — to discuss issues affecting the city.\n\nThe Trump-Zelensky meeting is the most significant diplomatic event of the week, occurring as the White House works to broker reciprocal de-escalation steps between Russia and Ukraine and as fighting has intensified in recent days. Ukraine launched its largest-ever drone attack on Moscow over the weekend, striking a key oil refinery, while Russia continued aerial bombardment of Ukrainian cities. U.S.-China talks also advanced Sunday, with Treasury Secretary Scott Bessent meeting Chinese Vice Premier He Lifeng in New York ahead of a planned Trump-Xi summit later this week.\n\nThe convergence of world leaders in New York for UNGA creates a rare diplomatic window. Zelensky has been pressing the U.S. for stronger support and a clearer path toward a ceasefire or peace framework; the White House has been attempting to balance relationships with both Kyiv and Moscow while managing parallel crises in the Middle East. The Trump-Mamdani meeting reflects the unusual dynamic between the Republican president and the democratic socialist mayor, who have alternated between cooperation and public clashes since Mamdani took office.\n\nSupporters of stronger U.S. backing for Ukraine argue the Zelensky meeting is critical to sustaining allied pressure on Moscow and preventing Russian territorial consolidation. Critics of continued engagement, including some on the right, contend the administration should prioritize a negotiated settlement over prolonged military support. The outcome of the Trump-Zelensky meeting is being closely watched by NATO allies and by congressional leaders ahead of November's midterm elections.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/09/20/nyregion/trump-mamdani-nyc-visit-gracie-mansion.html",
+      "sourceCount": 17,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-20T21:08:39.597325-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "18 Suspects in 2021 Assassination of Haitian President Moïse Extradited to United States",
+      "summary": "Eighteen suspects accused in the July 2021 assassination of Haitian President Jovenel Moïse were extradited to the United States on Sunday, marking a major development in a case that has dragged through Haiti's crumbling judicial system for five years. The suspects — including more than a dozen Colombian soldiers and key figures such as former Haitian Ministry of Justice employee Joseph Badio, considered a central suspect — will face trial in Florida under the jurisdiction of the U.S. Attorney for the Southern District of Florida.\n\nU.S. Attorney Jason Reding Quiñones announced that 30 people have now been indicted in connection with the killing and that authorities are \"not finished\" pursuing those who financed, facilitated or supported the assassination. FBI Special Agent in Charge Brett Skiles said multiple arrests were made in the U.S. and abroad on Sunday. The extradition came as a surprise to relatives of the Colombian suspects, one of whom said the detained men are seriously ill after years in Haiti's notoriously inhumane prison conditions.\n\nThe assassination of Moïse, who was shot dead at his private residence in Port-au-Prince in the early hours of July 7, 2021, shocked the Western Hemisphere and plunged Haiti deeper into political instability and gang violence. The investigation was repeatedly stalled by gang threats, judicial collapse and political turmoil inside Haiti. The transfer of defendants to U.S. courts is seen as the most significant accountability step since the killing.\n\nThe case carries broad implications for international accountability norms around the killing of heads of state and for U.S.-Haiti relations at a moment when Haiti remains under heavy international security involvement. Defense attorneys for some suspects have argued that Badio was the mastermind behind the plot; other lines of inquiry have pointed to alleged financiers both inside and outside Haiti whose identities have not yet been publicly confirmed.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/18-suspects-accused-in-the-2021-killing-of-haitis-president-being-extradited-from-haiti-to-u-s",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-20T21:08:39.597325-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Haiti Assassination Suspects' Extradition Underscores Collapse of Island Nation's Justice System",
+      "summary": "The mass extradition of 18 Moïse assassination suspects to U.S. courts on Sunday highlights the degree to which Haiti's own judicial system has been rendered inoperable by gang violence, political instability and institutional decay. Haitian justice officials had formally requested U.S. and Canadian assistance in October 2025 after years of investigation stalls caused by death threats against witnesses and prosecutors, and a judiciary unable to function in large parts of the country.\n\nRelatives of the Colombian suspects expressed shock at the sudden transfer, with one family member saying conditions in Haitian detention had left the men gravely ill. Defense attorneys in U.S. proceedings have previously argued that their clients were misled about the nature of the operation they were recruited for, framing them as mercenary soldiers unaware the mission would end in a presidential assassination rather than an arrest.\n\nThe U.S. now holds jurisdiction over one of the most significant political murders in the Western Hemisphere in decades. Federal prosecutors have pledged to trace the full chain of culpability — including alleged financiers who have not yet been charged — in what amounts to a transnational criminal conspiracy involving Haitian oligarchs, diaspora figures, foreign private security contractors and government insiders.\n\nThe case arrives as Haiti remains under a Kenya-led multinational security support mission backed by the United Nations, with gang coalitions controlling large portions of Port-au-Prince and much of the country's infrastructure under severe strain. The resolution of the Moïse case in U.S. courts, rather than Haitian ones, is likely to fuel ongoing debate about sovereignty, accountability and the limits of justice in fragile states.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/18-suspects-accused-in-the-2021-killing-of-haitis-president-being-extradited-from-haiti-to-u-s",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-20T21:08:39.597325-06:00",
+      "slot": 21
+    },
+    {
       "category": "world",
       "headline": "Ukraine Launches Largest-Ever Drone Attack on Moscow, Hitting Key Oil Refinery",
       "summary": "Ukraine fired its largest drone attack on the Moscow region on Sunday, with Mayor Sergei Sobyanin saying 450 drones were shot down in what he called the \"most massive\" assault yet on the Russian capital. At least two people were killed and 20 injured. Ukraine's President Volodymyr Zelensky confirmed Kyiv had struck a \"key\" Russian oil facility and a logistics site, describing them as representing \"billions of dollars that sustain the war machine.\"\n\nThe strike hit a major Moscow-area oil refinery that supplies more than a third of the region's fuel, including petrol, diesel, and aviation fuel used by Russia's military, according to Ukraine's defense ministry. A residential building was also struck, killing a 44-year-old woman in Sofyino and injuring five others including two children. An elderly man also died after a private house was struck in a separate district.\n\nMoscow's Sheremetyevo and Vnukovo airports imposed temporary flight restrictions overnight before lifting them Sunday morning, with some delays persisting. Mayor Sobyanin said the attack appeared timed to disrupt Russia's parliamentary elections, then in their third day — a vote widely dismissed by critics as neither free nor fair.\n\nThe escalation comes as both sides have intensified strikes on energy, transport, and logistics infrastructure. Ukrainian officials also reported nine people killed, including three children, in Russian attacks on the Kyiv and Sumy regions on Saturday, underscoring the intensifying pace of the war as it enters its fifth year.",
