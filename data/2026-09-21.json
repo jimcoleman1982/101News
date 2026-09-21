@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Typhoon Dujuan Batters Tokyo, Prompting Evacuation Orders for Nearly 2 Million",
+      "summary": "Typhoon Dujuan struck Japan on Monday, prompting evacuation advisories for more than 1.9 million residents as the storm battered the Tokyo metropolitan area with heavy rain and strong winds. Japan's meteorological agency reported that eight locations recorded all-time rainfall totals over the prior 24 hours, signaling the storm's exceptional intensity.\n\nThe typhoon represents a significant threat to one of the world's most densely populated urban centers, with authorities urging residents in vulnerable areas to seek shelter. Transportation disruptions, flooding, and infrastructure damage were reported as the storm made landfall.\n\nThe event carries major humanitarian and economic implications given Tokyo's size and global significance. Emergency services were mobilized across multiple prefectures as the storm system continued to move through the region.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/live/cm3v47p3e390t",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-09-21T08:08:27.225014-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Canada Urges UK to Join Proposed Canada-EU Economic Alliance as Trade War With U.S. Deepens",
+      "summary": "Canadian Finance Minister François-Philippe Champagne called on the United Kingdom to join a proposed economic alliance between Canada and the European Union, telling the BBC that \"the world has changed\" and that allied democracies need new partnerships in response to U.S. tariff policy. His remarks follow European Commission President Ursula von der Leyen's proposal of an unprecedented associate EU membership for Canada, and Prime Minister Mark Carney's address to the EU Parliament in Strasbourg.\n\nChampagne said Canada and the UK share values and a common vision, asking: \"Why don't we team up?\" His pitch comes after Canada-U.S. trade talks collapsed in August, triggering tit-for-tat tariffs, and after President Trump threatened further tariffs on the EU if the Canada associate-membership plan proved \"hostile\" to American interests, calling the idea \"laughable.\"\n\nThe proposal poses significant questions for the UK's post-Brexit positioning: closer alignment with a Canada-EU bloc could strain London's separately negotiated trade deal with Washington. Champagne characterized Canada's tariff response to the U.S. as \"measured, targeted and strategic\" and said Ottawa would \"re-engage at the right time\" with its southern neighbor, signaling the door to eventual de-escalation remains open.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-09-21T08:08:27.225014-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Italy's Meloni Announces Plan to Ban Burqas and Niqabs in Schools, Cap Foreign Students in Classrooms",
+      "summary": "Italian Prime Minister Giorgia Meloni announced Sunday that her government is preparing to ban the wearing of burqas and niqabs in Italian schools, presenting the measure as part of a broader integration policy at Fennix, the annual gathering of her Brothers of Italy party in Rome. The proposal would also impose a legal cap on the proportion of foreign-born students in individual classrooms and require some immigrant parents to attend Italian language lessons.\n\nMeloni framed the measures as efforts to integrate newcomers into Italian society rather than as exclusionary policy, though critics and civil liberties advocates are expected to challenge the restrictions as discriminatory toward Muslim communities. Similar bans on face-covering garments in public schools have been enacted or debated across several European countries, including France, where a longstanding secularism law prohibits religious symbols in state schools.\n\nThe announcement reflects a broader rightward shift in European immigration and integration policy and comes as Meloni's government faces ongoing pressure over migration flows across the Mediterranean. The classroom cap proposal in particular is likely to face legal scrutiny under EU non-discrimination frameworks.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/world/4735526/giorgia-meloni-plans-ban-burqas-niqabs-italian-schools/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-09-21T08:08:27.225014-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
       "headline": "Update: Ukraine Launches Largest-Ever Drone Barrage on Moscow as Russia Holds Wartime Election",
       "summary": "Ukraine launched more than 1,000 drones at Russia overnight, including hundreds directed at Moscow, in what the city's mayor described as the largest-ever drone attack on the Russian capital. Moscow's mayor said 450 drones were downed during the barrage, which killed two people and caused damage to the Moscow Oil Refinery and a residential building. The strikes coincided with the final day of Russia's first wartime parliamentary election.\n\nPreliminary results show President Vladimir Putin's ruling United Russia party on course to retain its constitutional majority, with more than 90 percent of votes counted. The Kremlin-backed party is projected to win more than three-quarters of parliamentary seats. The only anti-war party on the ballot, Yabloko, was effectively blocked by authorities and failed to secure any seats. Putin is expected to use the result to claim domestic support for the war in Ukraine.\n\nSeparately, Ukrainian President Volodymyr Zelensky announced he spoke by phone with President Trump and that the two have agreed to meet this week on the sidelines of the United Nations General Assembly in New York. Zelensky said the meeting \"could change a lot\" and described \"diplomatic momentum\" in efforts to reach a ceasefire. The White House confirmed the meeting as it continues efforts to broker de-escalation steps between Moscow and Kyiv.\n\nThe parallel military and diplomatic developments underscore the war's continued intensity more than four years after Russia's invasion. The drone attack — the largest on Moscow since the conflict began — comes even as Trump has scaled back joint U.S.-South Korean military exercises in an apparent effort to reduce regional tensions elsewhere, illustrating the administration's complex balancing act across multiple active conflicts.",
       "source": "Associated Press",
