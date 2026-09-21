@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, September 21, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "FAA Equipment Outage Grounds Flights at All Three Major New York-Area Airports",
+      "summary": "A fiber break affecting the Philadelphia Terminal Radar Approach Control facility caused cascading ground stops and delays at Newark Liberty International, John F. Kennedy International, and LaGuardia airports beginning Monday morning. The FAA said the primary circuit failed and the backup line also suffered a break, with repairs estimated to take approximately 13 hours. The disruption rippled across more than a dozen departure regions, including Chicago, Atlanta, Boston, Miami, Toronto, and Montreal.\n\nFAA Administrator Bryan Bedford said a new circuit was being installed between New Brunswick and Newark. Some flights already airborne when stops were issued were diverted to alternate airports, with Boston's Logan Airport confirming it received a significant number of diverted aircraft. Ground stops at Newark were extended multiple times, with delays at JFK projected through nearly 11 p.m. and LaGuardia through 10 p.m.\n\nThe outage comes weeks after the United Kingdom experienced two separate major air traffic control failures, prompting questions in that country about infrastructure resilience. The New York-area disruption affects one of the busiest air corridors in the world and has broad knock-on effects for national air travel. Travelers were advised to check directly with airlines for updated flight information.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/newark-airport-ground-stop-flights-delayed-faa-equipment-outage/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:11 PM MT",
+      "addedAtISO": "2026-09-21T13:11:55.257792-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "UK Brings First Criminal Charges Over 1994 Rwanda Genocide",
+      "summary": "British prosecutors have charged a Rwandan man living in north London with offences related to the 1994 Rwandan genocide, marking the first such prosecution in the United Kingdom. Dr. Vincent Brown, formerly known as Dr. Vincent Bajinya, 65, faces one count of conduct ancillary to genocide and six counts of conduct ancillary to murder as a crime against humanity. He is alleged to have \"directed and incited\" acts of murder and genocide carried out by others in the Rugenge district of Kigali in April 1994.\n\nThe Crown Prosecution Service said the charge decision followed a seven-year investigation by the Metropolitan Police's War Crimes Team, which began in 2019 after a formal request from the Rwandan government. Brown is scheduled to appear at Westminster Magistrates' Court on Tuesday. Investigators noted that additional probes into other individuals in the UK for similar offences remain ongoing.\n\nAn estimated 800,000 ethnic Tutsis and moderate Hutus were killed over 100 days in 1994 by Hutu extremist militias. The prosecution is legally and historically significant: despite the genocide's scale and the presence of suspects in Western countries for decades, successful prosecutions outside Rwanda and international tribunals have been rare. UK authorities said the case signals that Britain \"is not a safe haven\" for those suspected of atrocity crimes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:11 PM MT",
+      "addedAtISO": "2026-09-21T13:11:55.257792-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Kamala Harris Launches Midterm Campaign Trail Amid Uncertain 2028 Plans",
+      "summary": "Former Vice President Kamala Harris is beginning an active midterm campaign schedule, starting with a Tuesday rally in Michigan on behalf of Senate nominee Abdul El-Sayed. The trips to Michigan, Nevada, and Georgia — all battleground states and early primary venues — signal Harris is positioning herself as a Democratic party figure while keeping her 2028 options open. California Gov. Gavin Newsom has said publicly he will not seek the nomination if Harris does.\n\nHarris's return to the campaign trail is generating a mixed reception within her own party. Some prominent Democrats, including DNC member Barry Goodman of Michigan, have said she has \"run her course,\" while Iowa gubernatorial nominee Rob Sand bluntly told Politico, \"No thanks. Let's move on.\" Others, including former DNC Chair Donna Brazile, argue Harris has earned the right to consider her options without pressure and that relitigating her 2024 campaign is \"a waste of time.\"\n\nMichigan is politically fraught territory for Harris. Arab American communities in the state were alienated during the 2024 campaign over the Biden administration's support for Israel's operations in Gaza, and Harris did not break with that policy after replacing Biden as nominee. Her choice of Michigan and El-Sayed — an outspoken critic of Israel's conduct in Gaza — as her first midterm stop is being read by analysts as a deliberate effort to rebuild those relationships.\n\nThe midterm campaigning will serve as an informal audition for 2028, testing whether Harris can energize Democratic coalitions in the states she lost in 2024. Observers note that any future presidential run would need to look and sound different, with South Carolina political consultant Antjuan Seawright saying she \"will have to admit she was wrong about some things.\"",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/kamala-harris-campaigning-for-democrats-in-2026-midterms-as-her-2028-decision-looms",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:11 PM MT",
+      "addedAtISO": "2026-09-21T13:11:55.257792-06:00",
+      "slot": 14
+    },
+    {
       "category": "world",
       "headline": "World Leaders Gather at UN General Assembly Amid Wars, AI Fears, and Deep Divisions",
       "summary": "World leaders convened Monday in New York for the annual United Nations General Assembly, meeting under what diplomats describe as an unusually fraught global backdrop of ongoing wars in Ukraine and the Middle East, escalating tensions over artificial intelligence, and fractures within the international order. UN Secretary-General António Guterres is presiding over his final General Assembly, with observers noting that multilateral diplomacy has rarely faced more pressure.\n\nPresident Trump's attendance comes alongside a fresh announcement that his proposed 250-foot triumphal arch near Arlington Memorial Bridge in Washington will be redesigned as a dual-use facility housing snipers, drone storage, and ammunition, framed by the administration as a national security necessity. The move echoes Trump's earlier rebranding of a White House East Wing ballroom as a military complex, a characterization that has drawn legal challenges.\n\nThe assembly is also grappling with the economic fallout of the U.S.-Israel conflict with Iran, with new official data showing the global oil and gas sector contracted by 26 percent. French officials speaking ahead of the session outlined European priorities centered on restoring multilateral institutions and advancing climate commitments, even as Washington's posture toward international bodies remains skeptical.\n\nThe gathering draws together leaders navigating a world reshaped by trade wars, active military conflicts, and the rapid advance of AI technology. Supporters of Trump's approach argue that projecting military strength and skepticism of global institutions reflects legitimate U.S. interests, while critics contend that the administration's unilateralism is undermining the cooperative frameworks the UN was built to sustain.",
