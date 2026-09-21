@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, September 21, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "Google Fined €403 Million by Irish Regulator Over GDPR Location Data Violations",
+      "summary": "Ireland's Data Protection Commission (DPC) has fined Google €403 million — approximately £345 million — for unlawful handling of users' location data, in one of the largest GDPR penalties the watchdog has imposed. The fine follows a six-year inquiry triggered by complaints from European consumer rights organizations and concerns Google's processing of location data across three product features — Web & App Activity, Location History, and Location Accuracy — between May 2018 and February 2020.\n\nThe DPC found that Google's practices were not lawful, fair, or transparent as required under the General Data Protection Regulation, and that users may have been unaware their location data was being used to target them with ads or infer their interests. The regulator also cited Google's retention of location data for longer than necessary as an aggravating factor. In addition to the fine, Google has been ordered to bring its data processing practices into compliance within six months.\n\nGoogle said the case concerns historical policies that have since been updated, pointing to new tools introduced from 2019 onward including auto-delete controls and simplified ad management. The fine underscores the EU's continued aggressive enforcement of GDPR more than eight years after the regulation took effect, with Ireland serving as the primary regulator for many major US technology firms whose European headquarters are based there.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:15 PM MT",
+      "addedAtISO": "2026-09-21T17:15:23.945441-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Indonesia Secretly Released Convicted School Sexual Abuser After Less Than Half His Sentence, BBC Finds",
+      "summary": "A BBC Eye investigation has found that an Indonesian Islamic boarding school teacher convicted of sexually assaulting a student was quietly released from prison in August 2025, having served less than half of his seven-year sentence. Moch Subchi Azal Tsani, known as Bechi, is the son of a prominent Islamic religious leader; his 2022 arrest required a 15-hour siege involving nearly 1,000 riot police after his family's supporters gathered to block it.\n\nIndonesia's Ministry of Immigration and Corrections told the BBC that Bechi was released due to sentence remissions granted under applicable regulations but declined to explain why his sentence was reduced. The BBC's undercover footage shows him smiling and greeting supporters at a public event in March, months before his sentence would normally have expired. A former student who testified at his trial told the BBC she was raped and treated as a slave, saying of the footage: 'It's like nothing ever happened.'\n\nThe case has drawn attention to what the National Commission on Violence against Women describes as an 'emergency' of sexual violence in Indonesia's Islamic boarding schools, where the authority of religious leaders is said to shield institutions from oversight and discourage victims from coming forward. Critics note that then-President Joko Widodo intervened to keep Bechi's father's school operating after the conviction, framing the abuse as an individual matter rather than an institutional failing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:15 PM MT",
+      "addedAtISO": "2026-09-21T17:15:23.945441-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Update: South Africa Makes Arrests in Johannesburg-Area Murdered Women Cases as Outcry Grows",
+      "summary": "South African police have charged two women with the premeditated murder of Jabulile Ntimba, whose half-naked body was found wrapped in a sheet in the Dawn Park area east of Johannesburg last Thursday — the ninth in a series of murdered women discovered in the region. Acting police chief Lt. Gen. Puleng Dimpane called the arrests a 'breakthrough' and said officers were 'working tirelessly to bring those responsible to justice.'\n\nInvestigators said the killing of Ntimba appears to have stemmed from a personal relationship, possibly a love triangle, and cautioned that it has not been established whether all nine deaths are connected or whether a serial killer is responsible. A man arrested in connection with the case was released without charge. Analysts are working to determine whether the cases are linked.\n\nSouth Africa has one of the highest rates of gender-based violence in the world, with a recent Human Rights Commission estimate indicating an average of six women were murdered every day between April and June of this year. The string of discoveries has reignited national debate over the scale of violence against women, with protests calling the situation a national disaster. The arrests represent the first concrete law enforcement action in the cluster of killings.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:15 PM MT",
+      "addedAtISO": "2026-09-21T17:15:23.945441-06:00",
+      "slot": 18
+    },
+    {
       "category": "politics",
       "headline": "FAA Equipment Outage Grounds Flights at All Three Major New York-Area Airports",
       "summary": "A fiber break affecting the Philadelphia Terminal Radar Approach Control facility caused cascading ground stops and delays at Newark Liberty International, John F. Kennedy International, and LaGuardia airports beginning Monday morning. The FAA said the primary circuit failed and the backup line also suffered a break, with repairs estimated to take approximately 13 hours. The disruption rippled across more than a dozen departure regions, including Chicago, Atlanta, Boston, Miami, Toronto, and Montreal.\n\nFAA Administrator Bryan Bedford said a new circuit was being installed between New Brunswick and Newark. Some flights already airborne when stops were issued were diverted to alternate airports, with Boston's Logan Airport confirming it received a significant number of diverted aircraft. Ground stops at Newark were extended multiple times, with delays at JFK projected through nearly 11 p.m. and LaGuardia through 10 p.m.\n\nThe outage comes weeks after the United Kingdom experienced two separate major air traffic control failures, prompting questions in that country about infrastructure resilience. The New York-area disruption affects one of the busiest air corridors in the world and has broad knock-on effects for national air travel. Travelers were advised to check directly with airlines for updated flight information.",
