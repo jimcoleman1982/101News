@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, September 21, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: German Chancellor Merz Vows to Hold Coalition After Crushing State Election Defeats",
+      "summary": "German Chancellor Friedrich Merz on Monday pledged to keep his ruling coalition between the Christian Democratic Union (CDU) and the Social Democrats (SPD) intact, calling stability essential for Germany's \"democratic future\" after the CDU suffered historic losses in two state elections held Sunday. In Mecklenburg-Vorpommern, the far-right Alternative for Germany (AfD) finished first while the CDU failed to clear the 5% threshold required to enter the state parliament — a result Merz called \"a disaster\" and \"a dramatic, unprecedented result.\" In Berlin, the CDU finished second behind the hard-left Die Linke party, with the AfD also making significant gains in the capital.\n\nThe back-to-back defeats follow a similarly bruising result for the CDU in Saxony-Anhalt two weeks ago, fueling open speculation about whether Merz could be replaced mid-term in a so-called chancellor swap. Merz, who has been in power only 16 months, acknowledged his personal unpopularity played a role but argued the results reflect a broader transformation of Germany's party system. AfD co-leader Alice Weidel told the BBC she expects Merz to leave office \"pretty soon.\"\n\nDespite winning the most votes in multiple eastern states, the AfD is unlikely to govern because other parties have maintained a firewall against coalition partnerships with it. Some branches of the AfD have been classified as right-wing extremist by German domestic intelligence — a designation the party strongly contests. Its anti-immigration, Germany-first, and Russia-friendly platform has proven particularly potent in the country's formerly communist eastern regions.\n\nThe electoral upheaval has broader implications for European politics and Germany's role in NATO and Ukraine support. A weakened Merz government raises questions about Berlin's capacity to sustain its commitments on defense spending and its posture toward Russia at a critical moment in the Ukraine war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-21T21:08:26.556382-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Update: Appeals Court Reinstates Missouri Republican House Map for November Midterms",
+      "summary": "The Eighth U.S. Circuit Court of Appeals on Monday reinstated Missouri's Republican-drawn 7-1 congressional map, ruling it must be used in November's midterm elections. The decision delivers a significant boost to Republican candidates and effectively eliminates one of the state's two Democratic House districts, at least for this election cycle. The ruling sets up a potential further appeal to the Supreme Court.\n\nThe map, passed by the GOP-controlled Missouri legislature in 2025, has been contested for months in federal court. Critics, including Democrats and voting-rights advocates, argued the map unconstitutionally dilutes Democratic representation. Republicans countered that the legislature acted within its authority to draw district lines reflecting the state's political composition.\n\nThe reinstatement comes at a pivotal moment in the midterm cycle, with early voting already underway in some states and candidate filing and ballot printing deadlines creating practical urgency. The ruling affects Missouri's entire congressional delegation and could influence the national balance of power in the House.\n\nThe case is one of several redistricting battles playing out across the country ahead of November. Both parties have been engaged in aggressive map-drawing litigation following the Supreme Court's recent coordinated-spending ruling, which has reshaped the financial and legal landscape of the 2026 midterm contest.",
+      "source": "The Hill",
+      "url": "https://thehill.com/regulation/court-battles/6102804-mo-court-reinstates-gop-house-map/",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-21T21:08:26.556382-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Grand Jury Finds No Foul Play or Racial Motivation in Death of Nolan Wells",
+      "summary": "A Mississippi grand jury concluded Friday that the death of 18-year-old college football athlete Nolan Wells was \"consistent with drowning\" and found no evidence of criminal conduct or racial motivation, according to a report made public Monday by the Jackson County district attorney's office. Wells, who is Black, died after remaining on Horn Island — 10 miles off Mississippi's Gulf Coast — on July 4 while friends returned to shore due to a boat mechanical failure. His body was discovered in the water on July 6.\n\nThe Mississippi State Medical Examiner's Office ruled the cause and manner of death \"undetermined,\" a finding echoed by an independent autopsy commissioned by Wells's family. The grand jury noted bruising on the back of Wells's head but said it was not a fatal injury and that no fatal injury or organic disease was found. District Attorney Angel Myers McIlrath stated: \"There is absolutely no evidence to support the allegations that Nolan's death and disappearance were racially motivated. Nolan's friends loved Nolan and Nolan loved them.\"\n\nThe case drew national attention and significant social media scrutiny, with some commentators alleging foul play or racial animus based on the circumstances of Wells's death. Civil rights advocates and the Wells family had called for an independent investigation. The grand jury's findings directly contradict those claims, though the undetermined official cause of death means the exact sequence of events remains unclear.\n\nThe conclusion of the grand jury review closes the formal investigative process barring new evidence, though the family's independent pathologist's finding of an undetermined manner of death leaves open questions that may continue to generate public debate.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/21/us-news/nolan-wells-death-consistent-with-drowning-no-evidence-it-was-criminal-or-racially-motivated-grand-jury/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-21T21:08:26.556382-06:00",
+      "slot": 21
+    },
+    {
       "category": "business",
       "headline": "Google Fined €403 Million by Irish Regulator Over GDPR Location Data Violations",
       "summary": "Ireland's Data Protection Commission (DPC) has fined Google €403 million — approximately £345 million — for unlawful handling of users' location data, in one of the largest GDPR penalties the watchdog has imposed. The fine follows a six-year inquiry triggered by complaints from European consumer rights organizations and concerns Google's processing of location data across three product features — Web & App Activity, Location History, and Location Accuracy — between May 2018 and February 2020.\n\nThe DPC found that Google's practices were not lawful, fair, or transparent as required under the General Data Protection Regulation, and that users may have been unaware their location data was being used to target them with ads or infer their interests. The regulator also cited Google's retention of location data for longer than necessary as an aggravating factor. In addition to the fine, Google has been ordered to bring its data processing practices into compliance within six months.\n\nGoogle said the case concerns historical policies that have since been updated, pointing to new tools introduced from 2019 onward including auto-delete controls and simplified ad management. The fine underscores the EU's continued aggressive enforcement of GDPR more than eight years after the regulation took effect, with Ireland serving as the primary regulator for many major US technology firms whose European headquarters are based there.",
