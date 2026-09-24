@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-24",
+  "dateFormatted": "Thursday, September 24, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Xi Jinping Arrives in Washington for State Visit; U.S.-China Trade Truce Extended Two Months",
+      "summary": "Chinese President Xi Jinping arrived in Washington Wednesday evening for his first state visit to the United States in more than a decade, greeted by President Trump in an unusual tarmac welcome at Joint Base Andrews — a diplomatic gesture that departed from the standard White House arrival protocol. The visit marks a significant moment in U.S.-China relations following a prolonged period of trade tensions and geopolitical friction.\n\nCoinciding with Xi's arrival, Treasury Secretary Scott Bessent announced that the two countries have agreed to extend their existing trade truce for two months, through January 10. The so-called Busan Agreement had paused hostilities in the trade war between the world's two largest economies. Key issues expected to dominate the summit include trade, Taiwan, artificial intelligence, and climate policy.\n\nThe state visit comes amid a backdrop of ongoing U.S. military engagement with Iran, global supply chain pressures, and broader questions about the strategic rivalry between Washington and Beijing. Analysts note that Trump's tarmac welcome and the trade truce extension signal a desire by both sides to stabilize the relationship, at least in the near term.\n\nThe scope of any longer-term agreements remains unclear, with observers noting that Trump has not publicly articulated specific goals for the summit beyond broad economic and security interests.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/trump-xi-arrival-washington-state-visit-baea8dbdb8c832ae1b295579709dc967",
+      "sourceCount": 12,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:15 AM MT",
+      "addedAtISO": "2026-09-24T03:15:55.408311-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: U.S.-Iran War Continues as Both Sides Meet at UN; Pentagon Warns of Munitions Shortfalls",
+      "summary": "The U.S.-Iran conflict continued to dominate global attention this week as both sides held their first direct talks since a ceasefire collapsed in June, meeting on the sidelines of the United Nations General Assembly in New York. Iranian President Masoud Pezeshkian delivered a defiant address to the UN General Assembly, rejecting U.S. terms, even as President Trump warned he would 'annihilate' Iran if a peace deal is not reached.\n\nThe Pentagon's inspector general issued a significant new warning, finding that Operation Epic Fury has created 'shortfalls' in U.S. munitions stockpiles and a bottleneck in resupply chains — directly contradicting Trump's public assertions that American military supplies are 'virtually limitless.' The findings raise questions about U.S. military readiness if the conflict escalates or drags on.\n\nImages obtained by CBS News showed widespread damage to multiple U.S. installations in the Middle East from Iranian strikes. Iran and the U.S. also traded conflicting accounts over the status of an oil tanker, El Gaia, with Tehran claiming it caught fire after hitting mines and Washington asserting it was struck by a missile and drone.\n\nThe diplomatic and military situation remains fluid. Neither side has articulated a clear exit strategy, analysts note, and the intermittent exchange of fire since June has yet to produce conditions for a durable ceasefire. The war has also begun driving up global energy prices, with particular impact on diesel costs in the United States.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+      "sourceCount": 18,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:15 AM MT",
+      "addedAtISO": "2026-09-24T03:15:55.408311-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Zelensky Says U.S. Pushing Energy Ceasefire, Black Sea Corridor, and Trilateral Talks with Russia",
+      "summary": "Ukrainian President Volodymyr Zelensky told Axios in an interview Wednesday that the Trump administration is pressing for three immediate de-escalation steps in the Russia-Ukraine war: a ceasefire on energy infrastructure, the reopening of the Black Sea grain corridor, and a trilateral U.S.-Russia-Ukraine meeting, possibly to be held in Abu Dhabi.\n\nThe disclosure represents the clearest public articulation to date of the Trump administration's near-term diplomatic priorities for the conflict. Trump has signaled renewed interest in restarting a diplomatic track after earlier peace efforts stalled, though Russian officials have not publicly confirmed acceptance of any of the proposed steps.\n\nThe proposed energy ceasefire would halt strikes on power grids and fuel infrastructure, which have caused significant civilian hardship in Ukraine during the war. Reopening the Black Sea corridor would allow Ukrainian grain exports to resume, a matter of significant consequence for global food supplies and developing-world food security.\n\nSeparately, the first North Korean soldiers captured alive since Pyongyang joined Russia's war effort in 2024 have been apprehended, with President Zelensky criticizing North Korea for using its citizens as 'currency' to support Russia.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/24/zelensky-ukraine-russia-war-energy-ceasefire-grain",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:15 AM MT",
+      "addedAtISO": "2026-09-24T03:15:55.408311-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Pakistan Strikes Afghanistan After Accusing Kabul of Cross-Border Drone Attacks",
+      "summary": "Pakistan announced Wednesday that it had conducted aerial and drone strikes against ten locations in Afghanistan's southeastern Khost province, accusing the Taliban-led government in Kabul of launching drone attacks inside Pakistani territory. Pakistan said its forces thwarted the Afghan-originated attacks before retaliating. Afghan officials said the Pakistani strikes caused no casualties.\n\nThe strikes mark a significant escalation in longstanding tensions between Islamabad and Kabul, which have frequently traded accusations over cross-border militant activity and airspace violations since the Taliban returned to power in 2021. Pakistan has repeatedly blamed Afghan soil for sheltering militant groups responsible for attacks inside Pakistan.\n\nThe Taliban government in Kabul has consistently denied harboring anti-Pakistan militants and has rejected Pakistani military operations on Afghan territory as violations of sovereignty. The latest exchange raises concerns about a broader destabilization of the region at a time when both countries face significant internal pressures.\n\nThe incident has drawn limited international comment so far, though it comes amid an already complex security environment in South Asia and could further strain Pakistan's fraught relationship with its western neighbor.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/pakistan-strikes-afghanistan-accuses-kabul-of-drone-attacks",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:15 AM MT",
+      "addedAtISO": "2026-09-24T03:15:55.408311-06:00",
+      "slot": 5
+    }
+  ]
+}
