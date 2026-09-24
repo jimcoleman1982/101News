@@ -3,6 +3,34 @@
   "dateFormatted": "Thursday, September 24, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "CDC Officially Acknowledges First U.S. Measles Death from 2026 Outbreak",
+      "summary": "The Centers for Disease Control and Prevention updated its online tracker Thursday to record one measles death tied to the United States' ongoing 2026 outbreak — the first fatality the federal agency has officially acknowledged in connection with the outbreak. The CDC's listing does not specify when or where the death occurred.\n\nThe update follows months of public pressure from Pennsylvania Governor Josh Shapiro, a Democrat, who has been among the most vocal critics of the federal government's response to the outbreak and its transparency around fatalities. Pennsylvania has separately reported that measles killed four people within the state.\n\nThe discrepancy between Pennsylvania's count of four deaths and the CDC's single recorded death raises questions about federal reporting practices and the completeness of national disease surveillance during the outbreak. Public health officials have warned that underreporting complicates outbreak response efforts.\n\nThe acknowledgment arrives at a politically charged moment for federal health agencies, which have faced scrutiny under the current administration over vaccine policy and disease data transparency. The CDC update comes the same week that FDA nominee Heidi Overton told the Senate that the MMR vaccine is \"safe and effective.\"",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/6110065-cdc-adds-measles-death-pennsylvania/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "2:09 PM MT",
+      "addedAtISO": "2026-09-24T14:09:28.075964-06:00",
+      "slot": 14
+    },
+    {
+      "category": "business",
+      "headline": "Benchmark 30-Year Mortgage Rate Tops 7 Percent for First Time Since January 2025",
+      "summary": "The average 30-year fixed mortgage rate climbed to 7.03 percent this week, surpassing the 7 percent threshold for the first time since January 2025, according to data from federal lender Freddie Mac. The rate has now risen for five consecutive weeks, up from 6.95 percent the prior week.\n\nThe increase follows the Federal Reserve's decision to raise interest rates — its first hike since 2023 — as policymakers respond to persistently elevated inflation. Mortgage rates track closely with broader interest rate movements, and economists say the trajectory is likely to worsen before it improves. A senior economist at Realtor.com told CBS News that rates are \"far more likely to go up than down by the end of the year.\"\n\nThe development compounds pressure on a housing market already strained by years of high borrowing costs and historically low inventory. Higher mortgage rates reduce purchasing power for prospective buyers, further suppressing an already sluggish market and placing homeownership out of reach for millions of Americans contending with stagnant wages and elevated prices across the economy.\n\nThe Fed's rate hike and its downstream effects on mortgages are expected to be a significant issue heading into midterm elections, with Democrats and Republicans offering competing diagnoses of inflation's causes and the appropriate policy remedies.",
+      "source": "The Hill",
+      "url": "https://thehill.com/business/6109550-mortgage-rates-surpass-seven-percent/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "2:09 PM MT",
+      "addedAtISO": "2026-09-24T14:09:28.075964-06:00",
+      "slot": 14
+    },
+    {
       "category": "politics",
       "headline": "Update: Federal Judge Orders White House to Restore CNN, MS NOW, and Politico Press Access After Administration Defies Ruling",
       "summary": "A federal judge ordered the Trump administration to immediately restore White House press credentials to CNN, MS NOW, and Politico after President Trump banned the three outlets last week, calling their coverage \"fiction and lies.\" Despite the overnight court order, journalists from the three organizations were repeatedly turned away from the White House grounds Thursday morning, prompting their lawyers to file an emergency request for a hearing alleging the administration was in contempt. Reporters were ultimately allowed back in around noon Thursday.\n\nU.S. District Judge Timothy Kelly, appearing skeptical of the administration's arguments, ruled the ban was likely unconstitutional. The administration argued the restrictions were a matter of national security, not political retaliation — a claim undermined when Trump, during Chinese President Xi Jinping's state visit, quipped to photographers that China \"had the friendliest press corps\" and remarked on how Chinese reporters ask Xi for permission to speak.\n\nPress freedom advocates and First Amendment lawyers warned the episode represents a serious threat to constitutional protections, noting that the White House's apparent defiance of a federal court order raises urgent rule-of-law concerns. Supporters of the administration's initial ban argued that the president has broad authority over who receives access to secure government facilities and that the outlets in question had repeatedly published inaccurate reporting.\n\nThe standoff is the most direct confrontation between a U.S. president and the federal judiciary over press access in modern history, and legal experts say the case will likely set significant precedent. With 25 outlets covering the story, it dominated the day's news cycle alongside the ongoing Xi state visit.",
