@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-25",
+  "dateFormatted": "Friday, September 25, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Trump-Xi Summit Concludes With Trade Truce Extended, Key Disputes Unresolved",
+      "summary": "President Trump hosted Chinese President Xi Jinping for a state dinner Thursday at the White House, marking Xi's first visit to Washington in more than a decade. The summit was heavy on pageantry — a pescatarian menu with sesame-crusted sea bass, a bald eagle sculpture gifted to Xi, and a guest list packed with tech billionaires including Elon Musk, Mark Zuckerberg, Sam Altman, and Jeff Bezos — but produced limited concrete agreements. Treasury Secretary Scott Bessent announced the two countries extended their tariff truce by two months, from November to January, falling well short of Beijing's reported hope for at least a year-long extension.\n\nThe thorniest issues separating the two powers — AI governance, Taiwan arms sales, rare earth supply chains, and the U.S.-Iran war — remained unresolved after the closed-door sessions. Xi called for cooperation to avoid the \"Thucydides trap\" of great-power conflict and reiterated that U.S. arms sales to Taiwan are a red line for China. Trump has not publicly responded to Xi's Taiwan comments, though he faces bipartisan pressure to maintain support for the island. Xi also announced China would send two pandas to Zoo Atlanta as a gesture of goodwill.\n\nThe summit was shadowed by a parallel confrontation over press access. A federal judge ruled the Trump administration violated the Fifth Amendment rights of CNN, MS Now, and Politico by banning them from the White House, and issued a temporary restraining order requiring their reinstatement. Despite the ruling, reporters from those outlets were initially denied entry to the state dinner before eventually being readmitted — prompting their lawyers to request an emergency hearing, alleging the administration had \"repeatedly violated\" the court's order.\n\nThe summit drew criticism from Republicans and Democrats alike. Republican Sen. Thom Tillis called the timing \"bad\" and analysts noted the lack of substantive breakthroughs despite elaborate diplomatic staging. Supporters of the summit argued that stabilizing the world's most consequential bilateral relationship — particularly amid the ongoing U.S.-Iran war and AI competition — was itself a meaningful accomplishment, even absent a landmark deal.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/live/trump-xi-china-summit-media-ban-news-updates-09-24-2026",
+      "sourceCount": 30,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:34 AM MT",
+      "addedAtISO": "2026-09-25T03:34:32.430143-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Pakistan Strikes Afghanistan Again, Taliban Vows 'Appropriate Response'",
+      "summary": "Pakistan launched a second wave of air strikes on Afghan territory in less than a week, hitting targets in Kandahar, Paktia, and Khost provinces, the Taliban government confirmed Thursday. The Taliban said four civilians were killed and others were wounded, with a provincial official reporting jets bombed the Afghan Armed Forces' 203 Mansouri Corps in Paktia. Local eyewitnesses in Khost described residential areas being struck, with one saying \"there is no military base here, nor are there any military personnel — there are only the homes of ordinary civilians.\"\n\nPakistan's government said its forces struck 10 targets in Afghanistan and characterized the operation as \"deliberate, precise, calibrated, and proportionate,\" asserting the strikes were \"strictly limited to identified military objectives directly linked to attempted attacks against Pakistan.\" Islamabad has accused the Taliban of harboring Tehreek-e-Taliban Pakistan (TTP), a militant group that claimed a September 18 attack on a mosque at a police compound in northwestern Pakistan that killed at least 31 people. The Taliban denies sheltering the TTP, calling militancy Pakistan's internal problem.\n\nTaliban spokesman Zabihullah Mujahid called the strikes \"reckless, careless, and hostile\" and warned they \"will have adverse consequences for the Pakistani military,\" vowing an \"appropriate response.\" Pakistan in turn cautioned that any further \"provocative act\" would be met with a response. The UN mission UNAMA confirmed at least three civilian casualties. The escalating cross-border strikes risk drawing two nuclear-armed neighbors — Pakistan and Afghanistan's de facto Taliban government — into a broader conflict.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:34 AM MT",
+      "addedAtISO": "2026-09-25T03:34:32.430143-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Trump FDA Nominee Overton Dodges Questions on Mifepristone Safety, Vaccines at Senate Hearing",
+      "summary": "Dr. Heidi Overton, President Trump's nominee to lead the Food and Drug Administration, appeared before a Senate committee Thursday for her confirmation hearing and largely sidestepped direct questions on two of the most politically charged issues before the agency: the safety of the abortion pill mifepristone and vaccine policy. Overton, a fierce opponent of abortion rights, declined to state whether she believes mifepristone is safe and effective, a drug that accounts for the majority of abortions in the United States and whose FDA approval has faced repeated legal challenges from anti-abortion groups.\n\nThe hearing put Overton in a difficult position between a Republican administration that has shown skepticism toward some public health orthodoxies and a Senate confirmation process that requires demonstrating basic scientific credibility. She did tell senators that the MMR vaccine is \"safe and effective\" — a position at odds with vaccine skeptics within Trump's orbit — but avoided many other pointed questions from lawmakers on both sides. Sen. Bernie Sanders pressed her on whether healthcare is a human right; she declined to give a yes-or-no answer.\n\nThe FDA commissioner's role is among the most consequential in federal public health administration, overseeing drug approvals, food safety, and medical device regulation affecting hundreds of millions of Americans. Supporters of Overton's nomination argue she will bring needed scrutiny to the agency's approval processes, while critics contend her record on abortion and science raises serious questions about her fitness to lead an agency whose credibility depends on scientific independence.",
+      "source": "The Hill",
+      "url": "https://thehill.com/newsletters/healthcare/6110563-fda-pick-sidesteps-tough-questions/",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:34 AM MT",
+      "addedAtISO": "2026-09-25T03:34:32.430143-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Texas Voter Registration Backlog Could Leave Thousands Unregistered Ahead of Midterms",
+      "summary": "A system error in Texas has left tens of thousands of voter registration applications unprocessed for months, forcing county election officials to scramble to clear the backlog just weeks before early voting begins in the state's midterm elections. The Texas secretary of state's office alerted county election officials to the problem last week; it involves a technical issue with the Department of Public Safety's records system that delayed the processing of applications.\n\nThe error raises concerns that eligible voters who submitted applications in good faith could find themselves unable to vote if the backlog is not cleared before voter registration deadlines. Texas, which has some of the most restrictive voter registration rules in the country, does not allow same-day registration. County election officials are racing to manually review and process the delayed records before early voting opens next month.\n\nThe development adds to a broader set of election administration concerns playing out ahead of the November midterms, including disputes over voter roll maintenance, non-citizen voting investigations, and a California Supreme Court order requiring the return of more than 650,000 seized ballots. Texas election officials have not said how many applicants may ultimately be affected or whether the problem has been fully resolved.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/6110597-texas-voter-registration-application-backlog/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:34 AM MT",
+      "addedAtISO": "2026-09-25T03:34:32.430143-06:00",
+      "slot": 5
+    }
+  ]
+}
