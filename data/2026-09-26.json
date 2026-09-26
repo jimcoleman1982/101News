@@ -3,6 +3,34 @@
   "dateFormatted": "Saturday, September 26, 2026",
   "stories": [
     {
+      "category": "technology",
+      "headline": "Trump Administration Launches America.gov AI Portal to Streamline Federal Services",
+      "summary": "The Trump administration is unveiling America.gov, an artificial intelligence-powered portal designed to serve as a centralized gateway for Americans accessing federal government information and services. President Trump and Vice President Vance are headlining an all-day event at the Andrew W. Mellon Auditorium in Washington, D.C., alongside senior officials including Secretary of State Marco Rubio and CMS Administrator Mehmet Oz.\n\nThe launch also features prominent technology industry figures including Elon Musk, Nvidia CEO Jensen Huang, and Blue Origin CEO Dave Limp. The initiative is led in part by Joe Gebbia, the AirBnB co-founder who now serves as the country's first-ever U.S. Chief Design Officer, heading the National Design Studio.\n\nAdministration officials describe the tool as \"a new front door for the federal government\" intended to consolidate resources currently scattered across dozens of agency websites. Gebbia framed the launch as \"a new chapter of usability for the country,\" aiming to simplify interactions that Americans have long found cumbersome.\n\nThe rollout comes as public opinion on AI remains mixed: a recent Fox News poll found 54 percent of registered voters hold an unfavorable view of artificial intelligence. The event also coincides with the administration's review of a new AI testing framework, placing the America.gov launch at the center of a broader debate over government adoption of emerging technology.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-usher-golden-age-american-tech-dc-bash-showcasing-powerful-new-tool",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:47 PM MT",
+      "addedAtISO": "2026-09-26T13:47:52.747136-06:00",
+      "slot": 14
+    },
+    {
+      "category": "science_health",
+      "headline": "What Is Kratom? Two Ole Miss Student Deaths Put Unregulated Herb Under National Spotlight",
+      "summary": "The deaths of two University of Mississippi students this week have put kratom — an herbal supplement with opioid-like effects — under intense national scrutiny after packaged kratom was recovered at both scenes. Authorities have not attributed the deaths directly to kratom, but officials issued public warnings about the substance and toxicology reports are pending.\n\nKratom is derived from a Southeast Asian tree and has been used for centuries as a stimulant. In the United States, it entered the consumer market around 2016 and is sold in pill, powder, and liquid form at convenience stores, gas stations, and vape shops. Because it is classified as a dietary supplement, it is not regulated by the FDA and is legal in most states, including Mississippi. Medical experts warn there is no quality control: \"You could go and create something in your basement, market it as a supplement, and nobody's really going to check,\" said Dr. Shane Speights of the New York Institute of Technology College of Osteopathic Medicine.\n\nAt lower doses, kratom produces a caffeine-like effect; at higher doses, it can cause euphoria, hallucinations, and, critically, central nervous system depression — which doctors say is where fatal outcomes occur. Advocates for the substance argue it has provided relief for chronic pain sufferers and has helped some users manage opioid addiction, citing a lack of alternatives from the conventional medical system.\n\nThe Ole Miss deaths have reignited a long-running debate over whether kratom should be federally regulated or banned outright. Anti-kratom groups have pushed for years for stricter controls, while users and some advocates argue that prohibition would eliminate a harm-reduction tool for people who have found no relief elsewhere. The FDA has previously issued warnings about kratom but has not moved to classify it as a controlled substance.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:47 PM MT",
+      "addedAtISO": "2026-09-26T13:47:52.747136-06:00",
+      "slot": 14
+    },
+    {
       "category": "world",
       "headline": "German Town Bans Holocaust Memorial Plaques, Sparking National Outrage",
       "summary": "The town of Heidenau, near Dresden in Saxony, has voted to ban \"Stolpersteine\" — small brass memorial plaques embedded in sidewalks to commemorate Nazi victims — marking one of the most provocative acts of historical revisionism by a German municipal government in recent memory. The ban was passed by councillors from the far-right Alternative für Deutschland (AfD) party and the conservative CDU, with the motion arguing that many citizens found the street-level memorials inappropriate. Future commemorations are to be relocated to a cemetery.\n\nThe decision drew immediate condemnation from senior German officials. Education Minister Karin Prien, herself a CDU member, called the ban a \"scandal\" and said it rendered Jewish people \"invisible once again.\" Holocaust survivor Charlotte Knobloch, president of the Jewish Community in Munich, said she was \"appalled that a democratic party would stoop to supporting such a transparent manoeuvre by the extremists of the AfD.\"\n\nThe AfD in Saxony has been classified as extreme-right by German domestic intelligence, a designation the party rejects. The AfD recently secured major electoral victories in Saxony-Anhalt and Mecklenburg-Vorpommern, and Günter Demnig, the artist who created the Stolpersteine project in the 1990s, said the ban was \"certainly to be expected\" given those results.\n\nThe episode deepens concerns about the normalization of far-right influence in German local governance and arrives as Chancellor Friedrich Merz's government is already reeling from a string of regional election defeats. The Stolpersteine project spans dozens of European countries; Germany's post-war culture of public remembrance has long been considered a global model.",
