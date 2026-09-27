@@ -3,6 +3,48 @@
   "dateFormatted": "Saturday, September 26, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: U.S. and China Agree to Cut Tariffs on $30 Billion in Goods, Establish AI Safety Channel",
+      "summary": "The White House released a late-night fact sheet detailing eight-point outcomes from the Trump-Xi summit, including an agreement to reduce noncritical tariffs on approximately $30 billion worth of goods between the two countries. The two sides also agreed to establish a formal communications channel to help defuse serious artificial intelligence incidents, a notable step given that both governments have framed AI dominance as a strategic national priority.\n\nThe tariff reductions mark a concrete deliverable from the summit beyond the previously reported two-month trade truce extension. The AI safety dialogue is significant because it formally acknowledges China as a peer competitor in advanced AI development, even as President Trump has publicly insisted that beating China in the AI race is the paramount objective.\n\nThe agreement drew mixed reactions. Supporters argued it reduces the risk of accidental escalation in both trade and technology. Critics questioned whether the concessions on tariffs undercut leverage the U.S. holds over Beijing on broader structural economic disputes that remained unresolved at the summit's conclusion.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6112947-donald-trump-xi-jinping-tariffs/",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-26T21:08:33.901028-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "EU's Top Diplomat Kaja Kallas Warns Europe Against Yielding to Russian Intimidation",
+      "summary": "European Union foreign policy chief Kaja Kallas, speaking on the sidelines of the United Nations General Assembly in New York, warned that Russia's campaign of sabotage and intimidation across Europe is designed to pressure Western nations into withdrawing support for Ukraine. \"Their goal is to intimidate us from not supporting Ukraine,\" Kallas told Fox News Digital. \"Because otherwise this kind of intimidation actually pays off, and then we will see more of it across the world.\"\n\nKallas speaks from direct personal experience with Soviet authoritarianism. Her mother, as an infant, was deported to Siberia by Soviet authorities in 1949 during Stalin's mass deportations from the Baltic states, transported in a cattle car in freezing conditions. Kallas herself was born in Tallinn in 1977 and spent the first 14 years of her life under Soviet rule before Estonia restored independence in 1991. She became Estonia's first female prime minister in 2021 and was appointed the EU's top diplomat for foreign affairs and security policy in 2024.\n\nHer remarks come as NATO's eastern flank members have raised alarms about Russian sabotage operations targeting infrastructure across Europe, including the recent fire at a Starlink station in Poland that Warsaw attributed to Russian actors. Kallas argued that European resolve, rather than accommodation, is the only credible deterrent to further Russian aggression.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/grew-up-soviet-rule-eu-top-diplomat-warns-europe-against-giving-russia-wants",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-26T21:08:33.901028-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Two Arrested After Men Seen Emerging from Manhattan Sewer Near Netanyahu's Hotel",
+      "summary": "New York City police arrested two Queens men — Kevin Rodriguez, 26, and Samuel Reveron, 25 — on charges of conspiracy and trespassing after they were among three individuals observed emerging from a manhole near the hotel where Israeli Prime Minister Benjamin Netanyahu was expected to stay during the United Nations General Assembly. The men were seen exiting the underground sewer system around 4:30 a.m. Wednesday before fleeing when officers arrived. Both pleaded not guilty at a Friday hearing and were released.\n\nThe NYPD said the incident appeared consistent with a pattern of people entering the city's sewer system to search for valuables and scrap metal following storms, but acknowledged the location's proximity to a visiting head of state warranted heightened scrutiny. \"Out of an abundance of caution given the UN General Assembly and the sensitivity of the location, the NYPD is conducting additional security sweeps with our federal partners,\" the department said.\n\nThe arrests are the latest in a series of sewer-related incidents in New York this year. In August, surveillance footage captured individuals emerging from manholes in Queens and near Penn Station. Officials reiterated that entering the sewer system is both illegal and dangerous due to the risk of toxic gases and flooding in confined spaces.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-26T21:08:33.901028-06:00",
+      "slot": 21
+    },
+    {
       "category": "politics",
       "headline": "Trump Cancels $810 Million in Congressionally Approved Spending via Rare 'Pocket Rescission'",
       "summary": "The Trump administration announced Friday it is canceling $810 million in congressionally approved funding using a 'pocket rescission,' a rare budget maneuver in which the White House proposes rescinding funds so close to the end of the fiscal year (September 30) that Congress cannot complete its mandated 45-day review before the money expires. The largest portion — $567 million — targets Health and Human Services programs supporting refugees, asylees, and other non-citizens. Additional cuts hit education programs for migrant students, diversity and inclusion initiatives, minority business development, and what the administration labeled 'Woke International Education' grants.\n\nThe White House contends the maneuver is within executive authority, but Congress and the Government Accountability Office have previously ruled that such pocket rescissions exceed presidential powers. Critics argue the timing — with the House out of session through the November midterm elections — makes a congressional response functionally impossible.\n\nSen. Susan Collins (R-ME), who faces a competitive re-election, condemned the move as 'the most recent attempt by this Office of Management and Budget to undermine Congress's Constitutional power of the purse.' Supporters of the cuts argue the targeted programs do not benefit American citizens and represent ideological spending the administration is right to claw back.\n\nThe action represents a significant escalation in the ongoing standoff between the executive and legislative branches over federal spending authority, with implications for the balance of power over the federal budget heading into the midterm cycle.",
