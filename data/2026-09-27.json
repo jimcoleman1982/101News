@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Five Arrested Near U.S. Air Base in England on Terrorism and Explosives Suspicion",
+      "summary": "British counterterrorism police arrested five men on Sunday on suspicion of offenses under the Explosives Act after three suspicious vehicles were observed traveling toward RAF Fairford in Gloucestershire, England. Officers declared a major incident, evacuated nearby homes, and set up roadblocks around the base, which the United Kingdom has authorized the United States to use for strikes against Iran since the conflict began in February.\n\nPresident Trump praised the operation, telling reporters in Chicago: 'Working with Britain, it was an amazing job. We had them under investigation. They were looking to do big damage to our fort, and working with the British worked out great and we got them.' Rep. Kat Cammack (R-Fla.) said Iran was 'clearly involved,' though she acknowledged that determination would require investigation. British police have not publicly confirmed any link to Iran.\n\nRAF Fairford has been used by American B-2 bombers for strikes on Iran under an agreement with the British government, making it a high-profile target amid ongoing hostilities. The incident represents a significant escalation in the domestic security dimension of the U.S.-Iran conflict, raising concerns about potential Iranian-linked threats on allied soil.\n\nThe five men were held on suspicion of preparing a terrorist act. No explosives had been publicly confirmed as found at the scene as of Sunday morning, and British authorities said the investigation was ongoing. The incident drew immediate bipartisan congressional comment, with some Republicans calling for scrutiny of Iran's role in the alleged plot.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
+      "sourceCount": 21,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:00 PM MT",
+      "addedAtISO": "2026-09-27T17:00:21.351338-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "27 Killed in Two Separate Mass Shootings Hours Apart in South Africa",
+      "summary": "Twenty-seven people were killed in two mass shootings in South Africa within hours of each other on Saturday night and early Sunday morning, the latest outbreak of gun violence in one of the world's most murderous countries. In the first attack, eight gunmen stormed a bar near Johannesburg, killing 17 people and injuring 15 others before torching two vehicles and fleeing. In the second, 10 people were killed outside an entertainment venue in a township near Cape Town, with 11 more wounded.\n\nGauteng Police Commissioner Lt. Gen. Tommy Mthombeni said the Johannesburg attack may have been motivated by robbery, as personal belongings were taken, though he did not rule out turf wars between illegal mining gangs. Deputy Commissioner Maj. Gen. Fred Kekana said it may also have been retaliation for a prior incident. No arrests had been made in either case as of Sunday morning. The Johannesburg victims included people from Ethiopia and Lesotho as well as South African nationals.\n\nThe twin attacks came days after 11 people were killed in Durban when gunmen stormed a house in the KwaMakhutha township, deepening fears of an escalating wave of mass violence. South Africa records roughly 60 murders per day among a population of 62 million. President Cyril Ramaphosa earlier this year called organized crime 'the most immediate threat to our democracy,' and the military has been deployed alongside police in the highest-murder-rate areas.\n\nIllegal firearms tied to drug trafficking and illegal gold and mineral mining underpin much of the gang violence, according to authorities. A tenth woman's body was also found east of Johannesburg on Saturday, with police declining to rule out a serial killer operating in the area.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:00 PM MT",
+      "addedAtISO": "2026-09-27T17:00:21.351338-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
       "headline": "Update: Trump Rejects Iran's Hormuz Proposal, Expects Talks to Resume This Week",
       "summary": "President Trump has rejected Iran's seven-day proposal to reopen the Strait of Hormuz — which included conditions requiring the U.S. to lift its naval blockade, waive sanctions on Iranian oil, and observe a ceasefire covering Lebanon — but told Axios in a phone interview that he expects renewed talks with Tehran this week. Trump said Iran wants a deal \"because they're losing so badly,\" while National Security Advisor Mike Waltz defended the rejection Sunday, telling CNN that Iran was \"asking for everything up front\" and that Trump is \"not confident that the Iranians are coming in good faith.\"\n\nIranian President Masoud Pezeshkian pushed back, telling CBS News that a prior agreement based on a memorandum of understanding signed in Pakistan had already been reached, arguing the choice of next steps now rests with the United States. Tehran has said it will not back down from its conditions and is awaiting an official U.S. response through mediators. U.S. envoy Steve Witkoff and Jared Kushner have been managing back-channel communications.\n\nThe standoff has significant global economic implications given the Strait of Hormuz's role as a critical chokepoint for roughly 20 percent of the world's oil supply. Secretary of State Marco Rubio earlier this week characterized the diplomacy cautiously, saying there had been no breakthroughs. Reports also indicate Trump has told aides he expects to resume military pressure on Iran after the November midterms if talks fail.\n\nThe story is covered by 11 outlets across the political spectrum, reflecting its high significance. The new development today is Trump's explicit public rejection of Iran's proposal combined with his stated expectation that talks will resume imminently — a concrete shift from the previously reported stalemate.",
       "source": "Bloomberg Politics",
