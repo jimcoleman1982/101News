@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Serbia's Vucic Formally Resigns Presidency, Triggering Double Elections Before Year's End",
+      "summary": "Serbian President Aleksandar Vucic formally resigned Sunday after more than a year of mass protests fueled by anger over government corruption and the collapse of a railway station roof in Novi Sad that killed 16 people in 2024. Vucic, who had announced his intention to step down in June, addressed supporters outside the presidential building in Belgrade, defending his nine-year tenure as one that preserved peace and stability. Parliamentary Speaker Ana Brnabic, a fellow member of his Progressive Party, will serve as interim president.\n\nUnder Serbia's constitution, a presidential election must be held within three months of the resignation, meaning Serbians will now vote twice before year's end — first in a snap parliamentary election in late October, then in a presidential contest. Vucic is positioning himself to run as the Progressive Party's candidate for prime minister in the parliamentary vote, leaving open the possibility he could remain a dominant force in Serbian politics despite vacating the presidency.\n\nVucic used his final constitutional powers to pardon 49 people, including 23 students and party loyalists connected to unrest during the protest period. The upcoming elections will pit the Progressive Party against a student-led anti-corruption movement called Students Win and a pro-Western opposition coalition known as European Serbia.\n\nVucic's exit marks a pivotal moment for a country that has sought EU membership while simultaneously cultivating close ties with Russia and Chinese investment. The protests that drove his resignation drew an unusually broad coalition — students, teachers, farmers, and workers — and represented one of the most sustained challenges to his authority since he first came to power as prime minister in 2014.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-27T21:08:47.530946-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Houthis Press Offensive Near Yemen's Taiz as Civil War Escalates After Ceasefire Collapse",
+      "summary": "Houthi forces are consolidating troops and preparing a major offensive near Taiz, Yemen's third-largest city and cultural capital of nearly one million people, according to BBC journalists embedded with Saudi-backed government forces on the front lines. The fighting has intensified since Houthi fighters seized the strategic Red Sea port of Mokha on September 10, after a four-year ceasefire broke down, giving the group control of territory overlooking the Bab al-Mandab Strait — a critical shipping corridor between Europe and Asia.\n\nGovernment forces described a grim situation near the front, with the bodies of 18 soldiers lying in positions that troops could observe but not safely retrieve. Residents near the lines have sent families to displacement camps while remaining to protect livestock, with one man telling BBC reporters he stayed despite shelling because \"we will all go hungry without our animals and die anyway.\" Contacts on the Houthi side confirmed preparations for a renewed push.\n\nThe Houthi seizure of Mokha and their positioning along the Bab al-Mandab Strait has already contributed to a rise in global oil prices, raising fears of further disruption to shipping through one of the world's most important maritime chokepoints. Taiz sits at a strategic intersection between Houthi-controlled northern Yemen and government-held southern territory, making it a linchpin of the broader conflict.\n\nThe renewed fighting represents a significant escalation of Yemen's long-running civil war, which has drawn in regional powers and created one of the world's worst humanitarian crises. The collapse of the ceasefire and the Houthi advance along the Red Sea coast risk widening the conflict's economic and geopolitical footprint beyond Yemen's borders.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-27T21:08:47.530946-06:00",
+      "slot": 21
+    },
+    {
+      "category": "other",
+      "headline": "MTV VMAs Return to Los Angeles with Taylor Swift, Charli XCX Among Top Draws",
+      "summary": "The 2026 MTV Video Music Awards took place Sunday in Los Angeles, with Taylor Swift, Charli XCX, and K-pop star Lisa among the celebrities walking a blue version of the traditional red carpet ahead of the ceremony. The event drew broad coverage across major entertainment and news outlets.\n\nThe VMAs remain one of the music industry's most-watched annual events, often serving as a cultural barometer for trends in pop music and celebrity. This year's blue carpet was a visual departure from the show's traditional aesthetic, generating significant social media attention ahead of the broadcast.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-09-27T21:08:47.530946-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
       "headline": "Five Arrested Near U.S. Air Base in England on Terrorism and Explosives Suspicion",
       "summary": "British counterterrorism police arrested five men on Sunday on suspicion of offenses under the Explosives Act after three suspicious vehicles were observed traveling toward RAF Fairford in Gloucestershire, England. Officers declared a major incident, evacuated nearby homes, and set up roadblocks around the base, which the United Kingdom has authorized the United States to use for strikes against Iran since the conflict began in February.\n\nPresident Trump praised the operation, telling reporters in Chicago: 'Working with Britain, it was an amazing job. We had them under investigation. They were looking to do big damage to our fort, and working with the British worked out great and we got them.' Rep. Kat Cammack (R-Fla.) said Iran was 'clearly involved,' though she acknowledged that determination would require investigation. British police have not publicly confirmed any link to Iran.\n\nRAF Fairford has been used by American B-2 bombers for strikes on Iran under an agreement with the British government, making it a high-profile target amid ongoing hostilities. The incident represents a significant escalation in the domestic security dimension of the U.S.-Iran conflict, raising concerns about potential Iranian-linked threats on allied soil.\n\nThe five men were held on suspicion of preparing a terrorist act. No explosives had been publicly confirmed as found at the scene as of Sunday morning, and British authorities said the investigation was ongoing. The incident drew immediate bipartisan congressional comment, with some Republicans calling for scrutiny of Iran's role in the alleged plot.",
       "source": "New York Times",
