@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, September 28, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "FBI Deputy Director Andrew Bailey Resigns After Roughly One Year",
+      "summary": "FBI Deputy Director Andrew Bailey announced Monday he is stepping down from his post, citing a desire to return to his family in Missouri. Bailey, part of a three-person leadership team at the bureau under Director Kash Patel, had served for just over a year and was originally brought in partly to ease tensions between former Attorney General Pam Bondi and former deputy director Dan Bongino.\n\nBailey's departure adds to a pattern of significant turnover at the FBI since Patel took the helm. Multiple senior officials and experienced career agents have left the agency over the past year, a trend critics say is hollowing out institutional expertise at a critical law enforcement and national security body. Supporters of Patel's leadership have argued the departures reflect a necessary reshaping of an agency they say had become politicized.\n\nIn his statement posted to X, Bailey thanked President Trump, Attorney General Todd Blanche, and Director Patel \"for the opportunity to serve.\" The White House and FBI have not yet announced a replacement or indicated a timeline for filling the role.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/28/fbi-kash-patel-andrew-bailey-leaves",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-09-28T11:08:24.641996-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Meloni Ally Wins Italian Parliamentary By-Election, Defeating Far-Right Challenger",
+      "summary": "A candidate aligned with Prime Minister Giorgia Meloni's Brothers of Italy party won a special parliamentary by-election in the Calabria region on Monday, comfortably defeating a challenger from the newly formed National Future party, a far-right upstart contesting its first election. The result is seen as a confidence boost for Meloni's ruling coalition ahead of future national contests.\n\nThe vote was closely watched as a test of whether the more extreme nationalist National Future could peel away support from Meloni's right flank. Its failure to do so in Calabria, a region in southern Italy with historically high rates of poverty and emigption, suggests Meloni retains a firm grip on Italy's right-leaning electorate for now. National Future had sought to position itself as a more uncompromising alternative on immigration and sovereignty issues.\n\nThe by-election result also coincides with a separate development in the United States: the Trump administration's Education Department announced it has 90 days to decide whether to strip the American Bar Association of its decades-long monopoly on law school accreditation, a move with potentially far-reaching consequences for legal education.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/meloni-ally-wins-italy-parliament-seat-beats-far-right-upstart",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-09-28T11:08:24.641996-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Update: Yemen's Taiz Under Intensifying Houthi Pressure as Major Offensive Looms",
+      "summary": "New on-the-ground reporting from BBC journalists embedded with Yemeni government forces near Taiz reveals the conflict around Yemen's third-largest city has escalated sharply since Houthi fighters seized the strategic Red Sea port of Mokha on September 10. Houthi contacts told reporters the group is consolidating troops and preparing a major offensive against Taiz, home to nearly one million people, while government forces say they are aware of the threat and preparing defenses.\n\nFighters at the front line described dire conditions: the bodies of 18 government soldiers lie in a zone that can be fired across but not reached for recovery. Civilians in surrounding villages are caught between the two sides, with many families displaced to camps while some remain behind to tend livestock. The fighting has intensified around key mountain positions just hundreds of meters from advancing Houthi units.\n\nThe Houthi takeover of Mokha and surrounding territory overlooking the Bab al-Mandab Strait — a critical shipping corridor between Europe and Asia — has already contributed to rising oil prices amid fears of further supply disruption. Taiz sits at a vital geographic intersection between Houthi-held northern Yemen and government-controlled southern areas, making its fall potentially decisive for the broader conflict's trajectory.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-09-28T11:08:24.641996-06:00",
+      "slot": 11
+    },
+    {
       "category": "science_health",
       "headline": "SpaceX Starship Reaches Earth Orbit for First Time in 14th Test Flight",
       "summary": "SpaceX's Starship rocket successfully achieved Earth orbit for the first time Monday morning, launching from its South Texas facility just before 9 a.m. ET. The uncrewed 14th test flight of the world's largest and most powerful rocket is planned to complete six orbits at an altitude of approximately 170 miles before splashing down in the Pacific Ocean after roughly 10 hours.\n\nThe milestone is significant for both SpaceX's commercial ambitions and NASA's Artemis lunar program, which is counting on a modified version of Starship to serve as a crewed lunar lander. The flight nearly fell short when one engine shut down prematurely, but the vehicle still managed to reach its target orbit.\n\nFounded by Elon Musk, SpaceX has been incrementally testing Starship through a series of flights, with earlier tests resulting in explosions or partial successes. Achieving orbit marks a decisive step toward full reusability and eventual crewed missions to the Moon and, ultimately, Mars.\n\nThe achievement drew widespread coverage across seven major outlets and represents one of the most consequential milestones in commercial spaceflight in years, with implications for the U.S.-China competition in space and the future of NASA's human exploration program.",
