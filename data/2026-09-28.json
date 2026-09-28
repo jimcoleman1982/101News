@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, September 28, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: Russian Drones Kill 7, Wound 80+ Across Ukraine in Intensified Bombardment",
+      "summary": "Russia launched a sweeping drone campaign across Ukraine on Monday, killing at least seven people and wounding more than 80 others in strikes on Kyiv, Dnipro, Kharkiv, Zaporizhzhia, and Odesa. Targets included residential apartment buildings, offices, gas stations, data centers, and the National Academy of Sciences of Ukraine in downtown Kyiv, where staff escaped a burning building by climbing down firefighters' ladders.\n\nIn Kyiv alone, four people were killed and eight wounded in the regional strikes, including a woman killed in an afternoon strike on the Shevchenkivskyi district. Three more people died and at least 18 were wounded when a drone hit an office building in Dnipro during working hours. In Kharkiv, 43 people were injured — including 11 children — when Russian forces struck a nine-story apartment building.\n\nKremlin spokesman Dmitry Peskov signaled Monday that peace prospects remained dim, warning that 'Ukraine will have to pay a price for the actions that have taken place in recent months.' The attacks followed a week of diplomatic efforts at the United Nations aimed at reviving negotiations, underscoring the gap between diplomatic activity and conditions on the ground.\n\nKyiv Mayor Vitali Klitschko condemned the strikes as 'pure terror' on the civilian population, noting that Russia had attacked the capital repeatedly for more than a week. The strikes on cultural and scientific institutions mark an escalation in Moscow's stated aim of degrading Ukrainian infrastructure and civilian morale.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/russian-drones-hammer-apartments-and-cultural-landmark-in-ukraine-killing-7",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:38 PM MT",
+      "addedAtISO": "2026-09-28T13:38:38.194486-06:00",
+      "slot": 14
+    },
+    {
+      "category": "technology",
+      "headline": "Florida Seeks Emergency Injunction to Halt ChatGPT Development Over Safety Concerns",
+      "summary": "Florida Attorney General James Uthmeier filed for an emergency injunction Monday against OpenAI and its ChatGPT product, arguing the company lacks adequate capacity to regulate its own technology and poses an unacceptable public risk. The filing calls for a halt to further ChatGPT development until sufficient safeguards are in place, citing a recent report that OpenAI and Anthropic have faced tens of thousands of security incidents involving their AI systems.\n\nThe legal action represents one of the most aggressive state-level challenges to an AI company to date, and arrives as the federal government has largely declined to impose binding regulatory guardrails on artificial intelligence development. The case could set a significant precedent for how far individual states can go in restricting technology companies operating under federal jurisdiction.\n\nSupporters of the action argue that AI companies have grown too large and fast-moving for voluntary self-governance to be credible, and that documented security failures justify emergency intervention. Critics of such state-level restrictions contend they fragment the regulatory landscape, risk stifling innovation, and may overstep state authority in areas governed by federal commerce law.\n\nThe filing puts Florida, led by a Republican attorney general, in an unusual posture — using aggressive state regulatory action against a major technology company at a moment when the Trump administration has signaled a preference for a lighter federal touch on AI. The outcome could influence similar efforts in other states and shape the broader debate over AI governance.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:38 PM MT",
+      "addedAtISO": "2026-09-28T13:38:38.194486-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "South Korea Summons Ukraine's Envoy Over Disclosure of Secret North Korean POW Transfer",
+      "summary": "South Korea formally summoned Ukraine's acting ambassador Monday, lodging a diplomatic protest after President Volodymyr Zelensky publicly announced last week at the UN General Assembly that two captured North Korean soldiers had been transferred to Seoul. Vice Foreign Minister Park Yoon-joo expressed 'strong regret' to the Ukrainian envoy, while South Korean President Lee Jae Myung called the disclosure 'greatly disappointing' and a breach of what Seoul says was an agreed confidentiality arrangement.\n\nThe two North Korean soldiers were captured by Ukrainian forces in Russia's Kursk Oblast in early 2025 — among thousands of North Korean troops deployed to support Russia — and spent more than a year in negotiations between Seoul and Kyiv before being transferred. Seoul said the secrecy was intended in part to protect the soldiers' families in North Korea and to shield Ukraine from criticism that it had forgone a prisoner exchange opportunity.\n\nThe dispute escalated when Zelensky's office denied any non-disclosure agreement existed, prompting Seoul to demand an apology and to accuse Ukraine of 'announcing a falsehood' that had 'seriously damaged trust' between the two nations. South Korean opposition parties compounded pressure on President Lee — whose party takes a conciliatory line toward Pyongyang — accusing him of concealing the transfer to avoid antagonizing North Korea.\n\nThe episode highlights growing tensions in the South Korea-Ukraine relationship, with Kyiv pressing Seoul to supply advanced anti-air missiles while Seoul has maintained its longstanding policy of not providing lethal weapons to countries in active conflict. The row also draws attention to the broader strategic question of North Korea's direct military participation in the Ukraine war and the geopolitical complications that follow.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:38 PM MT",
+      "addedAtISO": "2026-09-28T13:38:38.194486-06:00",
+      "slot": 14
+    },
+    {
       "category": "politics",
       "headline": "FBI Deputy Director Andrew Bailey Resigns After Roughly One Year",
       "summary": "FBI Deputy Director Andrew Bailey announced Monday he is stepping down from his post, citing a desire to return to his family in Missouri. Bailey, part of a three-person leadership team at the bureau under Director Kash Patel, had served for just over a year and was originally brought in partly to ease tensions between former Attorney General Pam Bondi and former deputy director Dan Bongino.\n\nBailey's departure adds to a pattern of significant turnover at the FBI since Patel took the helm. Multiple senior officials and experienced career agents have left the agency over the past year, a trend critics say is hollowing out institutional expertise at a critical law enforcement and national security body. Supporters of Patel's leadership have argued the departures reflect a necessary reshaping of an agency they say had become politicized.\n\nIn his statement posted to X, Bailey thanked President Trump, Attorney General Todd Blanche, and Director Patel \"for the opportunity to serve.\" The White House and FBI have not yet announced a replacement or indicated a timeline for filling the role.",
