@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Drone Strikes Hit Ethiopian Capital as Civil War Escalates",
+      "summary": "Explosions were heard overnight in Addis Ababa, Ethiopia's capital, with residents and diplomatic sources reporting blasts near the military headquarters in the west and near a secret service base in the south. The blasts came hours after the government banned drone flights over the city, and a source linked to opposition fighters told Reuters that rebel forces were responsible for what they described as drone strikes.\n\nThe attacks follow a week of escalating fighting between the Ethiopian army and a newly formed alliance of armed groups, including forces from the Tigray region and the Amhara militia known as Fano. The alliance, formed last month, has stated its goal is the removal of Prime Minister Abiy Ahmed's government. The national army and a pro-government militia are reported to be advancing toward Mekelle, Tigray's main city, while the TPLF is also fighting in the strategic Afar region.\n\nEritrea has denied allegations from Addis Ababa that it is backing the rebel alliance. Internet and telecoms access in Tigray have been cut, making independent verification of ground conditions difficult. A medic in the southern Tigrayan town of Alamata reported 52 civilian deaths in three days of fighting earlier this week. The renewed conflict risks reigniting a civil war that, by one African Union estimate, cost 600,000 lives between 2020 and 2022.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-10-01T08:08:20.179986-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Pakistani Airstrikes Kill 10 Civilians, Mostly Children, in Afghanistan, UN Says",
+      "summary": "Pakistan launched airstrikes overnight in Afghanistan's Kunar and Helmand provinces, killing at least 10 civilians — most of them children — and wounding nine others, according to the United Nations Mission in Afghanistan (UNAMA). Afghanistan's Taliban government condemned the strikes as an act of aggression, saying three civilian homes were destroyed and that women and children were among the dead.\n\nPakistan's Ministry of Information offered a sharply different account, stating the strikes were \"intelligence-driven, well planned and calibrated\" operations targeting militant hideouts linked to Pakistani insurgent groups responsible for cross-border attacks. The ministry claimed 22 \"terrorists\" were killed and large quantities of weapons destroyed, and vowed that operations would \"continue at full pace.\"\n\nOne resident in Kunar province told CBS News that a strike hit a home belonging to a family that had moved in only one day earlier, killing all six members including children. Cross-border clashes between Pakistan and Afghanistan have escalated significantly in 2026, with UNAMA reporting more than 1,100 civilian deaths and injuries in Afghanistan from such incidents this year alone. The strikes add pressure to an already volatile relationship between Islamabad and the Taliban government in Kabul.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/afghanistan-pakistan-airstrikes-civilians-children-killed-unama/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-10-01T08:08:20.179986-06:00",
+      "slot": 8
+    },
+    {
+      "category": "politics",
+      "headline": "Musk Named Co-Lead of Pentagon's Project Meridian on Future Warfare",
+      "summary": "Defense Secretary Pete Hegseth announced Wednesday that Elon Musk will co-lead Project Meridian, a new Pentagon initiative tasked with mapping emerging domains of warfare and identifying weapons and technology the U.S. military will need to dominate them in the coming decades. Musk will work alongside defense tech billionaire Palmer Luckey, founder of Anduril Industries, and former House Speaker Newt Gingrich, under the direction of Pentagon Chief Technology Officer Emil Michael.\n\nHegseth framed the initiative as a recognition that the \"best forecasters of future conflict do not solely reside inside the Pentagon,\" arguing that outside expertise is needed to avoid institutional bias. Project Meridian has a 120-day mandate to produce a public report and a classified annex on future warfare domains, spanning what Hegseth described as a scope \"from under the Earth to beyond the moon.\"\n\nThe appointment raises potential conflict-of-interest questions: Musk's SpaceX is a major Pentagon contractor, and Luckey's Anduril specializes in autonomous weapons systems that compete for the same defense contracts the project may ultimately shape. Critics are likely to scrutinize whether executives whose companies stand to benefit financially should be directing the military's long-range technology planning. Supporters argue their hands-on experience with cutting-edge defense technology makes them uniquely qualified for the task.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/elon-musk-lands-new-trump-admin-role-shaping-future-american-warfare",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:08 AM MT",
+      "addedAtISO": "2026-10-01T08:08:20.179986-06:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
       "headline": "Update: Rubio Expels Iranian Delegation from U.S. as Nuclear Talks Collapse",
       "summary": "Secretary of State Marco Rubio ordered the Iranian delegation attending the United Nations General Assembly to immediately leave the United States after peace negotiations between Washington and Tehran broke down, according to a U.S. official and a second source with knowledge of the matter. Rubio determined the Iranians had \"overstayed their welcome\" following the failure of Qatari-mediated talks aimed at ending the nearly nine-month U.S.-Iran conflict.\n\nThe move is described as a highly unusual diplomatic rebuke, even accounting for the fact that the Iranian delegation was likely to depart the country soon regardless. The expulsion lays bare the deep distrust between the two governments and signals a significant hardening of the U.S. posture following the collapse of ceasefire negotiations. Iranian state media separately reported that Tehran had received a formal U.S. counterproposal to its seven-day ceasefire plan, which the White House had previously rejected.\n\nThe diplomatic rupture comes as Iranian President Masoud Pezeshkian accused the United States and Israel of trying to foment internal divisions in Iran, and as the Iranian rial hit record lows amid ongoing conflict pressure. The situation marks a concrete deterioration from earlier mediation efforts and raises fresh concern among officials who have warned that military conflict is growing more likely.",
       "source": "Axios",
