@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-01",
+  "dateFormatted": "Thursday, October 1, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Rubio Expels Iranian Delegation from U.S. as Nuclear Talks Collapse",
+      "summary": "Secretary of State Marco Rubio ordered the Iranian delegation attending the United Nations General Assembly to immediately leave the United States after peace negotiations between Washington and Tehran broke down, according to a U.S. official and a second source with knowledge of the matter. Rubio determined the Iranians had \"overstayed their welcome\" following the failure of Qatari-mediated talks aimed at ending the nearly nine-month U.S.-Iran conflict.\n\nThe move is described as a highly unusual diplomatic rebuke, even accounting for the fact that the Iranian delegation was likely to depart the country soon regardless. The expulsion lays bare the deep distrust between the two governments and signals a significant hardening of the U.S. posture following the collapse of ceasefire negotiations. Iranian state media separately reported that Tehran had received a formal U.S. counterproposal to its seven-day ceasefire plan, which the White House had previously rejected.\n\nThe diplomatic rupture comes as Iranian President Masoud Pezeshkian accused the United States and Israel of trying to foment internal divisions in Iran, and as the Iranian rial hit record lows amid ongoing conflict pressure. The situation marks a concrete deterioration from earlier mediation efforts and raises fresh concern among officials who have warned that military conflict is growing more likely.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/01/rubio-iran-unga-delegation-kicked-out",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:01 AM MT",
+      "addedAtISO": "2026-10-01T04:01:48.868181-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Senate Confirms Keith Sonderling as Labor Secretary; Democrats Block Data Center Bill",
+      "summary": "The Senate voted 47-41 along party lines Wednesday to confirm Keith Sonderling as Secretary of Labor, filling a cabinet seat that had been officially vacant since April when Lori Chavez-DeRemer departed. Sonderling had been serving in an acting capacity and his confirmation required only a simple majority under current Senate rules. All Republicans present voted for confirmation; all Democrats voted against.\n\nSeparately, Senate Democrats blocked the Ratepayer Protection Act, a bill aimed at preventing data centers from driving up local electricity costs for consumers. The legislation had passed the House 417-3 with overwhelming bipartisan support. Republicans accused Democrats of playing election-year politics, while Democrats argued the bill was \"toothless\" and lacked meaningful limits on AI use or deployment.\n\nThe twin votes illustrate the sharply partisan dynamics in the Senate five weeks before midterm elections. Democrats also blocked a Republican measure that would have restricted congressional stock trading, objecting to an attached voter ID provision that Minority Leader Chuck Schumer called \"trickery.\" Republicans countered that Democrats were denying voters progress on issues — stock trading and energy costs — that have broad public support.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/6122151-senate-confirms-keith-sonderling-labor-secretary/",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:01 AM MT",
+      "addedAtISO": "2026-10-01T04:01:48.868181-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Newsom Signs AI Worker Protection Laws, Criticizes Trump's Self-Regulation Approach",
+      "summary": "California Gov. Gavin Newsom signed a package of laws Wednesday aimed at protecting workers from artificial intelligence risks, including bans on employers using AI to predict workers' emotional states via biometric data, requirements that employers notify workers in writing if AI triggers mass layoffs, and prohibitions on using AI as the sole basis for firing an employee. Newsom also signed an executive order directing state agencies to continue using the term \"artificial intelligence\" rather than \"super intelligence,\" the term President Trump recently ordered U.S. diplomats to adopt.\n\nThe signing came one day after Trump convened top technology executives at the White House to sign a voluntary self-regulation accord on AI safety, which Newsom sharply criticized. \"We have to do a lot more in the absence of federal leadership,\" Newsom said, leaving open the possibility of calling a special legislative session on AI oversight. Trump's White House characterized the voluntary accord as a \"morally binding\" compact that would allow industry innovation while companies police themselves.\n\nThe action is Newsom's last major policy push before he terms out of office in January, and it arrives weeks before midterm elections that will determine control of Congress. Newsom, who has been openly positioning for a possible 2028 presidential run, used the occasion to warn that \"there will not be a free and fair election in 2028\" unless Democrats retake the House in November.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/Technology/wireStory/california-gov-gavin-newsom-signs-laws-protect-workers-136904967",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:01 AM MT",
+      "addedAtISO": "2026-10-01T04:01:48.868181-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Prominent Zimbabwean Tycoon Wicknell Chivayo Killed in Helicopter Crash",
+      "summary": "Zimbabwean businessman Wicknell Chivayo, one of the country's most high-profile and controversial figures, was killed along with his wife Lucy Muteke and four others when their helicopter crashed in the Marondera rural area approximately 70 kilometers east of Harare on Wednesday evening. Police confirmed all six people aboard the aircraft died; two of the six were pilots. The helicopter went down roughly 40 minutes after takeoff from a rural property Chivayo was developing.\n\nChivayo, widely known as \"Sir Wicknell,\" built a public profile through government contracts, philanthropy, and conspicuous displays of wealth on social media, including gifting luxury cars and large sums of money to musicians and religious leaders. His business dealings repeatedly attracted scrutiny, most notably a $172 million solar power project in Gwanda awarded to his company Intratrek Zimbabwe, which became the subject of years of legal disputes. Zimbabwe's anti-corruption commission investigated him over election-related procurement contracts but closed the inquiry in 2025, saying it found no evidence of wrongdoing.\n\nThe cause of the crash was not immediately known, and police said investigations were under way. Kenya's President William Ruto, who had appeared publicly with Chivayo, paid tribute to him following news of his death. The crash removes one of the most politically connected and polarizing private figures in southern African business circles.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:01 AM MT",
+      "addedAtISO": "2026-10-01T04:01:48.868181-06:00",
+      "slot": 5
+    }
+  ]
+}
