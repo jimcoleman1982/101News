@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: South Korea Threatens 'Further Action' Against Ukraine Over North Korean POW Disclosure",
+      "summary": "South Korean President Lee Jae Myung escalated a diplomatic confrontation with Ukraine on Friday, threatening unspecified \"further action\" if Kyiv does not publicly apologize for revealing that two captured North Korean soldiers had been transferred to South Korea. The disclosure was made last week by Ukrainian President Volodymyr Zelensky at the UN General Assembly, angering Seoul, which said the move was meant to remain confidential to protect the soldiers' families in North Korea and to shield Ukraine from accusations it had passed up a prisoner exchange opportunity.\n\nUkraine's Foreign Minister Andrii Sybiha described the situation as a \"diplomatic misunderstanding\" and said Kyiv was working to resolve it, while Zelensky's office denied any agreement to keep the transfer secret had ever existed. Lee rejected Ukraine's framing, posting on X that the matter concerned \"the dignity of the Korean people and the nation\" and accusing Kyiv of attempting to \"bring war on the Korean Peninsula\" by suggesting an imminent military clash between North and South.\n\nThe row carries significant geopolitical weight. The two North Korean soldiers were among thousands Pyongyang deployed to support Russia's war effort in Ukraine, and their transfer to South Korea marked a rare and sensitive intelligence and diplomatic development. South Korea, which has supported Ukraine diplomatically but adhered to a longstanding policy of not supplying lethal weapons to countries in active conflict, now finds the relationship strained at a critical moment.\n\nLee himself faces domestic political pressure, with South Korean opposition figures accusing him of having concealed the transfer to avoid antagonizing Pyongyang. The dispute underscores the broader complexity of Seoul's position as it navigates relations with Ukraine, Russia, and North Korea simultaneously, with no clear resolution in sight.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 20,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:06 PM MT",
+      "addedAtISO": "2026-10-02T13:06:25.063014-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Expected to Name Intelligence Chief Jay Clayton as White House AI Czar",
+      "summary": "President Trump is expected to appoint Director of National Intelligence Jay Clayton to a dual role as the White House's artificial intelligence czar — a position Trump has publicly referred to as \"super intelligence\" czar — according to sources familiar with the matter cited by Axios, NBC News, and Bloomberg. Clayton, a former Securities and Exchange Commission chairman, would retain his DNI post while taking on oversight of the administration's AI agenda.\n\nThe appointment comes amid growing calls from both industry and policymakers for structured government engagement with rapidly advancing AI systems. Trump has consistently favored a light regulatory touch on AI, and Clayton's selection signals the administration intends to prioritize development and competitiveness over prescriptive safety regulation. The move follows Trump's earlier signing of a voluntary AI safety accord with top technology company leaders at the White House.\n\nCritics and analysts have raised questions about whether simultaneously leading the nation's intelligence apparatus and steering AI policy creates conflicts of interest or bandwidth constraints, particularly as AI tools are increasingly integrated into defense and intelligence operations. Clayton's background is in financial regulation rather than technology, which some observers say could limit his effectiveness in navigating the technical dimensions of the role.\n\nThe decision places the United States in contrast with the European Union, which has pursued binding AI regulation, and comes as global competition with China over AI dominance intensifies. The formal announcement has not yet been made, and details of Clayton's authorities and scope as AI czar remain unclear.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/02/trump-new-ai-czar-jay-clayton-dni",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:06 PM MT",
+      "addedAtISO": "2026-10-02T13:06:25.063014-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Supreme Court to Hear Major Climate Liability Case Monday as Billions in Oil Company Damages Hang in Balance",
+      "summary": "The U.S. Supreme Court will hear oral arguments Monday in a closely watched case that could determine whether dozens of state and local government lawsuits seeking climate-change damages from major oil companies can proceed in state courts, or whether federal law preempts those claims entirely. Governments across the country have filed suits arguing that oil giants bear direct responsibility for costs associated with rising seas, extreme heat, and other climate impacts linked to their products.\n\nThe central legal question is whether federal statutes — including the Clean Air Act — displace state-law tort claims for climate damages, a doctrine known as preemption. If the court rules broadly in favor of the oil industry, it could extinguish billions of dollars in potential liability and effectively foreclose state courts as a venue for climate litigation. A ruling favoring the governments would allow the cases to proceed, exposing the industry to massive financial exposure.\n\nProponents of the lawsuits argue that state courts represent a legitimate and necessary avenue for communities bearing the financial burden of climate change to seek accountability from corporations that profited while obscuring the risks. Industry defenders and some legal scholars contend that climate policy is a matter for Congress and the executive branch, not courts, and that allowing state-level litigation would create a patchwork of conflicting standards that undermines coherent national energy policy.\n\nThe case arrives as the court's conservative supermajority has shown skepticism toward expansive regulatory and litigation theories, though its ultimate ruling will turn on statutory interpretation. The outcome will have far-reaching implications for climate accountability law, the financial exposure of the fossil fuel industry, and the boundaries of federal preemption doctrine.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/02/supreme-court-state-climate-lawsuits-preemption",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:06 PM MT",
+      "addedAtISO": "2026-10-02T13:06:25.063014-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Update: G7 Nations to Release 100 Million Barrels of Fuel as Energy Prices Surge",
       "summary": "The Group of Seven nations announced Friday they will immediately begin releasing 100 million barrels of fuel — including diesel — from emergency stockpiles over the next four months, in a coordinated effort to ease soaring energy prices. French President Emmanuel Macron, the current G7 chair, said the release would be coordinated by the International Energy Agency, with diesel supplies to be front-loaded.\n\nPresident Trump announced the action on social media Friday, framing it as a win for American consumers ahead of the November midterm elections. Trump had been pressing European allies to tap their reserves and had separately threatened to ban U.S. diesel exports to pressure trading partners.\n\nThe move comes as high fuel prices have become a politically volatile issue in the United States and Europe, with the ongoing U.S.-Iran conflict widely cited as a driver of elevated energy costs. Republicans face significant headwinds in the midterms partly due to consumer frustration over gas and consumer prices.\n\nThe scale of the release — 100 million barrels — is comparable to coordinated strategic petroleum reserve actions taken during past supply crises. Analysts note the announcement is as much a political signal as a market intervention, coming five weeks before U.S. elections that will determine control of Congress.",
       "source": "The Hill",
