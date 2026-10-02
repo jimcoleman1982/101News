@@ -3,6 +3,48 @@
   "dateFormatted": "Thursday, October 1, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: Trump Says Iran Decision Coming 'Very Soon' as U.S. Weighs Military and Diplomatic Options",
+      "summary": "President Trump told reporters Thursday that a decision on Iran is coming \"very soon,\" as the administration continues to assess possible responses following the collapse of nuclear talks and the expulsion of the Iranian diplomatic delegation from the United States. The remarks come amid heightened U.S.-Iran tensions spanning multiple fronts, including the Fairford terror plot, ongoing proxy conflicts, and intensifying economic pressure campaigns.\n\nTreasury Secretary Scott Bessent this week warned that Iran could have \"nothing left to trade\" within two weeks under current sanctions pressure. Iranian Parliament Speaker Mohammad Bagher Ghalibaf pushed back sharply on Thursday, rejecting Bessent's collapse narrative and using social media memes to argue that the United States itself faces a debt crisis, citing rising Treasury yields and energy costs.\n\nThe standoff is being tracked across more than 20 news outlets, reflecting its broad significance. Supporters of the administration's approach argue maximum economic pressure is the surest path to a deal or regime capitulation; critics warn that the rhetoric raises the risk of military miscalculation with a nuclear-threshold state. The story is fast-moving, with Trump's promised decision potentially arriving within days.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/iran-war-news-trump-oil-september-30",
+      "sourceCount": 21,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-01T21:08:33.440998-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "FBI Arrests Energy Department Employee at Nuclear Site on Charges of Aiding Houthis",
+      "summary": "The FBI arrested a Department of Energy employee Thursday at the Hanford nuclear site in Washington state on charges of attempting to provide material support to the Houthis, the Iranian-backed militant group designated as a foreign terrorist organization. The suspect, Ashton Hamed Ellaboudy, 51, of Richland, Washington, is accused of acquiring materials for homemade explosives and drones with the intent of aiding the group.\n\nAccording to the Justice Department, Ellaboudy also allegedly contacted Katie Miller, wife of White House Deputy Chief of Staff Stephen Miller, more than 40 times over less than two months. The nature and content of those contacts were not immediately detailed in public charging documents.\n\nThe arrest is notable both for the suspect's position at a sensitive federal nuclear facility and for the alleged connection to the Houthis, who have been at the center of ongoing U.S. military operations in the Red Sea region. The case is being prosecuted federally under material support statutes that carry severe penalties. The DOE said it is cooperating fully with the Justice Department's investigation.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/6124659-doe-employee-arrested-alleged-houthi-support/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-01T21:08:33.440998-06:00",
+      "slot": 21
+    },
+    {
+      "category": "science_health",
+      "headline": "NASA Launches Crew-13 to International Space Station; Jessica Watkins Becomes First Black Woman to Lead Crew to Orbit",
+      "summary": "Four astronauts lifted off Thursday from Cape Canaveral Space Force Station aboard a SpaceX Dragon capsule, bound for the International Space Station on a mission scheduled to last until spring 2027. The crew is commanded by NASA astronaut Jessica Watkins, who became the first Black woman to lead a crew to orbit. The launch had been delayed three weeks to repair a fuel system leak in the Dragon capsule.\n\nThe crew includes NASA astronaut Luke Delaney, a retired Marine; Canadian Space Agency astronaut Joshua Kutryk, a Royal Canadian Air Force colonel whose wife is due to give birth in late November while he is aboard the station; and Russian cosmonaut Sergey Teteryatnikov, a former submariner. They will relieve four astronauts who have been living at the orbiting laboratory since February.\n\nThis marked SpaceX's 13th operational crew mission for NASA. The transit to the station was expected to take approximately eight hours, one of the fastest crew transits yet attempted. The mission comes as the International Space Station approaches a planned decommissioning in the late 2020s, making long-duration science and operations missions like Crew-13 increasingly important for research continuity.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/science/watch-nasa-launches-crew-13-to-international-space-station",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-01T21:08:33.440998-06:00",
+      "slot": 21
+    },
+    {
       "category": "science_health",
       "headline": "Update: Tennessee Execution Attempt Fails After Supreme Court Vacates Stay, Then Lethal Injection Is Halted",
       "summary": "Convicted killer Christa Pike, 50, was set to become the first woman executed in Tennessee since the early 1800s, but Wednesday's execution attempt failed after complications during the lethal injection process. The U.S. Supreme Court had vacated a stay issued by the Sixth Circuit Court of Appeals, clearing the way for the execution to proceed, but the procedure was ultimately halted before Pike was pronounced dead.\n\nPike was convicted of the 1995 murder of 19-year-old Colleen Slemmer in Knoxville, a killing prosecutors described as a brutal, prolonged attack carried out with a box cutter and meat cleaver. She was 18 at the time of the crime. The Supreme Court's decision to lift the Sixth Circuit stay was 6-3, with Justices Sotomayor, Kagan, and Brown Jackson dissenting, arguing the lower court should have been given time to weigh Pike's pending legal challenge before irreversible action was taken.\n\nThe failed execution raises immediate questions about Tennessee's lethal injection protocol and what comes next legally for Pike. Executions that are halted due to procedural failure have historically prompted legal challenges over whether a second attempt constitutes cruel and unusual punishment under the Eighth Amendment.\n\nThe case draws national attention as one of the rare instances of a woman facing execution in the modern era and as an example of the ongoing legal battles over capital punishment procedures. Supporters of the execution argued Pike's crime was premeditated and heinous; opponents, including the dissenting justices, contended the legal process was rushed.",
