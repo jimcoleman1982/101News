@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: France Student Protests Swell to 450,000 as Tear Gas Deployed in Paris and Marseille",
+      "summary": "Hundreds of thousands of demonstrators took to the streets across France on Tuesday in what protest organizers called 'Act Three' of a growing student-led movement demanding more resources for schools and an end to what they describe as police repression. Students' unions estimated 450,000 participants, with government figures citing more than 250,000; blockades affected roughly 1,800 high schools, nearly a quarter of all lycées in the country.\n\nPolice used tear gas in Paris and Marseille and water cannon in Rennes as some masked protesters attempted to erect barricades. Prime Minister Sébastien Lecornu condemned the violence and reported that since protests began, 215 students, 85 staff members and 715 police officers had been hurt. Lecornu accused the radical-left France Unbowed party of seeking to 'sow chaos' ahead of presidential elections in seven months.\n\nEducation Minister Édouard Geffray, who had called for dialogue rather than blockades, faces mounting pressure to meet student demands after earlier government offers — including a website for grievances and a school discussion session — were rejected as insufficient. France's largest union, the CGT, announced further protests involving students and university workers planned for Thursday. President Macron convened a ministerial meeting Tuesday evening to assess the situation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 6,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:36 PM MT",
+      "addedAtISO": "2026-10-06T16:36:37.530284-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Former Senior CIA Officer Pleads Guilty to $145 Million Fraud Scheme Involving Fake Classified Programs",
+      "summary": "David J. Rush, a former senior CIA official, pleaded guilty Tuesday in Virginia to wire fraud, admitting he fabricated a highly classified government program to divert nearly $200 million in federal funds to personal use. Prosecutors said Rush used his position at the spy agency to acquire luxury real estate in Florida and more than 600 pounds of gold bars worth tens of millions of dollars.\n\nThe plea agreement revealed the fraud was substantially larger than previously disclosed when Rush was arrested after agents discovered the gold stockpile at his home. Court records indicate the scheme involved inventing fictitious covert programs to justify the expenditures, exploiting the secrecy protocols of the intelligence community to conceal the wrongdoing over an extended period.\n\nThe case highlights significant vulnerabilities in oversight of classified government spending, where secrecy requirements can limit the ability of auditors and inspectors general to scrutinize expenditures. Some details of the scheme remain sealed to protect intelligence equities. The guilty plea represents one of the largest known instances of internal fraud at a U.S. intelligence agency.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/10/06/us/politics/cia-officer-gold-bars-guilty-plea.html",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:36 PM MT",
+      "addedAtISO": "2026-10-06T16:36:37.530284-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
       "headline": "Update: Iran Nuclear Talks Remain Deadlocked as Tehran Disputes Diplomat Expulsion",
       "summary": "Iranian Foreign Minister Abbas Araghchi pushed back Sunday against U.S. accounts of his delegation's departure from the United States, insisting all diplomats left \"as scheduled\" following the U.N. General Assembly rather than being forced out. Araghchi said on X that Secretary of State Marco Rubio's claim of expulsion \"oozes of desperation and defeat\" and is inconsistent with U.S. obligations as a U.N. host nation. The remarks came after reports that Rubio had demanded the Iranian delegation leave immediately at the end of the Sept. 28 summit as sideline nuclear talks stalled.\n\nThe dispute over the diplomats' departure underscores the widening gap between Washington and Tehran in ongoing negotiations over Iran's nuclear program. The U.S. has insisted Iran halt uranium enrichment as a precondition for any deal, a demand Tehran has consistently rejected as non-negotiable. Both sides accuse the other of bad faith, with no new round of talks currently scheduled.\n\nThe standoff carries significant stakes, with the U.S.-Iran conflict continuing to reverberate across the Middle East and affecting global energy markets. Republicans broadly back the administration's hard-line posture, arguing that diplomatic concessions would only embolden Iran, while Democrats and some foreign policy analysts warn that the collapse of talks increases the risk of further military escalation.\n\nThe story is covered by 20 outlets across the political spectrum, making it among the most widely reported international stories of the day. No breakthrough or new offer has emerged from either side, leaving the diplomatic impasse intact as of Tuesday.",
       "source": "Fox News",
