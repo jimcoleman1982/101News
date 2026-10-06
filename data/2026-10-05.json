@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Trump Approves Death by Firing Squad for Fort Hood Shooter Nidal Hasan",
+      "summary": "President Trump on Monday approved the execution of Nidal Malik Hasan, the Army psychiatrist convicted of killing 13 soldiers and wounding dozens more in the 2009 Fort Hood massacre, by U.S. Army firing squad. Pentagon spokesman Sean Parnell announced the decision on social media, stating that Defense Secretary Pete Hegseth had recommended the method and Trump had approved it. If carried out, Hasan would be the first U.S. soldier executed by the military in more than 60 years.\n\nHasan was sentenced to death by a military jury in 2013 following a trial in which he represented himself and declared his act an act of 'jihad.' He has been on military death row since. The approval of the firing squad as the execution method follows a broader Trump administration posture of seeking more assertive application of the death penalty, including in military and federal cases.\n\nThe decision drew attention to longstanding legal complexities surrounding military executions, including questions of appellate review and the role of the President as commander-in-chief in approving military death sentences. No execution date has been publicly announced. Supporters of the decision argue Hasan's crime was an act of terrorism against unarmed service members on U.S. soil and that justice has been delayed for over 15 years. Critics of expanded executive authority over executions have raised concerns about due process and the precedent set by a presidential directive specifying the method of execution.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6130802-nidal-hasan-death-firing-squad/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-05T21:08:42.858872-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Sen. Tillis Calls Hegseth Confirmation 'Biggest Regret,' Says Trump Impeachment Trial Was 'Vote of No Confidence'",
+      "summary": "Republican Sen. Thom Tillis of North Carolina revealed in a forthcoming memoir that his vote to confirm Defense Secretary Pete Hegseth was 'the biggest regret of my career,' and that he also believes he 'should've stopped' Robert F. Kennedy Jr. from becoming Health and Human Services secretary. The book, titled 'How to Lose Friends and Antagonize Presidents,' is set to be released Tuesday. In a Monday interview, Tillis also described Trump's second impeachment trial — related to January 6, 2021 — as 'weighty' and a 'vote of no confidence.'\n\nTillis, who has been one of the more openly critical Republican senators of certain Trump administration decisions, described some figures in Trump's inner circle as 'sycophants' and weighed in on the war in Iran and the Republican Party's midterm prospects. His remarks come less than a month before the November midterms and represent an unusually candid public break from party leadership by a sitting Republican senator.\n\nThe disclosures are likely to draw fresh scrutiny to Hegseth, who faced a contentious confirmation process amid allegations of personal misconduct and management concerns. Tillis's comments also revisit the politically charged January 6 proceedings at a moment when the midterm environment is already under stress for Republicans. Democrats are expected to amplify Tillis's words as evidence of intraparty dissatisfaction; Republicans have largely dismissed such criticism as the views of a retiring outlier.\n\nTillis is not seeking re-election, which has granted him unusual latitude to speak publicly about his disagreements with the administration. The memoir's release on the eve of a competitive midterm election cycle gives his assessments heightened political salience.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/senate/6130895-tillis-trump-impeachment-snap-trial/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-05T21:08:42.858872-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
       "headline": "Midterm Election Landscape: Trump Approval Hits Record Low as Both Parties Intensify Campaign Push",
       "summary": "With the November midterm elections less than a month away, a new Reuters/Ipsos poll shows President Trump's approval rating at a record low of 32%, including declining support among independent voters and Latino voters who backed him in 2024. Democrats need a net gain of four Senate seats to take control of that chamber, while Republicans are working to defend their House majority. Former President Barack Obama is cutting campaign ads for dozens of Democratic candidates and plans a rally in Detroit with Michigan Senate candidate Abdul El-Sayed, while Trump is conducting a multistate campaign tour on behalf of Republican incumbents.\n\nThe midterm environment is producing competitive races in traditionally safe states. In Texas, a new poll shows Democratic gubernatorial candidate Gina Hinojosa narrowly leading incumbent Gov. Greg Abbott, while Republican Senate candidate Ken Paxton — whom former Trump chief of staff Mick Mulvaney called the 'weakest candidate' in the cycle — is in a competitive race with Democrat James Talarico. Meanwhile, Senate Republicans have reportedly shifted funds away from North Carolina and toward Kansas as the electoral map widens.\n\nDemocrats are grappling with internal divisions over how to respond to Republican attacks on transgender issues, with party strategists publicly feuding over messaging just weeks before election day. A separate intra-Republican drama has emerged as Vice President Vance and Sen. Ted Cruz traded sharp personal barbs, with Vance suggesting Cruz is running for president in 2028 and Cruz firing back that Vance is 'insecure.' NBC News polling shows Democrats hold a 24-point advantage among Latino voters, a demographic both parties are aggressively courting.\n\nThe Supreme Court's new term, which opened Monday with oral arguments in a major climate liability case — Suncor v. Boulder — adds another dimension to the pre-election environment. Democrats, noting that Senate control could determine the fate of any future Supreme Court vacancy, are pointing to Justice Samuel Alito's public acknowledgment that he has considered retirement. Republicans argue that strong economic data, including 27% expected S&P 500 earnings growth, should be a tailwind — though the administration itself has acknowledged that economic figures are failing to resonate with voters still feeling the effects of elevated prices.",
       "source": "New York Times",
