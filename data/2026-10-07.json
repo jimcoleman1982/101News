@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, October 7, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "DNC Sues Trump Administration Over Taxpayer-Funded Campaign Ads as White House Refuses to Reimburse",
+      "summary": "The Democratic National Committee filed a federal lawsuit Wednesday against the Trump administration, alleging it violated a congressional ban on using appropriated funds for \"publicity or propaganda purposes\" by airing millions of dollars in television advertisements featuring President Trump ahead of the November midterm elections. Trump announced this week that his super PAC, MAGA Inc., would cover the cost of future ads following bipartisan criticism, but the White House confirmed taxpayers will not be reimbursed for past expenditures. A Reuters/Ipsos poll found that nearly nine in ten voters, including 80 percent of Republicans, consider using taxpayer money for election-related ads featuring the president inappropriate.\n\nThe controversy has intensified the already heated midterm landscape, with Democrats arguing the ad campaign constitutes illegal government propaganda and Republicans insisting the spots promoted legitimate administration accomplishments. Representative Jamie Raskin introduced legislation directing the Smithsonian to preserve artifacts he said reflect a rise in \"governmental propaganda\" under Trump, though the bill is widely expected to fail in the Republican-controlled Congress.\n\nThe lawsuit is one of several legal and political skirmishes unfolding in the final month before the November 3 elections. Trump traveled to San Antonio, Texas, on Wednesday for his third campaign visit to the state in a month, rallying alongside Senate candidate Ken Paxton, whose race against Democrat James Talarico has tightened significantly. Senate Republican candidates in multiple states are simultaneously walking a difficult line between loyalty to Trump and distancing themselves from his unpopular positions on tariffs, the Iran war, and inflation, which polls show is the top voter concern.\n\nPolling released Wednesday shows Democrats have narrowed the gap in key congressional races, with half of Democratic voters expecting their party to retake the House and Senate. Republicans continue to hold a significant fundraising advantage, though party strategists from both sides acknowledged in interviews that cost-of-living concerns — not the administration's preferred economic messaging — are dominating voter decision-making in competitive districts.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/live/trump-midterm-elections-news-updates-10-7-2026",
+      "sourceCount": 21,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:01 PM MT",
+      "addedAtISO": "2026-10-07T17:01:11.253794-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Hegseth Awards Presidential Unit Citation to USS Abraham Lincoln Crew After Record 300-Day Iran War Deployment",
+      "summary": "Defense Secretary Pete Hegseth flew aboard the USS Abraham Lincoln on Wednesday to present the carrier strike group's crew with the Presidential Unit Citation, the military's highest unit award, ahead of the ship's return to San Diego on Thursday. The Abraham Lincoln spent more than 300 consecutive days at sea without a port call — setting a Navy record — during operations supporting the U.S. war against Iran in the Middle East. Hegseth acknowledged to the crew that he personally approved extending the deployment.\n\nThe ship's prolonged absence from port had generated significant concern, with reports of supply shortages and deteriorating conditions aboard. The carrier's return marks the end of one of the longest continuous deployments in modern U.S. naval history and is expected to draw scrutiny of the decision-making that kept the vessel at sea for such an extended period during an active combat theater.\n\nThe ceremony underscores the human and operational costs of the ongoing U.S.-Iran conflict, which has also been cited by voters and Republican candidates as a major factor driving fuel prices and economic discontent ahead of the midterms. At least 81 U.S. military aircraft have been lost or damaged in the conflict, according to separate reporting.\n\nThe Presidential Unit Citation is awarded to units that have distinguished themselves through extraordinary heroism or exceptionally meritorious service in action against an armed enemy. The award will now become a permanent part of the Lincoln's battle honors.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/6134620-hegseth-awards-uss-lincoln-iran-deployment/",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:01 PM MT",
+      "addedAtISO": "2026-10-07T17:01:11.253794-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Spain's Housing Crisis Symbol Dies: 87-Year-Old Evicted After 70 Years in Her Home",
+      "summary": "Maricarmen Abascal, the 87-year-old Spanish woman whose forced eviction after more than 70 years in her Madrid apartment became the catalyst for nationwide housing protests and a snap election call, died Wednesday, the Madrid Tenants' Union announced. Abascal was removed from her home on a stretcher on September 23 after being unable to afford a rent increase from €500 to €2,650 per month — well above her monthly pension. Her landlord subsequently offered a reduced rate of €1,650, but she had already been hospitalized and was unable to sign any agreement.\n\nHer eviction galvanized a mass protest movement across Spain, with tens of thousands taking to the streets in cities nationwide over the weekend. The pressure led to emergency housing legislation being advanced in the Spanish parliament, but the bill was rejected by Congress last week. Prime Minister Pedro Sánchez called the snap election following the legislative defeat.\n\nThe Madrid Tenants' Union declared that \"speculation costs lives\" and said Abascal's case \"marked a turning point in the history of this country.\" Both Sánchez and opposition People's Party leader Alberto Núñez Feijóo offered condolences, with Feijóo urging restraint from political exploitation of her death. Protesters gathered in Madrid's main squares following the announcement.\n\nAbascal's father first rented the apartment in 1956; she continued as tenant after his death under rent controls that expired when the property changed hands in 2018. Three previous eviction attempts had been blocked by courts. Her case has become emblematic of broader European housing affordability debates, and her death is expected to further intensify pressure on Spain's government ahead of the November 29 snap election.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:01 PM MT",
+      "addedAtISO": "2026-10-07T17:01:11.253794-06:00",
+      "slot": 18
+    },
+    {
       "category": "science_health",
       "headline": "Fed Minutes Reveal Unanimous Support for September Rate Hike; More Increases Likely Ahead",
       "summary": "Minutes released Wednesday from the Federal Reserve's most recent policy meeting show that all 19 officials backed the decision to raise interest rates in September, with many supporting the move to guard against the risk of intensifying inflation. The unanimous vote reflects a degree of internal unity at the central bank that is notable given ongoing political and economic pressures.\n\nMost Fed officials signaled that at least one additional rate increase will likely be necessary before the end of the year to bring inflation back toward the central bank's 2% target. Inflation currently runs at 3.4%, outpacing wage growth, while average gasoline prices have risen to $4.37 per gallon and the cost of basic goods including beef remains at record highs.\n\nThe Fed's tightening cycle has wide economic implications, affecting mortgage rates, consumer credit, business borrowing costs, and the broader investment climate. Rising borrowing costs have already pushed mortgage applications to their lowest level since February 2025, adding strain to the housing market. The minutes provide the clearest signal yet that the central bank does not view its work as finished despite previous rate increases.",
