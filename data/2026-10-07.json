@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, October 7, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "Fed Minutes Reveal Unanimous Support for September Rate Hike; More Increases Likely Ahead",
+      "summary": "Minutes released Wednesday from the Federal Reserve's most recent policy meeting show that all 19 officials backed the decision to raise interest rates in September, with many supporting the move to guard against the risk of intensifying inflation. The unanimous vote reflects a degree of internal unity at the central bank that is notable given ongoing political and economic pressures.\n\nMost Fed officials signaled that at least one additional rate increase will likely be necessary before the end of the year to bring inflation back toward the central bank's 2% target. Inflation currently runs at 3.4%, outpacing wage growth, while average gasoline prices have risen to $4.37 per gallon and the cost of basic goods including beef remains at record highs.\n\nThe Fed's tightening cycle has wide economic implications, affecting mortgage rates, consumer credit, business borrowing costs, and the broader investment climate. Rising borrowing costs have already pushed mortgage applications to their lowest level since February 2025, adding strain to the housing market. The minutes provide the clearest signal yet that the central bank does not view its work as finished despite previous rate increases.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-07/fed-minutes-show-unity-behind-september-rate-hike-video",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:50 PM MT",
+      "addedAtISO": "2026-10-07T13:50:34.276990-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "FBI Arrests 18-Year-Old Alleged ISIS Sympathizer in Mall of America Terror Plot",
+      "summary": "The FBI on Wednesday announced the arrest of Sheikhdoon Abdullahi Mohamud, 18, of Minnesota, who investigators say pledged allegiance to ISIS and spent months discussing plans to carry out a mass shooting at the Mall of America in Bloomington. According to federal court documents, Mohamud purchased an AK-47-style rifle, four magazines, and approximately 200 rounds of ammunition from an undercover FBI employee on Tuesday; the rifle had been rendered inoperable by agents, though the ammunition was live.\n\nFBI Director Kash Patel said Mohamud \"allegedly obtained a weapon he hoped to use in a mass casualty attack in support of ISIS,\" and President Trump praised the bureau's handling of the case. Mohamud is charged with knowingly receiving a firearm and ammunition while having reasonable cause to believe they would be used to commit a felony and a federal crime of terrorism.\n\nThe arrest drew immediate political reaction. Democratic Senate incumbent and Minnesota gubernatorial candidate Amy Klobuchar praised law enforcement and called for \"major coordinated investments in anti-terrorism and local law enforcement.\" Her Republican opponent, Minnesota House Speaker Lisa Demuth, has not yet issued a public statement. The case is being closely watched as a test of domestic counterterrorism procedures and is likely to feature in the upcoming Minnesota gubernatorial campaign.",
+      "source": "Fox News Politics",
+      "url": "https://www.foxnews.com/politics/amy-klobuchar-calls-major-anti-terrorism-investments-alleged-mall-america-plot",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:50 PM MT",
+      "addedAtISO": "2026-10-07T13:50:34.276990-06:00",
+      "slot": 14
+    },
+    {
+      "category": "other",
+      "headline": "California Couple Charged With Abusing at Least 14 Surrogate-Born Children",
+      "summary": "Los Angeles County prosecutors on Wednesday charged Guojun Xuan, 66, and Silvia Zhang, 39, with multiple counts of child abuse involving at least 14 surrogate-born children, some as young as two months old, as well as dissuading a witness. The pair, who ran their own surrogacy company, were arrested at their Arcadia mansion and pleaded not guilty at a Pasadena courthouse.\n\nAccording to investigators, the couple maintained a home with 21 children — many born through surrogates misled about Zhang's ability to conceive — under the supervision of hired nannies in rooms called \"learning centres.\" Thirty-two motion-activated cameras were allegedly used by the couple to monitor discipline administered by the nannies; footage reportedly shows children being spanked, slapped, and struck. One nanny, Chunmei Li, 58, is accused of striking the two-month-old infant who suffered a head injury days before he was brought to a hospital in May 2025, which triggered the investigation. Li remains at large on a $105,000 warrant.\n\nLA District Attorney Nathan Hochman described the home as a \"house of horrors\" and said the scale of the alleged abuse was \"unprecedented.\" Twenty-one children were removed from the couple's custody in a July 2025 raid. The couple's attorney maintained that Xuan is innocent and is \"being targeted for exercising his constitutional right to have a large family.\" The case has renewed scrutiny of the legal and regulatory framework governing private surrogacy arrangements in the United States.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo",
+      "sourceCount": 11,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:50 PM MT",
+      "addedAtISO": "2026-10-07T13:50:34.276990-06:00",
+      "slot": 14
+    },
+    {
       "category": "world",
       "headline": "Update: Russia Launches Massive Missile Barrage on Ukraine, Killing at Least 24 on Putin's Birthday",
       "summary": "Russia launched one of its largest missile attacks of the year against Ukraine overnight, killing at least 24 people and injuring dozens more across multiple cities including Kyiv, Dnipro, Kremenchuk, Zaporizhzhia, and Pryluky in the Chernihiv region. Zelensky said 70 missiles were fired in total, describing the assault as one of Russia's \"most vile\" attacks and noting that a residential apartment building in Pryluky was destroyed as a birthday \"gift\" to Vladimir Putin, who turns 74 on Wednesday. Eighteen people, including four children, were killed in that single strike on the five-story building.\n\nZelensky said Ukraine's air defenses only managed to shoot down \"some\" of the incoming missiles and renewed appeals to Western allies for additional air defense support packages. Ukrainian forces conducted retaliatory strikes on Russian territory, hitting targets in the Perm, Samara, and Astrakhan regions, including two oil facilities and a military training ground. Zelensky also referenced unspecified activity in the Black Sea, a day after footage showed a large fire engulfing an oil tanker off Sochi.\n\nThe attack targeted Ukraine's energy infrastructure, part of an intensified Russian campaign Moscow had signaled in response to Ukrainian strikes on Russian energy facilities. The scale and timing of the strike — on Putin's birthday — drew sharp condemnation from Kyiv and underscored the continued high tempo of the conflict despite earlier diplomatic signals from Western capitals about potential negotiations.",
