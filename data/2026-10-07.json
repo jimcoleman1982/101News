@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-07",
+  "dateFormatted": "Wednesday, October 7, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: British Police Arrest Seventh Suspect in Iranian-Backed Plot Against U.S. Bomber Base",
+      "summary": "British police arrested a 22-year-old on suspicion of terrorism offenses connected to an alleged Iranian-backed plot against RAF Fairford, the British air base from which U.S. B-1 bombers have conducted strikes on Iran. The arrest marks the first made as a result of Britain's formal counterterrorism investigation, distinct from the initial rushed police response that netted five men last Sunday — all subsequently released on bail after no weapons or explosives were found, though they did possess gasoline.\n\nU.S. officials had warned of a possible imminent attack even before the initial arrests, prompting a base lockdown, the evacuation of families, and ultimately the withdrawal of the B-1 bombers back to the United States over the weekend. A senior U.S. official noted the bombers had been parked close enough to the perimeter fence to be vulnerable to a drone attack — a tactic that has proliferated since Ukraine demonstrated its effectiveness in the Russia war.\n\nVice President J.D. Vance and President Trump both publicly acknowledged Iran's connection to the alleged plot, with Vance warning that those who made the threat 'got themselves a big problem.' Officials say one of the specific threats involved a possible drone strike, consistent with Iranian-backed tactics seen elsewhere. The incident represents a direct extension of the ongoing U.S.-Iran conflict into European soil.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/suspected-iranian-drone-plot-pushed-u-s-to-evacuate-bombers-from-british-airbase",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:09 AM MT",
+      "addedAtISO": "2026-10-07T04:09:09.092381-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "ABC, Disney Argue FCC License Review Is Unconstitutional Retaliation; Federal Judge to Rule by Mid-October",
+      "summary": "ABC and its parent company Disney faced off against the Trump administration in federal court Tuesday, asking a judge to block the Federal Communications Commission from conducting an accelerated review of ABC's broadcast licenses. ABC attorney Beth Wilkinson argued the process was chilling the network's editorial decisions just weeks before the midterm elections, comparing it to having one's 'head on the guillotine.' The court did not issue an immediate ruling, ordering additional briefings from both sides before a decision expected no earlier than mid-October.\n\nThe FCC ordered eight ABC-owned stations to submit license renewal applications years ahead of schedule, a move ABC and Disney say is unconstitutional retaliation for coverage that President Trump dislikes. Trump has repeatedly and publicly criticized ABC, and the lawsuit filed in August names both the FCC and Commissioner Brendan Carr. ABC's attorneys framed the case as a First Amendment threat not just to their network but to press freedom broadly.\n\nThe government countered on two fronts: arguing procedurally that the case belongs in a different venue and not before the district court, and substantively that ABC had failed to demonstrate irreparable harm or that its First Amendment rights had been violated. The case is one of several ongoing legal disputes between the Trump administration and news organizations, including the Associated Press, over coverage and White House access since Trump's return to office.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/abc-and-trumps-fcc-battle-in-federal-court-over-free-speech-and-jurisdiction-issues",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:09 AM MT",
+      "addedAtISO": "2026-10-07T04:09:09.092381-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Audio: Ken Paxton Privately Blames Iran War, Gas Prices for Texas Senate Campaign Struggles",
+      "summary": "Texas Attorney General and Republican Senate nominee Ken Paxton privately told donors and lobbyists at a closed-door Washington fundraiser last month that the Iran war and elevated gas prices were damaging his campaign, according to audio obtained by Axios. 'I don't make the decisions,' Paxton said, in a candid acknowledgment of the headwinds facing Republicans in the 2026 midterm cycle. The recording was confirmed by seven outlets and represents one of the more unguarded assessments by a senior Trump ally of the political environment.\n\nPaxton is running to capture a Texas Senate seat while simultaneously navigating a public divorce from state Sen. Angela Paxton, who has urged voters to support his campaign even as she accuses him of adultery. The Texas race had been seen as a relatively safe Republican hold, but Paxton's private remarks suggest internal anxiety about national conditions overwhelming down-ballot candidates.\n\nThe audio is significant as an indicator of how the Iran war — and its downstream effect on energy prices — is fracturing Republican messaging ahead of November. Republicans on the campaign trail have generally defended the administration's foreign policy publicly while privately expressing concern about voter sentiment on economic pain tied to the conflict. Democrats are expected to use elevated gas prices as a central midterm argument.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/07/ken-paxton-iran-war-gas-prices-audio-trump-texas",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:09 AM MT",
+      "addedAtISO": "2026-10-07T04:09:09.092381-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Third Anniversary of October 7 Hamas Attacks: Kibbutz Survivors Grapple with Rebuilding as Hostage Crisis Lingers",
+      "summary": "Three years after the Hamas-led attacks of October 7, 2023, communities along Israel's Gaza border are marking the anniversary amid ongoing grief, displacement, and unresolved trauma. At Kibbutz Nir Oz — one of the hardest-hit communities, sitting just over a mile from the Gaza border — roughly one in four residents was either killed or taken hostage. Of the 76 people kidnapped from the kibbutz, all living hostages have been returned, but the physical and psychological reconstruction of the community is far from complete.\n\nThe kibbutz remains largely deserted, with fire-damaged homes demolished and reinforced safe rooms left standing as skeletal reminders of the assault. Surviving residents described the difficulty of deciding how to rebuild, with some advocating that damaged structures be preserved as evidence of what occurred. The anniversary also prompted new National Security Council warnings to Jewish communities abroad.\n\nThe October 7 attacks, carried out by Hamas's elite Nukhba force along with other Palestinian fighters and civilian participants, killed approximately 1,200 Israelis and resulted in around 250 hostages being taken to Gaza. The assault triggered Israel's ongoing military campaign in Gaza, which has killed tens of thousands of Palestinians and remains a source of deep international division. Supporters of Israel's military response argue it is necessary to eliminate Hamas and secure the release of remaining hostages; critics, including many international human rights organizations, have condemned the scale of civilian casualties and destruction in Gaza.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:09 AM MT",
+      "addedAtISO": "2026-10-07T04:09:09.092381-06:00",
+      "slot": 5
+    }
+  ]
+}
