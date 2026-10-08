@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "science_health",
+      "headline": "Update: Hurricane Isaias Intensifies, Threatens Gulf Coast with Life-Threatening Storm Surge",
+      "summary": "Hurricane Isaias surged toward the U.S. Gulf Coast on Thursday as the first hurricane of the 2026 Atlantic season, with maximum sustained winds of 80 mph and forecasts calling for rapid intensification before landfall late Friday or early Saturday. The National Hurricane Center warned of a life-threatening storm surge of 5 to 7 feet in parts of Alabama and Mississippi, with up to 10 inches of rainfall possible along coastal areas and tornado risks extending into southern Georgia.\n\nMandatory evacuations were ordered in coastal sections of Okaloosa County, Florida, and at least four Florida school districts canceled classes. Governors in Florida and Alabama declared states of emergency covering dozens of counties, while Gulf oil production at some offshore platforms was paused. Government offices in several coastal communities began closing as of Thursday afternoon.\n\nThe storm is forecast to strike the Florida Panhandle, southern Alabama and southern Mississippi, with flooding risk extending inland as far as the Tennessee Valley through the weekend. The National Weather Service warned affected communities to prepare for long-duration power outages. Isaias developed notably late in the season — missing by a single day the record for the latest-forming first Atlantic hurricane, set in 1905 — owing to a strong El Niño that has suppressed Atlantic storm activity this year.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/live-map-track-the-path-of-tropical-storm-isaias",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-10-08T11:08:34.249682-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "Ambassador Guilfoyle Allegedly Sought $100,000 from Trump Donor, Promising Administration Access",
+      "summary": "U.S. Ambassador to Greece Kimberly Guilfoyle asked a Trump supporter to wire $100,000 to her American Express account days before her Senate confirmation hearing, according to a Wall Street Journal report published Wednesday. In messages cited by the Journal, Guilfoyle allegedly told donor Eric Deters the transfer would not be traceable: \"You could just send it here. It won't show up anywhere if you wire money to American Express.\" The report also alleges she offered Deters access to Trump administration officials in exchange for the payment. Guilfoyle's lawyers have disputed the authenticity or characterization of the messages.\n\nSecretary of State Marco Rubio declined to answer reporters' questions about the allegations on Thursday, saying he would not comment on the Journal's reporting. The State Department has not issued a formal statement on the matter. Guilfoyle, a former Fox News host and former fiancée of Donald Trump Jr., was confirmed as ambassador to Greece earlier this year.\n\nThe allegations raise questions about potential pay-to-play conduct by a sitting U.S. ambassador, and come as congressional oversight of Trump administration personnel practices has intensified ahead of the midterms. Critics called for an investigation into whether Guilfoyle violated ethics laws governing the use of official positions for personal financial gain; supporters noted the allegations rest on disputed private messages and have not been tested in any legal proceeding.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6136101-ambassador-guilfoyle-wire-request/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:08 AM MT",
+      "addedAtISO": "2026-10-08T11:08:34.249682-06:00",
+      "slot": 11
+    },
+    {
+      "category": "science_health",
       "headline": "Canadian Poet Anne Carson Wins 2026 Nobel Prize in Literature",
       "summary": "Canadian poet, essayist and translator Anne Carson was awarded the 2026 Nobel Prize in Literature on Thursday, with the Swedish Academy citing her \"playful, genre-blending works that fuse the classical and the modern.\" The Toronto-born writer, 76, was reached by phone while in Iceland, where the academy's permanent secretary said she was \"listening to the wind\" and was \"very taken by surprise.\"\n\nCarson draws heavily on ancient Greek and Roman literature, producing works that blur the boundaries between poetry, essay and fiction. Her notable titles include \"Eros the Bittersweet,\" the verse novel \"Autobiography of Red,\" and \"Nox,\" a sculptural memoir about her late brother. She has also produced translations of classical texts — including works by Sappho, Sophocles and Euripides — that the Swedish Academy described as \"independent works in their own right.\"\n\nThe Nobel committee's literature chair, Anders Olsson, said Carson's work centers on \"the intersection between the philologist's obsession with words and the poet's desire for new meaning,\" with her juxtaposition of influences from ancient Greece through Virginia Woolf producing \"playful and ironic works\" that move across genres and art forms. Carson has taught classics at several North American universities and was granted Icelandic citizenship in 2022.",
       "source": "PBS NewsHour",
