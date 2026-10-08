@@ -3,6 +3,34 @@
   "dateFormatted": "Thursday, October 8, 2026",
   "stories": [
     {
+      "category": "technology",
+      "headline": "Vance Suspends Microsoft, Adobe from Green Card Program, Citing H-1B Fraud",
+      "summary": "Vice President JD Vance announced Thursday that the Trump administration is suspending Microsoft, Adobe, and several other technology firms from the federal Permanent Labor Certification (PERM) program, which allows companies to apply for permanent U.S. residency on behalf of workers hired through H-1B visas. Vance accused the companies of widespread abuse of the visa system, saying 'We want people to invest in the United States of America, particularly the American technology sector.' The action affects hundreds of subsidiaries and affiliated companies owned by the named firms.\n\nThe administration also announced investigations into nine elite universities — including Harvard, Stanford, and MIT — over alleged exploitation of J-1 exchange visitor visas to reduce U.S. wage costs. Vance said, 'Elite universities bring in foreigners to undercut the wages of American residents.' The announcements came on the same day Trump awarded the National Medal of Science to Elon Musk, Google co-founder Sergey Brin, Nvidia CEO Jensen Huang, and AMD CEO Lisa Su at a White House science summit.\n\nSupporters of the crackdown argue it protects American workers and wages in the technology sector, where H-1B usage has long been contentious. Critics, including many in the technology industry, contend that high-skilled immigration is essential to U.S. competitiveness and that restricting green card pathways will push talent to other countries. Microsoft had not publicly responded to the announcement as of Thursday afternoon.\n\nThe move represents a significant escalation of the administration's immigration enforcement actions targeting the technology sector, which had previously received more favorable treatment than other industries under Trump's broader immigration crackdown. The PERM suspension stops short of revoking existing H-1B visas but blocks affected companies from putting workers on a path to permanent residency.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/08/trumps-foreign-worker-crackdown-comes-for-microsoft-adobe-it-firms",
+      "sourceCount": 17,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:46 PM MT",
+      "addedAtISO": "2026-10-08T13:46:16.256477-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Italy Approves Electoral Overhaul Championed by Meloni Ahead of 2027 Elections",
+      "summary": "Italy's parliament voted 227 to 164 Thursday to approve a sweeping overhaul of the country's electoral system backed by Prime Minister Giorgia Meloni, replacing the current hybrid system with a fully proportional model ahead of national elections due in 2027. Under the new rules, parties forming a coalition must name a joint prime ministerial candidate and platform before any election, and a party or coalition winning more than 42 percent of the vote will receive 105 bonus seats in parliament, potentially converting a narrow victory into a commanding majority.\n\nOpposition parties — including the center-left Democratic Party and the Five Star Movement — staged a heated protest during the parliamentary debate, holding up signs reading 'No to the scam' and 'fraudulent law,' accusing Meloni's right-wing coalition of designing the system to entrench its own power. Former Prime Minister Giuseppe Conte called it 'a convoluted scheme devised solely to find a formula to gain an advantage in the upcoming elections.' Democratic Party leader Elly Schlein vowed her party would win regardless of the voting system.\n\nMeloni had raised the political stakes by warning she would resign and call snap elections if the vote failed, a threat analysts said likely persuaded wavering lawmakers who stood to lose pension eligibility if their terms ended early. The reform passed despite reported tensions within Meloni's own coalition among Brothers of Italy, the League, and Forza Italia. After the vote, Meloni wrote on social media that her coalition was 'united, cohesive, and determined.'\n\nThe passage of the reform is a significant political victory for Meloni, whose government last month became Italy's longest-running since World War Two. The new system will govern how the country votes when Meloni's current term expires in October 2027, and its long-term effects on Italian political stability remain disputed between the ruling coalition and opposition parties.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:46 PM MT",
+      "addedAtISO": "2026-10-08T13:46:16.256477-06:00",
+      "slot": 14
+    },
+    {
       "category": "science_health",
       "headline": "Update: Hurricane Isaias Intensifies, Threatens Gulf Coast with Life-Threatening Storm Surge",
       "summary": "Hurricane Isaias surged toward the U.S. Gulf Coast on Thursday as the first hurricane of the 2026 Atlantic season, with maximum sustained winds of 80 mph and forecasts calling for rapid intensification before landfall late Friday or early Saturday. The National Hurricane Center warned of a life-threatening storm surge of 5 to 7 feet in parts of Alabama and Mississippi, with up to 10 inches of rainfall possible along coastal areas and tornado risks extending into southern Georgia.\n\nMandatory evacuations were ordered in coastal sections of Okaloosa County, Florida, and at least four Florida school districts canceled classes. Governors in Florida and Alabama declared states of emergency covering dozens of counties, while Gulf oil production at some offshore platforms was paused. Government offices in several coastal communities began closing as of Thursday afternoon.\n\nThe storm is forecast to strike the Florida Panhandle, southern Alabama and southern Mississippi, with flooding risk extending inland as far as the Tennessee Valley through the weekend. The National Weather Service warned affected communities to prepare for long-duration power outages. Isaias developed notably late in the season — missing by a single day the record for the latest-forming first Atlantic hurricane, set in 1905 — owing to a strong El Niño that has suppressed Atlantic storm activity this year.",
