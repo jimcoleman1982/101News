@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-09",
+  "dateFormatted": "Friday, October 9, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Nobel Peace Prize Awarded to South African Jurist Navi Pillay",
+      "summary": "The Norwegian Nobel Committee awarded the 2026 Nobel Peace Prize to Navanethem \"Navi\" Pillay, a South African jurist and former judge on the International Criminal Court, for her decades of work promoting peace and international law. The committee cited her instrumental role in ensuring that war crimes and genocide are prosecuted, noting that international law faces \"tremendous pressure\" and its institutions are \"under attack.\"\n\nPillay, 82, previously served as president of the International Criminal Tribunal for Rwanda and as United Nations High Commissioner for Human Rights. Her selection carries particular significance given that the Trump administration sanctioned the International Criminal Court last year, creating tension between the Nobel committee's choice and current U.S. foreign policy.\n\nThe award was widely anticipated by prediction markets, which had seen a surge in bets on Pillay's name overnight before the announcement, echoing a similar pattern from the previous year when a website hacking appeared to leak the winner early. The prize will be formally presented in Oslo in December.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/live/trump-midterm-elections-news-updates-10-08-2026",
+      "sourceCount": 17,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:23 AM MT",
+      "addedAtISO": "2026-10-09T04:23:10.041405-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Pentagon Announces Fort Hood Shooter Execution Will Be Livestreamed",
+      "summary": "Defense Secretary Pete Hegseth announced Thursday that the firing-squad execution of former Army Maj. Nidal Hasan, convicted of killing 13 people in the 2009 Fort Hood massacre, will be open to the public, and the Pentagon subsequently confirmed the event will be livestreamed. The execution is scheduled for December 3 at Fort Hood in Texas and would mark the first U.S. military execution in more than six decades and the first public execution in the country in roughly 90 years.\n\nHegseth made the announcement in an interview with Real America's Voice, framing the public nature of the execution as appropriate given the gravity of Hasan's crimes. Legal experts have described the decision as unprecedented and on \"uncertain legal terrain,\" raising questions about the military's authority to make such an execution public and the logistical mechanisms for doing so.\n\nSupporters of the decision, including some survivors and victims' families, argue the punishment fits the crime and that transparency serves justice. Critics and legal observers have questioned whether livestreaming an execution sets a troubling precedent and whether the military has the legal framework to carry it out in this manner. One survivor told the BBC he had doubts about whether the public should be able to watch.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/live/trump-midterm-elections-news-updates-10-08-2026",
+      "sourceCount": 17,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:23 AM MT",
+      "addedAtISO": "2026-10-09T04:23:10.041405-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Maduro and Wife Charged with Conspiracy to Commit Torture, Including of U.S. Citizens",
+      "summary": "Federal prosecutors in the United States unsealed a superseding indictment Thursday charging former Venezuelan President Nicolás Maduro and his wife, Cilia Flores, with conspiracy to commit torture, adding to existing drug-trafficking and weapons charges. The new accusations allege that the couple presided over a system of repression that included electric shock, asphyxiation, rape, forced nudity, prolonged isolation, starvation, and psychological torture of detainees — including U.S. citizens — while Maduro was in power.\n\nProsecutors also announced that Flores was added to the earlier narco-terrorism charge. The indictment alleges that the psychological torture included threats to kill victims' families, and that Flores personally ordered torture of individuals and received updates on specific prisoners. \"All of this was done to ensure that Maduro and Flores retained their power,\" prosecutors said outside the courthouse.\n\nMaduro and Flores have been held in a Brooklyn detention facility since January, when U.S. forces seized them in a pre-dawn raid on their compound in Caracas. A judge denied Flores's request to be moved to house arrest on Thursday. Maduro's attorney said his client denies all charges and looks forward to his day in court. Trial for both is scheduled to begin in June 2027.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:23 AM MT",
+      "addedAtISO": "2026-10-09T04:23:10.041405-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Key Senate Debates in Michigan, Georgia, and Maine Turn Combative as Midterms Near",
+      "summary": "Senate candidates in three closely contested battleground races — Michigan, Georgia, and Maine — clashed Thursday in debates that frequently devolved into personal attacks, with the Iran war, gas prices, tariffs, and cost of living dominating the exchanges. In Michigan, Democrat Abdul El-Sayed and Republican Mike Rogers, who carries a Trump endorsement, sparred so intensely that their argument continued off-camera during commercial breaks, prompting the debate moderator to say he had never seen that happen in 30 years of hosting debates.\n\nIn Georgia, Democratic incumbent Sen. Jon Ossoff and Republican challenger Rep. Mike Collins exchanged personal attacks throughout their first debate. Ossoff has maintained a lead in recent polling, but the race remains competitive. In Maine, Republican Sen. Susan Collins and Democrat Troy Jackson faced off for the second time this week, arguing over the Iran war and inflation in a testy hourlong exchange.\n\nThe debates come at a critical juncture, with polling suggesting Democrats are favored to win the House while Senate control remains uncertain. Republican candidates have faced pressure to defend the administration's record on the Iran war and high living costs, while Democrats have sought to make affordability and the costs of the conflict central to their closing arguments.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/6138012-second-maine-senate-debate-collins-jackson-takeaways/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:23 AM MT",
+      "addedAtISO": "2026-10-09T04:23:10.041405-06:00",
+      "slot": 5
+    }
+  ]
+}
