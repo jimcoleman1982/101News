@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Powerful 7.7 Magnitude Earthquake Strikes Panama, Damaging Buildings Across Region",
+      "summary": "A magnitude 7.7 earthquake struck south-central Panama on Friday afternoon, with its epicenter roughly 6 miles from the town of Pitaloza Arriba. The US Geological Survey said approximately 4.6 million people felt moderate to severe tremors, and warned that effects were \"likely to be widespread.\" The quake struck at a shallow depth of 12 kilometers, increasing the potential for surface damage.\n\nFootage circulating online showed collapsed and heavily damaged buildings in the towns of Penonomé and Soná, including a partially collapsed cathedral. A hotel in the area appeared to have nearly fully collapsed, and residents in the Herrera province reported cracked and damaged homes. Panama City, roughly 200 kilometers from the epicenter, saw evacuations and falling debris, though structural damage in the capital appeared more limited.\n\nPanama's President José Raúl Mulino said his entire government was mobilizing in response and urged calm. Tsunami warnings were initially issued for 11 neighboring countries but were subsequently lifted by the US Tsunami Warning System. The Panama Canal, a critical global shipping artery, reported no damage or disruption to operations.\n\nNo official casualty figures had been confirmed at the time of reporting, though the scale of building collapses and the population exposed to severe shaking raised concerns about potential deaths and injuries. Several large aftershocks were also reported, complicating rescue and assessment efforts. The quake followed major seismic events earlier this year in Colombia and Venezuela.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "4:33 PM MT",
+      "addedAtISO": "2026-10-09T16:33:47.626955-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "DeSantis Withdraws Death Warrant for First Time, Halting Florida Execution After Tennessee Botch",
+      "summary": "Florida Gov. Ron DeSantis on Friday withdrew a death warrant for the first time in his nearly eight years as governor, calling off the scheduled execution of 74-year-old William Lee Thompson by lethal injection. DeSantis sent a letter to Florida State Prison Warden Randall Polk blocking the execution, which had been imminent.\n\nThe decision came roughly a week after the botched execution of Tennessee inmate Christa Pike, who survived multiple failed lethal injections and was reported to be awake and speaking afterward. That case prompted widespread review of execution protocols across multiple states and drew intense scrutiny of the lethal injection process. DeSantis had previously shown no hesitation in signing and carrying out death warrants throughout his tenure.\n\nThe withdrawal marks a notable policy shift for DeSantis, who has been a consistent supporter of capital punishment and had overseen a number of executions during his time in office. Critics of capital punishment called the move a tacit acknowledgment that execution protocols carry unacceptable risks of causing prolonged suffering. Supporters of the death penalty said the pause was a prudent measure to ensure procedures meet constitutional standards before proceeding.\n\nThompson was convicted of a 1990 murder. His case now joins a broader national conversation about the reliability and humanity of lethal injection as states confront renewed legal and ethical challenges to their execution methods.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/6139528-desantis-withdraws-death-warrant/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:33 PM MT",
+      "addedAtISO": "2026-10-09T16:33:47.626955-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
       "headline": "Trump Announces Diesel Supply Deal with Putin, Waives Some Russia Energy Sanctions",
       "summary": "President Trump announced Friday that he has reached an agreement with Russian President Vladimir Putin for Russia to supply over 300,000 tons of diesel fuel immediately to U.S. and global markets, with an additional 500,000 tons to follow in November. The announcement includes a waiver on some U.S. energy sanctions against Russia and was made during a Columbus Day celebration at the White House.\n\nThe deal carries major geopolitical weight as it arrives precisely when Ukrainian and European diplomats gathered in Miami for talks aimed at ending the war between Russia and Ukraine. Critics are likely to argue the agreement rewards Russia economically while the war continues, while the administration frames it as a practical step to tame diesel price hikes affecting American consumers and global markets.\n\nThe announcement was covered by four major outlets and represents a significant foreign-policy and economic move — simultaneously a energy-market intervention, a partial sanctions rollback, and a direct presidential engagement with Putin during active peace negotiations. No comment from Ukrainian or European officials on the timing has yet been reported.",
       "source": "Axios",
