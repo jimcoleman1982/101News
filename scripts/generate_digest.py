@@ -42,8 +42,8 @@ MAX_PULLS_PER_DAY = 6  # HARD cap on number of pulls per day -- protects against
 # Window assignments cover all 24 hours: midnight maps to the 9 PM slot.
 SCHEDULED_SLOT_HOURS = [5, 8, 11, 14, 18, 21]
 ARTICLE_TEXT_LIMIT = 3000  # chars per article
-ANTHROPIC_MAX_TOKENS = 8000  # hard cap on output tokens (higher for multi-story output)
-ANTHROPIC_MODEL = "claude-sonnet-4-6"
+ANTHROPIC_MAX_TOKENS = 12000  # hard cap on output tokens (thinking + reply; Sonnet 5.5 tokenizer counts ~30% more)
+ANTHROPIC_MODEL = "claude-sonnet-5-5"
 # Lighter-weight model used for batched new/update/stale classification of
 # borderline dedup cases. Haiku is fast and cheap; the classification task
 # is simple enough that a smaller model is fine.
@@ -61,6 +61,92 @@ CATEGORY_LABELS = {
     "science_health": "SCIENCE & HEALTH",
     "other": "NATIONAL NEWS",
 }
+
+# --- Claude API calls (Sonnet 5.5) ---
+# Every Claude request goes through claude_message() so the model settings,
+# refusal handling, text extraction, and cost accounting live in one place.
+#
+# Sonnet 5.5 notes (migrated from Sonnet 4.6 on 2026-10-10):
+# - Adaptive thinking is on by default. Effort "low" is Anthropic's starting
+#   point for content generation, classification, and extraction: the model
+#   skips thinking on simple requests and keeps it short otherwise.
+# - Responses can begin with a `thinking` block, so text is read by block
+#   type, never as content[0].
+# - The tokenizer counts the same text as ~30% more tokens than Sonnet 4.6,
+#   and thinking counts toward max_tokens, so output limits were raised.
+# - Safety classifiers can decline (stop_reason "refusal"). Server-side
+#   fallback ("default") retries cyber / frontier_llm declines on Claude's
+#   side; any other decline is retried here on ANTHROPIC_FALLBACK_MODEL so a
+#   hard news story never blanks a section.
+ANTHROPIC_EFFORT = "low"
+ANTHROPIC_FALLBACK_MODEL = "claude-sonnet-4-6"
+SERVER_FALLBACK_BETA = "server-side-fallback-2026-07-01"
+
+# $ per million tokens (input, output), from platform.claude.com pricing
+MODEL_PRICES = {
+    "claude-sonnet-5-5": (2.0, 10.0),
+    "claude-sonnet-5": (2.0, 10.0),
+    "claude-sonnet-4-6": (3.0, 15.0),
+    "claude-opus-4-8": (5.0, 25.0),
+    "claude-haiku-4-5": (1.0, 5.0),
+}
+anthropic_cost_total = 0.0
+
+
+def _price_for(model):
+    model = model or ANTHROPIC_MODEL
+    for key, price in MODEL_PRICES.items():
+        if model.startswith(key):
+            return price
+    return MODEL_PRICES["claude-sonnet-5-5"]
+
+
+def _response_text(response):
+    """Join the text blocks of a response, skipping thinking/fallback blocks."""
+    return "".join(getattr(b, "text", "") for b in response.content
+                   if getattr(b, "type", "") == "text")
+
+
+def claude_message(client, messages, max_tokens, label, system=None):
+    """Make one Claude request. Returns (text, response, cost_usd).
+
+    Raises on API errors after its own recovery attempts, so callers keep
+    their existing retry and failure handling."""
+    global anthropic_cost_total
+    base = {"max_tokens": max_tokens, "messages": messages}
+    if system:
+        base["system"] = system
+    try:
+        response = client.beta.messages.create(
+            model=ANTHROPIC_MODEL,
+            output_config={"effort": ANTHROPIC_EFFORT},
+            betas=[SERVER_FALLBACK_BETA],
+            fallbacks="default",
+            **base,
+        )
+    except anthropic.BadRequestError as e:
+        # A 400 here would mean the model or one of its newer parameters was
+        # rejected. Keep the site running on the previous model and say so.
+        print(f"  {label}: {ANTHROPIC_MODEL} request rejected ({e}). "
+              f"Retrying on {ANTHROPIC_FALLBACK_MODEL}.")
+        response = client.messages.create(model=ANTHROPIC_FALLBACK_MODEL, **base)
+
+    if response.stop_reason == "refusal":
+        details = getattr(response, "stop_details", None)
+        category = getattr(details, "category", None) if details else None
+        print(f"  {label}: declined by {response.model} (category: {category}). "
+              f"Retrying on {ANTHROPIC_FALLBACK_MODEL}.")
+        response = client.messages.create(model=ANTHROPIC_FALLBACK_MODEL, **base)
+
+    served_by = getattr(response, "model", None) or ANTHROPIC_MODEL
+    in_price, out_price = _price_for(served_by)
+    usage = response.usage
+    cost = (usage.input_tokens * in_price + usage.output_tokens * out_price) / 1_000_000
+    anthropic_cost_total += cost
+    if not served_by.startswith(ANTHROPIC_MODEL):
+        print(f"  {label}: served by {served_by}")
+    return _response_text(response), response, cost
+
 
 # --- Budget Safety Limits ---
 MAX_BRAVE_QUERIES_PER_RUN = 20  # lower per-run cap since we run 6x/day
@@ -261,6 +347,12 @@ def parse_args():
         "--force",
         action="store_true",
         help="Skip DST time check (for manual/webhook triggers).",
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Run the pipeline without claiming a slot, then print the selected "
+             "stories. Writes nothing.",
     )
     return parser.parse_args()
 
@@ -1510,7 +1602,7 @@ FRESHNESS & DEDUP:
 Return a JSON array of up to {num_to_select} stories. For each story:
 - "category": one of "politics", "world", "business", "technology", "science_health", or "other"
 - "headline": clear, factual headline. If this is an update on a previously covered story, prefix with "Update: "
-- "summary": 3-4 paragraphs, each 2-4 sentences. Use \\n\\n between paragraphs. Cover what happened, who is involved, why it matters. If politically divisive, include both sides.
+- "summary": 3-4 paragraphs, each 2-4 sentences, at least 200 words in total (aim for 220-260). Never fewer than 3 paragraphs. Use the article text provided to add specifics: names, numbers, quotes, background, and what happens next. Use \\n\\n between paragraphs. Cover what happened, who is involved, why it matters. If politically divisive, include both sides.
 - "source": publication name
 - "url": direct link to the original article
 - "sourceCount": number of outlets covering this story (copy from the candidate info above)
@@ -1593,35 +1685,27 @@ def call_anthropic_stories(stories, target_date_str, num_to_select, existing_hea
         print(f"  LIMIT: Anthropic call cap reached. Exiting.")
         sys.exit(1)
 
+    story_messages = [{"role": "user", "content": user_prompt}]
     try:
-        response = client.messages.create(
-            model=ANTHROPIC_MODEL,
-            max_tokens=ANTHROPIC_MAX_TOKENS,
-            system=SYSTEM_PROMPT,
-            messages=[{"role": "user", "content": user_prompt}],
-        )
+        raw_text, response, cost = claude_message(
+            client, story_messages, ANTHROPIC_MAX_TOKENS, "Story selection", system=SYSTEM_PROMPT)
     except Exception as e:
         print(f"  API call failed: {e}")
         print("  Retrying in 30 seconds...")
         time.sleep(30)
         anthropic_call_count += 1
         try:
-            response = client.messages.create(
-                model=ANTHROPIC_MODEL,
-                max_tokens=ANTHROPIC_MAX_TOKENS,
-                system=SYSTEM_PROMPT,
-                messages=[{"role": "user", "content": user_prompt}],
-            )
+            raw_text, response, cost = claude_message(
+                client, story_messages, ANTHROPIC_MAX_TOKENS, "Story selection", system=SYSTEM_PROMPT)
         except Exception as e2:
             print(f"  Retry failed: {e2}")
             sys.exit(1)
 
     usage = response.usage
-    cost = (usage.input_tokens * 3 + usage.output_tokens * 15) / 1_000_000
     print(f"  Tokens: {usage.input_tokens:,} in / {usage.output_tokens:,} out")
     print(f"  Cost: ${cost:.4f}")
+    print(f"  Stop reason: {response.stop_reason}")
 
-    raw_text = response.content[0].text
     parsed = _try_parse_json(raw_text)
 
     if parsed:
@@ -1842,7 +1926,9 @@ def main():
     # If neither path finds a slot, we exit without pulling.
     now_denver = datetime.datetime.now(DENVER_TZ)
     target_slot = None
-    if not args.date:  # only enforce slot cap for live runs, not backfill
+    if args.dry_run:
+        print("  [Dry run] Skipping slot check; nothing will be written.")
+    elif not args.date:  # only enforce slot cap for live runs, not backfill
         target_slot, slot_path = determine_target_slot(existing_data, now_denver)
         if target_slot is None:
             current = get_slot_for_hour(now_denver.hour)
@@ -1928,6 +2014,14 @@ def main():
                 print("  No new stories selected")
         else:
             print("  No candidates after filtering")
+
+    if args.dry_run:
+        print("\n[Dry run] Nothing written. Selected stories:")
+        print(json.dumps(new_stories, indent=2, ensure_ascii=False))
+        print(f"\n[Dry run] Model: {ANTHROPIC_MODEL} (effort {ANTHROPIC_EFFORT}), "
+              f"Anthropic calls: {anthropic_call_count}, Brave queries: {brave_query_count}, "
+              f"Claude cost: ${anthropic_cost_total:.4f}")
+        return None
 
     # Step 5: Write output
     if not new_stories:

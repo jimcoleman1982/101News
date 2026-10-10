@@ -2,7 +2,7 @@
 
 Automated national and world news digest. Updates 6 times daily, entirely on GitHub infrastructure.
 
-Every few hours from 5 AM to 9 PM Denver time, a GitHub Actions workflow gathers the top US and world news stories, summarizes them via the Anthropic API (Claude Sonnet 4.6), and publishes them to a static site hosted on GitHub Pages.
+Every few hours from 5 AM to 9 PM Denver time, a GitHub Actions workflow gathers the top US and world news stories, summarizes them via the Anthropic API (Claude Sonnet 5.5), and publishes them to a static site hosted on GitHub Pages.
 
 **Live site:** [101news.org](https://101news.org)
 
@@ -16,7 +16,7 @@ Every few hours from 5 AM to 9 PM Denver time, a GitHub Actions workflow gathers
    - **20 named publisher RSS feeds** — direct from BBC, NPR, NYT, Guardian, Al Jazeera, Fox News, Washington Examiner, National Review, NY Post, The Hill, Axios, Politico, Bloomberg, PBS, CBS, NBC, ABC, Washington Times, Free Beacon, The Guardian US
    - **Google News RSS** — surfaces stories getting multi-outlet coverage
 3. Fetches article content from the representative source for each cluster
-4. Sends candidates to **Claude Sonnet 4.6** for curation, categorization, and multi-paragraph summarization. Each candidate is tagged with political lean `[L]/[C]/[R]/[?]` so Claude can actively balance the selection.
+4. Sends candidates to **Claude Sonnet 5.5** for curation, categorization, and multi-paragraph summarization. Each candidate is tagged with political lean `[L]/[C]/[R]/[?]` so Claude can actively balance the selection.
 5. Borderline dedup cases (same-event candidates) are classified as `new`/`update`/`stale` by a batched **Claude Haiku** call — more accurate than word-list heuristics
 6. Writes/updates a dated JSON file in `data/`
 7. Commits and pushes -- **GitHub Pages** auto-deploys the updated site
@@ -83,7 +83,7 @@ Every few hours from 5 AM to 9 PM Denver time, a GitHub Actions workflow gathers
 |---------|------|
 | GitHub Actions | Free (well within 2,000 min/month free tier) |
 | GitHub Pages | Free |
-| Anthropic API (Sonnet 4.6 + Haiku 4.5 classifier) | ~$0.50-$1.50/day, 6 runs/day |
+| Anthropic API (Sonnet 5.5 + Haiku 4.5 classifier) | ~$0.30/day, 6 runs/day |
 | Brave Search API | Free tier (2,000 queries/month, uses ~1,000-1,400/month) |
 | Named RSS feeds | Free (direct from publishers) |
 | **Monthly total** | **~$15-$45/month** |
