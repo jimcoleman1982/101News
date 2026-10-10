@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: ICE Shooting of Man in New York Car with Child Prompts Protests, Federal-City Clash",
+      "summary": "U.S. Immigration and Customs Enforcement agents shot 28-year-old Oscar Belgal, an undocumented immigrant, in the neck during a detention attempt in New York City on Thursday. Federal authorities released bodycam footage Friday showing plainclothes ICE officers — one dressed as a construction worker — at the scene. Agents fired at least seven rounds at Belgal's vehicle, which they say he used to attempt to ram officers. A 5-year-old child was in the back seat; the boy was unharmed and is now with family members.\n\nNew York City Mayor Zohran Mamdani called the shooting an outrage, saying a traumatized 5-year-old and millions of neighbors now question their safety. Protesters gathered at the scene Thursday night, clashing with police. Homeland Security Secretary Markwayne Mullin pushed back sharply, saying Belgal had a criminal history and blaming the confrontation on sanctuary city policies that, he argued, create environments for criminal activity to thrive.\n\nThe episode has inflamed the ongoing national debate over immigration enforcement in sanctuary jurisdictions. Supporters of the operation argue agents were justified in using force after Belgal attempted to flee and endanger them; critics contend the operation was reckless and endangered an innocent child. Belgal has been transferred to an undisclosed detention facility outside New York.\n\nThe story is covered by six major outlets across the political spectrum and comes amid heightened tensions between the Trump administration and Democratic-led cities over immigration enforcement tactics.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/ice-shooting-of-man-in-new-york-with-child-in-his-car-sparks-outrage",
+      "sourceCount": 6,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-09T21:08:19.181070-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "UAE: Flydubai Co-Pilot Planned to Crash Plane into Tel Aviv Airport Terminal",
+      "summary": "The United Arab Emirates attorney general announced Friday that Hamam al-Hammami, the 29-year-old Omani co-pilot who attacked his captain with an axe aboard a Flydubai flight last month, intended to seize control of the 182-passenger aircraft and crash it into a passenger terminal at Ben Gurion Airport in Tel Aviv. The suspect has admitted he acted alone and authorities say he was inspired by the September 11 attacks after years of radicalizing toward extreme Islamist views.\n\nThe axe attack on the aircraft's captain was thwarted and the plane landed safely. Al-Hammami is now in UAE custody. The attorney general said the suspect had been preparing psychologically and physically for the attack, framing it as a planned act of aviation terrorism rather than a spontaneous incident.\n\nThe disclosure significantly escalates the gravity of what initially appeared to be an isolated violent incident aboard a commercial flight. An attack on a major international airport terminal could have caused mass civilian casualties. The case raises questions about radicalization screening within commercial aviation and Middle Eastern airline security protocols.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/international/6140027-flydubai-co-pilot-ben-gurion-airport/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-09T21:08:19.181070-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Anti-Migrant Violence Erupts in South Africa; 24 Vehicles Torched in Johannesburg and Durban",
+      "summary": "Anti-immigration protests turned violent Thursday in two of South Africa's largest cities — Soweto, outside Johannesburg, and Durban — with police reporting at least 24 vehicles set ablaze and numerous foreign-owned shops looted. The unrest was sparked in part by a July Constitutional Court ruling that struck down restrictions preventing some people from seeking asylum, leading to long queues at immigration centers that protesters say have overwhelmed the system and threatened public order.\n\nIn Durban, crowds gathered outside a government refugee reception center demanding it halt asylum applications. Police fired rubber bullets to disperse crowds. In Soweto's Orlando West neighborhood, residents targeted small convenience stores operated by foreign nationals; shops were attacked and a building was set on fire. Police deployed reinforcements and condemned the destruction of property, with the acting national police commissioner calling the violence unacceptable.\n\nThe South African government said Friday it would change its compliance approach to the Constitutional Court ruling without revoking it, citing staff being overwhelmed and serious threats to public safety — though it gave no specific details. South Africa has experienced repeated waves of xenophobic violence targeting migrants from neighboring countries, often during periods of economic stress and high unemployment.\n\nThree foreign nationals were arrested in connection with an alleged assault on a protester that helped ignite the Durban violence. No deaths have been confirmed, but the scale of property destruction and the government's hasty policy response signal that the underlying political tensions over migration remain acute.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-09T21:08:19.181070-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
       "headline": "Powerful 7.7 Magnitude Earthquake Strikes Panama, Damaging Buildings Across Region",
       "summary": "A magnitude 7.7 earthquake struck south-central Panama on Friday afternoon, with its epicenter roughly 6 miles from the town of Pitaloza Arriba. The US Geological Survey said approximately 4.6 million people felt moderate to severe tremors, and warned that effects were \"likely to be widespread.\" The quake struck at a shallow depth of 12 kilometers, increasing the potential for surface damage.\n\nFootage circulating online showed collapsed and heavily damaged buildings in the towns of Penonomé and Soná, including a partially collapsed cathedral. A hotel in the area appeared to have nearly fully collapsed, and residents in the Herrera province reported cracked and damaged homes. Panama City, roughly 200 kilometers from the epicenter, saw evacuations and falling debris, though structural damage in the capital appeared more limited.\n\nPanama's President José Raúl Mulino said his entire government was mobilizing in response and urged calm. Tsunami warnings were initially issued for 11 neighboring countries but were subsequently lifted by the US Tsunami Warning System. The Panama Canal, a critical global shipping artery, reported no damage or disruption to operations.\n\nNo official casualty figures had been confirmed at the time of reporting, though the scale of building collapses and the population exposed to severe shaking raised concerns about potential deaths and injuries. Several large aftershocks were also reported, complicating rescue and assessment efforts. The quake followed major seismic events earlier this year in Colombia and Venezuela.",
       "source": "BBC News",
