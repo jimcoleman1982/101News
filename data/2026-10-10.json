@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Hurricane Isaias Makes Landfall, Kills Four and Knocks Out Power for 600,000",
+      "summary": "Hurricane Isaias struck the southern United States on Friday night, making landfall in Florida with maximum sustained winds of 105 mph before being downgraded to a post-tropical cyclone. Four deaths have been confirmed — two in Florida's Escambia County, including a woman killed when a tree fell on her home and a man who died of carbon monoxide poisoning from an improperly ventilated generator, and two in Alabama under circumstances not yet detailed by officials. At least 600,000 people were without power across multiple states as of Saturday afternoon.\n\nAlabama, Florida, and Georgia all declared states of emergency ahead of the storm, and both Florida and Alabama issued mandatory evacuation orders. Florida Governor Ron DeSantis warned of continued flooding risks and described a \"very hazardous situation,\" while Alabama Governor Kay Ivey cautioned of \"spinoff tornadoes\" from the strong winds. The Florida National Guard rescued people from submerged vehicles.\n\nThe storm is expected to continue weakening as it moves northeast, but NOAA warned that the Carolinas and Georgia could see up to 10 inches of rainfall and significant flooding. Charleston, South Carolina, asked residents to stay home Saturday night as high tide was forecast to reach 7.5 feet. Separately, Tropical Storm Rachel is expected to hit southern California, and Hurricane Simon is also active, indicating an unusually busy storm period.\n\nThe storm, which had been tracked for days, represents one of the most significant hurricane landfalls of the 2026 season and directly affected hundreds of thousands of residents across the Gulf Coast and Southeast.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 11,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:12 PM MT",
+      "addedAtISO": "2026-10-10T13:12:52.974111-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Nobel Peace Laureate Pillay Calls US ICC Sanctions 'Unacceptable' as Allies Condemn Washington",
+      "summary": "Navi Pillay, the South African jurist awarded the 2026 Nobel Peace Prize on Friday, publicly condemned US sanctions on the International Criminal Court as \"unheard of\" and \"unacceptable,\" speaking via video link at the Nobel Peace Center in Oslo on Saturday. The Trump administration unveiled sweeping new sanctions against the ICC as an institution — not just individual officials — within hours of Pillay's prize announcement, in what the White House framed as a defense of US sovereignty against what it called a \"rogue\" institution.\n\nThe new sanctions ban US entities from transacting with the ICC and are intended to inhibit the court's financial operations, though a six-month grace period has been granted before some measures take effect. Secretary of State Marco Rubio said the measures were designed to protect Americans from ICC prosecution. The US has already sanctioned 17 individual ICC judges and officials; sanctioning the institution itself marks a significant escalation.\n\nThe Trump administration says it objects to past ICC investigations into US soldiers in Afghanistan — a probe since closed — and to arrest warrants issued for Israeli officials including Prime Minister Benjamin Netanyahu. The new sanctions do not explicitly require withdrawal of those warrants as a condition for relief. UN Secretary General António Guterres called the move \"a serious blow to our collective pursuit of international criminal justice,\" and the UK joined Canada, Denmark, Germany, France, Italy, Japan, and the Netherlands in expressing that they \"regret and strongly disagree\" with the decision.\n\nSupporters of the administration argue the ICC has repeatedly overreached its mandate and targeted US allies without democratic accountability, while critics warn the sanctions fundamentally undermine the international rules-based order and set a precedent for powerful nations to defund legal institutions that issue inconvenient rulings.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:12 PM MT",
+      "addedAtISO": "2026-10-10T13:12:52.974111-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Update: Houthi Strike on Riyadh Airport Injures Dozens, All Flights Diverted or Cancelled",
       "summary": "A suspected Houthi missile or drone attack struck King Khalid International Airport in Riyadh on Saturday, injuring multiple people and prompting a full evacuation of the terminal. Dozens of ambulances rushed to the scene, and a hospital source told AFP that dozens had been wounded. Saudi authorities have not officially confirmed the attack, but Western embassies warned citizens to avoid the airport and several Gulf airlines cancelled flights, citing the security situation.\n\nThe strike represents a significant escalation following two deadly Houthi attacks on the same airport just days earlier that killed three Saudi nationals, including a pilot. Aviation tracker Flightradar24 showed all flights to Riyadh diverted or cancelled. The Houthis, who control much of northwestern Yemen and are backed by Iran, say their campaign targets Saudi Arabia over its support for Yemeni government forces.\n\nThe broader conflict has intensified after Houthi forces seized stretches of the Red Sea coast, including the port of Mokha on the strategically critical Bab al-Mandab Strait. A Saudi-led coalition has been fighting the Houthis since 2015, and an informal ceasefire that held from 2022 began unraveling in July after the Houthis launched a maritime embargo and resumed strikes on Saudi infrastructure.\n\nThis new attack marks the third major strike on Riyadh's main international airport within a week, raising serious questions about Saudi Arabia's air defense capabilities and the security of one of the region's busiest aviation hubs. The full casualty toll and extent of infrastructure damage remained unclear Saturday as investigations continued.",
       "source": "BBC News",
