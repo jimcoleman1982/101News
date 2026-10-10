@@ -20,6 +20,12 @@ on:
     - cron: '7 1 * * *'     # 6:07 PM MST
     - cron: '7 4 * * *'     # 9:07 PM MST
   workflow_dispatch:  # Manual trigger from GitHub UI or cron-job.org
+    inputs:
+      dry_run:
+        description: 'Dry run: select and summarize stories, print them to the log. Writes nothing.'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write  # Needed to commit and push JSON data files
@@ -48,6 +54,10 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}
         run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            python scripts/generate_digest.py --force --dry-run
+            exit $?
+          fi
           if python scripts/generate_digest.py --force; then
             echo "Digest generated successfully."
           else
