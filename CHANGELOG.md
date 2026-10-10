@@ -1,5 +1,44 @@
 # Changelog
 
+## v2026.10.10
+
+### Changed: Claude Sonnet 4.6 -> Claude Sonnet 5.5 (story selection)
+
+Story selection cost per edition in dry runs on 2026-10-10: about $0.05,
+down from about $0.066 on Sonnet 4.6, so about $9 a month instead of $12.
+Summaries ran 158-199 words after the prompt change (production median
+about 230, minimum 158), all three paragraphs.
+
+The borderline-dedup classifier stays on Claude Haiku 4.5.
+
+**Request changes (in `claude_message()`, which every call now uses):**
+
+- Model `claude-sonnet-5-5` at `output_config.effort: "low"` with adaptive
+  thinking, Anthropic's starting point for content generation and
+  extraction
+- Reply text is read by block type, because Sonnet 5.5 replies can begin
+  with a `thinking` block
+- Server-side refusal fallback (`fallbacks: "default"`, beta
+  `server-side-fallback-2026-07-01`), plus a client-side retry on
+  `claude-sonnet-4-6` for any other decline or a rejected request, so a
+  hard news story can't blank a section
+- Cost is computed from the model that served each call and totaled per run
+- Output limits raised for the new tokenizer (~30% more tokens for the
+  same text) and for thinking, which counts toward `max_tokens`
+- Anthropic SDK pinned to `>=1.13.0,<2` for the `fallbacks` and
+  `output_config` parameters
+
+**Prompt change:** Sonnet 5.5 reads "3-4 paragraphs, each 2-4 sentences"
+literally and writes tighter sentences, so the first dry run came back
+30-40% shorter than production. The summary instruction now carries a
+word target and a three-paragraph floor.
+
+**New:** `--dry-run` flag and `dry_run` workflow input. Runs the pipeline
+and prints the results; writes nothing and claims no slot.
+
+The 101News prompt needed a firm minimum ("at least 200 words") where a
+word range was enough on 303 News.
+
 ## v2026.7.6
 
 Live-site verification after every run, with automatic Pages rebuilds.
