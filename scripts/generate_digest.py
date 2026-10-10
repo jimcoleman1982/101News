@@ -1602,7 +1602,7 @@ FRESHNESS & DEDUP:
 Return a JSON array of up to {num_to_select} stories. For each story:
 - "category": one of "politics", "world", "business", "technology", "science_health", or "other"
 - "headline": clear, factual headline. If this is an update on a previously covered story, prefix with "Update: "
-- "summary": 3-4 paragraphs, each 2-4 sentences, about 200-270 words in total. Never fewer than 3 paragraphs. Use \\n\\n between paragraphs. Cover what happened, who is involved, why it matters. If politically divisive, include both sides.
+- "summary": 3-4 paragraphs, each 2-4 sentences, at least 200 words in total (aim for 220-260). Never fewer than 3 paragraphs. Use the article text provided to add specifics: names, numbers, quotes, background, and what happens next. Use \\n\\n between paragraphs. Cover what happened, who is involved, why it matters. If politically divisive, include both sides.
 - "source": publication name
 - "url": direct link to the original article
 - "sourceCount": number of outlets covering this story (copy from the candidate info above)
