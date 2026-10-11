@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Poland Detains Man Suspected of Plotting to Assassinate Prime Minister Tusk",
+      "summary": "Polish police have detained a man accused of plotting an assassination attack on Prime Minister Donald Tusk and Defence Minister Wladyslaw Kosiniak-Kamysz. The suspect, identified as Polish national Jacek Dobrzynski, was arrested in the Lower Silesia region. Tusk thanked police for their \"swift and decisive action.\"\n\nThe plot came to light when an email describing the potential attack was forwarded to police by the State Protection Service, which handles ministers' security. Security services convened a special meeting on Sunday, and a spokesman said officials were treating the threat as \"deadly serious.\" He added that there was \"a strong likelihood that these threats could actually be carried out.\"\n\nThe arrest is a new development beyond earlier reporting that security services were probing a threat to Tusk. It comes amid heightened security concern in Poland after a series of school stabbings that Tusk has said were driven by online glorification of violence. Tusk, prime minister since 2023 after an earlier term from 2007 to 2014, also served as president of the European Council. Authorities have not yet said what the suspect's motive was or what charges he will face.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:26 PM MT",
+      "addedAtISO": "2026-10-11T13:26:15.969662-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Trump's Late Midterm Deals Draw Backlash Within GOP, as Mullin Briefs on Hurricane Isaias",
+      "summary": "On CBS's Face the Nation, host Margaret Brennan framed the week around President Trump's last-minute deals ahead of the midterms, 23 days away, and the resulting backlash within his own party. The latest was the deal with Vladimir Putin to import Russian diesel to lower fuel prices. Senate Republican whip John Barrasso was scheduled to be asked whether the deal will prompt more GOP candidates to distance themselves from Trump.\n\nDemocrats also face challenges, notably turning out their own loyalists. Sen. Chris Murphy of Connecticut and New Hampshire Senate nominee Rep. Chris Pappas were scheduled to discuss the party's strategy. Trump has been campaigning for loyalists in states such as Tennessee, saying of the effort, \"What the hell am I doing in Tennessee?\"\n\nHomeland Security Secretary Markwayne Mullin also gave an update on Hurricane Isaias, the first Atlantic hurricane of the year, which made landfall Friday night and killed four people. Hundreds of thousands lost power. Mullin said federal officials were in touch with affected governors, that FEMA assets had been prepositioned, and that governors reported being in good shape. The program also covered ICE tactics after a shooting in New York City, and an interview on AI with Palantir's chief technology officer.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-10-11-2026/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:26 PM MT",
+      "addedAtISO": "2026-10-11T13:26:15.969662-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Czech Premier Babis's ANO Party Weakens in Regional Elections",
+      "summary": "Support for ANO, the party of billionaire Prime Minister Andrej Babis, weakened in regional elections held across the Czech Republic. The losses came mainly in larger cities, according to Bloomberg.\n\nThe vote is a test of the governing party's standing. Regional results can signal shifts in national political sentiment, though the pool offered limited detail on final tallies or which parties gained.\n\nFurther results and analysis of the coalition implications are expected as counting concludes.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/billionaire-czech-premier-s-ano-party-weakens-in-regional-vote",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:26 PM MT",
+      "addedAtISO": "2026-10-11T13:26:15.969662-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Update: Trump Announces Russia-Ukraine 'Energy Ceasefire' as Zelensky Says Kyiv Would Agree if Moscow Does",
       "summary": "President Donald Trump announced on Sunday on Truth Social that \"effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine,\" saying both parties had agreed. Ukrainian President Volodymyr Zelensky told Axios the announcement \"was news for me,\" but said Ukraine would agree if Russia does. It remains unclear whether Moscow has accepted. The Kremlin had said earlier that there would be no immediate resumption of talks to end the war.\n\nThe announcement followed a day of escalating friction between Washington and Kyiv. Trump had demanded that Zelensky halt Ukrainian strikes on Russian oil refineries, blamed him for high U.S. diesel prices, and suggested Ukraine needs \"a new leader.\" This came after the administration's deal to buy Russian diesel and waive some sanctions. Zelensky, speaking on ABC's \"This Week,\" called the deal a \"birthday gift\" to Vladimir Putin that gives him money to \"kill us, kill our children.\" He said the next Ukrainian leader would be chosen by the Ukrainian people, and that elections could be held if Putin agrees to a two-month ceasefire. Ukraine has pushed for a 60-day full ceasefire.\n\nThe diesel deal has drawn criticism from some Republicans. Rep. Brian Fitzpatrick (R-Pa.) said he would introduce a bipartisan bill, the \"Ronald Reagan Peace Through Strength Act,\" and force a House vote to block Russian oil purchases. Sen. Thom Tillis (R-N.C.) said the sanctions easing may be breaking the law, and Sen. John Kennedy (R-La.) backed lowering diesel prices but opposed importing from Putin. The administration has presented the deal as a way to ease fuel prices ahead of the midterms, with truckers reporting diesel at $6.32 per gallon. Analysts say the fuel would take weeks to ship and the quantities are too small to affect prices much. The European Commission's Ursula von der Leyen voiced full support for Zelensky.",
       "source": "New York Times",
