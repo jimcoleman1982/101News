@@ -3,6 +3,34 @@
   "dateFormatted": "Sunday, October 11, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Democrats Gain Ground in North Carolina Senate Race as Polls Face Scrutiny",
+      "summary": "Democrats appear to have momentum in North Carolina, particularly in the Senate race. Former Gov. Roy Cooper, a Democrat, faces Republican political operative Michael Whatley for the seat being vacated by retiring Sen. Thom Tillis (R-N.C.). The Hill reported that polling, nonpartisan ratings and campaign shifts suggest Cooper is poised to win.\n\nThe report noted that a national Republican PAC has been involved in the race. A veteran Democratic strategist who managed Barack Obama's narrow 2008 victory in the state urged donors and supporters to stay focused on Cooper's campaign rather than assume the outcome is settled.\n\nThe race is one of several that will help determine control of the Senate. The Cook Political Report recently shifted 18 races toward Democrats and projected a net gain of 9 to 19 House seats. Right-leaning outlets have urged caution. The Washington Examiner reported that polls showing Democrats leading in the midterms are coming under scrutiny, a reminder that public polling has been criticized in past cycles. Republicans have also been pulling ads from races they see as unwinnable, a sign of electoral anxiety. The midterm elections are weeks away.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/6139667-north-carolina-roy-cooper-democrats-midterm-elections/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:38 PM MT",
+      "addedAtISO": "2026-10-11T17:38:08.548248-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Fugitive Businessman Alvaro Pulido Taken Into US Custody in Venezuela Bribery Case",
+      "summary": "Alvaro Pulido, a businessman wanted for years in the United States, has been taken into custody. He is accused of paying bribes to top Venezuelan officials in exchange for lucrative state contracts in Venezuela, according to an Associated Press report carried by the Washington Examiner and CBS News.\n\nPulido was indicted in Miami federal court in 2019 and again in 2021 as part of an investigation into his longtime business partner, Alex Saab, a one-time ally of ousted President Nicolas Maduro. The Drug Enforcement Administration and the State Department had offered a reward of up to $10 million for information leading to his arrest.\n\nThe arrest comes as the US legal case against Maduro and his circle continues. Maduro and his wife have recently been charged with conspiracy to commit torture, and a co-defendant was added to a narco-terrorism count. The report did not say where Pulido was arrested or when he will appear in court.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/4762593/fugitive-businessman-us-custody-venezuela-bribery/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "5:38 PM MT",
+      "addedAtISO": "2026-10-11T17:38:08.548248-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Update: Poland Detains Man Suspected of Plotting to Assassinate Prime Minister Tusk",
       "summary": "Polish police have detained a man accused of plotting an assassination attack on Prime Minister Donald Tusk and Defence Minister Wladyslaw Kosiniak-Kamysz. The suspect, identified as Polish national Jacek Dobrzynski, was arrested in the Lower Silesia region. Tusk thanked police for their \"swift and decisive action.\"\n\nThe plot came to light when an email describing the potential attack was forwarded to police by the State Protection Service, which handles ministers' security. Security services convened a special meeting on Sunday, and a spokesman said officials were treating the threat as \"deadly serious.\" He added that there was \"a strong likelihood that these threats could actually be carried out.\"\n\nThe arrest is a new development beyond earlier reporting that security services were probing a threat to Tusk. It comes amid heightened security concern in Poland after a series of school stabbings that Tusk has said were driven by online glorification of violence. Tusk, prime minister since 2023 after an earlier term from 2007 to 2014, also served as president of the European Council. Authorities have not yet said what the suspect's motive was or what charges he will face.",
