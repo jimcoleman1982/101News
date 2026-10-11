@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-11",
+  "dateFormatted": "Sunday, October 11, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Justice Department Opens Antitrust Probe of TV Networks Over Suspended Trump Pool Coverage",
+      "summary": "The U.S. Justice Department said it is investigating ABC, CBS, CNN, NBC and Fox News over whether they violated federal competition law when they suspended pool coverage of President Donald Trump last month. The Antitrust Division asked the networks to hand over communications related to the pool and said the boycott could violate the Sherman Act, which bars monopolistic business practices. A department spokesperson said the division is \"simply investigating to determine whether these news organisations have violated the antitrust laws.\" The networks have not yet commented.\n\nThe five networks paused their presidential coverage for several days after the administration withdrew the credentials of reporters from CNN, MS Now and Politico. Trump had blocked the three outlets from the White House, accusing them of writing \"fiction or lies\" about his team. Access was later restored after a judge ruled in a lawsuit in which the outlets argued the restrictions violated their First Amendment rights. Pool members normally share their material with the wider media.\n\nThe administration has taken a series of actions affecting press access. In February the White House took control of the press pool, which the White House Correspondents' Association had managed for more than a century. The administration also moved to bar Associated Press journalists from limited-access spaces over the outlet's use of \"Gulf of Mexico\" rather than \"Gulf of America\"; that lawsuit remains ongoing.\n\nThe administration has framed its actions as enforcement of the law, while press-freedom advocates and the outlets argue that government discrimination against coverage it dislikes is barred by the First Amendment. It is unclear what the networks will provide or whether the department will take further action.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 8,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:54 AM MT",
+      "addedAtISO": "2026-10-11T03:54:05.919658-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Tennessee Inmate Christa Pike Discharged From Hospital 10 Days After Failed Execution",
+      "summary": "Christa Pike, the Tennessee death row inmate who survived two lethal injections on September 30, has been discharged from the hospital and returned to the prison where she has been held for 30 years, her lawyers said Saturday. The 50-year-old is continuing to receive medical care. She is believed to be the only person to have survived a lethal injection execution attempt.\n\nPike regained consciousness earlier this week after her legal team had believed for days that she was brain dead. Her first words, according to lawyer Randy Spivey, were \"Where am I?\" and \"Who are you?\" Her lawyers said she was suffering from pneumonia and significant swelling in her arms and could not swallow, and that she felt \"angry and confused.\" They said she was grateful to first responders and her medical team.\n\nThe Tennessee Department of Correction has not said why the execution failed, though it has defended its method, which used pentobarbital. At a hearing Wednesday, an assistant attorney general said he did not know whether the state would try to execute her again. The judge ordered the state to preserve all evidence related to the failed injections, which could support a future lawsuit.\n\nPike was convicted of the 1995 torture and killing of 19-year-old Colleen Slemmer, committed when Pike was 18. Her boyfriend, Tadaryl Shipp, was spared the death penalty because he was a minor. The U.S. Supreme Court and Governor Bill Lee had declined to block the execution, and her lawyers are now seeking commutation to life without parole.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cmlyle97pqd7o",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:54 AM MT",
+      "addedAtISO": "2026-10-11T03:54:05.919658-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Pakistan Imposes State of Emergency in Khyber Pakhtunkhwa, Stronghold of Imran Khan's Party",
+      "summary": "Pakistan's President Asif Ali Zardari on Sunday imposed a state of emergency in the northwestern province of Khyber Pakhtunkhwa, citing \"the rising incidents of terrorism and a deteriorating law and order situation.\" The move came on the recommendation of the federal cabinet.\n\nThe prime minister's office said the decision followed the provincial government's \"deliberate disengagement from the fight against terrorism.\" The province is governed by the party of jailed former prime minister Imran Khan, which sets up a direct confrontation between the federal government and the opposition-run provincial administration.\n\nThe federal government presents the step as a security measure necessary to counter militant violence. Critics are likely to view it as an attempt to curb the political power of Khan's party in its stronghold, though details of the emergency's scope and any reaction from the provincial government were not immediately available. Further developments are expected as the provincial leadership responds.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/pakistan-imposes-emergency-in-stronghold-of-imran-khan-s-party",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:54 AM MT",
+      "addedAtISO": "2026-10-11T03:54:05.919658-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Trump Weighs Joining Saudi Strikes on Houthis After Riyadh Airport Attack Kills 12",
+      "summary": "Saudi authorities said 12 people were killed and 309 injured in the Saturday strike on King Khalid International Airport in Riyadh, the deadliest attack in Saudi Arabia since May 2015. The dead included four Saudis and nationals of Bangladesh, Egypt, Jordan, Syria, Sudan, the Palestinian territories and the United States. Some of the injured were in critical condition, and the airport temporarily suspended operations.\n\nPresident Trump denounced the attack as \"terrible\" and said the United States is evaluating whether to join Saudi Arabia's offensive against the Houthis. Secretary of State Marco Rubio said Washington \"strongly condemns\" the attacks by the \"terrorist Houthis.\" Saudi-backed forces said 1,150 Houthis were killed in operations over the past 24 hours, a claim not independently verified.\n\nThe strike was the deadliest in a Gulf Arab country since the U.S.-Israeli war with Iran began in February, and Washington is debating both striking the Houthis and restarting strikes on Iran. Medical services in Taiz, Yemen, are at risk of shutting down under a Houthi blockade. The new development is Trump's statement that the U.S. may join the offensive.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/interactive/polls/senate-polls-2026.html",
+      "sourceCount": 17,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:54 AM MT",
+      "addedAtISO": "2026-10-11T03:54:05.919658-06:00",
+      "slot": 5
+    }
+  ]
+}
