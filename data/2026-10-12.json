@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-12",
+  "dateFormatted": "Monday, October 12, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Iran Calls Latest U.S. Proposal to End War 'Insufficient' as Houthis Strike Riyadh Airport Again",
+      "summary": "Mohsen Rezaei, head of Iran's Supreme National Security Council and a former Revolutionary Guard commander, said Tehran finds the latest U.S. response to its proposal to end the war \"insufficient.\" Iranian state news agency IRNA carried his comments. Rezaei said Iran is no longer responding to Washington and that the United States must clarify certain issues, without giving details. He said the U.S. has accepted some of Iran's seven conditions while others remain unclear.\n\nRezaei also threatened \"cables, data centers, AI facilities and other sites in the region\" if intense fighting resumes. The Guard's navy warned that any ship in the Strait of Hormuz that turns off its navigation and identification systems would be \"identified as hostile.\" Attacks on ships in the strait have increased since Iran's proposal, which echoed a memorandum of understanding that collapsed days after signing in June, was rejected last month. The two sides remain in contact through mediators.\n\nSeparately, a projectile struck the same passenger terminal at Riyadh's King Khalid International Airport that was hit Saturday in an attack that killed 12 people. Saudi authorities reported new injuries. Iran-backed Houthi rebels in Yemen claimed both attacks, and the airport has been targeted daily since Wednesday. Houthi military spokesman Yahya Saree urged \"everyone to take our warnings seriously.\"\n\nIn Israel, former Attorney General Avichai Mandelblit took the witness stand in Prime Minister Benjamin Netanyahu's corruption trial, with elections weeks away. Mandelblit, whom Netanyahu handpicked and who indicted him seven years ago for fraud, breach of trust and bribery, testified with Netanyahu present in the courtroom. Netanyahu denies any wrongdoing.",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/world/iran-calls-latest-u-s-proposal-to-end-war-insufficient-as-netanyahus-corruption-trial-resumes",
+      "sourceCount": 24,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:37 AM MT",
+      "addedAtISO": "2026-10-12T04:37:13.065522-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Hurricane Simon Batters Mexico's Pacific Coast as Category 3 Storm",
+      "summary": "Hurricane Simon pounded Mexico's Pacific coast on Sunday as a Category 3 storm with winds of about 120 mph. It had earlier strengthened into a Category 4 hurricane while approaching the coast. Its most powerful winds and rain slammed communities between the Sierra Madre and the ocean.\n\nThe storm's eye remained offshore, with its center moving parallel to the coast and closing in on the Puerto Vallarta area. The most damaging winds and rain there were expected around midnight and to continue through Monday morning. Forecasters warned of life-threatening flooding in the resort city and surrounding areas.\n\nThe full extent of damage, casualties and power outages is not yet known. Further updates are expected as the storm passes and officials assess the impact along the coast.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/mexico-hurricane-simon-0e3336ba92518117ca8008c5746d230e",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:37 AM MT",
+      "addedAtISO": "2026-10-12T04:37:13.065522-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Federal Judge Orders Halt to Taxpayer-Funded Trump Ads Weeks Before Midterms",
+      "summary": "A federal judge on Sunday ordered the Trump administration to immediately stop taxpayer-funded advertisements featuring President Trump, saying the ads are likely unlawful. The order covers any commercials scheduled to air later in the day. It temporarily blocks the campaign weeks before November's midterm elections while multiple lawsuits over the administration's use of public money proceed.\n\nThe ruling stems from a suit in the Southern District of New York brought by the watchdog group Common Cause, the nonprofit Democracy Forward and other plaintiffs. The Department of Homeland Security tapped $20 million in taxpayer funds for the ads. The White House has defended them as public service announcements.\n\nThe administration had indicated the campaign was set to end Sunday, so it argued there was no need for the court to intervene. Critics of the ads contend they promote the president's political message with public money ahead of an election, while the administration maintains they serve a public informational purpose. Further proceedings in the case are expected.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/12/trump-taxpayer-funded-ads-judge-order",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:37 AM MT",
+      "addedAtISO": "2026-10-12T04:37:13.065522-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Trump and Rubio Weigh Firing Ambassador to Greece Kimberly Guilfoyle",
+      "summary": "President Donald Trump and Secretary of State Marco Rubio are considering firing U.S. Ambassador to Greece Kimberly Guilfoyle, according to a senior U.S. official who spoke Sunday. The deliberations follow a series of reports alleging she engaged in improper and possibly illegal conduct before and during her tenure in Athens.\n\nThe official said Trump and Rubio are \"extremely pissed off\" by her reported conduct and would likely decide soon. Guilfoyle faces mounting allegations in Greece, and Vice President JD Vance and Rubio have weighed in on the controversies surrounding the envoy.\n\nNo final decision has been announced. Guilfoyle has not been reported to have responded to the specific allegations in the material available. A dismissal would end the tenure of one of the president's closest political allies in a prominent diplomatic post.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/trump-rubio-guilfoyle-364465fc46b023cacf2b70c94cc76ae2",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:37 AM MT",
+      "addedAtISO": "2026-10-12T04:37:13.065522-06:00",
+      "slot": 5
+    }
+  ]
+}
