@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Hackers Heat Fridges and Freezers at Hundreds of French Supermarkets, Spoiling Food Worth Millions",
+      "summary": "A cyber attack has hit hundreds of French supermarkets, causing refrigeration units to heat up and spoil fresh and frozen food estimated to be worth millions of euros. Hackers gained control of software that regulates the temperature of the cold units, forcing some to warm to as much as 50C (120F) overnight, according to one chain affected. The attack targeted software provided by the Danish engineering firm Danfoss.\n\nThe chief executive of Cooperative U called the attack \"extremely serious and unprecedented.\" More than 100 of its stores were targeted. Another 180 stores from Intermarche and its Netto brand were affected, and about 100 more were disconnected from the internet as a precaution. Carrefour said 80 of its 6,000 stores were hit, and Monoprix said 5% of its more than 400 stores were affected. E.Leclerc was also hit. Overall, figures from individual chains suggest about 400 of roughly 15,000 French stores were affected, though the full scale is unclear.\n\nIntermarche said its units heated to 50C for six hours overnight and that it discarded all affected food to avoid health risks. Managers arriving Monday were met by a wave of hot air from freezers, and some places saw small fires. Some display units were still out of service Monday afternoon as staff worked to restock shelves.\n\nDanfoss said the affected units were older models whose security software could not be updated against a risk the company had identified, and that it had long advised customers to keep supported systems up to date. It has not confirmed how hot the units became. No group has been named as responsible, and the attack raises questions about the security of remotely managed industrial systems in critical supply chains.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:01 PM MT",
+      "addedAtISO": "2026-10-12T16:01:51.846923-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Sudan Faces Worsening Famine Risk From Conflict, Drought and Funding Shortages, Monitor Says",
+      "summary": "A global food crisis monitor warned Monday of a \"deteriorating humanitarian situation\" across Sudan's greater Darfur and Kordofan regions, including areas identified as at risk of famine. The Integrated Food Security Phase Classification, or IPC, said conflict and severe drought linked to El Nino are driving the decline. The drought is affecting more than half of the country and causing localized crop failures that deprive households of food and income.\n\nIn May, nearly 19.5 million people, more than 40% of the population, faced high levels of acute food insecurity. Of those, 135,000 were in Phase 5, the most severe category, marked by starvation and deaths from disease or malnutrition. Poor crop growth has affected 64% of croplands in North Darfur and about half in South Darfur, West Kordofan and South Kordofan. In Nyala, severe acute malnutrition among children admitted to nutrition services rose from about 5% to 11% between January and August, and two displacement camps in South Darfur recorded malnutrition above famine thresholds.\n\nSudan's war began in April 2023 when tensions between the army and the paramilitary Rapid Support Forces erupted into fighting in Khartoum. It has killed at least 150,000 people, according to the monitor ACLED, though aid groups say the real toll is higher. About 13 million people have been displaced. In the latest violence, an airstrike killed at least 72 civilian miners near the Egyptian border, according to the rights group Emergency Lawyers.\n\nThe IPC said that without a quick and significant increase in assistance, food insecurity, acute malnutrition and excess mortality will likely intensify. Aid groups say an end to the fighting and safe, sustained access are essential, but repeated peace efforts have failed.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/sudans-famine-risk-worsened-by-conflict-drought-and-funding-shortages-report-says",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:01 PM MT",
+      "addedAtISO": "2026-10-12T16:01:51.846923-06:00",
+      "slot": 18
+    },
+    {
+      "category": "technology",
+      "headline": "Meta Unveils Muse Wonder and Muse Wonder Full, Its Most Capable AI Models Yet",
+      "summary": "Meta announced on Monday the release of two new frontier artificial intelligence models, Muse Wonder and Muse Wonder Full. The company described them as its \"most capable models to date.\" They are intended to compete with cutting-edge systems from rivals such as Anthropic and OpenAI.\n\nThe release follows Muse Spark, which Meta released in April as the first model in the Muse series. The new models mark the company's latest attempt to close the gap with competitors in the race to build advanced AI systems.\n\nThe announcement shows the continuing escalation among major technology firms, which are spending heavily on model development. Further details on performance benchmarks, availability and pricing were not included in the initial reporting.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:01 PM MT",
+      "addedAtISO": "2026-10-12T16:01:51.846923-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
       "headline": "NATO Commander Says Alliance Is 'Ready to Fight Tonight' as Europe Warns of Russian Tests",
       "summary": "NATO's Supreme Allied Commander, U.S. Gen. Alexus Grynkewich, said Monday that the alliance does not want war but is \"ready to fight tonight\" if attacked. He spoke at the Warsaw Security Forum, where he set out what he called NATO's \"Theory of Victory.\" European officials have warned in recent weeks that Russia could test the alliance with increased covert attacks or a limited military incursion.\n\nGrynkewich said NATO would block an initial attack, blunt it if it persisted, and if required break the enemy's forces and the war-fighting system that supports and controls them. He said NATO's combined land, sea and air forces would use sensors, autonomous systems and military force to stop Moscow from seizing and holding territory. He said he does not believe a conflict is imminent or inevitable, and that the best way to preserve peace is to prepare for war while keeping lines of communication open to \"resolve misunderstandings.\" He gave no specifics on the kind of attack NATO is preparing for, or where.\n\nEurope has faced a rise in covert Russian activity in recent months, including an arson attack on an Estonian defense company and a failed attempt to attack a Ukrainian aircraft at a German airport. Denmark's defense intelligence service has warned that Russia could use such tactics to split the alliance. Tensions over U.S. policy add to the strain: President Trump agreed to buy diesel from Russia to lower U.S. prices before the midterms, said earlier this year that he would pull American troops from Europe, and his war with Iran has strained European stocks of advanced air defense missiles.\n\nGrynkewich said troop deployments are \"ultimately a political decision,\" but that \"no one should question the U.S. commitment to the alliance.\" He urged members to coordinate a coherent response to Russian activity so Moscow understands where NATO's red lines are.",
       "source": "PBS NewsHour",
