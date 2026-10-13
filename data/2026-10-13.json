@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-13",
+  "dateFormatted": "Tuesday, October 13, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Ships Sunk in New Drone Attacks Off Bulgaria as Prime Minister Summons Russian Ambassador",
+      "summary": "A merchant ship has sunk after drones struck two vessels off Bulgaria's Black Sea coast, Prime Minister Rumen Radev said on Tuesday. One ship went down 17 nautical miles east of Krapets, and one crew member was saved. The second, Ukrainian-owned and Maltese-flagged vessel, the Chelsea 3, was hit by three drones 18 nautical miles from the town of Byala. All 15 crew were rescued, and five were treated for minor injuries.\n\nRadev convened an emergency security meeting and summoned Russian ambassador Eleonora Mitrofanova. He said there was no conclusive evidence of blame on either side, but that \"the logic suggests that the outcome benefits the Russian Federation.\" Mitrofanova reportedly told him she had no information from Russia's defense ministry about the attacks and suggested a third-party provocation. Radev, who took office this summer and has rejected suggestions that he is pro-Russian, said he would speak with NATO Secretary General Mark Rutte.\n\nThe attacks follow a similar incident on October 6, when two commercial ships were hit in Bulgaria's exclusive economic zone. One of them, the Alfa Watan, sank, and all 10 crew, including nine Syrians, are presumed dead. Radev had earlier asked NATO and the EU for technical help in investigating those strikes.\n\nUkraine has directly blamed Russia for the latest attacks. European Commission President Ursula von der Leyen said the Black Sea was becoming \"another front of escalation of the Russian war in Ukraine. This is unacceptable.\" Moscow has not commented publicly. It says it targets ships delivering weapons and dual-use cargo to Ukrainian ports, while Kyiv and its European allies say grain and other civilian cargo vessels are being hit.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:25 AM MT",
+      "addedAtISO": "2026-10-13T04:25:04.748915-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Houthi Attacks on Saudi Arabia Escalate as Riyadh Airport Death Toll Reaches 13",
+      "summary": "The death toll from the Houthi strike on Riyadh's international airport and another facility has risen to 13, according to the latest reporting. Saturday's attack was the deadliest in Saudi Arabia since May 2015. US and Saudi officials blame Yemen's Iran-backed Houthis, who had not commented on the strike. The Saudi capital was hit by multiple attacks over the weekend.\n\nThe strikes come amid escalating fighting between the Houthis and Saudi Arabia, which backs Yemen's government. The Houthis have also been fighting pro-government forces over Yemen's Red Sea coast. Security analysts say the group's precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand.\n\nBBC analysis says the physical damage from the attacks can be repaired quickly, but the kingdom's reputation for stability is taking a battering. Experts also note that US military assistance, including shuttle tankers and pipelines that bypass the Strait of Hormuz, has allowed Gulf oil exports to rebound.\n\nThe attacks sit within the wider US-Iran war and the question of how Washington and Riyadh respond. The Houthi campaign has put new focus on Yemen's long-running civil war, whose humanitarian toll continues to mount.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "sourceCount": 19,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:25 AM MT",
+      "addedAtISO": "2026-10-13T04:25:04.748915-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Katie Zacharia to Hold First White House Press Briefing as New Press Secretary",
+      "summary": "Katie Zacharia begins her term as White House press secretary, with an introductory news conference set for Tuesday at 9:30 a.m. President Trump announced the start date on Sunday, saying she would begin on Columbus Day. Her debut ends a weeks-long stretch without a permanent press secretary at the podium.\n\nZacharia previously worked for one of Trump's companies and built her profile through appearances on conservative-leaning talk shows. Critics note that she has amplified right-wing conspiracy theories. Supporters of the president view her as a loyal communicator who will advance his message directly to the public.\n\nThe briefing comes as the Justice Department investigates the five television networks that make up the White House TV press pool, following the suspension of pool coverage. How the new press secretary handles questions on that probe, and on the administration's relationship with the press corps, will be closely watched. The briefing also lands weeks before the midterm elections.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/media/6141936-zacharia-to-hold-first-white-house-briefing/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:25 AM MT",
+      "addedAtISO": "2026-10-13T04:25:04.748915-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: India 'Cockroach' Party Leaders Detained After Entering Barricaded Delhi Protest Site",
+      "summary": "Leaders of India's Cockroach Janta Party were detained early Tuesday after entering the heavily guarded Jantar Mantar protest site in Delhi. They chanted slogans demanding that Chief Election Commissioner Gyanesh Kumar resign over a controversial revision of electoral rolls. Party founder Abhijeet Dipke shared video of Ashutosh Ranka and Saurav Das being taken away by police after climbing over barricades while holding the Indian flag.\n\nThe detentions came a day after the federal home ministry announced that Jantar Mantar would no longer be a designated protest venue, naming three alternative locations where demonstrations can be held with permission. Ranka said the site was de-notified 30 minutes after the party asked police for a protest date. Opponents of Prime Minister Narendra Modi allege the voter list revision benefits his party, a charge it and the Election Commission reject.\n\nOver the weekend, police detained and released thousands of people, including several journalists, and closed metro stations amid a heavy deployment of police and paramilitary forces. Opposition parties also marched in Delhi on Monday. The detained leaders said they would not back down.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:25 AM MT",
+      "addedAtISO": "2026-10-13T04:25:04.748915-06:00",
+      "slot": 5
+    }
+  ]
+}
