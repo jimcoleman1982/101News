@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Zelensky Vows to Retaliate for Grid Attacks as European Leaders Rally Behind Kyiv Over Trump's Russian Diesel Deal",
+      "summary": "Ukrainian President Volodymyr Zelensky told a gathering of European security officials at the Warsaw Security Forum on Monday that Kyiv would retaliate if Russian strikes on its power grid continue. He said he was surprised by President Trump's announced \"energy ceasefire,\" which was declared as Russian drones hit Kyiv. Zelensky has also criticized Trump's decision on Friday to suspend some sanctions on Russian diesel exports.\n\nTrump said Russia would supply more than 300,000 tons of diesel to global markets immediately, another 500,000 tons in November and 1 million tons after that. The deal stunned Ukrainian and European officials who were meeting with U.S. envoys in Florida. Trump has also pressed Kyiv to halt strikes on Russian refineries and has blamed high energy prices on Ukraine rather than on the war in the Middle East. Polish Foreign Minister Radoslaw Sikorski said Washington should be pressuring Russia rather than Ukraine, and described European sanctions on Moscow as the toughest so far.\n\nThe deal has drawn criticism from some Republican lawmakers, including some in Trump's circle, weeks before the midterm elections. Trump pushed back on Monday against the criticism, defending the agreement as a way to procure fuel for the United States. Supporters of the administration's approach say it aims to ease energy costs and open a diplomatic channel to Moscow. Critics, including Ukrainian officials, say it hands Vladimir Putin an economic and political win without any concession.\n\nAnalysts have questioned whether the energy ceasefire is what it appears to be, as Russian strikes on Ukrainian energy sites have continued. Kyiv has said it will respond in kind if the attacks do not stop.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/world/europe/ukraine",
+      "sourceCount": 18,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "8:32 PM MT",
+      "addedAtISO": "2026-10-12T20:32:46.810102-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "South Africa's Deputy Police Chief Resigns After Being Charged With Sexual Offences",
+      "summary": "South Africa's deputy national police commissioner, Lt Gen Shadrack Sibiya, resigned on Monday, three weeks after he was charged with sexual offences. A lawyer submitted his resignation letter at his disciplinary hearing, according to a police spokesperson. Police said the departure would be treated as a dishonourable discharge because he still faced a disciplinary case.\n\nSibiya, 59, is accused of sexually grooming a 16-year-old girl, raping an 18-year-old woman and human trafficking. He denies the charges, saying that he had sex with the 18-year-old but that it was consensual. He has been in custody since his arrest.\n\nHe was also suspended last year over alleged links to organised crime bosses, which he denies. Those allegations emerged at the Madlanga Commission, a public inquiry set up by President Cyril Ramaphosa into police corruption and collusion with criminals. Sibiya was accused of interfering in investigations into political killings in KwaZulu-Natal and of accepting cash and 20 impalas from an alleged kingpin in exchange for a police contract.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:32 PM MT",
+      "addedAtISO": "2026-10-12T20:32:46.810102-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
       "headline": "Hackers Heat Fridges and Freezers at Hundreds of French Supermarkets, Spoiling Food Worth Millions",
       "summary": "A cyber attack has hit hundreds of French supermarkets, causing refrigeration units to heat up and spoil fresh and frozen food estimated to be worth millions of euros. Hackers gained control of software that regulates the temperature of the cold units, forcing some to warm to as much as 50C (120F) overnight, according to one chain affected. The attack targeted software provided by the Danish engineering firm Danfoss.\n\nThe chief executive of Cooperative U called the attack \"extremely serious and unprecedented.\" More than 100 of its stores were targeted. Another 180 stores from Intermarche and its Netto brand were affected, and about 100 more were disconnected from the internet as a precaution. Carrefour said 80 of its 6,000 stores were hit, and Monoprix said 5% of its more than 400 stores were affected. E.Leclerc was also hit. Overall, figures from individual chains suggest about 400 of roughly 15,000 French stores were affected, though the full scale is unclear.\n\nIntermarche said its units heated to 50C for six hours overnight and that it discarded all affected food to avoid health risks. Managers arriving Monday were met by a wave of hot air from freezers, and some places saw small fires. Some display units were still out of service Monday afternoon as staff worked to restock shelves.\n\nDanfoss said the affected units were older models whose security software could not be updated against a risk the company had identified, and that it had long advised customers to keep supported systems up to date. It has not confirmed how hot the units became. No group has been named as responsible, and the attack raises questions about the security of remotely managed industrial systems in critical supply chains.",
       "source": "BBC News",
