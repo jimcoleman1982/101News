@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, October 14, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Watchdog group sues to bar Jared Kushner from serving as Trump envoy",
+      "summary": "A left-leaning watchdog group filed a lawsuit on Wednesday challenging the ability of Jared Kushner, President Donald Trump's son-in-law, to serve in a top diplomatic role. Kushner is married to Trump's oldest daughter and has helped lead diplomatic negotiations on Iran, Ukraine and Gaza, working alongside senior officials such as Secretary of State Marco Rubio and envoy Steve Witkoff.\n\nKushner remains a private citizen and performs his diplomatic duties on a volunteer basis, according to reporting on the case. That status is central to the dispute, since the suit questions whether someone without a formal government appointment or Senate confirmation can carry out functions of this kind and be subject to federal ethics and transparency rules.\n\nCritics, including the group bringing the suit, argue that the arrangement skirts rules on conflicts of interest, nepotism and public accountability for officials handling sensitive negotiations. Supporters of the administration have generally defended the president's latitude to choose trusted informal envoys and note that such volunteer arrangements have precedent, though the Washington Examiner and other right-leaning outlets emphasized the plaintiff's partisan leanings.\n\nThe case arrives as Kushner is involved in several of the administration's highest-profile diplomatic efforts, including attempts to end the war involving Iran. A court ruling could affect how the White House structures its use of outside negotiators. The White House has not yet been reported to have responded in detail, and the litigation is expected to proceed in federal court.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4766687/watchdog-jared-kushner-lawsuit-trump-envoy/",
+      "sourceCount": 15,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-14T21:08:11.127413-06:00",
+      "slot": 21
+    },
+    {
+      "category": "technology",
+      "headline": "Eight states sue OpenAI, alleging it misled users on ChatGPT safety",
+      "summary": "A bipartisan coalition of eight state attorneys general filed lawsuits on Wednesday against OpenAI, the maker of ChatGPT, accusing the company of illegally misleading users about the safety of its chatbot. The states allege OpenAI pushed ahead with developing and releasing its AI products despite knowing they required safety guardrails.\n\nAmong the claims is that the chatbot coached children to harm themselves and others. The suits argue that the company's public assurances about safety did not match its internal knowledge, framing the matter as a consumer protection issue under state law.\n\nThe bipartisan makeup of the group underscores that concern over AI and child safety cuts across party lines, even as the federal government has struggled to pass comprehensive AI regulation. Advocates such as Tristan Harris of the Center for Humane Technology have argued that stronger guardrails are needed, while AI companies have generally said they invest heavily in safety and continue to improve protections.\n\nThe lawsuits come as OpenAI and its rivals face growing scrutiny, and as the industry prepares for major public offerings. The cases could produce discovery into the company's internal safety decisions and may influence how other states and regulators approach AI chatbots. OpenAI's formal response to the filings is expected in court.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/6149365-states-sue-openai-safety/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-14T21:08:11.127413-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "ICE rejects GAO recommendation for automatic body-camera activation",
+      "summary": "Immigration and Customs Enforcement is rejecting a Government Accountability Office recommendation to adopt technology that automatically activates body cameras when agents draw weapons. The GAO also urged safeguards to ensure agents record arrests, searches and detentions when required by policy.\n\nThe watchdog warned that ICE risks losing crucial evidence about what happened during use-of-force incidents. It cited growing distrust over agent accountability following multiple fatal ICE shootings. The report examined both Customs and Border Protection and ICE body camera practices and found shortcomings in how footage is captured.\n\nCivil liberties advocates and many Democrats have pushed for stronger recording requirements as a basis for transparency and public trust. The agency's rejection of the recommendations reflects the administration's broader posture on immigration enforcement, where supporters argue agents face operational and safety constraints and that existing policies are adequate.\n\nThe decision leaves open whether Congress will attempt to mandate automatic activation through legislation or appropriations. The dispute adds to ongoing debate over oversight of immigration enforcement ahead of the November midterm elections.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/14/ice-body-cam-automatic-gao-report",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-14T21:08:11.127413-06:00",
+      "slot": 21
+    },
+    {
       "category": "world",
       "headline": "Hundreds of Thousands of Public Workers Strike Across Republic of Ireland",
       "summary": "More than 300,000 workers, including nurses, doctors, teachers and civil servants, walked out on Wednesday in a 24-hour strike across the Republic of Ireland. The action is part of an ongoing pay dispute between public sector workers and the Irish government, and a further strike is planned for 21 October. Schools are expected to close, hospital appointments are being cancelled and picket lines are forming nationwide.\n\nThe strike escalates earlier measures. At the end of September, more than 100,000 workers, including nurses, school staff and civil servants, moved to work-to-rule action, and at the start of October primary and secondary school teachers did the same. Almost 97 percent of members of Fórsa, the Republic's largest public service union, who voted in an industrial ballot backed action.\n\nUnion leaders say the government has failed to engage. Brendan O'Brien of SIPTU said the government's failure to establish a basis for formal talks left members with no alternative but to act collectively, and Linda Kelly, general secretary of the Association of Secondary Teachers Ireland, accused ministers of a laissez-faire approach. Teachers also cited housing costs and pay that no longer stretches as far as it once did.\n\nExpenditure Minister Jack Chambers called the action deeply disappointing and warned of significant disruption to the economy, with thousands of hospital appointments cancelled and schools closed. With a second strike day set for next week and no formal talks established, the dispute shows no sign of immediate resolution.",
