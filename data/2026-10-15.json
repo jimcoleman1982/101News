@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-15",
+  "dateFormatted": "Thursday, October 15, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Supreme Court Agrees to Hear Trump Administration's Bid to Shield DOGE Records From Disclosure",
+      "summary": "The Supreme Court has agreed to take up an appeal from the Trump administration seeking to prevent the disclosure of information about the inner workings of the Department of Government Efficiency, the agency used to downsize the federal government. The case stems from a legal fight with a government watchdog group that sought records about how the agency operated.\n\nThe administration argues that the records should be shielded from disclosure, while the watchdog group contends that the public is entitled to information about an entity that made far-reaching changes to the federal workforce and programs. Lower courts had previously sided with the group in ordering some level of disclosure, prompting the administration's appeal to the justices.\n\nThe decision to hear the case places a major question about executive branch transparency before the high court. Supporters of the administration say the agency's internal deliberations deserve protection, and critics say the government should not be able to avoid public records obligations for a body that wielded significant authority. The outcome could shape how open-records laws apply to temporary or unconventional White House initiatives.\n\nThe court's move comes as the nation heads into the midterm elections, with the administration's use of executive power already a frequent subject of litigation. Arguments are expected to be scheduled in the coming months, with a ruling likely before the end of the court's term.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/supreme-court-hear-trump-fight-with-watchdog-group-over-doge-2026-10-13/",
+      "sourceCount": 21,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:06 AM MT",
+      "addedAtISO": "2026-10-15T03:06:28.264325-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "School Roof Collapse in Pakistan's Peshawar Kills at Least 29, Mostly Children",
+      "summary": "The roof of a private school collapsed in Peshawar, in northwestern Pakistan, on Thursday, killing at least 28 children and a female teacher, according to the latest reports. More than 50 other people were injured. Early accounts from an emergency services official had put the toll lower, at 10 children, and the figure rose as rescuers reached more victims.\n\nThe building was the Al-Khair Education Centre, a private school in the city. Rescue teams worked through the rubble to search for survivors, and the country's prime minister urged rescuers to speed up their efforts.\n\nThe cause of the collapse has not been established. Such incidents in Pakistan have often prompted questions about building safety standards and the oversight of private schools, and officials are expected to open an inquiry. The casualty count may continue to change as the search continues and the injured receive treatment at local hospitals.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "3:06 AM MT",
+      "addedAtISO": "2026-10-15T03:06:28.264325-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "Pope Leo XIV Recovering After Surgery Confirms Lung Cancer Diagnosis",
+      "summary": "Pope Leo XIV is eating and walking as he recovers from surgery that confirmed he has lung cancer, the Vatican said. The 71-year-old American pontiff underwent a 90-minute procedure on Tuesday to remove a nodular lesion from his right lung, and the Vatican described the operation as successful.\n\nThere has been no word on whether Leo will be able to keep a planned trip to South America next month. Peru's president said the visit might be in jeopardy as the pope recovers. Catholics across the region responded with prayers and expressions of support, along with concern about whether the first American pope could undertake such a physically demanding journey.\n\nThe Vatican has said its bureaucracy is built to function smoothly even when the pope cannot. Further details on his treatment and recovery timeline are expected, along with a decision on his travel plans.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/vatican-pope-leo-surgery-lung-cancer-08a4aca4e5a6002a1cb9a4ca1ba372cc",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:06 AM MT",
+      "addedAtISO": "2026-10-15T03:06:28.264325-06:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "Asian Tech Stocks Plunge as Anthropic Reports Revenue Surge Ahead of Planned Listing",
+      "summary": "Technology shares fell sharply across Asia on Thursday amid concerns over AI infrastructure spending and hotter-than-expected US inflation. South Korea's Kospi and Kosdaq were temporarily halted after falling more than 8%, Japan's Nikkei 225 lost close to 5%, Samsung dropped 9.5%, SK Hynix fell 11% and SoftBank slid more than 9%. In the US, chipmakers including AMD, Nvidia and Intel fell sharply on Wednesday.\n\nThe selloff followed remarks by Broadcom chief executive Hock Tan, who said many investors have \"no clue\" and have set extreme expectations, likening it to a casino. Declines deepened after US inflation rose to 3.7% in September, raising fears the Federal Reserve will raise rates further.\n\nAgainst that backdrop, Anthropic told prospective investors that revenue rose 45% to $16.8 billion in the three months to September, the BBC understands. The company reportedly said it was profitable for a second straight quarter and is laying groundwork for a stock market listing expected before the end of the year. Anthropic declined to comment.\n\nRival OpenAI has said it will not go public this year. Anthropic's figures offer a gauge of whether the AI industry can finance the infrastructure it requires.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:06 AM MT",
+      "addedAtISO": "2026-10-15T03:06:28.264325-06:00",
+      "slot": 5
+    }
+  ]
+}
