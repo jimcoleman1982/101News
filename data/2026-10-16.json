@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Washington Weighs MOAB Against Iran's Underground Nuclear Sites as Tehran Vows to Expel US Forces",
+      "summary": "The United States is considering deploying the Massive Ordnance Penetrator-class and MOAB-type munitions against Iran's underground nuclear facilities, according to Fox News Digital's live coverage of the Iran war. The report was carried by roughly 25 outlets across the political spectrum. The prospect of using such heavy ordnance marks a possible new phase in the conflict.\n\nIranian Army spokesperson Mohammad Akraminia said Friday that \"if America leaves the region, the Strait of Hormuz will reopen and collective security will be established with the participation of the region's countries, and the global economy will improve.\" He added: \"If it doesn't leave, we'll expel it.\" Iran's Mehr News Agency quoted him as saying Iran's air defense capabilities \"far surpass pre-war and wartime levels,\" a claim that contradicts President Trump's assertions.\n\nAt a midterm campaign rally in Montana on Wednesday, Trump said Iran is no longer \"the bully of the Middle East.\" He said Iran has no navy or air force, that its army is \"decimated\" and that its leaders are gone. He also said, \"I should have probably left the leaders because I don't know who we're negotiating with.\" Supporters of the administration point to the military results as evidence of strength, while critics have questioned the absence of a clear negotiating counterpart and the strain on shipping and oil markets.\n\nThe Strait of Hormuz remains a central flashpoint, with ship attacks near the waterway recently reaching weekly records and oil exports slowing. Any move to strike hardened underground sites would carry significant escalation risks for Gulf energy infrastructure and global prices.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/iran-war-trump-strait-hormuz-oil-prices-midterms-october-16",
+      "sourceCount": 25,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:47 PM MT",
+      "addedAtISO": "2026-10-16T16:47:51.961034-06:00",
+      "slot": 18
+    },
+    {
+      "category": "technology",
+      "headline": "China Proposes Restricting or Banning Exports of 40 Technologies, Including AI Models and Chip Designs",
+      "summary": "China on Friday said it plans to restrict or ban exports of 40 technologies spanning artificial intelligence, chips and solar power. The Ministry of Commerce and the Ministry of Science and Technology jointly published a draft update to the country's catalog of technologies subject to export bans or restrictions. A commerce ministry spokesperson called the move \"necessary\" and cited national security.\n\nTwenty-three AI technologies are on the list, from advanced large models to agents. Exports of core technologies for AI models trained on sensitive national data would be prohibited, as would AI agents designed for sensitive environments such as national defense and critical information infrastructure. Models with 2 trillion or more parameters, or with certain world-leading capabilities, could be restricted. Chinese models such as Moonshot's Kimi K3 and Alibaba's Qwen 3.8-Max exceed that threshold, though none were named.\n\nThe list also covers some AI processing and memory chip design technologies, 12 solar-related technologies including polysilicon production, and five biomedicine technologies such as cell and gene therapy. The ministry said the aim is \"reinforcing the security bottom line, preventing misuse and abuse, and ensuring that AI remains under human control.\"\n\nThe proposal comes as the US and China have made progress on AI safety dialogue and a notification mechanism for AI incidents that could threaten national security. Omdia analyst Lian Jye Su said the step can be seen as a response to Western sovereignty requirements on key technologies. US-led controls have already blocked China from the most advanced AI chips and chipmaking machines.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:47 PM MT",
+      "addedAtISO": "2026-10-16T16:47:51.961034-06:00",
+      "slot": 18
+    },
+    {
+      "category": "business",
+      "headline": "Tech Selloff Deepens as Chipmaker Rout Extends to Eighth Straight Day",
+      "summary": "Another burst of selling in technology companies rattled Wall Street on Friday, dragging down stocks as investors questioned the outlook for the artificial-intelligence trade. A rout in chipmakers extended into an eighth straight day. Worries centered on whether the buildout of AI infrastructure has outrun the ability of firms to earn a return on their investments.\n\nCoreWeave bonds dropped sharply, adding to the jitters. Oil prices and Treasury yields also pressured markets, according to Bloomberg's closing coverage, reflecting the Iran conflict and recent inflation data showing consumer prices at 3.7% in September.\n\nSome analysts argued the selloff reflects a repricing of excess hype rather than a loss of demand. Anita Verma-Lallian of Arizona Land Consulting said sites with land, power, zoning and infrastructure are drawing more demand than ever, describing AI infrastructure as facing a delivery constraint rather than a demand problem.\n\nThe decline follows Asian tech stock losses earlier this week tied to Anthropic's reported revenue surge ahead of its planned listing, and comes as the Federal Reserve weighs another rate increase. Fed Chair Kevin Warsh said Friday that the world has \"broadly conformed\" to the central bank's expectations since September's hike and that he would not prejudge decisions at the October and December meetings.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-16/the-close-10-16-2026-video",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:47 PM MT",
+      "addedAtISO": "2026-10-16T16:47:51.961034-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
       "headline": "Update: Ukraine Says Operation Vivaldi Has Retaken 277 Square Kilometers in Donbas as Starlink Restrictions Hamper Forces",
       "summary": "Ukraine's counter-offensive, code-named Operation Vivaldi, has liberated 277 square kilometers (106 square miles) in the eastern Donbas region over recent months, according to Ukrainian commanders speaking to the BBC. The operation blunted a Russian pincer movement that threatened to encircle the Ukrainian-held Fortress Belt cities. Kyiv says it inflicted 8,000 Russian casualties in Vivaldi alone, and close to 50,000 along the front in September, while suffering few losses itself.\n\nThe Institute for the Study of War reported that pro-Russian military bloggers acknowledged the Ukrainian advances and voiced fears of further losses. No Russian official has publicly acknowledged the gains. Russian Defense Ministry briefings say only that forces are \"repelling attacks\" near Lyman or \"improving the tactical position at the front.\" The Ukrainian claims on casualties and territory have not been independently verified.\n\nThe advance has come even as Russia pummels Ukraine from the air this month, crippling energy infrastructure and killing scores of civilians. At the front, Russian drones remain ever-present; one unit commander said his men face about 10 on an average day. Ukrainian forces rely on layered drone systems, including net-dropping interceptors, with live video feeds sent to command bunkers.\n\nStarshield, the military version of Elon Musk's Starlink network, is integrated throughout these operations. Ukraine said this week, as Vivaldi concluded, that restrictions were imposed on the system without warning, limiting its capability. Musk and media reports suggest the order may have come from the White House. Ukraine is not wholly reliant on Starshield, but it is vital for interceptor and mid-range strike drones, and the episode has raised concerns about depending on a tool that can be restricted at short notice.",
       "source": "BBC News",
