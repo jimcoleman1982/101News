@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-17",
+  "dateFormatted": "Saturday, October 17, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Houthis Strike Aden Airport and Saudi Aramco Complex as Iran War Widens",
+      "summary": "Yemen's Houthi rebels struck the main airport in the interim capital of Aden on Friday, while missiles and drones fired toward Saudi Arabia were intercepted, Bloomberg reported. The attack followed ballistic missile strikes on al-Maashiq Palace, after which Yemen's information minister said the prime minister and other ministers were unhurt. The Saudi energy ministry said a Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.\n\nThe fighting is also reaching beyond Yemen's borders. A dozen people were killed Saturday in what Saudi aviation authorities called a \"brutal\" attack at King Khalid International Airport in Riyadh. The Houthi missile strikes also threaten key supply routes on Yemen's Red Sea coast, intensifying pressure on government forces. BBC security correspondent Frank Gardner said the Iran-backed group's precision strikes and guerrilla tactics have made it hard for Saudi forces to gain the upper hand.\n\nThe escalation is tied to the wider war with Iran. Data from a monitoring agency shows attacks around the Strait of Hormuz at a record high, with two more vessels reporting attacks Friday, and all 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was struck by a projectile. Adm. Brad Cooper, the US Central Command commander, said Friday that the US naval blockade has cost Iran $25 billion in crude oil revenue. Experts say US military assistance and shuttle tankers and pipelines bypassing Hormuz have helped Gulf exports rebound. Analysts expect continued strikes on Saudi infrastructure, and no sign of de-escalation has emerged.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-17/houthis-hit-yemen-airport-as-saudi-arabia-intercepts-attacks",
+      "sourceCount": 25,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-10-17T05:08:06.468131-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Trump Denies Restricting Ukraine's Starlink Access as Reuters Cites White House Order",
+      "summary": "President Donald Trump denied that he or Elon Musk limited Ukraine's access to Starshield, the military-grade counterpart to Starlink. \"It wasn't me and I don't think it was Elon,\" he said, adding that he was \"not sure\" the network \"ever came down.\" Ukrainian President Volodymyr Zelensky said earlier that normal speeds had not been restored.\n\nReuters reported Thursday, citing two unnamed US officials and a Western official, that the order came from inside the White House. Musk suggested the US government manages Starshield and that the Pentagon could have been responsible. On Tuesday night, speeds were reportedly capped at 100 mph, cutting off connectivity to faster weapons, and Ukraine was hit by several deadly strikes that left about 600,000 people without power.\n\nThe dispute follows tension over a US-Russia diesel deal and Zelensky's resumption of strikes on Russian refineries, which Trump criticized. Washington had earlier warned it could withhold intelligence if the strikes continued. Trump said he has a good relationship with Zelensky, though he had earlier called him \"more difficult to deal with\" than Vladimir Putin. Zelensky told EU leaders on Friday, \"If I don't stand up to this... who else will?\" while French President Emmanuel Macron pledged that EU states would not abandon Ukraine. A bipartisan group of senators has demanded an investigation into the disruption, which they said degraded Ukraine's defensive operations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckz65g34wyd8o",
+      "sourceCount": 12,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-10-17T05:08:06.468131-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Midterm Fight Intensifies as Democrats Lead Polls and Fundraising, Justice Department Warns California Officials",
+      "summary": "Less than three weeks before the Nov. 3 midterms, a national Times/Siena poll showed Democrats leading the congressional ballot by nearly nine percentage points. Democratic Senate candidates in more than a dozen competitive races raised a combined $253 million from July through September, more than four times the $56 million raised by Republicans in those races. Alaska is emerging as a pivotal contest, where Republican Sen. Dan Sullivan and Democrat Mary Peltola clashed in a debate over fuel costs tied to the war with Iran and allegations about Peltola's treatment of staff.\n\nThe Justice Department escalated its fight with California, warning in a letter that local officials who knowingly tabulate ballots cast by noncitizens could face criminal investigation and prosecution. Voting rights advocates fear the administration could use federal power to cast doubt on the election's results. Administration supporters say the actions are needed to enforce voter-roll requirements and keep noncitizens from voting.\n\nRepublicans face a difficult environment. Trump's approval stands near 37 percent, according to Silver Bulletin, and some conservatives are blaming Senate Majority Leader John Thune for failing to pass the SAVE America Act. Democrats are working to tie GOP opponents to Trump's economic policies and the Iran war. The House majority is thin, with Republicans holding 218 seats, and Cook rates 21 districts as toss-ups. Suspicious letters have also been sent to election offices and congressional offices, which federal investigators are examining.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/midterms-house-senate-key-races.html",
+      "sourceCount": 13,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-10-17T05:08:06.468131-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: More Lawmakers Report Suspicious Mailings as Federal Investigators Probe Letters",
+      "summary": "Several lawmakers said Friday that their offices across the country had received suspicious mailings. The reports follow earlier ones this week of letters containing unknown substances sent to US election offices. Among those affected are Sens. Amy Klobuchar, Tina Smith, Mike Rounds, Pete Ricketts and Ted Cruz, along with more than 15 House members.\n\nFederal investigators said they are looking into the letters containing unknown substances mailed to state election officials and congressional offices. The incidents span both parties and several states. The substances have not been publicly identified in the reports provided.\n\nThe mailings come weeks before the Nov. 3 midterm elections, adding security concerns for election administrators already dealing with legal disputes and heightened tension over ballot counting. Further details on the investigation's findings are expected.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/house/6155515-lawmakers-report-suspicious-mailings/",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-10-17T05:08:06.468131-06:00",
+      "slot": 5
+    }
+  ]
+}
