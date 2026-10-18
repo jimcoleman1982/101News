@@ -3,6 +3,48 @@
   "dateFormatted": "Saturday, October 17, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "France Protests Turn Violent as Over 1,000 Arrested, Buildings Set Ablaze",
+      "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against hardship in schools and the cost of living. At least 1,200 people were arrested during what the government described as an \"escalation in violence,\" while an estimated 550,000 people took to the streets. Prime Minister Sébastien Lecornu said 150 police officers were injured.\n\nIn Paris, the main march was largely peaceful in the afternoon, but clashes with riot police continued into the evening. Police used tear gas and water cannon, and groups lit fires and torched vehicles at locations including the Place de la République. Shops were ransacked and at least one restaurant was gutted by fire. In Lyon, the city's historic tourist office was burned, and Mayor Grégory Doucet called it \"a tragedy.\" A fire at the Limoges town hall partly collapsed its roof, and local authorities said hostile individuals prevented firefighters from tackling the Lyon blaze safely.\n\nThe interior ministry blamed \"targeted acts of violence\" by \"hooded individuals\" in Paris, Marseille, Rennes, Toulouse and Angers. Looting was reported in several cities, including the break-in of an Apple store in Lille. In Saint-Étienne, a young man had his hand blown off by a grenade, according to the mayor. BBC Verify authenticated footage of masked men driving a tourist train toward riot police in Grenoble.\n\nThe unrest follows weeks of student protests over staff shortages and dilapidated facilities in the country's lycées. On Saturday, students were joined by trade unionists and other groups, including the gilets jaunes movement, which protested cost-of-living increases for more than a year in earlier years. The scale of the violence raises pressure on Lecornu's government over how to respond to both the disorder and the underlying grievances.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c6d937wedj7jo",
+      "sourceCount": 16,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "9:07 PM MT",
+      "addedAtISO": "2026-10-17T21:07:57.742624-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Hurricane Trudy Strengthens to Category 2 Near Mexico; Super Typhoon Champi Nears Guam",
+      "summary": "Hurricane Trudy strengthened to a Category 2 storm on Saturday as it moved toward Mexico's west-central Pacific coast, with maximum sustained winds of 100 mph. A hurricane warning was in effect from Manzanillo in Colima state to Cabo Corrientes in Jalisco. Forecasters expect up to 8 inches of rain, with isolated totals of 15 inches, and the storm's eye was projected to approach the coast before passing by on Sunday.\n\nMexico's navy urged mariners and coastal residents to use extreme caution because of high waves, flash flooding and mudslide risks. Colima authorities said the immediate danger remained low but warned that heavy rain could cause serious damage on ground already saturated by earlier tropical storms. A tropical storm warning was issued for Las Islas Marias.\n\nIn the western Pacific, Champi became a Category 4 super typhoon with 150 mph winds, positioned about 40 miles west-southwest of Guam on Saturday afternoon. It is expected to pass south of Guam early Sunday while continuing to strengthen. Guam and Rota are under a typhoon warning, while Saipan and Tinian face a tropical storm warning and typhoon watch.\n\nThe governors of Guam and the Northern Mariana Islands requested federal emergency disaster declarations on Friday, which would require approval from President Trump to unlock federal funding. Airports and critical medical facilities have closed. FEMA officials said relief supplies may take three to five days to arrive, and the territories are still recovering from Super Typhoons Sinlaku and Bavi, which struck in April and July.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/17/world-news/hurricane-trudy-strengthens-to-category-2-moves-toward-west-central-mexican-pacific-coast/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:07 PM MT",
+      "addedAtISO": "2026-10-17T21:07:57.742624-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Brazil Reports Record Fall in Amazon Deforestation Ahead of Presidential Run-Off",
+      "summary": "Brazil's government says deforestation in the Amazon and Cerrado savanna regions has fallen to record lows, days before a presidential run-off in which the rainforest's future is a central issue. Satellite data shows the Amazon deforestation rate fell 41.8% in the year to July 2026, the biggest drop since records began in 1988. The Cerrado fell 23.8%.\n\nPresident Luiz Inácio Lula da Silva, who pledged to end deforestation by 2030, faces Flávio Bolsonaro, son of former president Jair Bolsonaro, in the October 25 run-off. Polls suggest a neck-and-neck race. Lula said on X that the goal is zero illegal deforestation by 2030. Environment Minister João Paulo Capobianco called the decline \"absolutely stratospheric.\"\n\nDeforestation surged under Jair Bolsonaro, who promoted mining on indigenous lands and cut resources for forest protection. During his term the Amazon lost nearly 60% more forest than in the previous four years, according to AFP citing official data. Lula tightened environmental monitoring and penalties for illegal logging. Flávio Bolsonaro is expected to continue his father's policies, though he has pledged to fight organized crime in the Amazon.\n\nMarcio Astrini of the climate group Observatório do Clima called the result a \"historic achievement\" showing that political will can curb deforestation and emissions. Brazil holds 60% of the Amazon, which absorbs large amounts of carbon dioxide and is critical to global climate efforts.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:07 PM MT",
+      "addedAtISO": "2026-10-17T21:07:57.742624-06:00",
+      "slot": 21
+    },
+    {
       "category": "politics",
       "headline": "Update: Alaska Senate Race Emerges as Key Battleground After Heated Debate",
       "summary": "Alaska could play a pivotal role in Democrats' effort to reclaim Senate control, following a heated debate between Republican incumbent Sen. Dan Sullivan and Democratic challenger Mary Peltola, a former congresswoman. Sullivan faced questions about rising fuel costs tied to the war with Iran. He said the Strait of Hormuz must be opened and Iran kept from obtaining a nuclear weapon, but that the war \"needs to end soon\" because energy costs are too high.\n\nPeltola pushed back on allegations from former staff members that she subjected them to angry outbursts and derogatory language. She said the election is not about \"me on my worst day\" and called some of the allegations concerning and outright fabrications.\n\nLori Townsend of Alaska Public Media told PBS NewsHour that residents of remote communities are feeling energy prices acutely. Gas in Bethel runs between $7.29 and $7.66 a gallon, $9.40 in Napaskiak and about $26 in Ambler, while a loaf of bread tops $9 in Kwethluk. Diesel drives up costs for home heating, power generation and food shipping, and Alaska's fishing and Canada-trade economy is also pressed by tariff costs.\n\nThe race is one of several close contests on which control of the chamber hangs ahead of the November midterms, with candidates across the country clashing in final debates.",
