@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Update: Trump Approval Falls to Record Low of 33 Percent, Giving Democrats Midterm Edge",
+      "summary": "President Donald Trump's job approval has fallen to 33 percent, the lowest of his presidency, with 66 percent disapproving and just over half saying they disapprove strongly, according to a poll reported by The Washington Post. The survey also shows rising support for Democrats in the generic midterm ballot, roughly two weeks before the November 3 elections.\n\nThe findings come as Democrats have posted record fundraising totals and as the electoral battlefield has widened into states that usually favor Republicans, including Texas, Kansas and South Carolina. Analysts on Bloomberg said Trump's weak ratings give Democrats several paths to Senate control. Democrats are also counting on Latino-heavy House districts in Arizona, Colorado and Texas, where they hope disaffected Trump voters will swing back.\n\nThe White House has faced turmoil in recent days, including the ouster of press secretary Katie Zacharia after five days and reports that chief of staff Susie Wiles may have lost the president's confidence. Former chief of staff Mick Mulvaney said he expects Wiles to leave after the midterms on her own terms. Some Republican candidates are avoiding mention of Trump in their ads, and a number have declined to appear with him at events.\n\nTrump and his allies have argued that Republicans can hold their ground by emphasizing immigration enforcement and the administration's handling of the Iran war. Democrats say voters are reacting to high costs, including gas prices that have risen during the conflict. Polls are snapshots, and turnout will determine how far the shift translates into seats.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/10/18/trump-approval-hits-record-low-handing-democrats-clear-midterm-edge/",
+      "sourceCount": 18,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:24 PM MT",
+      "addedAtISO": "2026-10-18T16:24:08.560460-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Top Aides Give Conflicting Defenses of Russia Diesel Deal as Republicans Join Criticism",
+      "summary": "Trump administration officials offered sharply different explanations on Sunday talk shows for the president's decision to waive new sanctions on Russia and tariffs on top buyers of Russian energy, while also striking a diesel export deal with Moscow. Treasury Secretary Scott Bessent said the waivers did not amount to sanctions relief, and Energy Secretary Chris Wright defended the move on ABC's \"This Week.\" Wright also faced questions on CNN about earlier predictions that gas prices would fall quickly, as the Iran war enters its eighth month.\n\nCriticism came from both parties. Sen. Kevin Cramer, a North Dakota Republican, said on CBS that \"capitulating to a bully generally means they're going to make more demands going forward.\" Rep. Mike Turner of Ohio called for a congressional investigation into Starlink disruptions in Ukraine, and former Vice President Mike Pence urged Trump to restore the sanctions. Democrats have called the move a gift to Putin, and a bipartisan effort to overturn the diesel deal is expected when Congress returns after the election.\n\nTrump said he acted so as not to drive Putin away from peace talks and to ease fuel prices in the United States. He also criticized Ukraine's strikes on Russian refineries and said he finds Ukrainian President Volodymyr Zelensky harder to deal with than Putin. Zelensky told NBC's \"Meet the Press\" that Ukraine trusts America and hopes Trump will \"change his decisions,\" and that backing Putin would be a \"historic mistake.\"\n\nZelensky later said he held a roughly 40-minute call with Trump envoys Steve Witkoff and Jared Kushner, the first senior contact since tensions spiked, and that new rounds of peace talks could be arranged as early as this week. The UK government has signaled it disagrees with Washington's approach.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/2026/10/congress-must-investigate-trumps-aid-and-comfort-to-putin/",
+      "sourceCount": 19,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:24 PM MT",
+      "addedAtISO": "2026-10-18T16:24:08.560460-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Update: Alberta Prepares for Monday Vote on Starting Legal Path Toward Separation Referendum",
+      "summary": "Voters in Alberta, Canada's oil-producing province, will decide on Monday, October 19, whether to begin the legal process toward a future referendum on leaving Canada. The vote does not itself trigger separation. Premier Danielle Smith, who called the vote but supports staying in Canada, said support for starting the process, around 23 percent in a recent poll, is \"still too high for my liking.\"\n\nAlberta holds the world's fourth-largest proven oil reserves and has long feuded with Ottawa over energy and federal power, particularly under Liberal governments that imposed a carbon tax and other climate measures. Separatist parties historically drew only 1 to 2 percent of the vote, according to former Premier Jason Kenney. He told the Associated Press the movement grew from the 2022 Freedom Convoy and pandemic-era anger, and became more professional as it built organizations and raised money.\n\nIndependence leaders such as Jeff Rath say vaccine rules were their breaking point. Kenney also sees overlap between some activists and supporters of Russian President Vladimir Putin or conspiracy theories, a characterization separatists may dispute.\n\nPrime Minister Mark Carney has campaigned for national unity, including at a Forever Canadian rally in Edmonton, and has said the United States is trying to break Canada. The result will indicate how much appetite exists for separation and could shape Canada's politics and its relationship with Washington. This comes as Canada is also mourning four service members killed in a fire at CFB Wainwright in Alberta.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/how-alberta-separatism-went-from-fringe-cause-to-referendum",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:24 PM MT",
+      "addedAtISO": "2026-10-18T16:24:08.560460-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
       "headline": "Update: Trump Endorses Netanyahu Ahead of Oct. 27 Israeli Election, Warns Exit Could Deepen U.S. Role in Iran War",
       "summary": "President Trump on Sunday endorsed Israeli Prime Minister Benjamin Netanyahu for reelection ahead of the Oct. 27 Knesset elections. In a lengthy Truth Social post addressed to the Israeli people, he called Netanyahu a \"great warrior\" and urged voters to back Likud. He praised Netanyahu as a critical ally in the war against Iran.\n\nTrump also warned that Netanyahu's departure could leave the United States shouldering more of the conflict. The Iran war is now in its eighth month and has driven up oil and gasoline prices, a major issue for the administration ahead of U.S. midterm elections. Administration officials have faced questions on Sunday programs about whether earlier promises of lower gas prices have been kept.\n\nThe endorsement is a direct intervention in a foreign election during an active war involving U.S. forces. Supporters of the move see it as backing a close wartime partner, while critics are likely to question foreign interference and the risk of tying U.S. policy to one leader. The vote will determine the government guiding Israel's role in the war and the wider regional conflict, which has also drawn in Houthi forces and Gulf states.",
       "source": "Fox News Latest",
