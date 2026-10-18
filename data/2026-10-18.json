@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-18",
+  "dateFormatted": "Sunday, October 18, 2026",
+  "stories": [
+    {
+      "category": "other",
+      "headline": "Wildfires Burn Homes in Southern California as Santa Ana Winds Drive Norte Fire",
+      "summary": "A fast-moving wildfire fanned by strong Santa Ana winds burned at least six homes in Southern California on Friday. The Norte Fire ignited at midday in San Clemente, and fire officials warned that wind gusts were causing a \"dangerous rate of spread.\" About 6,000 homes were placed under evacuation orders, affecting roughly 16,000 residents in San Clemente and San Juan Capistrano.\n\nTwo firefighters were taken to the hospital with heat-related injuries. The Norte Fire is one of 13 fires burning across the state, and officials have not yet given a cause for it.\n\nThe fire is the latest test for California's emergency crews during a period of dangerous wind conditions. Evacuation orders remain in place, and officials are expected to provide updates on containment and damage assessments as winds persist.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/california-santa-ana-winds-fire-risk-9356828fc52bf1f1c76c9b0f7a2fa1a3",
+      "sourceCount": 14,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:07 AM MT",
+      "addedAtISO": "2026-10-18T05:07:47.345857-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Deadly Incident and Major Fire at Canadian Military Base in Alberta",
+      "summary": "Canada's defense minister said Saturday that people were killed and injured in an incident at CFB Wainwright in Alberta that caused a major fire. Defense Minister David McGuinty confirmed fatalities and injuries at one of the country's busiest military bases. Reports said large numbers of injured people were being transported to hospitals.\n\nOfficials have not given a cause or a death toll, citing the \"very active and delicate\" situation at the base. No details have been offered on how the fire began or whether it was accidental.\n\nThe incident comes as Canada is in a tense political moment, with Alberta having prepared for a vote on starting a legal process toward a separation referendum. Further information on casualties and the cause is expected as authorities investigate.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/california-santa-ana-winds-fire-risk-9356828fc52bf1f1c76c9b0f7a2fa1a3",
+      "sourceCount": 14,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:07 AM MT",
+      "addedAtISO": "2026-10-18T05:07:47.345857-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Paris Riots Leave Widespread Damage as About 1,800 Arrested Across France",
+      "summary": "France woke Sunday to scenes of widespread damage after a day of protests and riots. Police arrested about 1,800 people on Saturday as some 550,000 demonstrators took to the streets, in marches that were largely peaceful. They were protesting rising fuel prices, the cost of living and deteriorating public services, including schools.\n\nGroups of masked rioters set fire to cars and buildings and looted shops in Paris, Marseille and Lille. In Marseille, protesters broke into city hall using a metal fence as a battering ram, and in Lille a McDonald's was set on fire and an Apple store looted. France's interior ministry said more than 500 police officers, gendarmes and firefighters were injured, and the Retail and Trade Federation said about 1,500 shops were damaged.\n\nShopkeepers swept up glass outside luxury stores in Paris, where graffiti read \"tax the rich.\" One shop owner said he did not believe the looters were genuine protesters and criticized the absence of police. The arrest total and scale of damage far exceed earlier figures, and the government's response is expected in coming days.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:07 AM MT",
+      "addedAtISO": "2026-10-18T05:07:47.345857-06:00",
+      "slot": 5
+    },
+    {
+      "category": "other",
+      "headline": "Car Driven Through Youth Soccer Game in Wichita, Kansas, Kills Child and Adult",
+      "summary": "A vehicle drove through a soccer game at the Stryker Soccer Complex in Wichita, Kansas, on Saturday afternoon, killing a 6-year-old boy and a 35-year-old man. Multiple other people were injured, police said.\n\nThe driver is in custody, and two juveniles were in the vehicle, according to Wichita police spokesman Aaron Moses, who spoke at a news conference. Police have not publicly detailed a motive or the circumstances that led to the vehicle entering the field.\n\nInvestigators are expected to release further information about the driver, the condition of the injured and any charges as the inquiry continues.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/california-santa-ana-winds-fire-risk-9356828fc52bf1f1c76c9b0f7a2fa1a3",
+      "sourceCount": 14,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "5:07 AM MT",
+      "addedAtISO": "2026-10-18T05:07:47.345857-06:00",
+      "slot": 5
+    }
+  ]
+}
