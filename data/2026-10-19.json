@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-19",
+  "dateFormatted": "Monday, October 19, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Update: Mulvaney Predicts Wiles Will Leave After Midterms as White House Chief of Staff's Standing Questioned",
+      "summary": "Former White House chief of staff Mick Mulvaney said Sunday that he expects current chief of staff Susie Wiles to leave her post after the midterm elections, though on her own terms. His comments followed reports suggesting she may have lost President Trump's confidence. Mulvaney said Wiles is in a \"powerful place\" for now. Trump told NBC News in a phone call that she would remain in her role, pointing to the success of the first two years of his second term.\n\nThe remarks came amid a week of turmoil at the White House, including the ouster of press secretary Katie Zacharia after five days and a bipartisan backlash over Trump's waiver of Russia sanctions and a diesel deal with Moscow. Treasury Secretary Scott Bessent said on NBC's \"Meet the Press\" that the deal did not amount to sanctions relief, while former Vice President Mike Pence called for sanctions to be restored. Zelensky told NBC that Ukraine trusts America but hopes Trump will \"change his decisions.\"\n\nOther developments included Trump's announcement of a plan by architect Tom Fazio to rebuild East Potomac Golf Links, with work to begin Nov. 15 despite a judge's order pausing changes until at least Oct. 26. Reports also said Russian President Vladimir Putin proposed a summit with Trump and Xi Jinping next month on ending the Ukraine war. Former President Obama accused the administration of targeting Rep. Ilhan Omar, while administration officials have said investigators have a strong case.\n\nAn NBC News poll found the share of Americans who say the country is on the wrong track is the highest of Trump's second term. Democrats are campaigning on that mood ahead of the Nov. 3 midterms, while Republicans point to their fundraising advantage and warn that poll enthusiasm may not translate into turnout.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6156830-mulvaney-expects-wiles-departure/",
+      "sourceCount": 20,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:49 AM MT",
+      "addedAtISO": "2026-10-19T03:49:13.623412-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Grass Fire at Alberta Military Base Kills 4 Canadian Soldiers, Injures 39",
+      "summary": "A grass fire at a Canadian military training area in Alberta killed four service members and injured 39 others, 19 of them critically, officials said. The fire swept through the area while soldiers were training with live ammunition. Canada's defense minister confirmed the casualty figures.\n\nThe cause of the fire remains unknown. Prime Minister Mark Carney called it one of the worst peacetime tragedies in the history of the Canadian military.\n\nThe new development is the confirmed death toll and the number of critically injured. An investigation into the cause is expected, and the condition of the critically wounded will determine whether the toll rises.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/canada-alberta-military-base-fire-wainwright-1a41899da5b6e797b000061fa4da9c6a",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:49 AM MT",
+      "addedAtISO": "2026-10-19T03:49:13.623412-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: France Faces Political Fallout After Nationwide Riots as Macron Acknowledges Intelligence Failures",
+      "summary": "French President Emmanuel Macron acknowledged \"failures in anticipation and intelligence\" after weekend unrest, while ruling out the resignation of Interior Minister Laurent Nunez. Nunez conceded that police \"lost control\" during the protests. Around half a million people marched over poor school conditions and the cost of living, but the demonstrations were overshadowed by looting and arson that led to about 1,800 arrests nationwide.\n\nMacron blamed \"insurrectionist elements from radical far-left groups, joined by numerous criminals,\" and promised a \"hard line,\" saying those who looted would pay for the damage. In a televised address he also called for dialogue. The far left and far right have accused each other of stirring up the disorder, and the violence largely subsided on Sunday.\n\nThe unrest has raised alarm across Europe, where cost-of-living protests have also appeared in Italy, Belgium and Portugal and elections are due in at least half a dozen countries next year. Citi strategist Beata Manthey expects continued volatility in French equities until at least the summer because of political and fiscal uncertainty.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/article/france-student-protests-why.html",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:49 AM MT",
+      "addedAtISO": "2026-10-19T03:49:13.623412-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Middle East War Widens as Houthi Strikes Hit Saudi Targets and Yemen's Government Palace",
+      "summary": "The Iran-linked Houthis continued missile and drone attacks across the region. Yemen's information minister said ballistic missiles hit al-Maashiq Palace but that the prime minister and other ministers were unhurt. Saudi Arabia's energy ministry said a Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.\n\nBBC Verify analysis of data from a UK maritime agency found 12 vessels were struck in a week, and 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by a projectile. Other reporting said around 6,000 seafarers remain trapped near the Strait of Hormuz. Experts say US military assistance and pipelines bypassing the strait have helped Gulf exports rebound.\n\nElsewhere, the UN agency for Palestinians said the number of people it helps will fall by about a third, from 1.6 million to 1.1 million. The BBC also reported masked settlers attacking Palestinians harvesting olives in the West Bank; the Israeli military condemned the violence, while the prime minister's office called the reports part of a \"smear\" campaign.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:49 AM MT",
+      "addedAtISO": "2026-10-19T03:49:13.623412-06:00",
+      "slot": 5
+    }
+  ]
+}
