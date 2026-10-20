@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-20",
+  "dateFormatted": "Tuesday, October 20, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Albanian Protesters Clash With Police for Seventh Day in Bid to Oust Prime Minister Rama",
+      "summary": "Protesters in Albania fought with riot police on Monday for the seventh consecutive day. The demonstrators, many of them high school and university students, are demanding the resignation of Prime Minister Edi Rama. Their grievances include poor university conditions and anger over corruption. Official figures said 295 people had been injured before Monday's violence, 186 of them police officers.\n\nA police station and government buildings in Tirana have been attacked during the unrest. Rama, brandishing a rock thrown at police on Sunday, told police chiefs that \"the moment the state negotiates with this, the state has fallen.\" He said the protesters included young people \"radicalised by dark forces in Europe and the US\" and claimed Albania had become the target of a \"well co-ordinated attack.\"\n\nA BBC correspondent in Tirana's Rinia Park watched protesters pry up cobblestones to use as projectiles. Police advanced with an armoured truck firing water cannon and tear gas, and riot squads chased the largely student crowd through the park. Human rights lawyer Gentian Sejrani, who is providing legal support to more than 100 detainees, said police actions were often chaotic and that officers rarely present evidence in court. He said those who actually throw objects are seldom caught.\n\nThe movement has no formal leadership, and activists coordinate informally to arrange first aid, legal help and protest locations. Police, for their part, appear angered by the injuries to their colleagues. The standoff shows no sign of easing, and the government has so far rejected negotiation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:22 AM MT",
+      "addedAtISO": "2026-10-20T03:22:36.955714-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "Japanese Spacecraft Launches Toward Mars' Moon Phobos to Retrieve Sample",
+      "summary": "A Japanese-led spacecraft launched Tuesday on a mission to Phobos, one of Mars' two moons, where it will attempt to collect surface material and return it to Earth. If successful, it would be the first sample ever returned from Mars or its moons. The Mars Moons Exploration (MMX) mission is led by the Japanese space agency JAXA and is scheduled to arrive at Phobos in August 2027.\n\nThe spacecraft will first study the smaller moon Deimos as it approaches, then focus on Phobos, which is about 20 km across. It plans to deploy a small rover to scout a landing site, a difficult task because Phobos has very little gravity while sitting next to Mars' much stronger gravitational pull. The main craft will then touch down, use a robotic arm and two samplers to collect about 10 grams of dust, and send it back in a capsule landing in the Woomera desert of South Australia in 2031.\n\nScientists hope the sample will resolve how Mars' moons formed. One hypothesis holds that a space rock struck Mars early in its history and the moons formed from the debris. The other holds that they are asteroids from the outer Solar System captured by Mars' gravity. Sara Russell of the Natural History Museum said the two ideas would produce very distinct chemistry and mineral results, so the answer should be quickly apparent. Researchers say even a tiny sample can support extensive study of individual grains.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:22 AM MT",
+      "addedAtISO": "2026-10-20T03:22:36.955714-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Rep. Garcia Says ICE Officers Broke U.S. Citizen's Arm in Long Beach",
+      "summary": "Rep. Robert Garcia (D-Calif.) said Immigration and Customs Enforcement officers broke the arm of a U.S. citizen in North Long Beach over the weekend. \"ICE agents brutally attacked and broke the arm of a North Long Beach resident and U.S. citizen. The videos are horrific and should concern not just our community but the country,\" Garcia said.\n\nPolice in Long Beach said ICE called them for backup and that officers arriving at the scene found a man who was bleeding and handcuffed. The details of what led to the confrontation and the extent of the man's injuries were not fully laid out in the available reporting, and it was not clear whether DHS had responded to the allegation.\n\nThe episode adds to an ongoing national debate over immigration enforcement tactics. Democrats and immigrant advocacy groups have repeatedly criticized aggressive ICE operations and cited cases involving citizens. Supporters of the enforcement push, including the administration, generally argue that officers face resistance and that agents act within the law. Further information from DHS, Long Beach police and the man's representatives is expected.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/6159451-ice-broke-us-citizen-arm/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:22 AM MT",
+      "addedAtISO": "2026-10-20T03:22:36.955714-06:00",
+      "slot": 5
+    },
+    {
+      "category": "other",
+      "headline": "Air Force Sergeant Dies After Fall During Pregame Ceremony at Alamodome",
+      "summary": "A U.S. Air Force member died after falling while abseiling from the ceiling of San Antonio's Alamodome before a college football game on Saturday. Footage showed the serviceman plummet feet first to the turf at midfield during a ceremony ahead of the game between the University of Texas at San Antonio and the Naval Academy. The dome's ceiling is about 170 feet high.\n\nThe military identified him as Tech. Sgt. Ian Patterson, a Tactical Air Control Party instructor at Joint Base San Antonio and a member of the 57th Wing. He died in hospital. Patterson, of Fort Stewart, Georgia, had served 15 years and was named the Air Force Special Warfare Enlisted Instructor of the Year at the headquarters level in 2022.\n\nThe incident is under investigation. The game went ahead as planned, and the American Conference said the decision to continue was made before his death was confirmed. Brig. Gen. Scott Mills said the tragedy was \"felt deeply across the 57th Wing,\" and UTSA president Taylor Eighmy offered condolences to Patterson's family and fellow airmen.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "3:22 AM MT",
+      "addedAtISO": "2026-10-20T03:22:36.955714-06:00",
+      "slot": 5
+    }
+  ]
+}
