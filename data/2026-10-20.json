@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Sudan Army Drone Strikes Reportedly Kill More Than 300 at Funeral Convoy and Fuel Market",
+      "summary": "Drone strikes attributed to Sudan's army have reportedly killed more than 300 people in two areas of West Kordofan state and the disputed Abyei region, according to sources cited by the BBC. The Sudan War Observatory, which tracks the conflict, said 150 people died in strikes on Sunday evening, including a truck carrying about 200 mourners that was hit as it arrived in the town of Al-Dabab. A further 150 people were injured in those attacks, and a market in Al-Mujlad was also bombed, with casualty figures there not yet known.\n\nOn Monday, a drone strike on a market in Abyei killed 153 people, the region's information minister said. A military source told the BBC the army carried out the Abyei attack, describing the market as a fuel supply site for the paramilitary Rapid Support Forces (RSF). The army has not responded directly to the allegation over the other strikes but has said it does not attack civilians, even when it believes RSF fighters are among them.\n\nThe Abyei attack has raised tensions between Sudan and South Sudan, which jointly administer the oil-rich area and both claim ownership of it. South Sudan summoned Sudan's ambassador to lodge a formal protest, and there are fears the fighting could spill across the border.\n\nThe war between the army and the RSF, which erupted in 2023, has killed hundreds of thousands of people and displaced more than 14 million. UN spokesperson Stephane Dujarric said the organization is alarmed by continued deadly drone strikes, noting that 20 million people face acute hunger and that famine risk is rising in parts of Darfur and Greater Kordofan. Armed drones are increasingly the weapon of choice despite a partial arms embargo.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:06 PM MT",
+      "addedAtISO": "2026-10-20T13:06:00.933482-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Update: Houthi Strikes Kill Two Girls in Besieged Yemeni City of Taiz as UN Warns of 'Grave Risk'",
+      "summary": "Iran-backed Houthi rebels struck a residential area in Taiz, Yemen's third-largest city, on Tuesday, killing two teenage girls and wounding six people. UN human rights chief Volker Turk said the Houthis have largely encircled the city, cutting off most supply routes and placing civilians at grave risk. The UN says the siege has left many residents without food and other necessities as prices soar.\n\nThe attack followed a Houthi strike a day earlier on a government military camp that killed 73 recruits, which a senior Yemeni government official called the deadliest strike since the conflict resurged over the summer. Fighting escalated after government and Saudi-led coalition forces launched airstrikes on Houthi-held Sanaa International Airport in July, shattering a 2022 ceasefire. Yemen has become a widening front in the Iran war that began in February, and the Houthis have increasingly targeted Saudi Arabia, which backs the internationally recognized government.\n\nSaudi Arabia said it intercepted a ballistic missile fired by the Houthis on Tuesday, though the kingdom has struggled to defend against the group's missile and drone attacks despite its U.S.-supplied arms. Britain announced it would expand military support for Saudi Arabia to include defensive air patrols by Royal Air Force jets.\n\nTurk urged that humanitarian aid be allowed into Taiz immediately and that civilians wishing to leave be allowed to do so safely. He also called on both the Houthis and government forces to avoid using explosive weapons in populated areas. Yemeni government forces claimed they thwarted Houthi attacks in several areas, a claim the Associated Press could not verify.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/un-says-besieged-yemen-city-at-grave-risk-as-houthis-attack",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:06 PM MT",
+      "addedAtISO": "2026-10-20T13:06:00.933482-06:00",
+      "slot": 14
+    },
+    {
+      "category": "science_health",
+      "headline": "CDC Recognizes Third U.S. Measles Death as 2026 Cases Pass 4,400",
+      "summary": "The Centers for Disease Control and Prevention has added a third U.S. measles death to its national tracker, with total cases for 2026 now surpassing 4,400. The Department of Health and Human Services told Reuters the CDC updated its count after the National Center for Health Statistics received a report of a measles-related death.\n\nThe federal count still falls short of the number recorded by Pennsylvania, according to the report, indicating a discrepancy between state and national tallies. The new death was added to the federal tally as the country continues to record one of its largest measles outbreaks in decades.\n\nMeasles is a highly contagious viral disease that can cause severe complications, particularly in young children and unvaccinated people. Health officials have repeatedly stressed vaccination as the primary means of preventing its spread.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/6160524-cdc-confirms-third-measles-death/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:06 PM MT",
+      "addedAtISO": "2026-10-20T13:06:00.933482-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Update: Albertans Vote Decisively to Remain in Canada, Carney Says",
       "summary": "Albertans voted by an overwhelming majority to remain part of Canada in Monday's referendum, according to preliminary results. Final ballots were still being counted, but the remain side's lead was described as decisive. Prime Minister Mark Carney said Albertans had made a \"clear choice\" to stay in the country.\n\nThe vote followed days of coverage about whether the province would begin a legal path toward a separation referendum. The result is a major setback for Alberta's separatist movement. Analysts quoted in coverage said separatists might now try to challenge Premier Danielle Smith's leadership.\n\nIndependence was not the only question on the ballot. Albertans also voted on measures including the introduction of voter ID and restrictions on immigration, and those results were being watched closely as counting continued.\n\nThe outcome removes, for now, a significant threat to national unity in Canada. Attention turns to how the final tallies on the other ballot questions play out and how the separatist camp responds to its defeat. Coverage came from outlets across the spectrum, including BBC News, the Associated Press, Bloomberg, NPR, Al Jazeera and the New York Times.",
       "source": "BBC News",
