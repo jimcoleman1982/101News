@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, October 21, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Supreme Court Refuses to Let Trump Administration Restrict Medical Care for Transgender Federal Inmates",
+      "summary": "The Supreme Court on Wednesday rejected an emergency request from the Trump administration to enforce a Bureau of Prisons policy that would end hormone treatments and certain surgeries for transgender inmates. In an unsigned order, the justices declined to lift a lower court's block on the policy, leaving it in place while litigation continues. Reports described the vote as 7-2, with two conservative justices dissenting.\n\nThe Bureau of Prisons policy would have tapered treatment for inmates currently receiving it and stopped providing gender-affirming procedures going forward. The Justice Department argued that it should be allowed to enforce the new rules immediately. The ruling is a loss for the administration on the Court's emergency docket, where it has frequently prevailed.\n\nThe decision is procedural and does not settle the underlying legal questions, which will continue to be argued in the lower courts. Supporters of the policy say it reflects the administration's authority to set prison health standards and to limit taxpayer-funded gender transition care. Civil liberties and medical groups argue that denying established treatment to inmates violates constitutional protections against cruel and unusual punishment.\n\nThe ruling arrived as Justice Elena Kagan, speaking Tuesday, criticized recent conservative-majority decisions on redistricting and campaign finance as weakening American democracy, two weeks before the midterm elections. The administration is expected to continue defending the policy as the case proceeds.",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/tag/supreme-court",
+      "sourceCount": 21,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "11:06 AM MT",
+      "addedAtISO": "2026-10-21T11:06:38.217349-06:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Update: Putin Agrees in Principle to Resume Trilateral Ukraine Talks After Witkoff Meeting; Russia Frees American Teacher",
+      "summary": "Russian President Vladimir Putin told U.S. envoy Steve Witkoff in St. Petersburg on Wednesday that he agrees in principle to resume trilateral peace talks among Russia, Ukraine and the United States, the Kremlin said. Putin's foreign affairs adviser Yuri Ushakov said the talks could restart after November 10. Jared Kushner joined the meeting virtually.\n\nSeparately, Russia released Stephen Hubbard, a 74-year-old retired teacher from Michigan jailed for more than four years on accusations that he fought alongside Ukrainian forces, which his family has denied. President Trump praised the release and said the United States was not required to give anything in return. Critics noted that it came after Trump agreed to lift sanctions on Russian diesel sales, and one outlet observed that the only concession Putin appears to have made is agreeing to negotiate. Witkoff drew criticism, including from Republican Sen. John Cornyn, after calling Putin a humanitarian.\n\nThe meeting followed Oslo talks between Witkoff, Ukrainian President Volodymyr Zelensky and European officials, intended to ease tensions between Kyiv and Washington. In a Fox News interview Wednesday, Zelensky said he would accept freezing the front line to end the war, saying that is a realistic path. Ukraine and its allies say it is now up to Russia to respond to the proposals agreed in Oslo.\n\nThe Kremlin also said China has begun preparing for a possible first three-way summit of the Russian, U.S. and Chinese leaders next month. Supporters of the administration's approach say direct engagement is needed to end the war, while critics say it rewards Moscow without securing concessions.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/world/europe/ukraine",
+      "sourceCount": 17,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:06 AM MT",
+      "addedAtISO": "2026-10-21T11:06:38.217349-06:00",
+      "slot": 11
+    },
+    {
+      "category": "science_health",
+      "headline": "Toledo Chemical Tank Explosion Forces Evacuations Amid Fears of Another Blast",
+      "summary": "A chemical tank exploded in Toledo, Ohio, around 9:30 p.m. Tuesday, prompting officials to order everyone within a one-mile radius to evacuate and issue a shelter-in-place order for residents within three miles. More than 900 people live in the evacuation zone, and Mayor Wade Kapszukiewicz said they were believed to have left by Wednesday morning. A sheriff's deputy was injured responding and drove himself to a hospital.\n\nThe tank, operated by MC Tank Transport, contained glycidyl methacrylate, an industrial chemical used in plastics, paints and coatings. It is liquid in the tank but becomes a gas when released, and the tank can hold 5,500 gallons. The mayor warned that it could remain explosive for up to 12 hours after the incident, and responders are staying away from the tank because of the risk of further explosions.\n\nHealth officials said the chemical is highly toxic on contact or ingestion and can cause burning of the eyes, nose, mouth and skin, as well as headaches, dizziness, nausea and vomiting. Health Department director Karim Baroudi advised residents to close windows and shower if they feel irritation, while crews work to measure air toxicity. Fog hindered drone monitoring early Wednesday. The cause of the explosion is unknown, and officials said conditions would be reassessed later in the day.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/chemical-tank-explosion-in-ohio-of-glycidyl-methacrylate-forces-evacuations-prompts-fears-of-another-blast",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier2",
+      "addedAt": "11:06 AM MT",
+      "addedAtISO": "2026-10-21T11:06:38.217349-06:00",
+      "slot": 11
+    },
+    {
       "category": "world",
       "headline": "Update: Houthi Missile Strike on Yemeni Training Camp Kills 73 Security Recruits",
       "summary": "A Houthi ballistic missile strike on a security training camp in Yemen's central Shabwa province has killed 73 people, local authorities said Tuesday, making it the deadliest reported attack since the current escalation began. The Saudi-backed Yemeni armed forces said the Iran-backed group fired three ballistic missiles at al-Alam camp near Ataq city on Monday. The site, the Martyr Ahmed al-Sulaimani Training Centre, was being used to train recruits for the internal security forces and police.\n\nShabwa's media office initially reported 53 dead and 200 wounded, but said in a new statement that an investigative committee had raised the death toll to 73, with another 14 people missing. Hospitals were overwhelmed, and the most seriously wounded were moved to Hadramout and Aden, according to deputy governor Fahad al-Khalifi. Information Minister Moammar al-Eryani called the attack a war crime, arguing the facility was not a military target. Rashad al-Alimi, head of the Presidential Leadership Council, condemned a \"criminal attack\" and promised a \"firm response.\"\n\nThe Houthis' military spokesman said the group had targeted \"Saudi enemy concentrations.\" Yemen's civil war has flared in recent months. Pro-government forces launched a major offensive at the start of October, backed by Saudi-led coalition air support, and retook Red Sea coastal territory overlooking the Bab al-Mandab Strait that the Houthis seized in September. Heavy fighting continues there, around besieged Taiz, and in Marib and al-Jawf provinces, while the Houthis have fired missiles and drones at Saudi airports, energy facilities and military bases.",
