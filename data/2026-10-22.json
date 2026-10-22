@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Update: Trump Says France-Style Riots Won't Happen in US as Pompeo Condemns Attacks on Jewish Sites",
+      "summary": "President Donald Trump warned on Wednesday that the unrest seen in France would not be tolerated in the United States, saying, in remarks covered by Fox News and more than 20 other outlets, that the country is \"not going to put up with it.\" The comments came as French authorities continued to deal with riots and protests in multiple cities.\n\nFormer Secretary of State Mike Pompeo criticized those defending the unrest, arguing that attacks on Jewish establishments undermine claims that the riots stem from social grievances. \"If protestors are just concerned about better conditions in schools, why are they targeting synagogues and Jewish businesses?\" he wrote on X. According to National Review, rioters ransacked a synagogue in Paris, scattered holy books and overturned tables, and obtained addresses of Jewish shop owners. A congregant quoted in the report said it could not be a coincidence that a Jewish place of worship was chosen.\n\nThe new development is the escalation of the rhetoric over targeting of Jewish sites and the U.S. president's explicit warning about domestic unrest. Supporters of the president's stance say firm law enforcement is needed to prevent similar disorder. Critics, including some French officials and left-leaning commentators, have argued that the causes of the unrest are complex and that foreign leaders' comments inflame an already tense situation. France remains divided over who is to blame, and a parliamentary inquiry has been proposed.",
+      "source": "Fox News",
+      "url": "https://foxnews.com/live-news/france-riots-protests-trump-speaks-10-21-26",
+      "sourceCount": 21,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:06 PM MT",
+      "addedAtISO": "2026-10-22T13:06:48.812283-06:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Update: Rubio and Hegseth Point to Musk for Starlink Slowdown in Ukraine",
+      "summary": "Senior Trump administration officials, including Secretary of State Marco Rubio and Defense Secretary Pete Hegseth, have pointed to Elon Musk as responsible for slowing Starlink and Starshield services in Ukraine. The statements shift the administration's focus from earlier denials and follow a week of conflicting reports about what degraded Ukraine's U.S.-provided battlefield connectivity.\n\nThe Wall Street Journal reported that Musk ordered the slowdown of Ukraine's Starshield defense systems. It also reported that President Trump spoke with the SpaceX chief executive and asked him to lift the restrictions and fully reverse any limits on the services, which are critical to Ukrainian military communications.\n\nThe episode has raised questions about how much power a private citizen holds over U.S. security interests and allied operations. Retired Air Force Colonel Charles Galbreath of the Mitchell Institute discussed that question on PBS NewsHour. Critics, including many Democrats and European commentators, say the case shows the risks of reliance on a single private contractor and have accused the administration of appeasing Moscow. Administration supporters say officials are now being transparent about the cause and that the president acted quickly to seek a reversal. The matter comes as U.S.-Ukraine relations are strained, with Trump and Ukrainian President Volodymyr Zelensky at odds despite recent talks in Oslo.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6164055-starlink-slowdown-ukraine",
+      "sourceCount": 7,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:06 PM MT",
+      "addedAtISO": "2026-10-22T13:06:48.812283-06:00",
+      "slot": 14
+    },
+    {
+      "category": "business",
+      "headline": "Employer Health Insurance Costs Rise, with Family Plans Topping $28,000",
+      "summary": "The average annual cost of an employer-sponsored family health plan rose 5 percent this year to more than $28,000, according to the annual Employer Health Benefits Survey released Thursday by KFF. The increase affects the roughly 157 million Americans who receive health insurance through work.\n\nSmall businesses and their employees are being hit especially hard, the survey found. Separate surveys show rising premiums and deductibles are leading some people to forgo treatments or skip doctor visits, while household budgets are also strained by higher food and gas prices.\n\nThe survey describes the price rise as moderate compared with some recent years, but workers continue to name health costs as a top concern. The findings arrive weeks before the midterm elections, in which health care and the cost of living are central issues. Democrats have emphasized affordability pressures and criticized administration health policy, while Republicans point to broader efforts to lower costs and expand choice. Employers have so far absorbed part of the increases, though analysts note that continued growth could shift more costs to workers through higher deductibles and contributions.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/6166007-employer-health-insurance-costs-premiums-rise/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:06 PM MT",
+      "addedAtISO": "2026-10-22T13:06:48.812283-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
       "headline": "Virginia State Sen. L. Louise Lucas Charged With Racketeering Conspiracy in Marijuana Business Probe",
       "summary": "Virginia state Sen. L. Louise Lucas, an 82-year-old Democrat, surrendered to authorities Thursday after the Justice Department unsealed an indictment charging her with public corruption. She was charged alongside about a half dozen others, including her daughters.\n\nThe Justice Department alleges that Lucas and her family members engaged in a racketeering conspiracy tied to a family marijuana business. According to the indictment, Lucas obtained large quantities of illegal marijuana and sold it, and the charges also involve allegations of bribery related to marijuana dispensaries.\n\nLucas is one of the most powerful Democratic legislators in Virginia, and the case is likely to draw close attention in state politics. The charges are allegations, and the defendants are presumed innocent unless proven guilty in court. Further court proceedings are expected, and more detail about the specific counts and the other defendants is likely to emerge as the case moves forward.\n\nThe prosecution arrives amid heightened scrutiny of federal law enforcement actions involving elected officials of both parties ahead of next month's midterm elections. Supporters of the Justice Department typically frame such cases as routine enforcement of anti-corruption laws, while critics of the administration have at times questioned the timing and motivations of prosecutions of political figures. No public response from Lucas was included in the initial reports.",
       "source": "The Hill",
