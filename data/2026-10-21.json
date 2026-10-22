@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, October 21, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Polling Firm Admits Its Results Were Fabricated; FCC Chair Warns Broadcasters Over 'Fake Polls'",
+      "summary": "Wedgewood Polling, a national polling organization whose results were cited by several news outlets, said Tuesday that the vast majority of its data had been fabricated. It described the operation as an \"experimental project to demonstrate the vulnerabilities\" of the political polling industry. The statement came after the polling analysis site FiftyPlusOne questioned the veracity of its results.\n\nWedgewood's data had been included in the databases of FiftyPlusOne and The New York Times, which have since removed it. MS NOW, Newsweek, Decision Desk HQ and Mediaite had also cited its polls. Wedgewood called itself a \"fictional entity run by a small group of industry veterans\" and said the episode showed \"a systemic breakdown in media vetting and data aggregation.\" FiftyPlusOne and the Times rejected the claim that they aggregated the data without checking, saying they had contacted the firm with questions about its methods before including it. Columbia University statistician Andrew Gelman said it was \"kind of suspicious\" that the firm described it as an experiment only on the day it was caught.\n\nOn Wednesday, Federal Communications Commission Chairman Brendan Carr said on X that broadcasters could violate their regulatory obligations by airing \"fake polls,\" advising them to avoid \"News Distortions\" or \"Broadcast Hoaxes.\" Without citing evidence or specific polls, he said there had been a \"significant surge in entirely Fake Polls and Suppression Polls\" this election season.\n\nThe disclosure bears on races including the Michigan Senate primary and comes two weeks before the midterms, when polling shapes campaign strategy and media narratives. Right-leaning outlets have highlighted it as a failure of media scrutiny, while others note the data was caught by the polling-analysis community itself.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/a-company-says-its-polls-were-fake-heres-what-happened",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-21T21:08:11.997214-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "White House Gives Politico 48 Hours to Retract Stories or Face 'Consequences'",
+      "summary": "The White House counsel's office warned Politico in a Monday letter that it had 48 hours to retract or correct recent stories about alleged White House staff drama, or face unspecified consequences. The deadline expires Thursday, according to Axios.\n\nThe demand threatens to escalate already tense relations between the administration and Politico, and more broadly the press corps covering President Trump. Politico, CNN and MS NOW are already banned from covering Trump in the Oval Office.\n\nSeparately, White House Correspondents' Association President Jacqui Heinrich on Wednesday condemned the White House's decision to restrict access for Andrew Feinberg, a correspondent for The Independent. Feinberg was scheduled to serve as the print pool reporter when Trump lashed out at him in the Oval Office earlier this week. Press freedom advocates see the moves as pressure on coverage, while the administration has previously argued that some reporting is inaccurate. The White House had not publicly detailed what consequences it might impose.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/21/white-house-politico-retract-stories-or-face-consequences",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-21T21:08:11.997214-06:00",
+      "slot": 21
+    },
+    {
+      "category": "technology",
+      "headline": "AI Models Increasingly Capable of Planning Attacks on Power and Water Systems, Research Finds",
+      "summary": "The most advanced AI models are now capable of blueprinting cyberattacks on critical services such as power grids and water systems with alarming success rates, according to new research from the cybersecurity company Frenos. The findings were reported by Axios.\n\nResearchers found that top-tier frontier models are dangerously adept at mapping out attacks on infrastructure. The report warns that critical infrastructure operators are running out of time to prepare, and that it is only a matter of time before freely available AI models make such hacks easier to execute.\n\nThe research arrives amid wider concern about AI security. The creators of PHP, which powers as much as 70 percent of websites, said Wednesday that AI was used to pinpoint two vulnerabilities in the language that hackers could exploit. Congressional leaders are also weighing regulatory action and public safety checks on advanced AI companies. The findings add pressure on utilities and regulators to strengthen defenses for systems that serve millions of people.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/21/ai-hacking-cybersecurity-water-power-grid",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-21T21:08:11.997214-06:00",
+      "slot": 21
+    },
+    {
       "category": "world",
       "headline": "Mexico Charges Former Chihuahua Prosecutor With Treason Over US Agents' Role in Drug Lab Raid",
       "summary": "Mexican federal prosecutors have charged Cesar Jauregui Moreno, who served as attorney general of Chihuahua state from 2023 to this year, with treason. They allege he allowed US agents to take part in an April raid on a suspected drug lab without proper authorization. Federal Attorney General Ernestina Godoy Ramos said he permitted foreign agents to carry out activities reserved for Mexican authorities and failed to share information. Jauregui, a member of the conservative opposition PAN party, was arrested over the weekend and denies the allegations.\n\nThe operation came to light after a convoy returning from raids on suspected methamphetamine labs plunged into a ravine on April 19. Two US agents, reportedly working for the CIA, and two Mexican state investigators were killed. At the time Jauregui described the Americans as embassy \"instructor officers\" doing training work. A court hearing is set for Saturday, and a judge must decide whether there is enough evidence to proceed. He also faces state charges, including abuse of public office, and denied at a Sunday hearing that he instructed or consented to US involvement.\n\nThe case touches a sensitive issue between the two countries. President Claudia Sheinbaum has faced pressure from President Trump to crack down on drug trafficking but has repeatedly declined offers of US-led operations, insisting foreign officials may operate in Mexico only with prior federal clearance. Supporters of the prosecution see it as defending sovereignty, while the defendant's party aligns him with the political opposition.",
