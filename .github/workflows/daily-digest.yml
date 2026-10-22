@@ -115,8 +115,11 @@ jobs:
           # schedule fire doubles as a deploy health check.
           TODAY=$(TZ=America/Denver date +%F)
           URL="https://101news.org/data/${TODAY}.json"
+          # Three attempts of ~6 minutes each. GitHub Pages deploys run on
+          # Actions and can take 10+ minutes during an Actions slowdown
+          # (2026-10-22: the deploy landed just after a 12-minute window).
           for attempt in 1 2 3; do
-            for i in $(seq 1 16); do
+            for i in $(seq 1 24); do
               # Re-fetch each pass so a concurrent run pushing a newer
               # edition mid-verify doesn't cause a false mismatch.
               git fetch -q origin main
@@ -135,13 +138,53 @@ jobs:
             done
             echo "Attempt $attempt: live file still does not match the repo."
             if [ $attempt -lt 3 ]; then
-              echo "Requesting a fresh Pages build..."
-              gh api "repos/${GITHUB_REPOSITORY}/pages/builds" -X POST || true
+              # Requesting a build while one is still running cancels it
+              # (2026-10-22: two in-flight deploys were cancelled this way),
+              # so only request one when the latest build is finished.
+              BUILD=$(gh api "repos/${GITHUB_REPOSITORY}/pages/builds/latest" --jq .status 2>/dev/null || echo unknown)
+              if [ "$BUILD" = "building" ] || [ "$BUILD" = "queued" ]; then
+                echo "Pages build still ${BUILD}; waiting instead of restarting it."
+              else
+                echo "Latest Pages build is '${BUILD}'. Requesting a fresh one..."
+                gh api "repos/${GITHUB_REPOSITORY}/pages/builds" -X POST || true
+              fi
             fi
           done
           echo "ERROR: Live site is still serving stale data after repeated"
           echo "Pages rebuild requests. GitHub Pages may be having an incident."
           exit 1
+
+      - name: Close resolved failure alerts
+        # This run verified the live site matches the repo, so any open
+        # failure alert from an earlier run has resolved itself.
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: open } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'bug'
+            });
+            const alerts = open.filter(i => i.title.startsWith('101News digest failure - '));
+            for (const issue of alerts) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                body: `Resolved: a later run verified the live site matches the repo. [View run](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})`
+              });
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                state: 'closed',
+                state_reason: 'completed'
+              });
+              console.log(`Closed #${issue.number}: ${issue.title}`);
+            }
+            if (!alerts.length) console.log('No open failure alerts.');
 
       - name: Notify on failure
         if: failure()

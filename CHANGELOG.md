@@ -1,5 +1,22 @@
 # Changelog
 
+## v2026.10.22
+
+### Fixed: false "digest failure" alerts during slow GitHub Pages deploys
+
+On 2026-10-22 the 8 AM edition generated and pushed normally, but GitHub
+was slow to deploy it (GitHub opened an Actions incident at 8:18 AM MT).
+The live-site check gave up after about 12 minutes and filed an alert.
+The deploy finished minutes later and the site was fine.
+
+- The check now waits about 18 minutes (three 6-minute attempts)
+- It no longer requests a new Pages build while one is still building.
+  That request cancels the in-flight deploy, and it cancelled two today.
+- New "Close resolved failure alerts" step: whenever a run verifies the
+  live site matches the repo, it closes any open failure alert with a
+  comment linking the run. Old alerts from 2026-09-06 onward had been
+  left open.
+
 ## v2026.10.10
 
 ### Changed: Claude Sonnet 4.6 -> Claude Sonnet 5.5 (story selection)
