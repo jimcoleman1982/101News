@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-22",
+  "dateFormatted": "Thursday, October 22, 2026",
+  "stories": [
+    {
+      "category": "technology",
+      "headline": "AI-Discovered PHP Flaws Trigger Global Cyber-Security Scramble",
+      "summary": "Governments and cyber-security agencies around the world are working to contain the fallout from serious vulnerabilities discovered in PHP, a programming language used since the 2000s to build websites. The flaws had gone undetected for more than a decade and were uncovered with the help of artificial intelligence. Security firm Wiz, whose researchers helped find them, called them the \"most severe\" ever detected by AI, while OpenAI, whose technology was used in the discovery, described them as \"one of the most impactful security issues in recent memory.\"\n\nPHP powers a vast range of platforms, including online shops, Wikipedia and WordPress. According to the reporting, the main flaw could allow attackers to take control of affected web servers without authentication and to steal sensitive data. Paul Spain, chief executive of Gorilla Cyber Security, estimated that it could affect \"millions and millions\" of websites. Researcher Jill Slay of the University of Adelaide said it would be \"disastrous\" if hackers or countries weaponised the flaw.\n\nThe alert has disrupted services worldwide, from gaming platforms to government portals and online forums. Wikimedia took down a number of its systems as a precaution. The Finnish government, Edinburgh council and the BBC took sites or pages offline, the Dutch cyber-security agency pulled its website, and several Scottish councils and health boards did the same.\n\nPHP developers released patches on Wednesday and urged all users to update immediately. Authorities have advised website operators to install the emergency fix or consider taking their platforms offline. Researcher Salil Kanhere of UNSW Sydney warned that more exploitation attempts are likely in the coming weeks now that the technical details are public, with smaller organisations and poorly maintained sites at greatest risk.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier2",
+      "addedAt": "3:21 AM MT",
+      "addedAtISO": "2026-10-22T03:21:54.925400-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Russia Frees American Stephen Hubbard as Witkoff Meets Putin; Praise for Putin Draws Republican Criticism",
+      "summary": "Russia released Stephen Hubbard, a 74-year-old American and former teacher from Michigan, as President Vladimir Putin met US envoy Steve Witkoff in St Petersburg early Wednesday. Hubbard was sentenced in 2024 to almost seven years in a penal colony for allegedly fighting for Ukraine, after being captured in 2022. The State Department had classified him as wrongfully detained. CBS News reported he was in poor health and was expected to be flown to Texas for treatment.\n\nPresident Donald Trump said Hubbard was \"on his way back home\" and that \"there was no 'swap' necessary,\" saying he had asked Putin directly for the release last week. Most past releases of Americans from Russia came through prisoner swaps. Trump also appeared to link the outcome to his recent decision to suspend sanctions on Russia two days before they were due to take effect, writing that had sanctions been imposed, negotiations \"would have come to a complete and total halt.\"\n\nWitkoff told Putin, \"you are a humanitarian also sir, and I salute that,\" prompting criticism from within the president's own party. Representative Don Bacon called it \"another embarrassment,\" and Senator John Cornyn said Putin \"is a stone cold killer.\" Vice President JD Vance defended the envoy, saying he cared \"much less about what Steve said than about the fact that he is bringing an American hostage home to his family.\"\n\nThe release comes as the administration pursues talks on ending the war in Ukraine, with Putin having agreed in principle to resume trilateral negotiations after an earlier Witkoff meeting. Critics question whether concessions such as the sanctions suspension are warranted, while supporters point to the return of an American held for years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c6m24l9v3745o",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:21 AM MT",
+      "addedAtISO": "2026-10-22T03:21:54.925400-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Omar Says She Must Move After Threats Following Federal Search of Her Home",
+      "summary": "Rep. Ilhan Omar, a Minnesota Democrat, said she will have to move out of her Washington, D.C., apartment because of threats she has received since federal agents executed a search warrant at her residence last week. The search was part of an immigration fraud investigation. \"Obviously, I can't continue to live there,\" Omar said, noting that her address has become public.\n\nOmar said her husband and son were home when federal agents began banging on the doors at 6 a.m., and that agents then conducted a search lasting several hours. Reuters and Fox News reported on the raid when it occurred on October 12.\n\nThe case has become politically charged ahead of the midterm elections. Omar's critics have pointed to the immigration fraud probe as grounds for scrutiny of a sitting member of Congress, while her allies and many Democrats have framed the search as politically motivated and have raised concerns about the safety of lawmakers. The article provides few further details on the investigation itself, and no charges against Omar were mentioned.\n\nThe development is the first concrete follow-up on the search, showing its personal and security consequences for a member of Congress and her family. The investigation remains ongoing.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/house/6164465-omar-to-move-dc-residence/",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:21 AM MT",
+      "addedAtISO": "2026-10-22T03:21:54.925400-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Irish Government Issues State Apology to Family of Prison Officer Killed by IRA",
+      "summary": "Taoiseach Micheal Martin delivered a formal state apology to the family of Brian Stack, a senior Irish prison officer murdered by the IRA, during a sitting of the Dail on Wednesday. The apology was for failings in the investigations into his killing. Stack, a father of three and chief prison officer at the high-security Portlaoise Prison, was shot in the back of the neck in Dublin in 1983 after leaving a boxing match. He was left paralysed and died 18 months later at age 49.\n\nThree separate garda investigations were carried out, but no one has been brought to justice. Martin said the Provisional IRA is \"still in the possession of all the facts\" in the case. Stack's wife Sheila and sons Austin, Kieran and Oliver attended the chamber.\n\nThe brothers walked out when Sinn Fein TDs spoke. Austin Stack said Sinn Fein leader Mary Lou McDonald, who was absent, has consistently said the IRA campaign was justified, and he called on her to address the family's concerns. McDonald, who was being interviewed by the Police Service of Northern Ireland over protests at Garvaghy Road, welcomed the apology and said the IRA had acknowledged responsibility and expressed sorrow more than a decade ago.\n\nA Sinn Fein spokesperson said the party was deeply sorry for the family's loss, acknowledged the hurt caused by past republican actions, and said investigating the killing is a matter for An Garda Siochana.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "3:21 AM MT",
+      "addedAtISO": "2026-10-22T03:21:54.925400-06:00",
+      "slot": 5
+    }
+  ]
+}
