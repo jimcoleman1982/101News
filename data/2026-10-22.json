@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Trump Names Conservative Commentator Katie Zacharia as White House Press Secretary",
+      "summary": "President Donald Trump has chosen conservative commentator and political strategist Katie Zacharia as the next White House press secretary. She will be his sixth chief spokesperson across his two administrations. Zacharia, 42, has worked since June as a senior communications adviser for Trump Media & Technology Group, the parent of Truth Social, and spent a brief period earlier this year as a spokeswoman at the Department of Homeland Security.\n\nIn a Truth Social post, Trump called her \"loyal\" and \"a devoted fan and member of MAGA\" with \"an unblemished record of support.\" He said she had helped his campaigns in key swing states and would \"work fantastically with the Media, the American People, and my Administration.\" Zacharia thanked him on X, calling the role \"the honor of a lifetime\" at the \"critical 250-year mark\" and saying she looked forward to working with the White House press corps and reporters across the country.\n\nZacharia is a frequent guest on Newsmax and Fox News and began her political career as an intern for the Republican National Committee and the White House Office of Political Affairs during the Bush administration. She succeeds Karoline Leavitt, who left the post in August and has reportedly taken a job with Fox News. Supporters describe Zacharia as a forceful defender of the president's agenda, while critics point to her openly partisan commentary, including a New York Post op-ed in which she said she would never remove her MAGA hat \"to appease the left.\" Her appointment comes amid tense relations between the administration and parts of the press corps ahead of the midterm elections.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5rmy73zr0rro",
+      "sourceCount": 28,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:18 PM MT",
+      "addedAtISO": "2026-10-22T17:18:16.310239-06:00",
+      "slot": 18
+    },
+    {
+      "category": "business",
+      "headline": "Trump Signs Executive Order Aimed at Lowering Housing and Mortgage Costs",
+      "summary": "President Donald Trump signed an executive order on Thursday intended to reduce housing costs, as his administration seeks to address voters' affordability concerns in the final stretch before the midterm elections. The order directs Federal Housing Finance Agency Director Bill Pulte to create a pilot program that would cancel insurance premiums on government-backed mortgages once a borrower has met equity requirements.\n\nThe action comes as elevated borrowing costs have stifled the housing market. Fresh September data showed continued deterioration in the sector, and the Federal Reserve is weighing further interest rate increases after raising rates on Wednesday to combat inflation that has surged for months following the Iran war. Freddie Mac reported this week that the average 30-year fixed mortgage rate dipped to 7.32 percent, the first decline in two months.\n\nThe order is likely to be framed by the White House as direct relief for homeowners, while critics and economists may question how much a pilot program can offset high rates driven by monetary policy and inflation. Markets were also under pressure, with the S&P 500 and Nasdaq posting sharp declines recently. Details of how widely the pilot would apply and when it would begin were not immediately available.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6166832-trump-signs-mortgage-order/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:18 PM MT",
+      "addedAtISO": "2026-10-22T17:18:16.310239-06:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Update: Paris Extends Curfew as Marseille and Lyon Ban Protests Ahead of Saturday Demonstrations",
+      "summary": "Paris is extending a partial nighttime curfew until Monday, while Marseille and Lyon will impose a total ban on protests this weekend following last weekend's riots and looting. The Louvre, Orsay and Picasso museums will close Saturday, and public transport in Marseille will be suspended. Curfews in the Place de la Republique and Les Halles areas will run from 23:00 to 06:00.\n\nJustice Minister Gerald Darmanin said 2,700 people have been arrested nationwide, more than 1,000 have appeared in court and 217 have been jailed after fast-track trials. Half of those detained had no prior criminal record. Interior Minister Jean-Didier Berger said police deployments would rise 20% over last weekend after the government was accused of being blindsided by the unrest.\n\nPresident Emmanuel Macron said only authorized union demonstrations would be allowed in areas without total bans, and non-union protests would be banned wherever possible. He denounced what he called \"political and even seditious acts organised by far-left groups that aim to bring down the Republic.\" The protests began over the cost of living and school conditions before being overshadowed by violence that damaged more than 500 businesses in Marseille alone. Curfews have also been announced in Nice, Toulon, Rouen and Grenoble.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:18 PM MT",
+      "addedAtISO": "2026-10-22T17:18:16.310239-06:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
       "headline": "Update: Trump Says France-Style Riots Won't Happen in US as Pompeo Condemns Attacks on Jewish Sites",
       "summary": "President Donald Trump warned on Wednesday that the unrest seen in France would not be tolerated in the United States, saying, in remarks covered by Fox News and more than 20 other outlets, that the country is \"not going to put up with it.\" The comments came as French authorities continued to deal with riots and protests in multiple cities.\n\nFormer Secretary of State Mike Pompeo criticized those defending the unrest, arguing that attacks on Jewish establishments undermine claims that the riots stem from social grievances. \"If protestors are just concerned about better conditions in schools, why are they targeting synagogues and Jewish businesses?\" he wrote on X. According to National Review, rioters ransacked a synagogue in Paris, scattered holy books and overturned tables, and obtained addresses of Jewish shop owners. A congregant quoted in the report said it could not be a coincidence that a Jewish place of worship was chosen.\n\nThe new development is the escalation of the rhetoric over targeting of Jewish sites and the U.S. president's explicit warning about domestic unrest. Supporters of the president's stance say firm law enforcement is needed to prevent similar disorder. Critics, including some French officials and left-leaning commentators, have argued that the causes of the unrest are complex and that foreign leaders' comments inflame an already tense situation. France remains divided over who is to blame, and a parliamentary inquiry has been proposed.",
       "source": "Fox News",
