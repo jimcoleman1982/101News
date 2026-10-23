@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-23",
+  "dateFormatted": "Friday, October 23, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Magnitude 7.0 Earthquake Strikes Tibet, Killing at Least 16",
+      "summary": "A magnitude 7.0 earthquake struck a mountainous part of Tibet on Thursday night, killing at least 16 people and injuring 65 others, according to Chinese state media. Xinhua, citing the local emergency management bureau, said the epicenter was in Baqen County in the Nagqu region, about 400 km (250 miles) north-east of Lhasa. Eleven of the injured are in serious condition.\n\nAuthorities declared an emergency and sent rescue teams to the area. Officials reported that 339 homes collapsed and that electricity was cut, though power had been restored in some places by Friday morning. More than 12,400 people were relocated. Rockfall closed roads, slowing crews trying to reach high-altitude communities at roughly 4,800 meters (15,750 feet). The US Geological Survey recorded seven tremors near the epicenter, the largest at magnitude 5.2, and Chinese state media said more than 400 aftershocks had been registered.\n\nMany residents spent the night outdoors in subzero temperatures, in tents or cars, fearing aftershocks could trap them in damaged houses. Premier Li Qiang called for urgent rescue, medical treatment and resettlement efforts, and the Ministry of Emergency Management sent a working group to the region. The government allocated 50 million yuan (about $7.5 million) for disaster relief.\n\nThe region is prone to seismic activity. In 2023, a magnitude 6.2 quake killed more than 120 people. The death toll could change as rescuers reach remote areas.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "3:17 AM MT",
+      "addedAtISO": "2026-10-23T03:17:11.721382-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: US and Israel Draw Up Plans to Renew Strikes on Iran After Midterms, White House Says No Attack Before Election",
+      "summary": "The Israel Defense Forces and the US military have drawn up plans to resume joint strikes on Iran in the coming weeks, two Israeli sources told ABC News. The sources said strikes would almost certainly come after the November 3 US midterm elections, citing President Trump's reluctance to unsettle oil markets in the campaign's final days. The New York Times first reported the planning, which was reportedly discussed during Defense Secretary Pete Hegseth's unannounced visit to Israel this week.\n\nThe sources said targets would include petrochemical facilities central to Iran's oil industry and possibly nuclear sites such as Pickaxe Mountain, but not civilian infrastructure like power plants. One source said regime change, not a negotiated deal, is the Israeli government's top goal. Prime Minister Benjamin Netanyahu favors renewed action, but the sources stressed the decision is \"only for Trump to decide.\" One did not rule out unilateral Israeli action, though Israel would still need US consent.\n\nThe White House said Thursday the US will not attack Iran before the midterms and that the blockade will remain in full force, saying Iran is in very bad condition economically and militarily. The Pentagon declined to comment.\n\nTalks have stalled despite a June memorandum of understanding meant to end the war that began with US-Israeli strikes in February. The two sides have since exchanged strikes. The US is enforcing a blockade on Iranian ships, while Iran claims control of the Strait of Hormuz, and its Revolutionary Guard Navy claimed attacks on four vessels in the Gulf and warned Washington against resuming military action.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:17 AM MT",
+      "addedAtISO": "2026-10-23T03:17:11.721382-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Virginia State Sen. Louise Lucas Indicted on Federal Marijuana Trafficking and Money Laundering Charges",
+      "summary": "Federal authorities on Thursday charged Virginia state Sen. L. Louise Lucas, one of the state's most powerful Democrats, with leading a criminal marijuana enterprise. Attorney General Todd Blanche and FBI Director Kash Patel announced the indictment, which includes drug trafficking and money laundering charges against Lucas and six other defendants. Lucas surrendered at a Norfolk courthouse and was later released.\n\nBlanche said the charges reflect \"the alleged behavior of a public servant who put her own financial interests before the people she was elected to serve.\" The indictment comes a month after the FBI searched her district office and a cannabis shop she co-owns. Prosecutors allege the group acquired and distributed large quantities of marijuana and laundered the proceeds.\n\nLucas is a vocal critic of the Trump administration and played a leading role in Virginia Democrats' effort to redraw congressional maps in their favor, which courts later threw out. In a statement she said: \"I will not be intimidated, I will not be bullied, and I will not back down.\" Her allies and some Democrats may view the case through the lens of her opposition to the administration, while the Justice Department presents it as an ordinary corruption and trafficking prosecution.\n\nThe case is expected to proceed through the federal courts in Virginia, and Lucas has not yet entered a plea in the reporting provided.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-virginia-state-senator-charged-with-running-criminal-marijuana-enterprise",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:17 AM MT",
+      "addedAtISO": "2026-10-23T03:17:11.721382-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Judge Orders Trump to Sit for Deposition in $10 Billion BBC Lawsuit or Face Possible Dismissal",
+      "summary": "A federal judge in Florida has ordered President Trump to cooperate with the discovery process in his $10 billion lawsuit against the BBC and to sit for a deposition by December 11. The judge warned that failure to comply could bring sanctions, including possible dismissal of the case. Trump filed the suit last December.\n\nThe lawsuit stems from a BBC Panorama documentary that spliced together two comments Trump made nearly an hour apart. Trump had agreed to sit for a deposition on October 16, but it was canceled for what was described as a \"matter of national importance.\"\n\nThe ruling puts a sitting president under court-ordered deposition obligations in a private civil case he brought himself. Trump has often avoided depositions in past litigation. Supporters of the suit argue the edited footage misrepresented his words, while the BBC has contested the claims. Whether Trump complies by the December deadline will determine if the case continues.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-virginia-state-senator-charged-with-running-criminal-marijuana-enterprise",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:17 AM MT",
+      "addedAtISO": "2026-10-23T03:17:11.721382-06:00",
+      "slot": 5
+    }
+  ]
+}
