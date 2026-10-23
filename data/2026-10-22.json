@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Update: Trump Calls on Ilhan Omar to Resign at Iowa Rally as Midterms Near",
+      "summary": "President Donald Trump called for Rep. Ilhan Omar, D-Minn., to resign from Congress during a Thursday night rally in Sioux City, Iowa, 12 days before the midterm elections. He said he had received \"breaking news\" aboard Air Force One alleging that Omar used a different name when she was sworn into Congress. He offered no evidence for the claim in his remarks.\n\nTrump also revisited longstanding, unsubstantiated allegations that Omar married her brother, citing her answer in a Wednesday interview. Omar told MS NOW's Chris Hayes she denied marrying her former husband, Ahmed Nur Said Elmi, to commit immigration fraud. Asked whether the two were related, she said, \"Not to my knowledge.\" Trump called it \"one of the worst answers I think I've ever heard\" and said, \"I assume she must immediately have to resign from Congress, right?\"\n\nThe remarks follow an Oct. 12 search of Omar's Washington home by Homeland Security Investigations agents. The agents were acting on a court-authorized warrant in a federal investigation into possible false statements in her immigration and naturalization documents. The Justice Department has not publicly detailed the allegations, and grand jury subpoenas have reportedly gone to family members. Omar denies wrongdoing and says the raid was meant to energize Republican base voters and intimidate people from voting.\n\nRepublicans have framed the matter as a legitimate law enforcement inquiry that warrants her resignation. Democrats and Omar's allies call it a politically motivated effort timed to the campaign. The rally was part of Trump's closing midterm push, as GOP candidates weigh loyalty to the president against voter concerns.",
+      "source": "Fox News",
+      "url": "https://foxnews.com/live-news/midterm-elections-2026-trump-iowa-election-lawsuit-october-22",
+      "sourceCount": 21,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-22T21:08:08.912831-06:00",
+      "slot": 21
+    },
+    {
+      "category": "technology",
+      "headline": "Update: Governments and Firms Race to Patch PHP Flaws as UK Takes 32 Services Offline",
+      "summary": "Organisations and businesses worldwide are still scrambling to update systems after \"critical vulnerabilities\" were disclosed in PHP, a back-end programming language used in web development for decades. Websites were taken offline on Wednesday and Thursday. Researchers warned the \"severe\" flaws could expose millions of sites to hacking if left unpatched.\n\nIn the UK, tech minister Baroness Lloyd of Effra told the House of Lords that 32 government services were unavailable and four partially unavailable. She attributed this largely to precautionary measures while security updates were applied. The government did not say which services were affected but said no large public-facing critical services were hit. Downing Street said the outages did not mean the systems were hacked, and that officials were working with OpenAI and international partners.\n\nOlly Whitehouse, chief technology officer of the National Cyber Security Centre, called the event \"unprecedented\" and said it would be \"universally felt.\" He said there were no indications of successful breaches and that the agency was seeing positive confirmation that its advice was being acted on. Experts cautioned that the full impact could take months to become clear.\n\nThe disruption has reached small businesses. A garage owner in Wales said he could not process vehicle MOT paperwork online because his system had been down since Wednesday. Critics said governments need to ensure their own infrastructure is up to date.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-22T21:08:08.912831-06:00",
+      "slot": 21
+    },
+    {
+      "category": "business",
+      "headline": "Treasury Proposes Rule Curbing U.S. High-Tech Investment in China, Russia and North Korea",
+      "summary": "The Treasury Department on Thursday proposed a rule to restrict American high-tech investment flowing to U.S. adversaries, including China, Russia, North Korea and other \"countries of concern.\" The rule would expand the Outbound Investment Security Program.\n\nThe expanded restrictions would cover hypersonic systems, quantum information technologies, high-performance computing and supercomputing, and artificial intelligence. The proposal is not yet final and would normally be subject to public comment before taking effect.\n\nThe move comes amid geopolitical friction and doubts over AI returns that Bloomberg reports are deepening a repricing of Chinese tech stocks. Separately, the S&P 500 fell more than 1.4 percent in its largest daily decline since July, and the Nasdaq dropped nearly 2.5 percent.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6167231-treasury-proposes-curbs-artificial-intelligence/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-22T21:08:08.912831-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
       "headline": "Trump Names Conservative Commentator Katie Zacharia as White House Press Secretary",
       "summary": "President Donald Trump has chosen conservative commentator and political strategist Katie Zacharia as the next White House press secretary. She will be his sixth chief spokesperson across his two administrations. Zacharia, 42, has worked since June as a senior communications adviser for Trump Media & Technology Group, the parent of Truth Social, and spent a brief period earlier this year as a spokeswoman at the Department of Homeland Security.\n\nIn a Truth Social post, Trump called her \"loyal\" and \"a devoted fan and member of MAGA\" with \"an unblemished record of support.\" He said she had helped his campaigns in key swing states and would \"work fantastically with the Media, the American People, and my Administration.\" Zacharia thanked him on X, calling the role \"the honor of a lifetime\" at the \"critical 250-year mark\" and saying she looked forward to working with the White House press corps and reporters across the country.\n\nZacharia is a frequent guest on Newsmax and Fox News and began her political career as an intern for the Republican National Committee and the White House Office of Political Affairs during the Bush administration. She succeeds Karoline Leavitt, who left the post in August and has reportedly taken a job with Fox News. Supporters describe Zacharia as a forceful defender of the president's agenda, while critics point to her openly partisan commentary, including a New York Post op-ed in which she said she would never remove her MAGA hat \"to appease the left.\" Her appointment comes amid tense relations between the administration and parts of the press corps ahead of the midterm elections.",
       "source": "BBC News",
