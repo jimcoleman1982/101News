@@ -1,5 +1,19 @@
 # Changelog
 
+## v2026.10.23
+
+### Added: night mode
+
+The site switches to a dark theme from sunset to sunrise in Denver
+(calculated on the page each day, within about two minutes of Open-Meteo),
+or any time the device is set to dark mode. An open page re-checks every
+minute, so it flips at sunset without a reload. The phone status bar
+color follows. Add `?theme=dark` or `?theme=light` to the URL to force one.
+
+Every color in the stylesheet now comes from a variable (`--c-<hex>`),
+with a warm dark palette under `html.theme-dark`. Daytime colors are
+unchanged. The UV-index badges keep their colors in both modes.
+
 ## v2026.10.22
 
 ### Fixed: false "digest failure" alerts during slow GitHub Pages deploys

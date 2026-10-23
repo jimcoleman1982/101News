@@ -4,7 +4,82 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Daily Briefing</title>
+    <meta name="theme-color" content="#f5f0e8" data-light="#f5f0e8" data-dark="#15130f">
+    <script>
+/* Night mode: dark from sunset to sunrise in Denver, or whenever the device
+   is set to dark. Re-checked every minute, so an open page switches at sunset.
+   Add ?theme=dark or ?theme=light to the URL to force one for testing. */
+(function () {
+  var LAT = 39.74, LNG = -104.99;
+  function denverDay(d) {
+    var o = {};
+    new Intl.DateTimeFormat('en-US', { timeZone: 'America/Denver', year: 'numeric', month: 'numeric', day: 'numeric' })
+      .formatToParts(d).forEach(function (p) { o[p.type] = +p.value; });
+    return o;
+  }
+  function sunTimes(d) {
+    var t = denverDay(d), base = Date.UTC(t.year, t.month - 1, t.day), r = Math.PI / 180;
+    var g = 2 * Math.PI / 365 * ((base - Date.UTC(t.year, 0, 0)) / 864e5 - 1);
+    var eq = 229.18 * (0.000075 + 0.001868 * Math.cos(g) - 0.032077 * Math.sin(g) - 0.014615 * Math.cos(2 * g) - 0.040849 * Math.sin(2 * g));
+    var dec = 0.006918 - 0.399912 * Math.cos(g) + 0.070257 * Math.sin(g) - 0.006758 * Math.cos(2 * g) + 0.000907 * Math.sin(2 * g) - 0.002697 * Math.cos(3 * g) + 0.00148 * Math.sin(3 * g);
+    var ha = Math.acos(Math.cos(90.833 * r) / (Math.cos(LAT * r) * Math.cos(dec)) - Math.tan(LAT * r) * Math.tan(dec)) / r;
+    return { rise: base + (720 - 4 * (LNG + ha) - eq) * 6e4, set: base + (720 - 4 * (LNG - ha) - eq) * 6e4 };
+  }
+  var forced = (location.search.match(/[?&]theme=(dark|light)\b/) || [])[1];
+  var mq = window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)') : null;
+  function apply() {
+    var now = Date.now(), s = sunTimes(new Date(now));
+    var dark = forced ? forced === 'dark' : (now < s.rise || now >= s.set || !!(mq && mq.matches));
+    var root = document.documentElement;
+    if (root.classList.contains('theme-dark') !== dark) root.classList.toggle('theme-dark', dark);
+    var meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) meta.setAttribute('content', dark ? meta.getAttribute('data-dark') : meta.getAttribute('data-light'));
+  }
+  window.__sunTimes = sunTimes;
+  apply();
+  setInterval(apply, 60000);
+  document.addEventListener('visibilitychange', function () { if (!document.hidden) apply(); });
+  if (mq && mq.addEventListener) mq.addEventListener('change', apply);
+})();
+    </script>
     <style>
+        /* Colors live in variables so night mode can swap them (theme-dark is set
+           by the script in <head>: sunset to sunrise in Denver, or device dark mode). */
+        :root {
+            --c-1a1a1a: #1a1a1a;
+            --c-1a3a6a: #1a3a6a;
+            --c-222222: #222222;
+            --c-444444: #444444;
+            --c-666666: #666666;
+            --c-888888: #888888;
+            --c-8b1a1a: #8b1a1a;
+            --c-999999: #999999;
+            --c-b06a6a: #b06a6a;
+            --c-bbbbbb: #bbbbbb;
+            --c-cccccc: #cccccc;
+            --c-dddddd: #dddddd;
+            --c-eee8d5: #eee8d5;
+            --c-f5f0e8: #f5f0e8;
+            color-scheme: light;
+        }
+        html.theme-dark {
+            --c-1a1a1a: #ebe5da;
+            --c-1a3a6a: #92b4e8;
+            --c-222222: #e2dcd1;
+            --c-444444: #c8c2b7;
+            --c-666666: #aea89d;
+            --c-888888: #9a948a;
+            --c-8b1a1a: #e07d72;
+            --c-999999: #8f897f;
+            --c-b06a6a: #cf918a;
+            --c-bbbbbb: #6d675d;
+            --c-cccccc: #46413a;
+            --c-dddddd: #3a3630;
+            --c-eee8d5: #26221b;
+            --c-f5f0e8: #15130f;
+            color-scheme: dark;
+        }
+
         *, *::before, *::after {
             box-sizing: border-box;
             margin: 0;
@@ -15,8 +90,8 @@
             font-family: Georgia, 'Times New Roman', serif;
             font-size: 17px;
             line-height: 1.6;
-            color: #1a1a1a;
-            background-color: #f5f0e8;
+            color: var(--c-1a1a1a);
+            background-color: var(--c-f5f0e8);
             -webkit-font-smoothing: antialiased;
         }
 
@@ -30,7 +105,7 @@
         .masthead {
             text-align: center;
             padding-bottom: 16px;
-            border-bottom: 4px double #1a1a1a;
+            border-bottom: 4px double var(--c-1a1a1a);
             margin-bottom: 0;
         }
 
@@ -39,7 +114,7 @@
             justify-content: space-between;
             align-items: center;
             font-size: 0.72em;
-            color: #888;
+            color: var(--c-888888);
             letter-spacing: 0.05em;
             text-transform: uppercase;
         }
@@ -53,12 +128,12 @@
         }
 
         .masthead-title .accent {
-            color: #8b1a1a;
+            color: var(--c-8b1a1a);
         }
 
         .masthead-dateline {
             font-size: 0.82em;
-            color: #666;
+            color: var(--c-666666);
             font-style: italic;
             margin-top: 4px;
             letter-spacing: 0.03em;
@@ -66,7 +141,7 @@
 
         .masthead-rule {
             border: none;
-            border-top: 1px solid #1a1a1a;
+            border-top: 1px solid var(--c-1a1a1a);
             margin-top: 10px;
         }
 
@@ -81,11 +156,11 @@
         .section-divider .rule {
             flex: 1;
             border: none;
-            border-top: 2px solid #1a1a1a;
+            border-top: 2px solid var(--c-1a1a1a);
         }
 
         .section-divider .rule-light {
-            border-top: 1px solid #bbb;
+            border-top: 1px solid var(--c-bbbbbb);
         }
 
         .section-label {
@@ -95,7 +170,7 @@
             font-size: 0.78em;
             font-weight: 700;
             letter-spacing: 0.12em;
-            color: #444;
+            color: var(--c-444444);
             text-transform: uppercase;
             white-space: nowrap;
         }
@@ -103,7 +178,7 @@
         /* --- Story items --- */
         .story-item {
             padding: 8px 0;
-            border-bottom: 1px dotted #ccc;
+            border-bottom: 1px dotted var(--c-cccccc);
         }
 
         .story-item:last-child {
@@ -122,11 +197,11 @@
         }
 
         .story-headline:hover .story-title {
-            color: #8b1a1a;
+            color: var(--c-8b1a1a);
         }
 
         .story-bullet {
-            color: #999;
+            color: var(--c-999999);
             font-size: 0.6em;
             flex-shrink: 0;
             position: relative;
@@ -150,27 +225,27 @@
         }
 
         .story-headline.breaking .story-title {
-            color: #8b1a1a;
+            color: var(--c-8b1a1a);
             font-weight: 600;
         }
 
         .story-title {
             font-size: 1.05em;
-            color: #1a3a6a;
+            color: var(--c-1a3a6a);
             line-height: 1.35;
             transition: color 0.15s ease;
         }
 
         .story-item.read .story-title {
-            color: #999;
+            color: var(--c-999999);
         }
 
         .story-item.read .story-headline.breaking .story-title {
-            color: #b06a6a;
+            color: var(--c-b06a6a);
         }
 
         .story-item.read .story-bullet {
-            color: #ccc;
+            color: var(--c-cccccc);
         }
 
         .story-item.read .story-siren {
@@ -180,7 +255,7 @@
 
         .story-posted-at {
             font-size: 0.68em;
-            color: #8b1a1a;
+            color: var(--c-8b1a1a);
             margin-left: 18px;
             margin-top: 2px;
             letter-spacing: 0.02em;
@@ -203,7 +278,7 @@
             font-size: 0.62em;
             font-weight: 700;
             letter-spacing: 0.06em;
-            color: #8b1a1a;
+            color: var(--c-8b1a1a);
             text-transform: uppercase;
         }
 
@@ -211,7 +286,7 @@
             font-size: 0.62em;
             font-weight: 700;
             letter-spacing: 0.06em;
-            color: #999;
+            color: var(--c-999999);
             text-transform: uppercase;
         }
 
@@ -219,10 +294,10 @@
             font-size: 0.55em;
             font-weight: 700;
             letter-spacing: 0.04em;
-            color: #666;
+            color: var(--c-666666);
             padding: 1px 5px;
-            border: 1px solid #bbb;
-            background: #eee8d5;
+            border: 1px solid var(--c-bbbbbb);
+            background: var(--c-eee8d5);
         }
 
         /* --- Story summary (expanded) --- */
@@ -230,10 +305,10 @@
             display: none;
             margin: 8px 0 4px 18px;
             padding-left: 16px;
-            border-left: 2px solid #ddd;
+            border-left: 2px solid var(--c-dddddd);
             font-size: 1.0em;
             line-height: 1.75;
-            color: #222;
+            color: var(--c-222222);
             text-align: justify;
             hyphens: auto;
             -webkit-hyphens: auto;
@@ -248,7 +323,7 @@
         }
 
         .end-mark {
-            color: #8b1a1a;
+            color: var(--c-8b1a1a);
             font-size: 0.7em;
             margin-left: 4px;
         }
@@ -257,28 +332,28 @@
         .source-link {
             font-size: 0.88em;
             font-style: italic;
-            color: #666;
+            color: var(--c-666666);
             margin-top: 8px;
             padding-top: 8px;
-            border-top: 1px dotted #ddd;
+            border-top: 1px dotted var(--c-dddddd);
         }
 
         .source-link a {
-            color: #1a3a6a;
+            color: var(--c-1a3a6a);
             text-decoration: none;
-            border-bottom: 1px dotted #1a3a6a;
+            border-bottom: 1px dotted var(--c-1a3a6a);
         }
 
         .source-link a:hover {
-            color: #8b1a1a;
-            border-bottom-color: #8b1a1a;
+            color: var(--c-8b1a1a);
+            border-bottom-color: var(--c-8b1a1a);
         }
 
         /* --- Empty state --- */
         .empty-state {
             text-align: center;
             padding: 60px 20px;
-            color: #666;
+            color: var(--c-666666);
             font-style: italic;
             font-size: 1.05em;
         }
@@ -295,7 +370,7 @@
             gap: 6px 10px;
             padding: 12px 0;
             cursor: pointer;
-            border-bottom: 1px solid #cccccc;
+            border-bottom: 1px solid var(--c-cccccc);
             user-select: none;
             -webkit-user-select: none;
             min-height: 48px;
@@ -307,7 +382,7 @@
 
         .day-arrow {
             font-size: 0.7em;
-            color: #888;
+            color: var(--c-888888);
             transition: transform 0.2s ease;
             flex-shrink: 0;
             width: 14px;
@@ -321,16 +396,16 @@
         .day-date {
             font-size: 1.2em;
             font-weight: 700;
-            color: #444;
+            color: var(--c-444444);
         }
 
         .day-section.today > .day-header .day-date {
-            color: #8b1a1a;
+            color: var(--c-8b1a1a);
         }
 
         .day-count {
             font-size: 0.82em;
-            color: #888;
+            color: var(--c-888888);
             font-style: italic;
         }
 
@@ -348,9 +423,9 @@
             text-align: center;
             padding: 20px 0;
             margin-top: 32px;
-            border-top: 2px double #1a1a1a;
+            border-top: 2px double var(--c-1a1a1a);
             font-size: 0.82em;
-            color: #888;
+            color: var(--c-888888);
             font-style: italic;
         }
 
