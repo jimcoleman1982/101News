@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Ukraine Says Starlink and Starshield Speeds Restored as Musk Says Ukraine Violated Terms",
+      "summary": "Ukraine's government said Saturday that its military's access to SpaceX's Starlink and Starshield satellite services has been restored to pre-restriction speeds, ending more than a week of disruptions. President Volodymyr Zelenskyy said normal operating speeds returned after the slowdown, which Ukrainian officials said capped Starshield operations at about 160 kph (100 mph).\n\nUkrainian officials said the limits hampered the military's ability to use drones to intercept Russian attack drones and to send supplies to soldiers on the front lines, forcing some operations to be cancelled. The disruption was at the center of a recent dispute between Kyiv and the Trump administration, and questions had persisted about who ordered it.\n\nElon Musk, whose company SpaceX owns Starlink, said in a post on X that the Ukrainian military violated Starlink's terms of service by using it for offensive drone strikes. \"That loophole was closed last week,\" he wrote, his first public comments on the slowdown. Neither Musk nor the U.S. government, which operates Starshield, has offered a fully clear account, and Zelenskyy has said some limits continue to affect Ukrainian forces.\n\nThe episode has deepened scrutiny of Ukraine's dependence on privately owned American infrastructure for its drone operations. Earlier reports also noted that Trump waived certain Russia-related sanctions, drawing criticism from Ukrainian officials and some U.S. lawmakers, while diplomatic efforts around new peace talks continue amid steep obstacles.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-ukraine-war-starlink-drones-a3a0139dfc23365550306dd66fe43daa",
+      "sourceCount": 24,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-24T21:08:13.712423-06:00",
+      "slot": 21
+    },
+    {
+      "category": "business",
+      "headline": "White House Eases Some Tariffs on Canadian Goods Two Weeks Before Midterms",
+      "summary": "The Trump administration will lift some of its 50% tariffs on Canadian goods starting October 30, the White House said Friday. Eased products include plywood sheets, some paper products, certain machinery and refrigeration equipment, and some packing crates and boxes. Tariffs will be newly imposed on other items such as carpets and waste products.\n\nRepublican Sen. Susan Collins, who faces a tight re-election race in Maine, first announced the exemptions and said she had repeatedly lobbied senior officials for relief for Maine's blueberry, potato, apple and seaweed producers. She said she would keep seeking additional relief and a broader trade agreement. Her Democratic challenger, Troy Jackson, said Trump's trade wars made life harder and more expensive and that Collins enabled them, saying she now wants credit for bringing \"a cup of water to put out the fire.\"\n\nThe U.S. imposed the 50% levy on about $20 billion of Canadian goods after trade talks collapsed in August, citing what Trump called unequal treatment of U.S. car, dairy and alcohol exports. Prime Minister Mark Carney matched the tariffs dollar for dollar last month, calling them necessary to protect workers. The White House said the changes reflect efforts to defend American workers and ensure fair trade.\n\nCanadian minister Dominic LeBlanc said Canada is assessing the steps and stands ready to work in good faith toward a more mutually beneficial relationship. Michigan Republican Senate candidate Mike Rogers has also urged Trump to ease trade pressure on Canada, reflecting concern in border states.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-24T21:08:13.712423-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Casts Early Midterm Ballot in Florida, Open to Preemptive Pardons for Officials",
+      "summary": "President Donald Trump voted in person Saturday at the Palm Beach County Supervisor of Elections office in West Palm Beach, saying he voted for all Republicans on his Florida ballot. He and first lady Melania Trump arrived together after he spent the morning at his nearby golf course, and he later traveled to a rally in Georgia. Trump has historically voted by mail, a method he has often criticized, and has drawn criticism for that in the past.\n\nSpeaking to reporters for nearly 20 minutes, Trump voiced openness to preemptively pardoning junior administration officials to shield them from potential congressional investigations if Democrats win control of Congress. He also defended an ad by Ohio Republican gubernatorial candidate Vivek Ramaswamy featuring the estranged mother of Democratic rival Amy Acton, which has drawn bipartisan criticism.\n\nThe remarks came as early voting began in several states, including Michigan and New York, less than two weeks before the November election. Democrats have expressed growing optimism about the midterms but are being outspent by Republicans, while Republican leaders say they are confident of holding both chambers. Former President Barack Obama began campaigning Saturday for Democratic candidates in Ohio and Michigan, criticizing Trump's record, while Trump's allies argue his tariff and economic policies have strengthened the country.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4778870/trump-casts-midterm-ballot-early-florida/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-24T21:08:13.712423-06:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
       "headline": "Update: Brazil Votes in Presidential Runoff Between Lula and Flávio Bolsonaro",
       "summary": "Brazilians go to the polls on Sunday to choose their next president in a runoff between incumbent left-wing President Luiz Inácio Lula da Silva and right-wing Senator Flávio Bolsonaro. The vote will decide the direction of Latin America's largest country.\n\nBolsonaro, the son of imprisoned former president Jair Bolsonaro, beat Lula by a narrow margin in the first round on 4 October. The two candidates offer sharply different visions for the country, and the race has been tight heading into the final days.\n\nThe campaign has been contentious, with Lula having sought to disqualify Bolsonaro over alleged interference involving Meta days before the runoff. Results are expected Sunday evening.",
       "source": "BBC News",
