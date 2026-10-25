@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-25",
+  "dateFormatted": "Sunday, October 25, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Israel Imposes West Bank Movement Restrictions Ahead of Pivotal Tuesday Election as Houthi Attacks on Saudi Arabia Escalate",
+      "summary": "The Israeli military announced restrictions on the movement of Palestinian workers in the run-up to Tuesday's national election. The measures follow the killing of two Israeli soldiers by two Palestinian gunmen on Friday near Hebron, which prompted a full lockdown of the West Bank. Many Israelis view the vote as one of the most pivotal in the country's history, with implications beyond its borders.\n\nCampaign coverage has focused on the ultra-Orthodox community's resistance to military conscription and whether it could bring down the Netanyahu government. Arab Israeli turnout, often depressed by disaffection, is the subject of a strong push to remove the right-wing governing coalition. More than half a million young people are also expected to vote for the first time, and could prove decisive. Prime Minister Benjamin Netanyahu has refused to take personal responsibility for the failures surrounding the October 2023 attack or to order a state inquiry.\n\nElsewhere in the region, the Iran-backed Houthi movement has continued strikes on Saudi airports and oil facilities, with at least three deaths reported in the latest attacks at an airport and an oil field. The United Kingdom said it will provide additional defensive military support to Saudi Arabia. Yemen's army said three missiles hit a training camp in government-controlled Shabwa province on Monday.\n\nWarnings to US officials have also intensified. The State Department has adjusted staffing at diplomatic posts in the region, and a separate attack in Jordan's southern Karak governorate left 34 people injured, with a manhunt under way.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "sourceCount": 24,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:06 AM MT",
+      "addedAtISO": "2026-10-25T03:06:14.886278-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Almost 1,000 Arrested in French Protests as Clashes Erupt After Largely Peaceful Marches",
+      "summary": "French police fired tear gas and used water cannons to disperse protesters after clashes broke out following a day of mostly peaceful demonstrations across the country. Officials said almost 1,000 people were arrested, according to Interior Minister Laurent Nuñez. Authorities estimated about 410,000 people took part, while unions put the figure at roughly 800,000.\n\nIn Paris, objects were thrown at police and the demonstration turned violent. In Marseille, protesters set barricades and rubbish bins alight, and in Bordeaux demonstrators ripped boards from a shop to build a barricade. In Grenoble, hundreds of masked individuals vandalized property and attacked police with mortars and projectiles, according to officials.\n\nAuthorities appear to have avoided a repeat of the rioting and looting of 17 October, which produced some of the worst disorder in modern French history and led to more than 2,700 arrests. The government had deployed tens of thousands of officers and closed the Louvre in anticipation of unrest. President Emmanuel Macron has pledged to overhaul university admissions after meeting protesting students, though the movement has continued.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/live/cq1j38x0n4zrt",
+      "sourceCount": 6,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:06 AM MT",
+      "addedAtISO": "2026-10-25T03:06:14.886278-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Serbia Votes in Watershed Election as Student-Led List Challenges Vučić",
+      "summary": "Serbians went to the polls in a parliamentary election that will decide whether longtime strongman Aleksandar Vučić returns as prime minister or is ousted by an unprecedented student-led opposition. The students campaign on cracking down on corruption and strengthening democracy.\n\nThe vote is widely seen as a test of Vučić's grip on power after a prolonged period of student-driven protest. Analysts describe the race as tight, with the student list the most serious challenge his camp has faced in years.\n\nResults and any disputes over the conduct of the vote will determine whether Serbia's government changes hands or Vučić consolidates his position.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-25/serb-strongman-faces-new-rival-in-watershed-vote-what-to-watch",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:06 AM MT",
+      "addedAtISO": "2026-10-25T03:06:14.886278-06:00",
+      "slot": 5
+    },
+    {
+      "category": "other",
+      "headline": "Twelve Injured, Including Six Children, in Shooting Near Florida A&M Stadium During Homecoming Week",
+      "summary": "A shooting near Florida A&M University's Bragg Memorial Stadium in Tallahassee on Saturday night left 12 people injured, including six juveniles, police said. The shooting occurred just before 8 p.m. near Perry and Manatee streets. Eleven victims sustained gunshot wounds, and the youngest victim was 11.\n\nOne victim was in critical condition, two were seriously injured and eight were stable. Police Chief Lawrence Revell said preliminary information indicated a physical altercation involving two or three individuals preceded the gunfire, and described it as an isolated incident. No arrests had been announced.\n\nThe shooting took place during the university's Homecoming Week, when students and alumni gather for annual celebrations. Revell said officers carried victims to safety and transported them to hospitals before the scene was fully secure. The university said the campus remained safe and urged people to avoid the area while the investigation continued.",
+      "source": "Fox News Latest",
+      "url": "https://www.foxnews.com/us/florida-am-university-shooting-tallahassee-stadium-copy-slug",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:06 AM MT",
+      "addedAtISO": "2026-10-25T03:06:14.886278-06:00",
+      "slot": 5
+    }
+  ]
+}
