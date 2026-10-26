@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-26",
+  "dateFormatted": "Monday, October 26, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Israel Launches Largest Military Drills in Years Ahead of Election as Iran Tensions Rise",
+      "summary": "The Israeli military began large-scale domestic exercises on Sunday designed to counter surprise infiltrations and ground raids across northern and central Israel. The drills, scheduled to run 48 hours, involve the Northern Command's 210th Division, the West Bank Division, the Central Command's 98th and 96th divisions, and the Israeli Air Force. The IDF said troops would rehearse scenarios including surprise attacks and infiltration by air and land, drawing on lessons from the Oct. 7, 2023, Hamas-led attacks.\n\nThe exercises come just before Israel's general election on Oct. 27 and follow an Iranian show of force days earlier, in which the Islamic Revolutionary Guard Corps reportedly fired roughly 30 ballistic missiles of two weapon classes. That display renewed alerts about commercial shipping in the Strait of Hormuz and led the Israeli military to raise its alert level.\n\nIsraeli security analyst Ehud Eilam told Fox News Digital the exercise is aimed mainly at non-state actors in Syria, Lebanon and Jordan, with or without Iranian backing, and described it as the biggest in recent years. He said it also serves as a message to Iran and others not to provoke Israel on election day. Another expert cited by the outlet invoked the 1973 Yom Kippur War, when Egypt and Syria used exercises to mask preparations for a surprise attack, warning of a possible dangerous miscalculation.\n\nThe drills add to a tense regional backdrop that includes earlier-reported U.S. embassy staffing reductions over Iranian threats and escalating Houthi attacks on Saudi Arabia. Israeli officials have not indicated the exercise targets Iran directly.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/israel-drills-surprise-attack-massive-military-exercise-expert-invokes-1973-war",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:01 AM MT",
+      "addedAtISO": "2026-10-26T04:01:56.983106-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: More Than 1,300 Arrested as Clashes Follow Second Weekend of Mass Protests in France",
+      "summary": "More than 1,300 people were arrested across France on Saturday as hundreds of thousands took part in a second weekend of protests over the cost of living and poor school conditions. The interior ministry estimated 410,000 demonstrators, while unions put the figure near 800,000. Largely peaceful marches were followed by clashes in several cities, with police using tear gas and water cannon.\n\nAbout 70,000 officers were deployed, and officials avoided the scale of rioting and looting seen on Oct. 17, which produced some of the worst disorder in modern French history. In Paris, 142 people were arrested, less than half the number a week earlier, after a march from Porte d'Italie to Porte de Vincennes ended in clashes. Interior Minister Laurent Nuñez said several thousand radical activists gathered at the rear of the march, including about 500 identified as rioters. Fifty-three officers were hurt nationwide, and two people were reported seriously injured.\n\nBarricades were set alight in Marseille, boards were stripped from a shop in Bordeaux, and police used tear gas on students in Lyon. President Emmanuel Macron had decreed that only demonstrations organized by recognized trade unions would be permitted, and hundreds have been jailed after fast-track hearings.\n\nBloomberg reported that Macron won his bet that heavy policing could prevent a repeat of the earlier violence, but has few bargaining chips to resolve the underlying anger, which shows few signs of abating.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c95ynd587ynzo",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:01 AM MT",
+      "addedAtISO": "2026-10-26T04:01:56.983106-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: Uganda Imposes 21-Day Quarantine on Citizens Returning From DR Congo as Ebola Spreads",
+      "summary": "Uganda's health ministry announced Sunday that Ugandans returning from the Democratic Republic of Congo must undergo 21 days of quarantine at their own cost. Travelers who have been in DR Congo will not be allowed to transit through Uganda, and only essential travelers will be admitted under intense public health measures. Screening has been intensified at Entebbe International Airport and all land border crossings.\n\nMore than 4,800 people have died in DR Congo since May in the country's deadliest Ebola outbreak, which has spread to several other countries. The measures follow cases in Kenya and Nigeria involving travelers who passed through Entebbe on the same day. Kenya has confirmed eight other cases after a businessman who traveled from DR Congo died two days after arriving in Nairobi, and a related woman died over the weekend.\n\nThe patient in Nigeria is the Ugandan-born wife of a Swiss diplomat who had traveled to Kampala on holiday. Uganda and Nigeria are working to establish her full travel history and routes of exposure. Ugandan officials say no cases have been recorded within the country, which was declared Ebola-free by the WHO in August after 20 cases and two deaths. All 60 contacts of the Kenyan patient have been discharged from monitoring.\n\nHealth Minister Chris Baryomunsi said the risk has not ended and urged continued vigilance, given Uganda's border with DR Congo.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:01 AM MT",
+      "addedAtISO": "2026-10-26T04:01:56.983106-06:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "Data Center Backlash Grows Worldwide, Becoming a Midterm Election Issue in the US",
+      "summary": "Public opposition to data centers is growing around the world as the AI boom drives rapid construction and heavy electricity demand. In the United States, the issue has become prominent ahead of the Nov. 3 midterm elections, with both Republican and Democratic politicians voicing opposition to development in their areas.\n\nThere are about 12,250 data centers worldwide, up from roughly 8,000 operational sites in 2021, according to Data Center Map. The US has 4,767 sites and leads by a wide margin in capacity, followed by China, while Europe lags. Larger facilities are increasingly being built in rural areas, and the biggest under construction are dedicated to AI computing, such as xAI's Colossus 2, which will house hundreds of thousands of Nvidia chips.\n\nCritics cite strain on local power and water resources and environmental effects. Activists say the 41 methane gas turbines planned for Colossus 2 could significantly increase local air pollution, while local regulators say the turbines will meet air quality standards.\n\nThe backlash puts opponents at odds with President Donald Trump, who has dismissed the pushback as a \"sick conspiracy,\" even as public anger grows. Supporters of expansion argue the facilities bring economic benefits and are essential to staying competitive in AI, a concern raised particularly in Europe.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:01 AM MT",
+      "addedAtISO": "2026-10-26T04:01:56.983106-06:00",
+      "slot": 5
+    }
+  ]
+}
