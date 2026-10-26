@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, October 26, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: Lula Wins Fourth Term in Brazil Runoff as Flávio Bolsonaro Refuses to Concede",
+      "summary": "Brazilian President Luiz Inácio Lula da Silva won a fourth term in Sunday's presidential runoff, taking 51.79% of the vote against right-wing challenger Flávio Bolsonaro. Lula is the first president since the return to civilian rule in 1985 to be elected after losing the first round. Bolsonaro, son of convicted former president Jair Bolsonaro, had won the October 4 first round with 47% to Lula's 45%.\n\nBolsonaro has so far refused to recognize the result, calling it \"inexplicable\" and demanding that it be annulled. His camp's challenge centers on Supreme Court Justice Cristiano Zanin's decision to extend voting nationwide by two hours. Some Bolsonaro supporters point out that Zanin once served as Lula's lawyer and allege bias. Both campaigns had requested extensions, citing a lack of buses in São Paulo and Bahia and heavy rain in the south and in São Paulo.\n\nSupreme Electoral Court president Kássio Nunes Marques, who was appointed by Jair Bolsonaro, confirmed Lula's victory and said the extension did not change the outcome. The 4.4 million vote margin makes a legal challenge unlikely to succeed. Lula's campaign gained momentum by boosting turnout after 33 million people abstained in round one, producing the largest drop in abstention between rounds since 1989.\n\nIn São Paulo, Lula told supporters his win was a \"loss for negativity, lies\" and promised to listen most to the Brazilian people. World leaders have congratulated him. He faces a divided country and a Congress packed with Bolsonaro allies. Markets reacted negatively, with the São Paulo stock exchange opening 15% lower and briefly suspending trading.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 8,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:49 PM MT",
+      "addedAtISO": "2026-10-26T13:49:14.732062-06:00",
+      "slot": 14
+    },
+    {
+      "category": "technology",
+      "headline": "Microsoft Offers Voluntary Buyouts to 60,000 Employees as It Retools for AI",
+      "summary": "Microsoft on Monday announced voluntary buyout offers to about 60,000 employees, more than a quarter of its workforce of roughly 223,000. A memo went to employees in the United States, Canada, the UK and India. Bloomberg first reported that the offers are directed at staff in Xbox, Windows, Copilot and finance divisions.\n\nThe memo described the voluntary exits as \"a few of the ways we're trying to meet different business needs while continuing to create opportunities for our own people to grow and contribute.\" Employees have until December 31 to decide, according to CNBC. Chief people officer Amy Coleman wrote, \"My promise is to continue to provide clarity, listen and learn and keep improving.\"\n\nThe move follows a spring voluntary retirement offer to long-tenured older employees and the layoff of 9,000 workers last year. Microsoft has been investing heavily in AI infrastructure, reporting an 18% revenue increase this summer driven largely by cloud products. It disclosed $130 billion in new data center leases earlier this year, and chief financial officer Amy Hood said the shift in lease accounting would lead to roughly $175 billion in capital expenditures and finance leases.\n\nThe company reports earnings on Wednesday, when investors are likely to look for detail on the cost savings and the pace of AI spending. Microsoft did not immediately respond to a request for comment from the New York Post.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/26/tech/microsoft-announces-buyouts-for-60k-employees-quarter-of-workforce-as-part-of-ai-transformation/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:49 PM MT",
+      "addedAtISO": "2026-10-26T13:49:14.732062-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Trump's Board of Peace Hires Former Biden Aide to Lead Congressional Outreach",
+      "summary": "President Trump's Board of Peace has appointed Shelley Greenspan, who served as the Biden White House's Jewish community liaison, to lead its outreach to Congress and Washington think tanks. Axios reported the appointment Monday.\n\nThe selection is part of an effort to broaden bipartisan support for Trump's Gaza peace plan. Hiring a Democratic-administration alumna signals an attempt to win over lawmakers beyond the president's own party, where the plan's reception has been mixed.\n\nImplementation of the plan is expected to get a renewed push after the midterm elections and the formation of a new Israeli government. Israel votes Tuesday, and the result will shape how the next phase proceeds.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/26/trump-gaza-board-of-peace-appoints-biden-aide-greenspan",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:49 PM MT",
+      "addedAtISO": "2026-10-26T13:49:14.732062-06:00",
+      "slot": 14
+    },
+    {
       "category": "technology",
       "headline": "Anthropic Details Planned Nasdaq Listing, Warns of 'Catastrophic or Existential Risks' From AI",
       "summary": "Anthropic, developer of the Claude chatbot, unveiled details of its planned stock market listing in the United States on Monday. The company said it will list on the Nasdaq under the symbol ANT and will be the first fully AI-focused company to go public. Its valuation is expected to exceed that of SpaceX, which held the biggest listing on record at an initial valuation of about $1.8 trillion this summer. Anthropic has not yet disclosed the number of shares, the price range or a listing date.\n\nIn its filing, the company reported $16.3 billion in revenue for the first half of the year against losses of more than $80.7 billion. It said it would often make forward investments \"that may seem irresponsibly large at first glance,\" adding that it aims to be \"bold but sane.\" The filing, with about 90 pages of risk factors, warned that advanced AI systems could, if not developed and operated with appropriate safeguards, oversight and security, pose \"catastrophic or existential risks to humanity,\" particularly if misused, replicated, weaponised or allowed to operate with a high degree of autonomy.\n\nThe company was founded five years ago by chief executive Dario Amodei, his sister Daniela Amodei and five others, and announced its intention to go public in June. Rival OpenAI followed, with its listing now expected early next year according to a person familiar with its plans. Both firms have faced cyber-security and other breaches involving AI agents, and current and former staff have warned that the technology is being developed without the ability to protect against future harms.\n\nOn the same day, the owners of the rights to Elvis Presley's music sued Anthropic, accusing it of using hundreds of his songs to train Claude. The listing is seen as a test case for investor appetite for the AI industry.",
