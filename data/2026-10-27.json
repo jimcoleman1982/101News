@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-27",
+  "dateFormatted": "Tuesday, October 27, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Israel Votes in Pivotal General Election as Regional Tensions Mount",
+      "summary": "Israelis went to the polls on Tuesday in what many view as one of the most pivotal elections in the country's history. Security and democracy have emerged as central issues. Many analysts fear neither of the two leading political blocs will win enough seats for a majority, which could mean weeks or months of coalition negotiations.\n\nThe vote follows a tense week. Israel imposed movement restrictions on Palestinian workers in the West Bank after two Israeli soldiers were killed by two Palestinian gunmen on Friday. Disaffection has often depressed turnout among Arab Israelis, but there is a strong push in that community to remove the right-wing governing coalition. More than half a million young people were also eligible to vote for the first time. Disputes over drafting ultra-Orthodox men into the army have strained Prime Minister Benjamin Netanyahu's coalition.\n\nThe election comes as the region remains volatile. Houthi strikes on Saudi Arabia have escalated, and Israel recently held its largest military drills in years amid tensions with Iran. Separately, a Syrian health official said an attack on a village killed five people, including women and children, and a shooting in the village of Hmoud killed nine Christians; no group has claimed responsibility. The State Department has also adjusted staffing at diplomatic posts in the region.\n\nOfficial results are expected in the coming days. Coalition talks are likely to determine who leads the next government, with Netanyahu seeking re-election.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "sourceCount": 25,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:46 AM MT",
+      "addedAtISO": "2026-10-27T03:46:05.027651-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Rallies in Mississippi as Parties Make Closing Midterm Arguments",
+      "summary": "President Donald Trump campaigned in Mississippi on Monday as part of a closing rally blitz, eight days before the midterm elections. He urged Republican voters to turn out, saying he could not \"take a chance\" on Senator Cindy Hyde-Smith losing her seat in the deep-red state.\n\nThe stop highlighted the difficulties Republicans face in an election that could drastically shift power in Washington. Republican candidates have struggled with online fundraising, leaving them more dependent on large donors and super PACs. Republicans argue the president's presence energizes the base and that the party can hold its majorities.\n\nDemocrats, for their part, are pointing to favorable polling, including a new NPR poll showing an advantage heading into Election Day, and are forming a congressional task force to protect the election. Both parties are using the final stretch to mobilize their voters, with control of Congress at stake and consequences for the remainder of Trump's term.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/election-midterms-donald-trump-ecd5713a939acc8f7ccf171f9a84f250",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:46 AM MT",
+      "addedAtISO": "2026-10-27T03:46:05.027651-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Truce Begins in Russian-Occupied Ukrainian City of Oleshky",
+      "summary": "A limited ceasefire has begun in the Russian-occupied city of Oleshky in Ukraine's Kherson region, where residents have been trapped without food, water and electricity. Ukrainian officials and Russia's defence ministry say the truce is being respected. The White House said it was secured by First Lady Melania Trump.\n\nThe truce is meant to allow aid deliveries and a civilian evacuation planned for Friday, as well as clearing of mines from roads. Ukraine estimates about 6,000 people, including 200 children, remain in the city and surrounding areas, out of a prewar population of 24,000. Residents told the BBC they have cooked garden weeds to survive and want to leave.\n\nMany fear the truce will not hold, and details of the evacuation remain unclear. Some worry Russia may bar returns or inspect phones for signs of Ukrainian support, while others fear shooting could resume and Kyiv be blamed. The Kremlin has acknowledged supply problems while blaming Kyiv. Verifying conditions is difficult because communications are patchy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:46 AM MT",
+      "addedAtISO": "2026-10-27T03:46:05.027651-06:00",
+      "slot": 5
+    },
+    {
+      "category": "other",
+      "headline": "Update: Teen Charged as Adult in Florida A&M Homecoming Shooting That Wounded 11",
+      "summary": "Police in Tallahassee say a 15-year-old has been charged as an adult in the weekend shooting that wounded 11 people at Florida A&M University after the school's homecoming football game. The teenager faces 11 counts of attempted second-degree murder and a count of possession of a firearm by a delinquent.\n\nThe charges follow the arrest of the suspect earlier this week. The shooting near the stadium during homecoming week injured a number of people, including children, and raised concerns about safety at campus events.\n\nThe case now moves through the adult court system. Authorities have not detailed a motive in the material available.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/florida-am-shooting-arrest-tallahassee-e91b8d7e82eb8dee7a38df18771d0adf",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "3:46 AM MT",
+      "addedAtISO": "2026-10-27T03:46:05.027651-06:00",
+      "slot": 5
+    }
+  ]
+}
