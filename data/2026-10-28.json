@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-28",
+  "dateFormatted": "Wednesday, October 28, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Israel's Election Ends Without a Clear Winner as Netanyahu and Eisenkot Blocs Both Fall Short",
+      "summary": "Exit polls after Israel's Tuesday election showed no clear winner. Prime Minister Benjamin Netanyahu's far-right coalition and the opposition bloc led by former army chief Gadi Eisenkot both appear short of the 61 seats needed for a majority in the 120-seat Knesset. Some projections gave the opposition parties more seats overall, while later counts with more than 70 percent of votes tallied showed Netanyahu edging ahead of Eisenkot. Final results may differ from the exit polls and are expected in the coming days.\n\nTurnout was the highest since 1999, with more than three-quarters of eligible voters casting ballots in the first election since the October 7 attacks and the war in Gaza. Arab parties are projected to win roughly 18 to 19 seats, an unprecedented showing after record turnout in Arab communities. Netanyahu spent election day warning his base about Arab turnout. Higher overall turnout could also push some smaller parties in his bloc below the electoral threshold, complicating his path to a majority.\n\nNeither side has an obvious route to a governing coalition without relying on Arab parties, which both camps have historically resisted, so negotiations could take weeks. Netanyahu has said the true results will be known in one or two days. Eisenkot warned Netanyahu not to use his role as caretaker prime minister to shape the coalition process, saying, \"Netanyahu, don't dare use Israel's security for your political needs.\" Reports of a rift between Netanyahu and army chief Eyal Zamir over a directive on Iran, which Netanyahu and Defense Minister Israel Katz denied, add to the uncertainty.\n\nThe outcome matters well beyond Israel, since the next government will help shape the ongoing confrontation with Iran, the future of Gaza and Israel's relationship with the United States. Party leaders are expected to begin discussing potential alliances as the count is finalized.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/israel-election-netanyahu-eisenkot-3b5a0fd078208155337ee9a0b9fbfde2",
+      "sourceCount": 22,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:32 AM MT",
+      "addedAtISO": "2026-10-28T03:32:23.115873-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Supreme Court Rules Immigration Judges Lack Power to Shelve Deportation Cases",
+      "summary": "The U.S. Supreme Court ruled on Tuesday that immigration judges do not have the power to shelve deportation cases, according to a Reuters report. The decision addresses whether judges can indefinitely set aside removal proceedings, a tool that has long been used to manage the immigration court backlog and to give some noncitizens more time to pursue relief.\n\nThe available report gives limited detail on the vote or reasoning, and the full opinion should be consulted for specifics. The ruling is a significant one for the Trump administration, which has pushed to speed removals and limit discretion in the immigration courts. Supporters of stricter enforcement argue that shelving cases effectively allows people to remain in the country without a final decision, while immigrant advocates say it removes a flexibility that helps courts prioritize cases and protects people with pending claims.\n\nThe decision comes amid other litigation over administration immigration policy. On the same day, a federal judge in Boston temporarily blocked a rule giving refugees just 10 days to challenge the termination of their legal status, halting enforcement through November 6. Further coverage is expected to clarify how the ruling will affect the roughly millions of cases pending in the immigration courts.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us-supreme-court-denies-immigration-judges-power-shelve-deportation-cases-2026-10-27/",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:32 AM MT",
+      "addedAtISO": "2026-10-28T03:32:23.115873-06:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "Luxury Cruise Ship Suspends Round-the-World Voyage, Stranding Passengers in Cambodia as Fuel Costs Soar",
+      "summary": "The operator of the Villa Vie Odyssey, a luxury residential cruise ship on a years-long circumnavigation, suspended operations on Tuesday because of extraordinarily high fuel costs. Passengers, reportedly around 200 aboard, were ordered to disembark in the Cambodian port of Sihanoukville. The U.S.-based operator said it is working on disembarkation plans and temporary living arrangements.\n\nThe company said global fuel prices have soared since the war with Iran began earlier this year. It said the monthly fuel cost per cabin in parts of Asia has risen to as much as $8,000 from $1,800. Measures such as slowing the itinerary and spending more time in port were not enough, and the company said passing the full increase to residents was not realistic.\n\nThe operator said it will spend the next 60 days on restructuring and recapitalization, though it said no outcome is assured. The ship, which can carry up to 650 people, left Belfast in October 2024 and was more than 750 days into a planned 3.5-year voyage covering nearly 150 countries. Permanent cabins cost $120,000 to $440,000. Passenger Holly Hennessey said residents are scattered across hotels and waiting for information.\n\nThe case illustrates how the Iran war's effect on energy prices is reaching consumers and smaller businesses far from the conflict.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:32 AM MT",
+      "addedAtISO": "2026-10-28T03:32:23.115873-06:00",
+      "slot": 5
+    }
+  ]
+}
