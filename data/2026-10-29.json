@@ -3,6 +3,48 @@
   "dateFormatted": "Thursday, October 29, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump Warns House Democrats Against Impeaching Hegseth",
+      "summary": "President Trump on Thursday cautioned congressional Democrats against impeaching Defense Secretary Pete Hegseth if they win the House next week. Asked by the Washington Examiner before leaving for a South Carolina rally, he said, \"All they do is they talk about impeaching everybody,\" and added that \"if we wanted to play that game, we could play it just as well.\" He praised Hegseth as \"a great warrior\" and \"the best at his job in many, many years.\" It was unclear what retaliation he meant, though he has previously threatened to veto all legislation from a Democratic-led Congress.\n\nHouse Democrats filed six articles of impeachment against Hegseth in April, led by Rep. Yassamin Ansari of Arizona, citing the Iran war, which began Feb. 28 and has pushed up gas and diesel prices, and the lethal boat strikes against alleged drug traffickers. Republican Rep. Thomas Massie of Kentucky, who is leaving Congress in January after losing his primary, said he will force a vote on impeachment articles when the House returns after the election, accusing Hegseth of illegal conduct in Iran and other campaigns.\n\nThe warning comes as Cook Political Report rates 220 seats as at least lean Democratic against 198 for Republicans, with 17 toss-ups. Hegseth also fired the Pentagon's top military planner, Lt. Gen. Brett Sylvia, this week over alleged leaks of classified information about Iran and Ukraine. Republicans generally defend Hegseth's conduct of the war and drug-strike campaign as lawful and necessary, while Democrats call them unauthorized and costly.",
+      "source": "Washington Examiner",
+      "url": "http://www.washingtonexaminer.com/news/white-house/4784172/trump-advises-democrats-against-impeaching-pete-hegseth-thomas-massie/",
+      "sourceCount": 14,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:41 PM MT",
+      "addedAtISO": "2026-10-29T16:41:33.484657-06:00",
+      "slot": 18
+    },
+    {
+      "category": "technology",
+      "headline": "Nvidia Rejects Report That Executive Tied to CEO Jensen Huang Passed Intelligence to Beijing",
+      "summary": "Nvidia on Thursday dismissed a New York Times report that CEO Jensen Huang was targeted by a Chinese intelligence asset. The Times reported that American spy agencies discovered last year that Alice Huang, an executive at the Singapore-based data center company Megaspeed, funneled information to Beijing. She is described as a businesswoman who had a close relationship with Jensen Huang.\n\nAccording to the report, President Trump was briefed on the findings and took no action. Nvidia said the chip diversion allegations were \"thoroughly investigated and debunked last year.\"\n\nThe report arrives amid sustained scrutiny of advanced AI chip sales and possible diversion to China, a central issue in U.S.-China technology competition. Critics of the administration's approach to chip exports are likely to seize on the claim that no action followed the briefing, while Nvidia and supporters of looser export policy maintain that its compliance has been vetted. The government has not publicly detailed its assessment.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/6181938-nvidia-huang-china-intelligence-report/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:41 PM MT",
+      "addedAtISO": "2026-10-29T16:41:33.484657-06:00",
+      "slot": 18
+    },
+    {
+      "category": "other",
+      "headline": "Patrick Stewart, Star of Stage and 'Star Trek,' Dies at 86",
+      "summary": "Patrick Stewart, the classically trained British actor who brought Shakespearean gravitas to \"Star Trek: The Next Generation\" and the \"X-Men\" films, died Wednesday in Los Angeles at 86. His spokesperson, Kelly Bush Novak, said he died after \"a brief and poignant journey\" with Alzheimer's disease and Lewy Body Dementia, diagnoses that had not been previously disclosed.\n\nBest known as Capt. Jean-Luc Picard and Professor Charles Xavier, Stewart spent much of his career on stage. He played roles from Claudius to Macbeth, performed a one-man \"A Christmas Carol,\" and appeared with friend Ian McKellen in Pinter's \"No Man's Land\" and Beckett's \"Waiting for Godot.\" His 2008 Broadway Macbeth earned his only Tony nomination.\n\nRaised in a working-class family in Mirfield, Yorkshire, he won a scholarship to the Bristol Old Vic Theatre School. In his memoir \"Making It So,\" he wrote about his father's violence toward his mother, and he later became a patron of the domestic abuse charity Refuge.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/arts/patrick-stewart-star-of-stage-and-star-trek-dies-at-86",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "4:41 PM MT",
+      "addedAtISO": "2026-10-29T16:41:33.484657-06:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Russian Strikes Kill 19 Civilians Across Ukraine, Including 14 at Dnipro Rail Station",
       "summary": "Russian airstrikes across Ukraine killed 19 civilians on Thursday, according to reports. The deadliest attack came when a Russian drone hit two trains at a station in central Ukraine, killing at least 14 people. President Volodymyr Zelenskyy said the strikes demonstrated Moscow's \"true attitude towards de-escalation\" of the war.\n\nThe attacks came as a local truce, credited to Melania Trump, brought some hope elsewhere in the country. That truce is in the Russian-occupied city of Oleshky. The contrast underscores the uneven picture of de-escalation efforts as diplomatic contacts continue.\n\nThe strikes also coincide with new diplomatic outreach involving Russia. Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre held a rare phone call with Vladimir Putin this week on the war in Ukraine. Putin welcomed the call and said Moscow supports efforts to restore ties with Europe after years of confrontation. Whether those contacts produce any movement toward a ceasefire remains unclear, and Kyiv has pointed to the continued attacks on civilian infrastructure as evidence that Russia is not serious about de-escalation.",
