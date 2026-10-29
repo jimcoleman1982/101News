@@ -3,6 +3,48 @@
   "dateFormatted": "Wednesday, October 28, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: Qatar-Led Mediators Seek Deal to Restart US-Iran Talks and Avert Renewed War After Midterms",
+      "summary": "Regional mediators led by Qatar are trying to broker a diplomatic arrangement to restart negotiations between the United States and Iran and prevent a resumption of fighting after next week's midterm elections, according to three U.S., Israeli and regional sources cited by Axios. The Qataris are seeking to persuade Iran to allow UN inspectors to visit its bombed nuclear sites in exchange for limited U.S. sanctions relief. Axios reports that a renewed bombing campaign appears likely shortly after the midterms without a last-minute deal.\n\nIranian Foreign Minister Abbas Araghchi said on social media that Tehran is in contact with mediators to review proposals to end the war, including ideas to implement a seven-day plan to reopen the Strait of Hormuz. President Trump acknowledged that Vice President JD Vance wrote to Iranian authorities but downplayed it as an offer of medical supplies. Other reports described the letter as the most senior U.S. outreach yet, and Trump denied directing Vance to revive peace talks.\n\nTrump has said new strikes on Iran remain an option after the midterms and is sending additional military resources to the Middle East, despite initially promising a campaign lasting only weeks. Critics, including Guardian commentators, warn of a looming escalation and call the conflict an illegal war of choice. Supporters of the administration's approach argue pressure is needed to force Iran to account for its uranium stockpile. The Pentagon has put war costs above $47 billion.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/news/early-voting-offers-republicans-little-comfort/",
+      "sourceCount": 21,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-28T21:08:15.986213-06:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Hegseth Ousts Top Pentagon Strategist Lt. Gen. Brett Sylvia",
+      "summary": "Defense Secretary Pete Hegseth has fired Army Lt. Gen. Brett Sylvia, the Pentagon's Director for Strategy, Plans and Policy (J-5) on the Joint Staff, The Hill reported, citing sources. ABC News also covered the removal. Sylvia is the latest senior military officer to be removed since Hegseth took the department's helm nearly two years ago.\n\nThe J-5 directorate is responsible for advising the Joint Chiefs on strategy and global military planning, making the post central to war planning at a time when the United States is engaged in an ongoing conflict with Iran and weighing renewed strikes. No official reason for the dismissal was given in the reporting available.\n\nHegseth's critics have argued that the pattern of removing senior officers politicizes the military and strips it of experienced planners during active operations. Supporters of the secretary have said he is entitled to build a leadership team aligned with the president's priorities and to hold senior officers accountable. The Pentagon had not detailed a successor or reasons at the time of reporting.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/6180055-hegseth-ousted-military-strategist-syllia/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-28T21:08:15.986213-06:00",
+      "slot": 21
+    },
+    {
+      "category": "technology",
+      "headline": "Data on More Than 40,000 DHS Employees Leaked by Transparency Group",
+      "summary": "The nonprofit Distributed Denial of Secrets (DDoSecrets) published data Wednesday identifying more than 40,000 Department of Homeland Security employees and contractors, some of whom work in the intelligence community. The group did not identify its source, referring to the individual only as the \"Department of Peace.\"\n\nAccording to The Guardian, the records reference operation names, surveillance programs and information on undercover initiatives, and reveal how the agency is organized. The release is described as unprecedented in scale for DHS and is the third such government data disclosure in the past month.\n\nThe exposure of personnel details raises security concerns for employees, particularly those in intelligence and undercover roles, and could draw scrutiny of how the data was obtained. Transparency advocates say such releases shed light on government surveillance and immigration enforcement, while officials typically argue they endanger staff and operations. DHS had not detailed a response in the available reporting.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/6179649-hackers-publish-dhs-employee-data/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-10-28T21:08:15.986213-06:00",
+      "slot": 21
+    },
+    {
       "category": "politics",
       "headline": "Update: Fed Holds Rates at 3.75%-4% in 10-2 Vote as Warsh Cites Inflation, Announces Smaller Meeting Schedule",
       "summary": "The Federal Reserve left its benchmark federal funds rate unchanged at a range of 3.75 percent to 4 percent on Wednesday, at its last meeting before the midterm elections. The Federal Open Market Committee voted 10-2, with two members dissenting in favor of a quarter-point increase. The decision follows a September hike, the central bank's first in three years, and inflation remains above 3 percent.\n\nChair Kevin Warsh told reporters that politics played no role in the pause and said an \"information-rich\" period before the December meeting will help officials decide their next step. He repeated his pledge to bring inflation down and deliver price stability, \"no ifs, ands or buts.\" Investors widely expect another increase in December, according to coverage from several outlets.\n\nWarsh also said the committee will phase in an adjusted meeting schedule, voting at seven of its eight meetings next year and six in 2028, with one meeting devoted to broad strategy. The new development today is the formal rate decision, the dissent pattern and the schedule change, going beyond the pre-meeting expectations previously reported.\n\nThe rate level is among the highest going into a midterm election in more than 20 years. Inflation and the cost of living are central issues in the closing campaign, and Democrats and Republicans have each sought to frame the economy to their advantage.",
