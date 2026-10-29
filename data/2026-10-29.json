@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-29",
+  "dateFormatted": "Thursday, October 29, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Update: Democrats Lead Generic Ballot by 8 Points as Midterms Near; Judge Rejects DOJ Bid on California Mail Ballots",
+      "summary": "With five days until the Nov. 3 midterm elections, the New York Times and Nate Silver polling average shows Democrats leading the generic congressional ballot by 8.2 points as of Oct. 26. President Trump's average approval rating stands at 37 percent in Silver's tracker. Nearly 40 million votes have already been cast, and all 435 House seats and one-third of the Senate are on the ballot.\n\nOn Wednesday, U.S. District Judge David Carter, a Clinton appointee, declined to order California officials to segregate and not count mail ballots tied to roughly 20,000 people the Justice Department claims are noncitizens. Carter warned the request would \"wreak havoc\" on elections already underway. Critics called the request legally thin and designed to cast doubt on results, while supporters of the administration framed it as an effort to safeguard election integrity. The Justice Department is also deploying a record 1,000 election monitors nationwide, including to Maine.\n\nIn Alaska, the New York Times reported that operatives aligned with Democrat Mary Peltola's campaign helped recruit a candidate named Daniel J. Sullivan to appear on the ballot against Republican Sen. Dan Sullivan. Peltola's campaign and national Democrats deny involvement. Trump called it \"voter fraud at the highest level\" and said Peltola should be barred from the race, while Sen. Lisa Murkowski demanded the \"truth.\" Democratic strategists have compared it to past GOP-aligned efforts to boost third-party candidates.\n\nTrump campaigned in Ohio for Sen. Jon Husted, who is in a tight race with Sherrod Brown, while former President Obama rallied in Georgia, saying of Republicans, \"These are not serious people.\" Democrats need to flip four GOP-held Senate seats for a majority, and control may hinge on about a dozen races.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/interactive/polls/congressional-vote-2026.html",
+      "sourceCount": 22,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:47 AM MT",
+      "addedAtISO": "2026-10-29T03:47:16.350866-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Netanyahu Bloc Leads Israeli Vote Count but Neither Side Reaches Majority",
+      "summary": "With roughly 85 to 90 percent of ballots counted, Prime Minister Benjamin Netanyahu's Likud and its allies were on track for about 53 seats in the 120-seat Knesset. That is well short of the 61 needed to govern. The opposition bloc led by former military chief Gadi Eisenkot also fell short, even though exit polls had suggested it might lead.\n\nTurnout was the highest in nearly three decades. Arab parties are projected to win 18 to 19 seats, an unprecedented showing, and the two main blocs appear unable to form a government without relying on them. Netanyahu's bloc lost seats but emerged as the largest grouping.\n\nBBC analysts said the most likely outcome is an impasse, potentially leading to new elections. Weeks of coalition negotiations are expected, with ultra-Orthodox draft disputes and Arab party participation among the key obstacles. The result comes amid regional tension, including concerns about a possible renewed war with Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:47 AM MT",
+      "addedAtISO": "2026-10-29T03:47:16.350866-06:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: FDA Scientists Opposed HHS Plan to Ease Access to Unproven Peptide Drugs, AP Reports",
+      "summary": "Most Food and Drug Administration scientific staff opposed a plan to ease access to unproven peptide drugs favored by Health Secretary Robert F. Kennedy Jr., according to six people familiar with its development who spoke to the Associated Press anonymously. The policy document, posted Wednesday by HHS, was driven almost entirely by the department, and FDA staff had limited input.\n\nThe policy directs the FDA not to take enforcement action against specialty compounding pharmacies that sell about six wellness peptides, including BPC-157, TB-500 and KPV. Under existing rules these substances would be illegal drugs because they have not undergone FDA review for safety and effectiveness. They are promoted in the wellness industry for building muscle, healing injuries and boosting energy.\n\nHHS originally wanted a formal regulation adding the peptides to a list of substances deemed safe for compounding. FDA officials said staff had major safety concerns and would not support that, so HHS shifted to an enforcement-discretion approach. Kennedy has called himself a \"big fan\" of peptides and has described using BPC-157 for a muscle injury. An FDA advisory panel had narrowly recommended easing access to six of seven popular peptides, and an HHS spokesperson did not immediately comment.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/health/ap-report-fda-scientists-opposed-the-trump-administrations-move-to-ease-peptides-access",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:47 AM MT",
+      "addedAtISO": "2026-10-29T03:47:16.350866-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "El Salvador Sends 2,000 Troops to Haiti Over Four Missing Soldiers",
+      "summary": "El Salvador has deployed more than 2,000 soldiers to Haiti to find four nationals who went missing nearly two weeks ago, the Salvadoran foreign ministry said Wednesday. President Nayib Bukele informed Haitian Prime Minister Alix Didier Fils-Aime of the \"robust deployment.\" The troops will also assist security efforts against Haitian gangs.\n\nThe four air force technicians, serving with the UN-backed Gang Suppression Force, were ambushed in an armored vehicle in the Croix-des-Bouquets area, which is controlled by armed groups. No gang has claimed responsibility. Haiti recently handed over four bodies it said were the missing men, but Bukele said they did not match: one was a child and another wore a different country's uniform.\n\nBukele has threatened to wipe out Haiti's gangs as he did in El Salvador if the men are not released. The Gang Suppression Force has struggled to penetrate gang-held areas, and the UN says more than 5,700 people have been killed in gang violence in Haiti this year. Tensions between the two governments have escalated over the disappearance.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:47 AM MT",
+      "addedAtISO": "2026-10-29T03:47:16.350866-06:00",
+      "slot": 5
+    }
+  ]
+}
