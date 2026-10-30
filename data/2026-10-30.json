@@ -3,6 +3,34 @@
   "dateFormatted": "Friday, October 30, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Novaya Gazeta, Russia's Last Major Independent Newspaper, Shuts Down Under Government Pressure",
+      "summary": "Novaya Gazeta, for three decades one of Russia's most prominent independent news outlets, announced it is closing and accused the authorities of murdering the newspaper. \"They've killed us,\" read a statement on its website. \"The Russian authorities and Russian special services have forced the paper to stop its work.\"\n\nThe paper received an eviction order and, at the same time, the system that let it collect reader donations was disabled, leaving it with no way to fund operations. It had already lost its licence and had its website blocked, and several journalists were labelled \"foreign agents.\" Earlier this year police searched its offices, investigative journalist Oleg Roldugin was arrested on a charge of unlawful access to computerised information, and editor-in-chief Sergei Sokolov was questioned and had his home searched.\n\nThe outlet, co-founded by a Nobel Peace Prize laureate, said six journalists connected with it were killed for doing their jobs, including Anna Politkovskaya, shot dead 20 years ago this month. Its statement said human rights and freedoms have been eliminated in Russia and that \"having personal convictions is now state treason.\"\n\nPressure on independent media has grown since Russia's full-scale invasion of Ukraine in February 2022, when new laws punishing dissent and criticism of the war were adopted. Readers had used VPNs to get around the blocking. The Kremlin has not been quoted in the available coverage.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:00 AM MT",
+      "addedAtISO": "2026-10-30T11:00:02.423707-06:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Reinstates Iowa and Kansas Rallies a Day After Cancelling Them as Senate Races Tighten",
+      "summary": "President Donald Trump will hold in-person rallies in Iowa and Kansas this weekend after all, a day after the Republican National Committee said he would instead hold tele-rallies. Sources told The Hill, Washington Examiner and other outlets that the events are back on. The reversal came five days before Tuesday's midterm elections, and the original change had fueled speculation about why he was scaling back travel.\n\nThe Senate races in both states are considered toss-ups. An Emerson College poll shows Democrat Adam Hamilton at 48.7% to Republican Sen. Roger Marshall's 45.2% in Kansas. Marshall had said he was doing so well that Trump had better places to spend his time. A Republican-aligned source said Trump loves his supporters and wanted to extend his time on the trail.\n\nElsewhere, the Cook Political Report shifted a dozen more House races toward Democrats and now forecasts more than 218 seats leaning Democratic. It also moved Senate races in Nebraska and Florida toward challengers while still favoring Republican incumbents. A CNN poll across four Senate races found Democrats well-positioned in Michigan and Texas, with no clear leader in Maine or Kansas. Republicans argue their base turns out most when Trump is engaged personally, while Democrats point to his low approval ratings and affordability concerns as dragging down incumbents.\n\nEarly voting is far above the last midterm, with nearly 45 million ballots already cast according to ABC News and an Associated Press analysis.",
+      "source": "The Hill",
+      "url": "https://www.cnn.com/world/europe/ukraine",
+      "sourceCount": 21,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:00 AM MT",
+      "addedAtISO": "2026-10-30T11:00:02.423707-06:00",
+      "slot": 11
+    },
+    {
       "category": "business",
       "headline": "Alphabet Loses $500 Billion in Value as AI Search Cuts Into Ad Sales; Tech Stocks Slide",
       "summary": "Alphabet lost just over $500 billion in market value on Thursday after disclosing that its own AI-powered search features are eating into its traditional search advertising revenue. Its total market capitalization fell to $3.46 trillion from $3.97 trillion the day before, and shares dropped more than 12% to a six-month low. Chief business officer Philipp Schindler said the company's conversational \"AI mode\" is cannibalizing ad income tied to traditional search queries, though he said he felt \"very good about our trajectory.\"\n\nThird-quarter revenue rose 25% from a year earlier to $127.6 billion, but the figure fell short of analyst expectations, particularly in advertising. Amazon shares fell about 6% in after-hours trading after it reported 11% sales growth to $201 billion alongside negative cash flow of $42 billion, with spending up roughly six-fold over three months. Chief executive Andy Jassy said the company sees the chance to build two businesses that could each reach $1 trillion, pointing to its custom chips and its Bedrock AI platform. Intel also fell after its results.\n\nThe selloff renewed fears that the AI investment boom could unravel. The New York Times reported the S&P 500 is on track for a small monthly loss, with the broader market holding up better than the AI-heavy names that carry outsized weight in the index. Asian markets also fell Friday, with SK Hynix down more than 6% and SoftBank down 4.7%, while news of the Binance hack added to the pressure on sentiment.\n\nFormer Google advertising chief Kim Scott told the BBC the company would \"rather eat its own lunch than allow someone else to eat their lunch,\" describing the spending as a long-term bet on AI. Microsoft, Amazon and Google have all said they will keep spending heavily, while investors worry about the effect on growth in their core businesses.",
