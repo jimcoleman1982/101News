@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-30",
+  "dateFormatted": "Friday, October 30, 2026",
+  "stories": [
+    {
+      "category": "business",
+      "headline": "Update: Binance Hack Put at $6.3 Billion, Half of Assets Frozen as Analysts Point to North Korean Group",
+      "summary": "Binance, the world's largest cryptocurrency exchange, said it has been hit by a hack totaling about $6.3 billion, up from the roughly $5.7 billion figure initially under investigation. The company said about half of the stolen assets have been frozen, but a substantial share remains in the hands of the attackers.\n\nTwo blockchain analytics firms have attributed the incident to a North Korean hacking unit, although no group has claimed responsibility. Binance did not directly answer questions about possible links to North Korea. Pyongyang-linked hackers have been blamed for several large crypto thefts in recent years, and U.S. authorities have said such proceeds help fund the country's weapons programs.\n\nThe scale of the theft would make it among the largest in the history of digital assets. It raises questions about the security of centralized exchanges and the exposure of customers who hold funds on them. Binance has not detailed how the attackers gained access or what it will do to reimburse affected users.\n\nInvestigators and analytics firms are continuing to trace the movement of the stolen funds, and further freezes or recoveries are possible as exchanges and law enforcement coordinate. The incident is also likely to draw regulatory attention to the industry's custody and security practices.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:52 AM MT",
+      "addedAtISO": "2026-10-30T03:52:07.107278-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Supreme Court Lets New Hampshire Bar Student IDs for Voting, Curbs Judges' Power Over Deportation Cases",
+      "summary": "The Supreme Court ruled 8-1 to allow New Hampshire to block student IDs as a valid form of voter identification. The decision lets the state's restriction stand just days before the November 3 midterm elections.\n\nSeparately, in a ruling stemming from the Fifth Circuit, the court held that immigration judges lack the power to shelve deportation cases, a decision that sharply curtails the ability of judges to free undocumented immigrants from the removal process. Supporters of stricter immigration enforcement have framed the ruling as restoring the intended limits of immigration court authority.\n\nVoting rights advocates have long argued that excluding student IDs makes it harder for young voters to cast ballots, while supporters of such laws say they protect election integrity and ensure consistent identification standards. Immigrant advocates warned that the deportation ruling removes a tool judges used to manage caseloads and spare people with strong equities from removal, while enforcement proponents said it ends a form of administrative discretion Congress never granted.\n\nThe court's docket also includes a dispute over Colorado preschool benefits, in which a mother says her family was denied $12,000 because she chose a Catholic school, a claim she describes as religious discrimination.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/topic/organization/us-supreme-court",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:52 AM MT",
+      "addedAtISO": "2026-10-30T03:52:07.107278-06:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Russian Drone Strike on Dnipro Rail Station Kills at Least 14 as Ukraine Truce Around Oleshky Holds",
+      "summary": "A Russian jet-powered drone hit a crowded platform at the main railway station in Dnipro, killing at least 14 people and wounding at least 14 others, including an 11-year-old boy, regional head Oleksandr Hanzha said. A passenger train bound for Zaporizhzhia was at the platform. Russia has not commented publicly and denies deliberately targeting civilians.\n\nElsewhere, two 15-year-old girls were killed in a missile attack on Chernihiv, with at least 25 others injured, and three people were killed and 28 injured in a drone attack on Kremenchuk that hit homes and a school. Ukraine declared a day of mourning for Dnipro and Chernihiv on Friday. President Volodymyr Zelensky called for further U.S., European and G7 sanctions and criticized an earlier deal between Donald Trump and Vladimir Putin that eased some sanctions and allowed U.S. imports of Russian diesel.\n\nThe strikes came during a fragile, U.S.-brokered temporary ceasefire tied to an evacuation of civilians from Russian-occupied Oleshky, an effort championed by First Lady Melania Trump. Ukraine's ombudsman said the truce was holding into a third day, and Kherson residents have enjoyed their first quiet in years. The pause is due to end Sunday, and Ukrainian officials fear Russia is using it to reinforce positions ahead of a renewed assault on Kherson.\n\nMoscow, meanwhile, said 613 Ukrainian drones were launched toward the Moscow region overnight as it hosted the Russia-Africa Summit.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:52 AM MT",
+      "addedAtISO": "2026-10-30T03:52:07.107278-06:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Democrats Prepare Corporate Subpoenas as Justice Department Deploys 1,000 Election Monitors",
+      "summary": "With Democrats favored to gain ground in the midterms, party members are preparing investigations and subpoenas aimed at corporate executives who embraced President Trump after his 2024 victory with large investment pledges. Axios reports that CEOs who tied their fortunes to the administration could spend the last two years of Trump's term defending their dealings under oath. Republicans and allies of the administration have generally cast such probes as politically motivated.\n\nSeparately, local election officials are raising concerns as the Justice Department deploys 1,000 monitors to polling sites. The department has framed monitoring as routine oversight of election law compliance, while some local officials worry about possible intimidation at the polls.\n\nIn a related legal development, U.S. District Judge Richard Stearns ruled Thursday that the Trump administration's definition of \"medically frail\" for Medicaid purposes, drawn from the One Big Beautiful Bill Act, is \"contrary to law.\" He issued a temporary injunction on states having to determine medical frailty. The administration is expected to face questions about whether it will appeal.\n\nA POLITICO poll also shows the business community has work to do to win over a wary public, as the midterms arrive on November 3.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/30/democrat-subpoenas-investigations-corporate-trump",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:52 AM MT",
+      "addedAtISO": "2026-10-30T03:52:07.107278-06:00",
+      "slot": 5
+    }
+  ]
+}
