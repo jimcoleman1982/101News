@@ -3,6 +3,48 @@
   "dateFormatted": "Saturday, October 31, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: Ohio Shatters Midterm Early Voting Record as Candidates Fan Out Across Battlegrounds",
+      "summary": "Ohio voters have broken the state's midterm early voting record with three days remaining before Tuesday's election. As of 6 a.m. Saturday, 1,485,900 Ohioans had cast ballots, according to the Associated Press, surpassing the previous midterm record of 1,473,983 set in 2022. The mark was passed before early voting had concluded, with more voting hours still to come.\n\nNationally, more than 50 million Americans have already voted in person or by mail, according to CNN. Both parties are making a final push in battleground states, with competitive Senate contests in Michigan, Maine, Iowa, Alaska, Kansas, Texas and New Hampshire. In New Hampshire, Turning Point Action says it is adding hundreds of staff to support Republican Senate nominee John E. Sununu against Democratic Rep. Chris Pappas.\n\nEach party is parsing early vote data. Democrats hope their early-vote advantage will withstand a potential surge of Republican turnout on Election Day, while Republicans are watching closely to see how independent voters break. President Donald Trump, who has held rallies nearly every day this month, is campaigning by telephone rallies on Saturday and has reinstated in-person events in Iowa and Kansas for Sunday, though he has said his voice is wearing down.\n\nIn Michigan, a rift is growing between Democratic Senate nominee Abdul El-Sayed and former primary rival Rep. Haley Stevens, and Republican Mike Rogers has said Stevens is welcome at his campaign events. Election officials and analysts caution that close races may take days to call, and that late-counted ballots are normal rather than a sign of fraud.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/3-days-to-go-candidates-fan-out-across-battlegrounds-as-midterms-hit-final-weekend-october-31",
+      "sourceCount": 20,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:11 PM MT",
+      "addedAtISO": "2026-10-31T13:11:31.563757-06:00",
+      "slot": 14
+    },
+    {
+      "category": "other",
+      "headline": "One Dead, Six Injured in Shooting at Spirit Halloween Store in Fairfield, California",
+      "summary": "One person was killed and six others were wounded in a shooting at a Spirit Halloween store inside the Solano Town Center in Fairfield, California, on Friday night. Police responded at about 8:30 p.m. At least three of the victims were in critical condition, and their ages have not been released.\n\nAs of Saturday morning, police said they believe the shooting was a targeted incident involving one suspect inside the store. No one has been detained, and detectives are reviewing video footage and other evidence to identify the person responsible. A witness said his wife, who was inside, heard five to seven shots as people ran.\n\nThe FBI's Sacramento office is deploying its Evidence Response Team to assist Fairfield police, and Suisun City police and the California Highway Patrol also responded. The mall canceled its planned Mall-O-Ween trick-or-treating event but reopened Saturday from 10 a.m. to 8 p.m. Anyone with information is asked to contact Fairfield police at 707-428-7600.",
+      "source": "KCRA",
+      "url": "https://www.kcra.com/article/fairfield-police-investigate-solano-town-center-incident/74301177",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "1:11 PM MT",
+      "addedAtISO": "2026-10-31T13:11:31.563757-06:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Appeals Court Pauses Ruling Requiring Idaho Abortion Exceptions for Women's Health",
+      "summary": "A federal appeals court on Friday paused a lower-court ruling that had ordered Idaho to allow exceptions to its abortion ban when a doctor deems an abortion necessary to protect the mother's health. The 9th U.S. Circuit Court of Appeals issued the decision 2-1, finding that the doctor who brought the suit had problems with the basis of the earlier ruling.\n\nThe pause means the state's ban remains enforceable without the broader health exception while litigation continues. Supporters of Idaho's law have argued that the state has the authority to set its own limits on abortion and that the ban already contains exceptions for life-threatening situations. National Review, which covered the ruling, took a view favorable to the appeals court's decision.\n\nAbortion-rights advocates and physicians have argued that the narrow exceptions leave doctors uncertain about when they can legally intervene, putting patients' health at risk. The case is likely to continue in the courts, and the decision comes days before midterm elections in which abortion remains a campaign issue.",
+      "source": "The Hill",
+      "url": "https://thehill.com/regulation/court-battles/6186080-federal-appeals-court-lifts-idaho-abortion-ruling/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:11 PM MT",
+      "addedAtISO": "2026-10-31T13:11:31.563757-06:00",
+      "slot": 14
+    },
+    {
       "category": "world",
       "headline": "Update: Supertanker Hits Mine in Strait of Hormuz as Trump Says Iran Wants to Talk",
       "summary": "A supertanker carrying more than 2 million barrels of oil caught fire Friday after hitting a naval mine in the Strait of Hormuz, Iran's Revolutionary Guard said, according to state media. It was the fourth oil tanker to suffer an explosion on Friday after using what the Guard described as unauthorized routes through the strait, according to The Associated Press.\n\nTehran has repeatedly said vessels must receive permission before traveling through the waterway. Iran warned last month that ships transiting without approval risked \"destruction.\" The incidents add to pressure on global oil shipping at one of the world's most important energy chokepoints.\n\nPresident Donald Trump said Iran wants to talk and predicted the conflict will end \"very soon,\" according to Fox News Digital's live coverage. The remarks come as Qatar-led mediators work to restart US-Iran talks and as Iran's supreme leader has ordered a \"maximum\" response to any renewed US or Israeli attack. Iran's account of the tanker blasts comes from state media and has not been independently verified.\n\nThe story is being covered by 22 outlets across the political spectrum. What happens next depends on whether diplomacy gains traction and whether further commercial vessels are struck in the strait.",
