@@ -3,6 +3,48 @@
   "dateFormatted": "Sunday, November 1, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Judge Dismisses Trump's $10 Billion Defamation Suit Against Wall Street Journal Over Epstein Birthday Letter",
+      "summary": "A federal judge has thrown out President Donald Trump's $10 billion defamation lawsuit against The Wall Street Journal, its parent company Dow Jones and Rupert Murdoch, ruling that the suit was \"grasping at straws.\" Judge Darrin Gayles dismissed the case with prejudice, meaning it cannot be refiled. He had previously dismissed an earlier version of the suit that sought $20 billion in damages.\n\nThe suit stemmed from a Journal report last year on a letter bearing Trump's name that was allegedly part of a 2003 birthday book for Jeffrey Epstein, before the financier was charged with sex crimes. The paper described typewritten text framed by the hand-drawn outline of a naked woman. Trump has denied writing or signing the letter and called the story fake and defamatory.\n\nIn a 20-page ruling, Gayles found that Trump's lawyers failed to show the defendants published with \"actual malice,\" the legal standard requiring proof that a publisher knew a statement was false or acted with reckless disregard for the truth. He cited the paper's \"thoughtful and detailed investigation\" and rejected the argument that Trump's denial obliged the Journal to drop the story, saying that rule would let any public figure block negative coverage simply by denying it and would run afoul of the First Amendment.\n\nThe story appeared as the administration faced bipartisan criticism over its handling of Epstein documents. Press freedom advocates are likely to welcome the ruling, while Trump allies have long argued that media outlets publish damaging stories about the president with insufficient verification. It was not immediately clear whether Trump would appeal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwr5yj2lj9myo",
+      "sourceCount": 7,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:05 AM MT",
+      "addedAtISO": "2026-11-01T10:05:40.031710-07:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Peltola Denies Knowledge of Alleged Plot to Put Two Dan Sullivans on Alaska Ballot as DOJ Escalates Probe",
+      "summary": "Democratic Senate candidate Mary Peltola said she knew nothing about an alleged scheme that led to two men named Dan Sullivan appearing in the Alaska Senate race. \"I knew nothing about any other candidate on the ballot except for me and the incumbent,\" she told voters Thursday. \"I am not interested in tricking voters.\"\n\nThe Trump administration is escalating its inquiry. At a Friday press conference, U.S. Attorney Michael Heyman said both civil and criminal investigations are ongoing, though no charges had been filed as of Friday evening. The Justice Department has reportedly begun issuing subpoenas to Democratic officials allegedly linked to the recruitment effort, according to CBS News. Later Friday, administration lawyers asked a federal judge to order state election officials, before Monday, to preserve and segregate all ballots ranking Dan J. Sullivan, a retired teacher. Associate Attorney General Stanley Woodward argued the step would help determine whether such rankings resulted from voter confusion.\n\nThe controversy began when The New York Times reported that people tied to Peltola's campaign and senior Democratic Senatorial Campaign Committee aides tried to recruit Dan J. Sullivan as a spoiler candidate, citing text messages and interviews with 12 people. The Peltola campaign denies the reports, and Sullivan has denied any link to her campaign. The BBC said it had not independently verified the reporting.\n\nRepublican Sen. Dan S. Sullivan and allies accuse Democrats of trying to confuse voters, and Gov. Mike Dunleavy ordered an official inquiry. Alaska's ranked-choice system lets voters rank both Sullivans. The race is among the tightest in the midterms, which will decide control of Congress.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cmwyq2gg1yzzo",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:05 AM MT",
+      "addedAtISO": "2026-11-01T10:05:40.031710-07:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Update: Gulf States Fear Fiercer Iranian Retaliation if US Strikes Again",
+      "summary": "Gulf states fear that another US-Israeli attack on a better-prepared Iran could unleash an even more destructive war across the region, according to Bloomberg. Officials in the Gulf worry they would be left to pick up the pieces of any renewed conflict.\n\nThe concern comes as tensions remain high over Iran, with the US maintaining a naval blockade and Iran's supreme leader having ordered a \"maximum\" response to any renewed attack. President Trump has said Iran wants to talk, and the administration is pursuing a dual-track strategy of pressure and diplomacy.\n\nGulf governments, which host US forces and depend on shipping through the Strait of Hormuz, would be exposed to retaliation. Their concern is that Iran has had time to prepare since earlier strikes and could respond more forcefully.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-01/gulf-states-fear-fiercer-iran-retaliation-if-us-strikes-again",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:05 AM MT",
+      "addedAtISO": "2026-11-01T10:05:40.031710-07:00",
+      "slot": 11
+    },
+    {
       "category": "world",
       "headline": "India's Opposition Holds Mass Delhi Rally Demanding Election Chief's Resignation Over Voter-Roll Revision",
       "summary": "Tens of thousands of people gathered at Ramlila Maidan in central Delhi on Sunday for a rally demanding the resignation of India's chief election commissioner, Gyanesh Kumar. The protest was organised by the opposition INDIA bloc and led by Rahul Gandhi's Congress party. It drew many of the alliance's most prominent figures, including Sonia Gandhi, Congress president Mallikarjun Kharge, Mamata Banerjee, Akhilesh Yadav, Mehbooba Mufti, Supriya Sule and Tejashwi Yadav. Protesters chanted \"Save the vote, save the country\" and \"Vote thief, give up power.\"\n\nAt the centre of the dispute is the Special Intensive Revision (SIR) of electoral rolls, which has resulted in more than 130 million names being removed from India's draft voter lists. The opposition alleges that legitimate voters are being struck off and that the process could benefit Prime Minister Narendra Modi's Bharatiya Janata Party in future elections. The Election Commission says the exercise is meant to remove duplicate registrations and the names of people who have died, moved away or are otherwise ineligible, and that wrongly excluded voters can seek to have their names restored.\n\nAddressing the crowd, Rahul Gandhi said the gathering represented \"the voice of India's youth, women, farmers and workers\" and vowed: \"We will not allow democracy to be destroyed in India.\" Kharge said the alliance would continue its campaign until Kumar resigns. Banerjee pledged to keep fighting what she described as threats to democracy.\n\nThe BJP and the Election Commission deny the opposition's allegations. Senior BJP leader and federal minister JP Nadda called the rally a \"calculated conspiracy to plunge the nation into anarchy - in the name of democracy,\" accusing the opposition of trying to destabilise the government. The rally is the latest in a series of protests over the roll revision, and the opposition has signalled the campaign will continue.",
