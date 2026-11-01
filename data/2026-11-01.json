@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-01",
+  "dateFormatted": "Sunday, November 1, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: More Than 320,000 Protest Across France in Third Weekend of Demonstrations as Unrest Spreads Across Europe",
+      "summary": "More than 320,000 people took to the streets across France on the weekend in a third consecutive round of nationwide demonstrations against the rising cost of living and poor public services, according to the interior ministry. At least 290 protesters were arrested. Police said about 70,000 people marched in Paris, where officers fired tear gas and clashed with demonstrators.\n\nAuthorities mounted an extensive security operation to prevent a repeat of the violence, rioting and looting that took place two weeks ago. The protests come as France prepares for a general strike in the coming days, which could further disrupt transport and public services.\n\nThe unrest is not confined to France. Demonstrations were also reported in Albania, Germany and Italy, with the BBC's correspondent James Waterhouse reporting that young people are driving protests across Europe. Earlier cost-of-living protests in Germany turned violent, with shops looted.\n\nThe new developments are the latest weekend's turnout and arrest figures, the scale of the Paris march, and the spread of protests to additional European countries. Attention now turns to the planned general strike and whether the government can contain the unrest.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:20 AM MT",
+      "addedAtISO": "2026-11-01T03:20:22.869801-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Analysis Links Serbia's Student Landslide to Hungary's Ousting of Orbán",
+      "summary": "Serbian President Aleksandar Vučić and Hungarian Prime Minister Viktor Orbán, who met in northern Serbia last November, are both now out of power. Orbán was defeated in April by Péter Magyar's Tisza party. Last Sunday, a student movement less than two years old won Serbia's parliamentary elections by a landslide.\n\nThe two movements differ in structure: Tisza is built around its leader, while Serbia's Student List says it has no leadership. Both were driven by young, tech-savvy voters, with turnout of 79% in Hungary and 69% in Serbia. Activists used AI tools to analyze data, identify threats to the vote and mobilize tens of thousands of election monitors.\n\nA Hungarian civic group, DE, sent 70 monitors to Serbia and ran workshops over the summer sharing its methods. A key technique was identifying polling districts in advance where unusually high governing-party results suggested intimidation or chain voting. Student activist Péter Klemm of Subotica said masked groups of Vučić supporters gathered near polling stations from about 16:00, prompting mobile teams to film events, with 20 to 30 volunteers at threatened sites acting as a deterrent.\n\nOrbán and Vučić had held power for 16 and 14 years respectively, taking over state institutions and building overlapping business interests. They shared ties to Russian President Vladimir Putin and Chinese President Xi Jinping, and backed Bosnian Serb separatist leader Milorad Dodik. The new element is this comparative analysis of how the two governments fell and what it means for the region.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:20 AM MT",
+      "addedAtISO": "2026-11-01T03:20:22.869801-07:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "How US Mail-In Ballots Are Secured and Counted Ahead of Midterms",
+      "summary": "Ahead of the US midterm elections on November 3, BBC Verify visited an election center in Maryland to examine how mail-in ballots are processed and counted. The report details security measures including CCTV monitoring and zip ties used to secure ballots.\n\nPresident Donald Trump continues to make unsubstantiated claims that mail-in voting leads to widespread fraud. The BBC notes that every US state allows some form of postal voting, a method the president says he has used himself in the past.\n\nVoting rules and regulations vary by state, and the report offers a behind-the-scenes look at one jurisdiction's procedures. The piece comes as the midterms approach, with disputes over election administration, including subpoenas and monitoring, already prominent in the campaign. Supporters of stricter voting rules argue they protect election integrity, while election officials and many Democrats say existing safeguards are robust.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:20 AM MT",
+      "addedAtISO": "2026-11-01T03:20:22.869801-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Ethiopian PM Puts Cabinet Ministers Through Military Training Amid Security Tensions",
+      "summary": "Ethiopian Prime Minister Abiy Ahmed has put cabinet ministers and other senior officials through military training, saying armed forces discipline can build stronger leaders and advance national development. Photos he shared on social media show him taking part in exercises with ministers, deputy ministers and heads of institutions at the Hurso military training center.\n\nParticipants include House of Federation Speaker Muferiat Kamil, Finance Minister Fitsum Assefa and Health Minister Mekdes Daba. The move is unusual, as senior civilian officials in Ethiopia are rarely seen undergoing such training. It is unclear when the training began or how long it will last.\n\nAbiy said leadership must be physically fit, morally strong and intellectually capable, adding: \"Soldiers have targets while civilians have goals. The objective of both is victory.\" The training comes amid fighting in parts of Tigray, conflict in Amhara, insecurity in Oromia, and heightened tensions with Eritrea, raising concerns about renewed war between the two countries.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:20 AM MT",
+      "addedAtISO": "2026-11-01T03:20:22.869801-07:00",
+      "slot": 5
+    }
+  ]
+}
