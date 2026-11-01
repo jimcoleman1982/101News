@@ -3,6 +3,48 @@
   "dateFormatted": "Sunday, November 1, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "ACA Open Enrollment Begins for 2027 Coverage With Changes for Shoppers",
+      "summary": "The Affordable Care Act health insurance marketplaces opened Nov. 1 for 2027 coverage. Consumers can shop for plans through HealthCare.gov or their state exchanges. NPR reported that getting an early start may be especially important this year because of changes affecting health insurance shoppers.\n\nThe enrollment period affects millions of Americans who buy coverage on the individual market, and changes to eligibility, subsidies or premiums can alter what households pay. Shoppers are advised to compare plans carefully and confirm deadlines in their state.\n\nThe opening of enrollment comes days before the Nov. 3 midterm elections, in which health care costs are among the issues candidates have addressed. Further details on the specific changes were not available in the initial report.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:32 PM MT",
+      "addedAtISO": "2026-11-01T16:32:47.494463-07:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Update: Oleshky Evacuees Reunite With Families in Ukraine as Kherson Ceasefire Nears End",
+      "summary": "People evacuated from the devastated Russian-occupied city of Oleshky were reunited with loved ones after crossing from Belarus into Ukraine on Saturday. Families met at a site in the Chernihiv region of northern Ukraine as evacuees arrived in buses and ambulances.\n\nThe evacuees had traveled through Crimea and Russia after leaving the city on Friday. The evacuation took place under a ceasefire brokered by US First Lady Melania Trump, which took effect across the frontline region of Kherson on Tuesday.\n\nCeasefire measures are set to remain in place until the end of Sunday, Nov. 1. Whether the truce will be extended or lapse is the key question now facing the region.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:32 PM MT",
+      "addedAtISO": "2026-11-01T16:32:47.494463-07:00",
+      "slot": 18
+    },
+    {
+      "category": "science_health",
+      "headline": "Update: Cambridge Scientist Marta Shahbazi Among 69 Dead in Spanish Train Crash",
+      "summary": "Dr Marta Shahbazi, an award-winning University of Cambridge researcher, died in the Spanish train disaster while traveling to collect a prize for scientific excellence. She led a research group at the MRC Laboratory of Molecular Biology in Cambridge and studied early human embryo development and cell biology. She was a mother of two.\n\nShe was heading to a conference in El Rompido, Andalusia, to receive an award from the Spanish Society for Developmental Biology. Her institute called her death \"a profound shock and a huge loss,\" and colleagues at the Cambridge Stem Cell Institute described her as highly respected for pioneering work and a collaborative spirit.\n\nThe crash, near Urda south of Madrid, occurred when a state-operated Renfe high-speed train struck the back of a stationary Iryo train, killing 69 people. It is Spain's worst rail crash since 2013, and the country declared three days of national mourning. More than 540 people were aboard both trains.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:32 PM MT",
+      "addedAtISO": "2026-11-01T16:32:47.494463-07:00",
+      "slot": 18
+    },
+    {
       "category": "other",
       "headline": "Private Jet With Nine People Aboard Crashes in South Florida Neighborhood",
       "summary": "A Learjet 60 carrying nine people crashed into a residential area near Cresthaven, Florida, at about 12:50 p.m. local time Sunday, erupting into a large fireball roughly nine miles from Mar-a-Lago. The Federal Aviation Administration confirmed that nine people were on board. The aircraft had departed Austin-Bergstrom International Airport in Texas and was headed for North Eleuthera Airport in the Bahamas.\n\nPalm Beach County Fire Rescue described the event as an aircraft incident and warned the public to avoid the area, calling it an extended incident. Military Trail was closed between Cresthaven Boulevard and 10th Avenue North. Video shared on social media showed the aircraft dropping rapidly before an explosion sent smoke and flames into the air.\n\nAccording to Flightradar24, the jet climbed to a cruising altitude of 41,000 feet after leaving Austin. Near Naples, Florida, it began a descent to 35,000 feet, then briefly climbed again before entering a steep, right-hand descent. The FAA and the National Transportation Safety Board are investigating, and the NTSB will lead the inquiry and release updates. The number of casualties on the ground and the cause of the crash had not been announced.",
