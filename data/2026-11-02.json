@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Judge Dismisses Case Against Two Former FBI Officials Over Hunter Biden Probe, Citing 'Rush Job'",
+      "summary": "A federal magistrate judge on Monday dismissed criminal complaints against two former FBI officials, Nikki Floris and Bradley Benavides, who were accused of making false statements to Congress about the bureau's role in the Hunter Biden investigations. Magistrate Judge Zia Faruqui ruled that prosecutors failed to show probable cause. He said he was deeply troubled by the mistakes and rushed nature of the case.\n\nThe judge described the prosecution as a rushed effort directed by the White House and FBI Director Kash Patel, and said it appeared intended to affect the midterm elections. The officials were accused of falsely suggesting to Congress that they were unaware of federal investigations surrounding Biden. The Justice Department may still seek a grand jury indictment, which would bypass the complaint that was dismissed.\n\nThe administration's supporters have argued that officials who mislead Congress should face accountability and that the Biden-era FBI acted with political bias. Critics, including the judge, said the case showed signs of political motivation. The ruling is one of several politically charged Justice Department actions in the days before Tuesday's vote.",
+      "source": "NBC News",
+      "url": "https://www.nationalreview.com/2026/11/the-murky-ilhan-omar-affair/",
+      "sourceCount": 23,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:44 PM MT",
+      "addedAtISO": "2026-11-02T13:44:15.459674-07:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Trump to Remove South Africa and Rwanda From AGOA Trade Preference Program",
+      "summary": "President Donald Trump has notified Congress of his intention to remove South Africa and Rwanda from the African Growth and Opportunity Act, effective January 1, 2027. The program allows eligible African countries to export thousands of products to the US duty-free. US Trade Representative Jamieson Greer said an annual review found both countries engaged in practices inconsistent with the program's eligibility requirements.\n\nThe administration cited barriers to US trade and investment and concerns over national security and foreign policy interests. For Rwanda, it also raised human rights, political pluralism, rule of law and workers' rights. For South Africa, it additionally pointed to corruption. The move comes about a week after the US Treasury sanctioned Rwanda's defense ministry for its alleged role in directing thousands of troops to fight alongside M23 rebels in eastern DR Congo.\n\nUS Ambassador to South Africa Leo Brent Bozell III called the outcome predictable and preventable, blaming the South African government's rejection of US concerns. Relations between Washington and Pretoria have been strained since last year, when Trump accused South Africa of white genocide in a meeting with President Cyril Ramaphosa and launched a refugee pathway for Afrikaners. The removal threatens a significant source of preferential market access for both economies.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:44 PM MT",
+      "addedAtISO": "2026-11-02T13:44:15.459674-07:00",
+      "slot": 14
+    },
+    {
+      "category": "technology",
+      "headline": "Snap Settles Social Media Addiction Case Days Before Bellwether Trial",
+      "summary": "Snap Inc., the parent company of Snapchat, has settled claims that its platform was intentionally designed to be addictive to young users. The settlement, announced Monday by lawyers for plaintiffs identified as SJ and KDB, ended the bellwether trial two days before opening arguments in Los Angeles.\n\nSnap joins Alphabet, Meta and TikTok in resolving allegations that their platforms were designed to encourage addictive behavior among minors. The Snap settlement follows similar deals reached earlier by the other companies. Terms were not disclosed in the reporting provided.\n\nThe cases are closely watched as tests of whether social media companies can be held liable for product design choices that plaintiffs say harmed young users' mental health. With each defendant settling before a jury could hear the claims, no verdict has yet established how courts will treat the addiction theory. Similar litigation continues across the country.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/6189431-snap-settles-addictive-app-claims/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:44 PM MT",
+      "addedAtISO": "2026-11-02T13:44:15.459674-07:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
       "headline": "Update: Houston ICE Officer Charged With Aggravated Assault to Turn Himself In After Hitting Fleeing Man With Car",
       "summary": "Mario Alberto Morales, a U.S. Immigration and Customs Enforcement officer indicted on a felony charge of aggravated assault with a deadly weapon, plans to turn himself in at a Houston courthouse on Monday, his attorney David Lindenmuth told The Associated Press. A Harris County grand jury returned the indictment on Friday. The charge stems from an Oct. 10 incident in which Morales struck Miguel Parra Hernandez, a 48-year-old Mexican construction worker, with an unmarked SUV during a chase through a parking lot.\n\nSurveillance video shows Morales' vehicle driving over a median and hitting Parra Hernandez as he ran. Harris County District Attorney Sean Teare played body camera footage on Friday in which Morales is heard saying, \"I was coming in, and I hit him with the car.\" Parra Hernandez broke his leg and is recovering at a rehabilitation facility while in federal custody. He told deputies he fled a traffic stop when Morales began pulling on a mask and that Morales \"threw the car\" at him.\n\nLindenmuth has called the incident \"clearly just an accident\" and said local officials had \"invented a crime out of thin air.\" ICE has said Parra Hernandez ran in front of the car and that the operation targeted a man named Jose Mendoza-Cervantes; his daughter told the immigrants' rights group FIEL that her father has been dead for nearly a decade. Morales told deputies he did not brake but did not intentionally strike the man.\n\nMorales is among a small handful of federal agents criminally charged for injuring people during the Trump administration's aggressive immigration crackdown. ICE agent Christian Castro pleaded not guilty last month to charges that he lied to the FBI after shooting a Venezuelan man in Minneapolis. Many other ICE shootings, some fatal, have not led to charges, and the case highlights tension between local prosecutors and federal immigration enforcement.",
       "source": "PBS NewsHour",
