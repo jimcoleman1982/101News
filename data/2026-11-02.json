@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-02",
+  "dateFormatted": "Monday, November 2, 2026",
+  "stories": [
+    {
+      "category": "business",
+      "headline": "Update: Binance Customers Withdraw $3.6 Billion as Exchange Reopens After Largest Crypto Hack",
+      "summary": "Customers withdrew a net $3.6 billion from Binance, the world's largest cryptocurrency exchange, as it reopened on Sunday after what is believed to be the largest hack in history. The breach affected $6.3 billion in digital assets and forced the company to suspend all transactions. Binance said it processed $4.649 billion in withdrawals and $1.01 billion in deposits between 06:00 and 15:30 GMT on November 1. It said the net outflow equals just over 2% of the $171 billion in assets it manages, and that withdrawals were stabilizing after an initial spike.\n\nThe FBI and other organizations have accused North Korea of responsibility. The attack has been attributed to TraderTraitor, also known as the Lazarus Group, which stole a then-record $1.5 billion from the Bybit exchange in 2025. On Saturday the FBI published a list of wallet addresses linked to the group and urged industry partners to block transactions involving them. Binance said early checks suggest the incident may have started with a compromised laptop belonging to an engineer.\n\nBinance says it has covered about 95% of the stolen assets using its corporate treasury, futures insurance fund and emergency reserves, and that the remainder may take longer to source. It has repeatedly pledged to cover all losses. The hack hit Binance.com, while its US-facing platform said it was unaffected.\n\nChainalysis, which is working with the firm and governments to recover funds, says the stolen money is still being laundered actively, layered across thousands of addresses and deposits. Withdrawals of more than two dozen major cryptocurrencies, including Bitcoin and Ethereum, have resumed, and other services will return in phases once security checks are finished.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:53 AM MT",
+      "addedAtISO": "2026-11-02T03:53:04.864851-07:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Carney Reports Progress in Trade Talks With Trump; Trump Says Deal 'Concept' Is in Place",
+      "summary": "Canadian Prime Minister Mark Carney said Sunday he had a constructive conversation with President Donald Trump about a potential trade deal, with negotiators set to work toward an agreement in the coming weeks. Carney said the talks built on recent discussions about a deal that would create jobs, lower costs for families and protect Canada's languages, culture and sovereignty. Hours later, at a rally in Iowa, Trump said, \"We have the concept of a very good deal with Canada\" and that the sides are \"very close.\"\n\nTrump said the negotiations involve construction of the Keystone XL pipeline and the possibility that U.S. farmers would pay no tariffs on Canadian products, though he acknowledged final details are not settled. The two sides have discussed relief from U.S. tariffs on Canadian steel and automobiles, but no specifics have been announced.\n\nThe upbeat tone marks a shift from August, when Canada walked away from talks after rejecting U.S. demands that Carney said threatened Canadian sovereignty, French-language protections and the auto industry. Trump then imposed 50% tariffs on roughly $20 billion in Canadian goods, and Canada retaliated. As recently as Wednesday, Carney said no agreement was possible before Tuesday's midterm elections.\n\nThe trade war has become a campaign issue, particularly in Michigan and Maine, where Senate races are closely watched. Michigan Republican Senate candidate Mike Rogers has called for an end to the tariff dispute. Negotiators are expected to work over the coming weeks, and any agreement would need its details confirmed by both governments.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/canadian-prime-minister-carney-reports-progress-in-trade-talks-with-trump-days-before-u-s-midterms",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:53 AM MT",
+      "addedAtISO": "2026-11-02T03:53:04.864851-07:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Supreme Court to Hear Colorado Preschool Case Pitting Religious Liberty Against LGBTQ Rights",
+      "summary": "The Supreme Court is set to hear arguments Tuesday on whether Colorado can require preschools that receive public funds to admit the children of same-sex couples. The case is the latest to place religious liberty and LGBTQ rights in tension on the court's docket. It arrives as the nation prepares for midterm elections.\n\nDuring discussion of the case, one comment reflecting the religious-liberty side held that \"it seems like there's short shrift being given to religious liberty in the state of Colorado.\" Supporters of Colorado's requirement argue that programs taking public dollars must follow nondiscrimination rules and serve all families equally.\n\nThe decision will affect how states may condition public funding on nondiscrimination policies for religious institutions. Separately, national groups are spending money in battleground judicial races, hoping to build liberal majorities on state courts within two years. A ruling is expected later in the court's term.",
+      "source": "The Hill",
+      "url": "https://thehill.com/regulation/court-battles/6185430-supreme-court-colorado-religious-liberty-lgbtq-rights/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:53 AM MT",
+      "addedAtISO": "2026-11-02T03:53:04.864851-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Xi Hosts Oman's Sultan, Offers Help on Hormuz Shipping Amid Fallout From US-Iran War",
+      "summary": "Chinese President Xi Jinping offered to help address challenges in the Middle East and seek safe passage for ships through the Strait of Hormuz during an unprecedented visit to China by Oman's sultan. Both countries are grappling with the fallout from the US war with Iran.\n\nThe Strait of Hormuz remains dangerous and costly for shipping, despite US claims that it is open. Oman, which borders the strait, has long served as a diplomatic intermediary in the region, and China is a major buyer of Gulf energy.\n\nThe visit underscores Beijing's interest in a larger role in Gulf diplomacy while the waterway's disruption raises costs worldwide. Airlines such as Ryanair have already cited surging fuel prices tied to the conflict. No specific agreements on shipping were detailed in the initial report.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/xi-hosts-oman-s-sultan-for-rare-visit-to-china-with-hormuz-shipping-in-focus",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:53 AM MT",
+      "addedAtISO": "2026-11-02T03:53:04.864851-07:00",
+      "slot": 5
+    }
+  ]
+}
