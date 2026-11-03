@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Update: Control of Congress at stake as Americans vote in 2026 midterm elections",
+      "summary": "Voters went to the polls on Tuesday in midterm elections that will decide control of Congress. Thirty-six states are also electing governors, and a range of high-stakes ballot questions are being decided. Millions of votes had already been cast in early voting, and Ohio set an early voting record.\n\nForecasts and polling point to a difficult night for Republicans. Decision Desk HQ projected Senate races in Texas, Alaska and Maine could flip toward Democrats, which would put the party in position to win the upper chamber. A final New York Times/Siena poll showed Democrats gaining ground in key Senate races, and Reuters/Ipsos put President Trump's approval at 32 percent. Trump closed his campaign at the Lincoln Memorial Reflecting Pool, where he spent much of his speech on his Washington beautification projects before turning to his agenda. He acknowledged historical trends against the president's party, saying, \"We gave this a very strong shot.\" Republicans are also spending heavily to defend normally safe seats in Kansas, South Carolina and Mississippi.\n\nThe Michigan Senate race was upended when Democratic Rep. Haley Stevens endorsed Republican Mike Rogers over Democratic nominee Abdul El-Sayed, citing what she called hateful messaging from his campaign and supporters. Republicans, including Vance, said the endorsement gives some voters permission to back the GOP candidate, while Democratic leaders reacted with anger and some House members called for her removal from the caucus. El-Sayed's campaign reported a $2.4 million fundraising surge afterward. Cook Political Report moved the race to lean Democratic.\n\nThe Justice Department announced election-fraud charges against 63 people in 15 states on Monday, and the Supreme Court rejected a Trump administration bid to force California to set aside 20,000 ballots. Critics of the administration say these moves amount to pressure on the election process, while supporters say they are enforcing election laws. Results will begin arriving Tuesday night, and control of the Senate may take time to determine.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/2026/11/2026-midterm-elections-live-updates/",
+      "sourceCount": 21,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-11-02T21:08:00.334841-07:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Update: US strikes Iran's Qeshm Island on eve of midterms, first attacks in two months",
+      "summary": "The US military carried out limited strikes on Iran's Qeshm Island in the Strait of Hormuz late Monday, the first American attacks on Iran in roughly two months. US officials described them as defensive, targeting radar detectors, missile launchers and Iranians using surface-to-air missiles against US assets. One official said the strikes responded to an Iranian attack on a US aircraft. Iranian state media reported explosions on Qeshm Island and at Bandar Lengeh.\n\nThe strikes came hours after Vice President JD Vance said he was optimistic that diplomacy was moving in the right direction. They were not seen as a return to full hostilities. Trump told Axios he is \"in no rush\" to decide whether to resume fighting, and called the conflict a \"soft war\" in a Fox News interview. His approach is to let negotiations play out while preparing to resume war if a deal proves unreachable.\n\nPressure on Trump comes from several directions. Israeli Prime Minister Benjamin Netanyahu is pressing him to strike Iran immediately after the elections, according to Israeli and US sources describing a tense Saturday call, and Gulf states are bracing for a possible attack. Iranian President Masoud Pezeshkian said the supreme leader has granted his government more authority to pursue peace talks, and Iran has said Trump must decide whether to end the war or return to it. Brent crude traded around $104 on Monday, down from $112 earlier in the day, which Trump cited in his closing campaign pitch.",
+      "source": "CBS News",
+      "url": "https://www.cnn.com/world/europe/ukraine",
+      "sourceCount": 22,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-11-02T21:08:00.334841-07:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Britain and France to lead 3,000-troop exercise rehearsing Ukraine deployment",
+      "summary": "Britain and France will lead a military exercise in Poland to test a multinational force's ability to deploy to Ukraine if a peace deal is reached. Exercise Koalicja runs from November 9 to 22 and involves about 2,800 personnel from 12 European nations, including Belgium, Estonia, Germany, Lithuania, the Netherlands, Poland, Spain, Sweden and Turkey. The UK contribution includes 300 troops and a pair of RAF Typhoons.\n\nThe exercise will rehearse how to move, protect and supply a force in Ukraine and test command and control among different national contingents. Fighter jets will simulate reassuring commercial aircraft once Ukraine's skies reopen, and Turkey will lead a maritime mission aimed at eventually clearing mines to resume Black Sea trade. UK Defence Secretary Wes Streeting said: \"This is not a hypothetical plan, it's a real force, ready to help Ukraine once the fighting stops.\"\n\nWestern officials stress the force would not take part in offensive operations, peacekeeping or ceasefire monitoring, and would not operate under NATO command or on the front line. The US has joined discussions but is not contributing troops. Russia opposes foreign troops in Ukraine, and President Putin has said they would be \"legitimate targets.\" Officials have not spelled out rules of engagement, and the final shape of any force remains undecided.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-11-02T21:08:00.334841-07:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
       "headline": "Update: Supreme Court Rejects Trump Bid to Sideline California Ballots as Midterm Campaign Closes",
       "summary": "The Supreme Court on Monday quickly rejected the Trump administration's emergency request to force California to set aside potentially thousands of ballots that the Justice Department claims may have been cast by noncitizens. The court acted hours after the request was filed. The ruling comes on the eve of the midterm elections and follows earlier lower-court decisions barring the federal government from demanding separation of California ballots.\n\nPresident Donald Trump closed out his campaign with remarks at the Reflecting Pool in Washington, where he held up photos touting his administration's renovations of the capital. Earlier, he said he would \"veto everything\" if Democrats win back control of Congress. Republican Sen. Dan Sullivan of Alaska described his race as \"the firewall for freedom\" and framed it as a choice between \"cheating versus integrity,\" citing a New York Times report on Democratic involvement in putting a candidate with the same name on the ballot. Challenger Mary Peltola's campaign denies wrongdoing, and Senate Minority Leader Chuck Schumer and the Democratic Senatorial Campaign Committee deny involvement.\n\nSigns have been favorable for Democrats in forecasts. The Cook Political Report shifted five more House races and the contested Michigan Senate race toward Democrats, and New York Times/Siena polls showed Democrats leading in five of seven key states that could decide Senate control. Republicans argue their policies are delivering economic opportunity and warn that a Democratic majority would halt that progress, while Democrats focus on the cost of living and oversight of the administration. Polls open Tuesday across the country.",
       "source": "CNN",
