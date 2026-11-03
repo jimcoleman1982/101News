@@ -3,6 +3,48 @@
   "dateFormatted": "Tuesday, November 3, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Two Mike Rogers Senate Campaign Strategists Are Registered Israel Lobbyists, Filings Show",
+      "summary": "Two communications consultants working for Republican Mike Rogers's Michigan Senate campaign are registered agents of the Israeli government, according to Foreign Agents Registration Act filings reported by the Washington Examiner. Abigail Ronson and Jesse Stokes of Convergence Media have been registered since May 2026 and October 2025, respectively, through Clock Tower X LLC, a firm run by former Trump campaign adviser Brad Parscale.\n\nClock Tower X signed a multimillion-dollar contract with Israel last year to build online support, and it subcontracted Convergence Media staffers. FARA records describe the project as a nationwide campaign to combat anti-Semitism. The Rogers campaign has paid Convergence Media $1.6 million this cycle. Ronson has acted as a campaign spokeswoman and Stokes has written campaign press releases, though the campaign has denied Ronson is a staffer. DropSite News first reported the ties on Sunday.\n\nThe disclosure comes amid fallout from Rep. Haley Stevens's surprise weekend decision to endorse Rogers over Democratic nominee Abdul el-Sayed. Stevens, a staunch Israel supporter who lost the primary to el-Sayed, said, \"We can't stand with hate. We can't stand with Hasan Piker,\" referring to an anti-Israel streamer who campaigned for el-Sayed. Democrats have sharply criticized her move as a betrayal.\n\nCritics of the Rogers campaign argue the ties raise questions about foreign influence in a competitive Senate race, while supporters note that FARA registration is lawful and the described work concerns countering anti-Semitism. The race is among the key contests being decided on Election Day.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4788761/two-mike-rogers-campaign-strategists-israel-lobbyists/",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:10 PM MT",
+      "addedAtISO": "2026-11-03T16:10:55.744653-07:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Australia's Social Media Ban for Children Faces High Court Challenge",
+      "summary": "Australia's High Court began hearing a constitutional challenge on Tuesday to the country's landmark social media ban for children. Reddit and the Digital Freedom Project argued the law should be struck down as unconstitutional, saying it robs minors of their right to free communication. The ban took effect on 10 December last year.\n\nReddit's lawyer, Perry Herzfeld, told the court the law breaches the implied constitutional freedom of political expression, calling it \"ill thought out\" and rushed through with only 24 hours for public submissions. He said it contradicted the advice of Australia's online safety commissioner. Reddit says it shares the goal of protecting young people but is complying with the law while it challenges it.\n\nCommunications Minister Anika Wells defended the policy outside court, calling it a defense of every Australian child's right to be free from harm and saying the question of what society accepts from tech platforms is \"the most compelling policy question of our time.\" The Digital Freedom Project, led by New South Wales parliamentarian John Ruddick, calls the policy censorship. Two teenagers who originally led the case have withdrawn as plaintiffs.\n\nGovernment lawyer Joanna Davidson began outlining why the government believes social media harms children and will continue Wednesday. The ban covers ten platforms and is watched internationally as a test case for similar proposals elsewhere.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:10 PM MT",
+      "addedAtISO": "2026-11-03T16:10:55.744653-07:00",
+      "slot": 18
+    },
+    {
+      "category": "technology",
+      "headline": "Google to Cut Search Access for Schools That Block AI Entirely",
+      "summary": "Google is making it easier for schools to restrict its artificial intelligence tools for students, but schools that block AI entirely will lose student access to Google's search engine, according to The New York Times. The policy has drawn criticism from New York City Mayor Zohran Mamdani and others.\n\nCritics accuse Google of trying to pressure American schools into adopting AI. They argue that tying basic search access to acceptance of AI tools leaves districts with little real choice, particularly as many educators debate the technology's effect on learning.\n\nGoogle's approach offers administrators more granular controls over AI features while drawing a line at full blocks. CBS News also covered the development. Further details on timing and how districts will be affected were not immediately available.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:10 PM MT",
+      "addedAtISO": "2026-11-03T16:10:55.744653-07:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Update: Russian Strikes on Ukraine Kill at Least 38 Civilians, Including 33 in Zaporizhzhia Glide Bomb Attack",
       "summary": "Russian strikes on Ukraine over the past 24 hours, including attacks on an aid centre, a hospice and a hospital, have killed at least 38 civilians and injured scores of others. At least 33 people are known to have died in a glide bomb attack on the village of Komyshuvakha in the southern Zaporizhzhia region on Monday night. President Volodymyr Zelensky said the toll was set to rise because more than 50 people could be trapped under rubble, and he called the strike \"one of the largest mass killings committed by Russia during this war.\"\n\nAuthorities said nine 3,000kg aerial bombs hit as residents gathered at a school building being used as a humanitarian aid distribution centre. Local media reported that people sheltered underground when the attack began, but the roof collapsed and trapped many of them. Regional head Mykhailo Semikin said \"the scale of the tragedy is difficult to comprehend.\" Zelensky said the attack was Moscow's response to Ukraine's proposal to extend and expand last week's ceasefire in the Kherson region, which allowed civilians to evacuate from Russian-occupied Oleshky.\n\nRussia's defense ministry said the strike targeted Ukrainian military units and killed 25 servicemen. The BBC's Russian defence correspondent reported there was no credible evidence the site was used by the Ukrainian military and no major military or industrial facilities in the village, though he noted the area has military importance as part of the defensive and transport network approaching Zaporizhzhia city. The UN human rights monitoring mission said the aid distribution had been highly publicised and the attack \"seems to have violated the most fundamental principles of international humanitarian law.\"\n\nElsewhere, a Russian missile destroyed a hospice in Dnipro, and nearly 50 terminally ill patients, the oldest aged 90, were being moved to other facilities. In Kharkiv, a hospital was hit and Zelensky said 73 people were wounded, most of them elderly patients. Another strike in Dnipro killed two people.",
