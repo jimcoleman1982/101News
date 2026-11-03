@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-03",
+  "dateFormatted": "Tuesday, November 3, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: US and Iran Signal Willingness to Keep Talking as Pezeshkian Cites Expanded Authority",
+      "summary": "Iranian President Masoud Pezeshkian said his government has been granted more authority by the country's supreme leader to pursue peace talks. The statement came as President Donald Trump hinted at progress in negotiations, according to Bloomberg.\n\nThe signals follow a period of renewed hostilities. The US struck Iran's Qeshm Island on the eve of the midterm elections, the first attacks in two months, and Trump and Israeli Prime Minister Benjamin Netanyahu reportedly held a tense call over the timing of renewed strikes.\n\nThe conflict has had wide economic effects. BBC reporting notes that 12 vessels were struck in a week, that UK diesel prices have reached a record average of 200.01p per litre, and that a US aircraft carrier has been kept at sea on one of the longest deployments ever. Gulf states have voiced fears of fiercer Iranian retaliation if Washington strikes again.\n\nIt is not yet clear what the expanded negotiating mandate means in practice, or whether either side will make concessions on core demands. BBC analysis asks whether either side has an exit strategy, noting that none of the choices facing Iran's leaders offers a clear path to victory.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-03/us-iran-signal-willingness-to-keep-talking-video",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:43 AM MT",
+      "addedAtISO": "2026-11-03T03:43:18.952276-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Saudi Arabia's Asian Cup Postponed to Late 2027 After Houthi Attacks",
+      "summary": "The Asian Football Confederation has postponed the 2027 Asian Cup in Saudi Arabia because of a series of deadly attacks on the kingdom. The 24-team tournament, originally set for January 7 to February 5, will now run from December 23, 2027 to January 21, 2028, pending approval from FIFA.\n\nIn October, a Houthi missile attack on Riyadh's airport killed 13 people and wounded more than 300. The AFC cited \"substantial logistical complexities and travel disruptions\" arising from developments in the region.\n\nOther events in Saudi Arabia have also been disrupted. The Six Kings Slam tennis exhibition in Riyadh was cancelled, and the Asian Tour indefinitely postponed its season-ending golf tournament, scheduled for November 18-21. A Saudi minister has vowed a \"serious response\" to the Houthi attacks on airports.\n\nThe delay tests the kingdom's ambitions to become a destination for major international sporting events, Bloomberg noted. It is the second consecutive Asian Cup to be postponed, after the 2023 edition was moved to 2024 and to Qatar because of the Covid pandemic.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:43 AM MT",
+      "addedAtISO": "2026-11-03T03:43:18.952276-07:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "Update: North Korea Denies Being Behind Record $6.3 Billion Binance Hack",
+      "summary": "North Korea has denied claims that it was behind the $6.3 billion hack of cryptocurrency exchange Binance, the largest in history. Kim Yo Jong, sister of leader Kim Jong Un, called the allegations \"absurd rhetoric\" and a \"sinister attempt\" by the US to damage Pyongyang's public image.\n\nThe FBI, the Secret Service and blockchain analysts have attributed the attack to the state-backed group TraderTraitor, also known as the Lazarus Group. The same unit was blamed for the then-record $1.5 billion hack of Bybit in 2025. The FBI has asked industry partners to help block transactions involving accounts linked to the group.\n\nBinance said a net $4.72 billion has been withdrawn since transactions resumed on Sunday, which it called a relatively limited portion of its roughly $157 billion in total assets. A spokesperson said withdrawal levels are stabilising to what the company considers normal and expected.\n\nNorth Korea has long been accused of using cybercrime to fund its sanctioned economy, and has consistently denied such claims.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:43 AM MT",
+      "addedAtISO": "2026-11-03T03:43:18.952276-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "US Seeks Deeper Ties With Myanmar's Military-Backed Government to Access Rare Earths",
+      "summary": "The United States plans to deepen engagement with Myanmar's military-backed government, Bloomberg reported. The aim is to counter China's influence and gain access to the war-torn country's vast rare-earth deposits.\n\nRare earths are critical to electronics, electric vehicles and defense systems, and China dominates global supply and processing. Washington has been looking to diversify sources of the minerals.\n\nEngaging a military-backed government is likely to draw scrutiny given Myanmar's ongoing conflict and its record on human rights. Critics of such outreach typically argue it can legitimize military rule, while proponents say strategic competition with Beijing justifies pragmatic engagement.\n\nDetails of the plan were limited in the available report, and further specifics on the form of engagement are expected.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/us-seeks-deeper-myanmar-ties-access-to-bountiful-rare-earths",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:43 AM MT",
+      "addedAtISO": "2026-11-03T03:43:18.952276-07:00",
+      "slot": 5
+    }
+  ]
+}
