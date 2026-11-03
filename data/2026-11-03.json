@@ -3,6 +3,48 @@
   "dateFormatted": "Tuesday, November 3, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: Russian Strikes on Ukraine Kill at Least 38 Civilians, Including 33 in Zaporizhzhia Glide Bomb Attack",
+      "summary": "Russian strikes on Ukraine over the past 24 hours, including attacks on an aid centre, a hospice and a hospital, have killed at least 38 civilians and injured scores of others. At least 33 people are known to have died in a glide bomb attack on the village of Komyshuvakha in the southern Zaporizhzhia region on Monday night. President Volodymyr Zelensky said the toll was set to rise because more than 50 people could be trapped under rubble, and he called the strike \"one of the largest mass killings committed by Russia during this war.\"\n\nAuthorities said nine 3,000kg aerial bombs hit as residents gathered at a school building being used as a humanitarian aid distribution centre. Local media reported that people sheltered underground when the attack began, but the roof collapsed and trapped many of them. Regional head Mykhailo Semikin said \"the scale of the tragedy is difficult to comprehend.\" Zelensky said the attack was Moscow's response to Ukraine's proposal to extend and expand last week's ceasefire in the Kherson region, which allowed civilians to evacuate from Russian-occupied Oleshky.\n\nRussia's defense ministry said the strike targeted Ukrainian military units and killed 25 servicemen. The BBC's Russian defence correspondent reported there was no credible evidence the site was used by the Ukrainian military and no major military or industrial facilities in the village, though he noted the area has military importance as part of the defensive and transport network approaching Zaporizhzhia city. The UN human rights monitoring mission said the aid distribution had been highly publicised and the attack \"seems to have violated the most fundamental principles of international humanitarian law.\"\n\nElsewhere, a Russian missile destroyed a hospice in Dnipro, and nearly 50 terminally ill patients, the oldest aged 90, were being moved to other facilities. In Kharkiv, a hospital was hit and Zelensky said 73 people were wounded, most of them elderly patients. Another strike in Dnipro killed two people.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "1:27 PM MT",
+      "addedAtISO": "2026-11-03T13:27:45.508932-07:00",
+      "slot": 14
+    },
+    {
+      "category": "science_health",
+      "headline": "Bird Flu Kills Washington State Resident After Dairy Cattle Exposure, Third US Death",
+      "summary": "A resident of Yakima County, Washington, has died of complications from avian influenza, public health officials confirmed. It is the third known US death from the virus. The person, who had underlying medical conditions, was hospitalized with severe illness after exposure to infected livestock at a local dairy facility. Officials declined to release the person's name, age or gender, citing privacy.\n\nHealth officials also confirmed a third human case in Yakima County on Monday. That person was also exposed to infected dairy cattle at a local farm and has not been hospitalized or experienced severe illness. Public health teams are tracing and monitoring close contacts of both individuals for symptoms.\n\n\"While this is a serious and heartbreaking outcome, the risk to the general public remains low,\" said Dr. Dave Atteberry, health officer for the Yakima Health District. The district urged dairy and agricultural workers to take precautions and to contact health authorities immediately if they develop symptoms after exposure to infected cattle.\n\nThe CDC says person-to-person spread of bird flu is extremely rare and has not been identified in the United States. The H5N1 strain has spread beyond birds to infect mammals including dairy cows, and federal and state officials continue to emphasize that workers and others with close, prolonged contact with infected animals face the greatest risk.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/health/bird-flu-kills-us-resident-dairy-cow-exposure-marking-nations-third-death",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:27 PM MT",
+      "addedAtISO": "2026-11-03T13:27:45.508932-07:00",
+      "slot": 14
+    },
+    {
+      "category": "science_health",
+      "headline": "New York Records First Measles Death in More Than 30 Years Amid Historic Outbreak",
+      "summary": "A child in rural upstate New York has died after contracting measles, marking the state's first known measles-associated death in more than 30 years. State officials announced the death on Monday. The unvaccinated child lived in Lewis County, and the death came amid what officials describe as a historic outbreak of the highly contagious disease in the state.\n\nMeasles can infect anyone, but the World Health Organization says most measles deaths worldwide occur in unvaccinated or under-vaccinated children under age 5. The measles shot is part of the MMR vaccine and is typically given in two doses, because some children do not develop full immunity after the first. The WHO estimates immunization campaigns prevented 59 million deaths globally between 2000 and 2024.\n\nThe New York Post used the death to explain why some vaccines need boosters while others do not. Dr. Isaac Dapkins of NYU Langone's Family Health Centers said the answer depends on how much a pathogen changes and how long immune protection lasts. Flu viruses change constantly through antigenic drift, requiring annual updates, while the parts of the measles virus the immune system recognizes have stayed remarkably stable.\n\nAfter the two-dose series, most people develop protection that lasts decades and often for life, making boosters unnecessary. Health officials continue to point to vaccination as the best way to prevent measles.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/03/health/why-do-some-vaccines-need-boosters-while-others-last-a-lifetime/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:27 PM MT",
+      "addedAtISO": "2026-11-03T13:27:45.508932-07:00",
+      "slot": 14
+    },
+    {
       "category": "politics",
       "headline": "Update: Trump Says US Will End $4 Billion in Annual Military Aid to Israel by Year's End",
       "summary": "President Donald Trump said on Election Day that the United States will end roughly $3.8 billion to $4 billion in annual military aid to Israel by the end of 2026. In a phone interview with Fox News as voting began, he said the aid was no longer needed and that Israeli Prime Minister Benjamin Netanyahu had raised the idea. Trump said the two leaders had made a deal months ago.\n\nThe announcement came after military aid to Israel and campaign contributions from Israel's backers became a live issue in U.S. political debate. Some outlets described the move as an effort to blunt election-year criticism of Washington's support for its ally. Others noted how quickly the politics around Israel have shifted. Some conservative commentators said it remains to be seen whether the administration will follow through.\n\nIt is unclear how the cutoff would be carried out, since existing aid is governed by a multiyear memorandum of understanding and congressional appropriations. The statement also follows reports of tension between Trump and Netanyahu over the timing of renewed strikes on Iran. Neither the Israeli government nor the White House had provided detailed implementation plans at the time of publication.",
