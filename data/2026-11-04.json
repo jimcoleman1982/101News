@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-04",
+  "dateFormatted": "Wednesday, November 4, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Update: Democrats Win Control of Both the Senate and House in Sweeping Midterm Results",
+      "summary": "Democrats have taken control of both chambers of Congress in the midterm elections, according to projections from the BBC's partner CBS News. CBS projected a Democratic House win shortly after 03:00 GMT on Wednesday (22:00 EST Tuesday), with the remaining question being the size of the majority as counting continues. The Senate results exceeded Democratic expectations, with pick-ups in North Carolina, South Carolina, Kansas, Texas, Iowa, Ohio and Maine, and a hold in Michigan. One seat, in Alaska, remains a toss-up, and CBS reported that Mississippi was on a knife edge.\n\nSeveral results stood out. Kansas had not returned a Democratic senator since 1932, and South Carolina had last done so in 1998. Texas shifted about nine points toward Democrats compared with the 2024 Senate race. In Florida, Democrats held two districts, 14 and 25, that Republicans had redrawn to favor Donald Trump voters, and also won the redrawn District 22, a blow to the Republican redistricting push.\n\nA large exit poll suggested women turned out in large numbers and mostly voted Democratic, while men were evenly split. The economy was voters' top issue, followed by the state of democracy, and more than two-thirds said they believed Trump's policies had worsened economic conditions. Hispanic voters in Florida appeared to back the Democratic Senate candidate Angie Nixon 55% to 44% over Republican Ashley Moody, reversing the roughly 55% Hispanic support Trump received in 2024.\n\nNational Review, a right-leaning outlet, described the outcome as an overwhelming rebuke of President Trump and Republicans, calling it an \"Armageddon\" election. The result shifts the balance of power in Washington for the second half of Trump's term, with Democrats now positioned to control committee gavels and legislative agendas in both chambers. Counting continues in the remaining contested races.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:45 AM MT",
+      "addedAtISO": "2026-11-04T03:45:20.877787-07:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Democrat Annie Andrews Wins South Carolina Senate Seat, First Democratic Victory There in 28 Years",
+      "summary": "Democrat Annie Andrews, a former pediatrician, is projected to have won South Carolina's Senate race, according to the BBC's US partner CBS. Her victory ends a 28-year Democratic drought in the state, which last elected a Democratic senator in 1998. Pre-election polling had rated the race as leaning Republican, and Donald Trump carried the state by 18 points in 2024.\n\nHer opponent, Republican Darline Graham, was appointed in July after the sudden death of her brother, Senator Lindsey Graham, who had held the seat since 2002 and was one of Washington's most influential voices on foreign policy. Trump supported her appointment. A political newcomer, Graham acknowledged during the primary that she was \"not that informed on national security.\"\n\nGraham's campaign was dogged by questions about her inexperience. Asked in a recent debate about US policy toward Taiwan, she said: \"National security is not my thing, not my area of expertise, but I do support the military.\"\n\nThe South Carolina result was among the biggest upsets of a night in which Democrats gained ground across the Senate map. It contributed to a Democratic majority in the chamber, and reflects how far the political environment shifted from 2024 in states that Republicans had long considered safe.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:45 AM MT",
+      "addedAtISO": "2026-11-04T03:45:20.877787-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Indonesia Arrests Former Police Chief Over Alleged Wiretapping of President Prabowo",
+      "summary": "Indonesian authorities have arrested a former national police chief, Listyo, on allegations that he wiretapped the phones of President Prabowo Subianto and other top officials. A senior official said Wednesday that the conduct may amount to treason or an attempt to overthrow the government.\n\nIn response, Indonesia's military is mobilizing tens of thousands of troops to bolster security in Jakarta while investigators examine the alleged surveillance. The scale of the deployment points to official concern about possible instability in the capital.\n\nThe case is being reported by Bloomberg and Al Jazeera. Details of the evidence, the motive and the scope of the alleged wiretapping have not yet been made public. Further developments are expected as the investigation proceeds and prosecutors decide on formal charges.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/indonesia-arrests-ex-police-chief-for-allegedly-wiretapping-prabowo-others",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:45 AM MT",
+      "addedAtISO": "2026-11-04T03:45:20.877787-07:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "Voters Approve Dozens of Data Center Moratoriums in Backlash Against AI Buildout",
+      "summary": "Voters showed deep distrust of the artificial intelligence race on Tuesday, approving dozens of data center moratoriums and electing a number of candidates who favor slowing a $10 trillion buildout, according to Axios. The shift included Texas, described as the epicenter of the boom.\n\nIn an election that turned heavily on affordability concerns, voters appeared to view the AI expansion less as a technological advance and more as a resource-draining threat to their wallets and communities. Axios quoted one observer as saying, \"What we just witnessed was an AI earthquake.\"\n\nThe results are a warning to technology companies and investors that local opposition to data center construction, tied to electricity costs and resource use, is becoming a political force. Further details on the specific measures and candidates were not available in the excerpt provided, and the long-term effect on planned projects remains to be seen.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/04/ai-data-center-election-slowdown",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:45 AM MT",
+      "addedAtISO": "2026-11-04T03:45:20.877787-07:00",
+      "slot": 5
+    }
+  ]
+}
