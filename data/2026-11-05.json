@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Democratic Socialist Nithya Raman Defeats Los Angeles Mayor Karen Bass",
+      "summary": "Nithya Raman, a Los Angeles City Council member backed by the Democratic Socialists of America, defeated Mayor Karen Bass in the Los Angeles mayoral race. The Associated Press called the contest for Raman on Thursday. The result puts democratic socialists in line to lead the country's two largest cities, alongside New York City Mayor Zohran Mamdani.\n\n\"Los Angeles, I'm deeply honored to be your next Mayor,\" Raman said in a statement from her campaign. She promised to win the trust of residents who backed Bass or did not vote, and pledged to focus on affordable housing, better transit, safer communities and a city government that delivers. She also thanked Bass for decades of service to Los Angeles.\n\nAxios described the outcome as a stunning upset against an embattled incumbent. It said the result will test whether democratic socialists' promises on housing and government performance can survive the pressures of governing. Raman's win follows broad Democratic victories across the country on Election Day, and coverage from right-leaning outlets has framed it as part of a post-election reckoning among Republicans, while Democrats and their allies have pointed to it as evidence of voter appetite for change.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/05/nithya-raman-la-mayor-upset-democratic-socialist",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:31 PM MT",
+      "addedAtISO": "2026-11-05T16:31:55.122404-07:00",
+      "slot": 18
+    },
+    {
+      "category": "business",
+      "headline": "Tech Stocks Plunge as Nasdaq Falls More Than 5.5% After Midterms",
+      "summary": "Major U.S. stock indexes fell sharply on Thursday, led by technology shares, as investors reacted to the midterm results and growing fears of a slowdown in AI development. The Nasdaq composite closed down more than 5.5%, losing an estimated $2.5 trillion in market value and entering correction territory. The S&P 500 fell 4.4% and the Dow Jones Industrial Average dropped more than 3.4%, erasing Wednesday's gains. Reported as the worst days for the indexes since 2025.\n\nNvidia fell more than 9%, shedding over $400 billion in value. AMD and Micron each dropped more than 17%, Intel fell 10.3% and SanDisk plunged more than 22%. The Philadelphia Semiconductor Index lost more than 12%. Tesla and SpaceX fell nearly 11% and 8%. The so-called Magnificent Seven tech companies together shed about $1 trillion in a single day.\n\nThe sell-off followed Democratic wins in campaigns that emphasized slowing data center construction, along with dozens of ballot measures restricting such facilities. Texas governor-elect Gina Hinojosa pledged a moratorium on new data centers. The drop also comes amid broader doubts about whether heavy AI spending will pay off. A Bloomberg interview on Thursday quoted an industry figure saying projects already underway are unlikely to be disrupted and will add tens of gigawatts of compute capacity over the next 18 months, though future projects could face new requirements on tax breaks, union labor and power bills.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:31 PM MT",
+      "addedAtISO": "2026-11-05T16:31:55.122404-07:00",
+      "slot": 18
+    },
+    {
+      "category": "world",
+      "headline": "Update: French Protest Turnout Surges as Prime Minister Calls Social Conference",
+      "summary": "More than 600,000 people joined rallies and marches across France on Thursday, according to the interior ministry, as five unions staged a national day of action over wages and public services. The left-wing CGT put turnout at 1.57 million, calling it a level unmatched since 2023. The ministry's figure exceeded the 550,000 it reported for the previous peak on 17 October.\n\nThe new development is that Prime Minister Sébastien Lecornu said that evening he would convene a social conference with unions and employers next Monday. Unions are seeking a rise in the minimum wage, currently 12.31 euros an hour. CGT chief Sophie Binet said protesters had reached a new level and demanded immediate answers.\n\nInterior Minister Laurent Nuñez deployed 70,000 police. Unrest included a car set alight in Lyon, clashes in Rennes, tear gas in Bordeaux and a stabbing at a high-school blockade near Paris. The violence was smaller than on 17 October, when more than 2,000 stores were looted. Schools, hospitals and transport were disrupted, and the Eiffel Tower was affected.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:31 PM MT",
+      "addedAtISO": "2026-11-05T16:31:55.122404-07:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
       "headline": "California Governor Newsom Commutes Death Sentences of All 548 Death Row Inmates",
       "summary": "California Governor Gavin Newsom has commuted the death sentences of all 548 people on the state's death row, converting them to life in prison without the possibility of parole. He announced the move in a letter, saying: \"We can now let these offenders die in obscurity while we forever remember and honour the victims.\" California has the largest death row population in the country.\n\nNewsom said he was using his constitutional clemency authority. He called the state's system of capital punishment \"a failure\" that has not and cannot be fairly applied, and said it has resulted in the conviction of innocent people. \"The state cannot morally kill them,\" he wrote, describing the decision as difficult but a \"righteous action\" that he alone bears responsibility for. He acknowledged it would anger and hurt some Californians.\n\nThe practical effect is largely symbolic: California has not executed a prisoner since 2006, and only 13 inmates have been put to death since voters reinstated the death penalty in 1978. Newsom had already ordered a moratorium on executions in 2019. Experts say the change could save the state millions of dollars a year in court costs.\n\nThe decision comes as Newsom, who is term limited and in his final months in office, is discussed as a possible 2028 presidential contender. Democrat Xavier Becerra is projected to succeed him. Supporters of capital punishment, including President Donald Trump, who has called it an essential tool for deterring and punishing heinous crimes, are likely to criticize the move, while opponents of the death penalty are expected to praise it.",
       "source": "BBC News",
