@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-05",
+  "dateFormatted": "Thursday, November 5, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "France Braces for Mass Strikes and Protests as Five Unions Launch National Day of Action",
+      "summary": "Hundreds of thousands of demonstrators are expected to march across France on Thursday as five unions from the public and private sectors join a national day of strikes and protests. Authorities expect 500,000 to 700,000 participants nationwide, with tens of thousands in Paris alone. More than 250 separate actions are planned, and some disruption has been reported in schools, hospitals and public transport.\n\nThe protests began in September with high school students complaining about poor conditions and resources in education, and have since widened to include a revived yellow-vest movement and workers demanding higher wages to offset the cost of living. The unions are seeking a rise in the minimum wage, currently 12.31 euros an hour, and protection of public services. CFDT head Marylise Leon asked for a net increase of 100 euros a month, while union leader Sophie Binet called it a \"great day of convergence\" and said \"the strike must take over.\" The education ministry said 81 high schools were shut on Thursday morning and about 17.5 percent of primary schools were affected.\n\nInterior Minister Laurent Nunez said 70,000 police and gendarmes are being deployed and promised \"an extremely firm response\" to any violence, following unrest in towns and cities on 17 October. Workers have been asked to halt production at oil refineries, and France is expected to import more electricity than it produces because of disruption at nuclear plants.\n\nThe government has tried to ease public anger by releasing 10 million barrels of diesel from strategic reserves to lower fuel costs, and has promised students it will reform the unpopular Parcoursup university admissions platform and replace it by 2028. The yellow-vest movement has called for further blockades on Friday and Saturday, suggesting the pressure on the government will continue beyond Thursday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:41 AM MT",
+      "addedAtISO": "2026-11-05T03:41:51.309568-07:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Democrat Gina Hinojosa Ousts Texas Gov. Greg Abbott in Upset",
+      "summary": "Democrat Gina Hinojosa has defeated incumbent Republican Gov. Greg Abbott in the Texas governor's race, according to the Associated Press. The upset will make her the state's first Latina governor and ends a long run of Republican control of the governor's office.\n\nThe result was one of the most striking outcomes of a midterm night in which Democrats took control of both the House and the Senate. BBC reporting noted that some of the biggest swings toward Democrats came in Texas, where the party also won a Senate seat. Democrats additionally flipped Senate seats in South Carolina, Kansas, Iowa, Ohio and Maine.\n\nExit polling cited by the BBC indicated that the economy was voters' top concern, followed by the state of democracy, and that about two-thirds of voters believed President Donald Trump's policies had worsened economic conditions. Republicans have generally argued that their policies support growth and have pointed to local factors and midterm patterns that historically favor the party out of power. Democrats have framed the results as a rejection of the administration's economic record.\n\nThe Texas outcome carries national weight because of the state's size, its electoral votes and its role as a Republican stronghold. Details on the margin and on how the result will affect the state legislature and policy agenda had not yet been reported.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/texas-governor-election-hinojosa-abbott-c9a0ffa1ec3cd599f9bc304ae26268a2",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:41 AM MT",
+      "addedAtISO": "2026-11-05T03:41:51.309568-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: US Conducts Defensive Strikes on Iranian Targets in Strait of Hormuz",
+      "summary": "A U.S. official said the United States has conducted defensive strikes on some Iranian targets in the Strait of Hormuz. Iranian state television reported that explosions were heard on Qeshm Island, and injuries were reported on both sides.\n\nThe strikes follow U.S. attacks on Qeshm Island on the eve of the midterm elections, the first since a two-month pause. They come as the broader U.S.-Israel conflict with Iran continues to grind on, with BBC analysis asking whether either side has an exit strategy and noting that none of Iran's choices offers a clear path to victory.\n\nThe conflict has had wide effects, including strikes on commercial vessels and reduced diesel exports from the Middle East. A U.S. aircraft carrier has remained at sea on one of the longest deployments ever. Earlier this week, both Washington and Tehran signaled willingness to keep talking, with Iranian President Masoud Pezeshkian citing expanded authority.\n\nThe U.S. describes its latest actions as defensive, while Iranian media portrayed them as attacks on its territory. The new exchange raises questions about whether diplomatic contacts can survive continued military action.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-us-trump-netanyahu-israel-war-b4519ef86bafe2672e0855d7a48ce309",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:41 AM MT",
+      "addedAtISO": "2026-11-05T03:41:51.309568-07:00",
+      "slot": 5
+    },
+    {
+      "category": "science_health",
+      "headline": "NASA's Swift Observatory Plunges to Earth After 22-Year Mission",
+      "summary": "NASA's Swift Observatory fell back to Earth on Wednesday, ending a 22-year investigation of the universe's biggest explosions. The U.S. Space Force confirmed the reentry near Indonesia after tracking the spacecraft's decaying orbit, which was driven by intense solar activity in recent years. It was not immediately known how much of the 1.5-ton spacecraft burned up, though NASA anticipated some denser pieces would survive.\n\nSwift launched in 2004 for what was meant to be a two-year study of gamma ray bursts and exploding stars. It observed thousands of them and acted as a first responder for other telescopes that could probe deeper. Its end came less than three months after a long-shot rescue mission failed: NASA hired Katalyst Space for an orbit-boosting effort, but the company's robotic craft ran into trouble after its July launch and came down in September.\n\nNASA is now gauging industry interest in a rescue of the Hubble Space Telescope, whose orbit is also being eroded by solar storms. Hubble, launched in 1990, is expected to fall by the mid-2030s, and any mission would need to happen by 2032. NASA is asking private companies whether they could boost its orbit, upgrade its systems or guide it to a controlled reentry.\n\nNASA Administrator Jared Isaacman said Hubble \"still has important science ahead of it\" and that the agency should look at every reasonable opportunity to keep it working. Science mission chief Nicky Fox said that, unlike the rushed Swift effort, there is more time to weigh options for Hubble.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/science/a-nasa-space-telescope-plunged-back-to-earth-after-a-mission-that-lasted-11-times-longer-than-planned",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:41 AM MT",
+      "addedAtISO": "2026-11-05T03:41:51.309568-07:00",
+      "slot": 5
+    }
+  ]
+}
