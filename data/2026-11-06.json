@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Trump Names Stephen Miller White House Chief of Staff, Replacing Susie Wiles After Midterm Losses",
+      "summary": "President Donald Trump announced Friday that Stephen Miller will replace Susie Wiles as White House chief of staff. The change comes days after Republicans lost control of Congress in Tuesday's midterm elections. Trump announced the move on his social media site, praising Wiles and saying she will continue working for his political organization.\n\nWiles, the first woman to hold the post, was the longest-serving chief of staff of Trump's tenure; during his first term he went through four. She released a statement calling her service \"the honor of a lifetime\" and citing the administration's work on border security, tax cuts and the economy. She said her commitment to \"the President and the mission\" will not change. Her departure follows her treatment for breast cancer, which she disclosed in March 2026 and said months later showed no evidence of disease.\n\nMiller, currently deputy chief of staff, joined Trump's 2016 campaign as a speechwriter and is regarded as one of his closest and longest-serving advisers. A former aide to Jeff Sessions, he is considered a principal architect of the administration's hard-line immigration policies. His elevation signals continuity on immigration as the White House prepares to work with a Democratic-controlled Congress.\n\nThe announcement is likely to draw differing reactions. Supporters view Miller as a loyal enforcer of the president's agenda, while critics are likely to see the move as a doubling down on contested immigration policy after an electoral rebuke. Neither the timing nor the reasoning behind the change was detailed beyond the statements from Trump and Wiles.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/trump-names-stephen-miller-his-next-chief-of-staff-after-major-republican-midterm-losses",
+      "sourceCount": 14,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:19 PM MT",
+      "addedAtISO": "2026-11-06T13:19:08.311390-07:00",
+      "slot": 14
+    },
+    {
+      "category": "business",
+      "headline": "Update: Nvidia and Tech Shares Edge Up as Analysts Dissect $3.7 Trillion Post-Election Selloff",
+      "summary": "US technology stocks showed signs of a partial recovery Friday after a sharp selloff following the midterm elections. On Thursday the Nasdaq composite closed down more than 5.5%, and Bloomberg estimated the rout wiped out $3.7 trillion in US market value in a single day. Other tallies put the loss in the Nasdaq alone at about $2.5 trillion.\n\nWhen markets opened Friday, Nvidia's share price jumped more than 7%, and SpaceX rose about 6%. AMD and Micron also gained, though none had recovered their heavy losses from the previous day. Chipmakers and semiconductor firms closely tied to AI development took the hardest hits.\n\nInvestors had been selling in part over concerns that Democratic victories would mean tougher scrutiny of AI development, more regulation and restrictions on data center construction. A voter poll found data centers were a key issue for many Americans, and voters approved dozens of local data center moratoriums. Bloomberg noted that AI has been a boon to the stock market and the broader economy amid pressure from tariffs and the war in the Middle East, which raised the stakes of the selloff.\n\nMarket reporters cautioned that conditions can change quickly with a full day of trading ahead. Analysts continue to examine the chain reaction behind the drop, and its durability will depend on how the incoming Congress approaches AI policy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/live/cq62yy619r5dt",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:19 PM MT",
+      "addedAtISO": "2026-11-06T13:19:08.311390-07:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
       "headline": "Hegseth Authorizes National Guard to Expand D.C. Patrols With Military Vehicles, Boats and Rifles",
       "summary": "Defense Secretary Pete Hegseth has approved an expanded National Guard presence in Washington, D.C., including military police cars, tactical vehicles and patrol boats, according to two memos signed Oct. 29 and obtained by The Associated Press. The memos authorize 60 military police cars, two patrol boats and 20 portable light towers to \"enhance force protection in patrol zones.\" Troops will be allowed to carry rifles during some operations, though not in Metro rail stations.\n\nThe maximum number of deployed Guard members will remain at 3,500, below a summertime peak of about 5,000 during America's 250th anniversary celebrations. The memos require patrol cars to be marked \"National Guard\" and troops to be in uniform, and they forbid high-speed chases. Troops will play a greater role against \"gangs and drug traffickers,\" with six analysts continuing to work on organized drug distribution in the city. One memo also grants the U.S. Marshals Service use of the D.C. National Guard's 260th Special Purpose Brigade.\n\nPresident Donald Trump first deployed the Guard in the capital in August 2025 for what he called a crime-fighting mission. Guard members have since patrolled neighborhoods, dispersed homeless camps and assisted with citywide cleanup. The expansion comes amid a series of incidents involving deployed troops, including the arrest of a Georgia serviceman for pulling a gun on a fellow Guard member, the arrest of a Guard member for carrying an unauthorized firearm, and the shooting of a Guardsman who was trying to break up a fight.\n\nSupporters of the deployment argue it deters crime and supports local police, while critics question its cost and effectiveness and object to the militarized appearance of the vehicles on city streets.",
       "source": "PBS NewsHour",
