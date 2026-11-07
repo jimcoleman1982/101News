@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Gunman Opens Fire in Krakow's Main Square, Killing 6 and Wounding 15",
+      "summary": "Six people were killed and 15 wounded on Saturday afternoon after a gunman opened fire in the busy Main Square of Krakow, Poland, authorities said. The Malopolski regional government raised the death toll from five to six in a post on X. Police officers are among the wounded.\n\nKrakow police said the attacker, a Polish citizen, aimed at random people after driving into the square, one of Poland's major tourist destinations. He was wearing military-style fatigues and used a military-type long gun. He was shot and wounded in a gunfight with officers a short distance from the initial violence. Police found many other weapons and ammunition in his car.\n\nPolice spokesperson Katarzyna Cislo told TVN24 that the gunman acted alone and that the public is safe. A tram driver had reported around 3 p.m. that a man in a moving car shot at his vehicle near the square, shattering the window of the driver's cabin. Around 15 million tourists visit Krakow each year, most of them passing through the Main Square, and mass shootings are uncommon in Poland.\n\nPrime Minister Donald Tusk said police are investigating, and President Karol Nawrocki said his thoughts were with the victims, the wounded and their families. U.S. Ambassador Tom Rose called the attack a savage and murderous assault and said America stands with Poland. Authorities have not yet released a motive or the gunman's identity.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "10:43 AM MT",
+      "addedAtISO": "2026-11-07T10:43:30.057382-07:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Barnier Warns UK It Cannot 'Cherry Pick' Single Market Access as Burnham Eyes Closer EU Ties",
+      "summary": "Michel Barnier, the EU's former Brexit negotiator, warned that the United Kingdom cannot pick and choose which parts of the single market it joins. Speaking to the BBC's Sunday with Laura Kuenssberg, he said there is no single market a la carte menu. He was responding to Prime Minister Andy Burnham's stated wish to explore closer economic ties with Europe.\n\nBarnier said EU members would require the UK to accept the bloc's four freedoms, covering goods, services, capital and people, including free movement. He said there will be no possibility of having one freedom and not the others. He added that the door is open within Europe for the UK to rejoin as a full member.\n\nBurnham, prime minister since July, has suggested Labour could pursue a much closer relationship with Europe, including asking to rejoin the bloc, though he has ruled out major changes before the next election. He recently said he would not restore free movement without a referendum, and Downing Street clarified he was not advocating its return at this point. Free movement was a central issue in the 2016 referendum, and any move toward it would be a key dividing line with the Conservatives and Reform UK.\n\nBoth sides hope to use a Brussels meeting in 10 days to unveil deals on food standards, youth visas and linking British industry to the EU's carbon trading regime.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:43 AM MT",
+      "addedAtISO": "2026-11-07T10:43:30.057382-07:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Germany Expects Fighter Jet Partnership Decision by March After FCAS Collapse",
+      "summary": "German Defense Minister Boris Pistorius expects a decision by the end of March 2027 on a new air combat partnership to jointly build a next-generation fighter jet. He made the comments in an interview with the Funke media group, according to Bloomberg.\n\nThe timeline follows the scrapping of the Franco-German Future Combat Air System, known as FCAS, earlier this year. The collapse of the project left Germany seeking new partners for a sixth-generation fighter program.\n\nThe decision will shape European military aviation and defense industry cooperation for decades. Details on which countries or companies Germany is considering were not included in the initial report.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-07/germany-sees-fighter-jet-decision-by-march-minister-tells-funke",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "10:43 AM MT",
+      "addedAtISO": "2026-11-07T10:43:30.057382-07:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
       "headline": "Update: Russian Missile and Drone Barrage Hits Ukraine's Power Grid Ahead of Abu Dhabi Talks",
       "summary": "Russia launched more than 30 ballistic missiles and over 170 drones against Ukraine overnight, damaging energy infrastructure and causing blackouts and water disruptions, President Volodymyr Zelensky said. Twelve regions came under attack, with Kyiv hit hardest. Nine people were reported hurt nationwide, including one child, according to the BBC; Bloomberg reported at least one civilian killed in the Kyiv area.\n\nZelensky said residential buildings, the North Bridge and a kindergarten were damaged in the capital, and that substations linking the Rivne and Khmelnytsky nuclear power plants to Kyiv and central Ukraine were struck. Substations were also damaged in the Vinnytsia, Zhytomyr, Rivne, Kharkiv and Dnipro regions. Kyiv Mayor Vitali Klitschko said the city's water supply had returned to normal and about 60 percent of apartment buildings were reconnected to heating. Energy Minister Denys Shmyhal said five regions had power cuts. Temperatures are falling, and parts of the country have seen the first winter snow.\n\nThe attacks came before Ukrainian and Russian delegations are due to attend trilateral talks in Abu Dhabi next week. Zelensky wrote on Telegram that Moscow was preparing for the talks by targeting critical infrastructure, and said Ukraine counts on bipartisan U.S. support, including increased sanctions pressure on Russian President Vladimir Putin.\n\nThe strikes followed a White House event on Thursday at which First Lady Melania Trump hosted both delegations and urged a more enduring ceasefire, after a six-day truce allowed hundreds of residents to evacuate the occupied town of Oleshky. Earlier this week, glide bomb strikes on an aid centre near Zaporizhzhia killed at least 55 people.",
       "source": "BBC News",
