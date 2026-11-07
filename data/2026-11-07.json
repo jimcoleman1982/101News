@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Houthis Say at Least 25 Killed in Saudi Air Strike in Yemen",
+      "summary": "Media linked to the Houthi movement in Yemen say at least 25 people, including women and children, were killed in air strikes carried out by Saudi Arabia. Footage on the Houthi-run Al Masirah television station showed rescuers pulling bodies, including those of young children, from the rubble of several buildings in al-Shariyah, a town east of the capital, Sanaa. The Houthi-run Saba news agency attributed the attack to Saudi Arabia. There has been no comment from the Saudi-led coalition, which backs Yemen's internationally recognised government.\n\nThe strike came hours after the coalition said it intercepted a missile heading toward Riyadh. Houthi leader Mahdi al-Mashat has vowed that the group will take revenge for the latest attacks. On Friday, an attack on a market in Taiz province reportedly killed 30 people; the Houthis blamed Saudi Arabia, while government forces said the Houthis had fired a missile at the site.\n\nThe war in Yemen had been dormant for several years but reignited as a result of the Iran war. A truce began to unravel when Saudi Arabia struck the Houthi-controlled Sanaa airport to prevent an Iranian plan from landing there. The Houthis then targeted Abha airport in Saudi Arabia and began hitting Saudi ships using the Red Sea as an alternative oil export route to the Strait of Hormuz. The United Nations says more than 1,600 people have been killed and more than 300,000 displaced since fighting resumed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:50 PM MT",
+      "addedAtISO": "2026-11-07T13:50:51.824135-07:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Update: US Offers $20 Million Reward for Information on Iran's Nuclear Program",
+      "summary": "The US State Department's Rewards for Justice program announced a reward of up to $20 million for information about Iran's nuclear program, including its \"facilities, equipment and associated personnel.\" The program also offered to potentially relocate the person who provides such details. The department said Iran's lack of compliance with the International Atomic Energy Agency on safeguards has led the agency to lose \"continuity of knowledge\" about Iran's production and inventory of key components such as centrifuges.\n\nSeparately, US Central Command said it is setting up Task Force Iron Gate, based in Tampa, Florida, to restrict Iran's movement of weapons, dual-use goods and illegal revenue across its borders. Centcom estimates its naval blockade of Iranian ports has prevented Iran from exporting more than $25 billion in crude oil. Iran insists its nuclear program is peaceful and says it has no intention of developing a nuclear weapon.\n\nThe announcements come after midterm elections in which both President Trump and Vice President JD Vance acknowledged that public opposition to the war fueled heavy Republican losses, prompting speculation the White House may not seek escalation. Before the vote, Trump said the US might need to go after the underground site known as Pickaxe Mountain. On Friday he said Iran wants \"to make a deal very badly.\" Qatar's foreign ministry said both sides were reviewing proposals it has presented.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:50 PM MT",
+      "addedAtISO": "2026-11-07T13:50:51.824135-07:00",
+      "slot": 14
+    },
+    {
+      "category": "science_health",
+      "headline": "Promising Experimental Heart Disease Drug Fails to Reduce Heart Attacks in Trial",
+      "summary": "An experimental drug that lowers lipoprotein(a), a common risk factor for heart attacks, failed to deliver the expected benefit in a clinical trial. Doctors had expected the medicine to save patients' lives, but it made no difference in outcomes.\n\nElevated lipoprotein(a) is a genetically driven risk factor affecting a substantial share of the population, and drugmakers have invested heavily in therapies to reduce it. The result is a notable setback for that approach.\n\nThe finding raises questions about whether lowering the marker alone is sufficient to prevent cardiovascular events, and researchers are likely to examine the data further.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:50 PM MT",
+      "addedAtISO": "2026-11-07T13:50:51.824135-07:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Gunman Opens Fire in Krakow's Main Square, Killing 6 and Wounding 15",
       "summary": "Six people were killed and 15 wounded on Saturday afternoon after a gunman opened fire in the busy Main Square of Krakow, Poland, authorities said. The Malopolski regional government raised the death toll from five to six in a post on X. Police officers are among the wounded.\n\nKrakow police said the attacker, a Polish citizen, aimed at random people after driving into the square, one of Poland's major tourist destinations. He was wearing military-style fatigues and used a military-type long gun. He was shot and wounded in a gunfight with officers a short distance from the initial violence. Police found many other weapons and ammunition in his car.\n\nPolice spokesperson Katarzyna Cislo told TVN24 that the gunman acted alone and that the public is safe. A tram driver had reported around 3 p.m. that a man in a moving car shot at his vehicle near the square, shattering the window of the driver's cabin. Around 15 million tourists visit Krakow each year, most of them passing through the Main Square, and mass shootings are uncommon in Poland.\n\nPrime Minister Donald Tusk said police are investigating, and President Karol Nawrocki said his thoughts were with the victims, the wounded and their families. U.S. Ambassador Tom Rose called the attack a savage and murderous assault and said America stands with Poland. Authorities have not yet released a motive or the gunman's identity.",
       "source": "PBS NewsHour",
