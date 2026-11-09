@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Pope Leo Arrives in Argentina, Tells Milei the Economy Must Serve the Person",
+      "summary": "Pope Leo XIV arrived in Buenos Aires on Sunday from Uruguay and used his first public speech in Argentina to deliver a diplomatic but pointed critique of President Javier Milei's austerity measures and libertarian agenda. \"The economy must serve the person, not the person the economy,\" he told officials, diplomats and civic leaders. It was the first papal visit to Argentina since 1987.\n\nLeo also called for gentler politics in a deeply polarized country, saying democracy depends on \"careful use of words\" and on \"the ability to see those who think differently as fellow citizens with whom we share a common future.\" The remarks exposed differences over spending cuts, social justice and artificial intelligence that the government had sought to play down before the trip. Human Capital Minister Sandra Pettovello said last week that the pope would not be coming to comment on local politics, and Milei's welcome message expressed hope the visit would strengthen faith and bring a message of peace.\n\nMilei, a self-described anarcho-capitalist, has staked his presidency on cutting public spending to tame inflation and has described social justice as a \"horror\" and a \"moral aberration.\" His government, like its allies in the Trump administration, portrays the cuts as necessary reform to eliminate fraud and waste. Critics point to his combative style, which has cost him allies in Congress and public support.\n\nThe Argentine stop is the most politically delicate leg of the pope's three-nation South American tour, and it also requires him to confront the legacy of Argentine Pope Francis, who never returned home during his 12-year pontificate. The trip is part of a 12-day journey that began weeks after Leo's lung cancer surgery.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/pope-arrives-in-argentina-and-tells-milei-that-people-not-the-economy-should-come-first",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-11-08T21:08:15.720203-07:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Update: Houthis Strike Aramco Tower in Riyadh as Saudi-Yemen Fighting Escalates",
+      "summary": "The Aramco Tower, a skyscraper in Riyadh's central financial district, was hit by an air attack on Saturday as the Houthis launched fresh strikes on Saudi Arabia. The Houthi-run Saba news agency said the group targeted Riyadh's business zone, without naming the tower. The Saudi energy ministry said the building suffered only \"minor damage\" and that no one was killed or injured.\n\nFootage authenticated by BBC Verify showed more extensive damage, with at least one floor badly hit and windows shattered on several levels. The Houthis also said they targeted Riyadh's airport and Aramco oil storage facilities in separate strikes, while Saudi Arabia said its air defenses intercepted and destroyed several missiles.\n\nThe attack came a day after the Houthis accused a Saudi-led coalition of killing at least 33 people, including women and children, in an air strike on al-Shariyah, east of Sanaa, with 39 injured. Saudi Arabia has not commented on that strike. An informal ceasefire unraveled in July when the Tehran-backed Houthis announced a maritime embargo against Saudi Arabia and began missile and drone attacks on airports, oil facilities and tankers.\n\nThe United Nations says more than 1,600 people have been killed and more than 300,000 displaced since fighting resumed, and the US has ordered some diplomats to leave Saudi Arabia as attacks escalate. The conflict, largely dormant in recent years, has intensified since the outbreak of the Iran war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-11-08T21:08:15.720203-07:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Shapiro Signals Openness to Abolishing Electoral College After Democratic Midterm Wins",
+      "summary": "Pennsylvania Gov. Josh Shapiro, a Democrat, expressed openness to abolishing the Electoral College following his party's decisive victory in the 2026 midterm elections. He spoke at the Crooked Con event in Washington, where Pod Save America host Jon Favreau asked whether a Democrat-led Congress might lead an effort to end the constitutional method of electing the president.\n\nShapiro is widely seen as a possible 2028 presidential contender, and his remarks come as Democrats weigh how to use their new leverage. Dozens of Democrats are reportedly considering bids, and the party is mapping out an agenda that includes oversight of the Trump administration.\n\nSupporters of abolition argue that a national popular vote would make every vote count equally. Opponents, including many Republicans, say the Electoral College protects the influence of smaller states and ensures broad geographic support for presidents. Eliminating it would require a constitutional amendment, which needs two-thirds of both chambers of Congress and ratification by three-fourths of the states, a threshold widely viewed as out of reach.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4796647/josh-shapiro-signals-support-abolish-electoral-college/",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-11-08T21:08:15.720203-07:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
       "headline": "Update: Krakow's Main Market Square Reopens as Investigators Detail Victims and Suspect",
       "summary": "Krakow's Main Market Square reopened on Sunday evening, with flags at half-mast and tributes lining the plaza, a day after a shooting that killed six people and injured 16. Officials say the dead are four Polish nationals, a British man and an Austrian woman. Of the 16 wounded, 15 are in stable condition, including two police officers who have emerged from comas. The suspect remains in critical condition.\n\nThe investigation is being led by a unit that specializes in terrorist offences. It is focused on the scene of the shooting and the suspect's home, where the bodies of his parents and younger sister were found on Saturday. Officials say the suspect had a clean criminal record and held a firearms permit. An official clarified, following erroneous reports, that he is not associated with the Polish Army.\n\nPoland's interior minister has said the suspect was likely inspired by far-right ideologies, though little more has been disclosed about a motive and authorities have not publicly named him. Eyewitnesses described the attack as terrifying and like a nightmare, and one recalled the panic unfolding around them.\n\nThe case now centers on how the suspect obtained and used a licensed firearm, what role his ideology played, and the circumstances of his family members' deaths. Authorities are expected to release further details as the suspect's condition permits and forensic work at both locations continues.",
       "source": "BBC News",
