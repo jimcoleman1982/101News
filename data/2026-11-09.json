@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-09",
+  "dateFormatted": "Monday, November 9, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Krakow Shooting Suspect Dies in Hospital",
+      "summary": "The 24-year-old gunman suspected of killing six people in Krakow's Main Market Square has died in hospital, Polish police said. He died early Monday morning of injuries sustained when armed officers engaged him in a gunfight on Saturday. Officials said he was shot within three minutes of the attack beginning, which prevented a further massacre.\n\nThe six people killed were four women and two men. Four were Polish, and a British national and an Austrian woman were also among the dead. Prime Minister Donald Tusk said three more bodies were found at the suspect's home, later identified by police as his 53-year-old father, 52-year-old mother and 21-year-old sister. The suspect has not been officially named.\n\nA Polish minister said early investigations indicated he was inspired by \"far-right ideologies\" and described him as an \"ultra-nationalist.\" Polish media reported that he held a firearms permit and may have obtained the weapons from his family home. Sixteen people, including five foreigners, two police officers and the attacker, were taken to hospital, with the foreigners coming from Austria, Britain, Germany, Portugal and Russia.\n\nBoth injured police officers have reportedly emerged from comas. One of two surgeons who were eating nearby and rushed to help said his colleague saved the life of a gravely injured officer by stemming the bleeding by hand until an ambulance arrived. The suspect's death means he will not face trial, and investigators are expected to continue examining his motives and how he obtained the weapons.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:17 AM MT",
+      "addedAtISO": "2026-11-09T04:17:19.878067-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "ANC Records Worst-Ever Result in South Africa Local Elections",
+      "summary": "South Africa's African National Congress recorded its worst showing in local elections since the end of apartheid, winning about 31% of the national vote. That is down from 46% in 2021 and far below the 65% it won two decades ago. ANC secretary-general Fikile Mbalula called the outcome \"catastrophic,\" citing the high cost of living and saying the middle class had turned on the party in large numbers.\n\nThe ANC won a majority in just one of nine provinces, Limpopo, compared with six in 2021, and topped the vote in only two of eight cities, down from six. The Democratic Alliance came second with 25% and kept control of Cape Town. Former president Jacob Zuma's MK party took 10% and unseated the ANC as the leading party in Durban, while Julius Malema's Economic Freedom Fighters finished fourth with 6%. Turnout was 52%, up from 46% in 2021.\n\nPresident Cyril Ramaphosa said he accepted \"the will of the people\" with humility and called the decline concerning. The ANC lost its parliamentary majority in 2024 and now governs in a coalition Government of National Unity. Analyst Susan Booysen said the result sends a \"devastating message,\" attributing the slide largely to poor service delivery, including failures in water, power and sanitation.\n\nThe results raise questions about the stability of the coalition and the ANC's prospects ahead of the next national contest, while the Democratic Alliance's overall vote share rose only marginally.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:17 AM MT",
+      "addedAtISO": "2026-11-09T04:17:19.878067-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "At Least 34 Dead After Europe-Bound Migrant Boat Sinks Off Senegal",
+      "summary": "At least 34 people died after a boat carrying migrants sank off the coast of Senegal, the Senegalese Press Agency reported, citing an official source. The interior ministry said one person was rescued and that the number still missing had not been established. The small wooden boat capsized between Dakar and the northern city of Saint-Louis while heading for Spain's Canary Islands.\n\nSaliou Diouf, founder of the migrant aid group Boza Fii, told AFP that all bodies recovered so far were Senegalese, and search operations continue. President Bassirou Diomaye Faye expressed condolences, urged citizens not to risk the crossings, and pledged to intensify efforts to dismantle the smuggling networks, while also creating reasons for young people to hope at home.\n\nThe sinking comes as the Atlantic route remains the deadliest monitored by the Spanish group Walking Borders, which recorded 635 deaths between January and May 2026. On Saturday, a state of emergency was declared on Spain's El Hierro island after more than 3,300 people arrived in about 30 boats since the start of November, almost a third of the island's population. Canary Islands president Fernando Clavijo called the situation \"absolutely unsustainable.\"\n\nSenegalese authorities also intercepted another boat on Friday carrying 142 migrants. Tighter controls and cooperation between European and North African states may have diverted more journeys onto the Atlantic route.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:17 AM MT",
+      "addedAtISO": "2026-11-09T04:17:19.878067-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Japan and Vietnam Agree to Deepen Economic Security and Energy Ties",
+      "summary": "Japan and Vietnam agreed to deepen cooperation in trade, technology, defense and energy security as their leaders met in Tokyo on Monday. Vietnam's To Lam was visiting the Japanese capital for the talks.\n\nThe two governments said they aim to strengthen economic and strategic ties amid rising regional geopolitical and trade tensions. The agreement spans several areas that both countries consider central to economic resilience, including supply chains, technology and energy.\n\nFurther details of the agreements were not immediately available. The meeting reflects broader efforts by Asian economies to diversify partnerships as regional tensions and trade uncertainty persist.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/japan-vietnam-eye-economic-security-ties-as-to-lam-visits-tokyo",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:17 AM MT",
+      "addedAtISO": "2026-11-09T04:17:19.878067-07:00",
+      "slot": 5
+    }
+  ]
+}
