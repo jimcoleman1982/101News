@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Trial Date Set for June 2028 in Charlie Kirk Murder Case",
+      "summary": "A Utah judge on Monday set jury selection in the trial of Tyler Robinson, the man accused of killing conservative activist Charlie Kirk, to begin on June 21, 2028. Utah County Judge Tony Graf Jr. issued the order. Robinson, 23, has pleaded not guilty to aggravated murder and six other charges stemming from the September 2025 shooting of Kirk, 31, at a Utah college campus event.\n\nProsecutors estimated the trial could last 17 weeks, while the defense said it could take seven months. Prosecutors had said they could be ready by October 2027 and were willing to move to January 2028 to avoid the holidays. Defense attorneys said they needed more time to prepare and floated a 2029 start. Robinson could face the death penalty if convicted of aggravated murder, which his defense team has sought to prevent. The defense has also tried to have cameras banned from the courtroom.\n\nKirk's widow, Erika, had pushed for the earliest possible trial and for proceedings to be live-streamed. Her lawyer, Jeffrey Nieman, told the court that a trial three years after the killing does not feel speedy to the family, but that they had no choice but to accept the schedule.\n\nAt a five-day preliminary hearing in July, prosecutors cited DNA allegedly tying Robinson to the murder weapon, confessions he allegedly made to loved ones, and a taped statement from his roommate and romantic partner. Prosecutor Ryan McBride said there is a mountain of evidence that Robinson is the shooter. The defense has questioned the evidence and the credentials of expert witnesses.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:27 PM MT",
+      "addedAtISO": "2026-11-09T20:27:51.220964-07:00",
+      "slot": 21
+    },
+    {
+      "category": "science_health",
+      "headline": "FDA Requires Warning of Rare 'Eye Stroke' Risk on GLP-1 Drugs",
+      "summary": "The Food and Drug Administration on Monday required pharmaceutical companies to add warnings about a potential increased risk of a serious eye condition associated with GLP-1 drugs used for weight loss and diabetes. The condition, non-arteritic anterior ischemic optic neuropathy, known as NAION or an eye stroke, is rare but can cause sudden vision loss.\n\nThe new labeling will apply to widely used medications including Ozempic and Wegovy and other brands in the class. Companies must alert both patients and healthcare providers to the possible risk of vision loss.\n\nGLP-1 drugs are used by millions of Americans, making even rare side effects significant for patient safety. Patients who experience sudden vision changes while taking these medications would be expected to seek medical attention promptly.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/6209047-fda-glp1-drug-nainon-risk/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:27 PM MT",
+      "addedAtISO": "2026-11-09T20:27:51.220964-07:00",
+      "slot": 21
+    },
+    {
+      "category": "other",
+      "headline": "Judge Denies Motion to Dismiss Lindsay Clancy Murder Case",
+      "summary": "A Massachusetts judge on Monday denied a motion to dismiss the murder case against Lindsay Clancy, who is accused of killing her three children in 2023. The defense had sought dismissal on double jeopardy grounds after the jury in her September trial failed to reach a verdict. Judge William Sullivan ruled there was manifest necessity for a mistrial based on the deadlock, so a retrial does not violate her rights.\n\nClancy has not denied killing her children but her defense argues she was suffering from severe postpartum psychosis. Prosecutors say the killings were intentional. They allege she strangled Cora, 5, Dawson, 3, and Callan, eight months, in their Duxbury home on January 23, 2023. The deadlock stemmed from a lone juror who favored first-degree murder conviction while the other 11 intended to acquit by reason of insanity.\n\nSullivan also denied a defense request for records of the holdout juror and to question the juror under oath, saying questioning would have been impermissibly coercive. Prosecutors may pursue a second trial, reduce charges or dismiss them. A hearing on scheduling is set for November 16, and the judge has suggested a retrial could begin in March.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "8:27 PM MT",
+      "addedAtISO": "2026-11-09T20:27:51.220964-07:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
       "headline": "Trump Questions Integrity of Midterm Elections Days After Saying He Would Accept Results",
       "summary": "President Donald Trump questioned the legitimacy of the midterm results on Monday, days after telling the New York Times on election night that he was \"absolutely willing\" to accept the outcome. \"Does anybody really believe that this 'Election' was honest. How could the Polls be so wrong?\" he wrote on Truth Social. His post made vague references to polling, voting \"dumps\" and \"machines\" without citing specific evidence of error or wrongdoing.\n\nDemocrats retook both chambers of Congress in last week's elections. As it stands, they have won 54 Senate seats and 254 House seats, with counting continuing in some races, including Senate contests in Alaska and Mississippi. State and local officials across the country have said voting was mostly problem-free.\n\nElection experts said the reporting of results followed normal patterns. MIT political scientist Charles Stewart III said the nation saw the standard patterns in when votes are reported. Ruth Greenwood of Harvard's Election Law Clinic said slower counts in some states do not mean anything nefarious is occurring.\n\nTrump has said he would have won easily had he been on the ballot, and has acknowledged on Fox News that the Iran war contributed to Republican losses, saying voters were unwilling to accept paying more for gasoline. Trump has long argued that voter fraud is rampant, while studies and election officials say it is extremely rare. Democrats and many election officials have rejected his claims, while Trump's supporters have often said concerns about election procedures deserve scrutiny.",
       "source": "BBC News",
