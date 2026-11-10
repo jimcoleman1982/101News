@@ -3,6 +3,48 @@
   "dateFormatted": "Tuesday, November 10, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "U.S. Soldier Arrested in England on Suspicion of Espionage Linked to Russia",
+      "summary": "A 41-year-old member of the U.S. Army was arrested Tuesday near Gloucester, England, on suspicion of espionage related to Russia, British counterterrorism police said. He was not named. He is suspected of violating two sections of the National Security Act 2023: assisting a foreign intelligence service and obtaining or disclosing protected information.\n\nThe Metropolitan Police said its counterterror officers worked closely with the FBI and the U.S. military. Searches were underway at two locations in Gloucestershire, about 90 miles west of London, and the suspect was held at a London police station.\n\nFBI Director Kash Patel called it an \"important arrest\" involving allegations of \"utmost concern\" to the United States and its allies. \"This FBI has no tolerance for anyone who breaks their oath to the United States and whose actions endanger our national security and that of our partners,\" he said.\n\nPolice said the arrest was not connected to other counterterror investigations, including a suspected Iran-linked plot in September at RAF Fairford, a U.S.-run base near Gloucester. After that threat, the U.S. Air Force withdrew bombers used in strikes on Iran from the base. The arrest comes as U.S.-Russia-Ukraine talks proceed in Abu Dhabi.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/u-s-soldier-arrested-in-britain-accused-of-espionage-linked-to-russia",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:44 PM MT",
+      "addedAtISO": "2026-11-10T13:44:50.748553-07:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "California Voters Reject Billionaire Wealth Tax, Proposition 40",
+      "summary": "California voters have rejected Proposition 40, a first-in-the-nation one-time 5% tax on the net worth of residents worth more than $1 billion. The Associated Press determined Monday that the \"no\" side had enough votes to win, after days of mail-ballot counting.\n\nThe measure would have directed most revenue to backfill federal healthcare funding cuts, with 10% going to education and food assistance. Supporters, including SEIU United Healthcare Workers West and Sen. Bernie Sanders, said it was needed to replace an estimated $100 billion in federal healthcare funding the state expects to lose over five years.\n\nOpponents, including Gov. Gavin Newsom, argued it would drive ultrawealthy taxpayers out of the state. The \"no\" side outraised supporters roughly 10 to 1; a committee opposing the measure raised more than $333 million, nearly a third from Google co-founder Sergey Brin. The AP Voter Poll found most voters under 30 backed the tax, while older voters were far less supportive.\n\nProponents said \"buying an election is not the same as winning the debate\" and vowed to return to the ballot in 2028 if patients are not protected. The result was seen as the nation's largest test of progressive proposals to tax investment wealth.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/politics/california-voters-reject-tax-on-net-worth-of-billionaires",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:44 PM MT",
+      "addedAtISO": "2026-11-10T13:44:50.748553-07:00",
+      "slot": 14
+    },
+    {
+      "category": "business",
+      "headline": "Update: Fed Rate Hike Looking Likely as Waller Floats Half-Point Increase After Hot Inflation Data",
+      "summary": "Following the release of October consumer price data showing a 0.4% monthly rise, with core prices up 0.3%, both a tenth of a point above forecasts, attention turned to the Federal Reserve. Economists said the persistence of inflation makes it highly likely the Fed will raise its key rate at its December meeting. The Fed held rates steady late last month after raising them in September.\n\nFed governor Christopher Waller, an outspoken member of the rate-setting committee, said Tuesday that a half-point hike next month was possible, double the usual quarter-point increase. He said economic activity is strong and the labor market stable, while inflation remains a concern. The economy grew at a 3.4% annual rate in the third quarter, driven largely by consumer spending.\n\nBecause last year's government shutdown meant no October 2025 data was released, no yearly rate was reported. Economist Riccardo Trezzi estimated prices rose about 4% from a year earlier, up from 3.7% in September, with core prices up 2.8%. He called inflation \"broad, persistent, a little bit everywhere.\" Axios noted it was the third straight month of hotter-than-expected readings, with the Iran war, tariffs and the AI investment boom all contributing.\n\nThe data poses a political challenge too: about two-thirds of voters in the AP Voter Poll blamed Trump's policies for higher costs, and Democrats now share responsibility for addressing them in Congress.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/economy/inflation-runs-hotter-than-expected-as-higher-prices-extend-beyond-the-gas-station",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:44 PM MT",
+      "addedAtISO": "2026-11-10T13:44:50.748553-07:00",
+      "slot": 14
+    },
+    {
       "category": "politics",
       "headline": "Update: Hegseth Calls Impeachment Effort 'a Farce' in First News Conference in Six Months",
       "summary": "Defense Secretary Pete Hegseth defended his record at the Pentagon in his first news conference in six months. He called the impeachment push against him \"a farce\" and defended the \"lawful military operations\" the United States has carried out. The press appearance came after Republican Representative Thomas Massie introduced articles of impeachment in the House of Representatives.\n\nMassie argues that Hegseth violated the Constitution by not seeking congressional approval for the Iran war, among other accusations. The effort is widely expected to fail in the Republican-controlled House. Reporting indicates Massie's aim is to pressure President Donald Trump to fire Hegseth before Democrats, who won sweeping victories in last week's midterm elections, can launch their own impeachment process next year.\n\nSupporters of Hegseth, including many on the right, describe the effort as a political stunt that undermines a wartime defense secretary and note that the administration has defended the legality of the operations against Iran. Critics, including Democrats and some Republicans such as Massie, contend that sustained military action without a congressional vote exceeds presidential authority under the Constitution.\n\nThe BBC's Gary O'Donoghue noted that while the defense secretary may face impeachment, his fate ultimately rests with Trump. Secretary of State Marco Rubio defended Hegseth earlier, and the president has said the US is keeping a \"status quo\" with Iran while remaining \"locked and loaded\" should the situation change. The dispute adds to Republican turmoil as Congress returns for a lame-duck session.",
