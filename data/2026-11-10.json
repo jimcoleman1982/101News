@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Maryland Gov. Wes Moore's Afghanistan combat claims disputed by his former Army supervisor",
+      "summary": "Maryland Democratic Gov. Wes Moore, widely seen as a possible 2028 presidential contender, is facing renewed scrutiny of his military record after his former Army supervisor questioned his claim that he led soldiers in combat. Retired Lt. Col. James \"Jamie\" Gottschling, who served with Moore in Afghanistan in 2005 and 2006, spoke to The Baltimore Sun for an investigative examination of Moore's service and then to Fox News Digital on Monday.\n\nGottschling described Moore as a dutiful and patriotic officer but said some of his accounts of events overseas were exaggerated and, in some cases, untrue. He said he would call himself and Moore \"combat veterans\" but \"not veterans of combat,\" adding that Moore spent about six months largely at a forward base in Salerno that was \"pretty much as safe as anywhere.\" He also questioned Moore's description in a TED Talk of struggling with reintegration after deployment, saying: \"I wouldn't call him a soldier.\"\n\nMoore's team responded that \"partisan politics got in the way\" of Gottschling's assessment. Moore had earlier criticized the Baltimore Sun ahead of publication, with his spokesperson targeting what he called the paper's right-wing ownership. Conservative outlets have framed the account as evidence of resume embellishment, while Moore's defenders say his deployment and service are documented and that the criticism is politically motivated.\n\nThe story has drawn wide coverage across outlets of every lean, and it comes as Democrats weigh potential 2028 candidates following their strong midterm showing. It is unclear whether further military records or statements will emerge.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/dem-governors-tale-combat-action-torn-shreds-commanding-army-officer-give-me-break",
+      "sourceCount": 22,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-11-10T21:08:02.905273-07:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
+      "headline": "Update: Three Iran-backed suspects indicted over European attack plots, US Justice Department says",
+      "summary": "The U.S. Department of Justice unsealed an eight-count indictment on Tuesday against three Iran-backed operatives accused of orchestrating a string of terror plots in Europe and the United States. Charged are Iranian Mohsen Mohajeri, Iraqi national Mohammad Ali al-Hassani and dual Iranian-Iraqi citizen Mohammad Baqer Saad Dawood al-Saadi.\n\nProsecutors say the three planned attacks carried out under the name Harakat Ashab al-Yamin al-Islamiya (HAYI). Of 18 attacks the group claimed in Europe in spring 2026, seven took place in the UK, involving arsons, explosives and a near-fatal stabbing of two Jewish men in London's Golders Green, including a dual US-British citizen. The DOJ also alleges they directed the September plot near RAF Fairford, where suspicious vans and fuel were found near the base housing US forces. One defendant is accused of communicating from a New York jail.\n\nFBI Director Kash Patel said the case shows Iran's determination to commit terrorist attacks in Europe and the US, and that the accused supported the Revolutionary Guard and Kataib Hezbollah. Iran has strongly denied involvement in the RAF Fairford incident. Seven men have been arrested in the UK.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-11-10T21:08:02.905273-07:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
       "headline": "Democrats Poised to Control Majority of State Legislatures for First Time in 16 Years",
       "summary": "Democrats will hold full control of 24 state legislatures starting in January after sweeping gains in the midterm elections, according to analyses of the results. The party flipped 12 individual chambers in total, giving it a majority of state legislatures for the first time in 16 years. Republicans will retain control of both chambers in a number of other states.\n\nThe shift has significant implications for state-level policy on issues including immigration enforcement, abortion, taxes and election administration, as well as for the redistricting battles that will shape the next decade of congressional maps. Reaction has already surfaced in local policy, including a Houston mayor's order limiting police cooperation with federal immigration authorities after Democratic wins in Texas.\n\nCoverage across outlets has differed in emphasis. Democratic officials and left-leaning commentators describe the results as a rejection of the Trump administration, citing the Iran war, inflation and immigration enforcement. Republican officials and right-leaning outlets have pointed to affordability concerns and the Iran conflict as drags on the party, and some have focused on what the GOP must do to recover before the 2028 cycle. Bloomberg reported that the scale of the Democratic victory has also shifted the debate over proposals to overhaul the Supreme Court.",
       "source": "The Hill",
