@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Russia's Ambassador to the US Alexander Darchiev Dies Suddenly at 66",
+      "summary": "Russia's Foreign Ministry announced on Wednesday that its ambassador to the United States, Alexander Darchiev, died suddenly on November 11 at the age of 66. A statement shared on the government's Telegram channel did not give a cause of death. The ministry expressed \"profound sorrow\" at the loss of the veteran diplomat.\n\nDarchiev had been appointed by President Vladimir Putin to lead a rapprochement with the Trump administration. His death comes while Russia, Ukraine and the United States are engaged in talks in Abu Dhabi, which U.S. officials have described as productive.\n\nNo further details were released about the circumstances of his death. It is not yet clear who will succeed him in Washington or how the vacancy might affect the diplomatic channel between Moscow and the Trump administration. Further information from Russian authorities is expected in the coming days.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/international/6213787-alexander-darchiev-russian-ambassador-us-death/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "2:08 PM MT",
+      "addedAtISO": "2026-11-11T14:08:03.608947-07:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Which Key Races Remain Undecided One Week After the US Midterms",
+      "summary": "More than a week after the midterm elections, the final size of the Democratic majorities in both chambers of Congress remains undetermined. Democrats have won 54 Senate seats for the incoming Congress and hold 255 House seats, their largest elected House majority since 2008. More than a dozen congressional races are still uncalled.\n\nIn Alaska, Democrat Mary Peltola led Republican Sen. Dan Sullivan by about 2,500 votes with an estimated 76 percent counted. She is just over one percentage point short of an outright majority, so the race could go to ranked-choice tabulation on November 18. The final overseas absentee ballots are accepted through that date, and the state's target for certification is November 25.\n\nIn Mississippi, Democrat Scott Colom led Republican incumbent Cindy Hyde-Smith by roughly 2,500 to 2,600 votes, in a state Donald Trump carried by more than 22 points in 2024. Officials estimated 12,000 to 20,000 affidavit ballots were cast, and about 15,500 had been processed as of Tuesday morning. Mississippi has no automatic recounts, and both parties have sent legal teams. Counties must submit results by Friday, with state certification set for December 3. A Colom win would make him the state's first Democratic senator in nearly four decades and its first Black senator in over 140 years.",
+      "source": "occasionaldigest.com",
+      "url": "https://occasionaldigest.com/which-key-races-remain-undecided-one-week-after-the-us-midterms-us-midterm-elections-2026-news",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "2:08 PM MT",
+      "addedAtISO": "2026-11-11T14:08:03.608947-07:00",
+      "slot": 14
+    },
+    {
+      "category": "other",
+      "headline": "Missing 11-Month-Old Found Buried Alive in Crate in South Carolina",
+      "summary": "An 11-month-old boy, Koah Sharpe, was rescued in South Carolina after officials said his father buried him alive in a crate. The child had been missing since Monday, when his father, Michael Comer, 25, took him from his mother's house. Lexington County Sheriff Jay Koon said the baby was found Tuesday, apparently after about 24 hours underground.\n\nComer was arrested Monday evening on a burglary charge without the child, and he told investigators little about the boy's whereabouts. A search party of about 100 police and fire personnel searched woods near his home and noticed freshly disturbed dirt. As they dug, they heard a baby crying, which Koon called \"the most joyful sound you ever heard.\"\n\nThe boy was in a roughly two-foot dog crate wrapped in a towel, which the sheriff said probably gave enough air, while cold weather kept him from overheating. He is in hospital and Koon said he was hopeful of a full recovery. Authorities are deciding on further charges, and court records show Comer previously pleaded guilty to domestic violence charges.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "2:08 PM MT",
+      "addedAtISO": "2026-11-11T14:08:03.608947-07:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Indonesia's Vice President Gibran Resigns Amid Signs Ruling Alliance Is Fraying",
       "summary": "Indonesia's Vice President Gibran Rakabuming Raka has submitted his resignation, an aide told the BBC. The aide, Budi Arie, said the letter was delivered directly to President Prabowo Subianto on Wednesday. It remains unclear whether Prabowo has accepted it.\n\nThe resignation follows a ruling by Indonesia's Supreme Court that a high-school document Gibran used in his 2024 campaign was invalid. The court said there was no evidence he had a foreign diploma or certificate that could serve as the basis for equivalency with a senior high school qualification. It cited an earlier Constitutional Court ruling from October that reached the same conclusion. More than 100 lawmakers then backed a parliamentary initiative that could have opened the way to impeachment proceedings. On Tuesday, Gibran had asked for the chance to challenge the ruling and prove his credentials, according to State Secretary Prasetyo Hadi.\n\nGibran, the son of outgoing president Joko Widodo, known as Jokowi, joined Prabowo's ticket as part of an alliance between Jokowi and his former rival. He was 36 at the time and became eligible only after a controversial Constitutional Court ruling exempted him from the minimum age of 40. Tensions between Jokowi and Prabowo appear to have grown, with Prabowo sidelining Jokowi's Nusantara capital project and reshuffling Jokowi loyalists, including finance minister Sri Mulyani Indrawati. Last week, presidential chief of staff Listyo Sigit Prabowo, a Jokowi ally, was arrested on suspicion of wiretapping the president and sacked a day later.",
       "source": "BBC News",
