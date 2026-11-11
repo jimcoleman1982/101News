@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-11",
+  "dateFormatted": "Wednesday, November 11, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Eisenkot Tasked With Forming Israeli Government, Unveils Agenda to Reverse Netanyahu Policies",
+      "summary": "Gadi Eisenkot, the main political rival of Prime Minister Benjamin Netanyahu, has been given the first opportunity to build a new Israeli government. He has pledged to reverse many of Netanyahu's policies. The new Knesset was sworn in on the day the agenda was announced.\n\nNewly elected lawmakers opposed to Netanyahu unveiled a series of bills targeting the prime minister on the opening day. The move signals that his rivals are eager to undo his political legacy following their recent election victory.\n\nThe path to a governing coalition remains uncertain. BBC reporting on the vote count, with more than 90 percent of ballots tallied, said all signs pointed to an impasse, with new elections a possible outcome. Analysts have also pointed to the ultra-Orthodox community's resistance to being drafted into the Israeli army as a factor that could affect the stability of any coalition, including Netanyahu's.\n\nThe political shift comes amid regional tension, including the Gaza humanitarian situation after heavy flooding and an ongoing conflict involving Iran. Eisenkot now faces the task of assembling a majority in a fragmented parliament.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/israel-election-netanyahu-eisenkot-knesset-68e96ea53ad8614f1e2aa6a546c64ad9",
+      "sourceCount": 25,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:41 AM MT",
+      "addedAtISO": "2026-11-11T03:41:05.634148-07:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Stephen Miller, New Chief of Staff, Aims to Win Back Young and Minority Men After Midterms",
+      "summary": "Stephen Miller plans to use his new role as White House chief of staff to win back young and minority men who helped elect President Trump in 2024 but swung toward Democrats in the midterms, according to two people familiar with the administration's plans who spoke to Axios. Miller was named last week to replace Susie Wiles.\n\nHe intends to revive the populist agenda that helped build the president's 2024 coalition, with an emphasis on working-class voters. Miller is widely known as the architect of the administration's tough immigration policies.\n\nSupporters of the appointment view it as a commitment to the core agenda that won Trump the presidency. Critics, including some Democrats, see it as a sign the president does not intend to pursue the bipartisan tone he suggested after the election. One possible 2028 Democratic contender told Politico that Democrats should try to work with Miller despite a \"well of distrust.\"\n\nThe shake-up comes as Republicans face a difficult lame-duck session and a looming shutdown deadline after their midterm losses.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/11/stephen-miller-focus-men-maga",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:41 AM MT",
+      "addedAtISO": "2026-11-11T03:41:05.634148-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "El Salvador Says Military Destroyed Headquarters of Haitian 400 Mawozo Gang",
+      "summary": "El Salvador's military has destroyed the headquarters of 400 Mawozo, one of Haiti's largest gangs, President Nayib Bukele said. The ground and air attack targeted a complex on the outskirts of Port-au-Prince, reportedly in Croix-des-Bouquets. It is the first Salvadoran military action on a Haitian target since more than 2,000 soldiers deployed last month.\n\nThe deployment followed the abduction in October of four Salvadoran air force technicians working with the UN-backed Gang Suppression Force. Bukele has vowed to bring them home alive. Some media outlets reported as many as 20 people were killed, though authorities have not confirmed that, and the BBC could not verify Bukele's video. The Miami Herald reported the gang leader, Wilson Joseph, was not present.\n\nHaitian Prime Minister Alix Didier Fils-Aime thanked El Salvador and said the two nations would keep working together to restore state authority. Critics, including Amnesty International, have raised concerns about the operational legitimacy and legality of the Salvadoran troops' actions, saying they are not all operating within the Gang Suppression Force command structure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:41 AM MT",
+      "addedAtISO": "2026-11-11T03:41:05.634148-07:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "Update: Chicago Fed's Goolsbee Calls October Inflation Report 'Borderline Disturbing'",
+      "summary": "Chicago Federal Reserve President Austan Goolsbee described the latest consumer price report as \"distressing, borderline disturbing.\" Prices rose 0.4 percent in October, driven largely by food and energy, while housing costs climbed 0.3 percent and accounted for roughly a third of the larger-than-expected increase. Economists now expect inflation of about 4 percent for the year, outpacing wage growth.\n\nGoolsbee said the effects of tariffs on goods prices were supposed to have faded by now but continue. He called services inflation, including health care, the most troubling element, saying it is probably not mainly driven by oil prices or tariffs and is not transitory. He noted energy costs are elevated because of the war in the Middle East, and that demand tied to the AI build-out is now adding pressure.\n\nThe comments come as markets weigh a possible Fed rate hike, after Governor Christopher Waller floated a half-point increase. Goolsbee said the Fed has a limited toolset, only the interest rate, and that inflation is on the minds of businesses, nonprofits and consumers across the Midwest, including farmers hit by diesel costs.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/u-s-inflation-report-highlights-strain-of-rising-food-energy-and-housing-costs",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:41 AM MT",
+      "addedAtISO": "2026-11-11T03:41:05.634148-07:00",
+      "slot": 5
+    }
+  ]
+}
