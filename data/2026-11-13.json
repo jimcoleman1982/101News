@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-13",
+  "dateFormatted": "Friday, November 13, 2026",
+  "stories": [
+    {
+      "category": "technology",
+      "headline": "Global Microsoft Outage Disrupts Email, Teams and Copilot for Hundreds of Millions of Users",
+      "summary": "A major outage hit Microsoft 365 services on Thursday evening, disrupting Outlook, Teams and the Copilot AI assistant. Many customers could not send or receive email, view files or access calendar details, while some users could still use Teams messaging and meetings. Downdetector logged about 140,000 reports of Outlook problems from 74 countries, though the true number is likely far higher because the site relies on self-reporting. Microsoft says more than 430 million people use its 365 apps.\n\nMicrosoft ruled out a cyber-security incident and attributed the disruption to \"elevated load\" on its infrastructure. A large number of servers became \"unexpectedly unavailable,\" it said, which pushed extra traffic onto the remaining servers and strained them. The company acknowledged that its early repair attempts were \"not taking as expected.\"\n\nThe effects spread beyond the company's own products. OpenAI and Anthropic both reported problems linked to the outage, and OpenAI said it was investigating an issue affecting its connections to Microsoft services. The Singaporean government and Australia's spy agency said they were affected. In the UK, GP surgeries, pharmacies, police forces and schools reported disruption, with some surgeries asking patients not to submit online messages and police urging the public to phone in reports.\n\nOn Friday morning Microsoft reported \"early signs of stabilisation,\" but said service capacity had not yet returned to normal levels. The disruption continued into Asia-Pacific business hours. Cyber-security expert Troy Hunt said the episode shows how central Microsoft and email are to the internet's backbone, affecting work, appointments and account verification.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwvg238zrnm5o",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:49 AM MT",
+      "addedAtISO": "2026-11-13T03:49:07.916899-07:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Democrats Move Toward Congressional Majorities as Remaining House Races Are Called",
+      "summary": "Democrats, who won the House and then the Senate in the midterm elections, are now settling the final races and preparing to govern. Democratic state Sen. Cindy Holscher was projected the winner of Kansas' governor's race over Trump-backed Republican Ty Masterson. In California's 4th District, Decision Desk HQ projected Eric Jones the winner over fellow Democrat Rep. Mike Thompson. In Alaska, a judge rejected Democratic Senate candidate Mary Peltola's request for rejected-ballot records as her narrow lead over Sen. Dan Sullivan shrank.\n\nRepublicans are absorbing the loss. Rep. Chip Roy of Texas gave a nearly half-hour rebuke of his party, and Jim Jordan won the House GOP minority leader race over Steve Scalise, 106-73. Former Vice President Mike Pence disputed JD Vance's claim that the Iran war alone cost Republicans Congress, citing inflation and policy failures as well. Trump, in an interview with Stephen A. Smith, was described as immovable in refusing to accept blame for the losses.\n\nDemocrats face their own tensions. Sen. Chris Van Hollen announced a challenge to Chuck Schumer for majority leader, and protesters from the Sunrise Movement were arrested in a sit-in at Schumer's office. Several senators, including Bernie Sanders and Elissa Slotkin, reportedly oppose Schumer's bid. Meanwhile, Democrats say they plan investigations and hearings in January.\n\nThe White House has warned that Democratic oversight plans could amount to criminality, while Democrats argue oversight is a core congressional duty. Newly elected senators are in Washington for orientation, and Texas Sen.-elect James Talarico urged his party to deliver results quickly. The lame-duck Congress has about four weeks of scheduled work, with a government funding deadline approaching.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/elections/2026/midterm-results/house",
+      "sourceCount": 24,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:49 AM MT",
+      "addedAtISO": "2026-11-13T03:49:07.916899-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Iran War Enters Ninth Month as Trump Says US Does Not Need a Deal",
+      "summary": "The US-Israel war with Iran, which began with Trump's announcement of major combat operations on Feb. 28, continues with no clear exit strategy. BBC analysis said none of the choices facing Iran's leaders offers a clear path to victory after renewed strikes this week. Trump has repeatedly raised the prospect of renewing strikes on Iran's nuclear facilities, and satellite imagery from November appears to show digging and new buildings at such sites.\n\nOn Thursday Trump posted that the US does not need a deal with Iran, and redirected Vice President JD Vance, who had led efforts to restart negotiations, toward alleged corruption in Democratic-run cities and states. Axios reported that Vance had concluded the war drove Republicans' midterm losses. Oil prices rose and stocks fell after the post. Iran extended its shutout of UN nuclear inspectors, leaving the status of its uranium stockpile unknown, and an adviser to Iran's supreme leader said the US and Europe have heard the repercussions of the war.\n\nThe conflict is also affecting security at home and shipping abroad. Treasury Secretary Scott Bessent is among several administration officials living on military bases over safety concerns. BBC Verify found 12 vessels were struck in a week. Some Senate Democrats want to use the looming government funding deadline to force an end to the war, though party leaders have not decided whether to risk a shutdown. Republican supporters of the president's approach argue that pressure on Tehran is necessary, while critics in both parties question the war's costs and goals.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+      "sourceCount": 9,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:49 AM MT",
+      "addedAtISO": "2026-11-13T03:49:07.916899-07:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "Update: Nvidia Scandal Pulls Commerce Secretary Lutnick Into Congressional Scrutiny",
+      "summary": "Fallout from Jensen Huang's resignation as Nvidia CEO has moved to Washington, where Commerce Secretary Howard Lutnick faces scrutiny over whether his department did enough to keep advanced AI chips out of China. Critics say the department delayed adding the firm Megaspeed to a trade blacklist and shielded Nvidia as concerns grew over chip sales. The White House says it is standing by Lutnick, though reports describe a view inside the administration that he delayed action, and some reports say he could be fired.\n\nCongressional responses cut across party lines. Senate Banking Chairman Tim Scott, a Republican, asked Lutnick and Huang to testify. Democrats Ron Wyden and Rep. Richard Neal asked Commerce to preserve records on Trump's decision to allow H200 chip sales to China. House Democratic Leader Hakeem Jeffries demanded a classified briefing for all members, and Democrats say Lutnick could face impeachment efforts or hearings in January.\n\nHuang resigned Thursday after admitting an affair with a woman suspected of being a Chinese agent, amid reports of other relationships. The New York Times reported Trump called Huang on Tuesday and urged him to fight for his job, and Trump later called him \"a Legend\" while suggesting Tim Cook as a replacement. Because Nvidia chips underpin the global AI economy, analysts expect closer scrutiny of export controls. Some Democrats said the scandal shows lax oversight, while administration allies have defended the president's handling of chip policy.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/elections/2026/midterm-results/house",
+      "sourceCount": 24,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:49 AM MT",
+      "addedAtISO": "2026-11-13T03:49:07.916899-07:00",
+      "slot": 5
+    }
+  ]
+}
