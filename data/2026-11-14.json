@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-14",
+  "dateFormatted": "Saturday, November 14, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Supreme Court Agrees to Hear Challenge to Trump's Suspension of Asylum Access at Southern Border",
+      "summary": "The Supreme Court on Friday agreed to decide the legality of President Donald Trump's executive order suspending access to the asylum system and other legal protections for migrants who cross the southern border illegally. The administration is asking the justices to overturn lower court decisions that found it was unlawful to block asylum applications under an order that described the situation at the border as an \"invasion.\"\n\nThe administration has credited the policy with helping reduce border crossings, and argues the president has the authority to restrict asylum claims in response to what it calls an emergency. Immigrant advocates and the lower courts that ruled against the order have held that federal immigration law guarantees migrants the right to seek asylum regardless of how they enter the country, and that the president cannot override that statutory right by proclamation.\n\nThe case gives the court a chance to rule on the limits of executive power over immigration, one of the central domestic policy fights of the Trump administration. Arguments are expected to be scheduled in the coming months, with a decision likely by the end of the court's term. The outcome could shape border enforcement policy for this and future administrations.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/supreme-court-trump-asylum-aeed6eb39a46b6f9e56f4b6940a5cfe4",
+      "sourceCount": 29,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:04 AM MT",
+      "addedAtISO": "2026-11-14T03:04:10.930978-07:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Democrat Eileen Laubacher Defeats Rep. Lauren Boebert; Kreiss-Tomkins Wins Alaska Governor's Race",
+      "summary": "Democrat Eileen Laubacher defeated Rep. Lauren Boebert in Colorado's congressional race, ousting the three-term Republican and prominent ally of President Trump, NBC News and other outlets projected. Boebert had been running in a more conservative district after a close re-election in 2022, but this year's Democratic wave swept her out of office.\n\nSeparately, Democrat Jonathan Kreiss-Tomkins was projected to win the Alaska governor's race under ranked-choice voting, defeating Republican Bernadette Wilson, who was endorsed by Trump. He becomes the first Democrat elected to the office in more than 20 years, and at 37 will be the state's youngest governor. His victory means Democrats will hold governorships in 30 states. Democrat Cindy Holscher also narrowly won the Kansas governor's race over Republican Ty Masterson.\n\nThe results add to a broad Democratic midterm performance that gives the party control of the House and Senate in the new year. Republicans are assessing the losses, with Secretary of State Marco Rubio saying \"politics requires more than simply winning elections,\" while Democrats say they have a mandate to deliver on costs. Twenty-four races in Alaska, including the Senate contest between Sen. Dan Sullivan and Mary Peltola, remain uncalled.",
+      "source": "NBC News",
+      "url": "https://apnews.com/article/supreme-court-trump-asylum-aeed6eb39a46b6f9e56f4b6940a5cfe4",
+      "sourceCount": 29,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:04 AM MT",
+      "addedAtISO": "2026-11-14T03:04:10.930978-07:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Trump to Meet Xi and Putin in First-Ever Trilateral Summit at APEC in China",
+      "summary": "The White House said President Trump will meet Chinese President Xi Jinping and Russian President Vladimir Putin on November 19 on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen, China. It will be the first-ever trilateral meeting of the leaders of the world's three biggest nuclear powers.\n\nA White House spokeswoman said Trump plans to discuss the \"reduction of nuclear weapons\" and the Iran war, which entered its ninth month. A senior administration official said Trump is not expected to raise Russia's war in Ukraine, and will not discuss with Xi the scandal surrounding former Nvidia CEO Jensen Huang and an alleged Chinese spy. Trump will also attend the ASEAN summit in the Philippines on the Asia trip.\n\nThe meeting comes as US envoys have held talks with Putin in Moscow on Ukraine, and as the Kremlin renews demands for a new European security architecture. Critics of the format are likely to question whether Europe and Ukraine are being sidelined, while supporters of the approach see direct engagement among the major powers as a route to arms control and an end to regional conflicts.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/supreme-court-trump-asylum-aeed6eb39a46b6f9e56f4b6940a5cfe4",
+      "sourceCount": 29,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:04 AM MT",
+      "addedAtISO": "2026-11-14T03:04:10.930978-07:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Administration Delays Medicaid Work Requirements by Six Months",
+      "summary": "The Trump administration announced Friday a six-month delay in enforcing Medicaid work requirements that were scheduled to take effect January 1. The Centers for Medicare and Medicaid Services said states may use an optional \"hold harmless\" transition period through June 30.\n\nThe requirements, established by Republicans in the One Big Beautiful Bill Act, will technically still take effect on January 1. State officials had warned they were not ready to administer the rules, which require many able-bodied adults to work, volunteer or attend school to keep coverage. Estimates have suggested millions of people could lose health insurance under the policy.\n\nSupporters of the requirements say they encourage work and protect the program's resources, while critics argue they create administrative hurdles that strip coverage from eligible people. The delay gives states additional time to build systems, and comes after Democrats won control of Congress in the midterm elections, setting up further debate over the policy in the new year.",
+      "source": "Axios",
+      "url": "https://apnews.com/article/supreme-court-trump-asylum-aeed6eb39a46b6f9e56f4b6940a5cfe4",
+      "sourceCount": 29,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:04 AM MT",
+      "addedAtISO": "2026-11-14T03:04:10.930978-07:00",
+      "slot": 5
+    }
+  ]
+}
