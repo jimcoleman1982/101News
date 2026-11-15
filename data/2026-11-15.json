@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-15",
+  "dateFormatted": "Sunday, November 15, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: US-Israel War With Iran Continues After Renewed Strikes, as UN Watchdog Cites Isfahan Access Gap",
+      "summary": "The conflict between the United States, Israel and Iran continued this week after renewed strikes, with BBC analysis noting that neither side appears to have a clear exit strategy. The coverage says none of the choices facing Iran's leaders offers a clear path to victory. The war has been running for roughly nine months, and the coverage notes the funeral of Ayatollah Ali Khamenei as a reminder of how much Iran's leadership has changed.\n\nPresident Donald Trump has repeatedly raised the prospect of renewing strikes on Iran's nuclear facilities. Satellite imagery taken in November shows evidence of digging and new buildings at nuclear-related sites, according to the reporting. The UN nuclear watchdog says it has never been able to visit a uranium enrichment plant at Isfahan that Iran announced more than a year ago, and it has said it is increasingly concerned about uninspected enrichment activity.\n\nThe conflict is also affecting security arrangements at home and abroad. Treasury Secretary Scott Bessent is now one of several Trump administration officials living on military bases because of safety concerns. Protesters blocked the entrance to RAF Lakenheath in Britain over conflicts involving the United States.\n\nSupporters of the administration's approach argue that pressure on Iran's nuclear program is necessary and that Washington does not need a deal on Iran's terms. Critics, including many Democrats and commentators on the left, question the war's open-ended nature and its costs. Outlets across the spectrum, from Fox News and the Washington Examiner to NPR and the Guardian, are covering the story, which is expected to dominate foreign policy debate as the new Congress takes shape.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/topics/cx2jyv8j8gwt",
+      "sourceCount": 18,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:40 AM MT",
+      "addedAtISO": "2026-11-15T03:40:18.553548-07:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Midterm Voters End Long-Running GOP Dominance in State Legislatures",
+      "summary": "Democrats took control of state legislatures that had been divided and weakened Republican dominance in others in this month's midterm elections, according to NPR's analysis. The results end a long stretch in which Republicans held a commanding position in statehouses nationwide. The shift extends the party's gains in the midterms beyond Congress and governors' races.\n\nThe issues expected to top the new majorities' agendas include expanded access to health care and new limits on school vouchers. State legislatures set policy on education, health coverage, elections and abortion, so the changes will affect millions of residents directly. Several of the newly Democratic chambers had been split, giving the party its first real ability to pass legislation in years.\n\nRepublicans have sought to play down the losses. Secretary of State Marco Rubio said on Friday that \"Politics requires more than simply winning elections,\" as he described the party's setbacks in the midterm elections. Some in the party have urged introspection, and Republicans point to their continuing strength in many other states and to the ordinary pattern of the president's party losing ground in midterm years.\n\nDemocrats say voters responded to their message on the cost of living and now expect results. Party leaders are weighing their next steps after the sweep. The legislative sessions beginning in January will be the first test of whether the new majorities can deliver on their promises.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:40 AM MT",
+      "addedAtISO": "2026-11-15T03:40:18.553548-07:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "Update: Microsoft Says Services Fully Restored After Global Outage",
+      "summary": "Microsoft confirmed on Saturday that its services were fully restored after a massive global outage earlier in the week. In a post, the company said it had completed its efforts to address the underlying issue and restored service to the remaining impacted customers and regions. The disruption had affected platforms including Outlook, Teams and Copilot.\n\nThe outage hit governments, courts, healthcare services, businesses, airlines and banks in many places. Governments including those of Japan, Singapore and Australia reported that the hourslong episode had disrupted some of their operations. Earlier reporting estimated that hundreds of millions of users were affected.\n\nThe restoration marks the end of the incident, though questions remain about the root cause and about how heavily public institutions depend on a single provider's cloud and productivity services. Microsoft has not yet detailed in the reporting what the underlying issue was. The episode follows a separate nationwide flight shutdown earlier in the week, which officials blamed on upgrade work, and renews attention to the fragility of critical digital infrastructure.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/6220925-microsoft-services-fully-restored-after-global-disruptions/",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:40 AM MT",
+      "addedAtISO": "2026-11-15T03:40:18.553548-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: New Orleans Port Sues Tanker Owners Over Riverboat Collision",
+      "summary": "The Port of New Orleans filed a lawsuit seeking more than $1 million in damages from the owners and managers of the tanker that struck the docked cruise ship American Heritage on Friday. The suit, filed in federal court in the Eastern District of Louisiana, names the M/V Atlantic Asphalt, its owner Nave Shipping SA and its manager Thome Ship Management Pte Ltd. It alleges negligence and gross negligence, and asks that the tanker be seized and sold to cover costs.\n\nAbout 129 passengers plus crew were aboard the paddlewheel ship, which ended up on its side and partially submerged in the Mississippi River. Thirty-two people from the riverboat were hospitalized with non-critical injuries and no one was unaccounted for, which officials called a \"miracle on the Mississippi.\" Coast Guard Capt. Melanie Burnham said there \"seems to be some type of a loss of steering,\" though the exact cause remains under investigation.\n\nThe lawsuit says the port terminal was significantly damaged and seeks money for cleanup, inspections and repairs. Nave Shipping is a subsidiary of China State Shipbuilding Corporation. Thome said the tanker's crew were safe and that it is cooperating fully with authorities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 7,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:40 AM MT",
+      "addedAtISO": "2026-11-15T03:40:18.553548-07:00",
+      "slot": 5
+    }
+  ]
+}
