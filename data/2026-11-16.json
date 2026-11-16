@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-16",
+  "dateFormatted": "Monday, November 16, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Iran Strikes Bahrain Again as Third US Carrier Group Arrives in Middle East",
+      "summary": "Iran carried out a six-drone attack on a US airbase in Bahrain early Sunday, the second strike on the Gulf state in three days. Bahrain said it intercepted \"several aerial attacks\" before they hit their targets. The Islamic Revolutionary Guard Corps said the US air defense radar system at the Al-Riffa helicopter base was targeted, while Bahraini authorities disputed any successful hit. Bahrain had not been targeted since September.\n\nA US official told ABC News that a third aircraft carrier strike group has arrived in the Middle East, with the USS Theodore Roosevelt joining two other carriers in the US Central Command area. President Trump shared a message saying \"May God protect our troops.\" The attacks follow minor US strikes on Iran's Qeshm island in recent weeks, and the US and Iran remain locked in a standoff over the Strait of Hormuz. Iran has reiterated that a path to ending the conflict with the US remains open.\n\nThe war began in February, when Trump announced major combat operations against Iran. Former Secretary of State Antony Blinken warned on Sunday that a US ground invasion of Iran would be an \"absolute disaster.\" The Justice Department also charged three men with ties to the IRGC over roughly 18 planned attacks in Europe, including a thwarted plot against a UK airbase housing US personnel and aircraft.\n\nThe BBC reported that Democrats' midterm victory could lead to a more critical approach to the war in the next Congress. Republicans have generally backed the military campaign as necessary to counter Iran, while many Democrats are pressing for congressional oversight and a path to ending the conflict.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/international/6221436-iran-drone-attack-bahrain/",
+      "sourceCount": 14,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:57 AM MT",
+      "addedAtISO": "2026-11-16T03:57:28.031276-07:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Senate Democratic Leadership Fight Opens as Van Hollen Challenges Schumer",
+      "summary": "Sen. Chris Van Hollen of Maryland appeared on CNN, ABC and Fox News on Sunday to escalate his bid to lead the incoming Senate Democratic majority in place of Chuck Schumer. He said he has a \"wide-open\" path to victory. Democrats clinched the Senate in the midterms after winning the House, taking several states Donald Trump carried by double digits in 2024.\n\nThe Hill reported Saturday that Schumer's allies expect him to win more than 40 votes in the leadership contest. Van Hollen called that report \"a bunch of nonsense\" and said several senators claimed by Schumer's team have privately pledged to back him. Sen.-elect Scott Colom of Mississippi, who flipped a seat blue for the first time in decades, urged Democrats on NBC to invest more in Southern states.\n\nOn the Republican side, Senate Republicans kept John Thune as leader by acclamation after a heated closed-door meeting. A Politico poll shows tension within the party over its direction after its worst midterm performance in a generation, and some Republicans say rising stars should skip 2028.\n\nDemocrats are weighing an agenda that includes Medicaid restoration, ACA tax credit expansion and housing aid. Axios notes that to secure policy wins quickly, they may need to work with Trump. Meanwhile, Deputy Attorney General Todd Blanche and Texas US Attorney Aaron Reitz criticized Democrats, including Sen. Elizabeth Warren, over plans for investigations of Trump and his allies, with Reitz demanding she preserve documents. Democrats describe such oversight as a core congressional duty.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/elections/2026/midterm-results/house",
+      "sourceCount": 22,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:57 AM MT",
+      "addedAtISO": "2026-11-16T03:57:28.031276-07:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Trump Asks Congress to Fund New Air Traffic Control System After Nationwide Ground Stop",
+      "summary": "President Trump on Sunday asked Congress to fund a new air traffic control system following Friday's nationwide ground stop of all US flights, the longest in 25 years. \"If Congress approves the desperately needed money for Air Traffic Control, we can get it built quickly and efficiently,\" he wrote. He said it would be \"the BEST SYSTEM anywhere in the World.\"\n\nTransportation Secretary Sean Duffy appeared on four Sunday shows and blamed the lack of congressional funding. He earlier said overloaded routers tied to maintenance work by contractor L3Harris triggered the stop. Officials also cited aging infrastructure and legacy technology, and Duffy said the precise cause was not yet fully known.\n\nThe disruption continued Sunday, with about 2,000 canceled flights and more than 8,000 delays. Even NFL crews were affected, with four officials working two games. United Airlines CEO Scott Kirby called the episode a \"call to action\" to modernize the system, saying he has spoken with both parties.\n\nRepublicans point to years of underinvestment and Congress's funding role, while Democrats and some critics, including former Transportation Secretary Pete Buttigieg, have taken aim at the administration's handling. The funding request is likely to become an early test of how Trump and the incoming Democratic-controlled Congress can cooperate.",
+      "source": "The Hill",
+      "url": "https://www.foxnews.com/elections/2026/midterm-results/house",
+      "sourceCount": 22,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:57 AM MT",
+      "addedAtISO": "2026-11-16T03:57:28.031276-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Nearly 2,200 Migrants Reach Canary Islands in Two Days as Spain Declares Emergency",
+      "summary": "Nearly 2,200 migrants reached Spain's Canary Islands by boat over the past two days, Spain's maritime rescue service said Sunday. The service assisted 1,324 people aboard 14 dinghies, most of whom landed on El Hierro, an island of about 12,000 residents. That figure approached the route's daily rescue record of 1,461, set on Nov. 7, 2020.\n\nSpain declared a migration emergency on the islands on Tuesday after a rise in arrivals, particularly from sub-Saharan Africa. More than 13,000 of the just over 28,000 people who reached Spain by sea from January through October landed in the Canaries, according to the Interior Ministry. Red Cross staff provided dry clothes, food and water at the port.\n\nThe Atlantic route is among the world's deadliest, with most boats leaving from Mauritania. The surge comes as Spain prepares for an early general election in two weeks, which is likely to keep immigration at the center of political debate. In July, tens of thousands crossed from Morocco into Ceuta in two days, and up to 15,000 remained.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/16/world-news/nearly-2200-migrants-reach-canary-islands-in-2-days-spain-says/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:57 AM MT",
+      "addedAtISO": "2026-11-16T03:57:28.031276-07:00",
+      "slot": 5
+    }
+  ]
+}
