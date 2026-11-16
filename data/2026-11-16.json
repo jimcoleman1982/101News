@@ -3,6 +3,48 @@
   "dateFormatted": "Monday, November 16, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "Customers at Major Banks Report Trouble Accessing Online Accounts",
+      "summary": "Customers of several of the largest U.S. banks reported difficulty accessing their online accounts on Monday. Downdetector.com listed Bank of America, Chase, U.S. Bank, Wells Fargo and the payments service Zelle as down or experiencing problems, according to user reports.\n\nChase said the disruption stemmed from a technical bug and not a cyberattack. A spokesperson said some transactions were taking longer than usual to complete, but that customers still had access to their accounts and funds. The company said it was working to resolve the problem as quickly as possible. Some customers received a message reading, \"Some services aren't available. We're working on them. Please try back later.\"\n\nThe reports followed a major Microsoft outage that began Friday and lasted for hours, affecting services including Outlook, Teams and the Copilot AI assistant. They also came after a nationwide FAA ground stop that grounded flights on Friday. The sequence of failures has led some observers to question the fragility of the technology systems that underpin daily commerce and travel. The other banks had not offered detailed explanations in the reporting available, and it was not clear how widespread the problems were or when full service would be restored.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/customers-at-major-banks-are-experiencing-issues-accessing-their-accounts",
+      "sourceCount": 11,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:57 PM MT",
+      "addedAtISO": "2026-11-16T13:57:37.129975-07:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Khanna Proposes $1,700 Refund Checks to Offset Iran War Costs",
+      "summary": "Rep. Ro Khanna, D-Calif., proposed on Monday that every American receive a $1,700 refund check to cover the economic impact of the Iran war. Khanna, a progressive and potential 2028 presidential contender, said on social media the payments would offset higher gas, food and electricity prices caused by disruptions to oil transport.\n\nThe proposal comes as the war continues. A U.S. official confirmed the arrival of the USS Theodore Roosevelt, bringing the number of American carriers in the Middle East to three, matching earlier points in the conflict and the 2003 buildup to the invasion of Iraq. Iran said it will not allow U.N. inspectors to return to damaged nuclear sites until the war with the United States is permanently ended.\n\nThe proposal highlights growing Democratic criticism of the war's cost to consumers, while supporters of the administration's campaign argue the military action is necessary to counter Iran's nuclear program. No legislative text or cost estimate was detailed in the reporting, and it was unclear whether the plan could advance in a Congress where Republicans retain control until January.",
+      "source": "The Hill",
+      "url": "https://thehill.com/the-120/6223191-khanna-proposes-iran-war-refunds/",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:57 PM MT",
+      "addedAtISO": "2026-11-16T13:57:37.129975-07:00",
+      "slot": 14
+    },
+    {
+      "category": "other",
+      "headline": "Lindsay Clancy to Face Retrial in March 2027 for Deaths of Her Three Children",
+      "summary": "A Massachusetts judge set a March 29, 2027, retrial date for Lindsay Clancy, 36, who is accused of killing her three children in 2023 after a jury deadlocked in her first trial. Judge William Sullivan chose March over the May date prosecutors sought, noting he is due to retire in June.\n\nClancy was charged with three counts of first-degree murder in the deaths of Cora, 5, Dawson, 3, and Callan, 8 months, who were strangled at the family home in Duxbury on January 24, 2023. The district attorney has not said what charges he will pursue, though the defense read prosecutors' request for a jury trial as a sign they will seek first-degree murder again. The defense argues Clancy suffered severe postpartum psychosis and seeks a verdict of not guilty by reason of lack of criminal responsibility.\n\nThe judge declared a mistrial on September 4. Some jurors later said they were ready to find her not guilty by reason of insanity but one held out. A week ago, the judge rejected a double jeopardy motion to dismiss the case. Clancy is held in a state psychiatric facility, and the case has prompted debate over the treatment of postpartum mental illness.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "1:57 PM MT",
+      "addedAtISO": "2026-11-16T13:57:37.129975-07:00",
+      "slot": 14
+    },
+    {
       "category": "world",
       "headline": "Iraq Orders Army Into Kataib Hezbollah Stronghold Amid Oil Smuggling Probe",
       "summary": "Iraqi Prime Minister Ali al-Zaidi has ordered the armed forces to move into Jurf al-Nasr, a town south of Baghdad that serves as a stronghold of the Iran-backed Kataib Hezbollah group. Government spokesman Haidar al-Aboudi announced the order on Monday through the state-run Iraqi News Agency. A senior Iraqi official told Al Jazeera Arabic that the group has until Friday to leave the area.\n\nThe move follows a sweeping anticorruption crackdown centered on the town, which is alleged to harbor illicit oil refineries. An investigative committee reported what it called clear tampering with pipelines passing through the area, along with attempts to conceal the traces. Sources told Reuters the smuggling has cost the government hundreds of millions of dollars since 2021. The probe has led to the dismissal and judicial referral of nine senior officials, and security agencies have been told to stop tankers carrying oil products from leaving the area.\n\nKataib Hezbollah denied the allegations, saying an inspection found no interference with pipelines. It described the campaign as blackmail aimed at forcing it to give up its weapons. The deployment comes amid pressure from the United States and some Gulf states on Baghdad to curb Tehran's influence, and while Iran and the US are engaged in open hostilities. Analysts say the oil probe is a calculated effort to cut off the finances of armed factions that refuse to integrate into the state, and the order raises the prospect of direct confrontation between government troops and the group.",
