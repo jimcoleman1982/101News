@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-17",
+  "dateFormatted": "Tuesday, November 17, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Ukraine Strike Collapses Section of Kerch Bridge to Crimea as Russia Hits Kyiv Bridges",
+      "summary": "A section of the Crimean Bridge, also known as the Kerch Bridge, collapsed on Tuesday after a Ukrainian strike. The $3.7 billion crossing, nearly 12 miles long and the longest in Europe, is a vital supply line for Russian forces and a symbolic project for President Vladimir Putin, who made its construction a priority after Russia annexed Crimea in 2014.\n\nUkraine's Security Service said one of the metal arches and the road span beneath it were completely destroyed, and that the railway section was preliminarily damaged. President Volodymyr Zelensky said Ukrainian-made weapons were used: Palianytsia drones struck the road section, while Neptune missiles, Ruta drones and FP-5 drones hit the railway section. He described the strike as the seventh stage of a plan carried out over several weeks and as a response to Russian attacks on Ukrainian infrastructure. Defense Minister Yevhenii Khmara stressed that the operation used exclusively Ukrainian weapons and technology.\n\nKremlin spokesman Dmitry Peskov played down the damage, saying the bridge would be rebuilt \"even better than before,\" according to Russian state media. Overnight, Moscow hit two key bridges in Kyiv, bringing much of the capital to a standstill on Tuesday.\n\nThe timing carries added weight, coming on the eve of a planned meeting in Asia between Putin, President Donald Trump and Chinese leader Xi Jinping, which the Kremlin has framed as a \"New Yalta.\" The damage makes the Crimean city of Yalta effectively inaccessible from mainland Russia by the bridge until repairs are made. Ukraine has intensified attacks on Crimea over the past six months, and Russian-installed authorities imposed a state of emergency there over the summer because of power outages and fuel shortages.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/11/17/europe/ukraine-russia-kerch-bridge-intl-hnk",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "4:41 AM MT",
+      "addedAtISO": "2026-11-17T04:41:01.010896-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Japan Scrambles Jets After Alleged Russian Airspace Violation Ahead of Apec Summit",
+      "summary": "Japan said it launched fighter jets and lodged a strong protest after two suspected Russian aircraft violated its airspace early Tuesday off the southwestern Okinoshima island. Chief Cabinet Secretary Minoru Kihara called the flight paths a \"serious infringement of Japan's sovereignty\" and \"completely unacceptable.\" Moscow has not commented.\n\nSouth Korea said it also deployed fighter jets after Russian military aircraft entered its air defence identification zone over the Sea of Japan, departing without violating South Korean airspace. Taiwan said its military \"responded accordingly\" after two Russian military aircraft entered its zone. It is unclear whether the three governments were tracking the same or different aircraft.\n\nThe last comparable incursion into Japanese airspace was in 2024, off Rebun island in Hokkaido. Tensions between Tokyo and Moscow have risen in recent months: Putin visited one of the disputed Pacific islands in August, drawing a sharp rebuke from Prime Minister Sanae Takaichi, and Russia detained a Japanese journalist on spying allegations in October.\n\nThe incidents come ahead of the Apec summit in China this week, which Putin will attend alongside President Donald Trump and Xi Jinping, and are seen as a reminder of Russian military reach in the region.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:41 AM MT",
+      "addedAtISO": "2026-11-17T04:41:01.010896-07:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Rep. James Comer Announces Run for Kentucky Governor",
+      "summary": "Rep. James Comer, the Kentucky Republican who chairs the House Oversight Committee, announced Monday night that he is running for governor of Kentucky in 2027. He said he aims to flip the governor's mansion from Democratic to Republican control.\n\n\"Serving this state is a calling for me,\" Comer said while unveiling his campaign, adding that Kentucky needs a leader whose policies will lead to growth and good-paying jobs.\n\nThe announcement follows a midterm cycle in which Democrats took control of Congress and a historic number of state legislatures. Comer's bid would take him away from a committee that has been central to congressional investigations, at a time when Democratic control of the House is expected to reshape oversight priorities. Democrats currently hold the Kentucky governorship, and the race is likely to be watched as an early test of Republican strength after the midterm losses.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:41 AM MT",
+      "addedAtISO": "2026-11-17T04:41:01.010896-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Imran Khan Appeals for Urgent Medical Care, Fearing He 'May Not Return Alive'",
+      "summary": "Pakistan's jailed former prime minister Imran Khan has appealed for urgent medical treatment, saying his and his wife's health are deteriorating. In a letter published by his lawyer Salman Safdar, the 74-year-old wrote that \"this unrelenting state is taking me to a place from which I may not return alive.\" He said doctors have told him he is highly vulnerable to brain haemorrhage and cardiac arrest, and that his heart has already suffered damage.\n\nKhan said he is held in solitary confinement for up to 22 hours a day, without family visits, books or television, and has seen his lawyers only four times in the past year. He also said his wife, Bushra Bibi, suffered a detached retina in April and may lose her sight without further surgery. His family previously said he lost most of the vision in his right eye.\n\nThe government disputes the claims. Parliamentary affairs minister Tariq Fazal Chaudhry said Khan is \"the most well-accommodated prisoner in Pakistan,\" and authorities say doctors see him weekly and assess his health as satisfactory. Officials say he was taken to a government hospital for an eye injection a week ago and was deemed clinically stable.\n\nKhan, who has been jailed since August 2023 and faces more than 100 charges that he calls politically motivated, remains influential. Thousands of his supporters marched in early October demanding his release, after which authorities imposed a crackdown and a state of emergency in Khyber Pakhtunkhwa.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:41 AM MT",
+      "addedAtISO": "2026-11-17T04:41:01.010896-07:00",
+      "slot": 5
+    }
+  ]
+}
