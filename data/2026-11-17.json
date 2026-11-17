@@ -3,6 +3,48 @@
   "dateFormatted": "Tuesday, November 17, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: Senate Republicans Balk at Duffy's $50 Billion Air Traffic Control Request",
+      "summary": "Transportation Secretary Sean Duffy faced a skeptical reception from Senate Republicans on Tuesday as he sought roughly $50 billion to overhaul the nation's air traffic control system. The request follows Friday's historic nationwide ground stop, the longest national shutdown of air travel since 9/11. The administration has formally updated its request to lawmakers to $50.1 billion for modernization and other airport improvements.\n\nSen. John Kennedy, R-La., told reporters that Duffy made a mistake by originally requesting such a large sum. Other Senate Republicans asked for an accounting of the $12.5 billion already sent for air traffic control. Democrats such as Sen. Jack Reed also criticized the request and raised concerns about FAA oversight of contractors. The pushback from both parties casts doubt on whether the administration can secure the full amount.\n\nDuffy said he would \"take what I can get\" and that it remains unclear what the root cause of Friday's ground stop was. Officials have said aging switches and routers at regional facilities were overloaded, and the FAA has paused installation of routers that may have been responsible. Duffy rejected suggestions that he had dropped the ball, defending the agency's modernization efforts.\n\nThe hearing comes amid a run of technical disruptions at federal agencies and private companies in recent days. Lawmakers are expected to weigh the funding as part of broader lame-duck budget negotiations.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/17/sean-duffy-faa-senate-republicans-50-billion",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:50 PM MT",
+      "addedAtISO": "2026-11-17T16:50:13.219847-07:00",
+      "slot": 18
+    },
+    {
+      "category": "science_health",
+      "headline": "Leukemia Vaccine Passes Key Trial, Adding to Breakthrough Year for Cancer Drugs",
+      "summary": "A vaccine for certain patients with acute myeloid leukemia has passed a key clinical trial, according to the drugmaker, reducing the risk of death among participants. The result adds to what researchers and the industry describe as a breakthrough year for cancer treatments.\n\nAcute myeloid leukemia is an aggressive blood cancer with high relapse rates, and treatment options for many patients remain limited. The vaccine is designed to train the immune system to recognize and attack cancer cells. The reported trial result is from the company, and details on patient numbers and long-term outcomes are expected to be reviewed by regulators and independent experts.\n\nThe finding drew coverage from nearly 20 outlets across the political spectrum. Next steps would typically include regulatory submissions and further study to confirm the benefit and safety profile across broader patient groups.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/health/2026/11/17/leukemia-vaccine-passes-key-trial-adding-breakthrough-year-cancer-drugs/",
+      "sourceCount": 19,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:50 PM MT",
+      "addedAtISO": "2026-11-17T16:50:13.219847-07:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Nominates Gen. Christopher LaNeve as Army Chief of Staff",
+      "summary": "President Trump on Tuesday formally nominated Gen. Christopher LaNeve to serve as the Army's chief of staff, the service's top officer. The nomination comes nine months after Defense Secretary Pete Hegseth fired the previous chief, Gen. Randy George, in April.\n\nLaNeve has been serving in the role on an interim basis. He previously served as Hegseth's senior military commander and was nominated for a fourth star and the post of vice chief of staff in February. Trump called him \"an exceptional leader who has commanded at every echelon of the Army.\"\n\nThe nomination requires Senate confirmation. The firing of George drew scrutiny at the time as part of Hegseth's wider shake-up of military leadership, and senators may question LaNeve about his close ties to the defense secretary and the Army's direction during the ongoing Iran conflict.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/defense/6226253-trump-nominates-laneve-army-chief/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:50 PM MT",
+      "addedAtISO": "2026-11-17T16:50:13.219847-07:00",
+      "slot": 18
+    },
+    {
       "category": "science_health",
       "headline": "US Loses Measles Elimination Status After 26 Years Amid Record Case Numbers",
       "summary": "The Pan American Health Organization (PAHO), the regional arm of the World Health Organization, announced Tuesday that the United States has lost its measles elimination status. PAHO determined that the same strain of measles had circulated without interruption for more than 12 months. Mexico and Bolivia also lost their status, while Canada, which lost its designation last year, has made progress toward interrupting transmission.\n\nThe United States has recorded about 5,400 measles cases this year and 10 measles-related deaths, the most since the 1990s. PAHO director Dr. Jarbas Barbosa called the figures \"a serious warning for our region\" and said measles is resurging amid persistent gaps in vaccination. Countries that lose status must submit corrective action plans outlining how they will raise vaccination rates. The U.S. recommends two MMR doses for children, a regimen that is 97 percent effective.\n\nHealth Secretary Robert F. Kennedy Jr., who has pursued sweeping changes to vaccine policy and has often questioned the safety of the MMR shot, has argued that the rise in cases began before he took office and that neighboring countries have also seen increases. Critics tie declining vaccination rates and his messaging to the outbreaks. The CDC said it is committed to \"regaining measles elimination status\" by encouraging MMR vaccination and expanding access. CDC Director Erica Schwartz said the elimination designation itself is not what protects Americans, and that vaccination does.",
