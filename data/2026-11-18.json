@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-18",
+  "dateFormatted": "Wednesday, November 18, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Update: Rubio Says US Not 'Under Systemic Attack' After Series of Tech Outages",
+      "summary": "Secretary of State Marco Rubio said Wednesday there is \"zero evidence\" linking the string of technology outages that have hit the United States over the past week. \"We are not under systemic attack,\" he told reporters, adding that the events \"are not inter-related.\" He acknowledged that \"people are fearful\" that the disruptions could be part of a coordinated plot.\n\nRubio's remarks came hours after Director of National Intelligence Jay Clayton told Fox News the outages were not the product of a cyber-attack, and that \"lots of institutions\" are patching or upgrading systems, which has caused some disruption. Rubio said the best way to counter public fears, including the possibility of stockpiling or a run on banks, is for the government to share everything it knows. Homeland Security Secretary Markwayne Mullin separately dismissed the idea of a coordinated attack and suggested artificial intelligence-driven code changes could be a factor, a claim that was described as far from conclusive.\n\nThe disruptions began last Thursday with a large Microsoft outage affecting email and other services. On Friday the FAA ordered a national ground stop lasting more than four hours, the longest halt to US flights since the September 11, 2001 attacks. On Monday a United Airlines technology failure delayed about 150 flights and a JPMorgan Chase software problem disrupted service at major banks.\n\nOn Tuesday, Apple's iCloud and Apple Pay suffered an outage the company attributed to an internal update, and a classified NSA internal network went offline for a time. Every affected company or agency has said the problem was not cyber-related or the work of an outside actor, and cybersecurity experts say there is no evidence connecting the incidents, though many cite aging infrastructure and rushed updates as common themes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:28 AM MT",
+      "addedAtISO": "2026-11-18T04:28:22.411837-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Trump Says US Expanding Defense Cooperation With Philippines, Cites Trade Deal",
+      "summary": "President Donald Trump told Philippine President Ferdinand Marcos Jr. on Wednesday that Washington is expanding defense cooperation with its treaty ally. He said the two countries could also work together on a major civilian nuclear energy project.\n\nTrump also said he has signed a \"very big trade deal\" with the Philippines but offered no details of the agreement. He described it as having come together quickly and called it \"a magnificent deal for both\" countries, adding that officials were pleased with it and had not expected it to happen so fast.\n\nThe Philippines is a longtime US treaty ally and a key partner in the Indo-Pacific. The announcement comes as Trump is engaged in diplomacy across the region, and further specifics on the defense and nuclear proposals have yet to be released.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/trump-says-us-is-expanding-defence-cooperation-with-philippines-2026-11-18/?link_source=ta_bluesky_link&taid=6afd2076ee6e9300012d1dc0",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:28 AM MT",
+      "addedAtISO": "2026-11-18T04:28:22.411837-07:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "Update: Asia Stocks Cling to Gains After Nvidia Earnings Beat, Anthropic Pricing Looms",
+      "summary": "Stocks in Asia edged higher Wednesday after Nvidia reported better-than-expected results and a stronger sales forecast, even as uncertainty persists over the company's leadership. Oil prices fell after data showed rising US inventories.\n\nNvidia reported third-quarter revenue of $115.8 billion and net income of $65.3 billion, both more than double the year-earlier figures. It was the company's first earnings report since Jensen Huang was ousted as CEO in a scandal that has reportedly led to an SEC investigation.\n\nHuang said earlier Tuesday that he would return to lead the chipmaker if the board invited him. Investors remain anxious for guidance on Nvidia's strategic roadmap, given its central role in the AI economy. Markets are also awaiting the pricing of an Anthropic offering.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-11-18/?link_source=ta_bluesky_link&taid=6afd0908ee6e9300012d1cc7",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:28 AM MT",
+      "addedAtISO": "2026-11-18T04:28:22.411837-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Philippine Police Ask Prosecutors to Charge Thomas Markle Over Child Sex Abuse Material",
+      "summary": "Police in the Philippines have asked prosecutors to charge Thomas Markle Sr., father of Meghan, Duchess of Sussex, with possession and intent to distribute child sexual abuse material. Cebu province prosecutor Graeme Elmido told the BBC that police filed the request Monday, seeking two counts of intent to distribute and one count of possession.\n\nEarlier this month Markle, 82, was separately arrested and charged in the United States with possession of such material. The FBI said agents seized about 78 items, including film negatives, slides and books, from storage units he rented. He was returned to custody last week after prosecutors alleged he removed an ankle monitor while held at his Florida assisted living facility.\n\nPhilippine police obtained a warrant last month to examine devices allegedly removed from his former home there, which Thomas Markle Jr. handed over. Markle has denied the allegations. Meghan has been estranged from her father since 2018 and said she was deeply distressed and that her thoughts were with any children who may have been harmed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier3",
+      "addedAt": "4:28 AM MT",
+      "addedAtISO": "2026-11-18T04:28:22.411837-07:00",
+      "slot": 5
+    }
+  ]
+}
