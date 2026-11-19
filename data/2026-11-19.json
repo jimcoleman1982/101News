@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-19",
+  "dateFormatted": "Thursday, November 19, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Update: Trump, Xi and Putin Hold Unprecedented Three-Way Summit in Shenzhen",
+      "summary": "President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin met together on Thursday in Shenzhen, China, on the sidelines of the Asia-Pacific Economic Cooperation summit. It was the first time the leaders of the three nuclear powers have sat down as a trio. Trump also held a one-on-one meeting with Putin, their first in-person encounter in more than a year, and discussed Ukraine.\n\nRussia said the three leaders agreed to boost oil and gas production and reaffirmed that there can be no winners in a nuclear war. Trump said \"we are really making history\" and called for nuclear arms reduction. Putin noted that all three countries were victorious nations of World War II. Xi called his separate meeting with Trump \"positive and constructive,\" signaling that a trade truce remains on track despite renewed tensions over US chip curbs.\n\nThe agenda also included Iran, trade, AI chips and the war in Ukraine. The last major US-Russia arms control treaty, New START, expired in February, and Trump wants China included in any new framework, which Beijing has resisted, arguing its arsenal is much smaller. Ukraine struck a key bridge to Crimea ahead of the summit, and Trump envoys Steve Witkoff and Jared Kushner were to meet Ukrainian and European officials in Berlin on security guarantees.\n\nReaction in Washington was divided. Some Republican lawmakers warned that Xi and Putin are \"not our friends,\" while others defended a president willing to hold hard conversations with rival powers. Critics have questioned whether the meeting helps rehabilitate Putin on the world stage, while supporters see a chance for progress on arms control and ending the Ukraine war.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/elections/2026/midterm-results/house",
+      "sourceCount": 28,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:26 AM MT",
+      "addedAtISO": "2026-11-19T04:26:22.313201-07:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "Update: Anthropic Raises Record $81 Billion in Stock Market Debut",
+      "summary": "Anthropic, the maker of the Claude chatbot, raised a record $81 billion in its initial public offering, with shares set to begin trading Thursday in New York. The stock priced at $83, above the proposed range of $70 to $78, after demand reportedly exceeded supply by more than ten times. BBC reports the pricing values the company at about $1.5 trillion.\n\nThe company will raise an additional $26 billion from share sales to technology firms including Nvidia. Underwriters could exercise a greenshoe option for another $12 billion, bringing the total to as much as $107 billion. Anthropic is the first purely AI-focused firm to sell shares publicly, and its seven founders become multibillionaires immediately.\n\nThe company's revenue reached $33 billion in the nine months to September, but net losses were $104 billion over the same period, according to its IPO filing. Analysts say the listing is a crucial test of investor appetite for AI, with questions persisting over when massive infrastructure spending will pay off. Canaccord Wealth's Leah Bramwell said demand was broad across institutional and retail investors rather than a retail-driven frenzy.\n\nSpaceX raised $75 billion in its June listing and later saw its share price fall after an initial surge. OpenAI, Anthropic's chief rival, is expected to go public next year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 8,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:26 AM MT",
+      "addedAtISO": "2026-11-19T04:26:22.313201-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Houthi Strikes Damage Saudi Public Investment Fund Headquarters in Riyadh",
+      "summary": "The Riyadh skyscraper housing the headquarters of Saudi Arabia's Public Investment Fund was damaged, according to an eyewitness, after debris fell following the latest Houthi strikes launched toward Saudi Arabia. Material damage was reported at the King Abdullah Financial District, which includes the city's tallest building.\n\nIt was the second attack on the district this month, following a strike by the Iran-backed Houthis of Yemen on Nov. 8. The Public Investment Fund is the kingdom's sovereign wealth vehicle and a central player in its economic strategy.\n\nThe strikes come as the regional confrontation involving the United States, Israel and Iran continues. Iran recently attacked Bahrain and Kuwait following US strikes on Qeshm island, and the US and Iran remain locked in a standoff over the Strait of Hormuz. The attack widens the conflict's reach to Gulf financial infrastructure, though casualty figures and Saudi government responses were not immediately available.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/saudi-public-investment-fund-s-riyadh-headquarters-damaged",
+      "sourceCount": 3,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:26 AM MT",
+      "addedAtISO": "2026-11-19T04:26:22.313201-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Danish Parliament Approves Greenland Security Deal With US",
+      "summary": "Denmark's parliament approved a trilateral agreement among the United States, Denmark and Greenland to strengthen security in the Arctic and North Atlantic. The vote in the Folketing was 109-0, the final step before the deal enters into force. Greenland's parliament approved it earlier this month, also with no opposition.\n\nThe agreement paves the way for more US bases in Greenland while keeping the self-governing island under Danish control. It would still apply if Greenland eventually chooses independence.\n\nThe deal follows months of pressure from President Trump, who repeatedly called for the vast island to become part of the United States, straining relations with Denmark, a NATO ally. Supporters present the pact as a way to bolster Arctic defense and ease those tensions, while Danish and Greenlandic leaders have stressed that sovereignty remains with Copenhagen and Nuuk.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/19/world-news/danish-lawmakers-approve-a-security-deal-with-greenland-and-the-us/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:26 AM MT",
+      "addedAtISO": "2026-11-19T04:26:22.313201-07:00",
+      "slot": 5
+    }
+  ]
+}
