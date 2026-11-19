@@ -3,6 +3,48 @@
   "dateFormatted": "Thursday, November 19, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Judge Allows Trump's $15 Billion Defamation Suit Against New York Times to Proceed",
+      "summary": "A federal judge ruled Thursday that President Donald Trump's defamation lawsuit against The New York Times and Penguin Random House can move forward. The judge found Trump plausibly alleged that two Times reporters, Russ Buettner and Susanne Craig, lacked adequate support for statements in their 2024 book suggesting he had committed complex tax crimes.\n\nThe suit seeks $15 billion in damages and cites the book as well as articles Trump's lawyers call \"false, malicious, defamatory.\" Trump has described the case as part of his push to portray the newspaper's reporting about him as misinformation. The ruling addresses only whether the claims are sufficient to proceed, not their merits.\n\nThe Times and its publisher have defended the reporting as accurate and protected by the First Amendment, and press freedom advocates have argued that suits of this kind can chill journalism. Supporters of the president say public figures should be able to challenge reporting they believe is unsupported. The case now moves into the next stage of litigation, where the standard for proving actual malice by a public figure remains demanding.",
+      "source": "Fox News Latest",
+      "url": "https://apnews.com/article/trump-xi-putin-nuclear-ukraine-iran-a04dc76ed8e786b087e2c1ea9598783a",
+      "sourceCount": 19,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:32 PM MT",
+      "addedAtISO": "2026-11-19T16:32:12.455068-07:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Posthumously Pardons Baseball Legend Pete Rose",
+      "summary": "President Donald Trump announced Thursday on Truth Social that he has given a \"Complete and Total Pardon\" to the late Pete Rose, calling him a baseball \"SUPERSTAR & LEGEND.\" Rose died in 2024 at age 83. He pleaded guilty in 1990 to two counts of filing false tax returns after failing to report $354,968 in income, and served five months in prison.\n\nRose was also banned from Major League Baseball for life in 1989 after investigators found he bet on his own team, the Cincinnati Reds, while playing and managing. Commissioner Rob Manfred posthumously reinstated him in May 2025, a decision that also covered 16 others and makes him eligible for Hall of Fame induction as early as 2028. Rose holds the career record of 4,256 hits.\n\nTrump said Rose \"was treated terribly\" by MLB in being kept out of the Hall of Fame, adding, \"Politics, I guess.\" He had floated a pardon in March 2025. The pardon addresses only the federal tax conviction and does not change Hall of Fame voting. The BBC said it had contacted the Hall of Fame for comment.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:32 PM MT",
+      "addedAtISO": "2026-11-19T16:32:12.455068-07:00",
+      "slot": 18
+    },
+    {
+      "category": "business",
+      "headline": "Update: California Subpoenas Nvidia Over Whether China Improperly Obtained Chips or Information",
+      "summary": "California Attorney General Rob Bonta has served an investigative subpoena on Nvidia, probing whether the company or former CEO Jensen Huang's actions led to China obtaining advanced chips or confidential information. Bonta said such conduct could violate state law if the company misled investors and the public. \"Companies cannot mislead their investors,\" he said Thursday.\n\nThe probe follows a scandal over Huang's extramarital relationship with Alice Huang, a suspected Chinese spy and executive at Singapore-based data center firm Megaspeed, a major Nvidia customer. Some members of Congress have urged the Commerce Department to examine whether Megaspeed diverted Nvidia chips to China. Megaspeed has said claims about its business are not supported by verifiable evidence.\n\nNvidia shares have fallen 22% since The New York Times first reported the affair in early November. Huang left the company last week after reports of relationships with subordinates. Board chair Harvey Jones said Nvidia will not reinstate him, despite Huang saying he would be honored to return and lobbying by tech figures including Elon Musk. Nvidia has not yet commented on the subpoena.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:32 PM MT",
+      "addedAtISO": "2026-11-19T16:32:12.455068-07:00",
+      "slot": 18
+    },
+    {
       "category": "world",
       "headline": "Update: UN Court Finds Myanmar Committed Genocide Against Rohingya",
       "summary": "The International Court of Justice ruled on Thursday that Myanmar committed genocide against the Rohingya minority during a 2017 military operation in northern Rakhine state. In a 9-6 decision, Court President Yuji Iwasawa said Myanmar \"has committed genocide against the Rohingya group,\" in violation of its obligations under the Genocide Convention.\n\nThe court also ordered Myanmar to allow Rohingya who fled the violence to return home. The 15-judge panel included Navi Pillay, the jurist who won the Nobel Peace Prize last month. The panel rejected Myanmar's argument that its 2017 military campaign was a lawful response to militant attacks.\n\nThe case was brought by The Gambia on behalf of Muslim-majority countries. The ruling is the court's most significant genocide finding in years and could shape future accountability efforts, though the ICJ has no direct enforcement mechanism and compliance by Myanmar's military authorities is uncertain. Hundreds of thousands of Rohingya remain in refugee camps in Bangladesh.",
