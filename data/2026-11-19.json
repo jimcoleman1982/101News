@@ -4,6 +4,34 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Senate Rejects Iran War Powers Resolution 48-51 as Shutdown Fight Looms",
+      "summary": "The Senate on Thursday rejected a war powers resolution aimed at forcing President Trump to halt fighting with Iran, voting 48-51. The House approved the measure in September, and it was the first such vote in either chamber since the Nov. 3 midterm elections, in which Democrats won sweeping victories. Republicans again defended the conflict, which began with Trump's announcement of major combat operations on Feb. 28 and is now in its ninth month.\n\nThe vote sets up a fight over government funding. The current continuing resolution expires Dec. 11, and Sen. Chris Van Hollen has floated using a shutdown threat to force an end to the war. Reps. Yassamin Ansari and Ro Khanna said voters were \"loud and clear\" in wanting an immediate end to what they called a reckless war, and several Senate Democrats have said they will not back a funding deal that continues Iran war funding.\n\nAxios reported that House Democrats are largely steering clear of shutdown threats, though the party's left flank wants the fight. Republicans told Fox News Digital they worry Democrats, emboldened by their margin, will make partisan demands, and many expect another short-term extension as the most likely outcome. Democrats say Republicans are to blame for unfinished appropriations bills. Rep. Gregory Meeks said the incoming Democratic Congress will reclaim war powers through legislation and oversight hearings.",
+      "source": "Axios",
+      "url": "https://apnews.com/article/trump-xi-putin-nuclear-ukraine-iran-a04dc76ed8e786b087e2c1ea9598783a",
+      "sourceCount": 22,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:07 PM MT",
+      "addedAtISO": "2026-11-19T21:07:57.318340-07:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Update: White House Ousts National Cyber Director Cairncross After Wave of Tech Outages",
+      "summary": "National Cyber Director Sean Cairncross has been removed from his post, the White House confirmed Thursday, days after outages hit U.S. air travel, banking and national security systems. Pentagon Chief Information Officer Kirsten A. Davies will take over in an acting capacity. Cairncross had overseen cybersecurity policy and strategy across the federal government and played a key role in crafting the administration's AI policy.\n\nA source close to the White House told Fox News that Trump backed the firing over concerns about Cairncross's cybersecurity credentials, while a separate official said Cairncross did not want to serve another two years. Secretary of State Marco Rubio and Defense Secretary Pete Hegseth publicly congratulated Davies. The disruptions included a Microsoft outage, an FAA flight grounding, strained banking services and a failure of the NSA's internal network, which officials attributed to maintenance rather than a cyberattack.\n\nThe administration has sought to calm public concern, with Rubio saying the country is not under systemic attack. Critics argue officials have offered few answers about the cause of the failures. Separately, Michael LoSapio, Trump's nominee to lead the Cybersecurity and Infrastructure Security Agency, declined at his Senate hearing to say who won the 2020 election or to call the Jan. 6 riot an attack when pressed by Sen. Richard Blumenthal.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/tech-outages-internet-trump-november-19",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:07 PM MT",
+      "addedAtISO": "2026-11-19T21:07:57.318340-07:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
       "headline": "Judge Allows Trump's $15 Billion Defamation Suit Against New York Times to Proceed",
       "summary": "A federal judge ruled Thursday that President Donald Trump's defamation lawsuit against The New York Times and Penguin Random House can move forward. The judge found Trump plausibly alleged that two Times reporters, Russ Buettner and Susanne Craig, lacked adequate support for statements in their 2024 book suggesting he had committed complex tax crimes.\n\nThe suit seeks $15 billion in damages and cites the book as well as articles Trump's lawyers call \"false, malicious, defamatory.\" Trump has described the case as part of his push to portray the newspaper's reporting about him as misinformation. The ruling addresses only whether the claims are sufficient to proceed, not their merits.\n\nThe Times and its publisher have defended the reporting as accurate and protected by the First Amendment, and press freedom advocates have argued that suits of this kind can chill journalism. Supporters of the president say public figures should be able to challenge reporting they believe is unsupported. The case now moves into the next stage of litigation, where the standard for proving actual malice by a public figure remains demanding.",
       "source": "Fox News Latest",
