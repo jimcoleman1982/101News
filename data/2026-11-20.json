@@ -3,6 +3,48 @@
   "dateFormatted": "Friday, November 20, 2026",
   "stories": [
     {
+      "category": "business",
+      "headline": "Wall Street Slides Into Correction as AI Sell-Off Deepens; Anthropic Shares Fall Back Toward IPO Price",
+      "summary": "US stocks fell sharply Friday, pulling the S&P 500 about 10% below its record high set last month as a sell-off in artificial intelligence stocks accelerated. Both the S&P 500 and the Dow touched correction territory during the session, and the Nasdaq Composite dropped more than 3.4% by midday. One report said the Dow fell about 1,100 points at one stage.\n\nAnthropic, which raised a record $81 billion in its IPO and closed its first day up 17% at $97.17, fell more than 12% to about $85, near its $83 offer price. Nvidia and SpaceX each lost more than 6%, Tesla fell over 3% and Meta fell 3.4%. Analysts said the listing had been seen as a potential boost for an industry struggling to regain its footing, but had not restored confidence. Ed Moya of AlphaSense said Wall Street is shifting from rewarding growth at any price to demanding stronger cash flow and a clearer path to profitability.\n\nThe damage spread globally. South Korea's Kospi and Japan's Nikkei closed down about 5%, and Taiwan's market fell about 6%, taking its weekly decline above 17%, reportedly its worst week since 1990. Germany's Dax fell 2% and Britain's FTSE 100 fell 0.5%. Investors will watch whether the sell-off extends into next week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:07 AM MT",
+      "addedAtISO": "2026-11-20T11:07:57.800650-07:00",
+      "slot": 11
+    },
+    {
+      "category": "politics",
+      "headline": "Trump Says He Will Block US Firms From Building Data Centers Overseas After Asia Trip",
+      "summary": "President Donald Trump held a White House news conference Friday after returning from Asia, where he met Chinese President Xi Jinping and Russian President Vladimir Putin in the first-ever three-way summit of the leaders. He said he and Xi discussed \"joint guardrails\" on artificial intelligence, and announced that, unlike chips, American companies will be prohibited from building data centers outside the United States. He also said tech firms would face \"a tremendous tax\" if they build AI data centers in other countries.\n\nTrump called the summit \"highly consequential,\" though it produced no major breakthroughs. A joint statement included pledges to release more oil and hold formal talks on nuclear weapons, and a symbolic peace declaration. Supporters pointed to trade agreements with Thailand and the Philippines and to the diplomatic access. Critics, including some commentators and Democrats, said Xi and Putin gained the most prestige, that Ukraine saw no progress and that allies may be concerned by Trump calling the two leaders friends. Xi also warned against creating \"turbulence\" over Taiwan.\n\nOn Iran, Trump told Axios he would not decide his next step in the war until after the new year, even as Israeli Prime Minister Benjamin Netanyahu urges a decisive bombing campaign. The remarks come as Democrats, newly empowered after their midterm wins, weigh how hard to fight over war funding in a December shutdown showdown.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/live/trump-politics-news-updates-11-20-2026",
+      "sourceCount": 29,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "11:07 AM MT",
+      "addedAtISO": "2026-11-20T11:07:57.800650-07:00",
+      "slot": 11
+    },
+    {
+      "category": "science_health",
+      "headline": "Pancreatic Cancer Pill Shrinks Tumors in Early Trial, Experts Call It Biggest Advance in Decades",
+      "summary": "A daily pill, daraxonrasib, combined with chemotherapy appeared to shrink and in some cases eliminate tumors in patients with advanced pancreatic cancer, according to early trial results presented at a European cancer conference. Cancer Research UK called it \"the biggest leap forward in decades\" for a disease with the lowest survival rate of all common cancers in the UK.\n\nAmong 61 patients recently diagnosed with advanced disease that had spread, tumors stopped growing in about 90%. Just over 60% saw tumors shrink or disappear, and about 8%, or one in 12, had cancer become undetectable on CT scans. Patients were followed for about a year and a half on average.\n\nDoctors cautioned that the results are not a cure and that it is unclear how long the effect will last. Dr. Wungki Park of Memorial Sloan Kettering said researchers are seeing higher response rates, deeper responses and a near doubling in the duration of disease control. The drug, already approved in the US, shuts off RAS mutations that drive most pancreatic cancers, and similar mutations occur in lung, ovarian and other cancers. Longer trials will be needed to determine whether it extends survival.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:07 AM MT",
+      "addedAtISO": "2026-11-20T11:07:57.800650-07:00",
+      "slot": 11
+    },
+    {
       "category": "world",
       "headline": "Update: UK and EU Reach Set of Deals to Deepen Post-Brexit Relationship",
       "summary": "The United Kingdom and the European Union have reached a set of agreements aimed at deepening their post-Brexit relationship, Bloomberg reported on Friday. The deals come as China, the United States and Russia are reshaping the global order, a backdrop that has pushed London and Brussels toward closer cooperation.\n\nThe agreements follow earlier reporting that the two sides were preparing to agree a youth mobility scheme for up to 100,000 people a year. Today's development is that a broader package of deals has now been concluded, extending beyond the mobility arrangement already covered.\n\nThe agreements represent a further step in the gradual reset of ties since the UK left the bloc. Supporters on both sides argue that closer coordination is needed amid geopolitical uncertainty, while critics in the UK have long warned that deeper alignment with Brussels risks undercutting the purpose of Brexit. Detailed terms of the package were not fully available in the initial report.\n\nFurther details on the scope of the deals, and any steps needed for ratification by the UK Parliament and EU member states, are expected to emerge in the coming days.",
