@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-21",
+  "dateFormatted": "Saturday, November 21, 2026",
+  "stories": [
+    {
+      "category": "technology",
+      "headline": "Update: FBI Investigating Apparent Breach of Its National Crime Information Database",
+      "summary": "The FBI is investigating an apparent breach of the National Crime Information Center, the nationwide database federal, state and local law enforcement use to share information on warrants and background checks. Two people briefed on the matter told NBC News and other outlets about the breach. CNN reported it first on Friday evening. The FBI had no comment as of Friday night.\n\nNBC also reported an apparent cyberattack on the U.S. Department of Agriculture. Employees were told Thursday that the system used to pay farmers had been targeted. USDA officials said no other systems had been hit as of Friday, but they warned that the hackers could find a way into more sensitive information. The department has not commented publicly.\n\nThe reports follow a week of tech outages that disrupted banking, air traffic control and other sectors. Officials have said the outages were not caused by cyberattacks, but they have drawn scrutiny from lawmakers. White House National Cyber Director Sean Cairncross was fired this week, with President Trump saying he was not good enough.\n\nThe FBI has been targeted before. In September, the bureau said it was investigating an apparent breach by the cybercrime group ShinyHunters, which claimed to have stolen sensitive information on all of the bureau's roughly 38,000 employees. The scope of the NCIC intrusion and who is responsible remain unclear.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:52 AM MT",
+      "addedAtISO": "2026-11-21T03:52:41.662746-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Russia Launches Massive Strikes on Ukraine, Killing Civilians in Kyiv and Zelensky's Hometown",
+      "summary": "Russia fired more than 400 drones and over 110 missiles at Ukraine, including 27 ballistic missiles, some with cluster warheads, according to President Volodymyr Zelensky. Overnight strikes killed at least eight civilians and wounded more than two dozen. At least seven people were killed in Kyiv and 17 injured in the same assault.\n\nIn Kryvyi Rih, Zelensky's hometown, a ballistic missile attack killed at least two people, including a seven-year-old boy and a 20-year-old paramedic. Rescue workers were hit when they arrived at the scene, a tactic known as a double-tap strike. Forty-two people were injured, including four children, and 27 were hospitalized in serious condition, said Oleksandr Vilkul, head of the Kryvyi Rih Defence Council.\n\nThe attack fit a pattern of heavy Russian retaliation for high-profile Ukrainian strikes, such as those this week on the Kerch Bridge. It also added to uncertainty about U.S.-brokered peace talks. President Trump said the talks were \"stuck in the mud like Putin's tanks,\" adding, \"You got two guys who don't know how to end it, we're trying to help them.\" Russia and Ukraine remain far apart on possible terms.\n\nSeparately, European leaders condemned the Russian missile that landed in Poland. The UK's defense intelligence chief said he was confident Russia does not actively seek war with NATO.",
+      "source": "independent.co.uk",
+      "url": "https://independent.co.uk/news/world/europe/ukraine-russia-war-live-crimea-bridge-attack-putin-zelensky-b3088384.html",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:52 AM MT",
+      "addedAtISO": "2026-11-21T03:52:41.662746-07:00",
+      "slot": 5
+    },
+    {
+      "category": "business",
+      "headline": "Update: Wall Street Tumbles as AI Worries Push S&P 500 Into Correction",
+      "summary": "U.S. stocks fell sharply to end the week as concerns about the artificial intelligence sector rattled investors. All three major averages closed deeply in the red. The Dow Jones Industrial Average fell more than 900 points, and the Nasdaq dropped more than 5 percent, erasing all of its gains for the year.\n\nThe S&P 500 is now down more than 10 percent from its recent high, which puts it in what investors call correction territory. Investors are weighing the health of the AI sector after the leadership upheaval at Nvidia and the record initial public offering of Anthropic, which priced at $83 a share and valued the company above $1 trillion.\n\nThe selloff deepens a decline that began earlier in the week, when Anthropic shares fell back toward their IPO price. The AI industry has driven much of the market's gains in recent years, so doubts about its prospects carry wide implications for retirement accounts and the broader economy. Analysts will watch whether the slide continues when trading resumes Monday.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-stocks-tumble-as-worries-about-ai-rattle-market",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:52 AM MT",
+      "addedAtISO": "2026-11-21T03:52:41.662746-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "COP31 Climate Talks Deadlocked Over Fossil Fuel Language",
+      "summary": "Negotiations at the COP31 UN climate summit in Turkey ran through the night and remain deadlocked, with countries unable to agree on a new global climate deal. A group led by France and Panama pushed back against a draft that made no reference to reducing demand for fossil fuels. A new and potentially final text is expected Saturday.\n\nIsland states, Panama and EU nations including Spain, France, Belgium, Sweden and Finland want a commitment to move away from oil, gas and coal restored after fossil fuel producers led by Saudi Arabia pushed for its removal. Panama's environment minister, Juan Carlos Navarro, said a decision that does not mention fossil fuels is \"not acceptable.\" France's Monique Barbut criticized references to carbon capture as a license to keep burning oil and gas. Separately, the Africa Group is fighting for more adaptation funding, saying it did not come to the talks \"to beg.\"\n\nAustralia's Chris Bowen, who is leading the negotiations, argued the summit should focus on implementation and the shift to clean energy. For the first time at a COP, the draft Antalya Accords acknowledge that the goal of limiting warming to 1.5C has been missed and that the world is entering a period of overshoot. Scientists warn that beyond that point millions more people will face sea level rise and extreme heat.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:52 AM MT",
+      "addedAtISO": "2026-11-21T03:52:41.662746-07:00",
+      "slot": 5
+    }
+  ]
+}
