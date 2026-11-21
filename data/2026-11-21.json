@@ -3,6 +3,34 @@
   "dateFormatted": "Saturday, November 21, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Trump Signs Order Limiting Congress's Access to Contractor and Agency Information Ahead of Democratic Takeover",
+      "summary": "President Donald Trump signed an executive order late Friday titled \"Protecting the Executive's Privileges and Enhancing Efficiencies in Federal Contracting.\" It directs federal contractors and subcontractors to notify the White House of any congressional requests for their communications. It also directs them to withhold material the administration considers privileged. The order is widely seen as a response to expected aggressive oversight from Democrats, who won majorities in both chambers in the midterm elections and take control in January.\n\nUnder the order, companies must coordinate with the White House and federal agencies on \"appropriate responses\" to congressional inquiries. The White House warned that contractors who fail to comply could have their contracts terminated and their future federal work suspended. The order asserts that Congress's ability to seek confidential information about the executive branch is limited.\n\nSupporters, including right-leaning outlets, framed the order as a move to fortify the presidency against what they described as the weaponization of oversight by a Democratic-controlled Congress. Critics, including Democrats and left-leaning outlets, described it as an effort to stymie legitimate investigations into the administration and its associates. Incoming Democratic leaders have signaled wide-ranging probes.\n\nThe order was signed as Congress left Washington for a recess after a week of confirmations and bills. Legal challenges and fights over contractor compliance are likely once the new Congress is seated.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6235181-trump-executive-privilege-congress-investigations-order/",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "1:25 PM MT",
+      "addedAtISO": "2026-11-21T13:25:39.125891-07:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Russia-Bound Cargo Ship Hit by Drone Attack in Gulf of Finland",
+      "summary": "A Russian cargo vessel bound for the Baltic exclave of Kaliningrad was hit by a drone attack in the eastern Gulf of Finland on Saturday morning, Russian and Finnish authorities said. The ship, the Sparta II, caught fire and drifted into Finnish waters. Finnish defence forces said Ukraine was likely behind the attack, and Kyiv has not commented.\n\nFinland's coast guard said it was alerted at about 08:50 local time, and the vessel was located roughly 50 km west of Suursaari island. Kaliningrad's governor said two drones were used and that there was no threat to the territory's supplies. The crew was evacuated to another Russian vessel, and Finnish officials reported no environmental damage or danger to maritime traffic. Finland also said a Russian helicopter was suspected of violating its airspace, possibly during rescue or tracking operations.\n\nFinnish Prime Minister Petteri Orpo said \"war is spilling over into our immediate vicinity,\" adding that \"Ukraine has the right to fight back against the aggressor.\" The Sparta II was sanctioned by the US in 2022 and by Ukraine this year, and its operator was established within Russia's defence ministry structure. Finland's Border Guard is leading the investigation, and NATO has been informed.\n\nThe Baltic Sea has become a flashpoint in the war, with Ukraine expanding long-range strikes beyond the front lines. Earlier this month a Ukrainian drone strike hit a Russian warship in the Gulf of Finland.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:25 PM MT",
+      "addedAtISO": "2026-11-21T13:25:39.125891-07:00",
+      "slot": 14
+    },
+    {
       "category": "science_health",
       "headline": "Update: Virginia Reports First Measles Death of 2026 as U.S. Outbreak Nears 6,000 Cases",
       "summary": "Virginia's health department said Friday that a child aged four or younger died after testing positive for measles. It is the state's first measles-related death this year. Officials declined to share further details, including the child's vaccination status, citing the family's privacy.\n\nThe death comes amid the largest U.S. measles outbreak in decades. Data tracked from the Centers for Disease Control and Prevention indicate more than 5,800 confirmed cases nationwide in 2026, the highest total since 1991, with cases reported in 47 of the 52 jurisdictions in the agency's registry. States have reported 10 deaths this year. The outbreak recently cost the United States its measles elimination status, which it had held for 26 years.\n\nThe CDC updates its case counts weekly, and public health officials have continued to stress that measles spreads easily among unvaccinated people and can be especially dangerous to young children. The Virginia death adds to the pressure on state and federal health agencies as the case count approaches 6,000.",
