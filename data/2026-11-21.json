@@ -3,6 +3,48 @@
   "dateFormatted": "Saturday, November 21, 2026",
   "stories": [
     {
+      "category": "science_health",
+      "headline": "Anthropic Mathematician Claims Claude Helped Prove Riemann Hypothesis",
+      "summary": "Levent Alpoge, a mathematician employed by Anthropic, said Friday that he used a non-public version of the company's Claude AI model to produce a proof of the Riemann hypothesis, one of the most famous unsolved problems in mathematics. He said the work took about six weeks. The claim came a day after Anthropic's U.S. stock market debut.\n\nThe hypothesis, nearly 170 years old, concerns the distribution of prime numbers, which underpin much of higher mathematics and cryptography. If correct, the proof would rank among the most significant in history. The complete proof, written in the Lean computer language used to verify proofs, runs over 250,000 pages.\n\nAlpoge acknowledged that the timing is awkward, writing that it is \"horrible\" but that the cynical view tied to the listing is \"false.\" Prominent mathematician Terence Tao said verification is still some way off and that the digestion process will take time, though a human author is available to help. OpenAI claimed in September that its tools solved part of the Navier-Stokes problem, a result not yet confirmed and criticized by some academics, and groups of scholars have warned about AI firms boasting of major solutions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:07 AM MT",
+      "addedAtISO": "2026-11-21T08:07:51.126769-07:00",
+      "slot": 8
+    },
+    {
+      "category": "world",
+      "headline": "Mexican Army Captures FBI Ten Most Wanted Fugitive 'Chapo Isidro' in Sinaloa",
+      "summary": "Mexico's military captured Fausto Isidro Meza-Flores, known as \"El Chapo Isidro,\" in Guasave, in Sinaloa state, after a gun battle erupted during the operation. He was on the FBI's Ten Most Wanted list. Mexican authorities allege he leads a cartel responsible for drug distribution and importation.\n\nThe arrest is being described as a significant victory for the Mexican government, which has faced pressure from Washington over cartel violence and fentanyl trafficking. Details on injuries or casualties from the gunfire were not immediately available in the reporting.\n\nIt remains to be seen whether Meza-Flores will be extradited to the United States, where he faces charges that placed him on the FBI list. Trump designated illicit fentanyl a weapon of mass destruction nearly a year ago, and the capture adds to a continuing U.S.-Mexico effort against trafficking organizations.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:07 AM MT",
+      "addedAtISO": "2026-11-21T08:07:51.126769-07:00",
+      "slot": 8
+    },
+    {
+      "category": "business",
+      "headline": "Fed Officials Warn AI Boom Is Adding to Inflation Risks Ahead of Expected December Rate Hike",
+      "summary": "A growing number of Federal Reserve officials are warning that the artificial intelligence buildout is adding to inflation pressures. Vice Chair Philip Jefferson said Monday that the AI build-out is \"exerting upward pressure on demand and inflation,\" though future productivity gains could eventually ease prices. Chicago Fed President Austan Goolsbee said Thursday that nearly unprecedented business investment risks overheating, likening it to a \"pig through the python.\"\n\nMinutes from the Fed's October meeting showed many officials view the buildout as a material source of inflation risk. Producer prices for electrical components are up nearly 32% from a year ago, and electrical machinery is up 14.3%, with consumer electronics also rising. Consumer prices rose 0.4% in October, and economists estimate roughly 4% annual inflation.\n\nThe Fed is also contending with an energy shock from the Iran war and lingering effects of tariffs, with inflation above target for more than five years. Investors and economists widely expect a rate increase at the December meeting. Officials have also raised concerns about financial system risks if the AI buildout goes bust, a worry that echoes Friday's market correction.",
+      "source": "local21news.com",
+      "url": "https://local21news.com/news/nation-world/fed-officials-sound-alarm-over-ai-booms-growing-inflation-risks-interest-rates-federal-reserve-data-centers-computer-chips-economy",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:07 AM MT",
+      "addedAtISO": "2026-11-21T08:07:51.126769-07:00",
+      "slot": 8
+    },
+    {
       "category": "technology",
       "headline": "Update: FBI Investigating Apparent Breach of Its National Crime Information Database",
       "summary": "The FBI is investigating an apparent breach of the National Crime Information Center, the nationwide database federal, state and local law enforcement use to share information on warrants and background checks. Two people briefed on the matter told NBC News and other outlets about the breach. CNN reported it first on Friday evening. The FBI had no comment as of Friday night.\n\nNBC also reported an apparent cyberattack on the U.S. Department of Agriculture. Employees were told Thursday that the system used to pay farmers had been targeted. USDA officials said no other systems had been hit as of Friday, but they warned that the hackers could find a way into more sensitive information. The department has not commented publicly.\n\nThe reports follow a week of tech outages that disrupted banking, air traffic control and other sectors. Officials have said the outages were not caused by cyberattacks, but they have drawn scrutiny from lawmakers. White House National Cyber Director Sean Cairncross was fired this week, with President Trump saying he was not good enough.\n\nThe FBI has been targeted before. In September, the bureau said it was investigating an apparent breach by the cybercrime group ShinyHunters, which claimed to have stolen sensitive information on all of the bureau's roughly 38,000 employees. The scope of the NCIC intrusion and who is responsible remain unclear.",
