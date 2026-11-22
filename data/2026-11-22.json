@@ -3,6 +3,48 @@
   "dateFormatted": "Sunday, November 22, 2026",
   "stories": [
     {
+      "category": "politics",
+      "headline": "Update: Trump and Democrats Probe Areas of Cooperation as Van Hollen Presses Senate Leadership Bid",
+      "summary": "On Sunday's political talk shows, incoming Democratic leaders and the White House outlined possible areas of cooperation and conflict ahead of Democrats taking control of Congress in January. House Minority Leader Hakeem Jeffries, who was nominated for speaker, told CBS's Face the Nation about areas where Democrats could explore coming together with President Trump, who said Friday he is open to great healthcare. Bloomberg reporting pointed to credit card interest rates, healthcare and immigration as possible areas of overlap.\n\nIn the Senate, Sen. Chris Van Hollen of Maryland pressed his challenge to Minority Leader Chuck Schumer on Meet the Press, saying momentum is in his direction and that the party needs new leadership to deliver on the economic promises that helped it win the midterms. He has also described himself as the underdog. Trump said it would be very hard to work with Schumer as majority leader and predicted he would fail again.\n\nSen.-elect Abdul El-Sayed of Michigan and Sen.-elect Peggy Flanagan of Minnesota have courted Trump on universal healthcare, suggesting it could be called Trumpcare. Trump responded publicly on Saturday. Conservative commentators, including Washington Examiner's Byron York, argued Democrats may declare victory on affordability and turn to oversight, while some Democrats, such as Bill de Blasio, urged colleagues to focus on cost of living rather than partisan probes.\n\nTension remains over oversight and war policy. Trump has issued an order requiring federal contractors to notify the White House of congressional requests, which Republicans defend as protecting privileged communications and Democrats view as obstruction. House Democrats are also divided over whether to demand an end to Iran war funding now, risking a shutdown, or wait until they control Congress.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/elections/2026/midterm-results/house",
+      "sourceCount": 19,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:07 AM MT",
+      "addedAtISO": "2026-11-22T11:07:53.322755-07:00",
+      "slot": 11
+    },
+    {
+      "category": "technology",
+      "headline": "Delta Outage Delays Thousands of Flights Nationwide, Centered on Atlanta Hub",
+      "summary": "A failure in Delta Air Lines' weight-and-balance automation system caused widespread flight delays on Sunday, hitting Hartsfield-Jackson Atlanta International Airport, the world's busiest, and the airline's network nationwide. The Federal Aviation Administration said on X that Delta was working to resolve the problem and that the delays were not related to FAA air traffic control systems.\n\nThe system calculates the weight and balance of departing aircraft, a required step before takeoff. Delta said crews were using manual workarounds, and reports put the number of delayed flights at no fewer than 3,500. The FAA said all Delta flights through Atlanta were affected, and disruptions spread to other hubs, including major California airports.\n\nThe timing, days before Thanksgiving, raised the stakes for holiday travelers. The disruption follows a nationwide ground stop that canceled thousands of flights last weekend and a roughly 10-day wave of tech outages across American institutions.\n\nLawmakers have warned that power grids, water systems and banks are soft targets, and the White House has fired its national cyber director amid the outages. Officials have not tied the Delta problem to the earlier incidents, and the airline has not given a cause or a timeline for full recovery.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:07 AM MT",
+      "addedAtISO": "2026-11-22T11:07:53.322755-07:00",
+      "slot": 11
+    },
+    {
+      "category": "world",
+      "headline": "Update: Zelensky Defends Crimean Bridge Strikes as 'Fair Response' as UK Defence Secretary Visits Kyiv",
+      "summary": "Ukrainian President Volodymyr Zelensky told the BBC in Kyiv that Ukraine's repeated attacks on the bridge linking Russia to occupied Crimea were a fair response to 109 separate Russian attacks on bridges in Ukraine. This week's combined missile and drone strikes destroyed the central road section of the bridge, collapsing part of it and one of its two support arches into the sea and making it unusable for road traffic.\n\nZelensky rejected Vladimir Putin's claim that the bridge is exclusively civilian, pointing to images of Russian tanks and military hardware using the route as a supply line. He said the intense Russian attacks that followed were a signal that Putin does not want to stop and wants a pretext to escalate.\n\nRussian strikes continued overnight. A seven-year-old boy was killed on a playground in Kryvyi Rih, Zelensky's hometown, along with a 20-year-old female medic, and 58 people were injured. Local officials said the site was struck again with jet-powered drones as rescuers arrived.\n\nUK Defence Secretary Wes Streeting met Zelensky, saying he was there to show Europe was united. He called Russian missiles hitting Poland on Friday during Coalition of the Willing exercises an outrageous provocation and said the timing seemed more than a coincidence. He said the best response was to do more for Ukraine and called Putin a cold-blooded killer.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c6wy0qj7w5zqo",
+      "sourceCount": 1,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "11:07 AM MT",
+      "addedAtISO": "2026-11-22T11:07:53.322755-07:00",
+      "slot": 11
+    },
+    {
       "category": "world",
       "headline": "Update: 11 Killed in Violence in Sinaloa After Capture of Cartel Leader 'El Chapo Isidro'",
       "summary": "At least 11 people were killed in a burst of violence in Mexico's Sinaloa state following the capture of cartel boss Fausto Isidro Meza Flores, known as \"El Chapo Isidro,\" authorities said Saturday. The arrest of the man, who was among the FBI's 10 most-wanted fugitives, set off a fierce gun battle on Friday that turned an elite military operation into a night of chaos. Helicopters fired from above and explosions rocked the ground as armed militants mounted a counterattack against security forces.\n\nMeza Flores climbed the cartel ranks to lead part of the Beltran Leyva organization and later headed his own group, the Meza-Flores Transnational Criminal Organization. He is accused of drug trafficking and torture, and of smuggling narcotics into the United States for more than two decades. A U.S. official described him as the most dangerous man in Mexico.\n\nU.S. and Mexican authorities shared intelligence for weeks to track him. The operation was aimed at dismantling his influence and could reshape the power struggle within the Sinaloa Cartel's territory. The earlier capture was previously reported; the new development is the death toll from the ensuing violence, which authorities say continued after the arrest.",
