@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Update: Army Plans Iowa Lead Azide Detonation by Nov. 24 Despite Court Pause",
+      "summary": "The US Army said in a court filing Saturday that it intends to proceed with detonating about five tonnes of degraded lead azide at the Iowa Army Ammunition Plant in Middletown, despite a court order pausing the plan indefinitely. The Justice Department told the court that \"protection of human health and the environment demand action now, not delay.\" The Army now plans to act by Nov. 24 under an emergency exemption.\n\nThe Army argues that falling temperatures, expected to drop below 30 degrees Fahrenheit in the coming days, raise the risk of an unplanned explosion. It said it removed the doors of the bunker holding the barrels in preparation for the detonation, leaving the material more vulnerable to temperature changes. The Environmental Protection Agency granted an emergency permit covering 68 drums, citing an imminent and substantial threat.\n\nThe Iowa Environmental Council and the Sierra Club sued Thursday, arguing the Army failed to consider safer alternatives, and the court ordered the pause. The groups said many Iowans in the risk zone were unaware of the plan. \"There is no safe level of lead exposure,\" the council said. The groups filed a new motion Sunday. The Army has not released details of the rescheduled detonation, though it earlier advised residents to leave homes for about six hours.\n\nThe new development is the Army's filing signaling it will move ahead notwithstanding the court's pause.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 4,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:38 PM MT",
+      "addedAtISO": "2026-11-22T13:38:31.321027-07:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Director of National Intelligence Says Putin Is 'Not America's Friend in Ukraine'",
+      "summary": "Director of National Intelligence Jay Clayton defended President Trump's use of the word \"friend\" for Russian President Vladimir Putin while drawing a distinction between the leaders' personal relationship and that of the two countries. Clayton made the remarks in an interview Sunday on ABC's \"This Week\" with co-anchor Jonathan Karl.\n\nClayton said Putin is not America's friend in Ukraine, separating Mr. Trump's personal rapport with the Russian leader from the interests of the United States. The comments follow Mr. Trump's description of Putin as a friend, which drew a sharp response from Ukrainian President Volodymyr Zelensky, who called Putin a killer while Russian strikes on Ukraine continued.\n\nSupporters of the president generally say personal engagement with adversaries is a tool of diplomacy and can help secure negotiated outcomes. Critics, including many Democrats and some Republicans, argue that warm language toward Putin undercuts Ukraine and sends mixed signals while Russian attacks kill civilians. Clayton's remarks represent an administration effort to clarify the distinction.\n\nThe interview is among several Sunday show appearances in which administration officials addressed the president's security agenda.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6235931-clayton-defends-trump-putin-friendship/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:38 PM MT",
+      "addedAtISO": "2026-11-22T13:38:31.321027-07:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "US Power Advantage Over China Shrinks to Smallest Level Since 2018, Report Finds",
+      "summary": "The advantage the United States holds over China in influencing international events has shrunk to its smallest level since 2018, according to a new report cited by Bloomberg. The report attributes the decline to the war with Iran and to unilateralism, which it says are undermining American military and diplomatic strength.\n\nThe findings come as President Trump told an Israeli outlet that he may not decide on his next move in the Iran war until 2027. Tensions remain high, and an Iranian missile and drone attack recently started a fire at an industrial facility in Bahrain.\n\nOn China, the United States is divided between the concerns of the national security establishment and the prospect of expanded trade. Supporters of the administration argue that its assertive approach restores deterrence and leverage, while critics say unilateral actions have alienated allies and strained resources. The report's measures of influence are one assessment among many and are contested.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/us-power-advantage-over-china-shrinks-further-on-iran-war-effect",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "1:38 PM MT",
+      "addedAtISO": "2026-11-22T13:38:31.321027-07:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
       "headline": "Update: Trump and Democrats Probe Areas of Cooperation as Van Hollen Presses Senate Leadership Bid",
       "summary": "On Sunday's political talk shows, incoming Democratic leaders and the White House outlined possible areas of cooperation and conflict ahead of Democrats taking control of Congress in January. House Minority Leader Hakeem Jeffries, who was nominated for speaker, told CBS's Face the Nation about areas where Democrats could explore coming together with President Trump, who said Friday he is open to great healthcare. Bloomberg reporting pointed to credit card interest rates, healthcare and immigration as possible areas of overlap.\n\nIn the Senate, Sen. Chris Van Hollen of Maryland pressed his challenge to Minority Leader Chuck Schumer on Meet the Press, saying momentum is in his direction and that the party needs new leadership to deliver on the economic promises that helped it win the midterms. He has also described himself as the underdog. Trump said it would be very hard to work with Schumer as majority leader and predicted he would fail again.\n\nSen.-elect Abdul El-Sayed of Michigan and Sen.-elect Peggy Flanagan of Minnesota have courted Trump on universal healthcare, suggesting it could be called Trumpcare. Trump responded publicly on Saturday. Conservative commentators, including Washington Examiner's Byron York, argued Democrats may declare victory on affordability and turn to oversight, while some Democrats, such as Bill de Blasio, urged colleagues to focus on cost of living rather than partisan probes.\n\nTension remains over oversight and war policy. Trump has issued an order requiring federal contractors to notify the White House of congressional requests, which Republicans defend as protecting privileged communications and Democrats view as obstruction. House Democrats are also divided over whether to demand an end to Iran war funding now, risking a shutdown, or wait until they control Congress.",
       "source": "Fox News",
