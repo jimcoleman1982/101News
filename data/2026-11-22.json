@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "politics",
+      "headline": "Update: Democrats Win Largest House Majority Since 1992 After Flipping North Carolina Seat",
+      "summary": "Democrat Chuck Hubbard unseated Republican Rep. Virginia Foxx in North Carolina's 5th District, a race called Sunday after a recount. Hubbard led by 330 votes with 99 percent counted. Foxx, who has represented the district since 2005, had requested the recount, which state law allows when the margin is under 1 percent, and she conceded Sunday.\n\nThe result brings Democrats to at least 258 House seats against at least 173 for Republicans, with four races still uncalled. That ties the party's 258-seat total from 1992, the last time either party won as many House races. Democrats also secured the Senate in the midterms. Remaining contests include Tennessee's 4th District, where Democrat Victoria Broderick leads by fewer than 300 votes, and Minnesota's 1st, where Democrat Jake Johnson leads by fewer than 500. Two Louisiana races go to a December runoff.\n\nHubbard campaigned on the rising cost of living during the war with Iran, which was a top issue for voters. President Donald Trump and Vice President JD Vance have suggested that war-related inflation was probably to blame for Republican losses. Foxx said she ran on a record of commonsense solutions and conservative values and came up a few votes short.\n\nDemocrats could use their majorities to investigate conflicts of interest and other actions by the president and those close to him, and the Senate can confirm or block cabinet and judicial nominations. They can also pass legislation more easily, though Trump retains final sign-off, and Republicans have only a few weeks left to advance priorities before the new Congress takes over.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 17,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "4:31 PM MT",
+      "addedAtISO": "2026-11-22T16:31:02.019871-07:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
+      "headline": "Sen.-Elect El-Sayed Says He Would Pass Medicare for All as 'TrumpCare'",
+      "summary": "Sen.-elect Abdul El-Sayed, a Michigan Democrat, said Sunday on NBC's Meet the Press that he would pass a single-payer health bill, commonly called Medicare for All, under the name TrumpCare. He said he does not really care what it is called. Host Kristen Welker had raised President Donald Trump's potential role in the question.\n\nSen.-elect Peggy Flanagan, a Minnesota Democrat, joined him in courting Trump's backing. She said people are ready for Medicare for All and that calling it TrumpCare is fine if that gets it across the finish line.\n\nThe overture comes as Democrats prepare to control both chambers in January, and Trump has signaled openness to working with the incoming Democratic Congress in some areas. Supporters of single-payer see the branding offer as a pragmatic way to win presidential support. Conservative critics and many Republicans have long opposed such a system over its cost and the expanded federal role in health care, and Trump has not endorsed the idea.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/senate/6235945-abdul-el-sayed-trumpcare-medicare-all/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:31 PM MT",
+      "addedAtISO": "2026-11-22T16:31:02.019871-07:00",
+      "slot": 18
+    },
+    {
+      "category": "business",
+      "headline": "NRC Approves Construction of Four Advanced Reactors at Dow Plant in Texas",
+      "summary": "The Nuclear Regulatory Commission has issued a construction permit for four Xe-100 small modular reactors at Dow's Seadrift chemical site in Texas. It is the first construction permit for a high-temperature gas-cooled reactor in the United States in more than half a century.\n\nSupporters, including a National Review analysis, credit President Trump's cutting of nuclear regulatory red tape last year for the approval and call it a sign of a nuclear renaissance. The plant would supply industrial energy to the chemical facility.\n\nThe approval is a milestone for advanced reactor developers, though construction, costs and eventual operation remain ahead. Critics of rapid deregulation have raised safety and oversight concerns, while proponents say streamlined review is needed to meet rising electricity demand.",
+      "source": "National Review",
+      "url": "https://www.nationalreview.com/article/deregulation-is-bringing-us-our-first-nuclear-reactors-of-the-century",
+      "sourceCount": 4,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:31 PM MT",
+      "addedAtISO": "2026-11-22T16:31:02.019871-07:00",
+      "slot": 18
+    },
+    {
+      "category": "politics",
       "headline": "Update: Army Plans Iowa Lead Azide Detonation by Nov. 24 Despite Court Pause",
       "summary": "The US Army said in a court filing Saturday that it intends to proceed with detonating about five tonnes of degraded lead azide at the Iowa Army Ammunition Plant in Middletown, despite a court order pausing the plan indefinitely. The Justice Department told the court that \"protection of human health and the environment demand action now, not delay.\" The Army now plans to act by Nov. 24 under an emergency exemption.\n\nThe Army argues that falling temperatures, expected to drop below 30 degrees Fahrenheit in the coming days, raise the risk of an unplanned explosion. It said it removed the doors of the bunker holding the barrels in preparation for the detonation, leaving the material more vulnerable to temperature changes. The Environmental Protection Agency granted an emergency permit covering 68 drums, citing an imminent and substantial threat.\n\nThe Iowa Environmental Council and the Sierra Club sued Thursday, arguing the Army failed to consider safer alternatives, and the court ordered the pause. The groups said many Iowans in the risk zone were unaware of the plan. \"There is no safe level of lead exposure,\" the council said. The groups filed a new motion Sunday. The Army has not released details of the rescheduled detonation, though it earlier advised residents to leave homes for about six hours.\n\nThe new development is the Army's filing signaling it will move ahead notwithstanding the court's pause.",
       "source": "BBC News",
