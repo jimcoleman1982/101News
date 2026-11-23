@@ -3,6 +3,34 @@
   "dateFormatted": "Sunday, November 22, 2026",
   "stories": [
     {
+      "category": "world",
+      "headline": "Update: Russian Strikes Kill at Least 15 in Kyiv Region; Boy, 7, Pulled Alive From Rubble",
+      "summary": "Overnight Russian strikes on Dymer, in the Kyiv region, killed nine people when a residential building was hit at about 05:00 local time Sunday, while families were asleep. A seven-year-old boy was pulled alive from the rubble after about 14 hours and is in stable condition in hospital. A 79-year-old woman was also rescued alive. Regional head Tymur Tkachenko said others were still missing.\n\nA strike on a private home in Bila Tserkva killed one more person and set the building ablaze. President Volodymyr Zelensky said three people were killed and 13 wounded in a separate strike that hit a grocery store in Vyshneve. Russia also struck a power substation in the Dnipropetrovsk region, according to Prime Minister Sergiy Koretsky.\n\nInterior Minister Ivan Vyhivskyi said more than 70 strikes had been launched across 10 Ukrainian regions as of Sunday evening. Zelensky said more than 130 emergency workers were at the Dymer site, and that rescue efforts were complicated by constant new air raid alerts. Russia's defense ministry said its forces struck targets including a power station, port infrastructure and a cargo ship.\n\nThe attacks continue a heavy Russian bombardment of Ukraine and come as Zelensky has publicly criticized Trump's description of Putin as a friend, while Ukraine defends its own strikes on the Crimean Bridge as a fair response.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-11-22T21:08:08.761501-07:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Update: Clayton Says Americans Should Expect 'Bumps in the Road' as Infrastructure Is Upgraded Amid Outages",
+      "summary": "Director of National Intelligence Jay Clayton said Sunday that Americans should prepare for a great deal of investment in the country's aging infrastructure and systems, and warned of \"bumps in the road.\" Appearing on CNN's State of the Union, he said the public should expect \"glitches, gaps, and interruptions in service\" as technology systems upgrade in the era of artificial intelligence.\n\nHis remarks follow a series of outages affecting businesses and air travel. On Sunday, an issue with Delta Air Lines' weight and balance automation system delayed hundreds of flights, centered on its Atlanta hub, and the FAA issued an hourlong ground stop for some flights into Hartsfield-Jackson. The FAA said the delays were not related to air traffic control. Delta said it resolved the outage, though weather created further delays in the Thanksgiving travel rush.\n\nThe comments come after the White House ousted the national cyber director and President Trump said a week of tech outages was unrelated. Bloomberg reported that the White House is responding to aviation infrastructure problems as affordability and domestic concerns take on greater political importance.\n\nClayton's message frames the disruptions as the cost of modernization rather than a sign of coordinated failure, though critics are likely to press the administration on preparedness as Democrats prepare to take control of Congress in January.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6235770-clayton-warns-infrastructure-upgrades/",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "9:08 PM MT",
+      "addedAtISO": "2026-11-22T21:08:08.761501-07:00",
+      "slot": 21
+    },
+    {
       "category": "politics",
       "headline": "Update: Democrats Win Largest House Majority Since 1992 After Flipping North Carolina Seat",
       "summary": "Democrat Chuck Hubbard unseated Republican Rep. Virginia Foxx in North Carolina's 5th District, a race called Sunday after a recount. Hubbard led by 330 votes with 99 percent counted. Foxx, who has represented the district since 2005, had requested the recount, which state law allows when the margin is under 1 percent, and she conceded Sunday.\n\nThe result brings Democrats to at least 258 House seats against at least 173 for Republicans, with four races still uncalled. That ties the party's 258-seat total from 1992, the last time either party won as many House races. Democrats also secured the Senate in the midterms. Remaining contests include Tennessee's 4th District, where Democrat Victoria Broderick leads by fewer than 300 votes, and Minnesota's 1st, where Democrat Jake Johnson leads by fewer than 500. Two Louisiana races go to a December runoff.\n\nHubbard campaigned on the rising cost of living during the war with Iran, which was a top issue for voters. President Donald Trump and Vice President JD Vance have suggested that war-related inflation was probably to blame for Republican losses. Foxx said she ran on a record of commonsense solutions and conservative values and came up a few votes short.\n\nDemocrats could use their majorities to investigate conflicts of interest and other actions by the president and those close to him, and the Senate can confirm or block cabinet and judicial nominations. They can also pass legislation more easily, though Trump retains final sign-off, and Republicans have only a few weeks left to advance priorities before the new Congress takes over.",
