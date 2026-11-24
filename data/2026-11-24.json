@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-24",
+  "dateFormatted": "Tuesday, November 24, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Update: White House Asks Congress for Billions in Added Funding in Stopgap Spending Bill",
+      "summary": "The White House sent Congress a 12-page list of \"anomalies\" on Monday night, outlining exceptions to current spending levels that it wants included in any stopgap bill lawmakers take up next month to keep federal agencies funded. The request, first reported by Politico, would allow the administration to spend billions of dollars more than current funding levels in certain areas.\n\nThe request lands as lawmakers approach a government funding deadline in early December. House Democratic leader Hakeem Jeffries has declined to rule out a government shutdown to advance his party's agenda, citing the appropriations process before the Dec. 11 deadline. Democrats will take control of the House in January with a large majority, which gives the stopgap negotiations added political weight.\n\nThe anomalies list is a routine tool in short-term funding fights, since continuing resolutions otherwise freeze spending at prior-year levels. How many of the requested increases Congress accepts will shape the scope of the stopgap and how much leverage each party holds. Lawmakers are expected to take up the measure after the Thanksgiving recess, and the details of the White House's priorities are likely to draw scrutiny from both parties.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6238980-white-house-requests-stopgap-funding/",
+      "sourceCount": 24,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:49 AM MT",
+      "addedAtISO": "2026-11-24T03:49:32.535024-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Iran Says No Talks With US Until Its Seven Conditions Are Met",
+      "summary": "Iran said it will not negotiate with the United States on ending the conflict until seven conditions it has set are met, according to Associated Press reporting on Tuesday. The statement hardens Tehran's public position as tensions persist over the U.S. naval blockade of Iranian ports and incidents in the Strait of Hormuz.\n\nQatar's prime minister said he is working to de-escalate tensions between Iran and the United States. Iranian officials have said they would use all available means to end the blockade, which they call an act of military aggression. Iranian Foreign Minister Abbas Araghchi has said the strait could reopen if Washington meets Tehran's demands.\n\nThe Iranian stance follows recent reports that President Trump said he is inclined to strike Iran after the new year if no deal is reached. The U.S. has also been reported to have delayed a possible strike as Israeli Prime Minister Benjamin Netanyahu pressed for a joint offensive. Qatari mediation is now the main visible diplomatic channel, and the open question is whether either side will soften its position before the year-end timeline Trump has signaled.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/mideast-iran-gaza-israel-houthis-libya-november-24-2026-ba01cb036a849ba69873da5000ee08d5",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:49 AM MT",
+      "addedAtISO": "2026-11-24T03:49:32.535024-07:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Appeals Court Moves Trump Hush Money Case Toward Federal Court",
+      "summary": "A federal appeals panel handed President Trump a win on Monday in his effort to overturn his New York hush money conviction, ruling that a lower court wrongly denied his bid to move the case into federal court. The 2nd U.S. Circuit Court of Appeals found that a federal judge erred in concluding Trump had waited too long to raise his presidential immunity defense.\n\nThe decision sends the case to federal court, where Trump could seek dismissal of the charges on immunity grounds. It could also clear the way for him to argue that prosecutors relied on evidence protected by presidential immunity. The ruling is described as his biggest legal victory yet in his efforts to move the case out of New York's state courts.\n\nThe ruling does not by itself erase the conviction, and further proceedings will determine whether the immunity arguments succeed. Supporters of the president have long called the case politically motivated, while critics argue the conviction should stand because it concerned private conduct before he took office. Prosecutors may seek further review of the panel's decision.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6238980-white-house-requests-stopgap-funding/",
+      "sourceCount": 24,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "3:49 AM MT",
+      "addedAtISO": "2026-11-24T03:49:32.535024-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Russian Drone Violates Polish Airspace During Strikes on Ukraine",
+      "summary": "A Russian drone violated Polish airspace late Monday night during Moscow's latest wave of long-range strikes on Ukraine, the Polish military said. The drone briefly strayed into Poland during a nighttime attack on western Ukraine.\n\nThe incident came just days after three Russian missiles crashed in Poland, raising concern among NATO members about spillover from the war. NATO Secretary-General Mark Rutte has warned that Russia's war machine is running at full speed and could threaten Europe long after the fighting in Ukraine ends.\n\nThe airspace violation adds to a widening pattern of incidents along NATO's eastern flank. Russian officials, meanwhile, have issued nuclear warnings, with former President Dmitry Medvedev saying Moscow could consider a preventive nuclear attack in certain circumstances. Poland's response and any NATO consultations will be watched closely.",
+      "source": "Reuters",
+      "url": "https://thehill.com/homenews/administration/6238980-white-house-requests-stopgap-funding/",
+      "sourceCount": 24,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "3:49 AM MT",
+      "addedAtISO": "2026-11-24T03:49:32.535024-07:00",
+      "slot": 5
+    }
+  ]
+}
