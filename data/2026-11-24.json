@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Update: Saudi Forces Reportedly Strike Houthi-Held Hodeida as Houthis Threaten Red Sea Ports; Israeli Defense Minister Says Iran Developing Chemical Weapons",
+      "summary": "Houthi media said early Wednesday local time that Saudi forces launched an attack on the Yemeni port city of Hodeida, including the area's international airport. The Saudi-led coalition, which supports Yemen's internationally recognized government, had instructed civilians in Hodeida to evacuate in a social media post. Al-Masirah reported intense strikes and overflights, and no casualties had been reported so far. Recent strikes on Hodeida killed more than a dozen people, according to Houthi media.\n\nThe Houthis' military spokesman, Yahya Saree, threatened retaliation, saying the port of Jeddah and all other Saudi ports along the Red Sea coast would become targets if the kingdom followed through on threats to bombard Hodeida. He urged civilians to evacuate and called on all shipping companies to remove their vessels from those ports at once. The escalation follows a Houthi attack earlier this week on a financial district tower in Riyadh.\n\nSeparately, the Israeli defense minister said Iran is developing chemical weapons, according to CBS News live coverage of the Iran war. President Trump said Tuesday the United States is taking more oil through the Strait of Hormuz than before the war began, and that oil prices were falling quickly. Brent crude has dropped to its lowest level in some time, according to the report.\n\nThe Red Sea threat raises the risk to global shipping lanes and to energy markets already sensitive to the Iran conflict. The Saudi government had not issued a detailed public account of the operation at the time of reporting.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+      "sourceCount": 2,
+      "disposition": "update",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "8:31 PM MT",
+      "addedAtISO": "2026-11-24T20:31:23.056836-07:00",
+      "slot": 21
+    },
+    {
+      "category": "politics",
+      "headline": "Justice Department Announces Largest Anti-Scam Enforcement Surge in Its History",
+      "summary": "Attorney General Todd Blanche announced Tuesday that federal prosecutors have charged more than 800 defendants and recovered over $8 billion in intended victim losses in the largest anti-scam enforcement surge in Justice Department history. He spoke alongside FBI Director Kash Patel at a Washington news conference. Blanche said the effort follows President Trump's March executive order directing a government-wide crackdown on fraud and predatory schemes.\n\nSince that directive, the department has filed more than 400 criminal cases across 85 federal districts, resulting in charges, extraditions, guilty pleas and prison sentences. Blanche said, \"We are not just going after individual scammers. We are dismantling the criminal networks that have been stealing from the American people for far too long.\" Officials cited schemes ranging from jury-duty extortion run by inmates with contraband phones to Mexico-based timeshare fraud allegedly operated by cartels.\n\nPatel detailed Operation Blackout, an interagency campaign against international fraud syndicates. He said agents and international partners have seized nearly $17 billion in illicit funds, confiscated more than 14,000 digital devices and dismantled 29 scam compounds across four continents. Those compounds, Patel said, operate as self-contained towns where trafficking victims are forced to run online fraud, and more than 2,200 trafficked workers have been freed.\n\nOfficials cited a Gallup study finding that 10 percent of Americans reported that they or a household member fell victim to a scam in 2025, with estimated losses of $68 billion. The figures for intended losses are prosecutors' estimates rather than money returned to victims.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/doj-recovers-8b-charges-more-than-800-suspects-largest-anti-scam-surge-history",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:31 PM MT",
+      "addedAtISO": "2026-11-24T20:31:23.056836-07:00",
+      "slot": 21
+    },
+    {
+      "category": "science_health",
+      "headline": "China Launches Shenzhou 24 Carrying First Foreign Astronaut to Its Space Station",
+      "summary": "China launched the Shenzhou 24 spacecraft on Wednesday carrying two Chinese astronauts and a Pakistani astronaut, the first foreign crew member sent to its Tiangong space station. The craft lifted off from the Jiuquan Satellite Launch Center in northwestern China, separated from its rocket and entered its planned orbit. It is the first joint flight of Chinese and foreign astronauts in the history of China's crewed space program.\n\nThe crew is Muhammad Zeeshan Ali, 40, of Pakistan, and Chinese astronauts Tang Hongbo, 51, and Wu Yi, 39. Tang is set to become the first astronaut to board Tiangong three times. Ali will conduct a photosynthetic cyanobacteria experiment during a short stay and return aboard Shenzhou 23. The crew will carry out more than 90 scientific experiments and technology tests, Xinhua reported.\n\nThe flight stems from a February 2025 agreement between China and Pakistan. Pakistani Prime Minister Shehbaz Sharif said the friendship between the two countries was \"surpassing the heights of the Himalayas in its journey to outer space.\" Ali said he hopes cooperation will grow to multiple joint flights and to the moon and Mars.\n\nThe launch comes as China prepares for a crewed lunar landing by 2030, while NASA aims to land astronauts on the moon in 2028. The United States is widely seen as China's main space rival, and the flight underscores Beijing's effort to build international partnerships in space.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/china-launches-shenzhou-24-spacecraft/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "8:31 PM MT",
+      "addedAtISO": "2026-11-24T20:31:23.056836-07:00",
+      "slot": 21
+    },
+    {
+      "category": "world",
       "headline": "Armed Men Take Hostages at Supermarket in Cartagena, Colombia",
       "summary": "A group of armed men with their faces covered seized an Exito supermarket in the Colombian city of Cartagena on Tuesday and are holding roughly 25 to 30 hostages, Colombian authorities said. The siege is in the La Castellana neighborhood. Footage on social media showed dozens of people rushing out of the store, and local media broadcast images of snipers on nearby buildings in what appeared to be a standoff with police.\n\nPresident Abelardo de la Espriella said the men were \"common criminals\" who fled into the supermarket after a failed attempt to hold up an armored truck. In a statement Tuesday evening, he said five elderly women had been released. No details were given on the remaining hostages or on any negotiations.\n\nThe incident comes as Colombia is experiencing a wave of attacks by rebel groups on government targets, which has recently spread into urban areas. Earlier in the day, a car bomb wounded more than 20 people in Villavicencio, though authorities have not linked the two events. Cartagena, a city of about one million and one of the country's main tourist destinations, temporarily suspended airport operations during the incident. The airport later said operations were slowly returning to normal.\n\nThe standoff was continuing Tuesday evening, and authorities have not said how it might be resolved.",
       "source": "CBS News",
