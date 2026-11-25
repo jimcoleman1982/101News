@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-25",
+  "dateFormatted": "Wednesday, November 25, 2026",
+  "stories": [
+    {
+      "category": "politics",
+      "headline": "Update: Democrats Expand House Majority to 259 Seats With Tennessee Upset",
+      "summary": "Democrat Victoria Broderick, 34, won Tennessee's 4th congressional district, unseating eight-term Republican Rep. Scott DesJarlais. The seat was carried by Donald Trump by more than 20 points in 2024, making it one of the biggest House upsets of the cycle. Her victory lifts Democrats to at least 259 seats in the 120th Congress, the party's largest House majority in three decades.\n\nThe result adds to a broad Democratic showing in the November midterms. Democrats have also clinched the Senate and flipped at least 12 state legislative chambers, according to coverage in the pool. Hakeem Jeffries is expected to become the next speaker of the House.\n\nRepublicans are now debating who should bear responsibility for the losses. Reports describe President Trump's handpicked party chair fending off a challenge from a colleague, while some House Republicans are urging Secretary of State Marco Rubio to consider a 2028 presidential run as a party unifier. Democrats, for their part, are weighing leadership questions of their own, including calls from some in the party for a change at the top of the Senate caucus, and are beginning to size up a wide-open 2028 presidential field.\n\nThe new majority will take office as Congress faces a stopgap spending bill and fights over an energy permitting overhaul, both of which will shape the early agenda. Republican supporters of the president point to the historically difficult midterm environment for the party in power, while Democrats describe the results as a rebuke of Trump's second-term agenda.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/elections/2026/midterm-results/house",
+      "sourceCount": 23,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier1",
+      "addedAt": "5:07 AM MT",
+      "addedAtISO": "2026-11-25T05:07:58.180986-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Merz Warns Russia's War Aims Extend Beyond Ukraine, Pledges Continued Aid",
+      "summary": "German Chancellor Friedrich Merz said Moscow's ambitions reach well beyond Ukraine and pledged that Germany will maintain its military support for Kyiv. His remarks come as the war spreads into new theaters and as NATO members voice growing unease about the conflict's geographic expansion.\n\nUkraine has recently attacked Russian-linked ships in distant waters, including strikes at a Libyan port that Kyiv says sank Russian vessels. Libya's eastern commander Khalifa Haftar, whose forces Russia backs, vowed retaliation for the deaths of his soldiers. He is now making a rare visit to Turkey, a trip that risks complicating Ankara's efforts to reunify the divided North African nation.\n\nSeparately, Poland said it has renewed its push for a permanent US military presence after two Russian airspace incursions in four days. In one, a Swedish fighter jet operating under NATO command was cleared to shoot down a Russian cruise missile but held its fire.\n\nMerz's message is aimed at reinforcing European resolve at a time when allies are weighing the cost of sustained support. Critics of continued aid in some European capitals argue for negotiation, while Berlin and its closest partners contend that a Russian success in Ukraine would embolden further aggression against NATO states.",
+      "source": "Bloomberg Politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/merz-warns-russia-s-war-aims-go-far-beyond-ukraine-vows-aid",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:07 AM MT",
+      "addedAtISO": "2026-11-25T05:07:58.180986-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Update: Colombian Forces Storm Cartagena Supermarket, Free 20 Hostages After 17 Hours",
+      "summary": "Colombian special forces and police stormed a supermarket in a Cartagena shopping mall and freed about 20 shoppers and employees held hostage for roughly 17 hours. One gunman was killed and four were arrested. Police said they used stun grenades to overpower the hostage takers, and nearby residents reported hearing explosions.\n\nThe gunmen entered the building at 8 a.m. Tuesday after a failed attempt to rob an armored car carrying cash. They demanded safe passage, armored vehicles and nearly $2 million. They released 10 hostages earlier in the day, including elderly women, but kept around 20 as a police helicopter hovered overhead.\n\nPresident Abelardo de la Espriella flew to Cartagena to oversee the operation and authorized the assault, calling it an extraordinary joint operation carried out flawlessly. He said the gunmen had no political affiliations and were criminals caught off guard who then took hostages. Authorities reportedly feared some attackers might try to pass themselves off as hostages during the rescue.\n\nThe freed hostages were examined by medical teams and reunited with relatives who had waited for hours outside the security perimeter. The identities of the four arrested suspects have not been released.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:07 AM MT",
+      "addedAtISO": "2026-11-25T05:07:58.180986-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "South African Court Sets Aside Report Behind Ramaphosa Impeachment Threat",
+      "summary": "The Western Cape High Court ruled that a parliamentary panel report finding President Cyril Ramaphosa may have a case to answer over the Phala Phala farm theft was unlawful, setting it aside in its entirety. Judge Nolwazi Mabindla-Boqwana said the panel misconstrued its function and made several material errors of law. The court also declared unlawful the steps parliament took in relation to the report.\n\nThe 2022 report concerned the theft of about $580,000 hidden in a sofa at Ramaphosa's Limpopo game farm in 2020. It cited substantial doubt about the legitimacy of the cash's source. Ramaphosa has denied wrongdoing, saying the money came from a legitimate sale of buffalo, and several earlier investigations cleared him.\n\nThe ruling effectively removes the basis for impeachment proceedings. Those had been revived after the Constitutional Court found in May that parliament acted unconstitutionally by blocking an impeachment inquiry. Earlier this month, two people were found guilty of the theft itself.\n\nOpposition parties have said they intend to challenge the decision, so the matter is likely to return to the courts. The outcome is significant for the stability of Ramaphosa's government.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:07 AM MT",
+      "addedAtISO": "2026-11-25T05:07:58.180986-07:00",
+      "slot": 5
+    }
+  ]
+}
