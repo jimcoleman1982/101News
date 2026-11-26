@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-26",
+  "dateFormatted": "Thursday, November 26, 2026",
+  "stories": [
+    {
+      "category": "business",
+      "headline": "Update: US Formally Announces Proposed Tariffs on China, EU and a Dozen Other Jurisdictions",
+      "summary": "The US Trade Representative on Wednesday formally announced a new round of proposed tariffs on imports from China, the European Union and 12 other jurisdictions, including Japan, South Korea, Taiwan, India, Vietnam and Switzerland. China faces the highest proposed rate, up to 40%, followed by Vietnam at up to 35%, with the others facing 20% or 25%. The USTR published detailed reports on how each jurisdiction's trade practices allegedly affect American commerce.\n\nThe duties are not expected to take effect until next year and must go through public consultation and potentially hearings. Some rates would be effectively reduced by caps on tariffs that Trump previously agreed with individual countries. The White House began investigating foreign trade practices in March after the Supreme Court ruled that Trump's earlier Liberation Day tariffs, imposed under emergency powers, were illegal. The new approach relies on the USTR's authority to address unfair foreign trade practices, which some analysts say rests on a stronger legal foundation.\n\nUSTR Jamieson Greer said the measures would \"level the playing field for American workers and chart a new, more sustainable course for the world economy,\" accusing trading partners of industrial strategies built on wage and labor suppression and other market-distorting practices. Economists warn that tariffs can fuel inflation and raise consumer prices if businesses pass on higher costs, while also dampening global trade. Trump has pressed ahead with the policy despite poor Republican results in the midterm elections, arguing it will boost manufacturing, create jobs and cut the trade deficit. The levies are likely to face legal challenges.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c893r9ke5p97o",
+      "sourceCount": 15,
+      "disposition": "update",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-11-26T05:08:07.420628-07:00",
+      "slot": 5
+    },
+    {
+      "category": "technology",
+      "headline": "FCC Approves SpaceX Plan to Launch One Million Data-Center Satellites",
+      "summary": "The Federal Communications Commission on Wednesday approved SpaceX's plan to launch up to one million satellites to build data centers in orbit, the first approval of its kind. The project, called Starmind, would use solar power to process data for artificial intelligence and relay results to Earth. The satellites would operate in low-Earth orbit at 500 to 2,000 km and communicate through the existing Starlink network of more than 10,000 satellites.\n\nUnder the license, deployment must begin by November 2033, with 10% of satellites in orbit by November 2035 and 50% by November 2038. SpaceX has said it hopes to launch its first Starmind satellite next year. It is unclear whether the full million will be launched or whether SpaceX sought a higher number than it plans to use.\n\nFCC Chairman Brendan Carr said the project \"opens a bold new frontier for the computing infrastructure needed to power America's leadership and growth.\" Elon Musk called it \"a great asset to America and the world.\" Amazon criticized the plan as a \"lofty ambition rather than a real plan,\" and US astronomers said it would significantly undermine the public's ability to observe the night sky. Some experts see space-based computing as a response to growing opposition to terrestrial data centers, which analysts say was a factor in Republican losses in the midterms. Satellite engineer Sir Martin Sweeting called the idea technically feasible but questioned whether it makes sense at scale.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-11-26T05:08:07.420628-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Oil Tanker Sinks Off Ibiza, Killing One Crew Member",
+      "summary": "The Malta-flagged chemical tanker Med Emre sank about 25 nautical miles off Ibiza, carrying up to 7,000 tonnes of diesel. All 17 crew were rescued, but seven were taken to hospitals in Valencia and Ibiza, and one later died. The others reportedly suffered minor injuries such as hypothermia.\n\nRescuers in Valencia received a distress call around 22:30 local time Wednesday, and minutes later the vessel reported a leak and said it was listing at 90 degrees. The ship had been traveling from Algeciras to Barcelona. The cause of the sinking is unclear.\n\nAuthorities are assessing possible environmental damage using an aircraft and Spain's pollution control vessel Clara Campoamor. Balearic Islands President Marga Prohens said there was little information yet about a possible spill. The area's marine environment has been on the Unesco World Heritage List since 1999 and includes dense Posidonia oceanica seagrass meadows. Spain suffered one of its worst environmental disasters in 2002, when the Prestige tanker spilled more than 60,000 tonnes of fuel oil off Galicia.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 5,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-11-26T05:08:07.420628-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Seven Injured, Four Critically, in Bangkok Oil Refinery Explosion",
+      "summary": "An explosion and fire at the Phra Khanong oil refinery in eastern Bangkok injured seven people, four of them critically, local officials said. The facility is run by Bangchak Corporation, and the blast occurred around 14:45 local time. Black smoke was visible across the city's skyline.\n\nThe company said the fire was brought under control and extinguished within 30 minutes, and that the cause is under investigation. Bangkok authorities sent a mobile alert urging residents to avoid the area, and officials told people nearby to leave. The Erawan Emergency Medical Centre said it was treating four \"red\" cases and three less severe \"yellow\" cases.\n\nBangchak shut down production at the site, which can process up to 120,000 barrels a day. The company has a second refinery in Chonburi province with capacity of about 180,000 barrels daily. A previous explosion at the Bangkok refinery in July 2012 caused a fire but no reported injuries.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 6,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "5:08 AM MT",
+      "addedAtISO": "2026-11-26T05:08:07.420628-07:00",
+      "slot": 5
+    }
+  ]
+}
