@@ -4,6 +4,48 @@
   "stories": [
     {
       "category": "world",
+      "headline": "Kenyan Cult Leader Paul Mackenzie Convicted of Manslaughter in 123 More Deaths",
+      "summary": "A court in Mombasa, Kenya, on Friday convicted doomsday cult leader Paul Mackenzie of the manslaughter of 123 followers. He was found guilty of ordering adult followers to fast to death in Shakahola forest between January 2021 and September 2023. The court also convicted 29 others, including his wife, Rhoda Mumbua Maweu, while 60 defendants were acquitted.\n\nEarlier this month Mackenzie was jailed for 200 years for the murder of 191 people, nearly all of them children, in the same mass killing. He was also convicted this week of assault, child cruelty, organised criminal activity and terrorism-related offences. Prosecutors described Friday's verdict as the final conviction in the cases against him, and said children were to die first, then women, then men, with Mackenzie last. Authorities arrested him in 2023 after more than 400 bodies were found in shallow graves.\n\nMackenzie pleaded not guilty, and one of his lawyers said he would appeal after sentencing. The Director of Public Prosecutions indicated it would appeal the acquittals of the 60 defendants. Witnesses testified that he preached against education and medicine and that opponents were beaten to death.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "2:07 PM MT",
+      "addedAtISO": "2026-11-27T14:07:29.000542-07:00",
+      "slot": 14
+    },
+    {
+      "category": "politics",
+      "headline": "Trump to Attend Groundbreaking at Phoenix TSMC Chip Plant Amid Nvidia Turmoil",
+      "summary": "President Trump will tour and deliver remarks at the groundbreaking of a Taiwan Semiconductor Manufacturing Co. facility in Phoenix, a White House official told multiple outlets. The plant will manufacture semiconductors including chips for Nvidia. The visit highlights the administration's push to expand domestic chip production.\n\nThe event comes as Nvidia is in the spotlight over the ouster and reinstatement of CEO Jensen Huang, with Trump pushing for Huang's return. Bloomberg reported that two Chinese firms installed Nvidia's Blackwell chips in a Shanghai data center linked to Alice Huang, the woman whose extramarital affair with Huang is at the center of the controversy. Earlier reporting showed Trump holds millions of dollars in Nvidia stock and has called a pardon for Huang 'always an option'.\n\nSupporters of the administration view domestic chip manufacturing as a strategic and economic priority. Critics, including Democratic strategists, have focused on the president's ties to Nvidia and his involvement in the company's leadership dispute. The exact date and details of the visit were not specified in the reports.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6245480-trump-phoenix-tsmc-nvidia/",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "2:07 PM MT",
+      "addedAtISO": "2026-11-27T14:07:29.000542-07:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
+      "headline": "Trump Backs Iraqi Prime Minister's Push to Put Oil and Weapons Under State Control",
+      "summary": "President Trump on Friday expressed support for Iraqi Prime Minister Ali al-Zaidi's effort to assert state authority across Iraq. In a Truth Social post, Trump said, \"We support Iraqi Prime Minister Ali al-Zaidi's efforts to assert state authority throughout Iraq, stop the smuggling of Iraqi oil, end corruption, and bring all weapons under the exclusive control of the state.\"\n\nThe endorsement centers on an anti-corruption campaign that includes consolidating the country's oil and weapons under government control. Bringing arms under exclusive state control would bear on armed factions operating outside official command, a sensitive issue as the United States is engaged in a war with Iran.\n\nThe statement is a notable foreign-policy signal from Washington about its preferred direction for Baghdad. Al Jazeera and the Washington Examiner both covered it. Details of any concrete US assistance or Iraqi implementation steps were not provided.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4816513/trump-iraq-prime-minister-oil-state-control/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "2:07 PM MT",
+      "addedAtISO": "2026-11-27T14:07:29.000542-07:00",
+      "slot": 14
+    },
+    {
+      "category": "world",
       "headline": "Canada's Supreme Court Upholds Quebec Ban on Religious Symbols for Public Servants",
       "summary": "Canada's Supreme Court on Friday upheld a Quebec law that bars public servants from wearing religious symbols at work. The ban applies to teachers and police officers, among others, and covers items such as hijabs and turbans. It remains in place following the ruling.\n\nThe law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers. They argued it violated their fundamental rights. Civil liberties groups say the law is discriminatory and disproportionately targets Muslim women, and the decision is expected to upset them.\n\nSupporters of the law in Quebec have defended it as an expression of the province's secular character and of its authority to set rules for public institutions. The ruling is seen as a test of Canadian unity, since it bears on the balance between provincial powers and individual rights protected under the national constitution.\n\nThe decision ends a lengthy legal fight over one of the most contested pieces of legislation in recent Canadian politics. It leaves the ban in force for public-sector workers across the province and is likely to shape debate over religious freedom and secularism in Canada.",
       "source": "Reuters",
