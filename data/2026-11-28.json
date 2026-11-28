@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-28",
+  "dateFormatted": "Saturday, November 28, 2026",
+  "stories": [
+    {
+      "category": "world",
+      "headline": "Explosion Near School in Eastern Afghanistan Kills 10 Students, Injures More Than 100",
+      "summary": "At least 10 students were killed and about 110 others injured in an explosion near a school in Asadabad, the capital of Kunar province in eastern Afghanistan, on Saturday morning. A spokesperson for the Taliban government's interior ministry confirmed the toll to the BBC. The blast occurred in the Anderseir area of the city.\n\nInterior ministry spokesperson Abdul Mateen Qani said on X that initial investigations pointed to \"negligence and carelessness\" at an explosives depot belonging to nearby mining companies. He said an investigation was ongoing. The cause has not been independently verified.\n\nFootage shared on social media showed wounded children being carried from cars into the emergency department of a hospital in Asadabad as a large crowd watched. Photos from inside the hospital showed children lying side by side in beds, many with bandaged heads.\n\nMining is a major industry in Afghanistan, but safety standards are often poor and accidents are common. The death toll could rise given the number of injured, and questions are likely to center on how an explosives depot came to be sited close to a school and who will be held responsible.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "sourceCount": 3,
+      "disposition": "new",
+      "breaking": true,
+      "importance": "tier1",
+      "addedAt": "4:36 AM MT",
+      "addedAtISO": "2026-11-28T04:36:53.710331-07:00",
+      "slot": 5
+    },
+    {
+      "category": "politics",
+      "headline": "Texas Attorney General-Elect Says He Will Not Defend State's Ten Commandments Classroom Law",
+      "summary": "Texas Attorney General-elect Nathan Johnson, a Democrat, said he will not defend a state law requiring public schools to display the Ten Commandments in classrooms once he takes office in January. Johnson told The Dallas Morning News that in his legal opinion the law is unconstitutional.\n\nJohnson said, \"The court will have the ultimate say\" on the question, indicating he expects the matter to be decided in the judiciary. The law directs displays in every public school classroom in the state. His position marks a sharp break from the current approach of the attorney general's office, which has defended the measure against legal challenges.\n\nSupporters of the law, largely Republicans and conservative religious groups, argue the Commandments have historical significance in American law and that classroom displays are permissible. Opponents, including civil liberties groups and many Democrats, argue that mandated displays violate the First Amendment's prohibition on government establishment of religion.\n\nIt is unclear who would defend the law if the attorney general declines, and whether the state legislature or outside parties might intervene in pending litigation. The decision is likely to draw scrutiny when Johnson is sworn in, and the legal fight is expected to continue in the courts.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/state-watch/6245846-texas-ag-johnson-ten-commandments/",
+      "sourceCount": 2,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:36 AM MT",
+      "addedAtISO": "2026-11-28T04:36:53.710331-07:00",
+      "slot": 5
+    },
+    {
+      "category": "world",
+      "headline": "Israel Left Without Clear Path to a New Government as Netanyahu Seeks End to Trial",
+      "summary": "With more than 90 percent of votes counted in Israel's election, BBC analysis says all signs point to an impasse, and the most likely outcome may be new elections. Writer James Landale described the vote as a celebration of democracy in some ways, but one that has left Israel with no clear path to forming a government.\n\nSeparately, Prime Minister Benjamin Netanyahu said his corruption trial should end after judges indicated there was little chance of conviction in one of the three cases against him. The remarks add a legal dimension to the political uncertainty, as coalition-building talks begin without an obvious majority for any bloc.\n\nThe election comes amid regional turmoil. Israel continues near-daily strikes in Gaza against what it says are Hamas targets, including a recent strike that killed Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, along with his wife and two teenage daughters, according to doctors. Critics, including the World Health Organization in a separate case, have condemned some of the strikes, while the Israeli military says it targets Hamas operatives.\n\nIf no coalition can be assembled, Israel would face another round of voting, prolonging political instability during ongoing regional conflict. Netanyahu's supporters say the judges' remarks vindicate his long-standing position, while critics say the legal process should run its course.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "sourceCount": 1,
+      "disposition": "new",
+      "breaking": false,
+      "importance": "tier2",
+      "addedAt": "4:36 AM MT",
+      "addedAtISO": "2026-11-28T04:36:53.710331-07:00",
+      "slot": 5
+    }
+  ]
+}
